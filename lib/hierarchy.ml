@@ -9,7 +9,7 @@ let rec build_hierarchy_helper (root : string) parent_mp=
   let rec explore_children list mp=
   match list with
   | [] -> mp
-  | ((Osm_xml.Types.OSMId child) ,Osm_xml.Types.OSMRelation _)::xs -> explore_children xs (build_hierarchy_helper child (Map.set mp ~key:child ~data:root)) in
+  | (Osm_xml.Types.OSMId child ,Osm_xml.Types.OSMRelation _)::xs -> explore_children xs (build_hierarchy_helper child (Map.set mp ~key:child ~data:root)) in
   explore_children relations parent_mp
 
 let build_hierarchy (root : string) = 

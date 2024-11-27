@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
+<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-11-27T09:07:44Z" areas="2024-11-27T05:49:14Z"/>
 
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
+  <way id="1221874456" version="2" timestamp="2024-07-11T20:45:18Z" changeset="153829343" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="634898753"/>
+    <nd ref="11332035800"/>
+    <nd ref="11332035799"/>
+    <nd ref="11332035798"/>
+    <nd ref="12048031047"/>
+    <nd ref="634898753"/>
+    <tag k="addr:street" v="Main Road"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Parson Drove Village Hall"/>
+  </way>
 
-</body>
-</html>
+</osm>

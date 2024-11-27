@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
+<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2024-11-27T09:07:44Z" areas="2024-11-27T05:49:14Z"/>
 
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
+  <way id="685011752" version="4" timestamp="2024-08-20T19:27:01Z" changeset="155526402" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="6418514074"/>
+    <nd ref="6418514073"/>
+    <nd ref="6418514072"/>
+    <nd ref="6418514071"/>
+    <nd ref="6418514070"/>
+    <nd ref="6418514069"/>
+    <nd ref="6418514068"/>
+    <nd ref="6418514067"/>
+    <nd ref="6418514074"/>
+    <tag k="addr:city" v="Peterborough"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE7 1DB"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:suburb" v="Whittlesey"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="salvation_army"/>
+    <tag k="email" v="whittlesey@salvationarmy.org.uk"/>
+    <tag k="name" v="Whittlesey Salvation Army"/>
+    <tag k="phone" v="+44 1733 350639"/>
+    <tag k="religion" v="christian"/>
+    <tag k="website" v="https://www.salvationarmy.org.uk/whittlesey"/>
+  </way>
 
-</body>
-</html>
+</osm>
