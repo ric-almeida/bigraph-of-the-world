@@ -17,7 +17,7 @@ let rec download (uri : Uri.t) (dest : string) =
   | `OK -> let stream = Body.to_stream body in
   Lwt_io.with_file ~mode:Lwt_io.output dest (fun chan ->
       Lwt_stream.iter_s (Lwt_io.write chan) stream)
-  | _ -> print_endline "Retrying download"; download uri dest
+  | _ -> print_endline ("Retrying download for "^dest); download uri dest
   
 (** downloads osm file of all buildings in area defined by query_relation*)
 let queryBuildings (admin_level : string) (query_relation : string) (name :string)=
