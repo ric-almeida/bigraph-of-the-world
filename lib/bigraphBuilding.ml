@@ -48,8 +48,8 @@ let street_to_buildings town =
             match street with
             | None -> raise (TagNotFound building)
             | Some street -> explore_children xs (StringListMap.update result_mp street ~f:(function
-            | None -> [name]  (* If the key doesn't exist, create a new list with the value *)
-            | Some values -> (name :: values)  (* If it exists, prepend the new value to the list *)
+            | None -> [building^"-"^name]  (* If the key doesn't exist, create a new list with the value *)
+            | Some values -> ((building^"-"^name) :: values)  (* If it exists, prepend the new value to the list *)
          )) in
    explore_children relations StringListMap.empty
 
