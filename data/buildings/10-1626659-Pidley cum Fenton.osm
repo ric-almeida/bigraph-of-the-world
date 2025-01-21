@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:59:59Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:21:20Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="243493351" lat="52.3940800" lon="-0.0296772" version="4" timestamp="2024-05-23T09:36:42Z" changeset="151713191" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 3DF"/>
+    <tag k="addr:street" v="Fenn Road"/>
+    <tag k="addr:suburb" v="Pidley"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Lakeside Lodge"/>
+    <tag k="sport" v="golf"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.lakeside-lodge.co.uk"/>
+  </node>
+  <way id="35390173" version="6" timestamp="2024-05-23T09:31:14Z" changeset="151712992" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="415001441"/>
+    <nd ref="415001442"/>
+    <nd ref="9023904675"/>
+    <nd ref="7904355576"/>
+    <nd ref="415001443"/>
+    <nd ref="9023904661"/>
+    <nd ref="7904349751"/>
+    <nd ref="415000280"/>
+    <nd ref="4380632380"/>
+    <nd ref="4380632433"/>
+    <nd ref="4380632467"/>
+    <nd ref="4380632469"/>
+    <nd ref="4380632470"/>
+    <nd ref="4380632468"/>
+    <nd ref="415001441"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="The Heath"/>
+    <tag k="addr:postcode" v="PE28 3BT"/>
+    <tag k="addr:street" v="St. Ives Road"/>
+    <tag k="addr:suburb" v="Woodhurst"/>
+    <tag k="name" v="The Raptor Foundation"/>
+    <tag k="phone" v="+44 1487 741140"/>
+    <tag k="tourism" v="zoo"/>
+    <tag k="website" v="https://raptorfoundation.org.uk/"/>
+  </way>
   <way id="181492820" version="5" timestamp="2022-07-21T18:27:24Z" changeset="123904648" uid="13385567" user="Brigantian">
     <nd ref="1919095559"/>
     <nd ref="1919095562"/>
@@ -28,6 +67,47 @@
     <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>
     <tag k="name" v="The Grain Store"/>
+  </way>
+  <way id="1200000222" version="3" timestamp="2024-03-31T16:35:27Z" changeset="149398757" uid="11022773" user="GeoFens">
+    <nd ref="1889726993"/>
+    <nd ref="11128774055"/>
+    <nd ref="11128774056"/>
+    <nd ref="11128774057"/>
+    <nd ref="11128774058"/>
+    <nd ref="11128774059"/>
+    <nd ref="11128774060"/>
+    <nd ref="11128774061"/>
+    <nd ref="11128774062"/>
+    <nd ref="11128774063"/>
+    <nd ref="11775616749"/>
+    <nd ref="11775616748"/>
+    <nd ref="11128773345"/>
+    <nd ref="11128773344"/>
+    <nd ref="11775616746"/>
+    <nd ref="11775616747"/>
+    <nd ref="11775616745"/>
+    <nd ref="11775616744"/>
+    <nd ref="11128774065"/>
+    <nd ref="11775616764"/>
+    <nd ref="1889726986"/>
+    <nd ref="11775616767"/>
+    <nd ref="11775616766"/>
+    <nd ref="1889727084"/>
+    <nd ref="1889726985"/>
+    <nd ref="1889727095"/>
+    <nd ref="1889727052"/>
+    <nd ref="1889727009"/>
+    <nd ref="1889726991"/>
+    <nd ref="1889727065"/>
+    <nd ref="1889727146"/>
+    <nd ref="1889726993"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:place" v="Rookery Farm"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="addr:town" v="Pidley"/>
+    <tag k="leisure" v="fishing"/>
+    <tag k="name" v="Rookery Waters"/>
+    <tag k="website" v="https://www.rookerywaters.co.uk"/>
   </way>
 
 </osm>

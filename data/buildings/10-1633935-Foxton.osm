@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:17:16Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:30:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="7593603055" lat="52.1237650" lon="0.0442457" version="1" timestamp="2020-06-04T21:37:03Z" changeset="86210575" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB22 7RN"/>
+    <tag k="addr:street" v="Foxton Road"/>
+    <tag k="addr:village" v="Barrington"/>
+    <tag k="leisure" v="horse_riding"/>
+    <tag k="name" v="South Cambridgeshire Equestrian Centre"/>
+    <tag k="website" v="https://www.scec.co.uk/"/>
+  </node>
   <way id="44006241" version="4" timestamp="2019-02-04T10:42:27Z" changeset="66899076" uid="5173844" user="ndrw6">
     <nd ref="559554296"/>
     <nd ref="559554300"/>
@@ -29,6 +38,29 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Reed Autos"/>
     <tag k="shop" v="car_repair"/>
+  </way>
+  <way id="951418106" version="1" timestamp="2021-06-05T09:33:29Z" changeset="105874316" uid="281267" user="smb1001">
+    <nd ref="1827365685"/>
+    <nd ref="8806513227"/>
+    <nd ref="8806513225"/>
+    <nd ref="1827365669"/>
+    <nd ref="1827365664"/>
+    <nd ref="1827365679"/>
+    <nd ref="1827365680"/>
+    <nd ref="1827365670"/>
+    <nd ref="1828896918"/>
+    <nd ref="1828896913"/>
+    <nd ref="8806513229"/>
+    <nd ref="1827365673"/>
+    <nd ref="8806513224"/>
+    <nd ref="1827365685"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB22 6SE"/>
+    <tag k="addr:street" v="Royston Road"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Reed Autos"/>
+    <tag k="shop" v="car"/>
+    <tag k="website" v="https://www.reedautos.com"/>
   </way>
 
 </osm>

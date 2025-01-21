@@ -1,8 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:11:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:25:27Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="6325777274" lat="52.2950503" lon="-0.0026177" version="6" timestamp="2024-08-28T13:04:31Z" changeset="155879632" uid="21425661" user="CjMalone">
+    <tag k="addr:housename" v="Londis"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="CB24 4RW"/>
+    <tag k="addr:street" v="Middle Watch"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="name" v="Swavesey Post Office"/>
+    <tag k="operator" v="Londis"/>
+    <tag k="ref:pol_id" v="134460"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/2731134/swavesey"/>
+  </node>
+  <node id="12031821591" lat="52.3014605" lon="-0.0045454" version="1" timestamp="2024-07-03T19:10:58Z" changeset="153516118" uid="116410" user="Leonardozwei">
+    <tag k="addr:city" v="Swavesey"/>
+    <tag k="addr:housenumber" v="2a"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="contact:phone" v="+44 1954 231445"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="name" v="La'Mac"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <way id="13873413" version="17" timestamp="2024-02-29T17:22:42Z" changeset="148063243" uid="5173844" user="ndrw6">
+    <nd ref="130255447"/>
+    <nd ref="130255446"/>
+    <nd ref="11677473008"/>
+    <nd ref="11677473009"/>
+    <nd ref="11677473011"/>
+    <nd ref="11677473010"/>
+    <nd ref="11677473007"/>
+    <nd ref="2205038518"/>
+    <nd ref="2205038519"/>
+    <nd ref="130255441"/>
+    <nd ref="130255440"/>
+    <nd ref="2205034118"/>
+    <nd ref="2205034134"/>
+    <nd ref="4487018220"/>
+    <nd ref="2205034128"/>
+    <nd ref="2205036328"/>
+    <nd ref="2205034131"/>
+    <nd ref="2205034121"/>
+    <nd ref="2205034129"/>
+    <nd ref="2205034130"/>
+    <nd ref="2339189445"/>
+    <nd ref="2205034136"/>
+    <nd ref="2205034133"/>
+    <nd ref="130255443"/>
+    <nd ref="728856614"/>
+    <nd ref="7620698706"/>
+    <nd ref="11677365942"/>
+    <nd ref="2205034127"/>
+    <nd ref="130255442"/>
+    <nd ref="7620698704"/>
+    <nd ref="2205038520"/>
+    <nd ref="11677365943"/>
+    <nd ref="130255436"/>
+    <nd ref="130255437"/>
+    <nd ref="130255438"/>
+    <nd ref="130255439"/>
+    <nd ref="130255447"/>
+    <tag k="addr:postcode" v="CB24 4RS"/>
+    <tag k="addr:street" v="Gibraltar Lane"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="1200"/>
+    <tag k="isced:level" v="2"/>
+    <tag k="max_age" v="16"/>
+    <tag k="min_age" v="11"/>
+    <tag k="name" v="Swavesey Village College"/>
+    <tag k="phone" v="+44 1954 230366"/>
+    <tag k="ref:GB:uprn" v="10003186589"/>
+    <tag k="ref:edubase" v="136580"/>
+    <tag k="ref:edubase:group" v="2526"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Meridian Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.swaveseyvc.co.uk/"/>
+    <tag k="wikidata" v="Q7654065"/>
+  </way>
+  <way id="13873530" version="11" timestamp="2023-08-12T12:03:36Z" changeset="139785026" uid="242345" user="confusedbuffalo">
+    <nd ref="130255514"/>
+    <nd ref="1509376568"/>
+    <nd ref="1509376693"/>
+    <nd ref="1509376729"/>
+    <nd ref="2704682266"/>
+    <nd ref="130255515"/>
+    <nd ref="130255464"/>
+    <nd ref="1509376639"/>
+    <nd ref="1741863202"/>
+    <nd ref="130255516"/>
+    <nd ref="728856669"/>
+    <nd ref="1509376653"/>
+    <nd ref="130255517"/>
+    <nd ref="130255514"/>
+    <tag k="addr:postcode" v="CB24 4RN"/>
+    <tag k="addr:street" v="Middle Watch"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="307"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="5"/>
+    <tag k="name" v="Swavesey Primary School"/>
+    <tag k="phone" v="+44 1954 273312"/>
+    <tag k="ref:GB:uprn" v="100091611297"/>
+    <tag k="ref:edubase" v="110620"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://www.swavesey.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q66223507"/>
+  </way>
   <way id="137621509" version="4" timestamp="2021-03-08T13:11:18Z" changeset="100640337" uid="5173844" user="ndrw6">
     <nd ref="1509376806"/>
     <nd ref="1509376907"/>
@@ -82,6 +192,27 @@
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Swavesey Surgery"/>
     <tag k="website" v="https://www.nhs.uk/ServiceDirectories/Pages/GP.aspx?pid=796AEDE4-6791-44E4-83E0-5F4D035792C2"/>
+  </way>
+  <way id="225094841" version="3" timestamp="2022-05-11T19:33:38Z" changeset="120855576" uid="1102246" user="jtn20">
+    <nd ref="2339196055"/>
+    <nd ref="3450272401"/>
+    <nd ref="2339196047"/>
+    <nd ref="2339196043"/>
+    <nd ref="2339196045"/>
+    <nd ref="3450271292"/>
+    <nd ref="2339196037"/>
+    <nd ref="2339196017"/>
+    <nd ref="2339196049"/>
+    <nd ref="3450272397"/>
+    <nd ref="3450271291"/>
+    <nd ref="2339196051"/>
+    <nd ref="2339196059"/>
+    <nd ref="2339196055"/>
+    <tag k="addr:city" v="Swavesey"/>
+    <tag k="addr:postcode" v="CB24 4RB"/>
+    <tag k="addr:street" v="Rose and Crown Road"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Scotland Drove Mobile Park"/>
   </way>
   <way id="417560087" version="2" timestamp="2024-11-03T18:47:34Z" changeset="158712230" uid="4910264" user="Black Tusk">
     <nd ref="4180934102"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:10:13Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:25:27Z" areas="2024-12-31T00:49:33Z"/>
 
   <way id="191979994" version="5" timestamp="2024-04-28T13:11:05Z" changeset="150618033" uid="281267" user="smb1001">
     <nd ref="2025446055"/>
@@ -32,6 +32,57 @@
     <tag k="building" v="public"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Waresley Village Hall"/>
+  </way>
+  <way id="639437537" version="3" timestamp="2018-11-16T17:33:07Z" changeset="64575764" uid="281267" user="smb1001">
+    <nd ref="6025251849"/>
+    <nd ref="6025251850"/>
+    <nd ref="6025251810"/>
+    <nd ref="6066749660"/>
+    <nd ref="6025251832"/>
+    <nd ref="6066749656"/>
+    <nd ref="6025251829"/>
+    <nd ref="6025251798"/>
+    <nd ref="6025251855"/>
+    <nd ref="6061033716"/>
+    <nd ref="6061033734"/>
+    <nd ref="1345024768"/>
+    <nd ref="309286182"/>
+    <nd ref="6025251815"/>
+    <nd ref="6025251849"/>
+    <tag k="addr:postcode" v="SG19 3DB"/>
+    <tag k="addr:street" v="Gamlingay Road"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Waresley Park Garden Centre"/>
+    <tag k="shop" v="garden_centre"/>
+    <tag k="website" v="https://www.waresley.co.uk/"/>
+  </way>
+  <way id="639683045" version="2" timestamp="2018-11-15T14:31:28Z" changeset="64531425" uid="281267" user="smb1001">
+    <nd ref="6027213666"/>
+    <nd ref="6027213663"/>
+    <nd ref="6027213651"/>
+    <nd ref="6063760265"/>
+    <nd ref="4151609326"/>
+    <nd ref="4151609327"/>
+    <nd ref="6027213666"/>
+    <tag k="addr:city" v="Sandy"/>
+    <tag k="addr:postcode" v="SG19 3DA"/>
+    <tag k="addr:street" v="Vicarage Road"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Wood Farm"/>
+  </way>
+  <way id="644918723" version="2" timestamp="2018-11-19T10:57:11Z" changeset="64650532" uid="281267" user="smb1001">
+    <nd ref="309286217"/>
+    <nd ref="6025275782"/>
+    <nd ref="309286223"/>
+    <nd ref="6025280260"/>
+    <nd ref="6063745867"/>
+    <nd ref="6063746511"/>
+    <nd ref="1345024765"/>
+    <nd ref="309286217"/>
+    <tag k="addr:postcode" v="SG19 3DA"/>
+    <tag k="addr:street" v="Vicarage Road"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Chase Farm"/>
   </way>
 
 </osm>

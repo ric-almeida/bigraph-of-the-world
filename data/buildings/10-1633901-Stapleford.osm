@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:17:16Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:30:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="600580280" lat="52.1446212" lon="0.1467154" version="13" timestamp="2024-08-26T19:31:14Z" changeset="155799544" uid="21425661" user="CjMalone">
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="brand" v="Travis Perkins"/>
+    <tag k="brand:wikidata" v="Q2450664"/>
+    <tag k="brand:wikipedia" v="en:Travis Perkins"/>
+    <tag k="check_date" v="2024-08-26"/>
+    <tag k="check_date:opening_hours" v="2024-08-26"/>
+    <tag k="description" v="Builders merchant"/>
+    <tag k="name" v="Travis Perkins"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="website" v="https://www.travisperkins.co.uk/branch-locator/9155"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2052048869" lat="52.1453666" lon="0.1443573" version="2" timestamp="2014-08-03T11:15:16Z" changeset="24513557" uid="1431737" user="ma-rt-in">
+    <tag k="addr:street" v="Dolphin Way"/>
+    <tag k="name" v="Hairforce-1"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="source" v="survey"/>
+  </node>
   <node id="4286116237" lat="52.1478783" lon="0.1468418" version="1" timestamp="2016-07-06T14:29:31Z" changeset="40522492" uid="4217847" user="ccablechandler">
     <tag k="addr:housename" v="The Lodge"/>
     <tag k="addr:housenumber" v="26"/>
@@ -11,6 +31,140 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="The Lodge"/>
   </node>
+  <node id="12055474528" lat="52.1426691" lon="0.1551872" version="1" timestamp="2024-07-15T14:58:31Z" changeset="153976622" uid="10554793" user="dstansby">
+    <tag k="addr:city" v="Stapleford"/>
+    <tag k="addr:housename" v="Stapleford Granary"/>
+    <tag k="addr:postcode" v="CB22 5BP"/>
+    <tag k="addr:street" v="Bury Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Stapleford Granary"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+4401223849004"/>
+    <tag k="website" v="https://www.staplefordgranary.org.uk/stapleford-granary-cafe"/>
+  </node>
+  <way id="26497076" version="19" timestamp="2024-03-22T16:15:53Z" changeset="149021012" uid="742701" user="kerr smith">
+    <nd ref="290409139"/>
+    <nd ref="11753322050"/>
+    <nd ref="11753322051"/>
+    <nd ref="290409140"/>
+    <nd ref="290409141"/>
+    <nd ref="290409142"/>
+    <nd ref="11753322058"/>
+    <nd ref="11753322059"/>
+    <nd ref="11753322064"/>
+    <nd ref="287889431"/>
+    <nd ref="11753322062"/>
+    <nd ref="11753322061"/>
+    <nd ref="287889432"/>
+    <nd ref="11753322069"/>
+    <nd ref="290409144"/>
+    <nd ref="11753241740"/>
+    <nd ref="11753241741"/>
+    <nd ref="290409146"/>
+    <nd ref="290409147"/>
+    <nd ref="290409148"/>
+    <nd ref="290409150"/>
+    <nd ref="290409151"/>
+    <nd ref="11753241731"/>
+    <nd ref="290409152"/>
+    <nd ref="2616165794"/>
+    <nd ref="290409153"/>
+    <nd ref="290409154"/>
+    <nd ref="2616165291"/>
+    <nd ref="2616165728"/>
+    <nd ref="2616165546"/>
+    <nd ref="2616165852"/>
+    <nd ref="2616165423"/>
+    <nd ref="2616165650"/>
+    <nd ref="26530841"/>
+    <nd ref="2616165730"/>
+    <nd ref="2616165799"/>
+    <nd ref="26530840"/>
+    <nd ref="291782534"/>
+    <nd ref="290409161"/>
+    <nd ref="2616165488"/>
+    <nd ref="290409162"/>
+    <nd ref="291784699"/>
+    <nd ref="290409164"/>
+    <nd ref="292160773"/>
+    <nd ref="290409166"/>
+    <nd ref="292160770"/>
+    <nd ref="290409167"/>
+    <nd ref="321806662"/>
+    <nd ref="321806663"/>
+    <nd ref="8221227475"/>
+    <nd ref="8221227474"/>
+    <nd ref="8221227473"/>
+    <nd ref="8221227472"/>
+    <nd ref="8221227471"/>
+    <nd ref="290409169"/>
+    <nd ref="321806664"/>
+    <nd ref="321806665"/>
+    <nd ref="321806667"/>
+    <nd ref="2616165353"/>
+    <nd ref="2616165369"/>
+    <nd ref="2616165835"/>
+    <nd ref="290409170"/>
+    <nd ref="2616165721"/>
+    <nd ref="2616157660"/>
+    <nd ref="290409172"/>
+    <nd ref="2616157844"/>
+    <nd ref="290409173"/>
+    <nd ref="290409175"/>
+    <nd ref="290409139"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB22 3AB"/>
+    <tag k="addr:street" v="Shelford Bottom"/>
+    <tag k="description" v="18 hole Par Old Course &amp; 18 hole Par 72 Wandlebury Course"/>
+    <tag k="golf:course" v="36_hole"/>
+    <tag k="golf:par" v="70 + 72"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="Gog Magog Golf Club"/>
+    <tag k="phone" v="+44 1223 247626;+44 1223 415391"/>
+    <tag k="website" v="https://www.gogmagog.co.uk/"/>
+    <tag k="wikidata" v="Q5577292"/>
+  </way>
+  <way id="34140620" version="13" timestamp="2024-08-14T08:32:53Z" changeset="155228045" uid="10554793" user="dstansby">
+    <nd ref="391470600"/>
+    <nd ref="12109884173"/>
+    <nd ref="12109884172"/>
+    <nd ref="391470601"/>
+    <nd ref="11234793482"/>
+    <nd ref="429921189"/>
+    <nd ref="391471110"/>
+    <nd ref="391471111"/>
+    <nd ref="391470447"/>
+    <nd ref="391470446"/>
+    <nd ref="391470445"/>
+    <nd ref="443710986"/>
+    <nd ref="391470604"/>
+    <nd ref="391470600"/>
+    <tag k="addr:city" v="Stapleford"/>
+    <tag k="addr:postcode" v="CB22 5BJ"/>
+    <tag k="addr:street" v="Bar Lane"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="240"/>
+    <tag k="isced:level" v="0;1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="2"/>
+    <tag k="name" v="Stapleford Community Primary School"/>
+    <tag k="phone" v="+44 1223 508720"/>
+    <tag k="ref:GB:uprn" v="10003198113"/>
+    <tag k="ref:edubase" v="145424"/>
+    <tag k="ref:edubase:group" v="16031"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Anglian Learning"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.staplefordprimaryschool.org/"/>
+    <tag k="wikidata" v="Q66232402"/>
+  </way>
   <way id="218983710" version="4" timestamp="2023-10-09T09:30:25Z" changeset="142340787" uid="10554793" user="dstansby">
     <nd ref="2281901120"/>
     <nd ref="2281901170"/>

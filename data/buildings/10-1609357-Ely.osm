@@ -1,8 +1,2718 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:49:51Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:17:13Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="29042565" lat="52.3989634" lon="0.2587933" version="18" timestamp="2023-12-22T15:37:40Z" changeset="145411179" uid="19332" user="Colin Watson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="CB7 4EY"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Domino's"/>
+    <tag k="brand:wikidata" v="Q839466"/>
+    <tag k="brand:wikipedia" v="en:Domino's Pizza"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="336349"/>
+    <tag k="name" v="Domino's"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+    <tag k="source" v="local knowledge"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.dominos.co.uk/pizza-near-me/ely/52-54-st-marys-street"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="29864943" lat="52.4003908" lon="0.2637232" version="8" timestamp="2023-01-11T17:04:16Z" changeset="131154899" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="60-64"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="336544"/>
+    <tag k="name" v="Town House"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="29864948" lat="52.3996943" lon="0.2666131" version="10" timestamp="2024-01-19T12:40:50Z" changeset="146442450" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4ZH"/>
+    <tag k="addr:street" v="The Cloisters"/>
+    <tag k="amenity" v="library"/>
+    <tag k="check_date" v="2024-01-19"/>
+    <tag k="name" v="Ely Library"/>
+    <tag k="opening_hours" v="Mo 09:30-13:00; Tu-We,Fr 09:30-17:00; Th 09:30-19:00; Sa 09:30-16:00; Su off"/>
+    <tag k="website" v="https://www.cambridgeshire.gov.uk/directory/listings/ely-library"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q55163439"/>
+  </node>
+  <node id="29865323" lat="52.4032241" lon="0.2709067" version="8" timestamp="2023-12-07T20:51:47Z" changeset="144880362" uid="6816132" user="CjMalone">
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="CB7 4PW"/>
+    <tag k="addr:street" v="New Barns Road"/>
+    <tag k="brand" v="Premier"/>
+    <tag k="brand:wikidata" v="Q7240340"/>
+    <tag k="fhrs:id" v="1663774"/>
+    <tag k="name" v="New Barns Convenience Store"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.premier-stores.co.uk/our-stores/new-barns-convenience-store"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="29865324" lat="52.4028250" lon="0.2703878" version="3" timestamp="2019-03-06T19:34:49Z" changeset="67856444" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="CB7 4PW"/>
+    <tag k="addr:street" v="New Barns Road"/>
+    <tag k="fhrs:id" v="951631"/>
+    <tag k="name" v="Castle Lodge Hotel"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="29865332" lat="52.4013269" lon="0.2681699" version="7" timestamp="2024-07-12T08:09:20Z" changeset="153843478" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB7 4PN"/>
+    <tag k="addr:street" v="New Barns Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger;fish_and_chips;kebab"/>
+    <tag k="diet:vegetarian" v="limited"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="1092781"/>
+    <tag k="name" v="Ely King"/>
+    <tag k="opening_hours" v="Mo-Su,PH 12:00-23:00"/>
+    <tag k="phone" v="+44 1353 663513"/>
+    <tag k="website" v="https://elyking.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="29865333" lat="52.4010580" lon="0.2675750" version="5" timestamp="2019-03-06T19:34:49Z" changeset="67856444" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4PE"/>
+    <tag k="addr:street" v="Newnham Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="632958"/>
+    <tag k="name" v="Bar 62"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="29865349" lat="52.4005019" lon="0.2630308" version="6" timestamp="2023-02-07T11:00:34Z" changeset="132199563" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="The Old Goal"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Ely Museum"/>
+    <tag k="note" v="Closed Mondays (except Bank Holidays)"/>
+    <tag k="opening_hours" v="Tu-Sa 10:30-17:00; Su 12:00-17:00"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.elymuseum.org.uk/"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q111902202"/>
+  </node>
+  <node id="29865361" lat="52.3967388" lon="0.2673718" version="10" timestamp="2024-08-31T09:22:51Z" changeset="156005418" uid="1868422" user="falcon2">
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="CB7 4AH"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="745637"/>
+    <tag k="name" v="Fortune Garden"/>
+    <tag k="phone" v="+44 1353 668220"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="601595236" lat="52.3993953" lon="0.2634113" version="12" timestamp="2024-03-26T12:47:20Z" changeset="149176074" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="12-14"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="Prezzo"/>
+    <tag k="brand:wikidata" v="Q7242489"/>
+    <tag k="brand:wikipedia" v="en:Prezzo (restaurant)"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="fhrs:id" v="336163"/>
+    <tag k="fixme" v="Is this still here? (website redirecting to generic page)"/>
+    <tag k="name" v="Prezzo"/>
+    <tag k="not:addr:postcode" v="CB7 4JZ"/>
+    <tag k="opening_hours" v="Mo-Th 12:00-22:00; Fr-Sa 11:30-22:30; Su 11:30-21:30"/>
+    <tag k="payment:cash" v="no"/>
+    <tag k="phone" v="+44 1353 659832"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="601595239" lat="52.3993042" lon="0.2650371" version="14" timestamp="2023-10-19T14:00:33Z" changeset="142817683" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LT"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Santander"/>
+    <tag k="brand:wikidata" v="Q7420065"/>
+    <tag k="brand:wikipedia" v="en:Santander Bank"/>
+    <tag k="name" v="Santander"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://branchlocator.santander.com/detail/Santander_UK_UK_B6318"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="601595242" lat="52.3992645" lon="0.2652664" version="10" timestamp="2023-10-19T14:00:33Z" changeset="142817683" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="CB7 4LF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="PizzaExpress"/>
+    <tag k="brand:wikidata" v="Q662845"/>
+    <tag k="brand:wikipedia" v="en:PizzaExpress"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="fhrs:id" v="1563368"/>
+    <tag k="name" v="PizzaExpress"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.pizzaexpress.com/ely-high-street"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="601595249" lat="52.4012470" lon="0.2671411" version="4" timestamp="2023-01-09T14:34:57Z" changeset="131057694" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="CB7 4PQ"/>
+    <tag k="addr:street" v="Newnham Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="986771"/>
+    <tag k="name" v="The High Flyer"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="602221002" lat="52.3991175" lon="0.2656596" version="11" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB7 4NY"/>
+    <tag k="addr:street" v="Buttermarket"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/people/The-Bagel-Bar/100064955461351/"/>
+    <tag k="cuisine" v="bagel"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="fhrs:id" v="1291318"/>
+    <tag k="name" v="The Bagel Bar"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="only"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="602221012" lat="52.3993484" lon="0.2638194" version="7" timestamp="2021-06-11T13:11:29Z" changeset="106216609" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fhrs:id" v="336526"/>
+    <tag k="name" v="Edis of Ely"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="602221015" lat="52.3992423" lon="0.2660901" version="10" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="CB7 4NT"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/BentAndCornwellQualityMeatsLtd/"/>
+    <tag k="fhrs:id" v="336538"/>
+    <tag k="name" v="Bent and Cornwell"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="763441855" lat="52.3998765" lon="0.2624981" version="9" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Lynn Road"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/people/Cloisters-Antiques-Ely/100057063445442/"/>
+    <tag k="name" v="Cloisters Antiques"/>
+    <tag k="shop" v="art"/>
+  </node>
+  <node id="763441874" lat="52.3998544" lon="0.2623076" version="7" timestamp="2023-01-18T19:56:28Z" changeset="131436329" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB7 4ES"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Sweet Times"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="763441887" lat="52.3998610" lon="0.2621367" version="10" timestamp="2024-07-17T17:55:37Z" changeset="154069628" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB7 4ES"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="fhrs:id" v="848168"/>
+    <tag k="name" v="Eat Thai"/>
+    <tag k="phone" v="+44 1353 665011"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.ely-eatthai.co.uk/"/>
+  </node>
+  <node id="763441899" lat="52.3998590" lon="0.2622332" version="8" timestamp="2023-01-18T19:52:29Z" changeset="131436226" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB7 4ES"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="facebook" v="https://www.facebook.com/stevesshackely/"/>
+    <tag k="fhrs:id" v="1399602"/>
+    <tag k="name" v="Steve's Shack"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://steves-shack-ely.business.site/"/>
+  </node>
+  <node id="763441905" lat="52.3998843" lon="0.2617450" version="5" timestamp="2022-02-10T18:48:51Z" changeset="117258055" uid="1868422" user="falcon2">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB7 4ES"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Chic Face &amp; Body Clinic"/>
+    <tag k="phone" v="+44 1353 665 540"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://www.chicfaceandbodyclinic.co.uk/"/>
+  </node>
+  <node id="763441930" lat="52.4000001" lon="0.2608565" version="7" timestamp="2023-01-18T19:56:28Z" changeset="131436329" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="CB7 4ES"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="King's International Study Centre"/>
+    <tag k="office" v="educational_institution"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="763441936" lat="52.3999747" lon="0.2606969" version="9" timestamp="2023-01-18T19:44:46Z" changeset="131435998" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="CB7 4ES"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="St Mary's Dental Practice"/>
+    <tag k="phone" v="+44 1353 662159"/>
+    <tag k="website" v="https://stmarysdentalely.co.uk/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="763441946" lat="52.3998029" lon="0.2601753" version="11" timestamp="2023-10-13T13:02:11Z" changeset="142523506" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="CB7 4ES"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="alt_name" v="Grain Culture"/>
+    <tag k="check_date" v="2023-10-13"/>
+    <tag k="fhrs:id" v="1159844"/>
+    <tag k="name" v="The Bake Shop"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00; Su 09:00-15:00; PH 09:00-15:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="source:addr:postcode" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.bakeshopgeneralstore.com/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="763441977" lat="52.3991262" lon="0.2590923" version="9" timestamp="2023-01-18T19:47:05Z" changeset="131436068" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="CB7 4EY"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Milan Barber Shop"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://www.milanbarbershop.com/"/>
+  </node>
+  <node id="763441985" lat="52.3990395" lon="0.2589582" version="10" timestamp="2023-01-18T19:47:39Z" changeset="131436084" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="48a"/>
+    <tag k="addr:postcode" v="CB7 4EY"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Keeleys"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="phone" v="+44 1353 663036"/>
+    <tag k="website" v="https://www.keeleys.net/"/>
+  </node>
+  <node id="763442005" lat="52.3985571" lon="0.2577177" version="5" timestamp="2023-01-18T20:01:01Z" changeset="131436429" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="CB7 4HH"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="contact" v="Mrs Gabrielle H Dick"/>
+    <tag k="name" v="St Mary's Physiotherapy Clinic"/>
+    <tag k="phone" v="+44 1353 778040"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="763442012" lat="52.3985035" lon="0.2574653" version="7" timestamp="2023-01-18T20:01:01Z" changeset="131436429" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:postcode" v="CB7 4HH"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Enhance Dental and Facial Rejuvenation"/>
+    <tag k="phone" v="+44 1353 666895"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="website" v="https://www.enhancedentalspa.co.uk/"/>
+  </node>
+  <node id="763442020" lat="52.3983873" lon="0.2568296" version="8" timestamp="2023-10-08T10:54:39Z" changeset="142299328" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:postcode" v="CB7 4HH"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="female:signed" v="no"/>
+    <tag k="male:signed" v="no"/>
+    <tag k="name" v="Snipetts"/>
+    <tag k="opening_hours" v="Tu 09:00-17:00; We 09:30-19:30; Th 09:00-17:30; Fr 09:00-18:00; Sa 08:00-15:00"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="http://www.snipetts.co.uk/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="763442030" lat="52.3983958" lon="0.2567664" version="5" timestamp="2023-01-18T19:49:52Z" changeset="131436147" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Julie Prye Beauty Salon"/>
+    <tag k="phone" v="+44 1353 665595"/>
+    <tag k="shop" v="beauty"/>
+  </node>
+  <node id="763442068" lat="52.3983807" lon="0.2570348" version="6" timestamp="2023-01-18T20:01:01Z" changeset="131436429" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4HH"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Whiting and Partners Chartered Accountants"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="website" v="https://www.whitingandpartners.co.uk/"/>
+  </node>
+  <node id="763442087" lat="52.3984028" lon="0.2571742" version="5" timestamp="2023-01-18T20:01:01Z" changeset="131436429" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4HH"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="ILN East"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="763442131" lat="52.3996912" lon="0.2615412" version="8" timestamp="2023-01-18T19:51:12Z" changeset="131436182" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="9c"/>
+    <tag k="addr:postcode" v="CB7 4ER"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Ely Print Centre"/>
+    <tag k="shop" v="copyshop"/>
+    <tag k="website" v="https://www.elyprint.co.uk/"/>
+  </node>
+  <node id="764560730" lat="52.3975234" lon="0.2683164" version="5" timestamp="2024-03-16T19:33:19Z" changeset="148747238" uid="1868422" user="falcon2">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="9A"/>
+    <tag k="addr:postcode" v="CB7 4AJ"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="curry;indian"/>
+    <tag k="name" v="Indian Edge"/>
+    <tag k="opening_hours" v="Mo-Fr 17:30-22:00; Sa-Su 12:00-14:30,17:00-22:00"/>
+    <tag k="phone" v="+44 1353 523 918"/>
+    <tag k="website" v="https://indianedgeely.co.uk/"/>
+  </node>
+  <node id="764560754" lat="52.3973012" lon="0.2677544" version="10" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+    <tag k="addr:housenumber" v="16-18"/>
+    <tag k="addr:postcode" v="CB7 4AH"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="FRESH."/>
+    <tag k="phone" v="+44 7762 322 448"/>
+    <tag k="website" v="https://www.freshandwell.co.uk/"/>
+  </node>
+  <node id="764560767" lat="52.3968767" lon="0.2674799" version="7" timestamp="2021-10-01T10:50:12Z" changeset="111957676" uid="1868422" user="falcon2">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="CB7 4AH"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="1263585"/>
+    <tag k="name" v="Ely Spice"/>
+    <tag k="phone" v="+44 1353 668802"/>
+    <tag k="website" v="https://elyspice.com/"/>
+  </node>
+  <node id="971884675" lat="52.3959707" lon="0.2706290" version="7" timestamp="2024-04-23T06:31:59Z" changeset="150377262" uid="12752888" user="U42">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="CB7 4AU"/>
+    <tag k="addr:street" v="Waterside"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="336117"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Peacocks Tearoom"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+44 1353 661100"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="http://www.peacockstearoom.co.uk/"/>
+  </node>
+  <node id="1647071013" lat="52.3995624" lon="0.2635286" version="14" timestamp="2024-08-23T16:44:17Z" changeset="155662841" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="11A"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Caffè Nero"/>
+    <tag k="brand:wikidata" v="Q675808"/>
+    <tag k="brand:wikipedia" v="en:Caffè Nero"/>
+    <tag k="check_date" v="2024-08-22"/>
+    <tag k="check_date:opening_hours" v="2024-08-22"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="fhrs:id" v="336385"/>
+    <tag k="name" v="Caffè Nero"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-18:30; Su 08:00-18:00"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.caffenero.com/uk/stores/ely/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Disabled toilet, Great staff always ready to help if needed. 10 out of 10 all round."/>
+  </node>
+  <node id="1712385294" lat="52.3985046" lon="0.2665702" version="12" timestamp="2023-08-05T16:13:25Z" changeset="139486924" uid="16853522" user="edm000">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB7 4AN"/>
+    <tag k="addr:street" v="Three Cups Walk"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="336376"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="3At3 Real Ale &amp; Craft Beer Cafe"/>
+    <tag k="source:addr:postcode" v="FHRS Open Data"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.3at3deli.com/"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="The outdoor area is accessible and a delightful place to sit. The deli has a ramp but this is too steep and so not realistically accessible."/>
+  </node>
+  <node id="2309440556" lat="52.3993791" lon="0.2645732" version="7" timestamp="2023-01-18T20:04:03Z" changeset="131436501" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand:wikidata" v="Q104585876"/>
+    <tag k="name" v="East Anglia's Children's Hospices"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2309440557" lat="52.3993599" lon="0.2646872" version="6" timestamp="2024-04-20T16:00:03Z" changeset="150270021" uid="12752888" user="U42">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fhrs:id" v="1315817"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Tom's Cakes"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.tomscakes.co.uk/pages/our-shops-1"/>
+  </node>
+  <node id="2309440559" lat="52.3995890" lon="0.2633415" version="11" timestamp="2023-01-17T15:33:47Z" changeset="131386583" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Toppings and Company"/>
+    <tag k="shop" v="books"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.toppingbooks.co.uk/"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="there is an upstairs but staff very helpful"/>
+  </node>
+  <node id="2309440560" lat="52.3993860" lon="0.2636123" version="7" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="16-18"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/juliastearooms/"/>
+    <tag k="fhrs:id" v="336330"/>
+    <tag k="name" v="Julia's Tea Rooms"/>
+    <tag k="source:addr:postcode" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2309440561" lat="52.3993521" lon="0.2661718" version="6" timestamp="2023-01-22T20:01:37Z" changeset="131579842" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4NT"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="name" v="Tucker Gardner"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.tuckergardner.com/branch/estate-agents/ely#/"/>
+  </node>
+  <node id="2309440562" lat="52.3993377" lon="0.2648145" version="11" timestamp="2023-10-19T14:16:26Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="CB7 4LF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Age UK"/>
+    <tag k="brand:wikidata" v="Q4691850"/>
+    <tag k="brand:wikipedia" v="en:Age UK"/>
+    <tag k="name" v="Age UK"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://directory.ageuk.org.uk/charity-shops/age-uk-shop-ely/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2309440564" lat="52.3993889" lon="0.2644981" version="8" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/MarmaladeandJam/"/>
+    <tag k="disused:shop" v="bakery"/>
+    <tag k="fhrs:id" v="1472141"/>
+    <tag k="name" v="Marmalade &amp; Jam"/>
+    <tag k="old_name" v="Barkers"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="2309440565" lat="52.3994735" lon="0.2639732" version="10" timestamp="2023-10-19T14:16:26Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Spar"/>
+    <tag k="brand:wikidata" v="Q610492"/>
+    <tag k="brand:wikipedia" v="en:SPAR (retailer)"/>
+    <tag k="fhrs:id" v="945028"/>
+    <tag k="name" v="Spar"/>
+    <tag k="opening_hours" v="Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00; Su 08:00-21:00"/>
+    <tag k="phone" v="+44 1353 645 177"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.spar.co.uk/store-locator/afb19292-spar-ely/"/>
+  </node>
+  <node id="2309440566" lat="52.3993206" lon="0.2649084" version="5" timestamp="2023-01-17T14:39:58Z" changeset="131383080" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="CB7 4LF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Paul Day's"/>
+    <tag k="shop" v="sports"/>
+    <tag k="website" v="http://www.pauldaysports.com/"/>
+  </node>
+  <node id="2309440567" lat="52.3996002" lon="0.2632813" version="9" timestamp="2023-01-17T14:54:26Z" changeset="131384932" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="7a"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Spectacular"/>
+    <tag k="shop" v="optician"/>
+    <tag k="website" v="https://spectacularopticians.co.uk/about/practices/ely/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2309440568" lat="52.3995095" lon="0.2637953" version="9" timestamp="2023-11-11T14:50:58Z" changeset="143902875" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="British Heart Foundation"/>
+    <tag k="brand:wikidata" v="Q4970039"/>
+    <tag k="brand:wikipedia" v="en:British Heart Foundation"/>
+    <tag k="check_date" v="2023-11-11"/>
+    <tag k="name" v="British Heart Foundation"/>
+    <tag k="opening_hours" v="Mo-Sa 09:30-17:00; Su 10:00-16:00"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="website" v="https://www.bhf.org.uk/what-we-do/find-bhf-near-you/ely-bhf-shop"/>
+  </node>
+  <node id="2309440569" lat="52.3994952" lon="0.2638953" version="7" timestamp="2023-01-11T19:24:28Z" changeset="131158965" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="Wildwood"/>
+    <tag k="brand:wikidata" v="Q85300869"/>
+    <tag k="cuisine" v="grill;pasta;pizza"/>
+    <tag k="fhrs:id" v="408468"/>
+    <tag k="name" v="Wildwood"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://wildwoodrestaurants.co.uk/restaurant/ely/"/>
+  </node>
+  <node id="2309440570" lat="52.3992121" lon="0.2645678" version="6" timestamp="2023-01-18T22:51:35Z" changeset="131440611" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fixme" v="Check for closure after 2023-01-29"/>
+    <tag k="name" v="Ely Cathedral Shop"/>
+    <tag k="note" v="Website says this shop is closing on 29th January."/>
+    <tag k="shop" v="gift"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.elycathedral.org/plan-your-visit/eat-drink-shop/the-old-choir-house"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2309440571" lat="52.3993664" lon="0.2636900" version="11" timestamp="2023-10-19T14:16:26Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Shoe Zone"/>
+    <tag k="brand:wikidata" v="Q7500016"/>
+    <tag k="brand:wikipedia" v="en:Shoe Zone"/>
+    <tag k="name" v="Shoe Zone"/>
+    <tag k="shop" v="shoes"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.shoezone.com/Stores/Ely-1795"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2309440576" lat="52.3996687" lon="0.2628405" version="7" timestamp="2023-12-08T12:58:11Z" changeset="144902557" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="check_date" v="2023-12-08"/>
+    <tag k="disused:shop" v="clothes"/>
+    <tag k="name" v="Heat Hut"/>
+    <tag k="website" v="https://heathutclothing.co.uk/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2309440577" lat="52.3995316" lon="0.2637008" version="10" timestamp="2023-10-19T14:16:26Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Mind"/>
+    <tag k="brand:wikidata" v="Q3314763"/>
+    <tag k="brand:wikipedia" v="en:Mind (charity)"/>
+    <tag k="name" v="Mind"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="2309440579" lat="52.3994003" lon="0.2644364" version="7" timestamp="2023-01-17T14:54:26Z" changeset="131384932" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="James"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="website" v="http://www.jamesofely.co.uk/"/>
+  </node>
+  <node id="2310445157" lat="52.3985328" lon="0.2669162" version="4" timestamp="2023-02-06T11:18:08Z" changeset="132152954" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB7 4AF"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="Almost Angels"/>
+    <tag k="shop" v="tattoo"/>
+    <tag k="website" v="http://www.almostangels.co.uk/"/>
+  </node>
+  <node id="2310445162" lat="52.3986662" lon="0.2666010" version="8" timestamp="2024-10-11T10:29:50Z" changeset="157750512" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="brand" v="Johnsons"/>
+    <tag k="brand:wikidata" v="Q6268527"/>
+    <tag k="brand:wikipedia" v="en:Johnsons Cleaners UK"/>
+    <tag k="check_date" v="2024-10-11"/>
+    <tag k="check_date:opening_hours" v="2024-10-11"/>
+    <tag k="name" v="Johnsons"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-17:30"/>
+    <tag k="phone" v="+44 1353 663325"/>
+    <tag k="shop" v="dry_cleaning"/>
+    <tag k="website" v="https://www.johnsoncleaners.com/branch/ely"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2310445164" lat="52.3982783" lon="0.2679407" version="5" timestamp="2023-01-17T14:08:35Z" changeset="131381119" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Forehill"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="CB7 4AA"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="turkish"/>
+    <tag k="fhrs:id" v="1023583"/>
+    <tag k="name" v="Ely Turkish Restaurant &amp; Meze Bar"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.elyrestaurantmezebar.com/"/>
+  </node>
+  <node id="2310445166" lat="52.3986147" lon="0.2672159" version="4" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/nikniksely/"/>
+    <tag k="name" v="Nik Nik's"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="2310445168" lat="52.3984109" lon="0.2672206" version="3" timestamp="2023-01-17T13:58:27Z" changeset="131380737" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="CB7 4AF"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="Toppers"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://www.toppershair.com/"/>
+  </node>
+  <node id="2310445169" lat="52.3985762" lon="0.2672923" version="4" timestamp="2023-08-05T16:09:48Z" changeset="139486763" uid="16853522" user="edm000">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="ChopHouse Barbering Ely"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="2310445170" lat="52.3990787" lon="0.2669215" version="8" timestamp="2023-01-22T19:25:14Z" changeset="131578729" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB7 4NP"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="name" v="Cheffins"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="website" v="https://www.cheffins.co.uk/residential/offices-contacts/ely.htm"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2310445171" lat="52.3981425" lon="0.2678013" version="4" timestamp="2023-01-17T13:59:19Z" changeset="131380764" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="Ely Funeral Service"/>
+    <tag k="shop" v="funeral_directors"/>
+    <tag k="website" v="https://www.dignityfunerals.co.uk/funeral-directors/locations/england/cambridgeshire/ely/30-fore-hill"/>
+  </node>
+  <node id="2310445172" lat="52.3984719" lon="0.2675317" version="4" timestamp="2023-01-21T17:45:13Z" changeset="131549140" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="19-21"/>
+    <tag k="addr:postcode" v="CB7 4AA"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="Cutlacks"/>
+    <tag k="shop" v="houseware"/>
+    <tag k="website" v="http://www.cutlacks.co.uk/"/>
+  </node>
+  <node id="2310445173" lat="52.3994689" lon="0.2664749" version="9" timestamp="2023-10-19T14:16:26Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4ZH"/>
+    <tag k="addr:street" v="The Cloisters"/>
+    <tag k="brand" v="Card Factory"/>
+    <tag k="brand:wikidata" v="Q5038192"/>
+    <tag k="brand:wikipedia" v="en:Card Factory"/>
+    <tag k="name" v="Card Factory"/>
+    <tag k="shop" v="gift"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2310445174" lat="52.3985431" lon="0.2673688" version="6" timestamp="2023-01-17T14:08:35Z" changeset="131381119" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB7 4AA"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="Ely Wealth Management"/>
+    <tag k="office" v="financial_advisor"/>
+    <tag k="website" v="https://www.elywealth.co.uk/"/>
+  </node>
+  <node id="2310445175" lat="52.3986261" lon="0.2666962" version="5" timestamp="2023-01-11T18:48:04Z" changeset="131157923" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="brand" v="William H. Brown"/>
+    <tag k="brand:wikidata" v="Q81787271"/>
+    <tag k="name" v="William H. Brown"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="website" v="https://www.williamhbrown.co.uk/estate-agents/ely"/>
+  </node>
+  <node id="2310445176" lat="52.3987554" lon="0.2663596" version="5" timestamp="2023-01-11T18:48:41Z" changeset="131157945" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="brand:wikidata" v="Q104585933"/>
+    <tag k="name" v="Premier"/>
+    <tag k="shop" v="travel_agency"/>
+    <tag k="website" v="https://www.premier-travel.co.uk/branches/ely"/>
+  </node>
+  <node id="2310445177" lat="52.3984985" lon="0.2670114" version="8" timestamp="2023-02-05T22:09:31Z" changeset="132130098" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB7 4AF"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="craft" v="window_construction"/>
+    <tag k="name" v="Frames Conservatories Direct"/>
+    <tag k="old_name" v="Abbotts Countrywide"/>
+  </node>
+  <node id="2310445178" lat="52.3987481" lon="0.2668947" version="5" timestamp="2023-02-05T22:27:56Z" changeset="132130470" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="brand:wikidata" v="Q112666674"/>
+    <tag k="name" v="Abbotts"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="website" v="https://www.abbotts.co.uk/branch/estate-agents/ely#/"/>
+  </node>
+  <node id="2310445179" lat="52.3986867" lon="0.2665420" version="5" timestamp="2023-02-05T23:14:35Z" changeset="132131433" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="4B"/>
+    <tag k="addr:postcode" v="CB7 4AF"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="Wild Clover Flower Company"/>
+    <tag k="old_name" v="City Heel Bar"/>
+    <tag k="shop" v="florist"/>
+    <tag k="website" v="https://wildcloverflowercompany.co.uk/"/>
+  </node>
+  <node id="2310445180" lat="52.3988389" lon="0.2666506" version="5" timestamp="2023-01-11T18:48:04Z" changeset="131157923" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="brand" v="Haart"/>
+    <tag k="brand:wikidata" v="Q75006731"/>
+    <tag k="name" v="Haart"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="website" v="https://www.haart.co.uk/branch-finder/ely-estate-agents/"/>
+  </node>
+  <node id="2310445181" lat="52.3995189" lon="0.2663489" version="9" timestamp="2024-01-23T12:52:53Z" changeset="146591919" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4ZH"/>
+    <tag k="addr:street" v="The Cloisters"/>
+    <tag k="brand" v="Cotton Traders"/>
+    <tag k="brand:wikidata" v="Q5175738"/>
+    <tag k="name" v="Cotton Traders"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.cottontraders.com/store/?storeID=S036"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2310445182" lat="52.3987840" lon="0.2662630" version="8" timestamp="2021-06-11T08:03:03Z" changeset="106198623" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="CB7 4NT"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="fhrs:id" v="579693"/>
+    <tag k="name" v="Ely Fudge Company"/>
+    <tag k="shop" v="confectionery"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2310445183" lat="52.3993552" lon="0.2667821" version="10" timestamp="2024-08-13T18:30:27Z" changeset="155209483" uid="486701" user="eteb3">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB7 4NP"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brand" v="The Lounges"/>
+    <tag k="name" v="Piccolo Lounge"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2310445184" lat="52.3981090" lon="0.2678898" version="4" timestamp="2023-01-17T13:59:41Z" changeset="131380780" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="CB7 4AF"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="ForeBeauty"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://www.forebeauty.co.uk/"/>
+  </node>
+  <node id="2310445186" lat="52.3988069" lon="0.2667190" version="5" timestamp="2023-02-06T11:18:58Z" changeset="132152983" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="1A"/>
+    <tag k="addr:postcode" v="CB7 4AA"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="The Tackle Shop Ely"/>
+    <tag k="old_name" v="Evolution Boutique"/>
+    <tag k="shop" v="fishing"/>
+    <tag k="website" v="https://thetackleshopely.com/"/>
+  </node>
+  <node id="2310445187" lat="52.3983917" lon="0.2676874" version="4" timestamp="2023-01-17T14:08:35Z" changeset="131381119" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB7 4AA"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="Cambridgeshire Philatelic Auctions"/>
+    <tag k="shop" v="stamps"/>
+    <tag k="website" v="https://www.cpa-ely.co.uk/"/>
+  </node>
+  <node id="2310445188" lat="52.3987251" lon="0.2669631" version="7" timestamp="2023-01-21T17:42:15Z" changeset="131549077" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB7 4AF"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="facebook" v="https://www.facebook.com/Shinehairely/"/>
+    <tag k="name" v="Shine &amp; Co."/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.shineandco.online/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2310445192" lat="52.3987309" lon="0.2664427" version="6" timestamp="2023-01-11T16:51:30Z" changeset="131154457" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="2A"/>
+    <tag k="addr:postcode" v="CB7 4AF"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="Farrow &amp; Smith Hair Design"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="http://farrowandsmith.co.uk/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2312842979" lat="52.4001421" lon="0.2647262" version="7" timestamp="2023-01-18T18:24:00Z" changeset="131433621" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Tony's Barbers"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://tonysbarbershop.nearcut.com/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2312842993" lat="52.4001447" lon="0.2638967" version="9" timestamp="2023-02-06T09:10:09Z" changeset="132148000" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="39-41"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="fhrs:id" v="1391941"/>
+    <tag k="name" v="Chang Chai"/>
+    <tag k="old_name" v="Siam Seasons Thai Restaurant"/>
+  </node>
+  <node id="2312842996" lat="52.4001225" lon="0.2648040" version="6" timestamp="2023-01-18T18:24:00Z" changeset="131433621" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="610357"/>
+    <tag k="name" v="Balti King"/>
+    <tag k="website" v="https://www.baltikingely.co.uk/"/>
+  </node>
+  <node id="2312842997" lat="52.3999384" lon="0.2648268" version="9" timestamp="2023-02-04T18:52:14Z" changeset="132086785" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="fish_and_chips"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="1589032"/>
+    <tag k="name" v="Rumbles Fish Bar"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2312842998" lat="52.4002808" lon="0.2642086" version="8" timestamp="2023-10-19T14:16:26Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="46-48"/>
+    <tag k="addr:postcode" v="CB7 4LU"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="brand" v="William Hill"/>
+    <tag k="brand:wikidata" v="Q4053147"/>
+    <tag k="brand:wikipedia" v="en:William Hill (bookmaker)"/>
+    <tag k="name" v="William Hill"/>
+    <tag k="shop" v="bookmaker"/>
+    <tag k="website" v="https://shoplocator.williamhill/ely/market-street/cb7-4ls"/>
+  </node>
+  <node id="2312843012" lat="52.4000938" lon="0.2649409" version="4" timestamp="2023-01-11T19:51:15Z" changeset="131160034" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Page"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://page-finejewellery.co.uk/"/>
+  </node>
+  <node id="2312843026" lat="52.4003160" lon="0.2640477" version="7" timestamp="2023-12-08T12:58:11Z" changeset="144902557" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="addr:unit" v="1"/>
+    <tag k="check_date" v="2023-12-08"/>
+    <tag k="fhrs:id" v="1452727"/>
+    <tag k="name" v="Nakeed"/>
+    <tag k="old_name" v="Phoenix"/>
+    <tag k="opening_hours" v="Th,Sa 09:00-16:00; Fr 09:30-16:00"/>
+    <tag k="shop" v="grocery"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="zero_waste" v="yes"/>
+  </node>
+  <node id="2312843033" lat="52.4001028" lon="0.2641925" version="6" timestamp="2023-01-11T17:10:00Z" changeset="131155069" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="1531557"/>
+    <tag k="name" v="Ely Kebab House"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="2312843034" lat="52.4000865" lon="0.2642904" version="6" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/kingselybarber/"/>
+    <tag k="name" v="Kings Barber"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="2312843036" lat="52.4002011" lon="0.2645318" version="4" timestamp="2021-06-11T09:05:41Z" changeset="106202542" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="fhrs:id" v="689925"/>
+    <tag k="name" v="Hand Crafted Cupcakes"/>
+    <tag k="shop" v="pastry"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="2312843046" lat="52.4001323" lon="0.2640464" version="8" timestamp="2023-01-18T18:24:00Z" changeset="131433621" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="fhrs:id" v="336543"/>
+    <tag k="name" v="Sylhet"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://sylhetely.co.uk/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2312843053" lat="52.4001667" lon="0.2646444" version="8" timestamp="2023-01-18T18:24:00Z" changeset="131433621" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Kleanco"/>
+    <tag k="shop" v="dry_cleaning"/>
+    <tag k="website" v="https://www.kleanco.co.uk/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2312843055" lat="52.4000038" lon="0.2645519" version="5" timestamp="2021-06-12T17:54:17Z" changeset="106261418" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="fhrs:id" v="336541"/>
+    <tag k="name" v="Thing-Me-Bobs"/>
+    <tag k="shop" v="variety_store"/>
+  </node>
+  <node id="2312843065" lat="52.4002485" lon="0.2643561" version="7" timestamp="2023-12-08T12:58:11Z" changeset="144902557" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="42-44"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="check_date" v="2023-12-08"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/brandsofely/"/>
+    <tag k="name" v="Brands of Ely"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:30; Su 10:00-16:00"/>
+    <tag k="shop" v="pet"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2312843070" lat="52.3999531" lon="0.2647611" version="8" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/people/Elys-Nail-Bar/100063790950895/"/>
+    <tag k="name" v="Ely's Nail Bar"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2327911507" lat="52.3999048" lon="0.2655582" version="12" timestamp="2023-10-19T14:16:26Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB7 4PB"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Boots"/>
+    <tag k="brand:wikidata" v="Q6123139"/>
+    <tag k="brand:wikipedia" v="en:Boots (company)"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="fhrs:id" v="336540"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Boots"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-18:00; Su 10:00-16:00"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.boots.com/stores/171-ely-market-street-cb7-4pb"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Staff happy to help if needed."/>
+  </node>
+  <node id="2559948444" lat="52.3995770" lon="0.2634300" version="10" timestamp="2023-02-06T11:22:36Z" changeset="132153102" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="EE"/>
+    <tag k="brand:wikidata" v="Q5322942"/>
+    <tag k="name" v="EE"/>
+    <tag k="old_name" v="Believe Studios"/>
+    <tag k="shop" v="mobile_phone"/>
+    <tag k="website" v="https://ee.co.uk/stores/england/cambridgeshire/ely/ely"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2559960732" lat="52.3996587" lon="0.2629027" version="5" timestamp="2024-01-19T12:40:50Z" changeset="146442450" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="1A"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="check_date" v="2024-01-19"/>
+    <tag k="fhrs:id" v="336521"/>
+    <tag k="name" v="Burrows"/>
+    <tag k="opening_hours" v="Mo-Sa 05:30-15:00; Su 05:30-13:00"/>
+    <tag k="shop" v="newsagent"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2559970813" lat="52.3996501" lon="0.2637721" version="8" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LN"/>
+    <tag k="addr:street" v="Chequer Lane"/>
+    <tag k="beauty" v="tanning"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/tanningworldely/"/>
+    <tag k="name" v="Tanning World"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="6 inch plus step (down)"/>
+  </node>
+  <node id="2559972636" lat="52.3997431" lon="0.2638154" version="5" timestamp="2023-12-08T13:45:23Z" changeset="144904541" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Chequer Lane"/>
+    <tag k="addr:unit" v="2"/>
+    <tag k="check_date" v="2023-12-08"/>
+    <tag k="disused:amenity" v="fast_food"/>
+    <tag k="name" v="MCV Kitchens and Bathrooms"/>
+    <tag k="shop" v="kitchen;bathroom"/>
+    <tag k="website" v="https://www.mcvkitchensandbathrooms.co.uk/"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="6 inch plus step (down)"/>
+  </node>
+  <node id="2559977059" lat="52.3998046" lon="0.2638395" version="5" timestamp="2023-01-22T19:33:56Z" changeset="131578994" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB7 4LN"/>
+    <tag k="addr:street" v="Chequer Lane"/>
+    <tag k="name" v="Studio 3"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://www.studio3elyltd.co.uk/"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="6 inch plus step (down)"/>
+  </node>
+  <node id="2559987431" lat="52.3996516" lon="0.2635847" version="6" timestamp="2023-01-22T18:56:49Z" changeset="131577886" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB7 4LN"/>
+    <tag k="addr:street" v="Chequer Lane"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="336506"/>
+    <tag k="name" v="Millennium Pizza"/>
+    <tag k="phone" v="+44 1353 659222"/>
+    <tag k="website" v="https://millenniumpizzaely.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2559991240" lat="52.3997776" lon="0.2636129" version="4" timestamp="2023-01-11T18:50:48Z" changeset="131158022" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB7 4LN"/>
+    <tag k="addr:street" v="Chequer Lane"/>
+    <tag k="name" v="Interiors of Ely"/>
+    <tag k="shop" v="furniture"/>
+    <tag k="website" v="https://interiorsofely.co.uk/"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="very narrow spaces and only part of shop has access"/>
+  </node>
+  <node id="2559993409" lat="52.4001073" lon="0.2636946" version="8" timestamp="2023-01-18T18:24:00Z" changeset="131433621" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="fhrs:id" v="336132"/>
+    <tag k="name" v="The Hereward"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.greatukpubs.co.uk/herewardely"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="some parts on raised platform with no access"/>
+  </node>
+  <node id="2559994870" lat="52.4000500" lon="0.2639910" version="11" timestamp="2023-10-19T14:16:28Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LN"/>
+    <tag k="addr:street" v="Chequer Lane"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="brand" v="mydentist"/>
+    <tag k="brand:wikidata" v="Q65118035"/>
+    <tag k="brand:wikipedia" v="en:Mydentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="mydentist"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.mydentist.co.uk/dentists/practices/england/east-of-england/ely/6-chequer-lane"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair:description" v="one downstairs treatment room, you need to inform them when making an appointment you need to have the downstairs tretment room."/>
+  </node>
+  <node id="2560003723" lat="52.3999069" lon="0.2641372" version="3" timestamp="2023-02-06T14:08:42Z" changeset="132159499" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LN"/>
+    <tag k="addr:street" v="Chequer Lane"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Chequer Studio"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+  </node>
+  <node id="2560057580" lat="52.4003599" lon="0.2638526" version="8" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Jimdandybarbers/"/>
+    <tag k="name" v="Jim Dandy"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2560060804" lat="52.4004568" lon="0.2631890" version="8" timestamp="2023-02-07T11:00:34Z" changeset="132199563" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="fixme" v="Is this still here?"/>
+    <tag k="name" v="Shop Mobility"/>
+    <tag k="shop" v="mobility"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Shop mobility for ely is run from here"/>
+  </node>
+  <node id="2560068822" lat="52.3999236" lon="0.2648921" version="7" timestamp="2023-01-18T18:35:13Z" changeset="131434018" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Inheritance Legal services"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.inheritancewills.co.uk/attorney/ely-office/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2560071696" lat="52.4003936" lon="0.2654855" version="8" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Newnham Street"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/TheSecretBeautyLab/"/>
+    <tag k="name" v="The Secret Beauty Lab"/>
+    <tag k="old_name" v="Fi-Fi Beauty"/>
+    <tag k="shop" v="beauty"/>
+  </node>
+  <node id="2560072841" lat="52.4003089" lon="0.2654228" version="6" timestamp="2023-02-06T20:04:17Z" changeset="132173915" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB7 4PG"/>
+    <tag k="addr:street" v="Newnham Street"/>
+    <tag k="name" v="Something Special"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="website" v="http://www.somethingspecial-ely.co.uk/"/>
+  </node>
+  <node id="2560075401" lat="52.4002531" lon="0.2653657" version="8" timestamp="2023-02-06T20:09:00Z" changeset="132174114" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB7 4PG"/>
+    <tag k="addr:street" v="Newnham Street"/>
+    <tag k="name" v="Clip’so Ely"/>
+    <tag k="old_name" v="Brush and Comb"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://theclipsogroup.co.uk/ely-hair-salon/"/>
+  </node>
+  <node id="2560102850" lat="52.3998631" lon="0.2650592" version="8" timestamp="2023-01-09T14:25:53Z" changeset="131057356" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="brand" v="Grape Tree"/>
+    <tag k="brand:wikidata" v="Q87071497"/>
+    <tag k="fhrs:id" v="590845"/>
+    <tag k="name" v="Grape Tree"/>
+    <tag k="organic" v="only"/>
+    <tag k="shop" v="health_food"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.grapetree.co.uk/stores/locator/store/l/ely/13-15-market-street/3423597"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560129911" lat="52.3998169" lon="0.2657063" version="10" timestamp="2023-10-19T14:16:28Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4PB"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="brand" v="Mountain Warehouse"/>
+    <tag k="brand:wikidata" v="Q6925414"/>
+    <tag k="brand:wikipedia" v="en:Mountain Warehouse"/>
+    <tag k="name" v="Mountain Warehouse"/>
+    <tag k="shop" v="outdoor"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.mountainwarehouse.com/stores/ely/ely/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560143364" lat="52.3997719" lon="0.2658056" version="11" timestamp="2024-09-17T13:45:56Z" changeset="156730876" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4PB"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="brand" v="Fat Face"/>
+    <tag k="brand:wikidata" v="Q5437186"/>
+    <tag k="brand:wikipedia" v="en:Fat Face"/>
+    <tag k="name" v="Fat Face"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00; Su 10:00-16:00"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.fatface.com/storelocator/ely-fatface/5463"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560143839" lat="52.3997203" lon="0.2659076" version="11" timestamp="2023-10-19T14:16:28Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB7 4PB"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="brand" v="Superdrug"/>
+    <tag k="brand:wikidata" v="Q7643261"/>
+    <tag k="brand:wikipedia" v="en:Superdrug"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="fhrs:id" v="336537"/>
+    <tag k="name" v="Superdrug"/>
+    <tag k="not:addr:postcode" v="CB7 4NU"/>
+    <tag k="note" v="Not a pharmacy"/>
+    <tag k="shop" v="chemist"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.superdrug.com/store/ely"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560157331" lat="52.3996639" lon="0.2660228" version="5" timestamp="2023-12-08T12:58:11Z" changeset="144902557" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB7 4NP"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="check_date" v="2023-12-08"/>
+    <tag k="name" v="Tindalls"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
+    <tag k="shop" v="stationery"/>
+    <tag k="website" v="https://www.tindalls.co.uk/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560160020" lat="52.3994335" lon="0.2659367" version="9" timestamp="2023-10-19T14:16:28Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4NT"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="brand" v="Ladbrokes"/>
+    <tag k="brand:wikidata" v="Q1799875"/>
+    <tag k="brand:wikipedia" v="en:Ladbrokes Coral"/>
+    <tag k="name" v="Ladbrokes"/>
+    <tag k="shop" v="bookmaker"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560163279" lat="52.3996359" lon="0.2661086" version="11" timestamp="2024-10-13T07:55:48Z" changeset="157823114" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB7 4NP"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="brand" v="White Stuff"/>
+    <tag k="brand:wikidata" v="Q7995442"/>
+    <tag k="brand:wikipedia" v="en:White Stuff Clothing"/>
+    <tag k="check_date" v="2023-12-08"/>
+    <tag k="name" v="White Stuff"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-17:30; Fr-Sa 09:00-18:00; Su 10:00-16:00"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560165202" lat="52.3995712" lon="0.2662333" version="7" timestamp="2021-06-07T13:13:50Z" changeset="105974711" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB7 4NU"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="336215"/>
+    <tag k="name" v="The Fish House"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560172138" lat="52.4000370" lon="0.2667350" version="9" timestamp="2024-08-28T17:17:59Z" changeset="155891697" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB7 4ZH"/>
+    <tag k="addr:street" v="The Cloisters"/>
+    <tag k="brand" v="Savers"/>
+    <tag k="brand:wikidata" v="Q7428189"/>
+    <tag k="brand:wikipedia" v="en:Savers (UK retailer)"/>
+    <tag k="check_date" v="2024-08-28"/>
+    <tag k="check_date:opening_hours" v="2024-08-28"/>
+    <tag k="fhrs:id" v="922038"/>
+    <tag k="name" v="Savers"/>
+    <tag k="official_name" v="Savers Health &amp; Beauty"/>
+    <tag k="opening_hours" v="Mo-Th 08:00-17:30; Fr-Sa 08:00-18:00; Su 09:00-17:00"/>
+    <tag k="phone" v="+44 1353 659253"/>
+    <tag k="shop" v="chemist"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560173334" lat="52.3999644" lon="0.2666614" version="8" timestamp="2023-10-19T14:16:28Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB7 4ZH"/>
+    <tag k="addr:street" v="The Cloisters"/>
+    <tag k="brand" v="Holland &amp; Barrett"/>
+    <tag k="brand:wikidata" v="Q5880870"/>
+    <tag k="brand:wikipedia" v="en:Holland &amp; Barrett"/>
+    <tag k="fhrs:id" v="336441"/>
+    <tag k="name" v="Holland &amp; Barrett"/>
+    <tag k="organic" v="only"/>
+    <tag k="shop" v="health_food"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.hollandandbarrett.com/stores/ely-3129/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560179217" lat="52.4000051" lon="0.2663823" version="12" timestamp="2023-10-19T14:16:28Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB7 4ZH"/>
+    <tag k="addr:street" v="The Cloisters"/>
+    <tag k="brand" v="Sports Direct"/>
+    <tag k="brand:wikidata" v="Q7579661"/>
+    <tag k="brand:wikipedia" v="en:Sports Direct"/>
+    <tag k="fhrs:id" v="922037"/>
+    <tag k="name" v="Sports Direct"/>
+    <tag k="shop" v="sports"/>
+    <tag k="website" v="https://www.sportsdirect.com/cambridge---ely-store-0711"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560182402" lat="52.3998831" lon="0.2665847" version="11" timestamp="2024-08-29T17:51:39Z" changeset="155941080" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4ZH"/>
+    <tag k="addr:street" v="The Cloisters"/>
+    <tag k="brand" v="Peacocks"/>
+    <tag k="brand:wikidata" v="Q7157762"/>
+    <tag k="brand:wikipedia" v="en:Peacocks (clothing)"/>
+    <tag k="check_date" v="2024-08-20"/>
+    <tag k="check_date:opening_hours" v="2024-08-20"/>
+    <tag k="name" v="Peacocks"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:30; Su 10:00-16:00"/>
+    <tag k="phone" v="+44 1353 667196"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.peacocks.co.uk/store-detail?storeID=6280&amp;storeName=PEACOCKS-ELY-%28CAMBS.%29"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560189773" lat="52.3998529" lon="0.2663193" version="9" timestamp="2024-09-28T19:43:54Z" changeset="157226511" uid="12752888" user="U42">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3A"/>
+    <tag k="addr:postcode" v="CB7 4ZH"/>
+    <tag k="addr:street" v="The Cloisters"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Starbucks"/>
+    <tag k="brand:wikidata" v="Q37158"/>
+    <tag k="brand:wikipedia" v="en:Starbucks"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="fhrs:id" v="912502"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="official_name" v="Starbucks Coffee"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.starbucks.com/store-locator/store/1014336/ely-the-cloisters-3-a-the-cloisters-ely-eng-cb-7-4-zh-gb"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560191693" lat="52.3997878" lon="0.2666137" version="11" timestamp="2024-06-15T11:47:43Z" changeset="152717477" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB7 4ZH"/>
+    <tag k="addr:street" v="The Cloisters"/>
+    <tag k="brand" v="Sue Ryder"/>
+    <tag k="brand:wikidata" v="Q7634271"/>
+    <tag k="brand:wikipedia" v="en:Sue Ryder (charity)"/>
+    <tag k="fhrs:id" v="1021424"/>
+    <tag k="fixme" v="Check location"/>
+    <tag k="name" v="Sue Ryder"/>
+    <tag k="shop" v="charity"/>
+    <tag k="website" v="https://www.sueryder.org/shop-with-us/find-a-shop/ely/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560194741" lat="52.3994267" lon="0.2665457" version="10" timestamp="2023-02-07T09:47:51Z" changeset="132196150" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4NP"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="brand" v="Max Spielmann"/>
+    <tag k="brand:wikidata" v="Q76221051"/>
+    <tag k="description" v="The Photo Expert"/>
+    <tag k="fixme" v="Check house number"/>
+    <tag k="name" v="Max Spielmann"/>
+    <tag k="shop" v="photo"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.maxphoto.co.uk/photo-store-locator/ely-market-place"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2560197314" lat="52.3993863" lon="0.2666533" version="9" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB7 4NP"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/lemontreedelicafe/"/>
+    <tag k="fhrs:id" v="931598"/>
+    <tag k="name" v="Lemon Tree Deli Cafe"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2560244130" lat="52.3990832" lon="0.2659988" version="6" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB7 4NY"/>
+    <tag k="addr:street" v="Buttermarket"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/nailproely/"/>
+    <tag k="name" v="Nail Pro"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2560265260" lat="52.3991740" lon="0.2658614" version="6" timestamp="2023-01-19T14:02:54Z" changeset="131468321" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4NY"/>
+    <tag k="addr:street" v="Buttermarket"/>
+    <tag k="brand" v="Scrivens"/>
+    <tag k="brand:wikidata" v="Q79424133"/>
+    <tag k="name" v="Scrivens"/>
+    <tag k="shop" v="optician"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="website" v="https://scrivens.com/branch/ely-2/"/>
+  </node>
+  <node id="2560313977" lat="52.3990918" lon="0.2652320" version="6" timestamp="2023-02-05T22:27:11Z" changeset="132130453" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="32a"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Cow on the Ice"/>
+    <tag k="old_name" v="Clip'So"/>
+    <tag k="shop" v="art"/>
+    <tag k="website" v="https://www.cowontheice.co.uk/"/>
+  </node>
+  <node id="3230464936" lat="52.4060586" lon="0.2388142" version="3" timestamp="2018-10-22T11:53:41Z" changeset="63756586" uid="669183" user="Andy_W">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Isle Veterinary Group Limited"/>
+    <tag k="addr:postcode" v="CB6 2BZ"/>
+    <tag k="addr:street" v="West Fen Road"/>
+    <tag k="amenity" v="veterinary"/>
+    <tag k="name" v="Isle Veterinary Group Limited"/>
+  </node>
+  <node id="3598776338" lat="52.3950971" lon="0.2692463" version="6" timestamp="2021-06-09T13:42:03Z" changeset="106099415" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4BB"/>
+    <tag k="addr:street" v="Ship Lane"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="fhrs:id" v="960926"/>
+    <tag k="name" v="Riverside Bar &amp; Kitchen"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4382373286" lat="52.3992833" lon="0.2651566" version="8" timestamp="2024-01-23T18:17:30Z" changeset="146603456" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="CB7 4LF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="no"/>
+    <tag k="brand" v="The Cambridge Building Society"/>
+    <tag k="brand:wikidata" v="Q5025370"/>
+    <tag k="name" v="Cambridge Building Society"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.cambridgebs.co.uk/contact/ely"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4403332090" lat="52.3979921" lon="0.2734247" version="4" timestamp="2023-01-31T15:45:38Z" changeset="131927261" uid="90943" user="chris_debian">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Cresswell's Lane"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Sainsbury's"/>
+    <tag k="brand:wikidata" v="Q152096"/>
+    <tag k="name" v="Sainsbury's"/>
+    <tag k="website" v="https://stores.sainsburys.co.uk/2271/ely"/>
+  </node>
+  <node id="4457169596" lat="52.3990778" lon="0.2657973" version="7" timestamp="2023-02-06T11:15:37Z" changeset="132152849" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="2-3"/>
+    <tag k="addr:postcode" v="CB7 4NY"/>
+    <tag k="addr:street" v="Buttermarket"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="facebook" v="https://www.facebook.com/elygrazing/"/>
+    <tag k="fhrs:id" v="1489120"/>
+    <tag k="name" v="Ely Grazing Cafe"/>
+    <tag k="old_name" v="Ely Gin Company"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.elygrazing.com/"/>
+  </node>
+  <node id="4716045339" lat="52.3914774" lon="0.2659763" version="7" timestamp="2023-10-19T14:25:44Z" changeset="142818835" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4DJ"/>
+    <tag k="addr:street" v="Angel Drove"/>
+    <tag k="brand" v="Timpson"/>
+    <tag k="brand:wikidata" v="Q7807658"/>
+    <tag k="brand:wikipedia" v="en:Timpson (retailer)"/>
+    <tag k="name" v="Timpson"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-18:00; Su 10:00-16:00"/>
+    <tag k="phone" v="+44 1353 665 692"/>
+    <tag k="shop" v="locksmith"/>
+    <tag k="website" v="https://www.timpson.co.uk/stores/ely-tesco"/>
+  </node>
+  <node id="4716045342" lat="52.3914439" lon="0.2655320" version="5" timestamp="2023-10-19T14:25:44Z" changeset="142818835" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Tesco Stores"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB7 4DJ"/>
+    <tag k="addr:street" v="Angel Drove"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Costa"/>
+    <tag k="brand:wikidata" v="Q608845"/>
+    <tag k="brand:wikipedia" v="en:Costa Coffee"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="fhrs:id" v="336233"/>
+    <tag k="name" v="Costa"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="4936687368" lat="52.3922939" lon="0.2415245" version="5" timestamp="2023-10-19T14:38:24Z" changeset="142819514" uid="4345757" user="JassKurn">
+    <tag k="abandoned:amenity" v="restaurant"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="CB6 3NN"/>
+    <tag k="addr:street" v="Witchford Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Starbucks"/>
+    <tag k="brand:wikidata" v="Q37158"/>
+    <tag k="brand:wikipedia" v="en:Starbucks"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="official_name" v="Starbucks Coffee"/>
+    <tag k="old_name" v="Little Chef"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-18:00; Sa 07:00-18:00; Su 07:30-18:00"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.starbucks.com/store-locator/store/1019150/ely-witchford-road-58-witchford-road-ely-eng-cb-6-3-nn-gb"/>
+  </node>
+  <node id="5179131421" lat="52.3955060" lon="0.2597451" version="5" timestamp="2021-06-05T21:45:24Z" changeset="105898893" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4DX"/>
+    <tag k="addr:street" v="Barton Road"/>
+    <tag k="fhrs:id" v="579696"/>
+    <tag k="name" v="Bishop Woodford Retreat House"/>
+    <tag k="phone" v="+44 1353 663039"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="tourism" v="hostel"/>
+    <tag k="website" v="http://www.bishopwoodfordhouse.com"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Cristian Retreat House with one downstairs accessible room with a wetroom."/>
+  </node>
+  <node id="5315078633" lat="52.4012010" lon="0.2662747" version="4" timestamp="2024-08-24T12:44:08Z" changeset="155694428" uid="1868422" user="falcon2">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="CB7 4PQ"/>
+    <tag k="addr:street" v="Newnham Street"/>
+    <tag k="designation" v="Gymnasium"/>
+    <tag k="fee" v="yes"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="Atrium Fitness"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa,Su 08:00-15:00"/>
+    <tag k="phone" v="+44 1353 66 88 88"/>
+    <tag k="website" v="https://www.atriumfitness.co.uk/"/>
+  </node>
+  <node id="5315081979" lat="52.4015872" lon="0.2653212" version="3" timestamp="2023-01-18T19:43:05Z" changeset="131435943" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4PL"/>
+    <tag k="addr:street" v="Nutholt Lane"/>
+    <tag k="fhrs:id" v="336553"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="City of Ely Bowls Club"/>
+    <tag k="source" v="City resident (me)"/>
+    <tag k="sport" v="bowls"/>
+  </node>
+  <node id="5607977906" lat="52.4093379" lon="0.2514075" version="8" timestamp="2024-09-20T11:30:20Z" changeset="156863179" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="8A"/>
+    <tag k="addr:parentstreet" v="Downham Road"/>
+    <tag k="addr:postcode" v="CB6 2FE"/>
+    <tag k="addr:street" v="Ely Leisure Village"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Pizza Hut Delivery"/>
+    <tag k="brand:wikidata" v="Q107293079"/>
+    <tag k="check_date" v="2024-09-19"/>
+    <tag k="check_date:opening_hours" v="2024-09-19"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="fhrs:id" v="996856"/>
+    <tag k="name" v="Pizza Hut Delivery"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-23:00"/>
+    <tag k="phone" v="+44 1353 772344"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="only"/>
+    <tag k="website" v="https://www.pizzahut.co.uk/huts/uk-1/8222-ely/"/>
+  </node>
+  <node id="5607977907" lat="52.4092346" lon="0.2512965" version="7" timestamp="2023-10-19T14:38:27Z" changeset="142819514" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Costa"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:parentstreet" v="Downham Road"/>
+    <tag k="addr:postcode" v="CB6 2FE"/>
+    <tag k="addr:street" v="Downham Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Costa"/>
+    <tag k="brand:wikidata" v="Q608845"/>
+    <tag k="brand:wikipedia" v="en:Costa Coffee"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="fhrs:id" v="1007213"/>
+    <tag k="name" v="Costa"/>
+    <tag k="opening_hours" v="08:00-16:00"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5607977909" lat="52.4102257" lon="0.2514311" version="6" timestamp="2023-09-23T22:17:59Z" changeset="141662765" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:parentstreet" v="Downham Road"/>
+    <tag k="addr:postcode" v="CB6 2FE"/>
+    <tag k="addr:street" v="Ely Leisure Village"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="american;diner"/>
+    <tag k="email" v="info@arbuckles.biz"/>
+    <tag k="fhrs:id" v="945026"/>
+    <tag k="internet_access:fee" v="wlan"/>
+    <tag k="name" v="Arbuckles"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-22:30"/>
+    <tag k="phone" v="+44 1353 656710"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.arbuckles.biz"/>
+  </node>
+  <node id="6362784092" lat="52.4134734" lon="0.2750420" version="2" timestamp="2019-09-08T09:29:17Z" changeset="74222238" uid="84263" user="Robert Whittaker">
+    <tag k="addr:postcode" v="CB6 1DN"/>
+    <tag k="addr:street" v="Lynn Road"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="name" v="Cathedral Medical Centre"/>
+    <tag k="opening_hours" v="Tu-Fr 08:30-18:00; Mo 08:30-20:30; Sa 08:30-11:30"/>
+    <tag k="phone" v="+44 1353 669923"/>
+    <tag k="website" v="https://www.cathedralmedicalcentre.com"/>
+  </node>
+  <node id="6415013198" lat="52.3906885" lon="0.2664989" version="7" timestamp="2023-09-19T14:41:30Z" changeset="141472652" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Ely Station"/>
+    <tag k="addr:postcode" v="CB7 4BS"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Ely"/>
+    <tag k="naptan:AtcoCode" v="9100ELYY"/>
+    <tag k="network" v="National Rail"/>
+    <tag k="network:website" v="https://www.nationalrail.co.uk/stations/ely/"/>
+    <tag k="network:wikidata" v="Q26334"/>
+    <tag k="operator" v="Greater Anglia"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref:crs" v="ELY"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q2324504"/>
+    <tag k="wikipedia" v="en:Ely railway station"/>
+  </node>
+  <node id="7417169442" lat="52.4102220" lon="0.2510715" version="7" timestamp="2023-10-19T14:52:34Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:parentstreet" v="Downham Road"/>
+    <tag k="addr:postcode" v="CB6 2FE"/>
+    <tag k="addr:street" v="Ely Leisure Village"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="Nando's"/>
+    <tag k="brand:wikidata" v="Q3472954"/>
+    <tag k="brand:wikipedia" v="en:Nando's"/>
+    <tag k="cuisine" v="chicken;portuguese"/>
+    <tag k="fhrs:id" v="1129163"/>
+    <tag k="name" v="Nando's"/>
+    <tag k="opening_hours" v="Su-Th11:00-22:00; Fr-Sa 11:00-23:00"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.nandos.co.uk/restaurants/ely"/>
+  </node>
+  <node id="8513867147" lat="52.3994717" lon="0.2629939" version="9" timestamp="2023-01-17T15:28:44Z" changeset="131386389" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Coronation Parade"/>
+    <tag k="addr:postcode" v="CB7 4LB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:unit" v="4"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="burger;fish;fish_and_chips;soup;salad;pancake;steak;pasta;cake;pie;ice_cream;teahouse;breakfast"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:meat" v="yes"/>
+    <tag k="diet:vegan" v="no"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
+    <tag k="drink:espresso" v="yes"/>
+    <tag k="drink:hot_chocolate" v="yes"/>
+    <tag k="drink:iced_tea" v="yes"/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:milk" v="yes"/>
+    <tag k="drink:milkshake" v="yes"/>
+    <tag k="drink:soft_drink" v="yes"/>
+    <tag k="drink:tea" v="yes"/>
+    <tag k="fhrs:id" v="336531"/>
+    <tag k="name" v="Street Cafe"/>
+    <tag k="opening_hours" v="08:00-18:30"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="+44 1353 654 130"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8795907362" lat="52.3994998" lon="0.2648867" version="4" timestamp="2023-02-06T09:12:08Z" changeset="132148064" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB7 4NB"/>
+    <tag k="addr:street" v="High Street Passage"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="fhrs:id" v="1276735"/>
+    <tag k="name" v="Sushi &amp; Salad"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.sushiandsalad.com/"/>
+  </node>
+  <node id="8809470200" lat="52.3996853" lon="0.2617543" version="5" timestamp="2023-01-18T18:47:06Z" changeset="131434380" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4ER"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Ely Traders"/>
+    <tag k="shop" v="gift"/>
+    <tag k="source:addr" v="pol_branch_list_2020‑11‑13"/>
+  </node>
+  <node id="8811595965" lat="52.3992261" lon="0.2654783" version="5" timestamp="2023-10-19T14:52:39Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Boots Opticians"/>
+    <tag k="brand:wikidata" v="Q4944037"/>
+    <tag k="brand:wikipedia" v="en:Boots Opticians"/>
+    <tag k="name" v="Boots Opticians"/>
+    <tag k="shop" v="optician"/>
+    <tag k="short_name" v="Boots"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.boots.com/stores/3937-ely-high-street-opticians-cb7-4lf"/>
+  </node>
+  <node id="8811595966" lat="52.3992473" lon="0.2653845" version="8" timestamp="2023-10-19T14:52:39Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Specsavers"/>
+    <tag k="brand:wikidata" v="Q2000610"/>
+    <tag k="brand:wikipedia" v="en:Specsavers"/>
+    <tag k="name" v="Specsavers"/>
+    <tag k="shop" v="optician"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.specsavers.co.uk/stores/ely"/>
+  </node>
+  <node id="8811595973" lat="52.3994953" lon="0.2639904" version="5" timestamp="2023-01-18T19:37:37Z" changeset="131435784" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="1475500"/>
+    <tag k="fixme" v="Check on ground"/>
+    <tag k="name" v="The Ladz"/>
+    <tag k="note" v="Part of Spar shop"/>
+    <tag k="old_name" v="Subway"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.theladz.co.uk/"/>
+  </node>
+  <node id="8811595979" lat="52.3996483" lon="0.2629919" version="7" timestamp="2024-01-19T12:40:50Z" changeset="146442450" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand:wikidata" v="Q67201363"/>
+    <tag k="check_date" v="2024-01-19"/>
+    <tag k="name" v="Hughes"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:30; Su off"/>
+    <tag k="shop" v="electrical"/>
+    <tag k="website" v="https://www.hughes.co.uk/store-page/ely"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="easy wide wheelchair space"/>
+  </node>
+  <node id="8811595980" lat="52.3996409" lon="0.2630831" version="5" timestamp="2023-12-08T12:58:11Z" changeset="144902557" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="check_date" v="2023-12-08"/>
+    <tag k="name" v="Gibbs of Ely"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
+    <tag k="shop" v="shoes"/>
+    <tag k="website" v="https://gibbsshoes.co.uk/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8811595981" lat="52.3996319" lon="0.2631944" version="10" timestamp="2023-11-11T14:50:58Z" changeset="143902875" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Oxfam"/>
+    <tag k="brand:wikidata" v="Q267941"/>
+    <tag k="brand:wikipedia" v="en:Oxfam"/>
+    <tag k="check_date" v="2023-11-11"/>
+    <tag k="name" v="Oxfam"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00; Su 10:00-16:00"/>
+    <tag k="shop" v="charity"/>
+    <tag k="website" v="https://www.oxfam.org.uk/shops/oxfam-shop-ely/"/>
+  </node>
+  <node id="8811595982" lat="52.3998496" lon="0.2624454" version="2" timestamp="2021-06-10T13:47:10Z" changeset="106160115" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="1A"/>
+    <tag k="addr:postcode" v="CB7 4EG"/>
+    <tag k="addr:street" v="Lynn Road"/>
+    <tag k="fhrs:id" v="728101"/>
+    <tag k="name" v="St Mary's Sweet Shop"/>
+    <tag k="shop" v="confectionery"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="8811595983" lat="52.3998864" lon="0.2621826" version="4" timestamp="2023-01-18T18:44:02Z" changeset="131434291" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB7 4ES"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="BKK Ely Guesthouse"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://www.elyguesthouse.co.uk/"/>
+  </node>
+  <node id="8811595984" lat="52.3998721" lon="0.2620558" version="3" timestamp="2023-01-18T19:56:28Z" changeset="131436329" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4ES"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="St Mary's Antiques"/>
+    <tag k="shop" v="antiques"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="8811595993" lat="52.3996904" lon="0.2616186" version="5" timestamp="2023-01-11T17:04:16Z" changeset="131154899" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="9A"/>
+    <tag k="addr:postcode" v="CB7 4ER"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="fhrs:id" v="336292"/>
+    <tag k="name" v="White &amp; Red Cross Continental Groceries"/>
+    <tag k="shop" v="grocery"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="8811707609" lat="52.3963884" lon="0.2670852" version="3" timestamp="2022-06-04T13:06:33Z" changeset="121938460" uid="1868422" user="falcon2">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="CB7 4AH"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="healthcare" v="osteopath"/>
+    <tag k="name" v="Stockley Osteopaths"/>
+    <tag k="website" v="https://stockleyosteopaths.com/"/>
+  </node>
+  <node id="8811707613" lat="52.3957949" lon="0.2665687" version="2" timestamp="2023-08-05T16:09:48Z" changeset="139486763" uid="16853522" user="edm000">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="name" v="Cheffins"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="8811757929" lat="52.3990190" lon="0.2668020" version="3" timestamp="2023-01-22T19:25:45Z" changeset="131578745" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB7 4NP"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="name" v="Thai Touch"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://www.thaitouch.co.uk/"/>
+  </node>
+  <node id="8811757930" lat="52.3988832" lon="0.2666116" version="4" timestamp="2023-01-22T20:01:37Z" changeset="131579842" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="CB7 4NP"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="name" v="Dreem Doors"/>
+    <tag k="shop" v="kitchen"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.dreamdoors.co.uk/kitchen-showrooms/cambridge"/>
+  </node>
+  <node id="8811757932" lat="52.3992334" lon="0.2644095" version="4" timestamp="2023-01-18T22:51:35Z" changeset="131440611" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="28b"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="The Eel Catcher's Daughter"/>
+    <tag k="shop" v="gift"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.eelcatchersdaughter.co.uk/"/>
+  </node>
+  <node id="8811757933" lat="52.3992571" lon="0.2643062" version="3" timestamp="2023-01-18T22:53:30Z" changeset="131440663" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="28A"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fhrs:id" v="336528"/>
+    <tag k="name" v="Cherry Hill Chocolates"/>
+    <tag k="shop" v="confectionery"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="http://www.cherryhillchocolates.co.uk/"/>
+  </node>
+  <node id="8811757974" lat="52.3991802" lon="0.2660148" version="5" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4NT"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="brand:wikidata" v="Q8032207"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/woodgreenpetscharityely/"/>
+    <tag k="name" v="Wood Green Shop"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+  </node>
+  <node id="8811757975" lat="52.3990338" lon="0.2659491" version="5" timestamp="2023-02-06T11:15:37Z" changeset="132152849" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB7 4NY"/>
+    <tag k="addr:street" v="Buttermarket"/>
+    <tag k="brand:website" v="https://time2vape.co.uk/"/>
+    <tag k="name" v="Time 2 Vape"/>
+    <tag k="shop" v="e-cigarette"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="8821095864" lat="52.4003262" lon="0.2639790" version="2" timestamp="2021-09-01T08:15:52Z" changeset="110550992" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Fencabs"/>
+    <tag k="office" v="taxi"/>
+    <tag k="website" v="https://www.fencabs.co.uk/"/>
+  </node>
+  <node id="8821095868" lat="52.3994188" lon="0.2643002" version="3" timestamp="2023-01-17T15:32:04Z" changeset="131386524" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="21A"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Well Heeled of Ely"/>
+    <tag k="shop" v="key_cutting;sun_glasses;shoe_repair"/>
+    <tag k="website" v="https://www.wellheeledely.co.uk/"/>
+  </node>
+  <node id="8821095869" lat="52.3994413" lon="0.2642170" version="7" timestamp="2023-10-19T14:52:39Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="The Works"/>
+    <tag k="brand:wikidata" v="Q7775853"/>
+    <tag k="brand:wikipedia" v="en:The Works (retailer)"/>
+    <tag k="name" v="The Works"/>
+    <tag k="shop" v="books"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="website" v="https://www.theworks.co.uk/Store?storeId=1082"/>
+  </node>
+  <node id="8821095870" lat="52.3994666" lon="0.2640943" version="6" timestamp="2023-10-19T14:52:39Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Vodafone"/>
+    <tag k="brand:wikidata" v="Q122141"/>
+    <tag k="brand:wikipedia" v="en:Vodafone"/>
+    <tag k="name" v="Vodafone"/>
+    <tag k="shop" v="mobile_phone"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="8823524185" lat="52.3981983" lon="0.2676965" version="4" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="CB7 4AF"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="healthcare" v="counselling"/>
+    <tag k="name" v="Moon Star Therapy"/>
+    <tag k="old_name" v="Gallery Frames"/>
+  </node>
+  <node id="8823524188" lat="52.3985894" lon="0.2668020" version="3" timestamp="2023-02-05T22:09:31Z" changeset="132130098" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="name" v="Royal Barber"/>
+    <tag k="old_name" v="Robert Hutchinson"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="8823524201" lat="52.3999625" lon="0.2647072" version="3" timestamp="2023-01-11T19:52:18Z" changeset="131160112" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="23b"/>
+    <tag k="addr:postcode" v="CB7 4LZ"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Jensen's"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="website" v="https://www.jensensely.co.uk/"/>
+  </node>
+  <node id="8824592265" lat="52.3982310" lon="0.2680553" version="5" timestamp="2023-06-20T13:39:54Z" changeset="137564900" uid="12507004" user="Linfindel">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="CB7 4AA"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="brand" v="Spar"/>
+    <tag k="name" v="Spa Ely"/>
+    <tag k="not:brand:wikidata" v="Q610492"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://spa-ely.co.uk/"/>
+  </node>
+  <node id="8824592270" lat="52.3986749" lon="0.2670716" version="5" timestamp="2023-02-06T11:19:52Z" changeset="132153012" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB7 4AA"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="fhrs:id" v="1514366"/>
+    <tag k="name" v="The Cromwell"/>
+    <tag k="old_name" v="ElevenA"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://thecromwellgrillandwinebar.co.uk/"/>
+  </node>
+  <node id="8824592271" lat="52.3987801" lon="0.2668208" version="10" timestamp="2024-10-15T16:49:26Z" changeset="157929693" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB7 4AA"/>
+    <tag k="addr:street" v="Fore Hill"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Papa John's"/>
+    <tag k="brand:wikidata" v="Q2759586"/>
+    <tag k="brand:wikipedia" v="en:Papa John's"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="check_date:opening_hours" v="2024-10-15"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="1384960"/>
+    <tag k="name" v="Papa John's"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
+    <tag k="phone" v="+44 1353 469499"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.papajohns.co.uk/stores/ely"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8824592274" lat="52.3993242" lon="0.2639508" version="4" timestamp="2023-01-17T14:19:01Z" changeset="131381507" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Pocock &amp; Shaw"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="website" v="https://www.pocock.co.uk/"/>
+  </node>
+  <node id="8824592283" lat="52.3994814" lon="0.2629249" version="5" timestamp="2023-02-06T09:10:09Z" changeset="132148000" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Coronation Parade"/>
+    <tag k="addr:postcode" v="CB7 4LB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:unit" v="5"/>
+    <tag k="fhrs:id" v="1174080"/>
+    <tag k="name" v="Little Europe Mini Market"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="source:name" v="FHRS Open Data"/>
+  </node>
+  <node id="8824592284" lat="52.3994429" lon="0.2632011" version="7" timestamp="2023-10-19T14:52:39Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Coronation Parade"/>
+    <tag k="addr:postcode" v="CB7 4LB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:unit" v="1"/>
+    <tag k="brand" v="Scope"/>
+    <tag k="brand:wikidata" v="Q7434435"/>
+    <tag k="brand:wikipedia" v="en:Scope (charity)"/>
+    <tag k="name" v="Scope"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+  </node>
+  <node id="8824592285" lat="52.3994525" lon="0.2631321" version="8" timestamp="2023-10-19T14:52:39Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Coronation Parade"/>
+    <tag k="addr:postcode" v="CB7 4LB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:unit" v="2"/>
+    <tag k="brand" v="Cancer Research UK"/>
+    <tag k="brand:wikidata" v="Q326079"/>
+    <tag k="brand:wikipedia" v="en:Cancer Research UK"/>
+    <tag k="name" v="Cancer Research UK"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.cancerresearchuk.org/get-involved/find-a-shop/ely"/>
+  </node>
+  <node id="8824592286" lat="52.3994621" lon="0.2630630" version="5" timestamp="2023-02-06T11:24:24Z" changeset="132153157" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Coronation Parade"/>
+    <tag k="addr:postcode" v="CB7 4LB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:unit" v="3"/>
+    <tag k="name" v="Ely Barbers"/>
+    <tag k="old_name" v="Ely Lighting &amp; Gifts"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+  </node>
+  <node id="8824592288" lat="52.3995149" lon="0.2627894" version="4" timestamp="2023-01-18T22:51:35Z" changeset="131440611" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Price Bailey"/>
+    <tag k="office" v="accountant"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.pricebailey.co.uk/locations/ely/"/>
+  </node>
+  <node id="8824592289" lat="52.3995296" lon="0.2626687" version="5" timestamp="2023-12-08T12:58:11Z" changeset="144902557" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="check_date" v="2023-12-08"/>
+    <tag k="disused:shop" v="clothes"/>
+    <tag k="facebook" v="https://www.facebook.com/littleroosely/"/>
+    <tag k="name" v="Little Roos"/>
+    <tag k="website" v="https://www.littleroos-ely.co.uk/"/>
+  </node>
+  <node id="8824592290" lat="52.3995313" lon="0.2626017" version="2" timestamp="2023-01-18T22:53:30Z" changeset="131440663" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB7 4JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Wade's"/>
+    <tag k="shop" v="optician"/>
+    <tag k="website" v="https://www.wadesofely.co.uk/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9009252835" lat="52.3992106" lon="0.2591472" version="2" timestamp="2023-02-06T18:19:29Z" changeset="132169599" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Poets House"/>
+    <tag k="addr:postcode" v="CB7 4EY"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="fhrs:id" v="922029"/>
+    <tag k="name" v="The Dining Room"/>
+    <tag k="phone" v="+441353887777"/>
+    <tag k="website" v="https://www.poetshouse.co.uk/dine/"/>
+  </node>
+  <node id="9009252850" lat="52.3992074" lon="0.2657531" version="2" timestamp="2023-01-11T18:42:49Z" changeset="131157754" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB7 4NY"/>
+    <tag k="addr:street" v="Buttermarket"/>
+    <tag k="name" v="House of Pure"/>
+    <tag k="opening_hours" v="Th 09:30-17:30; Tu,We,Fr 10:00-18:00; Sa 09:00-15:00"/>
+    <tag k="phone" v="+441353661321"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://www.houseofpure.co.uk/"/>
+  </node>
+  <node id="10004156517" lat="52.3984067" lon="0.2490613" version="3" timestamp="2023-10-06T17:41:58Z" changeset="142242574" uid="20378261" user="Oppy Enson">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Hereward street"/>
+    <tag k="check_date:opening_hours" v="2023-10-06"/>
+    <tag k="contact:instagram" v="principalpcbuilders"/>
+    <tag k="contact:twitter" v="PrincipalBuilds"/>
+    <tag k="email" v="principalpcbuilders@gmail.com"/>
+    <tag k="name" v="PrincipalPCBuilders"/>
+    <tag k="opening_hours" v="Mo-Tu, Th-Fr 11:00-16:00"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="shop" v="computer"/>
+  </node>
+  <node id="10540405615" lat="52.3996589" lon="0.2655910" version="4" timestamp="2023-02-06T14:04:42Z" changeset="132159334" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3A"/>
+    <tag k="addr:postcode" v="CB7 4PB"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Fone Tech"/>
+    <tag k="shop" v="mobile_phone"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://fonetechely.co.uk/"/>
+  </node>
+  <node id="10565833632" lat="52.4000667" lon="0.2651413" version="4" timestamp="2023-10-30T11:41:16Z" changeset="143360686" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Natwest"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB7 4YY"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="NatWest"/>
+    <tag k="brand:wikidata" v="Q2740021"/>
+    <tag k="brand:wikipedia" v="en:NatWest"/>
+    <tag k="name" v="NatWest"/>
+    <tag k="website" v="https://www.natwest.com/search-results/locator/branch.html?sortcode=524119&amp;name=Ely"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10565845939" lat="52.3996561" lon="0.2617568" version="2" timestamp="2023-01-31T15:45:38Z" changeset="131927261" uid="90943" user="chris_debian">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Ely Traders"/>
+    <tag k="addr:postcode" v="CB7 4ER"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="name" v="Ely Post Office"/>
+    <tag k="ref:pol_id" v="174596"/>
+    <tag k="source:addr" v="pol_branch_list_2020‑11‑13"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/0091138/ely"/>
+  </node>
+  <node id="10565972321" lat="52.3997121" lon="0.2628458" version="3" timestamp="2024-01-19T12:40:50Z" changeset="146442450" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB7 4LJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="check_date" v="2024-01-19"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/easycoffeeshopely/"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="disused:amenity" v="cafe"/>
+    <tag k="fhrs:id" v="1373691"/>
+    <tag k="name" v="Easy Coffee Shop"/>
+  </node>
+  <node id="10575113601" lat="52.3992997" lon="0.2661288" version="2" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="20-22"/>
+    <tag k="addr:postcode" v="CB7 4NT"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/people/Ely-Food-Centre/100068065010439/"/>
+    <tag k="fhrs:id" v="1399600"/>
+    <tag k="name" v="Ely Food centre"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="10608615401" lat="52.4006585" lon="0.2644068" version="2" timestamp="2023-02-06T14:11:02Z" changeset="132159608" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LU"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="brand" v="Jobcentre Plus"/>
+    <tag k="brand:wikidata" v="Q6206793"/>
+    <tag k="name" v="Jobcentre Plus"/>
+    <tag k="office" v="employment_agency"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="10608615403" lat="52.3996152" lon="0.2648352" version="4" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB7 4NB"/>
+    <tag k="addr:street" v="High Street Passage"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/thetreasurechestely"/>
+    <tag k="name" v="The Treasure Chest"/>
+    <tag k="shop" v="gift"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="10608615404" lat="52.3996354" lon="0.2649821" version="3" timestamp="2023-02-06T09:10:09Z" changeset="132148000" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB7 4NB"/>
+    <tag k="addr:street" v="High Street Passage"/>
+    <tag k="fhrs:id" v="336137"/>
+    <tag k="name" v="Boswell and Son"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="website" v="https://boswellandson.co.uk/"/>
+  </node>
+  <node id="10608700605" lat="52.3997781" lon="0.2649759" version="3" timestamp="2023-06-05T23:40:41Z" changeset="136992300" uid="5229644" user="Nathan_A_RF">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB7 4NB"/>
+    <tag k="addr:street" v="High Street Passage"/>
+    <tag k="name" v="Italian Jewellery Ltd"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://www.italianjewelleryltd.uk/"/>
+  </node>
+  <node id="10608700606" lat="52.3996279" lon="0.2657146" version="3" timestamp="2024-09-28T19:46:37Z" changeset="157226511" uid="12752888" user="U42">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB7 4PB"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="1137161"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Market Kitchen"/>
+    <tag k="old_name" v="Lunchbox"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="10609075854" lat="52.4004630" lon="0.2626697" version="2" timestamp="2023-02-06T20:13:32Z" changeset="132174292" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB7 4EG"/>
+    <tag k="addr:street" v="Lynn Road"/>
+    <tag k="name" v="Lovewell Blake"/>
+    <tag k="office" v="accountant"/>
+    <tag k="website" v="https://www.lovewell-blake.co.uk/contact/offices/ely-office"/>
+  </node>
+  <node id="10609075855" lat="52.4004016" lon="0.2636227" version="3" timestamp="2023-02-06T09:10:09Z" changeset="132148000" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:postcode" v="CB7 4LS"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="jamaican"/>
+    <tag k="fhrs:id" v="1381884"/>
+    <tag k="name" v="Dutchie &amp; Grill"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.dutchieandgrill.co.uk/"/>
+  </node>
+  <node id="10609075856" lat="52.4002548" lon="0.2631864" version="2" timestamp="2023-02-06T14:05:42Z" changeset="132159384" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="57-59"/>
+    <tag k="addr:postcode" v="CB7 4LP"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="Labour-Tech"/>
+    <tag k="office" v="employment_agency"/>
+    <tag k="website" v="https://www.labourtech.co.uk/"/>
+  </node>
+  <node id="10609152439" lat="52.4002204" lon="0.2634566" version="1" timestamp="2023-02-05T23:11:53Z" changeset="132131373" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="CB7 4LR"/>
+    <tag k="addr:street" v="Market Street"/>
+    <tag k="name" v="HEY Solicitors"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="website" v="http://www.heysolicitors.co.uk/"/>
+  </node>
+  <node id="10612154498" lat="52.3987334" lon="0.2578609" version="4" timestamp="2023-11-11T12:20:54Z" changeset="143897505" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="CB7 4EY"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2023-11-11"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="St Mary's Pharmacy"/>
+    <tag k="opening_hours" v="Mo-Th 09:00-18:00; Fr 09:00-13:00,14:00-18:00; Sa 09:00-17:00; Su off"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://stmaryspharmacy.co.uk/"/>
+  </node>
+  <node id="10612154500" lat="52.3972922" lon="0.2699069" version="2" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="CB7 4AU"/>
+    <tag k="addr:street" v="Waterside"/>
+    <tag k="healthcare" v="alternative"/>
+    <tag k="healthcare:speciality" v="chiropractic"/>
+    <tag k="name" v="Ely Chiropractic Clinic"/>
+  </node>
+  <node id="10612154501" lat="52.3992595" lon="0.2669879" version="2" timestamp="2023-02-06T18:29:45Z" changeset="132170024" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4QN"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="name" v="Ward Gethin Archer"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+    <tag k="website" v="https://www.wga.co.uk/about/offices/ely"/>
+  </node>
+  <node id="10612504810" lat="52.3999948" lon="0.2625433" version="3" timestamp="2023-02-06T20:12:24Z" changeset="132174250" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB7 4EG"/>
+    <tag k="addr:street" v="Lynn Road"/>
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="fhrs:id" v="1156918"/>
+    <tag k="name" v="Hadi's"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="http://www.hadis-gelato.co.uk/"/>
+  </node>
+  <node id="10612504811" lat="52.4000893" lon="0.2625883" version="2" timestamp="2023-02-06T20:09:00Z" changeset="132174114" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="3A"/>
+    <tag k="addr:postcode" v="CB7 4EG"/>
+    <tag k="addr:street" v="Lynn Road"/>
+    <tag k="name" v="Utopia Barber Shop"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="http://www.utopiaely.co.uk/"/>
+  </node>
+  <node id="10819771400" lat="52.3968067" lon="0.2674100" version="3" timestamp="2024-10-25T18:51:25Z" changeset="158350907" uid="486701" user="eteb3">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="CB7 4AH"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="air_conditioning" v="no"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="denomination" v="sunni"/>
+    <tag k="email" v="info@elyislamiccentre.org"/>
+    <tag k="name" v="Ely Islamic Centre"/>
+    <tag k="reg_charity_no" v="1187894"/>
+    <tag k="religion" v="muslim"/>
+    <tag k="service_times:url" v="elyislamiccentre.org"/>
+    <tag k="website" v="https://elyislamiccentre.org/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="11091716674" lat="52.3984488" lon="0.2662789" version="1" timestamp="2023-08-05T16:09:48Z" changeset="139486763" uid="16853522" user="edm000">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB7 4AN"/>
+    <tag k="addr:street" v="Three Cups Walk"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sophie's Afternoon Tea and Cakes"/>
+  </node>
+  <node id="11211163382" lat="52.3735995" lon="0.2920353" version="3" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 5"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="alt_name" v="Amelie Cafe &amp; Bake Shop"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Amelie Cafe"/>
+    <tag k="old_name" v="Ben's Yard Cafe"/>
+    <tag k="website" v="https://www.bensyard.co.uk/ameliecafe"/>
+  </node>
+  <node id="11211163383" lat="52.3734702" lon="0.2922512" version="3" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 4"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Amelie Restaurant"/>
+    <tag k="old_name" v="Ben's Yard Restaurant"/>
+    <tag k="website" v="https://www.bensyard.co.uk/amelierestaurant"/>
+  </node>
+  <node id="11211163390" lat="52.3736609" lon="0.2924953" version="3" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 8"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="name" v="Spoke and Motor"/>
+    <tag k="shop" v="bicycle"/>
+    <tag k="website" v="https://www.bensyard.co.uk/spoke-and-motor"/>
+  </node>
+  <node id="11281062669" lat="52.3870686" lon="0.2623471" version="2" timestamp="2023-11-03T14:30:32Z" changeset="143577303" uid="242345" user="confusedbuffalo">
+    <tag k="addr:housenumber" v="Unit 22"/>
+    <tag k="addr:postcode" v="CB7 4GS"/>
+    <tag k="addr:street" v="The Dock"/>
+    <tag k="email" v="admin@bandtmotors.co.uk"/>
+    <tag k="name" v="B &amp; T Motors"/>
+    <tag k="name:en" v="B &amp; T Motor Repairs"/>
+    <tag k="phone" v="+44 1353 667788"/>
+    <tag k="shop" v="car_repair"/>
+  </node>
+  <node id="11736674061" lat="52.3999449" lon="0.2625563" version="1" timestamp="2024-03-16T12:17:15Z" changeset="148728983" uid="21211020" user="Scott Colling">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="1B"/>
+    <tag k="addr:postcode" v="CB7 4EG"/>
+    <tag k="addr:street" v="Lynn Road"/>
+    <tag k="name" v="The Ely Computer Centre"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-17:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="phone" v="01353 505750"/>
+    <tag k="shop" v="computer"/>
+  </node>
+  <node id="12040037839" lat="52.3737344" lon="0.2925843" version="1" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 10"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="name" v="Arlo &amp; Jacob"/>
+    <tag k="shop" v="furniture"/>
+    <tag k="website" v="https://www.bensyard.co.uk/arlo-and-jacob"/>
+  </node>
+  <node id="12040037840" lat="52.3737459" lon="0.2922383" version="1" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 9"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="name" v="Freda &amp; Bert"/>
+    <tag k="shop" v="gift"/>
+    <tag k="website" v="https://www.bensyard.co.uk/freda-and-bert"/>
+  </node>
+  <node id="12040037841" lat="52.3734020" lon="0.2923885" version="1" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 2"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="name" v="Love Lane by Abi"/>
+    <tag k="shop" v="houseware"/>
+    <tag k="website" v="https://www.bensyard.co.uk/love-lane-by-abi"/>
+  </node>
+  <node id="12040037842" lat="52.3736755" lon="0.2921458" version="1" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 7"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="name" v="Thatch &amp; Roses"/>
+    <tag k="shop" v="florist"/>
+    <tag k="website" v="https://www.bensyard.co.uk/thatch-roses"/>
+  </node>
+  <node id="12040037844" lat="52.3738147" lon="0.2923282" version="1" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 11"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="name" v="Something About Rose"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="website" v="https://www.bensyard.co.uk/something-about-rose"/>
+  </node>
+  <node id="12040037845" lat="52.3738924" lon="0.2924315" version="1" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 13"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="name" v="The Hair Company"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="12040037846" lat="52.3737852" lon="0.2926447" version="1" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 12"/>
+    <tag k="addr:postcode" v="CB7 5TR"/>
+    <tag k="addr:street" v="Bens Yard"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="The Ness Club"/>
+    <tag k="sport" v="yoga"/>
+  </node>
+  <node id="12215755097" lat="52.3984492" lon="0.2569341" version="3" timestamp="2024-10-18T10:27:57Z" changeset="158043238" uid="20378261" user="Oppy Enson">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="82b St Mary's Street"/>
+    <tag k="addr:postcode" v="CB7 4HH"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="name" v="Studio Nova Ltd"/>
+    <tag k="office" v="graphic_design"/>
+    <tag k="phone" v="01353 882111"/>
+    <tag k="website" v="https://www.studionova.co.uk/"/>
+  </node>
+  <way id="4593696" version="10" timestamp="2023-11-21T00:33:02Z" changeset="144266924" uid="10875409" user="Friendly_Ghost">
+    <nd ref="29043663"/>
+    <nd ref="1593157615"/>
+    <nd ref="1593157616"/>
+    <nd ref="29043655"/>
+    <nd ref="29043658"/>
+    <nd ref="4818408006"/>
+    <nd ref="4818407905"/>
+    <nd ref="4818407928"/>
+    <nd ref="4818408729"/>
+    <nd ref="2312886133"/>
+    <nd ref="29043660"/>
+    <nd ref="10680761029"/>
+    <nd ref="29043663"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="fee" v="yes"/>
+    <tag k="maxstay" v="2 hours"/>
+    <tag k="name" v="St Mary's Car Park - Short Stay"/>
+    <tag k="park_ride" v="no"/>
+    <tag k="parking" v="surface"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="4593816" version="20" timestamp="2023-09-24T19:29:54Z" changeset="141696758" uid="37791" user="Fradeve11">
+    <nd ref="29043940"/>
+    <nd ref="10611964771"/>
+    <nd ref="3024399559"/>
+    <nd ref="3024399558"/>
+    <nd ref="3024399543"/>
+    <nd ref="10611964767"/>
+    <nd ref="10611964766"/>
+    <nd ref="2529775853"/>
+    <nd ref="2529775855"/>
+    <nd ref="2529531107"/>
+    <nd ref="2536637676"/>
+    <nd ref="2529775857"/>
+    <nd ref="2529775858"/>
+    <nd ref="2529775851"/>
+    <nd ref="2529775859"/>
+    <nd ref="2529775860"/>
+    <nd ref="2529775847"/>
+    <nd ref="29043923"/>
+    <nd ref="2303727859"/>
+    <nd ref="2303727862"/>
+    <nd ref="29043924"/>
+    <nd ref="10012002085"/>
+    <nd ref="2303727831"/>
+    <nd ref="10012002086"/>
+    <nd ref="2306406373"/>
+    <nd ref="29043933"/>
+    <nd ref="29043934"/>
+    <nd ref="2306406294"/>
+    <nd ref="2306406372"/>
+    <nd ref="10705189651"/>
+    <nd ref="29043936"/>
+    <nd ref="29043937"/>
+    <nd ref="29043939"/>
+    <nd ref="29043940"/>
+    <tag k="addr:postcode" v="CB7 4DB"/>
+    <tag k="addr:street" v="Barton Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="1250"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="isced:level" v="0;1;2;3"/>
+    <tag k="max_age" v="18"/>
+    <tag k="min_age" v="2"/>
+    <tag k="name" v="King's Ely"/>
+    <tag k="old_name" v="The King's School"/>
+    <tag k="phone" v="+44 1353 660700"/>
+    <tag k="ref:GB:uprn" v="10002597161"/>
+    <tag k="ref:edubase" v="110916"/>
+    <tag k="religion" v="christian"/>
+    <tag k="school:boarding" v="yes"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="independent"/>
+    <tag k="website" v="https://www.kingsely.org/"/>
+    <tag k="wikidata" v="Q7744468"/>
+    <tag k="wikipedia" v="en:King's Ely"/>
+  </way>
   <way id="4593865" version="6" timestamp="2019-02-22T22:09:06Z" changeset="67482128" uid="2274390" user="dzidek23">
     <nd ref="29043998"/>
     <nd ref="2313007848"/>
@@ -19,6 +2729,85 @@
     <tag k="addr:street" v="Barton Road"/>
     <tag k="building" v="public"/>
     <tag k="name" v="The Forum"/>
+  </way>
+  <way id="4603914" version="15" timestamp="2023-02-11T16:02:38Z" changeset="132411064" uid="84263" user="Robert Whittaker">
+    <nd ref="837955809"/>
+    <nd ref="4819934919"/>
+    <nd ref="29043928"/>
+    <nd ref="3047147265"/>
+    <nd ref="3047147266"/>
+    <nd ref="3047147258"/>
+    <nd ref="4819935664"/>
+    <nd ref="4819935502"/>
+    <nd ref="29043929"/>
+    <nd ref="737923065"/>
+    <nd ref="737929692"/>
+    <nd ref="737914107"/>
+    <nd ref="29043916"/>
+    <nd ref="29043917"/>
+    <nd ref="10649361233"/>
+    <nd ref="10649361232"/>
+    <nd ref="674203224"/>
+    <nd ref="4747175537"/>
+    <nd ref="10649157939"/>
+    <nd ref="4747175536"/>
+    <nd ref="4747175535"/>
+    <nd ref="29043918"/>
+    <nd ref="2303727807"/>
+    <nd ref="29043919"/>
+    <nd ref="29043920"/>
+    <nd ref="29043921"/>
+    <nd ref="29042397"/>
+    <nd ref="29043931"/>
+    <nd ref="2303727859"/>
+    <nd ref="2303727862"/>
+    <nd ref="29043924"/>
+    <nd ref="10012002085"/>
+    <nd ref="2303727831"/>
+    <nd ref="10012002086"/>
+    <nd ref="2306406373"/>
+    <nd ref="4857847349"/>
+    <nd ref="2303727881"/>
+    <nd ref="7906903157"/>
+    <nd ref="837955809"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:postcode" v="CB7 4HX"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="description" v="18 hole Par 72"/>
+    <tag k="golf:course" v="18_hole"/>
+    <tag k="golf:par" v="72"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="Ely City Golf Club"/>
+    <tag k="operator" v="info@elygolf.co.uk"/>
+    <tag k="phone" v="+44 1353 663317;+44 1353 662751"/>
+    <tag k="website" v="https://www.elygolf.co.uk/"/>
+  </way>
+  <way id="4696981" version="7" timestamp="2020-09-14T22:09:59Z" changeset="90887654" uid="5173844" user="ndrw6">
+    <nd ref="29864898"/>
+    <nd ref="2443310365"/>
+    <nd ref="2282192181"/>
+    <nd ref="29864899"/>
+    <nd ref="2443311874"/>
+    <nd ref="2443311873"/>
+    <nd ref="29864896"/>
+    <nd ref="1593004036"/>
+    <nd ref="1593004034"/>
+    <nd ref="7906902297"/>
+    <nd ref="2282192227"/>
+    <nd ref="7906902299"/>
+    <nd ref="2443310364"/>
+    <nd ref="7906902301"/>
+    <nd ref="29864897"/>
+    <nd ref="29864898"/>
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Brays Lane"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="fee" v="no"/>
+    <tag k="name" v="Waitrose Car Park"/>
+    <tag k="parking" v="surface"/>
+    <tag k="surface" v="paved"/>
   </way>
   <way id="57833289" version="14" timestamp="2024-09-09T15:54:13Z" changeset="156401613" uid="21425661" user="CjMalone">
     <nd ref="2282192212"/>
@@ -201,6 +2990,57 @@
     <tag k="wheelchair:description" v="Entrance around the back for wheelchairs, disabled toilet"/>
     <tag k="wikidata" v="Q26616593"/>
   </way>
+  <way id="205979175" version="3" timestamp="2022-01-04T17:25:47Z" changeset="115764451" uid="2400059" user="Pablo Rodriguez">
+    <nd ref="2159806654"/>
+    <nd ref="2159806644"/>
+    <nd ref="2159806632"/>
+    <nd ref="2159806624"/>
+    <nd ref="2159806618"/>
+    <nd ref="2159806576"/>
+    <nd ref="2159806563"/>
+    <nd ref="2159806547"/>
+    <nd ref="2159806541"/>
+    <nd ref="2159806544"/>
+    <nd ref="2159806558"/>
+    <nd ref="2159806572"/>
+    <nd ref="2159806585"/>
+    <nd ref="2159806591"/>
+    <nd ref="2159806595"/>
+    <nd ref="2159806622"/>
+    <nd ref="2159806627"/>
+    <nd ref="2159806641"/>
+    <nd ref="2159806651"/>
+    <nd ref="2159806654"/>
+    <tag k="addr:city" v="Witchford"/>
+    <tag k="addr:postcode" v="CB6 3FA"/>
+    <tag k="addr:street" v="Stirling Way"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="Witchford Recycling Centre"/>
+    <tag k="note" v="opened to replace Grunty Fen Recycling Centre, now closed."/>
+    <tag k="operator" v="Cambridgeshire County Council"/>
+    <tag k="owner" v="Cambridgeshire County Council"/>
+    <tag k="ownership" v="municipal"/>
+    <tag k="recycling:batteries" v="yes"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:cardboard" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:garden_waste" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:newspaper" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:plastic_bottles" v="yes"/>
+    <tag k="recycling:scrap_metal" v="yes"/>
+    <tag k="recycling:shoes" v="yes"/>
+    <tag k="recycling:small_appliances" v="yes"/>
+    <tag k="recycling:wood" v="yes"/>
+    <tag k="recycling_type" v="centre"/>
+    <tag k="source" v="survey + bing"/>
+    <tag k="website" v="https://www.cambridgeshire.gov.uk/directory/listings/witchford-waste-recycling-centre"/>
+    <tag k="wikidata" v="Q106094033"/>
+  </way>
   <way id="217408134" version="6" timestamp="2023-02-06T18:17:21Z" changeset="132169511" uid="84263" user="Robert Whittaker">
     <nd ref="2266782496"/>
     <nd ref="2266782499"/>
@@ -226,6 +3066,65 @@
     <tag k="website" v="https://www.olivercromwellshouse.co.uk/"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q7087467"/>
+  </way>
+  <way id="218874180" version="10" timestamp="2024-08-22T14:23:02Z" changeset="155608896" uid="13416516" user="Mikey Co">
+    <nd ref="1503035073"/>
+    <nd ref="1503035070"/>
+    <nd ref="12127819414"/>
+    <nd ref="12127819415"/>
+    <nd ref="12127819416"/>
+    <nd ref="1503035010"/>
+    <nd ref="2280831897"/>
+    <nd ref="2280831850"/>
+    <nd ref="2280831916"/>
+    <nd ref="2280831876"/>
+    <nd ref="2280831911"/>
+    <nd ref="3101742541"/>
+    <nd ref="2280831912"/>
+    <nd ref="2280831839"/>
+    <nd ref="1503035068"/>
+    <nd ref="1503035121"/>
+    <nd ref="3101747862"/>
+    <nd ref="3101747878"/>
+    <nd ref="2280831903"/>
+    <nd ref="1503035129"/>
+    <nd ref="2884134996"/>
+    <nd ref="2884134995"/>
+    <nd ref="11214263519"/>
+    <nd ref="1503035018"/>
+    <nd ref="11214317266"/>
+    <nd ref="11214317267"/>
+    <nd ref="3101752269"/>
+    <nd ref="3101752271"/>
+    <nd ref="1503035072"/>
+    <nd ref="3101752274"/>
+    <nd ref="3101752273"/>
+    <nd ref="3101752283"/>
+    <nd ref="1503035076"/>
+    <nd ref="3101752278"/>
+    <nd ref="3101752285"/>
+    <nd ref="1503034985"/>
+    <nd ref="3101752276"/>
+    <nd ref="3101752280"/>
+    <nd ref="3101752281"/>
+    <nd ref="11214263515"/>
+    <nd ref="11214263514"/>
+    <nd ref="11214263513"/>
+    <nd ref="11214263512"/>
+    <nd ref="3101752345"/>
+    <nd ref="1503035024"/>
+    <nd ref="1503035013"/>
+    <nd ref="1503035073"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB6 2SH"/>
+    <tag k="addr:street" v="Downham Road"/>
+    <tag k="description" v="9 hole Par 31"/>
+    <tag k="golf:course" v="9_hole"/>
+    <tag k="golf:par" v="31"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="Ely On Par Golf Club"/>
+    <tag k="phone" v="+44 1353 669192"/>
+    <tag k="website" v="https://elydrivingrange.co.uk"/>
   </way>
   <way id="219013930" version="14" timestamp="2023-07-01T16:53:37Z" changeset="137999462" uid="3190283" user="robhlam">
     <nd ref="2282192224"/>
@@ -1107,6 +4006,26 @@
     <tag k="source:building" v="Bing"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="224244797" version="3" timestamp="2021-09-28T19:36:52Z" changeset="111835142" uid="1868422" user="falcon2">
+    <nd ref="2330639682"/>
+    <nd ref="2330639683"/>
+    <nd ref="2330639685"/>
+    <nd ref="2330639686"/>
+    <nd ref="2330639687"/>
+    <nd ref="2330639679"/>
+    <nd ref="2330639663"/>
+    <nd ref="2330639653"/>
+    <nd ref="2330639655"/>
+    <nd ref="2330639682"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="The Old Clinic"/>
+    <tag k="addr:postcode" v="CB6 1AF"/>
+    <tag k="addr:street" v="Downham Road"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="fhrs:id" v="336512"/>
+    <tag k="name" v="Rainbow Preschool"/>
+    <tag k="website" v="https://www.rainbowpreschool.co.uk/"/>
+  </way>
   <way id="224244799" version="3" timestamp="2023-01-31T15:45:38Z" changeset="131927261" uid="90943" user="chris_debian">
     <nd ref="2330639600"/>
     <nd ref="2330639588"/>
@@ -1162,6 +4081,29 @@
     <tag k="name" v="Ely Day Nursery"/>
     <tag k="operator" v="Bright Horizons"/>
     <tag k="source:addr" v="FHRS Open Data"/>
+  </way>
+  <way id="224247712" version="4" timestamp="2024-07-12T11:37:55Z" changeset="153851611" uid="20378261" user="Oppy Enson">
+    <nd ref="2330668652"/>
+    <nd ref="2330668655"/>
+    <nd ref="2330668657"/>
+    <nd ref="2330668659"/>
+    <nd ref="2330668662"/>
+    <nd ref="2330668664"/>
+    <nd ref="2330668652"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="Unit 22"/>
+    <tag k="addr:postcode" v="CB7 4GS"/>
+    <tag k="addr:street" v="The Dock"/>
+    <tag k="amenity" v="vehicle_inspection"/>
+    <tag k="name" v="B &amp; T Motor Repairs"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+44 1353 667788"/>
+    <tag k="service:vehicle:car_repair" v="yes"/>
+    <tag k="service:vehicle:inspection" v="yes"/>
+    <tag k="service:vehicle:oil_change" v="yes"/>
+    <tag k="service:vehicle:tyres" v="yes"/>
+    <tag k="shop" v="car_repair"/>
   </way>
   <way id="224247720" version="6" timestamp="2024-07-12T11:37:55Z" changeset="153851611" uid="20378261" user="Oppy Enson">
     <nd ref="2330668750"/>
@@ -1536,6 +4478,27 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="W R Jackson &amp; Son"/>
   </way>
+  <way id="302167837" version="3" timestamp="2021-05-26T23:17:02Z" changeset="105383072" uid="3468274" user="Adam Miller">
+    <nd ref="29042419"/>
+    <nd ref="8770484344"/>
+    <nd ref="3064154371"/>
+    <nd ref="3064154372"/>
+    <nd ref="3064154375"/>
+    <nd ref="3064154373"/>
+    <nd ref="29042419"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4EA"/>
+    <tag k="addr:street" v="Bartholomew's Walk"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Angel Drove Car Park"/>
+    <tag k="operator" v="East Cambridgeshire District Council"/>
+    <tag k="park_ride" v="no"/>
+    <tag k="parking" v="surface"/>
+    <tag k="supervised" v="no"/>
+    <tag k="surface" v="paved"/>
+  </way>
   <way id="305535721" version="4" timestamp="2023-09-23T22:17:59Z" changeset="141662765" uid="11022773" user="GeoFens">
     <nd ref="3101751903"/>
     <nd ref="3101751901"/>
@@ -1600,6 +4563,39 @@
     <tag k="operator:wikidata" v="Q7096543"/>
     <tag k="ref" v="EAELY"/>
     <tag k="telecom" v="exchange"/>
+  </way>
+  <way id="353847658" version="9" timestamp="2023-12-08T12:11:49Z" changeset="144900886" uid="242345" user="confusedbuffalo">
+    <nd ref="3596480138"/>
+    <nd ref="3596480513"/>
+    <nd ref="10901999196"/>
+    <nd ref="3596480127"/>
+    <nd ref="3596480151"/>
+    <nd ref="3596480152"/>
+    <nd ref="10844838158"/>
+    <nd ref="10844838156"/>
+    <nd ref="10844838157"/>
+    <nd ref="8026415520"/>
+    <nd ref="3596480523"/>
+    <nd ref="3596480515"/>
+    <nd ref="3596480138"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Acremont House"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="CB6 1AE"/>
+    <tag k="addr:street" v="Egremont Street"/>
+    <tag k="amenity" v="school"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="fhrs:id" v="336514"/>
+    <tag k="name" v="The King's School Acremont House (Pre-prep)"/>
+    <tag k="phone" v="+44 1353 660700"/>
+    <tag k="ref:edubase" v="110916"/>
+    <tag k="religion" v="christian"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="independent"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.kingsely.org/kings-ely-acremont-nursery/"/>
+    <tag k="wikidata" v="Q7744468"/>
+    <tag k="wikipedia" v="en:King's Ely"/>
   </way>
   <way id="353855170" version="6" timestamp="2019-02-22T01:04:10Z" changeset="67448750" uid="2400834" user="Gyrwa">
     <nd ref="6294676168"/>
@@ -1749,6 +4745,40 @@
     <tag k="phone" v="+44 1353 612 818"/>
     <tag k="website" v="https://isleofelyprimary.org/"/>
   </way>
+  <way id="546478475" version="10" timestamp="2024-09-02T16:00:35Z" changeset="156105708" uid="5173844" user="ndrw6">
+    <nd ref="5281132270"/>
+    <nd ref="5281132271"/>
+    <nd ref="5281132272"/>
+    <nd ref="5281132273"/>
+    <nd ref="5281132274"/>
+    <nd ref="5281132282"/>
+    <nd ref="5281132275"/>
+    <nd ref="5281132276"/>
+    <nd ref="12151864550"/>
+    <nd ref="5281132277"/>
+    <nd ref="5281132270"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB6 2FG"/>
+    <tag k="addr:street" v="School Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="420"/>
+    <tag k="fhrs:id" v="1000645"/>
+    <tag k="isced:level" v="0;1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="3"/>
+    <tag k="name" v="Isle of Ely Primary School"/>
+    <tag k="phone" v="+44 1353 612818"/>
+    <tag k="ref:GB:uprn" v="10002610395"/>
+    <tag k="ref:edubase" v="140483"/>
+    <tag k="ref:edubase:group" v="2075"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="The Active Learning Trust Limited"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.isleofelyprimary.org/"/>
+    <tag k="wikidata" v="Q66230417"/>
+  </way>
   <way id="546479754" version="5" timestamp="2021-10-05T17:50:39Z" changeset="112134674" uid="1868422" user="falcon2">
     <nd ref="5281148351"/>
     <nd ref="5281148352"/>
@@ -1860,6 +4890,105 @@
     <tag k="building:levels" v="3"/>
     <tag k="name" v="Roslyn Court"/>
   </way>
+  <way id="626396582" version="8" timestamp="2023-09-19T08:28:41Z" changeset="141457077" uid="37791" user="Fradeve11">
+    <nd ref="5913651462"/>
+    <nd ref="5913651457"/>
+    <nd ref="29043889"/>
+    <nd ref="2306406479"/>
+    <nd ref="29043840"/>
+    <nd ref="29043842"/>
+    <nd ref="5913651462"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Highfields School"/>
+    <tag k="addr:postcode" v="CB6 1BD"/>
+    <tag k="addr:street" v="Downham Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="124"/>
+    <tag k="fhrs:id" v="1072028"/>
+    <tag k="isced:level" v="0;1;2;3"/>
+    <tag k="max_age" v="19"/>
+    <tag k="min_age" v="2"/>
+    <tag k="name" v="Highfield Ely Academy"/>
+    <tag k="phone" v="+44 1353 662085"/>
+    <tag k="ref:GB:uprn" v="10002601015"/>
+    <tag k="ref:edubase" v="143111"/>
+    <tag k="ref:edubase:group" v="2075"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="The Active Learning Trust Limited"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.highfieldschoolely.co.uk/"/>
+  </way>
+  <way id="626396583" version="10" timestamp="2023-09-20T10:03:14Z" changeset="141505329" uid="37791" user="Fradeve11">
+    <nd ref="29043880"/>
+    <nd ref="29043881"/>
+    <nd ref="29043882"/>
+    <nd ref="5913651460"/>
+    <nd ref="5913651461"/>
+    <nd ref="5913651459"/>
+    <nd ref="5913651456"/>
+    <nd ref="5913651454"/>
+    <nd ref="5913651458"/>
+    <nd ref="5913651455"/>
+    <nd ref="29043868"/>
+    <nd ref="29043870"/>
+    <nd ref="29043872"/>
+    <nd ref="29043876"/>
+    <nd ref="29043877"/>
+    <nd ref="29043878"/>
+    <nd ref="29043879"/>
+    <nd ref="29043880"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB6 2WL"/>
+    <tag k="addr:street" v="Nene Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="420"/>
+    <tag k="fhrs:id" v="1180516"/>
+    <tag k="isced:level" v="0;1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Lantern Community Primary School"/>
+    <tag k="phone" v="+44 1353 664174"/>
+    <tag k="ref:GB:uprn" v="10002596076"/>
+    <tag k="ref:edubase" v="145804"/>
+    <tag k="ref:edubase:group" v="2526"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Meridian Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.lanternprimary.org/"/>
+    <tag k="wikidata" v="Q66232539"/>
+  </way>
+  <way id="672193959" version="3" timestamp="2020-10-20T20:47:23Z" changeset="92790409" uid="5173844" user="ndrw6">
+    <nd ref="1593004308"/>
+    <nd ref="1593004229"/>
+    <nd ref="6294676178"/>
+    <nd ref="6294676179"/>
+    <nd ref="737902132"/>
+    <nd ref="737900874"/>
+    <nd ref="1593003661"/>
+    <nd ref="8026414736"/>
+    <nd ref="8026414675"/>
+    <nd ref="8026414674"/>
+    <nd ref="8026414663"/>
+    <nd ref="8026414664"/>
+    <nd ref="6294676182"/>
+    <nd ref="6294676181"/>
+    <nd ref="6294676180"/>
+    <nd ref="2269975536"/>
+    <nd ref="2269975534"/>
+    <nd ref="2269975533"/>
+    <nd ref="1593004308"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB6 1DN"/>
+    <tag k="addr:street" v="Lynn Road"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="fhrs:id" v="336536"/>
+    <tag k="name" v="Princess of Wales Hospital"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </way>
   <way id="713593260" version="2" timestamp="2021-12-03T04:01:43Z" changeset="114505455" uid="493595" user="Yorvik Prestigitator">
     <nd ref="6709366552"/>
     <nd ref="6709366551"/>
@@ -1894,6 +5023,24 @@
     <tag k="social_facility" v="group_home"/>
     <tag k="social_facility:for" v="senior"/>
     <tag k="source:addr" v="FHRS Open Data"/>
+  </way>
+  <way id="991451464" version="4" timestamp="2024-02-26T18:40:50Z" changeset="147944495" uid="5173844" user="ndrw6">
+    <nd ref="9160317807"/>
+    <nd ref="9160317808"/>
+    <nd ref="9160317809"/>
+    <nd ref="11666009244"/>
+    <nd ref="9160317810"/>
+    <nd ref="11666009115"/>
+    <nd ref="837955500"/>
+    <nd ref="9160317811"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:street" v="Quince Way"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Quince Way"/>
+    <tag k="postal_code" v="CB6 2YL"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1155334002" version="1" timestamp="2023-03-18T23:22:09Z" changeset="133841434" uid="3999" user="BarryMyles">
     <nd ref="10744325650"/>

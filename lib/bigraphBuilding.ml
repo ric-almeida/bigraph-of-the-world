@@ -35,23 +35,27 @@ exception TagNotFound of string
 module StringListMap = Map.Make(String)
 
 let street_to_buildings town = 
-   let osm = Osm_xml.Parser.parse_file ("data/buildings/"^town^".osm") in
-   let relations_of_osm (Osm_xml.Types.OSM osm_record) = osm_record.ways in
-   let relations = Map.to_alist (relations_of_osm osm) in
+   let (Osm_xml.Types.OSM osm_record) = Osm_xml.Parser.parse_file ("data/buildings/"^town^".osm") in
+   let relations_of_osm = Map.to_alist osm_record.relations in
+   let relation_id_tags = List.map relations_of_osm ~f:(fun (Osm_xml.Types.OSMId building, Osm_xml.Types.OSMRelation osm_relation_record) -> (building,osm_relation_record.tags)) in 
+   let ways_of_osm = Map.to_alist osm_record.ways in
+   let ways_id_tags = List.map ways_of_osm ~f:(fun (Osm_xml.Types.OSMId building, Osm_xml.Types.OSMWay osm_way_record) -> (building,osm_way_record.tags)) in 
+   let nodes_of_osm = Map.to_alist osm_record.nodes in
+   let nodes_id_tags = List.map nodes_of_osm ~f:(fun (Osm_xml.Types.OSMId building, Osm_xml.Types.OSMNode osm_node_record) -> (building,osm_node_record.tags)) in 
    let rec explore_children list result_mp=
       match list with
       | [] -> result_mp
-      | (Osm_xml.Types.OSMId building ,Osm_xml.Types.OSMWay osm_relation_record)::xs ->let name= Osm_xml.Types.find_tag osm_relation_record.tags "name" in
+      | (building, osm_relation_record)::xs ->let name= Osm_xml.Types.find_tag osm_relation_record "name" in
          match name with
          | None -> raise (TagNotFound building)
-         | Some name -> let street= Osm_xml.Types.find_tag osm_relation_record.tags "addr:street" in
+         | Some name -> let street= Osm_xml.Types.find_tag osm_relation_record "addr:street" in
             match street with
             | None -> raise (TagNotFound building)
             | Some street -> explore_children xs (StringListMap.update result_mp street ~f:(function
-            | None -> [building^"-"^name]  (* If the key doesn't exist, create a new list with the value *)
-            | Some values -> ((building^"-"^name) :: values)  (* If it exists, prepend the new value to the list *)
+               | None -> [building^"-"^name]  (* If the key doesn't exist, create a new list with the value *)
+               | Some values -> ((building^"-"^name) :: values)  (* If it exists, prepend the new value to the list *)
          )) in
-   explore_children relations StringListMap.empty
+   explore_children (List.append (List.append relation_id_tags ways_id_tags) nodes_id_tags) StringListMap.empty
 
 exception InvalidBuildings of string
 

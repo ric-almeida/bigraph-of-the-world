@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:16:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:29:29Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="967092626" lat="52.0937888" lon="0.0761047" version="2" timestamp="2019-09-26T15:40:52Z" changeset="74970770" uid="281267" user="smb1001">
+    <tag k="addr:housename" v="Graphics House"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Ryecroft Data"/>
+    <tag k="shop" v="copyshop"/>
+    <tag k="source" v="survey (October 2010)"/>
+  </node>
+  <node id="8998235576" lat="52.0986742" lon="0.0642522" version="4" timestamp="2023-11-16T16:38:01Z" changeset="144103995" uid="13445" user="zorque">
+    <tag k="addr:city" v="Royston"/>
+    <tag k="addr:postcode" v="SG8 7TG"/>
+    <tag k="addr:street" v="Long Lane"/>
+    <tag k="addr:suburb" v="Fowlmere"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop;cafe"/>
+    <tag k="name" v="El Cafecito"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-16:00; Su 10:00-16:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
   <way id="83140195" version="4" timestamp="2023-11-16T16:38:01Z" changeset="144103995" uid="13445" user="zorque">
     <nd ref="967421495"/>
     <nd ref="967421494"/>
@@ -22,6 +40,24 @@
     <tag k="source:ofwhatitis" v="survey (June 2010)"/>
     <tag k="source:outline" v="OS Opendata StreetView"/>
     <tag k="telecom" v="exchange"/>
+  </way>
+  <way id="88762272" version="3" timestamp="2011-02-21T19:59:04Z" changeset="7357505" uid="21502" user="Kevin Steinhardt">
+    <nd ref="1030245318"/>
+    <nd ref="1030245349"/>
+    <nd ref="1030245275"/>
+    <nd ref="1030245329"/>
+    <nd ref="1030245305"/>
+    <nd ref="1030245373"/>
+    <nd ref="1030245310"/>
+    <nd ref="1030245318"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:street" v="Green Lane"/>
+    <tag k="description" v="*Not* the parish allotments"/>
+    <tag k="landuse" v="allotments"/>
+    <tag k="name" v="Piggeries"/>
+    <tag k="note" v="Northern boundary of site truncated c. February 2011."/>
+    <tag k="owner" v="Ken Green"/>
+    <tag k="source" v="Bing"/>
   </way>
   <way id="89143298" version="4" timestamp="2016-07-11T20:41:24Z" changeset="40665568" uid="242345" user="confusedbuffalo">
     <nd ref="1034016257"/>
@@ -61,6 +97,27 @@
     <tag k="name" v="The Green"/>
     <tag k="note:name" v="Not to be confused with The Green south and east of this manor"/>
     <tag k="source:outline" v="Bing"/>
+  </way>
+  <way id="155155447" version="4" timestamp="2022-01-14T17:57:56Z" changeset="116157858" uid="7463" user="kesterlester">
+    <nd ref="1675806276"/>
+    <nd ref="1675806354"/>
+    <nd ref="1675806302"/>
+    <nd ref="1817006252"/>
+    <nd ref="9418773044"/>
+    <nd ref="9418773043"/>
+    <nd ref="1675806219"/>
+    <nd ref="1675806276"/>
+    <tag k="addr:housename" v="Fowlmere Pumping Station"/>
+    <tag k="addr:postcode" v="SG8 7RT"/>
+    <tag k="addr:street" v="Chrishall Road"/>
+    <tag k="addr:town" v="Fowlmere"/>
+    <tag k="description" v="See also planning applications such as S/1966/16/FL (2016) : &quot;Erection of Nitrate/Disinfection building 2no. tanks: refurbishment of the Heydon Booster extension to internal access road and associated works&quot;.  https://applications.greatercambridgeplanning"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="man_made" v="pumping_station"/>
+    <tag k="name" v="Fowlmere Pumping Station"/>
+    <tag k="operator" v="Cambridge Water Company"/>
+    <tag k="substance" v="water"/>
+    <tag k="utility" v="water"/>
   </way>
   <way id="418517752" version="3" timestamp="2019-02-04T10:44:08Z" changeset="66899076" uid="5173844" user="ndrw6">
     <nd ref="4189140459"/>
@@ -158,6 +215,42 @@
     <tag k="toilets" v="yes"/>
     <tag k="website" v="http://thechequersfowlmere.co.uk/"/>
     <tag k="wikidata" v="Q26420970"/>
+  </way>
+  <way id="728806280" version="5" timestamp="2022-02-17T19:46:56Z" changeset="117535645" uid="242345" user="confusedbuffalo">
+    <nd ref="1832649362"/>
+    <nd ref="6828076475"/>
+    <nd ref="1832649583"/>
+    <nd ref="1832649351"/>
+    <nd ref="1832649335"/>
+    <nd ref="1832649370"/>
+    <nd ref="1832649362"/>
+    <tag k="addr:city" v="Royston"/>
+    <tag k="addr:county" v="Hertfordshire"/>
+    <tag k="addr:housename" v="Fowlmere Primary School"/>
+    <tag k="addr:postcode" v="SG8 7SL"/>
+    <tag k="addr:street" v="The Butts"/>
+    <tag k="addr:suburb" v="Fowlmere"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="120"/>
+    <tag k="email" v="office@fowlmere.cambs.sch.uk"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Fowlmere Primary School"/>
+    <tag k="operator" v="Cambridgeshire County Council"/>
+    <tag k="phone" v="+44 1763 208 203"/>
+    <tag k="ref:GB:uprn" v="100091577993"/>
+    <tag k="ref:edubase" v="110607"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="source" v="OS Opendata StreetView"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="website" v="http://www.fowlmere.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q66223493"/>
   </way>
 
 </osm>

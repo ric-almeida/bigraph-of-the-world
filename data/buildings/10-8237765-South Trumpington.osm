@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:26:34Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:40:45Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="11735179667" lat="52.1691864" lon="0.1048075" version="1" timestamp="2024-03-15T21:40:10Z" changeset="148709061" uid="1287673" user="sloerunner">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:postcode" v="CB2 9BS"/>
+    <tag k="addr:street" v="Osprey Drive"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="La Reina Café"/>
+  </node>
+  <node id="11735179668" lat="52.1693035" lon="0.1045490" version="1" timestamp="2024-03-15T21:40:10Z" changeset="148709061" uid="1287673" user="sloerunner">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:postcode" v="CB2 9BS"/>
+    <tag k="addr:street" v="Osprey Drive"/>
+    <tag k="name" v="Frankie's Salon"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <way id="260596164" version="14" timestamp="2023-11-05T13:15:10Z" changeset="143649432" uid="242345" user="confusedbuffalo">
+    <nd ref="5865167374"/>
+    <nd ref="4463681167"/>
+    <nd ref="2661217680"/>
+    <nd ref="5865167375"/>
+    <nd ref="2661217683"/>
+    <nd ref="7824510062"/>
+    <nd ref="5865167376"/>
+    <nd ref="5865167377"/>
+    <nd ref="5865167378"/>
+    <nd ref="3574846337"/>
+    <nd ref="2737144167"/>
+    <nd ref="4931066560"/>
+    <nd ref="4931066559"/>
+    <nd ref="3514075331"/>
+    <nd ref="5865167373"/>
+    <nd ref="5865167374"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB2 9AY"/>
+    <tag k="addr:street" v="Kestrel Rise"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="270"/>
+    <tag k="isced:level" v="0;1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Trumpington Meadows Primary School"/>
+    <tag k="phone" v="+44 1223 840299"/>
+    <tag k="ref:GB:uprn" v="10090708584"/>
+    <tag k="ref:edubase" v="136802"/>
+    <tag k="ref:edubase:group" v="1613"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:federation:name" v="The Trumpington Federation"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="website" v="https://www.trumpingtonfederation.co.uk/"/>
+    <tag k="wikidata" v="Q66229214"/>
+  </way>
   <way id="620818159" version="5" timestamp="2022-04-15T07:51:06Z" changeset="119739770" uid="242345" user="confusedbuffalo">
     <nd ref="6125646642"/>
     <nd ref="5865167371"/>

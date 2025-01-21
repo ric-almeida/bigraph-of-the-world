@@ -1,8 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:57:59Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:20:16Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="1133629774" lat="52.4384574" lon="-0.2848395" version="6" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="PE28 5UR"/>
+    <tag k="addr:street" v="Greenways"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="fhrs:id" v="696992"/>
+    <tag k="name" v="Sawtry Mini Market"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-18:00"/>
+    <tag k="ref:pol_id" v="139976"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
+    <tag k="source:name" v="FSA Food Hygiene Ratings Database"/>
+    <tag k="source:opening_hours" v="pol_branch_list_2018-02"/>
+    <tag k="source:post_office" v="pol_branch_list_2018-02"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1133629971" lat="52.4387521" lon="-0.2850106" version="5" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE28 5UR"/>
+    <tag k="addr:street" v="Greenways"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="fish_and_chips"/>
+    <tag k="name" v="Sawtry Takeaway"/>
+    <tag k="source:addr" v="interpolation"/>
+  </node>
+  <node id="1395336862" lat="52.4385081" lon="-0.2848717" version="3" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="PE28 5UR"/>
+    <tag k="addr:street" v="Greenways"/>
+    <tag k="name" v="Rumours"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="source:addr" v="url"/>
+    <tag k="source:name" v="url"/>
+    <tag k="url" v="https://www.rumours-hair.com/"/>
+  </node>
+  <node id="1395336863" lat="52.4383973" lon="-0.2847993" version="3" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="PE28 5UR"/>
+    <tag k="addr:street" v="Greenways"/>
+    <tag k="fhrs:id" v="446578"/>
+    <tag k="name" v="Sawtry Newscabin"/>
+    <tag k="shop" v="newsagent"/>
+    <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
+    <tag k="source:name" v="FSA Food Hygiene Ratings Database"/>
+  </node>
+  <node id="1395336867" lat="52.4386103" lon="-0.2849361" version="4" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="PE28 5UR"/>
+    <tag k="addr:street" v="Greenways"/>
+    <tag k="name" v="CARESCO"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source:addr" v="url"/>
+    <tag k="url" v="http://www.caresco.org.uk/?page=charityshop"/>
+  </node>
   <way id="141749460" version="5" timestamp="2024-05-23T10:18:07Z" changeset="151715337" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="1551673005"/>
     <nd ref="1551673129"/>
@@ -45,6 +103,40 @@
     <tag k="name" v="Lillyview Pet Hotel"/>
     <tag k="phone" v="+44 1487 830943"/>
     <tag k="website" v="https://www.lillyviewpethotel.com"/>
+  </way>
+  <way id="1187426608" version="2" timestamp="2024-01-19T15:04:23Z" changeset="146447477" uid="115894" user="DaveF">
+    <nd ref="4595829500"/>
+    <nd ref="4595829501"/>
+    <nd ref="4595829502"/>
+    <nd ref="4595829503"/>
+    <nd ref="4595829504"/>
+    <nd ref="4595829505"/>
+    <nd ref="4595829506"/>
+    <nd ref="4595829507"/>
+    <nd ref="4595829508"/>
+    <nd ref="4595829509"/>
+    <nd ref="4595829520"/>
+    <nd ref="11026513396"/>
+    <nd ref="11026513397"/>
+    <nd ref="11026513398"/>
+    <nd ref="11026513399"/>
+    <nd ref="11026513400"/>
+    <nd ref="11026513401"/>
+    <nd ref="11026513402"/>
+    <nd ref="11026513403"/>
+    <nd ref="11026513404"/>
+    <nd ref="11026528805"/>
+    <nd ref="4595829500"/>
+    <tag k="addr:city" v="Sawtry"/>
+    <tag k="addr:street" v="Old Great North Road"/>
+    <tag k="area" v="yes"/>
+    <tag k="email" v="info@sawtryjuniormx.com"/>
+    <tag k="highway" v="raceway"/>
+    <tag k="landuse" v="recreation_ground"/>
+    <tag k="name" v="Sawtry Junior Motocross Club"/>
+    <tag k="phone" v="+44 7474600400"/>
+    <tag k="sport" v="motocross"/>
+    <tag k="website" v="https://www.sawtryjuniormx.com"/>
   </way>
 
 </osm>

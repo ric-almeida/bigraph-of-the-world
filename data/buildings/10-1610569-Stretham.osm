@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:53:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:19:16Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="255589803" lat="52.3342240" lon="0.2245304" version="5" timestamp="2023-11-10T21:58:58Z" changeset="143880969" uid="13097056" user="PCarew_EG">
+    <tag k="addr:city" v="Stretham"/>
+    <tag k="addr:postcode" v="CB6 3LF"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Stretham Old Engine"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="opening_hours:url" v="https://strethamoldengine.com/visit-us"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://strethamoldengine.com/"/>
+    <tag k="wikidata" v="Q7623510"/>
+  </node>
+  <node id="255594710" lat="52.3486154" lon="0.2189977" version="7" timestamp="2021-06-30T00:47:49Z" changeset="107174784" uid="493595" user="Yorvik Prestigitator">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="CB6 3LD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Stretham"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="922018"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Red Lion"/>
+    <tag k="real_ale" v="usually 4"/>
+    <tag k="rooms" v="yes"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
   <way id="227992919" version="5" timestamp="2021-06-15T06:58:47Z" changeset="106375959" uid="13563954" user="LongSnoot">
     <nd ref="2366168053"/>
     <nd ref="2366168055"/>
@@ -40,6 +66,44 @@
     <tag k="name" v="Stretham Primary School"/>
     <tag k="phone" v="+44 1353 649271"/>
     <tag k="website" v="http://www.strethamschool.co.uk/"/>
+  </way>
+  <way id="227993128" version="11" timestamp="2023-09-18T14:31:29Z" changeset="141428036" uid="37791" user="Fradeve11">
+    <nd ref="2366170430"/>
+    <nd ref="2366170433"/>
+    <nd ref="737932967"/>
+    <nd ref="737922471"/>
+    <nd ref="737916509"/>
+    <nd ref="737901925"/>
+    <nd ref="737902456"/>
+    <nd ref="2811348026"/>
+    <nd ref="8090747654"/>
+    <nd ref="2811348025"/>
+    <nd ref="2366170441"/>
+    <nd ref="2811348024"/>
+    <nd ref="2811348023"/>
+    <nd ref="2811348022"/>
+    <nd ref="8090747652"/>
+    <nd ref="2811348021"/>
+    <nd ref="2811348020"/>
+    <nd ref="2811348019"/>
+    <nd ref="3396988721"/>
+    <nd ref="2366170430"/>
+    <tag k="addr:city" v="Stretham"/>
+    <tag k="addr:postcode" v="CB6 3JN"/>
+    <tag k="addr:street" v="Wood Lane"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="210"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="5"/>
+    <tag k="name" v="Stretham Community Primary School"/>
+    <tag k="phone" v="+44 1353 649271"/>
+    <tag k="ref:GB:uprn" v="10002598228"/>
+    <tag k="ref:edubase" v="110645"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://www.strethamschool.co.uk/"/>
+    <tag k="wikidata" v="Q66223530"/>
   </way>
   <way id="231354131" version="5" timestamp="2023-05-03T22:42:00Z" changeset="135678636" uid="3999" user="BarryMyles">
     <nd ref="2397433546"/>

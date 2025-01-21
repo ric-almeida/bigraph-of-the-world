@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:23:29Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:38:40Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="23765391" lat="52.2129127" lon="0.0678524" version="6" timestamp="2017-11-19T23:13:55Z" changeset="53935569" uid="5173844" user="ndrw6">
+    <tag k="addr:postcode" v="CB23 7PJ"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="name" v="Coton Orchard Garden Centre"/>
+    <tag k="shop" v="garden_centre"/>
+    <tag k="website" v="https://www.bluediamond.gg/garden-centre/coton-orchard-garden-centre"/>
+  </node>
+  <node id="4512294828" lat="52.2129348" lon="0.0673927" version="2" timestamp="2017-11-19T22:53:45Z" changeset="53935321" uid="5173844" user="ndrw6">
+    <tag k="addr:postcode" v="CB23 7PJ"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="name" v="Coton Farm Shop"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="http://www.cotonfarmshop.co.uk/"/>
+  </node>
+  <node id="5238648821" lat="52.2127900" lon="0.0683297" version="1" timestamp="2017-11-19T23:25:50Z" changeset="53935686" uid="5173844" user="ndrw6">
+    <tag k="addr:postcode" v="CB23 7PJ"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="name" v="Maidenhead Aquatics"/>
+    <tag k="shop" v="pet"/>
+    <tag k="website" v="https://www.fishkeeper.co.uk/store/cambridge"/>
+  </node>
   <way id="242965696" version="4" timestamp="2022-10-21T11:08:30Z" changeset="127877149" uid="6476359" user="NSiecw">
     <nd ref="2504025120"/>
     <nd ref="2504025536"/>
@@ -153,6 +174,26 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Dovecote Barn"/>
     <tag k="source:addr:housename" v="sign"/>
+  </way>
+  <way id="1020969033" version="5" timestamp="2024-03-15T21:46:47Z" changeset="148709312" uid="742701" user="kerr smith">
+    <nd ref="5537845341"/>
+    <nd ref="11735202201"/>
+    <nd ref="2616391016"/>
+    <nd ref="11735202227"/>
+    <nd ref="2616391029"/>
+    <nd ref="9416583091"/>
+    <nd ref="8699560003"/>
+    <nd ref="8699560002"/>
+    <nd ref="2504025174"/>
+    <nd ref="2504024834"/>
+    <nd ref="5537845341"/>
+    <tag k="addr:city" v="Coton"/>
+    <tag k="addr:street" v="Whitwell Way"/>
+    <tag k="description" v="Is supplied by water from Cambridge via Grantchester Road booster. Sends water through Coton A Booster to Madingley Reservoir, and through Coton B Booster to Bourne Reservoir and Madingley Tower. Can also supply Eversden Reservoir via Eversden Booster."/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="man_made" v="water_works"/>
+    <tag k="name" v="Coton Booster Station"/>
+    <tag k="utility" v="water"/>
   </way>
 
 </osm>

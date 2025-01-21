@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:15:13Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:28:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="26531408" lat="52.1270493" lon="0.2227728" version="13" timestamp="2023-10-09T11:07:10Z" changeset="142344579" uid="8821850" user="wkdgs">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB21 6AR"/>
+    <tag k="addr:street" v="Fourwentways Services"/>
+    <tag k="addr:village" v="Little Abington"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Shell"/>
+    <tag k="brand:wikidata" v="Q110716465"/>
+    <tag k="compressed_air" v="yes"/>
+    <tag k="fhrs:id" v="596767"/>
+    <tag k="name" v="Shell"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="phone" v="+44 1223 837949"/>
+    <tag k="ref:navads" v="NVDS353_10019190"/>
+    <tag k="website" v="https://find.shell.com/gb/fuel/10019190-shell-four-went-ways"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8807809623" lat="52.1268262" lon="0.2224722" version="5" timestamp="2023-10-19T14:52:39Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="A11 Four Went Ways"/>
+    <tag k="addr:postcode" v="CB21 6AP"/>
+    <tag k="addr:street" v="Newmarket Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Greggs"/>
+    <tag k="brand:wikidata" v="Q3403981"/>
+    <tag k="brand:wikipedia" v="en:Greggs"/>
+    <tag k="contact:website" v="https://www.greggs.co.uk/shop-finder?shop-code=5193"/>
+    <tag k="cuisine" v="sandwich;bakery"/>
+    <tag k="fhrs:id" v="1215954"/>
+    <tag k="name" v="Greggs"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
   <way id="128931126" version="7" timestamp="2024-04-22T07:37:05Z" changeset="150331808" uid="6816132" user="CjMalone">
     <nd ref="1423424654"/>
     <nd ref="1423424518"/>

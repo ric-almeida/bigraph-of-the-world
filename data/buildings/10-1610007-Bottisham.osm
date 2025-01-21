@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:52:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:18:15Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="25905266" lat="52.2233592" lon="0.2580300" version="6" timestamp="2023-10-21T10:05:08Z" changeset="142916462" uid="6816132" user="CjMalone">
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB25 9DA"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="name" v="Bottisham Post Office"/>
+    <tag k="ref:pol_id" v="364"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/0631132/bottisham"/>
+  </node>
+  <node id="25905283" lat="52.2207357" lon="0.2608696" version="2" timestamp="2016-09-05T13:42:58Z" changeset="41931190" uid="281267" user="smb1001">
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:postcode" v="CB25 9BA"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Il Piccolo Mondo"/>
+    <tag k="website" v="http://www.ilpiccolomondo.co.uk/"/>
+  </node>
+  <node id="3906381928" lat="52.2172230" lon="0.2644780" version="2" timestamp="2022-09-21T21:08:46Z" changeset="126480757" uid="16712930" user="khorlock_eg">
+    <tag k="addr:city" v="Bottisham"/>
+    <tag k="addr:postcode" v="CB25 9BU"/>
+    <tag k="addr:street" v="Wilbraham Road"/>
+    <tag k="museum" v="history"/>
+    <tag k="name" v="Bottisham Airfield Museum"/>
+    <tag k="opening_hours" v="Su 10:30-16:00"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.bottishamairfieldmuseum.org.uk/"/>
+  </node>
+  <node id="4385341167" lat="52.2209478" lon="0.2598988" version="2" timestamp="2019-03-25T06:56:40Z" changeset="68495119" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:housenumber" v="76-78"/>
+    <tag k="addr:postcode" v="CB25 9BA"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Elston Interiors"/>
+    <tag k="shop" v="curtain"/>
+    <tag k="website" v="https://www.elstoninteriors.co.uk/"/>
+  </node>
   <way id="129915098" version="3" timestamp="2023-01-28T00:30:39Z" changeset="131792931" uid="3999" user="BarryMyles">
     <nd ref="1432515700"/>
     <nd ref="1432515689"/>
@@ -20,6 +58,47 @@
     <tag k="operator:wikidata" v="Q7096543"/>
     <tag k="ref" v="EABTM"/>
     <tag k="telecom" v="exchange"/>
+  </way>
+  <way id="164723821" version="7" timestamp="2023-09-18T08:08:41Z" changeset="141411343" uid="37791" user="Fradeve11">
+    <nd ref="1763326344"/>
+    <nd ref="1763326247"/>
+    <nd ref="1763326257"/>
+    <nd ref="1763326374"/>
+    <nd ref="1763326337"/>
+    <nd ref="1763326376"/>
+    <nd ref="10956919654"/>
+    <nd ref="1763326305"/>
+    <nd ref="1763326351"/>
+    <nd ref="1763326295"/>
+    <nd ref="1763326275"/>
+    <nd ref="1763326269"/>
+    <nd ref="1763326302"/>
+    <nd ref="1763326211"/>
+    <nd ref="1763326189"/>
+    <nd ref="1763326287"/>
+    <nd ref="1763326369"/>
+    <nd ref="1763326182"/>
+    <nd ref="1763326358"/>
+    <nd ref="1763326217"/>
+    <nd ref="10956919619"/>
+    <nd ref="1763326344"/>
+    <tag k="addr:postcode" v="CB25 9DL"/>
+    <tag k="addr:street" v="Lode Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="1500"/>
+    <tag k="isced:level" v="2"/>
+    <tag k="max_age" v="16"/>
+    <tag k="min_age" v="11"/>
+    <tag k="name" v="Bottisham Village College"/>
+    <tag k="phone" v="+44 1223 811250"/>
+    <tag k="ref:GB:uprn" v="10002596403"/>
+    <tag k="ref:edubase" v="136677"/>
+    <tag k="ref:edubase:group" v="16031"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Anglian Learning"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.bottishamvc.org/"/>
   </way>
   <way id="169444849" version="2" timestamp="2019-03-08T17:10:34Z" changeset="67931279" uid="281267" user="smb1001">
     <nd ref="1806062964"/>

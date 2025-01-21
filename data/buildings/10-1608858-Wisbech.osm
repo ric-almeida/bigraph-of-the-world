@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:45:40Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:16:11Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="564289117" lat="52.6716673" lon="0.1699238" version="3" timestamp="2018-12-03T17:54:19Z" changeset="65133697" uid="242345" user="confusedbuffalo">
+    <tag k="addr:housenumber" v="174"/>
+    <tag k="addr:street" v="Lynn Road"/>
+    <tag k="name" v="Langdale"/>
+    <tag k="phone" v="+44 1945 467522;+44 1945 587782"/>
+    <tag k="postal_code" v="PE13 3EB"/>
+    <tag k="source:addr" v="http://www.bandb-langdale.co.uk/"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="http://www.bandb-langdale.co.uk/"/>
+  </node>
+  <node id="7494890980" lat="52.6691446" lon="0.1553482" version="7" timestamp="2024-08-18T20:41:25Z" changeset="155433745" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE13 1PE"/>
+    <tag k="addr:street" v="North End"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Asda"/>
+    <tag k="brand:wikidata" v="Q297410"/>
+    <tag k="brand:wikipedia" v="en:Asda"/>
+    <tag k="check_date" v="2024-08-18"/>
+    <tag k="check_date:opening_hours" v="2024-08-18"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/people/Cafe/100089712612801/"/>
+    <tag k="contact:phone" v="+44 1945 428400"/>
+    <tag k="contact:website" v="https://storelocator.asda.com/east-of-england/wisbech/northend-leverington-road/cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="drinking_water:refill" v="yes"/>
+    <tag k="drinking_water:refill:network" v="Refill"/>
+    <tag k="fhrs:id" v="774760"/>
+    <tag k="fixme" v="Location not accurate"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Asda Café"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-18:00; Su 10:00-16:00"/>
+    <tag k="operator" v="Asda Stores Ltd"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <way id="44584425" version="3" timestamp="2019-02-04T23:11:51Z" changeset="66917616" uid="2400834" user="Gyrwa">
+    <nd ref="6258863725"/>
+    <nd ref="1412974200"/>
+    <nd ref="566218852"/>
+    <nd ref="566218830"/>
+    <nd ref="6258863703"/>
+    <nd ref="4145247694"/>
+    <nd ref="565579976"/>
+    <nd ref="6258863723"/>
+    <nd ref="6258863724"/>
+    <nd ref="6258863725"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:postcode" v="PE13 3NR"/>
+    <tag k="addr:street" v="Saint Michael's Avenue"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="Oasis Community Centre"/>
+    <tag k="operator" v="Wisbech Community Development Trust"/>
+    <tag k="website" v="http://wisbechcommunitydevelopmenttrust.btck.co.uk/"/>
+  </way>
   <way id="44978242" version="6" timestamp="2022-01-08T00:06:03Z" changeset="115896027" uid="2400834" user="Gyrwa">
     <nd ref="4062669166"/>
     <nd ref="1488976251"/>
@@ -24,6 +79,53 @@
     <tag k="name" v="REMO Eco-Superstore"/>
     <tag k="shop" v="second_hand"/>
     <tag k="website" v="https://www.ccorrn.org.uk/"/>
+  </way>
+  <way id="47217529" version="10" timestamp="2023-11-15T15:47:10Z" changeset="144057109" uid="242345" user="confusedbuffalo">
+    <nd ref="4895844205"/>
+    <nd ref="601609216"/>
+    <nd ref="4102311456"/>
+    <nd ref="601609222"/>
+    <nd ref="4102311462"/>
+    <nd ref="601609225"/>
+    <nd ref="4102311461"/>
+    <nd ref="601609227"/>
+    <nd ref="601609229"/>
+    <nd ref="601609220"/>
+    <nd ref="4020295238"/>
+    <nd ref="4895844138"/>
+    <nd ref="4020295236"/>
+    <nd ref="4895844139"/>
+    <nd ref="4880967091"/>
+    <nd ref="4145414120"/>
+    <nd ref="4020295237"/>
+    <nd ref="601609195"/>
+    <nd ref="601609199"/>
+    <nd ref="601609198"/>
+    <nd ref="601609200"/>
+    <nd ref="601609202"/>
+    <nd ref="4895844204"/>
+    <nd ref="4895844203"/>
+    <nd ref="4895844202"/>
+    <nd ref="4895844201"/>
+    <nd ref="4895844200"/>
+    <nd ref="4895844131"/>
+    <nd ref="4895844136"/>
+    <nd ref="4895844205"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:postcode" v="PE13 2JE"/>
+    <tag k="addr:street" v="Ramnoth Road"/>
+    <tag k="amenity" v="college"/>
+    <tag k="max_age" v="none"/>
+    <tag k="min_age" v="16"/>
+    <tag k="name" v="College of West Anglia (Wisbech Campus)"/>
+    <tag k="phone" v="+44 1553 761144"/>
+    <tag k="ref:GB:uprn" v="100091526633"/>
+    <tag k="ref:edubase" v="130763"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="website" v="https://cwa.ac.uk/about/our-campuses/wisbech-campus"/>
   </way>
   <way id="47366412" version="12" timestamp="2024-08-18T20:41:25Z" changeset="155433745" uid="21425661" user="CjMalone">
     <nd ref="9361080473"/>
@@ -94,6 +196,141 @@
     <tag k="contact:website" v="https://stores.aldi.co.uk/wisbech/sandyland-street"/>
     <tag k="name" v="ALDI"/>
     <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="158073494" version="20" timestamp="2023-11-11T07:21:43Z" changeset="143889048" uid="9451067" user="b-jazz-bot">
+    <nd ref="4137350767"/>
+    <nd ref="4137350764"/>
+    <nd ref="5228861496"/>
+    <nd ref="5228861495"/>
+    <nd ref="4267148210"/>
+    <nd ref="650213288"/>
+    <nd ref="4137350762"/>
+    <nd ref="4137350759"/>
+    <nd ref="4137350758"/>
+    <nd ref="4137350756"/>
+    <nd ref="1703262038"/>
+    <nd ref="4137350749"/>
+    <nd ref="1703261998"/>
+    <nd ref="4137350747"/>
+    <nd ref="4137350743"/>
+    <nd ref="571596187"/>
+    <nd ref="3130178610"/>
+    <nd ref="3130178590"/>
+    <nd ref="564369542"/>
+    <nd ref="4116453456"/>
+    <nd ref="4116453458"/>
+    <nd ref="4116453447"/>
+    <nd ref="4116453444"/>
+    <nd ref="4777596650"/>
+    <nd ref="4116453437"/>
+    <nd ref="4116453432"/>
+    <nd ref="4116453414"/>
+    <nd ref="4116453408"/>
+    <nd ref="4116453406"/>
+    <nd ref="4116453405"/>
+    <nd ref="571596186"/>
+    <nd ref="3130178589"/>
+    <nd ref="3130178595"/>
+    <nd ref="3130178607"/>
+    <nd ref="4116453464"/>
+    <nd ref="1703262058"/>
+    <nd ref="1703261976"/>
+    <nd ref="9360753044"/>
+    <nd ref="1703262026"/>
+    <nd ref="9360753037"/>
+    <nd ref="3130178615"/>
+    <nd ref="9360753049"/>
+    <nd ref="9360753050"/>
+    <nd ref="3130178583"/>
+    <nd ref="3130178601"/>
+    <nd ref="3130178594"/>
+    <nd ref="3130178602"/>
+    <nd ref="571596182"/>
+    <nd ref="4116453428"/>
+    <nd ref="9360791937"/>
+    <nd ref="1703261943"/>
+    <nd ref="9360753026"/>
+    <nd ref="571596163"/>
+    <nd ref="9360753028"/>
+    <nd ref="571596168"/>
+    <nd ref="4141821180"/>
+    <nd ref="4141821177"/>
+    <nd ref="4116453404"/>
+    <nd ref="4141821175"/>
+    <nd ref="4220518155"/>
+    <nd ref="4116453420"/>
+    <nd ref="3130179934"/>
+    <nd ref="9360739259"/>
+    <nd ref="9360739260"/>
+    <nd ref="4220518165"/>
+    <nd ref="4220518164"/>
+    <nd ref="4220518168"/>
+    <nd ref="4220518174"/>
+    <nd ref="4220518181"/>
+    <nd ref="4220518182"/>
+    <nd ref="4220518185"/>
+    <nd ref="4220524391"/>
+    <nd ref="4220524397"/>
+    <nd ref="1703262036"/>
+    <nd ref="4220524402"/>
+    <nd ref="4777596610"/>
+    <nd ref="4220524404"/>
+    <nd ref="4220524405"/>
+    <nd ref="3130178608"/>
+    <nd ref="4777596611"/>
+    <nd ref="3130178612"/>
+    <nd ref="3130178588"/>
+    <nd ref="3130178620"/>
+    <nd ref="3130178596"/>
+    <nd ref="4220524403"/>
+    <nd ref="3130179931"/>
+    <nd ref="1703262050"/>
+    <nd ref="4084210887"/>
+    <nd ref="1703261985"/>
+    <nd ref="1703262059"/>
+    <nd ref="4116456430"/>
+    <nd ref="4084210874"/>
+    <nd ref="1703261941"/>
+    <nd ref="4137350806"/>
+    <nd ref="4116456424"/>
+    <nd ref="1703262086"/>
+    <nd ref="1703262055"/>
+    <nd ref="4137350805"/>
+    <nd ref="4116456421"/>
+    <nd ref="1703261991"/>
+    <nd ref="1703262012"/>
+    <nd ref="4116456414"/>
+    <nd ref="4137350800"/>
+    <nd ref="3130178616"/>
+    <nd ref="4137350797"/>
+    <nd ref="4137350796"/>
+    <nd ref="4137350795"/>
+    <nd ref="4137350793"/>
+    <nd ref="3130178613"/>
+    <nd ref="4137350769"/>
+    <nd ref="4137350768"/>
+    <nd ref="4137350767"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="PE13 1RH"/>
+    <tag k="addr:street" v="North Brink"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="890"/>
+    <tag k="isced:level" v="0;1;2;3"/>
+    <tag k="max_age" v="19"/>
+    <tag k="min_age" v="2"/>
+    <tag k="name" v="Wisbech Grammar School"/>
+    <tag k="phone" v="+44 1945 583631"/>
+    <tag k="ref:GB:uprn" v="200002987614"/>
+    <tag k="ref:edubase" v="110926"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="yes"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="yes"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="independent"/>
+    <tag k="website" v="https://www.wisbechgrammar.com/"/>
+    <tag k="wikidata" v="Q8027068"/>
   </way>
   <way id="363350934" version="4" timestamp="2018-12-03T17:55:50Z" changeset="65133697" uid="242345" user="confusedbuffalo">
     <nd ref="3675226105"/>
@@ -243,6 +480,26 @@
     <tag k="cuisine" v="sandwich"/>
     <tag k="name" v="Evie's Sandwich Bar"/>
     <tag k="takeaway" v="yes"/>
+  </way>
+  <way id="399141350" version="6" timestamp="2022-01-21T12:37:47Z" changeset="116430091" uid="84263" user="Robert Whittaker">
+    <nd ref="4018848596"/>
+    <nd ref="4018848600"/>
+    <nd ref="9401108818"/>
+    <nd ref="4018848602"/>
+    <nd ref="4018848601"/>
+    <nd ref="4018848598"/>
+    <nd ref="4018848596"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="PE13 1DJ"/>
+    <tag k="addr:street" v="Union Street"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="fhrs:id" v="1314000"/>
+    <tag k="name" v="Woodward's Confection"/>
+    <tag k="shop" v="confectionery"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://woodwardsconfection.co.uk"/>
   </way>
   <way id="399142666" version="8" timestamp="2023-06-17T19:39:48Z" changeset="137459219" uid="12507004" user="Linfindel">
     <nd ref="4018863173"/>
@@ -1046,6 +1303,43 @@
     <tag k="name" v="North Brink Surgery"/>
     <tag k="wikidata" v="Q17543694"/>
   </way>
+  <way id="406854059" version="6" timestamp="2023-11-05T12:29:10Z" changeset="143647645" uid="242345" user="confusedbuffalo">
+    <nd ref="4089094812"/>
+    <nd ref="4089094800"/>
+    <nd ref="4089094799"/>
+    <nd ref="4089094798"/>
+    <nd ref="4047405070"/>
+    <nd ref="4047405075"/>
+    <nd ref="4047405080"/>
+    <nd ref="4047405086"/>
+    <nd ref="4089094801"/>
+    <nd ref="4047405390"/>
+    <nd ref="4089094807"/>
+    <nd ref="4089094817"/>
+    <nd ref="4089094812"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE13 2FP"/>
+    <tag k="addr:street" v="Coalwharf Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="35"/>
+    <tag k="isced:level" v="2"/>
+    <tag k="max_age" v="16"/>
+    <tag k="min_age" v="11"/>
+    <tag k="name" v="Olive AP Academy - Nene Valley"/>
+    <tag k="phone" v="+44 1945 479704"/>
+    <tag k="ref:GB:uprn" v="10034162334"/>
+    <tag k="ref:edubase" v="142793"/>
+    <tag k="ref:edubase:group" v="5605"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Olive Academies"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://apnenevalley.oliveacademies.org.uk/"/>
+  </way>
   <way id="408314652" version="4" timestamp="2023-11-01T22:24:00Z" changeset="143499978" uid="1418967" user="RAC_UK">
     <nd ref="4102668615"/>
     <nd ref="4102668616"/>
@@ -1281,6 +1575,65 @@
     <tag k="name" v="shop 4 U"/>
     <tag k="shop" v="newsagent"/>
     <tag k="source:geometry" v="Mapbox"/>
+  </way>
+  <way id="410109233" version="11" timestamp="2022-07-21T17:33:51Z" changeset="123903522" uid="238158" user="Roman S">
+    <nd ref="4119756244"/>
+    <nd ref="4119756242"/>
+    <nd ref="4119756243"/>
+    <nd ref="4119756247"/>
+    <nd ref="4267148211"/>
+    <nd ref="4120922112"/>
+    <nd ref="4120922118"/>
+    <nd ref="4119756275"/>
+    <nd ref="4120922155"/>
+    <nd ref="4119756292"/>
+    <nd ref="4119756297"/>
+    <nd ref="650213281"/>
+    <nd ref="650213560"/>
+    <nd ref="4119756330"/>
+    <nd ref="4119756334"/>
+    <nd ref="4119756339"/>
+    <nd ref="4119756343"/>
+    <nd ref="4119756350"/>
+    <nd ref="4119756353"/>
+    <nd ref="4119756352"/>
+    <nd ref="4119756351"/>
+    <nd ref="4119756346"/>
+    <nd ref="4119756341"/>
+    <nd ref="4119756336"/>
+    <nd ref="4119756304"/>
+    <nd ref="4119756302"/>
+    <nd ref="4119756295"/>
+    <nd ref="4119756284"/>
+    <nd ref="4119756282"/>
+    <nd ref="4119756274"/>
+    <nd ref="4119756250"/>
+    <nd ref="4120922102"/>
+    <nd ref="4119756246"/>
+    <nd ref="4119756245"/>
+    <nd ref="4119756248"/>
+    <nd ref="4128377262"/>
+    <nd ref="4119756257"/>
+    <nd ref="4119756276"/>
+    <nd ref="4119756287"/>
+    <nd ref="4120922125"/>
+    <nd ref="4120922110"/>
+    <nd ref="4120922103"/>
+    <nd ref="5228861473"/>
+    <nd ref="5228861478"/>
+    <nd ref="5228861477"/>
+    <nd ref="4120922098"/>
+    <nd ref="4119756244"/>
+    <tag k="addr:street" v="North Brink"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Peckover House &amp; Gardens"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-16:00"/>
+    <tag k="operator" v="National Trust"/>
+    <tag k="phone" v="+441945583463"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.nationaltrust.org.uk/peckover-house-and-garden"/>
+    <tag k="wikidata" v="Q7158762"/>
+    <tag k="wikipedia" v="en:Peckover House and Garden"/>
   </way>
   <way id="410962545" version="4" timestamp="2024-06-30T11:39:54Z" changeset="153365057" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4127092408"/>
@@ -1799,6 +2152,65 @@
     <tag k="source" v="Esri World Imagery"/>
     <tag k="website" v="https://www.aces-eyeclinic.co.uk"/>
   </way>
+  <way id="431583194" version="4" timestamp="2024-07-05T08:50:54Z" changeset="153578110" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="4308072575"/>
+    <nd ref="4308072580"/>
+    <nd ref="4308072583"/>
+    <nd ref="4308072587"/>
+    <nd ref="4308073695"/>
+    <nd ref="4308073709"/>
+    <nd ref="4308073714"/>
+    <nd ref="4308073717"/>
+    <nd ref="4308073726"/>
+    <nd ref="4308073736"/>
+    <nd ref="4308073742"/>
+    <nd ref="4308073751"/>
+    <nd ref="4308073760"/>
+    <nd ref="4308073764"/>
+    <nd ref="4308073766"/>
+    <nd ref="4308073767"/>
+    <nd ref="4308073771"/>
+    <nd ref="4308073773"/>
+    <nd ref="4308073772"/>
+    <nd ref="4308073770"/>
+    <nd ref="4308073765"/>
+    <nd ref="4308073761"/>
+    <nd ref="4308073735"/>
+    <nd ref="4308073729"/>
+    <nd ref="4308073730"/>
+    <nd ref="4308073732"/>
+    <nd ref="4308073733"/>
+    <nd ref="4308073731"/>
+    <nd ref="4308073725"/>
+    <nd ref="4308073719"/>
+    <nd ref="4308073713"/>
+    <nd ref="4308073707"/>
+    <nd ref="4308073693"/>
+    <nd ref="4308073689"/>
+    <nd ref="4308072586"/>
+    <nd ref="4308072588"/>
+    <nd ref="4308073691"/>
+    <nd ref="4308073696"/>
+    <nd ref="4308073701"/>
+    <nd ref="4308073702"/>
+    <nd ref="4308073697"/>
+    <nd ref="4308073690"/>
+    <nd ref="4308072585"/>
+    <nd ref="4308072578"/>
+    <nd ref="4308072574"/>
+    <nd ref="4308072573"/>
+    <nd ref="4308072576"/>
+    <nd ref="4308072575"/>
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE13 3PG"/>
+    <tag k="addr:street" v="Waterlees Road"/>
+    <tag k="leisure" v="playground"/>
+    <tag k="name" v="The Spinney Wisbech Adventure Playground"/>
+    <tag k="playground:theme" v="adventure"/>
+    <tag k="website" v="https://www.wisbechadventureplay.net"/>
+  </way>
   <way id="498095787" version="1" timestamp="2017-06-04T19:25:02Z" changeset="49249940" uid="2400834" user="Gyrwa">
     <nd ref="4895850021"/>
     <nd ref="4895844220"/>
@@ -1957,6 +2369,74 @@
     <tag k="name" v="Tesco Express"/>
     <tag k="shop" v="convenience"/>
     <tag k="source" v="DigitalGlobe Standard Imagery"/>
+  </way>
+  <way id="572494836" version="2" timestamp="2022-01-04T17:15:34Z" changeset="115764102" uid="2400059" user="Pablo Rodriguez">
+    <nd ref="4127101602"/>
+    <nd ref="4301260533"/>
+    <nd ref="5500053227"/>
+    <nd ref="5500051814"/>
+    <nd ref="5500053223"/>
+    <nd ref="5500053226"/>
+    <nd ref="4127101602"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:postcode" v="PE13 2RB"/>
+    <tag k="addr:street" v="Boleness Road"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Wisbech Recycling Centre"/>
+    <tag k="operator" v="Cambridgeshire County Council"/>
+    <tag k="owner" v="Cambridgeshire County Council"/>
+    <tag k="ownership" v="municipal"/>
+    <tag k="recycling_type" v="centre"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="https://www.cambridgeshire.gov.uk/wisbech-recycling-centre/"/>
+    <tag k="wikidata" v="Q106094032"/>
+  </way>
+  <way id="655203546" version="3" timestamp="2021-12-31T17:55:03Z" changeset="115618487" uid="2400834" user="Gyrwa">
+    <nd ref="6139038070"/>
+    <nd ref="6139038054"/>
+    <nd ref="566248026"/>
+    <nd ref="6139038058"/>
+    <nd ref="6139038069"/>
+    <nd ref="5181066690"/>
+    <nd ref="6139038044"/>
+    <nd ref="6139038045"/>
+    <nd ref="6139038049"/>
+    <nd ref="6139038070"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Cromwell Road"/>
+    <tag k="amenity" v="animal_boarding"/>
+    <tag k="name" v="Iolanda Kennels"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="website" v="http://iolandagsds.com"/>
+  </way>
+  <way id="668362833" version="3" timestamp="2023-11-11T07:21:41Z" changeset="143889048" uid="9451067" user="b-jazz-bot">
+    <nd ref="566670130"/>
+    <nd ref="4085461263"/>
+    <nd ref="4085461254"/>
+    <nd ref="4880322170"/>
+    <nd ref="9393347477"/>
+    <nd ref="9393347479"/>
+    <nd ref="4880322129"/>
+    <nd ref="9393347478"/>
+    <nd ref="9393347480"/>
+    <nd ref="4880322130"/>
+    <nd ref="4880322131"/>
+    <nd ref="4880322132"/>
+    <nd ref="9393347476"/>
+    <nd ref="6258863727"/>
+    <nd ref="6258863726"/>
+    <nd ref="4085461264"/>
+    <nd ref="9393347514"/>
+    <nd ref="566670130"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:postcode" v="PE13 2PE"/>
+    <tag k="addr:street" v="Queens Road"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="Queen Mary Centre"/>
+    <tag k="operator" v="The Ferry Project"/>
+    <tag k="website" v="https://www.queenmarycentre.co.uk/"/>
   </way>
   <way id="680174420" version="1" timestamp="2019-03-28T19:15:45Z" changeset="68640139" uid="2400834" user="Gyrwa">
     <nd ref="6368634038"/>

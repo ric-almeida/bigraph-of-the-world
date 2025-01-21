@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:01:03Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:22:24Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="3170153247" lat="52.3776651" lon="-0.1655176" version="5" timestamp="2024-05-19T09:56:26Z" changeset="151526607" uid="95856" user="john paul jones &amp; gringo">
     <tag k="addr:city" v="Huntingdon"/>
@@ -121,6 +121,105 @@
     <tag k="amenity" v="pub"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="The Fellowes Arms"/>
+  </way>
+  <way id="444905585" version="2" timestamp="2024-05-10T17:07:51Z" changeset="151156661" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="4423672656"/>
+    <nd ref="4019808547"/>
+    <nd ref="4423672658"/>
+    <nd ref="4423672657"/>
+    <nd ref="4423672656"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE28 2LL"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="addr:suburb" v="Abbots Riton"/>
+    <tag k="landuse" v="farmyard;veterinary"/>
+    <tag k="name" v="Fellowes Farm Equine Clinic"/>
+  </way>
+  <way id="852160205" version="2" timestamp="2024-05-26T10:59:40Z" changeset="151845777" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="7948730923"/>
+    <nd ref="7948730924"/>
+    <nd ref="7948730925"/>
+    <nd ref="7948730926"/>
+    <nd ref="7948730927"/>
+    <nd ref="7948730928"/>
+    <nd ref="7948730929"/>
+    <nd ref="7948730930"/>
+    <nd ref="7948730931"/>
+    <nd ref="903589827"/>
+    <nd ref="4308983565"/>
+    <nd ref="7948730923"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 2LH"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="addr:suburb" v="Abbots Ripton"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Park Farm"/>
+  </way>
+  <way id="865792678" version="2" timestamp="2024-05-04T13:27:20Z" changeset="150880061" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="4719834438"/>
+    <nd ref="8070138420"/>
+    <nd ref="8070138421"/>
+    <nd ref="8070138422"/>
+    <nd ref="8070138423"/>
+    <nd ref="8070138424"/>
+    <nd ref="8070138425"/>
+    <nd ref="8070138426"/>
+    <nd ref="8070138427"/>
+    <nd ref="8070138428"/>
+    <nd ref="8070138429"/>
+    <nd ref="8070138430"/>
+    <nd ref="8070138431"/>
+    <nd ref="8070138432"/>
+    <nd ref="8070138433"/>
+    <nd ref="8070138434"/>
+    <nd ref="4719834435"/>
+    <nd ref="4719834438"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 2PG"/>
+    <tag k="addr:street" v="Hall Lane"/>
+    <tag k="addr:suburb" v="Abbots Ripton"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Hall Farm"/>
+  </way>
+  <way id="865792686" version="2" timestamp="2024-05-26T10:59:40Z" changeset="151845777" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="7942536534"/>
+    <nd ref="7942536533"/>
+    <nd ref="7942536518"/>
+    <nd ref="1327311758"/>
+    <nd ref="4304020152"/>
+    <nd ref="8070138464"/>
+    <nd ref="8070138465"/>
+    <nd ref="7942536534"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 2LB"/>
+    <tag k="addr:street" v="Abbots Ripton Road"/>
+    <tag k="addr:suburb" v="Abbots Ripton"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Lodge Farm"/>
+  </way>
+  <way id="865792689" version="2" timestamp="2024-05-04T13:33:53Z" changeset="150880392" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="8070138478"/>
+    <nd ref="8070138479"/>
+    <nd ref="8070138480"/>
+    <nd ref="8070138481"/>
+    <nd ref="8070138482"/>
+    <nd ref="8070138483"/>
+    <nd ref="8070138484"/>
+    <nd ref="8070148085"/>
+    <nd ref="8070148086"/>
+    <nd ref="8070148087"/>
+    <nd ref="8070148088"/>
+    <nd ref="8070138478"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 2LQ"/>
+    <tag k="addr:street" v="Rectory Lane"/>
+    <tag k="addr:suburb" v="Abbots Ripton"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Brooklands Farm"/>
   </way>
 
 </osm>

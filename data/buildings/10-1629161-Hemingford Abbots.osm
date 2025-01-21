@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:07:10Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:24:23Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="313725705" lat="52.3093790" lon="-0.1263184" version="3" timestamp="2024-05-18T13:45:08Z" changeset="151494922" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HQ"/>
+    <tag k="addr:street" v="Rideaway"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="name" v="Hemingford Abbots Golf Complex"/>
+    <tag k="sport" v="golf"/>
+  </node>
+  <node id="4330640647" lat="52.3107387" lon="-0.1266952" version="4" timestamp="2024-05-18T13:45:08Z" changeset="151494922" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HL"/>
+    <tag k="addr:street" v="Rideaway"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="amenity" v="waste_transfer_station"/>
+    <tag k="man_made" v="yes"/>
+    <tag k="name" v="New Farm Recycling Centre"/>
+  </node>
+  <node id="4330921242" lat="52.3069009" lon="-0.1111280" version="2" timestamp="2024-05-18T13:45:08Z" changeset="151494922" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HQ"/>
+    <tag k="addr:street" v="Gore Tree Road"/>
+    <tag k="addr:suburb" v="Hemingford Grey"/>
+    <tag k="name" v="Gore Tree Farm"/>
+    <tag k="place" v="farm"/>
+  </node>
   <way id="128494595" version="6" timestamp="2024-05-18T13:45:08Z" changeset="151494922" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="1419936724"/>
     <nd ref="1419936719"/>
@@ -26,6 +54,27 @@
     <tag k="source:addr:postcode" v="code-point_open"/>
     <tag k="website" v="http://www.meliorspas.co.uk/"/>
   </way>
+  <way id="217135462" version="5" timestamp="2024-05-18T13:45:08Z" changeset="151494922" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="2264389560"/>
+    <nd ref="8322322707"/>
+    <nd ref="8070138908"/>
+    <nd ref="8070138909"/>
+    <nd ref="2264389563"/>
+    <nd ref="313725690"/>
+    <nd ref="313724691"/>
+    <nd ref="2264389569"/>
+    <nd ref="313724686"/>
+    <nd ref="313724684"/>
+    <nd ref="8070138906"/>
+    <nd ref="2264389560"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HQ"/>
+    <tag k="addr:street" v="Rideaway"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="American Golf Driving Range"/>
+  </way>
   <way id="293222577" version="5" timestamp="2022-02-28T23:05:13Z" changeset="117961003" uid="1778799" user="SomeoneElse_Revert">
     <nd ref="2967963381"/>
     <nd ref="2967963382"/>
@@ -45,6 +94,20 @@
     <tag k="building" v="public"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Hemingford  Abbots Village Hall"/>
+  </way>
+  <way id="332285749" version="3" timestamp="2024-05-18T14:03:42Z" changeset="151495767" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="1521509219"/>
+    <nd ref="3394018895"/>
+    <nd ref="3394018896"/>
+    <nd ref="1521509226"/>
+    <nd ref="1521509219"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9AS"/>
+    <tag k="addr:street" v="Common Lane"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Home Farm"/>
   </way>
   <way id="332286062" version="4" timestamp="2024-05-18T14:03:42Z" changeset="151495767" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="3394021315"/>
@@ -67,6 +130,120 @@
     <tag k="addr:suburb" v="Hemingford Abbots"/>
     <tag k="building" v="house"/>
     <tag k="name" v="Hemingford Park"/>
+  </way>
+  <way id="332286824" version="5" timestamp="2024-05-18T13:45:08Z" changeset="151494922" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3394026614"/>
+    <nd ref="3394026613"/>
+    <nd ref="4330744908"/>
+    <nd ref="3374824485"/>
+    <nd ref="3374824486"/>
+    <nd ref="3374824487"/>
+    <nd ref="4330744186"/>
+    <nd ref="313724630"/>
+    <nd ref="313724629"/>
+    <nd ref="4330744182"/>
+    <nd ref="3394026615"/>
+    <nd ref="3394026614"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9AT"/>
+    <tag k="addr:street" v="Rideaway"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Ridgeway Farm"/>
+  </way>
+  <way id="332287561" version="5" timestamp="2024-05-18T13:45:08Z" changeset="151494922" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3394033661"/>
+    <nd ref="4330767627"/>
+    <nd ref="4330767626"/>
+    <nd ref="4330767631"/>
+    <nd ref="4330767630"/>
+    <nd ref="3394033662"/>
+    <nd ref="3394033663"/>
+    <nd ref="3394033664"/>
+    <nd ref="4330767602"/>
+    <nd ref="3394033661"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HQ"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Rectory Farm"/>
+  </way>
+  <way id="337347570" version="3" timestamp="2024-05-18T13:49:01Z" changeset="151495082" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3444446387"/>
+    <nd ref="3444446388"/>
+    <nd ref="3444446389"/>
+    <nd ref="3444446390"/>
+    <nd ref="3444446391"/>
+    <nd ref="3444446392"/>
+    <nd ref="3444446387"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HH"/>
+    <tag k="addr:street" v="Moats Way"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Moats Way Equestrian"/>
+    <tag k="phone" v="+44 1480 464751"/>
+    <tag k="website" v="http://www.moatswayequestrian.co.uk/"/>
+  </way>
+  <way id="337349955" version="3" timestamp="2024-05-18T13:49:01Z" changeset="151495082" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3444465946"/>
+    <nd ref="3444465947"/>
+    <nd ref="3444465948"/>
+    <nd ref="3444465949"/>
+    <nd ref="3444465950"/>
+    <nd ref="3444465946"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HH"/>
+    <tag k="addr:street" v="Moats Way"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Moats Way Farm"/>
+  </way>
+  <way id="337349959" version="3" timestamp="2024-05-18T13:49:01Z" changeset="151495082" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3444465965"/>
+    <nd ref="3444465966"/>
+    <nd ref="4326832914"/>
+    <nd ref="4326832920"/>
+    <nd ref="4326832919"/>
+    <nd ref="3444465964"/>
+    <nd ref="3444465967"/>
+    <nd ref="3444465968"/>
+    <nd ref="3444465965"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HH"/>
+    <tag k="addr:street" v="Moats Way"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Top Farm"/>
+  </way>
+  <way id="337376290" version="5" timestamp="2024-04-28T17:22:06Z" changeset="150628902" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3444678354"/>
+    <nd ref="3444678355"/>
+    <nd ref="3444678356"/>
+    <nd ref="3444678357"/>
+    <nd ref="6919897240"/>
+    <nd ref="3444678358"/>
+    <nd ref="3444678359"/>
+    <nd ref="3444678360"/>
+    <nd ref="3444678361"/>
+    <nd ref="3444678362"/>
+    <nd ref="4324895011"/>
+    <nd ref="3444678488"/>
+    <nd ref="3444678363"/>
+    <nd ref="3444678354"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9PA"/>
+    <tag k="addr:street" v="Lattenbury Lane"/>
+    <tag k="addr:suburb" v="Hilton"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Lattenbury Farm"/>
   </way>
   <way id="337551702" version="4" timestamp="2024-05-18T14:03:42Z" changeset="151495767" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="3446243304"/>
@@ -102,6 +279,59 @@
     <tag k="building" v="house"/>
     <tag k="name" v="Park Lodge"/>
   </way>
+  <way id="391859095" version="6" timestamp="2023-11-24T23:40:03Z" changeset="144424724" uid="10420541" user="Thingummy">
+    <nd ref="3951225251"/>
+    <nd ref="3951225247"/>
+    <nd ref="11369686074"/>
+    <nd ref="11369686122"/>
+    <nd ref="11369676254"/>
+    <nd ref="11369676256"/>
+    <nd ref="11369676257"/>
+    <nd ref="11369676258"/>
+    <nd ref="3951225252"/>
+    <nd ref="3951225249"/>
+    <nd ref="11369676259"/>
+    <nd ref="11369728202"/>
+    <nd ref="11369676246"/>
+    <nd ref="11369676260"/>
+    <nd ref="11369676261"/>
+    <nd ref="3951225251"/>
+    <tag k="addr:parentstreet" v="High Street"/>
+    <tag k="addr:street" v="Quiet Waters"/>
+    <tag k="addr:village" v="Hemingford Abbots"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Quiet Waters"/>
+    <tag k="residential" v="trailer_park"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="website" v="https://www.quietwaterscaravanpark.co.uk/"/>
+  </way>
+  <way id="434720666" version="2" timestamp="2024-05-18T13:49:01Z" changeset="151495082" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3444446361"/>
+    <nd ref="3444446362"/>
+    <nd ref="3793984223"/>
+    <nd ref="3444465955"/>
+    <nd ref="3793984224"/>
+    <nd ref="3793984198"/>
+    <nd ref="3793984194"/>
+    <nd ref="3793984193"/>
+    <nd ref="3793984192"/>
+    <nd ref="4326636473"/>
+    <nd ref="313724715"/>
+    <nd ref="4326636992"/>
+    <nd ref="4326636475"/>
+    <nd ref="4326636476"/>
+    <nd ref="4326636477"/>
+    <nd ref="4326636991"/>
+    <nd ref="4326636478"/>
+    <nd ref="3444446361"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HH"/>
+    <tag k="addr:street" v="Moats Way"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Littlebury Farm"/>
+  </way>
   <way id="435108316" version="3" timestamp="2024-05-18T13:45:08Z" changeset="151494922" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4330640591"/>
     <nd ref="4330640592"/>
@@ -116,6 +346,23 @@
     <tag k="building" v="school"/>
     <tag k="name" v="Hemmingford Nursery School"/>
   </way>
+  <way id="435118744" version="3" timestamp="2024-05-18T14:02:40Z" changeset="151495724" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3394027622"/>
+    <nd ref="3394027623"/>
+    <nd ref="4330744941"/>
+    <nd ref="4330744942"/>
+    <nd ref="4330744934"/>
+    <nd ref="4330744943"/>
+    <nd ref="3394027621"/>
+    <nd ref="3394027622"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HJ"/>
+    <tag k="addr:street" v="New Road"/>
+    <tag k="addr:suburb" v="Hemingford Abbots"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Douglas Farm"/>
+  </way>
   <way id="435118752" version="2" timestamp="2024-05-18T14:03:42Z" changeset="151495767" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4330744949"/>
     <nd ref="4330744950"/>
@@ -129,6 +376,25 @@
     <tag k="addr:suburb" v="Hemingford Abbots"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Stables and Old Coachhouse"/>
+  </way>
+  <way id="1226033819" version="2" timestamp="2023-11-22T23:19:22Z" changeset="144346282" uid="10420541" user="Thingummy">
+    <nd ref="11369676248"/>
+    <nd ref="728689460"/>
+    <nd ref="1281654171"/>
+    <nd ref="1281654148"/>
+    <nd ref="11369728203"/>
+    <nd ref="11369728202"/>
+    <nd ref="11369676262"/>
+    <nd ref="3951225250"/>
+    <nd ref="11369676249"/>
+    <nd ref="11369676248"/>
+    <tag k="addr:parentstreet" v="High Street"/>
+    <tag k="addr:street" v="Manor Lane"/>
+    <tag k="addr:village" v="Hemingford Abbots"/>
+    <tag k="name" v="Quiet Waters Caravan Park"/>
+    <tag k="power_supply" v="yes"/>
+    <tag k="sanitary_dump_station" v="yes"/>
+    <tag k="tourism" v="caravan_site"/>
   </way>
 
 </osm>

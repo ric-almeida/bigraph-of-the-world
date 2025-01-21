@@ -1,8 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:25:28Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:39:45Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="21591816" lat="52.2247460" lon="0.0899211" version="13" timestamp="2022-11-20T11:49:36Z" changeset="129153326" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB3 0LQ"/>
+    <tag k="addr:street" v="Huntingdon Road"/>
+    <tag k="brand" v="Costcutter"/>
+    <tag k="brand:wikidata" v="Q5175072"/>
+    <tag k="name" v="Girton Service Station"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="26664260" lat="52.2416537" lon="0.0814600" version="6" timestamp="2022-10-03T15:55:39Z" changeset="126945648" uid="6476359" user="NSiecw">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The George Inn"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:postcode" v="CB3 0QD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Girton"/>
+    <tag k="disused" v="yes"/>
+    <tag k="disused:amenity" v="post_office"/>
+    <tag k="name" v="Girton Post Office"/>
+    <tag k="note" v="Moved at the beginning of 2014 from Dodford Lane to The George Inn and is four mornings a week;03/10/22 this branch appears to be permenantly closed"/>
+    <tag k="opening_hours" v="Tu,Fr 09:30-12:30"/>
+    <tag k="ref:pol_id" v="125256"/>
+    <tag k="source:opening_hours" v="pol_branch_list_2018-02"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="914755400" lat="52.2270057" lon="0.0934453" version="4" timestamp="2019-02-16T10:44:32Z" changeset="67250645" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB3 0NJ"/>
+    <tag k="addr:street" v="Thornton Way"/>
+    <tag k="name" v="Chris's Bikes"/>
+    <tag k="shop" v="bicycle"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1334904179" lat="52.2270826" lon="0.0935785" version="5" timestamp="2023-04-26T18:49:19Z" changeset="135398898" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB3 0NJ"/>
+    <tag k="addr:street" v="Thornton Way"/>
+    <tag k="name" v="Plum Tree Hair &amp; Beauty"/>
+    <tag k="phone" v="+44 1223 276600"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="1837454169" lat="52.2270423" lon="0.0935143" version="4" timestamp="2023-04-26T18:49:19Z" changeset="135398898" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB3 0NJ"/>
+    <tag k="addr:street" v="Thornton Way"/>
+    <tag k="clothes" v="wedding"/>
+    <tag k="craft" v="dressmaker"/>
+    <tag k="name" v="The Bridal Pixie"/>
+    <tag k="opening_hours" v="&quot;by appointment&quot;"/>
+    <tag k="website" v="https://www.thebridalpixie.co.uk/"/>
+  </node>
+  <node id="5098425385" lat="52.2415501" lon="0.0814794" version="2" timestamp="2024-12-03T10:02:44Z" changeset="159873886" uid="374342" user="hocu">
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:postcode" v="CB3 0QD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Girton"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai"/>
+    <tag k="fhrs:id" v="1517786"/>
+    <tag k="name" v="Jeab's Thai"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="5223945223" lat="52.2248375" lon="0.0901342" version="2" timestamp="2019-02-16T10:45:26Z" changeset="67250645" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB3 0LQ"/>
+    <tag k="addr:street" v="Huntingdon Road"/>
+    <tag k="name" v="Haywards of Cambridge, Girton Garage"/>
+    <tag k="shop" v="motorcycle"/>
+    <tag k="website" v="https://www.haywards.co.uk/"/>
+  </node>
+  <node id="7235485081" lat="52.2285223" lon="0.0877404" version="2" timestamp="2021-09-21T09:31:50Z" changeset="111485422" uid="6816132" user="CjMalone">
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="CB3 0LL"/>
+    <tag k="addr:street" v="Girton Road"/>
+    <tag k="fhrs:id" v="597369"/>
+    <tag k="name" v="Artist House Cambridge"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="8586843298" lat="52.2316280" lon="0.0867400" version="1" timestamp="2021-04-02T14:54:30Z" changeset="102201109" uid="281267" user="smb1001">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB3 0NA"/>
+    <tag k="addr:street" v="Welbrook Court"/>
+    <tag k="name" v="MMWealth Ltd"/>
+  </node>
+  <node id="8586843299" lat="52.2317595" lon="0.0864878" version="1" timestamp="2021-04-02T14:54:30Z" changeset="102201109" uid="281267" user="smb1001">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB3 0NA"/>
+    <tag k="addr:street" v="Welbrook Court"/>
+    <tag k="name" v="Henry Riley"/>
+  </node>
+  <node id="8586843301" lat="52.2319237" lon="0.0863993" version="1" timestamp="2021-04-02T14:54:30Z" changeset="102201109" uid="281267" user="smb1001">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB3 0NA"/>
+    <tag k="addr:street" v="Welbrook Court"/>
+    <tag k="name" v="Chase de Vere"/>
+  </node>
+  <node id="8586843303" lat="52.2316428" lon="0.0868633" version="1" timestamp="2021-04-02T14:54:30Z" changeset="102201109" uid="281267" user="smb1001">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB3 0NA"/>
+    <tag k="addr:street" v="Welbrook Court"/>
+    <tag k="name" v="AECOM"/>
+  </node>
+  <node id="11940696769" lat="52.2387059" lon="0.0838040" version="1" timestamp="2024-05-28T22:26:37Z" changeset="151965313" uid="8891552" user="Zomba">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Car Park Behind Scallywags Nursery"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="CB3 0PJ"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="name" v="Girton Mobile Service"/>
+    <tag k="opening_hours" v="Fr 13:30-14:30"/>
+    <tag k="ref:pol_id" v="177444"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/7261136/girton-mobile-service"/>
+  </node>
+  <node id="11940696770" lat="52.2387676" lon="0.0840042" version="1" timestamp="2024-05-28T22:26:37Z" changeset="151965313" uid="8891552" user="Zomba">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="CB3 0PJ"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="amenity" v="childcare"/>
+    <tag k="name" v="Girton Village Day Nursery"/>
+    <tag k="website" v="https://girtonvillagedaynursery.co.uk/"/>
+  </node>
+  <way id="4372740" version="13" timestamp="2024-05-31T20:07:04Z" changeset="152097194" uid="5173844" user="ndrw6">
+    <nd ref="26664027"/>
+    <nd ref="2811415504"/>
+    <nd ref="2811415501"/>
+    <nd ref="2811415507"/>
+    <nd ref="2811415505"/>
+    <nd ref="2811415502"/>
+    <nd ref="620122702"/>
+    <nd ref="2811415503"/>
+    <nd ref="26664028"/>
+    <nd ref="26664240"/>
+    <nd ref="11948590390"/>
+    <nd ref="26664029"/>
+    <nd ref="1372134898"/>
+    <nd ref="26664026"/>
+    <nd ref="26664027"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB3 0PN"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="260"/>
+    <tag k="email" v="office@girtonglebe.cambs.sch.uk"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="5"/>
+    <tag k="name" v="Girton Glebe Primary School"/>
+    <tag k="phone" v="+44 1223276484"/>
+    <tag k="ref:GB:uprn" v="100091415869"/>
+    <tag k="ref:edubase" v="148105"/>
+    <tag k="ref:edubase:group" v="16402"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Eastern Learning Alliance"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://girtonglebe.com/"/>
+    <tag k="wikidata" v="Q66223495"/>
+  </way>
+  <way id="87777451" version="7" timestamp="2023-08-12T12:04:09Z" changeset="139785057" uid="242345" user="confusedbuffalo">
+    <nd ref="1020548832"/>
+    <nd ref="1372110064"/>
+    <nd ref="1020548826"/>
+    <nd ref="1020548801"/>
+    <nd ref="1020548817"/>
+    <nd ref="1372110077"/>
+    <nd ref="8877561262"/>
+    <nd ref="1020548790"/>
+    <nd ref="1020548812"/>
+    <nd ref="2812909510"/>
+    <nd ref="1020548776"/>
+    <nd ref="1020548809"/>
+    <nd ref="1020548774"/>
+    <nd ref="1020548805"/>
+    <nd ref="8877561261"/>
+    <nd ref="8877561260"/>
+    <nd ref="1372110196"/>
+    <nd ref="1372110205"/>
+    <nd ref="1372110207"/>
+    <nd ref="1372110076"/>
+    <nd ref="1372110072"/>
+    <nd ref="1372110182"/>
+    <nd ref="1372110046"/>
+    <nd ref="1020548795"/>
+    <nd ref="1020548832"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB3 0RX"/>
+    <tag k="addr:street" v="Manor Farm Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="200"/>
+    <tag k="isced:level" v="1;2"/>
+    <tag k="max_age" v="19"/>
+    <tag k="min_age" v="5"/>
+    <tag k="name" v="Gretton School"/>
+    <tag k="note" v="Specialist school for children with autism related special needs."/>
+    <tag k="phone" v="+44 1223 277438"/>
+    <tag k="ref:GB:uprn" v="10003183660"/>
+    <tag k="ref:edubase" v="136047"/>
+    <tag k="school:boarding" v="yes"/>
+    <tag k="school:selective" v="yes"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="special"/>
+    <tag k="website" v="https://www.grettonschool.com/"/>
+    <tag k="wikidata" v="Q5607809"/>
+  </way>
   <way id="155194950" version="3" timestamp="2017-06-16T11:07:12Z" changeset="49588263" uid="5844915" user="University Of Cambridge Space Data Team">
     <nd ref="1676123291"/>
     <nd ref="1676123306"/>
@@ -348,6 +563,34 @@
     <tag k="height" v="3"/>
     <tag k="name" v="Anglia Ruskin University Pavilion"/>
   </way>
+  <way id="370695827" version="5" timestamp="2023-11-11T10:26:27Z" changeset="143893444" uid="9451067" user="b-jazz-bot">
+    <nd ref="3703782566"/>
+    <nd ref="1618868201"/>
+    <nd ref="1618868186"/>
+    <nd ref="1618868187"/>
+    <nd ref="1618868189"/>
+    <nd ref="1618868190"/>
+    <nd ref="1618868191"/>
+    <nd ref="1618868194"/>
+    <nd ref="3743912733"/>
+    <nd ref="3743912745"/>
+    <nd ref="3743912410"/>
+    <nd ref="3743912421"/>
+    <nd ref="3743912748"/>
+    <nd ref="3743912750"/>
+    <nd ref="3743912746"/>
+    <nd ref="467818469"/>
+    <nd ref="467818465"/>
+    <nd ref="3703782566"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB3 0LX"/>
+    <tag k="addr:street" v="Whitehouse Lane"/>
+    <tag k="fhrs:id" v="597005"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Felix Hotel and Restaurant"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.hotelfelix.co.uk/"/>
+  </way>
   <way id="500946414" version="2" timestamp="2018-10-31T16:30:11Z" changeset="64051349" uid="281267" user="smb1001">
     <nd ref="4918746688"/>
     <nd ref="4918746689"/>
@@ -379,6 +622,59 @@
     <tag k="name" v="303 Huntingdon Road"/>
     <tag k="operator" v="University of Cambridge"/>
     <tag k="ref" v="F027"/>
+  </way>
+  <way id="501347027" version="15" timestamp="2023-11-11T10:26:00Z" changeset="143893444" uid="9451067" user="b-jazz-bot">
+    <nd ref="4921820138"/>
+    <nd ref="4921820280"/>
+    <nd ref="4921820303"/>
+    <nd ref="5891296030"/>
+    <nd ref="9772981979"/>
+    <nd ref="4921820730"/>
+    <nd ref="4921820726"/>
+    <nd ref="4921820756"/>
+    <nd ref="4921820820"/>
+    <nd ref="4921820951"/>
+    <nd ref="4921820978"/>
+    <nd ref="4921821155"/>
+    <nd ref="5516684873"/>
+    <nd ref="4921821121"/>
+    <nd ref="7912516274"/>
+    <nd ref="4921820973"/>
+    <nd ref="9248655585"/>
+    <nd ref="4921820959"/>
+    <nd ref="4921820944"/>
+    <nd ref="9248655586"/>
+    <nd ref="9248655587"/>
+    <nd ref="9248655588"/>
+    <nd ref="9248655589"/>
+    <nd ref="4921820829"/>
+    <nd ref="10068618121"/>
+    <nd ref="4921820727"/>
+    <nd ref="4921820382"/>
+    <nd ref="4921820239"/>
+    <nd ref="7912516284"/>
+    <nd ref="4921820134"/>
+    <nd ref="4921820138"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB3 0QZ"/>
+    <tag k="addr:street" v="Eddington Avenue"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="669"/>
+    <tag k="isced:level" v="0;1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="University of Cambridge Primary School"/>
+    <tag k="operator" v="University of Cambridge"/>
+    <tag k="phone" v="+44 1223 792440"/>
+    <tag k="ref:edubase" v="141500"/>
+    <tag k="ref:edubase:group" v="15817"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="UTS Cambridge"/>
+    <tag k="school:trust:type" v="single_academy"/>
+    <tag k="school:type" v="free"/>
+    <tag k="website" v="https://www.universityprimaryschool.org.uk/"/>
+    <tag k="wikidata" v="Q28970533"/>
+    <tag k="wikipedia" v="en:University of Cambridge Primary School"/>
   </way>
   <way id="523785732" version="3" timestamp="2023-08-01T22:23:54Z" changeset="139320542" uid="1102246" user="jtn20">
     <nd ref="5098425434"/>
@@ -481,6 +777,24 @@
     <tag k="building" v="yes"/>
     <tag k="building:levels" v="3"/>
     <tag k="name" v="Arlington Manor"/>
+  </way>
+  <way id="919116018" version="2" timestamp="2021-03-19T10:42:05Z" changeset="101321089" uid="9499916" user="AndrewMcLoughlin">
+    <nd ref="467818420"/>
+    <nd ref="8536433100"/>
+    <nd ref="8536412256"/>
+    <nd ref="8536412257"/>
+    <nd ref="8536412258"/>
+    <nd ref="8536412259"/>
+    <nd ref="8536412260"/>
+    <nd ref="8536412261"/>
+    <nd ref="8536433091"/>
+    <nd ref="2500888807"/>
+    <nd ref="8536412255"/>
+    <nd ref="467818420"/>
+    <tag k="addr:street" v="Wellbrook Way"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="The Sensory Garden"/>
+    <tag k="operator" v="Giron Town Charity"/>
   </way>
   <way id="925236194" version="2" timestamp="2021-05-13T18:43:09Z" changeset="104654525" uid="9499916" user="AndrewMcLoughlin">
     <nd ref="8586843300"/>

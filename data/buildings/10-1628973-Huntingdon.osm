@@ -1,8 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:05:12Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:23:25Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="280781336" lat="52.3339811" lon="-0.1880560" version="13" timestamp="2023-10-13T07:36:19Z" changeset="142509765" uid="616774" user="mueschel">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="72A"/>
+    <tag k="addr:postcode" v="PE29 3EZ"/>
+    <tag k="addr:street" v="Ermine Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Wellbeing Pharmacy"/>
+    <tag k="ref" v="WP038"/>
+    <tag k="ref:GB:nhs_ods" v="FX693"/>
+    <tag k="website" v="https://wellbeing-pharmacy.co.uk/"/>
+  </node>
+  <node id="283152180" lat="52.3454821" lon="-0.1757718" version="5" timestamp="2024-06-01T18:32:06Z" changeset="152134469" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="PE29 7HN"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="fhrs:id" v="709488"/>
+    <tag k="name" v="Oak Tree News and Post Office"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="283152181" lat="52.3452523" lon="-0.1757277" version="8" timestamp="2024-08-27T15:10:39Z" changeset="155836988" uid="2400059" user="Pablo Rodriguez">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE29 7HN"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="1497337"/>
+    <tag k="name" v="Dessert Central"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="283152183" lat="52.3455867" lon="-0.1757924" version="9" timestamp="2024-01-02T12:17:01Z" changeset="145795572" uid="10420541" user="Thingummy">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="PE29 7HN"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="brand" v="Premier"/>
+    <tag k="brand:wikidata" v="Q7240340"/>
+    <tag k="brand:wikipedia" v="en:Premier Stores"/>
+    <tag k="fhrs:id" v="340964"/>
+    <tag k="name" v="Premier"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.premier-stores.co.uk/our-stores/premier-supermarket-4"/>
+  </node>
+  <node id="283152184" lat="52.3453292" lon="-0.1757441" version="4" timestamp="2024-06-01T18:32:06Z" changeset="152134469" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="PE29 7HN"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="fhrs:id" v="341221"/>
+    <tag k="name" v="Tony's Takeaway"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="283152417" lat="52.3451097" lon="-0.1745491" version="2" timestamp="2021-08-31T22:33:50Z" changeset="110534603" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:postcode" v="PE29 7LB"/>
+    <tag k="addr:street" v="Sapley Square"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="1226328"/>
+    <tag k="name" v="Golden Knight"/>
+  </node>
+  <node id="283152418" lat="52.3454886" lon="-0.1756602" version="7" timestamp="2024-06-01T18:32:35Z" changeset="152134480" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 7HN"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Maple Centre Cafe"/>
+  </node>
+  <node id="306468148" lat="52.3296614" lon="-0.1822969" version="9" timestamp="2023-10-19T14:00:25Z" changeset="142817683" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="PE29 3AQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Costa"/>
+    <tag k="brand:wikidata" v="Q608845"/>
+    <tag k="brand:wikipedia" v="en:Costa Coffee"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="fhrs:id" v="340989"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Costa"/>
+    <tag k="operator" v="Costa Coffee"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="306474049" lat="52.3298560" lon="-0.1823118" version="10" timestamp="2024-09-03T19:47:48Z" changeset="156157798" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 3NE"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Nationwide"/>
+    <tag k="brand:wikidata" v="Q846735"/>
+    <tag k="brand:wikipedia" v="en:Nationwide Building Society"/>
+    <tag k="check_date" v="2024-09-02"/>
+    <tag k="check_date:opening_hours" v="2024-09-02"/>
+    <tag k="name" v="Nationwide"/>
+    <tag k="opening_hours" v="Mo-Tu 09:00-16:30; We 10:00-16:30; Th-Fr 09:00-16:30; Sa 09:00-12:00; Su closed"/>
+    <tag k="operator" v="Nationwide"/>
+    <tag k="phone" v="+44 345 266 1051"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.nationwide.co.uk/branches/huntingdon/131-high-street"/>
+  </node>
+  <node id="306474088" lat="52.3293179" lon="-0.1814275" version="3" timestamp="2021-08-31T22:33:50Z" changeset="110534603" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:postcode" v="PE29 3NF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="865383"/>
+    <tag k="name" v="Three Tuns"/>
+    <tag k="wikidata" v="Q26421495"/>
+  </node>
+  <node id="306474109" lat="52.3301759" lon="-0.1841877" version="3" timestamp="2023-10-23T21:28:03Z" changeset="143036963" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:postcode" v="PE29 3NJ"/>
+    <tag k="addr:street" v="Market Hill"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="764360"/>
+    <tag k="name" v="Market Inn"/>
+    <tag k="operator" v="Stonegate"/>
+    <tag k="operator:wikidata" v="Q7619176"/>
+    <tag k="website" v="https://www.craftunionpubs.com/market-inn-huntingdon"/>
+  </node>
+  <node id="306474251" lat="52.3311799" lon="-0.1835014" version="8" timestamp="2023-10-19T14:00:25Z" changeset="142817683" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="PE29 3LF"/>
+    <tag k="addr:street" v="Grammar School Walk"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Domino's"/>
+    <tag k="brand:wikidata" v="Q839466"/>
+    <tag k="brand:wikipedia" v="en:Domino's Pizza"/>
+    <tag k="contact:website" v="https://www.dominos.co.uk/pizza-near-me/huntingdon/1-grammar-school-walk"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="fhrs:id" v="341497"/>
+    <tag k="name" v="Domino's"/>
+    <tag k="operator" v="Domino's Pizza"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="814662207" lat="52.3304361" lon="-0.1828927" version="7" timestamp="2024-08-28T13:04:31Z" changeset="155879632" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="122-123"/>
+    <tag k="addr:postcode" v="PE29 3LG"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="name" v="Huntingdon Post Office"/>
+    <tag k="operator" v="WH Smith"/>
+    <tag k="ref:pol_id" v="114547"/>
+    <tag k="source:ref:pol_id" v="pol_branch_list_2022‑05‑27"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/3912302/huntingdon"/>
+  </node>
+  <node id="814662210" lat="52.3301247" lon="-0.1870776" version="4" timestamp="2020-03-09T15:53:41Z" changeset="81971547" uid="90943" user="chris_debian">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="PE29 3BD"/>
+    <tag k="addr:street" v="George Street"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="dentist"/>
+    <tag k="name" v="Wensleydale Dental Practice"/>
+  </node>
+  <node id="1106397141" lat="52.3305671" lon="-0.1821570" version="8" timestamp="2023-10-19T14:00:38Z" changeset="142817683" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="PE29 3LJ"/>
+    <tag k="addr:street" v="Chequers Court"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Subway"/>
+    <tag k="brand:wikidata" v="Q244457"/>
+    <tag k="brand:wikipedia" v="en:Subway (restaurant)"/>
+    <tag k="contact:website" v="https://restaurants.subway.com/united-kingdom/en/huntingdon/12-chequers-court"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="fhrs:id" v="764370"/>
+    <tag k="name" v="Subway"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="1233079674" lat="52.3409876" lon="-0.1871696" version="3" timestamp="2023-05-16T14:21:31Z" changeset="136171984" uid="13750939" user="FortQuake">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="The Bridge Centre"/>
+    <tag k="brand" v="Motor Parts Direct"/>
+    <tag k="brand:wikidata" v="Q115287506"/>
+    <tag k="name" v="Motor Parts Direct"/>
+    <tag k="shop" v="car_parts"/>
+  </node>
+  <node id="1327167350" lat="52.3467867" lon="-0.1839798" version="4" timestamp="2021-01-14T10:36:43Z" changeset="97489876" uid="4159741" user="Michal1979">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="PE29 7EJ"/>
+    <tag k="addr:street" v="Clifton Road"/>
+    <tag k="name" v="Plumb-it"/>
+    <tag k="opening_hours" v="08:30-16:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+441480450700"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="website" v="https://www.plumb-it.net/"/>
+  </node>
+  <node id="1327167389" lat="52.3449099" lon="-0.1816529" version="5" timestamp="2024-01-24T21:14:22Z" changeset="146647711" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housename" v="Unit 2 Cirrus Court"/>
+    <tag k="addr:postcode" v="PE29 7DL"/>
+    <tag k="addr:street" v="Glebe Road"/>
+    <tag k="brand" v="Wolseley"/>
+    <tag k="brand:wikidata" v="Q8030423"/>
+    <tag k="name" v="Wolseley"/>
+    <tag k="shop" v="trade"/>
+    <tag k="trade" v="plumbing"/>
+    <tag k="website" v="https://www.wolseley.co.uk/branch/huntingdon/"/>
+  </node>
   <node id="1845622027" lat="52.3279666" lon="-0.1777085" version="2" timestamp="2022-07-16T16:11:59Z" changeset="123694741" uid="242345" user="confusedbuffalo">
     <tag k="addr:city" v="Huntingdon"/>
     <tag k="addr:housename" v="Riverside House"/>
@@ -12,6 +245,559 @@
     <tag k="building" v="office"/>
     <tag k="name" v="web2market"/>
   </node>
+  <node id="1867553633" lat="52.3455105" lon="-0.1763917" version="9" timestamp="2022-01-09T19:07:02Z" changeset="115954680" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="PE29 7HN"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Acorn"/>
+    <tag k="phone" v="+44 1480 458822"/>
+    <tag k="source" v="local knowledge;flyer"/>
+    <tag k="website" v="acorn.pharmacy@nhs.net"/>
+  </node>
+  <node id="2980061640" lat="52.3309061" lon="-0.1846780" version="9" timestamp="2024-02-19T15:49:32Z" changeset="147656579" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="PE29 3LB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="PizzaExpress"/>
+    <tag k="brand:wikidata" v="Q662845"/>
+    <tag k="brand:wikipedia" v="en:PizzaExpress"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="PizzaExpress"/>
+    <tag k="opening_hours" v="Mo-Su 11:30-23:00"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="website" v="https://www.pizzaexpress.com/huntingdon-high-street"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3683561627" lat="52.3451883" lon="-0.1764049" version="7" timestamp="2022-01-09T19:07:02Z" changeset="115954680" uid="11022773" user="GeoFens">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="Anchor Dental Care"/>
+    <tag k="nhs" v="yes"/>
+    <tag k="phone" v="+44 1480 418 558"/>
+  </node>
+  <node id="4314921340" lat="52.3305242" lon="-0.1869901" version="9" timestamp="2023-10-19T14:25:42Z" changeset="142818835" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housename" v="Sandford House"/>
+    <tag k="addr:postcode" v="PE29 3BD"/>
+    <tag k="addr:street" v="George Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brand" v="Wetherspoon"/>
+    <tag k="brand:wikidata" v="Q6109362"/>
+    <tag k="brand:wikipedia" v="en:Wetherspoons"/>
+    <tag k="contact:website" v="https://www.jdwetherspoon.com/pubs/all-pubs/england/cambridgeshire/sandford-house-huntingdon"/>
+    <tag k="fhrs:id" v="908385"/>
+    <tag k="name" v="Sandford House"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-24:00; Sa-Su 00:00-01:00,07:00-24:00"/>
+    <tag k="smoking" v="outside"/>
+  </node>
+  <node id="4596093392" lat="52.3301773" lon="-0.1896246" version="3" timestamp="2022-06-02T19:45:06Z" changeset="121866398" uid="10420541" user="Thingummy">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Brampton Road"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="dentist;orthodontics;clinic"/>
+    <tag k="name" v="Huntingdon Dental Care"/>
+    <tag k="note" v="NHS and Private"/>
+  </node>
+  <node id="5066955253" lat="52.3307964" lon="-0.1812357" version="9" timestamp="2024-05-30T11:09:51Z" changeset="152029268" uid="10420541" user="Thingummy">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="PE29 3FG"/>
+    <tag k="addr:street" v="St Germain Walk"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Costa"/>
+    <tag k="brand:wikidata" v="Q608845"/>
+    <tag k="brand:wikipedia" v="en:Costa Coffee"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="fhrs:id" v="1002380"/>
+    <tag k="name" v="Costa"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5066955258" lat="52.3308891" lon="-0.1814117" version="7" timestamp="2024-05-30T11:09:51Z" changeset="152029268" uid="10420541" user="Thingummy">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="PE29 3FG"/>
+    <tag k="addr:street" v="St Germain Walk"/>
+    <tag k="brand" v="TK Maxx"/>
+    <tag k="brand:wikidata" v="Q23823668"/>
+    <tag k="brand:wikipedia" v="en:TK Maxx"/>
+    <tag k="fhrs:id" v="1007659"/>
+    <tag k="name" v="TK Maxx"/>
+    <tag k="shop" v="department_store"/>
+  </node>
+  <node id="5282182287" lat="52.3382244" lon="-0.1904833" version="5" timestamp="2021-08-31T22:33:50Z" changeset="110534603" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housename" v="Huntingdon Business Centre"/>
+    <tag k="addr:postcode" v="PE29 6HQ"/>
+    <tag k="addr:street" v="Stukeley Road"/>
+    <tag k="addr:unit" v="15,15A"/>
+    <tag k="cuisine" v="polish"/>
+    <tag k="fhrs:id" v="457463"/>
+    <tag k="name" v="Eunice Artisan Bakery"/>
+    <tag k="operator" v="Eunice Artisan Bakery Ltd"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="website" v="https://bakeryeunice.co.uk/"/>
+  </node>
+  <node id="5326456528" lat="52.3301749" lon="-0.1828094" version="9" timestamp="2023-10-19T14:38:26Z" changeset="142819514" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="123b"/>
+    <tag k="addr:postcode" v="PE29 3LG"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Greggs"/>
+    <tag k="brand:wikidata" v="Q3403981"/>
+    <tag k="brand:wikipedia" v="en:Greggs"/>
+    <tag k="contact:website" v="https://www.greggs.co.uk/shop-finder?shop-code=0797"/>
+    <tag k="cuisine" v="sandwich;bakery"/>
+    <tag k="fhrs:id" v="341404"/>
+    <tag k="name" v="Greggs"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5326456531" lat="52.3301026" lon="-0.1826229" version="9" timestamp="2024-08-15T18:42:00Z" changeset="155296903" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 3NE"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Shoe Zone"/>
+    <tag k="brand:wikidata" v="Q7500016"/>
+    <tag k="brand:wikipedia" v="en:Shoe Zone"/>
+    <tag k="contact:website" v="https://www.shoezone.com/Stores/Huntingdon-1160"/>
+    <tag k="name" v="Shoe Zone"/>
+    <tag k="shop" v="shoes"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+  </node>
+  <node id="5326458334" lat="52.3296867" lon="-0.1818989" version="6" timestamp="2023-11-03T15:31:40Z" changeset="143580004" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:postcode" v="PE29 3NF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="British Heart Foundation"/>
+    <tag k="brand:wikidata" v="Q4970039"/>
+    <tag k="brand:wikipedia" v="en:British Heart Foundation"/>
+    <tag k="name" v="British Heart Foundation"/>
+    <tag k="shop" v="charity"/>
+    <tag k="website" v="https://www.bhf.org.uk/what-we-do/find-bhf-near-you/huntingdon-furniture-electrical-store"/>
+  </node>
+  <node id="5790263639" lat="52.3307908" lon="-0.1854084" version="3" timestamp="2021-08-31T22:33:50Z" changeset="110534603" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="PE29 3LD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fhrs:id" v="1196801"/>
+    <tag k="name" v="Nectar"/>
+    <tag k="operator" v="Nectar Huntingdon Ltd"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="5790321053" lat="52.3307465" lon="-0.1843603" version="7" timestamp="2024-08-28T17:17:59Z" changeset="155891697" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:postcode" v="PE29 3LD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Savers"/>
+    <tag k="brand:wikidata" v="Q7428189"/>
+    <tag k="brand:wikipedia" v="en:Savers (UK retailer)"/>
+    <tag k="check_date" v="2024-08-28"/>
+    <tag k="check_date:opening_hours" v="2024-08-28"/>
+    <tag k="fhrs:id" v="504833"/>
+    <tag k="name" v="Savers"/>
+    <tag k="official_name" v="Savers Health &amp; Beauty"/>
+    <tag k="opening_hours" v="Mo-Th 08:30-17:30; Fr-Sa 08:30-18:00; Su 10:00-16:00"/>
+    <tag k="phone" v="+44 1480 457372"/>
+    <tag k="shop" v="chemist"/>
+  </node>
+  <node id="5790321054" lat="52.3307195" lon="-0.1842879" version="3" timestamp="2023-08-20T11:05:57Z" changeset="140127603" uid="13001300" user="simonc11">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:postcode" v="PE29 3LD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="1060896"/>
+    <tag k="name" v="Rosamunds"/>
+    <tag k="wikidata" v="Q26421493"/>
+  </node>
+  <node id="5790321057" lat="52.3304187" lon="-0.1834872" version="2" timestamp="2021-08-31T22:33:50Z" changeset="110534603" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="PE29 3LD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fhrs:id" v="830966"/>
+    <tag k="name" v="Grosik"/>
+    <tag k="operator" v="Grosik Sklep Ltd"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="5790640760" lat="52.3307719" lon="-0.1819088" version="7" timestamp="2024-08-23T16:44:17Z" changeset="155662841" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="PE29 3LZ"/>
+    <tag k="addr:street" v="Chequers Court"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Caffè Nero"/>
+    <tag k="brand:wikidata" v="Q675808"/>
+    <tag k="brand:wikipedia" v="en:Caffè Nero"/>
+    <tag k="check_date" v="2024-08-22"/>
+    <tag k="check_date:opening_hours" v="2024-08-22"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="fhrs:id" v="1051130"/>
+    <tag k="name" v="Caffè Nero"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-18:00; Su 08:30-17:30"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.caffenero.com/uk/stores/huntingdon/"/>
+  </node>
+  <node id="6292657436" lat="52.3287369" lon="-0.1809490" version="6" timestamp="2024-05-03T06:22:08Z" changeset="150821216" uid="7705798" user="MVEMJSUNP">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="PE29 3TA"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="fish_and_chips"/>
+    <tag k="name" v="Barney's Place"/>
+    <tag k="opening_hours" v="Su 16:00-22:00l; Mo-Th 11:30-14:30, 16:00-22:00; Fr-Sa 11:30-22:00"/>
+    <tag k="phone" v="01480 437775"/>
+  </node>
+  <node id="6292657438" lat="52.3293252" lon="-0.1819006" version="8" timestamp="2023-10-23T17:45:00Z" changeset="143029056" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="PE29 3AQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Cash Converters"/>
+    <tag k="brand:wikidata" v="Q5048645"/>
+    <tag k="brand:wikipedia" v="en:Cash Converters"/>
+    <tag k="name" v="Cash Converters"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-17:30"/>
+    <tag k="phone" v="+44 1480 450939"/>
+    <tag k="shop" v="pawnbroker"/>
+    <tag k="website" v="https://www.cashconverters.co.uk/stores/huntingdon"/>
+  </node>
+  <node id="7425333301" lat="52.3525948" lon="-0.1806533" version="3" timestamp="2022-08-11T13:02:08Z" changeset="124775707" uid="3475996" user="bobbob101">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housename" v="Tesco"/>
+    <tag k="addr:postcode" v="PE28 2LA"/>
+    <tag k="addr:street" v="Abbots Ripton Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Harris + Hoole"/>
+    <tag k="brand:wikidata" v="Q19903306"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="fhrs:id" v="696988"/>
+    <tag k="name" v="Harris + Hoole"/>
+    <tag k="operator" v="Harris &amp; Hoole Ltd"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="7462853188" lat="52.3303759" lon="-0.1824605" version="4" timestamp="2023-01-09T14:25:53Z" changeset="131057356" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE29 3LJ"/>
+    <tag k="addr:street" v="Chequers Court"/>
+    <tag k="brand" v="Grape Tree"/>
+    <tag k="brand:wikidata" v="Q87071497"/>
+    <tag k="fhrs:id" v="774028"/>
+    <tag k="name" v="Grape Tree"/>
+    <tag k="shop" v="health_food"/>
+    <tag k="website" v="https://www.grapetree.co.uk/stores/locator/store/l/huntingdon/chequers-court/3423724"/>
+  </node>
+  <node id="7876616689" lat="52.3307950" lon="-0.1822428" version="5" timestamp="2023-10-19T14:52:36Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="20-24"/>
+    <tag k="addr:postcode" v="PE29 3LN"/>
+    <tag k="addr:street" v="Chequers Court"/>
+    <tag k="brand" v="Holland &amp; Barrett"/>
+    <tag k="brand:wikidata" v="Q5880870"/>
+    <tag k="brand:wikipedia" v="en:Holland &amp; Barrett"/>
+    <tag k="fhrs:id" v="1051166"/>
+    <tag k="name" v="Holland &amp; Barrett"/>
+    <tag k="shop" v="health_food"/>
+  </node>
+  <node id="7876616694" lat="52.3313606" lon="-0.1858383" version="2" timestamp="2021-08-31T22:33:50Z" changeset="110534603" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="PE29 3DN"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="fhrs:id" v="1051139"/>
+    <tag k="name" v="Chicken Spot"/>
+  </node>
+  <node id="7876616700" lat="52.3300115" lon="-0.1825244" version="5" timestamp="2024-08-15T18:42:00Z" changeset="155296903" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 3NE"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Game"/>
+    <tag k="brand:wikidata" v="Q5519813"/>
+    <tag k="brand:wikipedia" v="en:Game (retailer)"/>
+    <tag k="name" v="Game"/>
+    <tag k="shop" v="video_games"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+  </node>
+  <node id="7876616701" lat="52.3299722" lon="-0.1824614" version="5" timestamp="2024-08-15T18:42:00Z" changeset="155296903" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 3NE"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Specsavers"/>
+    <tag k="brand:wikidata" v="Q2000610"/>
+    <tag k="brand:wikipedia" v="en:Specsavers"/>
+    <tag k="contact:website" v="https://www.specsavers.co.uk/stores/huntingdon"/>
+    <tag k="name" v="Specsavers"/>
+    <tag k="shop" v="optician"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+  </node>
+  <node id="7876616703" lat="52.3302706" lon="-0.1829683" version="4" timestamp="2023-09-20T12:33:36Z" changeset="141511720" uid="10420541" user="Thingummy">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:postcode" v="PE29 3LG"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="bar" v="yes"/>
+    <tag k="brand" v="Lounges"/>
+    <tag k="brand:wikidata" v="Q114313933"/>
+    <tag k="cuisine" v="british"/>
+    <tag k="fhrs:id" v="1196800"/>
+    <tag k="name" v="Olmo Lounge"/>
+    <tag k="website" v="https://thelounges.co.uk/olmo/"/>
+  </node>
+  <node id="8834912621" lat="52.3410823" lon="-0.1937732" version="2" timestamp="2021-10-02T15:28:27Z" changeset="112005533" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="PE29 6EB"/>
+    <tag k="addr:street" v="St Margarets Way"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="341512"/>
+    <tag k="name" v="Cafe Pausa"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="9037227913" lat="52.3299109" lon="-0.1823618" version="5" timestamp="2024-08-15T18:42:00Z" changeset="155296903" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 3NE"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="TaxAssist Accountants"/>
+    <tag k="brand:wikidata" v="Q122459380"/>
+    <tag k="name" v="TaxAssist"/>
+    <tag k="office" v="accountant"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.taxassist.co.uk/accountants/huntingdon"/>
+  </node>
+  <node id="9037227914" lat="52.3300412" lon="-0.1825830" version="6" timestamp="2024-08-29T13:40:32Z" changeset="155929668" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 3NE"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="The Salvation Army"/>
+    <tag k="brand:wikidata" v="Q188307"/>
+    <tag k="check_date" v="2024-08-20"/>
+    <tag k="name" v="The Salvation Army"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
+    <tag k="website" v="https://www.salvationarmy.org.uk/huntingdon-charity-shop"/>
+  </node>
+  <node id="9051911433" lat="52.3295557" lon="-0.1818564" version="4" timestamp="2023-10-19T14:52:40Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:postcode" v="PE29 3NF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Bonmarché"/>
+    <tag k="brand:wikidata" v="Q4942146"/>
+    <tag k="brand:wikipedia" v="en:Bonmarché"/>
+    <tag k="name" v="Bonmarché"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="9258526616" lat="52.3411667" lon="-0.1870587" version="3" timestamp="2023-10-19T14:52:41Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="The Bridge Centre"/>
+    <tag k="brand" v="Dulux Paints"/>
+    <tag k="brand:wikidata" v="Q50921"/>
+    <tag k="brand:wikipedia" v="en:Dulux"/>
+    <tag k="name" v="Dulux Paints"/>
+    <tag k="shop" v="paint"/>
+  </node>
+  <node id="10962303095" lat="52.3304112" lon="-0.1842354" version="2" timestamp="2023-06-23T12:21:32Z" changeset="137686776" uid="10420541" user="Thingummy">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:street" v="Market Hill"/>
+    <tag k="amenity" v="events_venue"/>
+    <tag k="email" v="town.council@huntingdontown.gov.uk"/>
+    <tag k="name" v="Assembly Rooms"/>
+    <tag k="operator" v="Huntingdon Town Council"/>
+    <tag k="postal_code" v="PE29 3PJ"/>
+  </node>
+  <node id="10964927186" lat="52.3428681" lon="-0.1959344" version="4" timestamp="2023-10-19T14:57:56Z" changeset="142820593" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 6HG"/>
+    <tag k="addr:street" v="Stukeley Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Shell"/>
+    <tag k="brand:wikidata" v="Q110716465"/>
+    <tag k="brand:wikipedia" v="en:Royal Dutch Shell"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="opening_hours" v="0:00-23:59"/>
+    <tag k="phone" v="+44 1480 432160"/>
+    <tag k="ref:navads" v="NVDS353_10018941"/>
+    <tag k="website" v="https://find.shell.com/gb/fuel/10018941-shell-huntingdon"/>
+  </node>
+  <node id="11478703523" lat="52.3454446" lon="-0.1756502" version="5" timestamp="2024-06-01T18:32:35Z" changeset="152134480" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="PE29 7HN"/>
+    <tag k="addr:street" v="Oak Drive"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="The Maple Centre"/>
+    <tag k="note" v="Able carpark across bridge PE29 7LB"/>
+    <tag k="website" v="https://huntsforum.org.uk/about-the-centre/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="see website for parking"/>
+  </node>
+  <node id="11729997399" lat="52.3425132" lon="-0.1901014" version="1" timestamp="2024-03-14T07:46:31Z" changeset="148626594" uid="322785" user="BCNorwich">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housename" v="Cinch Storage Unit 4-6"/>
+    <tag k="addr:postcode" v="PE29 6ED"/>
+    <tag k="addr:street" v="St Margarets Way"/>
+    <tag k="name" v="The Car Edition"/>
+    <tag k="shop" v="car"/>
+  </node>
+  <node id="11832677069" lat="52.3303988" lon="-0.1821838" version="2" timestamp="2024-09-24T14:12:51Z" changeset="157041882" uid="84263" user="Robert Whittaker">
+    <tag k="addr:street" v="Chequers Court"/>
+    <tag k="brand" v="Vision Express"/>
+    <tag k="brand:wikidata" v="Q7936150"/>
+    <tag k="name" v="Vision Express"/>
+    <tag k="shop" v="optician"/>
+  </node>
+  <node id="11875788518" lat="52.3287891" lon="-0.1810101" version="1" timestamp="2024-05-03T06:22:08Z" changeset="150821216" uid="7705798" user="MVEMJSUNP">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="PE29 3TA"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Golden City"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-22:00"/>
+    <tag k="phone" v="01480 411088"/>
+    <tag k="website" v="https://golden-citychinese.co.uk/"/>
+  </node>
+  <way id="25747236" version="15" timestamp="2024-09-17T00:25:52Z" changeset="156709402" uid="21226027" user="DorneyLake123">
+    <nd ref="6001061840"/>
+    <nd ref="6001061948"/>
+    <nd ref="6398569332"/>
+    <nd ref="6001061949"/>
+    <nd ref="6001061856"/>
+    <nd ref="6001061855"/>
+    <nd ref="6001061953"/>
+    <nd ref="6001061950"/>
+    <nd ref="6001061971"/>
+    <nd ref="6403637008"/>
+    <nd ref="6403637010"/>
+    <nd ref="6398637374"/>
+    <nd ref="6001061970"/>
+    <nd ref="280779606"/>
+    <nd ref="6001061854"/>
+    <nd ref="6403637004"/>
+    <nd ref="6001061853"/>
+    <nd ref="6398619355"/>
+    <nd ref="6001061852"/>
+    <nd ref="6398619362"/>
+    <nd ref="6403631164"/>
+    <nd ref="6001061851"/>
+    <nd ref="6398619372"/>
+    <nd ref="6001061850"/>
+    <nd ref="6001061849"/>
+    <nd ref="6001061848"/>
+    <nd ref="6001061847"/>
+    <nd ref="6001061846"/>
+    <nd ref="6001061845"/>
+    <nd ref="6001061844"/>
+    <nd ref="6001061843"/>
+    <nd ref="6001061842"/>
+    <nd ref="6001061841"/>
+    <nd ref="5328302963"/>
+    <nd ref="6403636742"/>
+    <nd ref="5328302962"/>
+    <nd ref="6001061837"/>
+    <nd ref="6403636775"/>
+    <nd ref="6403636770"/>
+    <nd ref="6398619888"/>
+    <nd ref="6398619917"/>
+    <nd ref="6403636768"/>
+    <nd ref="280781051"/>
+    <nd ref="6398612393"/>
+    <nd ref="280781059"/>
+    <nd ref="6398612392"/>
+    <nd ref="6398612391"/>
+    <nd ref="280781060"/>
+    <nd ref="6398612390"/>
+    <nd ref="280778862"/>
+    <nd ref="6398612389"/>
+    <nd ref="6398612388"/>
+    <nd ref="2411085482"/>
+    <nd ref="6398612387"/>
+    <nd ref="6398612450"/>
+    <nd ref="1143926852"/>
+    <nd ref="2411085541"/>
+    <nd ref="2411085578"/>
+    <nd ref="6398612449"/>
+    <nd ref="6001061861"/>
+    <nd ref="280780298"/>
+    <nd ref="6001061862"/>
+    <nd ref="6001061798"/>
+    <nd ref="280780279"/>
+    <nd ref="6001061799"/>
+    <nd ref="280780278"/>
+    <nd ref="6001061892"/>
+    <nd ref="6001061895"/>
+    <nd ref="6001061863"/>
+    <nd ref="6398569342"/>
+    <nd ref="6001061838"/>
+    <nd ref="6001061839"/>
+    <nd ref="6001061945"/>
+    <nd ref="6398569330"/>
+    <nd ref="6001061946"/>
+    <nd ref="6001061840"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 3BN"/>
+    <tag k="addr:street" v="Brampton Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="2005"/>
+    <tag k="isced:level" v="2;3"/>
+    <tag k="max_age" v="18"/>
+    <tag k="min_age" v="11"/>
+    <tag k="name" v="Hinchingbrooke School"/>
+    <tag k="ref:edubase" v="137475"/>
+    <tag k="wikidata" v="Q5765732"/>
+    <tag k="wikipedia" v="en:Hinchingbrooke School"/>
+  </way>
   <way id="25954460" version="7" timestamp="2022-02-13T15:54:06Z" changeset="117359548" uid="11022773" user="GeoFens">
     <nd ref="283149085"/>
     <nd ref="9502881672"/>
@@ -53,6 +839,25 @@
     <tag k="contact:website" v="https://www.diy.com/store/1352"/>
     <tag k="name" v="B&amp;Q"/>
     <tag k="shop" v="doityourself"/>
+  </way>
+  <way id="27175106" version="8" timestamp="2024-09-16T23:34:07Z" changeset="156708827" uid="21226027" user="DorneyLake123">
+    <nd ref="298171646"/>
+    <nd ref="1919765569"/>
+    <nd ref="298171647"/>
+    <nd ref="298171648"/>
+    <nd ref="298171623"/>
+    <nd ref="298171646"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 1PE"/>
+    <tag k="addr:street" v="Buttsgrove Way"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="420"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="3"/>
+    <tag k="name" v="Thongsley Fields Primary and Nursery School"/>
+    <tag k="ref:edubase" v="146310"/>
+    <tag k="wikidata" v="Q66232739"/>
   </way>
   <way id="103970813" version="3" timestamp="2023-08-13T20:38:22Z" changeset="139843632" uid="90142" user="andy mackey">
     <nd ref="306467538"/>
@@ -265,6 +1070,27 @@
     <tag k="operator:website" v="https://www.motorfuelgroup.com/locations/huntingdon-fs532/"/>
     <tag k="operator:wikidata" v="Q107271358"/>
     <tag k="website" v="https://map.bp.com/en-GB/GB/petrol-station/huntingdon/huntingdon-s-stn-fs532/28461"/>
+  </way>
+  <way id="137219017" version="8" timestamp="2023-10-28T11:36:52Z" changeset="143256719" uid="10420541" user="Thingummy">
+    <nd ref="1505222222"/>
+    <nd ref="1505222208"/>
+    <nd ref="1505222189"/>
+    <nd ref="1505222168"/>
+    <nd ref="1505222166"/>
+    <nd ref="1505222175"/>
+    <nd ref="1505222216"/>
+    <nd ref="1505222237"/>
+    <nd ref="1505222238"/>
+    <nd ref="1505222222"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE28 2DN"/>
+    <tag k="addr:street" v="Spittals Way"/>
+    <tag k="compressed_air" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:e10" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="highway" v="services"/>
+    <tag k="name" v="M R H Huntingdon"/>
   </way>
   <way id="149523230" version="3" timestamp="2021-09-01T22:09:31Z" changeset="110586659" uid="11022773" user="GeoFens">
     <nd ref="1624934873"/>
@@ -904,6 +1730,30 @@
     <tag k="name" v="Vindis Huntingdon Volkswagen"/>
     <tag k="shop" v="car"/>
   </way>
+  <way id="430934977" version="3" timestamp="2020-11-01T00:27:53Z" changeset="93356021" uid="11022773" user="GeoFens">
+    <nd ref="4301918177"/>
+    <nd ref="4301918178"/>
+    <nd ref="4301918179"/>
+    <nd ref="4301918180"/>
+    <nd ref="8070138468"/>
+    <nd ref="4301918164"/>
+    <nd ref="4302392100"/>
+    <nd ref="8070138469"/>
+    <nd ref="8070138470"/>
+    <nd ref="4301918185"/>
+    <nd ref="4301918186"/>
+    <nd ref="4301918187"/>
+    <nd ref="4301918188"/>
+    <nd ref="4301921489"/>
+    <nd ref="4301921490"/>
+    <nd ref="4301921491"/>
+    <nd ref="4301918177"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE28 2NU"/>
+    <tag k="addr:street" v="Kings Ripton Road"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Sapley Park Farm"/>
+  </way>
   <way id="483555030" version="8" timestamp="2022-10-01T10:19:23Z" changeset="126854406" uid="6816132" user="CjMalone">
     <nd ref="2912357224"/>
     <nd ref="4763083222"/>
@@ -992,6 +1842,27 @@
     <tag k="name" v="Costa"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="takeaway" v="yes"/>
+  </way>
+  <way id="483625148" version="6" timestamp="2017-04-07T18:06:40Z" changeset="47547244" uid="90142" user="andy mackey">
+    <nd ref="4763690320"/>
+    <nd ref="4763690733"/>
+    <nd ref="4763690726"/>
+    <nd ref="4763690732"/>
+    <nd ref="4763690318"/>
+    <nd ref="4763690727"/>
+    <nd ref="4763690722"/>
+    <nd ref="4763690319"/>
+    <nd ref="4763690721"/>
+    <nd ref="4763690724"/>
+    <nd ref="4763690728"/>
+    <nd ref="4763690317"/>
+    <nd ref="4763690729"/>
+    <nd ref="4763690731"/>
+    <nd ref="4763690730"/>
+    <nd ref="4763690725"/>
+    <tag k="addr:housenumber" v="interpolation"/>
+    <tag k="addr:street" v="Buttsgrove Way"/>
+    <tag k="name" v="Churchill Terrace"/>
   </way>
   <way id="484574106" version="3" timestamp="2022-07-16T16:11:59Z" changeset="123694741" uid="242345" user="confusedbuffalo">
     <nd ref="4773230287"/>
@@ -1379,6 +2250,23 @@
     <tag k="addr:street" v="Temple Close"/>
     <tag k="building" v="terrace"/>
     <tag k="name" v="Hemmdan Terrace"/>
+  </way>
+  <way id="552705817" version="4" timestamp="2023-10-24T14:47:38Z" changeset="143069323" uid="9451067" user="b-jazz-bot">
+    <nd ref="5335932974"/>
+    <nd ref="11286084270"/>
+    <nd ref="5335932975"/>
+    <nd ref="5335932976"/>
+    <nd ref="5335932977"/>
+    <nd ref="5335932974"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="PE29 3QT"/>
+    <tag k="addr:street" v="Orchard Lane"/>
+    <tag k="dance:style" v="ballet;ballroom"/>
+    <tag k="dance:teaching" v="yes"/>
+    <tag k="leisure" v="dance"/>
+    <tag k="name" v="Generations Dance Academy"/>
+    <tag k="website" v="https://www.gda.dance/"/>
   </way>
   <way id="552921687" version="4" timestamp="2023-02-01T20:29:23Z" changeset="131977230" uid="10420541" user="Thingummy">
     <nd ref="5337938794"/>

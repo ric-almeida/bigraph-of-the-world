@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:12:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:26:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="26976590" lat="52.2636125" lon="0.1795876" version="11" timestamp="2022-04-24T12:17:51Z" changeset="120121979" uid="1102246" user="jtn20">
+    <tag k="addr:postcode" v="CB25 9NN"/>
+    <tag k="addr:street" v="Ely Road"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="fhrs:id" v="1432876"/>
+    <tag k="name" v="Indian Kitchen"/>
+    <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
+    <tag k="source:postcode" v="survey"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
   <node id="474737965" lat="52.2709770" lon="0.1632636" version="3" timestamp="2011-11-05T21:00:16Z" changeset="9750507" uid="2406" user="JeffB">
     <tag k="addr:housenumber" v="82-84"/>
     <tag k="addr:street" v="Green End"/>
     <tag k="building" v="house"/>
     <tag k="name" v="College House"/>
+    <tag k="source" v="dictaphone"/>
+  </node>
+  <node id="474737968" lat="52.2698434" lon="0.1629880" version="3" timestamp="2010-05-01T06:58:47Z" changeset="4571947" uid="2020" user="comsomol">
+    <tag k="addr:street" v="Green End"/>
+    <tag k="name" v="Hatley's Children's Pit"/>
+    <tag k="natural" v="water"/>
+    <tag k="operator" v="Waterbeach Angling Club"/>
     <tag k="source" v="dictaphone"/>
   </node>
   <node id="509263045" lat="52.2685526" lon="0.1610730" version="8" timestamp="2017-06-22T08:51:26Z" changeset="49740478" uid="364" user="Edward">
@@ -28,6 +46,19 @@
     <tag k="name" v="North Farm"/>
     <tag k="source" v="survey"/>
     <tag k="wikidata" v="Q26473723"/>
+  </node>
+  <node id="707990439" lat="52.2669461" lon="0.1617460" version="2" timestamp="2011-11-06T13:19:37Z" changeset="9755062" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Ravensdale"/>
+    <tag k="name" v="All Saint's Barn"/>
+    <tag k="source:name" v="survey"/>
+  </node>
+  <node id="707990442" lat="52.2666836" lon="0.1620196" version="3" timestamp="2018-10-20T21:28:02Z" changeset="63715031" uid="5173844" user="ndrw6">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB25 9GD"/>
+    <tag k="addr:street" v="Ravensdale"/>
+    <tag k="name" v="Church Barn"/>
+    <tag k="source:name" v="survey"/>
   </node>
   <node id="708030775" lat="52.2639201" lon="0.1789100" version="3" timestamp="2011-11-05T19:46:20Z" changeset="9749714" uid="2406" user="JeffB">
     <tag k="addr:housenumber" v="147-149"/>
@@ -177,6 +208,18 @@
     <tag k="name" v="Frith Meadow"/>
     <tag k="source" v="survey"/>
   </node>
+  <node id="709051830" lat="52.2638901" lon="0.1623482" version="2" timestamp="2011-11-05T17:16:16Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="13,15,17"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Cosy Cottages"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709051843" lat="52.2639968" lon="0.1623502" version="2" timestamp="2011-11-05T17:16:16Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Providence Cottages"/>
+    <tag k="source" v="survey"/>
+  </node>
   <node id="709051919" lat="52.2638973" lon="0.1619007" version="2" timestamp="2017-06-22T08:51:34Z" changeset="49740478" uid="364" user="Edward">
     <tag k="addr:street" v="High Street"/>
     <tag k="building" v="house"/>
@@ -189,6 +232,233 @@
     <tag k="building" v="shed"/>
     <tag k="name" v="The Granary"/>
     <tag k="source" v="survey"/>
+  </node>
+  <node id="709055338" lat="52.2631354" lon="0.1629329" version="4" timestamp="2020-01-20T21:44:19Z" changeset="79818634" uid="364" user="Edward">
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Plague House"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikidata" v="Q26420293"/>
+  </node>
+  <node id="709055345" lat="52.2631458" lon="0.1626913" version="3" timestamp="2011-11-05T18:08:07Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="The Old Black Bull"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068582" lat="52.2562360" lon="0.1636074" version="3" timestamp="2011-11-06T13:19:36Z" changeset="9755062" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Melrose"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068586" lat="52.2558396" lon="0.1636871" version="2" timestamp="2011-11-05T18:49:48Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Farm View"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068590" lat="52.2559549" lon="0.1636978" version="2" timestamp="2011-11-05T18:49:48Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Lynfield"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068594" lat="52.2560432" lon="0.1637461" version="1" timestamp="2010-04-27T20:27:57Z" changeset="4544718" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Lea Rig"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068600" lat="52.2561918" lon="0.1635952" version="2" timestamp="2011-11-05T18:36:23Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Carrismere"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068604" lat="52.2569975" lon="0.1631325" version="2" timestamp="2011-11-05T18:36:24Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Silver Cloud"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068614" lat="52.2568941" lon="0.1631694" version="2" timestamp="2011-11-05T18:36:23Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Midway"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068615" lat="52.2567640" lon="0.1632539" version="3" timestamp="2018-10-20T21:28:03Z" changeset="63715031" uid="5173844" user="ndrw6">
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:postcode" v="CB25 9FU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Early Sunrise"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068616" lat="52.2565534" lon="0.1633974" version="2" timestamp="2011-11-05T18:36:23Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Farthings"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068619" lat="52.2563798" lon="0.1634577" version="2" timestamp="2011-11-05T18:36:23Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Tawny Pipit"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068627" lat="52.2577117" lon="0.1627228" version="2" timestamp="2011-11-05T18:36:22Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Milbeach House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068631" lat="52.2574487" lon="0.1628449" version="1" timestamp="2010-04-27T20:28:10Z" changeset="4544718" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Balfron"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068633" lat="52.2572602" lon="0.1629702" version="2" timestamp="2011-11-05T18:36:23Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Lawson House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068637" lat="52.2571207" lon="0.1631003" version="2" timestamp="2011-11-05T18:36:23Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Bracondale"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068644" lat="52.2587038" lon="0.1628563" version="2" timestamp="2011-11-05T18:36:24Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="The Old Mill"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068667" lat="52.2591269" lon="0.1629850" version="2" timestamp="2011-11-05T18:21:01Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="The Willows"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068676" lat="52.2606061" lon="0.1632203" version="2" timestamp="2011-11-05T18:21:01Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Crooked Birch"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068680" lat="52.2604851" lon="0.1631828" version="2" timestamp="2011-11-05T18:21:01Z" changeset="9748891" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Crooked Birch"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068683" lat="52.2603552" lon="0.1635323" version="2" timestamp="2011-11-06T13:19:37Z" changeset="9755062" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Trinity Hall Cottage"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068763" lat="52.2624365" lon="0.1635243" version="2" timestamp="2011-11-05T17:36:57Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="45a"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Ashley House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068766" lat="52.2622904" lon="0.1635666" version="2" timestamp="2011-11-05T17:36:58Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Ashley House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068770" lat="52.2621767" lon="0.1635652" version="3" timestamp="2018-10-20T21:28:03Z" changeset="63715031" uid="5173844" user="ndrw6">
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="CB25 9FR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Ashley House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068781" lat="52.2620191" lon="0.1636370" version="2" timestamp="2011-11-05T17:36:58Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Ashley House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068785" lat="52.2618291" lon="0.1635444" version="4" timestamp="2021-03-25T22:46:24Z" changeset="101747927" uid="145231" user="woodpeck_repair">
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Glebe Cottage"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068797" lat="52.2624722" lon="0.1632803" version="2" timestamp="2011-11-05T17:36:58Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Ashley House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709068802" lat="52.2625707" lon="0.1639743" version="2" timestamp="2011-11-05T17:36:59Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="43a"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Ashley House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709079186" lat="52.2596760" lon="0.1640078" version="3" timestamp="2020-01-20T21:44:19Z" changeset="79818634" uid="364" user="Edward">
+    <tag k="addr:housenumber" v="85A"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="The Limes"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikidata" v="Q26420294"/>
+  </node>
+  <node id="709079191" lat="52.2594912" lon="0.1639437" version="2" timestamp="2011-11-13T16:20:22Z" changeset="9815542" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Walnut Farm"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709079205" lat="52.2610472" lon="0.1640507" version="2" timestamp="2011-11-05T17:36:57Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="The Orchard"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709079215" lat="52.2602448" lon="0.1641741" version="2" timestamp="2011-11-05T17:36:57Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Limes Farm House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709079227" lat="52.2614704" lon="0.1639226" version="2" timestamp="2011-11-05T17:36:58Z" changeset="9748419" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Glebelands"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709099849" lat="52.2643569" lon="0.1636603" version="1" timestamp="2010-04-27T20:54:44Z" changeset="4545004" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Banworth House"/>
+  </node>
+  <node id="709099851" lat="52.2644247" lon="0.1631998" version="2" timestamp="2011-11-06T13:19:37Z" changeset="9755062" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Far View Villa"/>
+  </node>
+  <node id="709099856" lat="52.2644345" lon="0.1628081" version="2" timestamp="2011-11-06T13:19:37Z" changeset="9755062" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="2a"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Pear Tree Cottage"/>
+  </node>
+  <node id="709103104" lat="52.2647137" lon="0.1648358" version="2" timestamp="2011-11-06T13:19:39Z" changeset="9755062" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Unwins"/>
+  </node>
+  <node id="709103114" lat="52.2647694" lon="0.1646910" version="2" timestamp="2011-11-06T13:19:38Z" changeset="9755062" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Vine Cottage"/>
   </node>
   <node id="709111207" lat="52.2641074" lon="0.1766207" version="1" timestamp="2010-04-27T21:11:40Z" changeset="4545153" uid="2406" user="JeffB">
     <tag k="addr:housenumber" v="127"/>
@@ -204,6 +474,12 @@
     <tag k="name" v="The Acorns"/>
     <tag k="source" v="survey"/>
   </node>
+  <node id="709111304" lat="52.2641241" lon="0.1745641" version="2" timestamp="2011-11-05T19:40:10Z" changeset="9749714" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="The Hermitage"/>
+    <tag k="source" v="survey"/>
+  </node>
   <node id="709111308" lat="52.2646334" lon="0.1745380" version="3" timestamp="2013-11-22T15:29:26Z" changeset="19056411" uid="38588" user="mentor">
     <tag k="addr:housenumber" v="121A"/>
     <tag k="addr:street" v="Waterbeach Road"/>
@@ -217,12 +493,57 @@
     <tag k="name" v="Russell Lodge"/>
     <tag k="source" v="survey"/>
   </node>
+  <node id="709111377" lat="52.2641179" lon="0.1743603" version="2" timestamp="2011-11-05T19:40:10Z" changeset="9749714" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Crowlands"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709111430" lat="52.2641615" lon="0.1716397" version="2" timestamp="2011-11-04T21:53:10Z" changeset="9742447" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Springfield"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709111436" lat="52.2642345" lon="0.1719590" version="2" timestamp="2011-11-05T19:40:10Z" changeset="9749714" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Lyndhurst"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709111467" lat="52.2644537" lon="0.1704609" version="2" timestamp="2011-11-04T21:53:10Z" changeset="9742447" uid="2406" user="JeffB">
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Manor House"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="709111480" lat="52.2643002" lon="0.1712656" version="3" timestamp="2018-10-20T21:28:03Z" changeset="63715031" uid="5173844" user="ndrw6">
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:postcode" v="CB25 9FA"/>
+    <tag k="addr:street" v="Waterbeach Road"/>
+    <tag k="name" v="Rosemere"/>
+    <tag k="source" v="survey"/>
+  </node>
   <node id="713925161" lat="52.2640610" lon="0.1641893" version="2" timestamp="2011-10-24T19:05:12Z" changeset="9646477" uid="2406" user="JeffB">
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Matthew Parker Close"/>
     <tag k="building" v="house"/>
     <tag k="name" v="The Retreat"/>
     <tag k="source" v="survey"/>
+  </node>
+  <node id="5223967822" lat="52.2915056" lon="0.1773617" version="2" timestamp="2023-11-11T10:26:35Z" changeset="143893444" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:postcode" v="CB25 9PG"/>
+    <tag k="addr:street" v="Ely Road"/>
+    <tag k="name" v="M&amp;M Motorcycles"/>
+    <tag k="shop" v="motorcycle"/>
+    <tag k="website" v="https://www.m-mmotorcycles.co.uk/"/>
+  </node>
+  <node id="8980018714" lat="52.2919428" lon="0.1713910" version="1" timestamp="2021-08-04T14:02:13Z" changeset="109149534" uid="12116568" user="Roman Oleynik">
+    <tag k="addr:housename" v="Cambridge Research Park"/>
+    <tag k="addr:housenumber" v="7200"/>
+    <tag k="addr:street" v="Beach Drive"/>
+    <tag k="name" v="CRFS"/>
+    <tag k="office" v="it"/>
   </node>
   <way id="56464608" version="4" timestamp="2018-12-30T22:35:08Z" changeset="65899704" uid="364" user="Edward">
     <nd ref="707995935"/>

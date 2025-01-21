@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:24:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:38:40Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="26661336" lat="52.2526832" lon="0.0209761" version="7" timestamp="2022-01-21T00:58:41Z" changeset="116407946" uid="2400059" user="Pablo Rodriguez">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 8DY"/>
+    <tag k="addr:street" v="Gladeside"/>
+    <tag k="addr:suburb" v="Bar Hill"/>
+    <tag k="amenity" v="library"/>
+    <tag k="name" v="Bar Hill Library"/>
+    <tag k="wikidata" v="Q55163426"/>
+  </node>
+  <node id="26661375" lat="52.2527693" lon="0.0207762" version="10" timestamp="2023-10-22T09:07:53Z" changeset="142958420" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Bar Hill Library"/>
+    <tag k="addr:postcode" v="CB23 8DY"/>
+    <tag k="addr:street" v="Gladeside"/>
+    <tag k="addr:suburb" v="Bar Hill"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="name" v="Bar Hill Post Office"/>
+    <tag k="opening_hours" v="Mo 09:00-17:30; Tu 09:00-14:30; We 09:00-17:30; Th 09:00-12:30; Fr 09:00-17:30; Sa 09:00-12:30"/>
+    <tag k="ref:pol_id" v="8633"/>
+    <tag k="source:opening_hours" v="pol_branch_list_2018-02"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/2271133/bar-hill"/>
+  </node>
+  <node id="12099321516" lat="52.2536020" lon="0.0179732" version="1" timestamp="2024-08-08T18:51:15Z" changeset="154993360" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:parentstreet" v="Viking Way"/>
+    <tag k="addr:postcode" v="CB23 8DZ"/>
+    <tag k="addr:street" v="The Mall"/>
+    <tag k="addr:suburb" v="Bar Hill"/>
+    <tag k="addr:unit" v="1-4"/>
+    <tag k="amenity" v="veterinary"/>
+    <tag k="brand" v="Vets4Pets"/>
+    <tag k="brand:wikidata" v="Q16960196"/>
+    <tag k="name" v="Vets4Pets"/>
+    <tag k="website" v="https://www.vets4pets.com/practices/vets-in-cambridge/cambridge-bar-hill-vets-for-pets/"/>
+  </node>
   <way id="4372287" version="23" timestamp="2024-08-08T18:51:15Z" changeset="154993360" uid="84263" user="Robert Whittaker">
     <nd ref="1611460757"/>
     <nd ref="1611460754"/>
@@ -97,6 +134,130 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.hallmarkhotels.co.uk/hotels/cambridge"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="8027087" version="18" timestamp="2023-09-11T12:56:53Z" changeset="141111856" uid="242345" user="confusedbuffalo">
+    <nd ref="60001433"/>
+    <nd ref="667899917"/>
+    <nd ref="9126749431"/>
+    <nd ref="667899918"/>
+    <nd ref="60001435"/>
+    <nd ref="667899919"/>
+    <nd ref="60001436"/>
+    <nd ref="4760270928"/>
+    <nd ref="9418815867"/>
+    <nd ref="9131354175"/>
+    <nd ref="9131354177"/>
+    <nd ref="4760270929"/>
+    <nd ref="1623389357"/>
+    <nd ref="1623389284"/>
+    <nd ref="1623389373"/>
+    <nd ref="9412673115"/>
+    <nd ref="9412673116"/>
+    <nd ref="60001433"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 8DY"/>
+    <tag k="addr:street" v="Gladeside"/>
+    <tag k="addr:suburb" v="Bar Hill"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="350"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Bar Hill Community Primary School"/>
+    <tag k="phone" v="+44 1954 273305"/>
+    <tag k="ref:GB:uprn" v="100091610445"/>
+    <tag k="ref:edubase" v="145801"/>
+    <tag k="ref:edubase:group" v="2526"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Meridian Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.barhillschool.co.uk/"/>
+    <tag k="wikidata" v="Q66232537"/>
+  </way>
+  <way id="29180368" version="16" timestamp="2023-11-11T10:26:31Z" changeset="143893444" uid="9451067" user="b-jazz-bot">
+    <nd ref="320908700"/>
+    <nd ref="4398823428"/>
+    <nd ref="320908701"/>
+    <nd ref="320908702"/>
+    <nd ref="320908703"/>
+    <nd ref="320908704"/>
+    <nd ref="320908705"/>
+    <nd ref="320908706"/>
+    <nd ref="320908708"/>
+    <nd ref="320908709"/>
+    <nd ref="320908710"/>
+    <nd ref="320908711"/>
+    <nd ref="320908712"/>
+    <nd ref="1176324189"/>
+    <nd ref="8804436063"/>
+    <nd ref="8804436072"/>
+    <nd ref="10180557700"/>
+    <nd ref="1176324341"/>
+    <nd ref="4764452863"/>
+    <nd ref="4764452867"/>
+    <nd ref="4764452866"/>
+    <nd ref="11159830019"/>
+    <nd ref="4764452865"/>
+    <nd ref="1176324224"/>
+    <nd ref="1176324424"/>
+    <nd ref="1176324394"/>
+    <nd ref="1176324297"/>
+    <nd ref="8804436085"/>
+    <nd ref="8804436052"/>
+    <nd ref="1176324263"/>
+    <nd ref="2167779450"/>
+    <nd ref="1176324373"/>
+    <nd ref="8660712786"/>
+    <nd ref="1176324151"/>
+    <nd ref="1176324124"/>
+    <nd ref="1176324273"/>
+    <nd ref="9472253200"/>
+    <nd ref="476552897"/>
+    <nd ref="8660712757"/>
+    <nd ref="3673482218"/>
+    <nd ref="8804436058"/>
+    <nd ref="8804436054"/>
+    <nd ref="474700493"/>
+    <nd ref="474700491"/>
+    <nd ref="4398817248"/>
+    <nd ref="4398817250"/>
+    <nd ref="4398817249"/>
+    <nd ref="474700489"/>
+    <nd ref="474700486"/>
+    <nd ref="320908700"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 8EU"/>
+    <tag k="addr:street" v="Bar Hill"/>
+    <tag k="description" v="18 hole Par 72"/>
+    <tag k="email" v="cambridge@menzieshotels.co.uk"/>
+    <tag k="golf:course" v="18_hole"/>
+    <tag k="golf:par" v="72"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="Menzies Cambridgeshire Golf Club"/>
+    <tag k="note" v="Southern corner accurately marked;W corner just a guess"/>
+    <tag k="phone" v="+44 1954 249988"/>
+    <tag k="source" v="Yahoo;dictaphone"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="website" v="https://www.menzieshotels.co.uk/hotels/south-central/cambridge/golf/"/>
+  </way>
+  <way id="52783122" version="9" timestamp="2022-01-21T00:58:41Z" changeset="116407946" uid="2400059" user="Pablo Rodriguez">
+    <nd ref="669654806"/>
+    <nd ref="1623393148"/>
+    <nd ref="669654769"/>
+    <nd ref="669654775"/>
+    <nd ref="669654813"/>
+    <nd ref="669654806"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The Village Hall"/>
+    <tag k="addr:postcode" v="CB23 8SU"/>
+    <tag k="addr:street" v="The Spinney"/>
+    <tag k="addr:suburb" v="Bar Hill"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="Bar Hill Pre-School"/>
+    <tag k="preschool" v="yes"/>
+    <tag k="source" v="http://www.barhillpreschool.co.uk/"/>
   </way>
   <way id="148034246" version="14" timestamp="2024-05-08T10:42:52Z" changeset="151048701" uid="742701" user="kerr smith">
     <nd ref="1611460755"/>

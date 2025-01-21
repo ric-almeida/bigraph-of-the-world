@@ -1,8 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:47:45Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:17:13Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="5652641133" lat="52.7113130" lon="0.1331546" version="2" timestamp="2023-10-21T10:05:08Z" changeset="142916462" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:housename" v="Newton Village Hall"/>
+    <tag k="addr:postcode" v="PE13 5HF"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="fixme" v="Check precise location in hall"/>
+    <tag k="name" v="Newton Post Office"/>
+    <tag k="opening_hours" v="Th 11:30-13:30"/>
+    <tag k="ref:pol_id" v="132500"/>
+    <tag k="source" v="pol_branch_list_2018-02"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/3584712/newton"/>
+  </node>
+  <way id="399258656" version="5" timestamp="2024-06-30T11:25:51Z" changeset="153364654" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="4019951920"/>
+    <nd ref="4019951902"/>
+    <nd ref="4019951916"/>
+    <nd ref="4019951912"/>
+    <nd ref="4019951905"/>
+    <nd ref="4019951903"/>
+    <nd ref="4019951913"/>
+    <nd ref="4019951908"/>
+    <nd ref="4019951929"/>
+    <nd ref="4019951920"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:postcode" v="PE13 5HQ"/>
+    <tag k="addr:street" v="Goodens Lane"/>
+    <tag k="addr:suburb" v="Newton"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="8"/>
+    <tag k="max_age" v="16"/>
+    <tag k="min_age" v="8"/>
+    <tag k="name" v="Chartwell House School"/>
+    <tag k="phone" v="+44 1945 870793"/>
+    <tag k="ref:GB:uprn" v="100091194021"/>
+    <tag k="ref:edubase" v="110931"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="yes"/>
+    <tag k="school:gender" v="male"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="special"/>
+    <tag k="source" v="Edubase;school's website;Bing"/>
+    <tag k="url" v="http://www.thechartwellgroup.co.uk/chartwell-house-newton.html"/>
+  </way>
   <way id="564453843" version="3" timestamp="2024-06-30T11:25:51Z" changeset="153364654" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="5438415488"/>
     <nd ref="5438415489"/>

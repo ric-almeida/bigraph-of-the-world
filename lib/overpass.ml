@@ -21,7 +21,7 @@ let rec download (uri : Uri.t) (dest : string) =
   
 (** downloads osm file of all buildings in area defined by query_relation*)
 let queryBuildings (admin_level : string) (query_relation : string) (name :string)=
-  let url = api^"?data=relation%28"^query_relation^"%29%3Bmap%5Fto%5Farea%3Bnwr%5B%22building%22%5D%5B%22name%22%5D%5B%22addr%3Astreet%22%5D%28area%29%3Bout%20meta%3B%0A" in
+  let url = api^"?data=relation%28"^query_relation^"%29%3Bmap%5Fto%5Farea%3Bnwr%5B%22name%22%5D%5B%22addr%3Astreet%22%5D%28area%29%3Bout%20meta%3B%0A" in
   download (Uri.of_string url) ("data/buildings/"^admin_level^"-"^query_relation^"-"^name^".osm")
 
 (** downloads osm file of all admin boundaries in area defined by query_relation. If there are no child boundaries, call queryBuildings*)

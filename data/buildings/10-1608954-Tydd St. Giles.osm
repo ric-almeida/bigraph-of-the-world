@@ -1,7 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:47:45Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:17:13Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="5652641131" lat="52.7227479" lon="0.1008617" version="1" timestamp="2018-05-30T23:33:10Z" changeset="59412688" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:housename" v="The Community Centre"/>
+    <tag k="addr:postcode" v="PE13 5LN"/>
+    <tag k="addr:street" v="Broad Drove East"/>
+    <tag k="addr:village" v="Tydd St Giles"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="fixme" v="Check precise location in hall"/>
+    <tag k="name" v="Tydd St Giles Post Office"/>
+    <tag k="opening_hours" v="Th 14:00-16:00"/>
+    <tag k="ref:pol_id" v="132501"/>
+    <tag k="source" v="pol_branch_list_2018-02"/>
+  </node>
+  <node id="12097538051" lat="52.7214040" lon="0.0648208" version="1" timestamp="2024-08-07T18:20:30Z" changeset="154948925" uid="10675085" user="2tefan">
+    <tag k="addr:street" v="Black Lane"/>
+    <tag k="contact:email" v="hawthornefarmwisbech@gmail.com"/>
+    <tag k="name" v="Hawthorne Farm Wisbech"/>
+    <tag k="phone" v="+44 7936 475526"/>
+    <tag k="tourism" v="camp_site"/>
+  </node>
+  <way id="51698757" version="7" timestamp="2024-06-26T22:00:22Z" changeset="153222413" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="659932367"/>
+    <nd ref="4810534235"/>
+    <nd ref="659932354"/>
+    <nd ref="659932332"/>
+    <nd ref="659932333"/>
+    <nd ref="659932324"/>
+    <nd ref="4810533860"/>
+    <nd ref="4810533862"/>
+    <nd ref="4810533861"/>
+    <nd ref="4810532505"/>
+    <nd ref="659932289"/>
+    <nd ref="659932241"/>
+    <nd ref="4779367848"/>
+    <nd ref="659932254"/>
+    <nd ref="659932266"/>
+    <nd ref="659932267"/>
+    <nd ref="659932274"/>
+    <nd ref="4810533859"/>
+    <nd ref="659932273"/>
+    <nd ref="659932295"/>
+    <nd ref="659932294"/>
+    <nd ref="659932304"/>
+    <nd ref="659932303"/>
+    <nd ref="659932302"/>
+    <nd ref="4810534245"/>
+    <nd ref="659932397"/>
+    <nd ref="659932366"/>
+    <nd ref="4810534244"/>
+    <nd ref="4810534243"/>
+    <nd ref="4810534242"/>
+    <nd ref="4810534241"/>
+    <nd ref="4810534240"/>
+    <nd ref="659932363"/>
+    <nd ref="4810534239"/>
+    <nd ref="4810534238"/>
+    <nd ref="4810534237"/>
+    <nd ref="659932365"/>
+    <nd ref="4810534236"/>
+    <nd ref="659932364"/>
+    <nd ref="659932367"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:postcode" v="PE13 5NZ"/>
+    <tag k="addr:street" v="Kirkgate"/>
+    <tag k="addr:suburb" v="Tydd St Giles"/>
+    <tag k="description" v="18 hole par 70"/>
+    <tag k="golf:course" v="18_hole"/>
+    <tag k="golf:par" v="70"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="Tydd St Giles Golf Course"/>
+    <tag k="phone" v="+44 1945 871 007"/>
+    <tag k="website" v="http://www.pureleisuregroup.com/parks/tydd-st-giles/golf"/>
+  </way>
+  <way id="149167584" version="8" timestamp="2024-06-30T11:25:51Z" changeset="153364654" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="1621824749"/>
+    <nd ref="1621824735"/>
+    <nd ref="1621824740"/>
+    <nd ref="1621824753"/>
+    <nd ref="4790827509"/>
+    <nd ref="4790827508"/>
+    <nd ref="4790827510"/>
+    <nd ref="1621824728"/>
+    <nd ref="4789104140"/>
+    <nd ref="4789104127"/>
+    <nd ref="4789104121"/>
+    <nd ref="4789104139"/>
+    <nd ref="4789104138"/>
+    <nd ref="1621824749"/>
+    <tag k="addr:city" v="Wisbech"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Wisbech Compressor Station"/>
+    <tag k="addr:postcode" v="PE13 5PH"/>
+    <tag k="addr:street" v="Catlings Lane"/>
+    <tag k="addr:town" v="Wisbech"/>
+    <tag k="addr:village" v="Tydd St Giles"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="Wisbech Compressor Station"/>
+    <tag k="pipeline" v="substation"/>
+    <tag k="substance" v="gas"/>
+    <tag k="substation" v="compression"/>
+    <tag k="utility" v="gas"/>
+  </way>
 
 </osm>

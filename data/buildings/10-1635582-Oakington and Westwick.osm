@@ -1,8 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:25:28Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:39:45Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="1707747025" lat="52.2598908" lon="0.0641568" version="3" timestamp="2019-01-31T12:44:01Z" changeset="66800768" uid="669183" user="Andy_W">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB24 3BB"/>
+    <tag k="addr:street" v="Longstanton Road"/>
+    <tag k="addr:village" v="Oakington"/>
+    <tag k="name" v="Nisa Local"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3571818593" lat="52.2598618" lon="0.0641753" version="7" timestamp="2023-10-21T10:05:08Z" changeset="142916462" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB24 3BB"/>
+    <tag k="addr:street" v="Longstanton Road"/>
+    <tag k="addr:village" v="Oakington"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="name" v="Oakington Post Office"/>
+    <tag k="opening_hours" v="Mo,Tu,Th,Fr 09:00-13:00,14:00-16:30; We 09:00-13:00; Sa 09:00-12:30"/>
+    <tag k="ref:pol_id" v="1939"/>
+    <tag k="source:opening_hours" v="pol_branch_list_2018-02"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/1201131/oakington"/>
+  </node>
+  <node id="5570014032" lat="52.2582605" lon="0.0646093" version="3" timestamp="2019-01-31T12:42:20Z" changeset="66800706" uid="669183" user="Andy_W">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB24 3BB"/>
+    <tag k="addr:street" v="Longstanton Road"/>
+    <tag k="addr:village" v="Oakington"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="1024881"/>
+    <tag k="name" v="Crossways Communitea Cafe"/>
+  </node>
+  <node id="5570014033" lat="52.2582278" lon="0.0645002" version="2" timestamp="2019-01-31T12:42:19Z" changeset="66800706" uid="669183" user="Andy_W">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB24 3BB"/>
+    <tag k="addr:street" v="Longstanton Road"/>
+    <tag k="addr:village" v="Oakington"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="healthcare:speciality" v="osteopathy"/>
+    <tag k="name" v="Oakingtons"/>
+  </node>
+  <node id="5570014044" lat="52.2558638" lon="0.0635943" version="1" timestamp="2018-04-21T23:55:03Z" changeset="58300345" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Oakington"/>
+    <tag k="addr:postcode" v="CB24 3BD"/>
+    <tag k="addr:street" v="Dry Drayton Road"/>
+    <tag k="amenity" v="animal_boarding"/>
+    <tag k="name" v="Oakington Dog Day Care Centre"/>
+    <tag k="website" v="https://www.oakingtondogdaycare.co.uk/"/>
+  </node>
+  <way id="4372825" version="11" timestamp="2023-11-14T10:05:36Z" changeset="144003433" uid="5173844" user="ndrw6">
+    <nd ref="26664312"/>
+    <nd ref="1605059588"/>
+    <nd ref="11348129218"/>
+    <nd ref="26664311"/>
+    <nd ref="5323196769"/>
+    <nd ref="26664310"/>
+    <nd ref="5323196767"/>
+    <nd ref="11348129220"/>
+    <nd ref="11348129222"/>
+    <nd ref="11348129221"/>
+    <nd ref="26664313"/>
+    <nd ref="26664312"/>
+    <tag k="addr:postcode" v="CB24 3AL"/>
+    <tag k="addr:street" v="Water Lane"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="149"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="diocese" v="Diocese of Ely"/>
+    <tag k="email" v="office@oakington.cambs.sch.uk"/>
+    <tag k="fax" v="+44 1223 232273"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="5"/>
+    <tag k="name" v="Oakington CofE Primary School"/>
+    <tag k="phone" v="+44 1223 232328"/>
+    <tag k="ref:GB:uprn" v="100091421073"/>
+    <tag k="ref:edubase" v="147110"/>
+    <tag k="ref:edubase:group" v="2905"/>
+    <tag k="religion" v="christian"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="The Diocese of Ely Multi-Academy Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="http://www.oakingtonschool.org.uk/"/>
+    <tag k="wikidata" v="Q66232930"/>
+  </way>
   <way id="83204294" version="5" timestamp="2024-12-03T10:02:16Z" changeset="159873869" uid="374342" user="hocu">
     <nd ref="968160408"/>
     <nd ref="968160149"/>
@@ -23,6 +113,46 @@
     <tag k="operator" v="Oakington Garden Centre"/>
     <tag k="source" v="survey"/>
     <tag k="source:addr" v="FHRS Open Data"/>
+  </way>
+  <way id="83204296" version="6" timestamp="2023-11-14T10:05:36Z" changeset="144003433" uid="5173844" user="ndrw6">
+    <nd ref="968160408"/>
+    <nd ref="11348128676"/>
+    <nd ref="11348128677"/>
+    <nd ref="11348128678"/>
+    <nd ref="11348128679"/>
+    <nd ref="11348128680"/>
+    <nd ref="11348128681"/>
+    <nd ref="11348128682"/>
+    <nd ref="968160225"/>
+    <nd ref="4459272822"/>
+    <nd ref="968160435"/>
+    <nd ref="968160408"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB24 3BD"/>
+    <tag k="addr:street" v="Dry Drayton Road"/>
+    <tag k="addr:village" v="Oakington"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Oakington Garden Centre"/>
+    <tag k="shop" v="garden_centre"/>
+    <tag k="source" v="Yahoo! (2006?)"/>
+    <tag k="website" v="https://www.oakingtongardencentre.co.uk/"/>
+  </way>
+  <way id="125552228" version="5" timestamp="2023-04-26T17:12:16Z" changeset="135395917" uid="1102246" user="jtn20">
+    <nd ref="1394157135"/>
+    <nd ref="1394157136"/>
+    <nd ref="1394157137"/>
+    <nd ref="1394157144"/>
+    <nd ref="1394157146"/>
+    <nd ref="1394157135"/>
+    <tag k="addr:housenumber" v="Westwick Hall Farm"/>
+    <tag k="addr:place" v="Westwick"/>
+    <tag k="addr:postcode" v="CB24 3AR"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="fhrs:id" v="1433762"/>
+    <tag k="name" v="Busy Bees Nursery"/>
+    <tag k="phone" v="+44 1223 232400"/>
+    <tag k="website" v="https://www.busybeeschildcare.co.uk/nursery/westwick"/>
   </way>
   <way id="136551772" version="3" timestamp="2019-01-31T12:39:28Z" changeset="66800586" uid="669183" user="Andy_W">
     <nd ref="1497905395"/>
@@ -96,6 +226,18 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Fen Technology"/>
     <tag k="office" v="company"/>
+  </way>
+  <way id="582387758" version="2" timestamp="2019-01-02T13:43:16Z" changeset="65958934" uid="669183" user="Andy_W">
+    <nd ref="5570014052"/>
+    <nd ref="5570014053"/>
+    <nd ref="5570014054"/>
+    <nd ref="5570014055"/>
+    <nd ref="5570014052"/>
+    <tag k="addr:place" v="Oakington"/>
+    <tag k="addr:postcode" v="CB24 3BD"/>
+    <tag k="addr:street" v="Dry Drayton Road"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Fare Acres Farm"/>
   </way>
 
 </osm>

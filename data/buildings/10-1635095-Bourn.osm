@@ -1,8 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:23:29Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:37:37Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="111490567" lat="52.1818560" lon="-0.0697713" version="10" timestamp="2024-07-05T20:51:02Z" changeset="153604335" uid="13097056" user="PCarew_EG">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 2TX"/>
+    <tag k="addr:street" v="Fox Road"/>
+    <tag k="addr:village" v="Bourn"/>
+    <tag k="amenity" v="arts_centre"/>
+    <tag k="check_date:opening_hours" v="2024-07-05"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/pages/Wysing-Arts-Centre/7660871383"/>
+    <tag k="name" v="Wysing Arts Centre"/>
+    <tag k="opening_hours" v="Mo-Fr 09:30-17:30"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr" v="publication"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="website" v="https://www.wysingartscentre.org/"/>
+    <tag k="wikidata" v="Q8040514"/>
+    <tag k="wikipedia" v="en:Wysing Arts Centre"/>
+  </node>
+  <node id="1594883902" lat="52.1842380" lon="-0.0492409" version="4" timestamp="2022-03-17T13:34:44Z" changeset="118594381" uid="587501" user="MattAldred">
+    <tag k="addr:city" v="Bourn"/>
+    <tag k="addr:housename" v="PAUS"/>
+    <tag k="addr:postcode" v="CB23 2TT"/>
+    <tag k="addr:street" v="Toft Road"/>
+    <tag k="amenity" v="public_bath"/>
+    <tag k="bath:open_air" v="yes"/>
+    <tag k="name" v="PAUS"/>
+    <tag k="website" v="https://www.paus.life/"/>
+  </node>
+  <node id="4506580475" lat="52.2016105" lon="-0.0496064" version="2" timestamp="2019-02-04T10:42:18Z" changeset="66899076" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 2TB"/>
+    <tag k="addr:street" v="The Drift"/>
+    <tag k="addr:village" v="Bourn"/>
+    <tag k="name" v="Driftwood Farm"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="4506580502" lat="52.2019978" lon="-0.0484168" version="2" timestamp="2019-02-04T10:42:18Z" changeset="66899076" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 2TB"/>
+    <tag k="addr:street" v="The Drift"/>
+    <tag k="addr:village" v="Bourn"/>
+    <tag k="name" v="Drift End Stables"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="5223993521" lat="52.2119673" lon="-0.0485891" version="4" timestamp="2024-07-11T21:45:52Z" changeset="153830804" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:postcode" v="CB23 2TA"/>
+    <tag k="addr:street" v="Broadway"/>
+    <tag k="amenity" v="driving_school"/>
+    <tag k="name" v="Bike Sense"/>
+    <tag k="website" v="https://www.bikesense.co.uk/"/>
+  </node>
+  <way id="12301785" version="21" timestamp="2022-03-17T13:40:46Z" changeset="118594585" uid="587501" user="MattAldred">
+    <nd ref="111497385"/>
+    <nd ref="9490977531"/>
+    <nd ref="297648995"/>
+    <nd ref="1856848107"/>
+    <nd ref="9490977530"/>
+    <nd ref="9490977529"/>
+    <nd ref="297648827"/>
+    <nd ref="1856848109"/>
+    <nd ref="1856848111"/>
+    <nd ref="1856848113"/>
+    <nd ref="111497397"/>
+    <nd ref="6128509727"/>
+    <nd ref="1856848115"/>
+    <nd ref="111497394"/>
+    <nd ref="1856848140"/>
+    <nd ref="1856848143"/>
+    <nd ref="1604106065"/>
+    <nd ref="1604106064"/>
+    <nd ref="3517101032"/>
+    <nd ref="111497390"/>
+    <nd ref="9572654805"/>
+    <nd ref="111497389"/>
+    <nd ref="1495247555"/>
+    <nd ref="9572654814"/>
+    <nd ref="9572670721"/>
+    <nd ref="9572654815"/>
+    <nd ref="111497451"/>
+    <nd ref="111497453"/>
+    <nd ref="111497445"/>
+    <nd ref="1604120910"/>
+    <nd ref="1604120930"/>
+    <nd ref="728855725"/>
+    <nd ref="1856848123"/>
+    <nd ref="4518753016"/>
+    <nd ref="1604120913"/>
+    <nd ref="1604120926"/>
+    <nd ref="8496918202"/>
+    <nd ref="1604120954"/>
+    <nd ref="1604120908"/>
+    <nd ref="1604120928"/>
+    <nd ref="1604120917"/>
+    <nd ref="1604120955"/>
+    <nd ref="1856848105"/>
+    <nd ref="1856848103"/>
+    <nd ref="1604120952"/>
+    <nd ref="1856848102"/>
+    <nd ref="1604120938"/>
+    <nd ref="1604120950"/>
+    <nd ref="3733249721"/>
+    <nd ref="1604120947"/>
+    <nd ref="1604120936"/>
+    <nd ref="1604120911"/>
+    <nd ref="1604120929"/>
+    <nd ref="1604120915"/>
+    <nd ref="1604120948"/>
+    <nd ref="1604120957"/>
+    <nd ref="1604120931"/>
+    <nd ref="1856848099"/>
+    <nd ref="1856848101"/>
+    <nd ref="1604120909"/>
+    <nd ref="5137486819"/>
+    <nd ref="111497385"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 2TT"/>
+    <tag k="addr:street" v="Toft Road"/>
+    <tag k="addr:village" v="Bourn"/>
+    <tag k="description" v="18 hole Par 72"/>
+    <tag k="golf:course" v="18_hole"/>
+    <tag k="golf:par" v="72"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="Cambridge Country Club"/>
+    <tag k="phone" v="+44 1223 247365"/>
+    <tag k="website" v="https://www.cambridgecountryclub.com/"/>
+  </way>
+  <way id="12302079" version="7" timestamp="2024-08-30T22:12:00Z" changeset="155993713" uid="742701" user="kerr smith">
+    <nd ref="111497977"/>
+    <nd ref="111497978"/>
+    <nd ref="111497983"/>
+    <nd ref="111497986"/>
+    <nd ref="1859256596"/>
+    <nd ref="111497989"/>
+    <nd ref="12146892195"/>
+    <nd ref="12146892194"/>
+    <nd ref="111497977"/>
+    <tag k="addr:postcode" v="CB23 2SP"/>
+    <tag k="addr:street" v="Riddy Lane"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="154"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="diocese" v="Diocese of Ely"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Bourn CofE Primary Academy"/>
+    <tag k="phone" v="+44 1954 719282"/>
+    <tag k="ref:GB:uprn" v="100091416376"/>
+    <tag k="ref:edubase" v="137626"/>
+    <tag k="ref:edubase:group" v="2383"/>
+    <tag k="religion" v="christian"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Bourn Church of England Primary Academy"/>
+    <tag k="school:trust:type" v="single_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.bournschool.co.uk/"/>
+    <tag k="wikidata" v="Q66229357"/>
+  </way>
+  <way id="43906111" version="7" timestamp="2023-09-26T23:33:55Z" changeset="141794809" uid="5173844" user="ndrw6">
+    <nd ref="558340100"/>
+    <nd ref="6128480952"/>
+    <nd ref="558340102"/>
+    <nd ref="11221475764"/>
+    <nd ref="7417265610"/>
+    <nd ref="7417265611"/>
+    <nd ref="11221475763"/>
+    <nd ref="11221475762"/>
+    <nd ref="11221475761"/>
+    <nd ref="7417265657"/>
+    <nd ref="558340103"/>
+    <nd ref="1856862523"/>
+    <nd ref="1856862536"/>
+    <nd ref="1856862529"/>
+    <nd ref="558340104"/>
+    <nd ref="1856862539"/>
+    <nd ref="1856862534"/>
+    <nd ref="558340100"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 2SH"/>
+    <tag k="addr:street" v="Alms Hill"/>
+    <tag k="addr:village" v="Bourn"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Manor Farm"/>
+    <tag k="phone" v="+44 1954 713971"/>
+    <tag k="website" v="http://www.manorfarmbourn.com/"/>
+  </way>
   <way id="43906143" version="6" timestamp="2019-02-04T10:42:27Z" changeset="66899076" uid="5173844" user="ndrw6">
     <nd ref="558340152"/>
     <nd ref="558340154"/>
@@ -149,6 +338,46 @@
     <tag k="sport" v="multi"/>
     <tag k="website" v="https://www.cambridgecountryclub.com/"/>
   </way>
+  <way id="653975875" version="2" timestamp="2019-02-04T10:45:37Z" changeset="66899076" uid="5173844" user="ndrw6">
+    <nd ref="4506580433"/>
+    <nd ref="6128481541"/>
+    <nd ref="6128481775"/>
+    <nd ref="6128481509"/>
+    <nd ref="6128481505"/>
+    <nd ref="6128481761"/>
+    <nd ref="6128481760"/>
+    <nd ref="6128481759"/>
+    <nd ref="6128480961"/>
+    <nd ref="6128481727"/>
+    <nd ref="4506580433"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Crow End Farm"/>
+    <tag k="addr:postcode" v="CB23 2SZ"/>
+    <tag k="addr:street" v="Alms Hill"/>
+    <tag k="addr:village" v="Bourn"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Crow End Farm"/>
+  </way>
+  <way id="653975876" version="2" timestamp="2019-02-04T10:45:37Z" changeset="66899076" uid="5173844" user="ndrw6">
+    <nd ref="6128481763"/>
+    <nd ref="6128480973"/>
+    <nd ref="6128480957"/>
+    <nd ref="111498039"/>
+    <nd ref="111498041"/>
+    <nd ref="6128481741"/>
+    <nd ref="6128481543"/>
+    <nd ref="6128481489"/>
+    <nd ref="3733260514"/>
+    <nd ref="6128481517"/>
+    <nd ref="6128481763"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Towns End Farm"/>
+    <tag k="addr:postcode" v="CB23 2TB"/>
+    <tag k="addr:street" v="The Drift"/>
+    <tag k="addr:village" v="Bourn"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Towns End Farm"/>
+  </way>
   <way id="992409652" version="3" timestamp="2022-12-14T11:33:18Z" changeset="130071751" uid="1777661" user="wlcx">
     <nd ref="9169150533"/>
     <nd ref="9169150530"/>
@@ -191,6 +420,21 @@
     <tag k="addr:street" v="Toft Road"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Redpost"/>
+  </way>
+  <way id="1122026852" version="2" timestamp="2023-07-26T10:35:40Z" changeset="139030535" uid="5173844" user="ndrw6">
+    <nd ref="10262263987"/>
+    <nd ref="10262263988"/>
+    <nd ref="10262263989"/>
+    <nd ref="10262263990"/>
+    <nd ref="10262263991"/>
+    <nd ref="11068819876"/>
+    <nd ref="11068819877"/>
+    <nd ref="10262263987"/>
+    <tag k="addr:city" v="Caldecote"/>
+    <tag k="addr:postcode" v="CB23 7FW"/>
+    <tag k="addr:street" v="Wellington Way"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Cambridge Design Partnership"/>
   </way>
 
 </osm>

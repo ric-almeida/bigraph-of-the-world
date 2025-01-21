@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:23:29Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:38:40Z" areas="2024-12-31T00:49:33Z"/>
 
+  <way id="4162070" version="21" timestamp="2024-06-23T14:38:16Z" changeset="153071206" uid="742701" user="kerr smith">
+    <nd ref="8714696650"/>
+    <nd ref="12003281450"/>
+    <nd ref="12003281444"/>
+    <nd ref="12003281453"/>
+    <nd ref="12003281469"/>
+    <nd ref="12003281467"/>
+    <nd ref="12003281468"/>
+    <nd ref="12003281466"/>
+    <nd ref="12003281465"/>
+    <nd ref="12003281454"/>
+    <nd ref="4385447869"/>
+    <nd ref="12003281614"/>
+    <nd ref="12003281615"/>
+    <nd ref="23767434"/>
+    <nd ref="3567910133"/>
+    <nd ref="42110790"/>
+    <nd ref="2503973212"/>
+    <nd ref="8891918983"/>
+    <nd ref="8891918952"/>
+    <nd ref="8891918955"/>
+    <nd ref="23767452"/>
+    <nd ref="8891918989"/>
+    <nd ref="2503972945"/>
+    <nd ref="3441932732"/>
+    <nd ref="3441932725"/>
+    <nd ref="2503973022"/>
+    <nd ref="8891918986"/>
+    <nd ref="311551986"/>
+    <nd ref="8891918985"/>
+    <nd ref="2298295781"/>
+    <nd ref="8891918957"/>
+    <nd ref="8891918990"/>
+    <nd ref="2298277351"/>
+    <nd ref="311546221"/>
+    <nd ref="311546251"/>
+    <nd ref="2298277305"/>
+    <nd ref="8891918924"/>
+    <nd ref="8714696650"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 7PH"/>
+    <tag k="addr:street" v="Madingley Road"/>
+    <tag k="addr:village" v="Coton"/>
+    <tag k="landuse" v="cemetery"/>
+    <tag k="name" v="Cambridge American Cemetery and Memorial"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-17:00; Jan 1 off; Dec 25 off"/>
+    <tag k="operator" v="American Battle Monuments Commission"/>
+    <tag k="phone" v="+44 1954 210350"/>
+    <tag k="source:name" v="signs on Madingley Road"/>
+    <tag k="wikidata" v="Q954555"/>
+    <tag k="wikipedia" v="en:Cambridge American Cemetery and Memorial"/>
+  </way>
   <way id="242958377" version="3" timestamp="2019-03-25T06:51:12Z" changeset="68495030" uid="9451067" user="b-jazz-bot">
     <nd ref="2503950322"/>
     <nd ref="2503950183"/>
@@ -92,6 +144,21 @@
     <tag k="name" v="Woodfield House"/>
     <tag k="tourism" v="guest_house"/>
   </way>
+  <way id="420052905" version="2" timestamp="2021-05-09T12:15:40Z" changeset="104394226" uid="281267" user="smb1001">
+    <nd ref="4200384998"/>
+    <nd ref="4200384997"/>
+    <nd ref="4200384994"/>
+    <nd ref="4200384992"/>
+    <nd ref="4200384993"/>
+    <nd ref="8714696657"/>
+    <nd ref="4200384995"/>
+    <nd ref="4200384996"/>
+    <nd ref="4200384998"/>
+    <tag k="addr:postcode" v="CB23 7PH"/>
+    <tag k="addr:street" v="Madingley Road"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Crome Lea Business Park"/>
+  </way>
   <way id="500938618" version="4" timestamp="2019-03-31T12:45:18Z" changeset="68723366" uid="8662577" user="Nuka_z_lego">
     <nd ref="4918686380"/>
     <nd ref="4918686381"/>
@@ -106,6 +173,25 @@
     <tag k="building" v="university"/>
     <tag k="name" v="Q026-8 Granary Court, Madingley"/>
     <tag k="ref" v="University of Cambridge"/>
+  </way>
+  <way id="597909524" version="5" timestamp="2023-08-09T08:23:06Z" changeset="139646565" uid="242345" user="confusedbuffalo">
+    <nd ref="5691634029"/>
+    <nd ref="5691634031"/>
+    <nd ref="5691634030"/>
+    <nd ref="5691634032"/>
+    <nd ref="5691634029"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 8AH"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="addr:village" v="Madingley"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="Stephen Perse Nursery Madingley"/>
+    <tag k="operator" v="The Stephen Perse Foundation"/>
+    <tag k="phone" v="+44 1954 210309"/>
+    <tag k="ref:edubase" v="110924"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="independent"/>
+    <tag k="website" v="https://stephenpersenurseries.com/madingley/"/>
   </way>
 
 </osm>

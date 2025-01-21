@@ -1,8 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:13:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:26:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="18351898" lat="52.2032070" lon="0.1902903" version="12" timestamp="2023-03-09T18:08:04Z" changeset="133489345" uid="499318" user="jpsa">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB1 9AS"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:website" v="http://www.tamarind-cambridge.co.uk/"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="fhrs:id" v="1583226"/>
+    <tag k="name" v="Tamarind"/>
+    <tag k="phone" v="+44 1223 295745;+44 1223 292961"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1394705415" lat="52.2035617" lon="0.1890452" version="5" timestamp="2022-05-28T19:31:01Z" changeset="121630077" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB1 9AZ"/>
+    <tag k="addr:street" v="Church Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Teversham Motors"/>
+  </node>
+  <node id="1569172676" lat="52.2027302" lon="0.1893180" version="9" timestamp="2023-03-09T18:08:04Z" changeset="133489345" uid="499318" user="jpsa">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB1 9AQ"/>
+    <tag k="addr:street" v="Cherry Hinton Road"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="fhrs:id" v="1433665"/>
+    <tag k="leisure" v="social_club"/>
+    <tag k="name" v="Teversham Conservative Club"/>
+  </node>
+  <way id="23208152" version="11" timestamp="2023-05-11T22:42:53Z" changeset="135996045" uid="19211608" user="jazoia">
+    <nd ref="251035425"/>
+    <nd ref="2498556540"/>
+    <nd ref="251035427"/>
+    <nd ref="251035429"/>
+    <nd ref="3948193750"/>
+    <nd ref="3948193745"/>
+    <nd ref="3948193746"/>
+    <nd ref="251035435"/>
+    <nd ref="3948193743"/>
+    <nd ref="10888181871"/>
+    <nd ref="10888181870"/>
+    <nd ref="3948193744"/>
+    <nd ref="3948193749"/>
+    <nd ref="3948193747"/>
+    <nd ref="3948193748"/>
+    <nd ref="251035425"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB1 9ND"/>
+    <tag k="addr:street" v="Fulbourn Old Drift"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="420"/>
+    <tag k="fhrs:id" v="1087282"/>
+    <tag k="isced:level" v="0;1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="2"/>
+    <tag k="name" v="Bewick Bridge Community Primary School"/>
+    <tag k="operator" v="Cambridgeshire County Council"/>
+    <tag k="operator:wikidata" v="Q5025648"/>
+    <tag k="phone" v="+44 1223 508772"/>
+    <tag k="ref:GB:uprn" v="200004188561"/>
+    <tag k="ref:edubase" v="110746"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://www.bewickbridge.co.uk/"/>
+    <tag k="wikidata" v="Q66223565"/>
+  </way>
   <way id="144109611" version="6" timestamp="2019-02-16T10:16:32Z" changeset="67250009" uid="5173844" user="ndrw6">
     <nd ref="1576882525"/>
     <nd ref="1576882527"/>
@@ -48,6 +121,53 @@
     <tag k="denomination" v="baptist"/>
     <tag k="name" v="Hope Community Church"/>
     <tag k="religion" v="christian"/>
+  </way>
+  <way id="173603001" version="18" timestamp="2023-03-09T18:08:04Z" changeset="133489345" uid="499318" user="jpsa">
+    <nd ref="1846594711"/>
+    <nd ref="1843862260"/>
+    <nd ref="1843868797"/>
+    <nd ref="1843862256"/>
+    <nd ref="1843862285"/>
+    <nd ref="1843862279"/>
+    <nd ref="1843862283"/>
+    <nd ref="1843868799"/>
+    <nd ref="3923687086"/>
+    <nd ref="1843868798"/>
+    <nd ref="3923687090"/>
+    <nd ref="3923687087"/>
+    <nd ref="3923687089"/>
+    <nd ref="3923616771"/>
+    <nd ref="3923687088"/>
+    <nd ref="1843862247"/>
+    <nd ref="3923616781"/>
+    <nd ref="1884179730"/>
+    <nd ref="1843862275"/>
+    <nd ref="1843862245"/>
+    <nd ref="1846594711"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Teversham Church of England Primary School"/>
+    <tag k="addr:postcode" v="CB1 9AZ"/>
+    <tag k="addr:street" v="Church Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="210"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="diocese" v="Diocese of Ely"/>
+    <tag k="fhrs:id" v="1433600"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Teversham C of E VA Primary School"/>
+    <tag k="phone" v="+44 1223 293357"/>
+    <tag k="ref:GB:uprn" v="10003196309"/>
+    <tag k="ref:edubase" v="110834"/>
+    <tag k="religion" v="christian"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="voluntary_aided"/>
+    <tag k="website" v="https://www.tevershamschool.co.uk/"/>
+    <tag k="wikidata" v="Q66223657"/>
   </way>
   <way id="199514908" version="9" timestamp="2023-06-19T16:48:07Z" changeset="137527935" uid="1102246" user="jtn20">
     <nd ref="2094986287"/>

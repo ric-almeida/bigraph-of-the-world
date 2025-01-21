@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:25:28Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:39:45Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="25612142" lat="52.2456948" lon="0.1097067" version="6" timestamp="2024-09-14T19:48:54Z" changeset="156625771" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="CB24 9NP"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="addr:village" v="Impington"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Well Pharmacy"/>
+    <tag k="brand:wikidata" v="Q7726524"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Well Pharmacy"/>
+    <tag k="website" v="https://finder.well.co.uk/store/impington-station-road"/>
+  </node>
+  <node id="10604072055" lat="52.2448161" lon="0.1104664" version="2" timestamp="2023-04-26T14:55:13Z" changeset="135390991" uid="455230" user="jfowkes">
+    <tag k="addr:city" v="Histon"/>
+    <tag k="addr:housename" v="One Vision Park"/>
+    <tag k="addr:postcode" v="CB24 9NP"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="name" v="Nuclera Ltd"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.nuclera.com/"/>
+  </node>
+  <node id="12320915203" lat="52.2500503" lon="0.1264395" version="1" timestamp="2024-11-07T16:06:55Z" changeset="158862137" uid="8061502" user="galacticism">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Middlewhite Building"/>
+    <tag k="addr:postcode" v="CB24 9AF"/>
+    <tag k="addr:street" v="St Georges Way"/>
+    <tag k="addr:village" v="Impington"/>
+    <tag k="amenity" v="veterinary"/>
+    <tag k="branch" v="Impington"/>
+    <tag k="brand" v="Medivet"/>
+    <tag k="brand:wikidata" v="Q120372623"/>
+    <tag k="name" v="Medivet"/>
+    <tag k="opening_hours" v="Mo-Fr 08:15-18:30; Sa 09:00-16:00"/>
+    <tag k="operator" v="Medivet"/>
+    <tag k="phone" v="+44 1223 232111"/>
+    <tag k="website" v="https://www.medivetgroup.com/vet-practices/impington/"/>
+  </node>
+  <way id="4266302" version="12" timestamp="2024-09-14T19:48:54Z" changeset="156625771" uid="5173844" user="ndrw6">
+    <nd ref="320925987"/>
+    <nd ref="1552088243"/>
+    <nd ref="25612504"/>
+    <nd ref="1552088221"/>
+    <nd ref="1552088348"/>
+    <nd ref="1552088206"/>
+    <nd ref="1552088134"/>
+    <nd ref="25612279"/>
+    <nd ref="25612095"/>
+    <nd ref="480352294"/>
+    <nd ref="12177295958"/>
+    <nd ref="12177295959"/>
+    <nd ref="25612216"/>
+    <nd ref="1324251038"/>
+    <nd ref="1324251004"/>
+    <nd ref="12177295960"/>
+    <nd ref="1324250947"/>
+    <nd ref="320924668"/>
+    <nd ref="1552088202"/>
+    <nd ref="25612543"/>
+    <nd ref="320925990"/>
+    <nd ref="320925989"/>
+    <nd ref="320925988"/>
+    <nd ref="320925987"/>
+    <tag k="addr:postcode" v="CB24 9LX"/>
+    <tag k="addr:street" v="New Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="1370"/>
+    <tag k="isced:level" v="2;3"/>
+    <tag k="max_age" v="18"/>
+    <tag k="min_age" v="11"/>
+    <tag k="name" v="Impington Village College"/>
+    <tag k="phone" v="+44 1223 200400"/>
+    <tag k="ref:GB:uprn" v="100091421498"/>
+    <tag k="ref:edubase" v="137826"/>
+    <tag k="ref:edubase:group" v="16402"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Eastern Learning Alliance"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.impington.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q15979022"/>
+  </way>
   <way id="93084059" version="4" timestamp="2023-02-03T13:12:03Z" changeset="132042154" uid="455230" user="jfowkes">
     <nd ref="1078975538"/>
     <nd ref="1078975362"/>
@@ -184,6 +267,30 @@
     <tag k="phone" v="+44 1223 233228"/>
     <tag k="source" v="survey"/>
     <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way id="764027657" version="4" timestamp="2021-09-21T09:31:50Z" changeset="111485422" uid="6816132" user="CjMalone">
+    <nd ref="2159962723"/>
+    <nd ref="2159962722"/>
+    <nd ref="2159962717"/>
+    <nd ref="2159962718"/>
+    <nd ref="2159962719"/>
+    <nd ref="2159962720"/>
+    <nd ref="671603719"/>
+    <nd ref="2159962723"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="CB24 9PH"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="alt_name" v="Holiday Inn Impington"/>
+    <tag k="brand" v="Holiday Inn"/>
+    <tag k="brand:wikidata" v="Q2717882"/>
+    <tag k="brand:wikipedia" v="en:Holiday Inn"/>
+    <tag k="fhrs:id" v="1215951"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Holiday Inn"/>
+    <tag k="operator" v="InterContinental Hotels Group"/>
+    <tag k="survey:date" v="2020-03-02"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.ihg.com/holidayinn/hotels/gb/en/cambridge/cbgim/hoteldetail"/>
   </way>
 
 </osm>

@@ -1,14 +1,720 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:12:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:26:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="364173798" lat="52.2403848" lon="0.1611563" version="4" timestamp="2020-11-18T22:38:52Z" changeset="94398753" uid="6476359" user="NSiecw">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="CB24 6BL"/>
+    <tag k="addr:street" v="Coles Road"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="name" v="Milton Surgery"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-12:00,14:00-18:00"/>
+  </node>
+  <node id="364318690" lat="52.2437720" lon="0.1638141" version="7" timestamp="2023-10-21T10:05:08Z" changeset="142916462" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB24 6BW"/>
+    <tag k="addr:street" v="Coles Road"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="check_date:opening_hours" v="2022-11-27"/>
+    <tag k="name" v="Milton Post Office"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:30; Sa 09:00-12:30"/>
+    <tag k="ref:pol_id" v="1841"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/1171135/milton"/>
+  </node>
   <node id="708088941" lat="52.2530235" lon="0.1735318" version="3" timestamp="2011-11-06T19:53:37Z" changeset="9758884" uid="2406" user="JeffB">
     <tag k="addr:street" v="Ely Road"/>
     <tag k="building" v="farmhouse"/>
     <tag k="name" v="Meadow Farm"/>
     <tag k="source" v="survey"/>
   </node>
+  <node id="2002317052" lat="52.2484791" lon="0.1455100" version="3" timestamp="2012-11-08T09:25:53Z" changeset="13795006" uid="1036414" user="DJA21">
+    <tag k="addr:housename" v="Sunclose Farm"/>
+    <tag k="addr:postcode" v="CB24 6DQ"/>
+    <tag k="addr:street" v="Butt Lane"/>
+    <tag k="name" v="Sunclose Summer Fruit farm shop"/>
+    <tag k="shop" v="greengrocer"/>
+    <tag k="website" v="www.sunclosefarm.co.uk"/>
+  </node>
+  <node id="2201317263" lat="52.2357128" lon="0.1343999" version="6" timestamp="2023-10-19T14:16:25Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="D BLOCK"/>
+    <tag k="addr:postcode" v="CB4 2QT"/>
+    <tag k="addr:street" v="Cambridge Regional College"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Costa"/>
+    <tag k="brand:wikidata" v="Q608845"/>
+    <tag k="brand:wikipedia" v="en:Costa Coffee"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Costa"/>
+    <tag k="source" v="http://www.dineoncampus.co.uk/doc-assets/docs/T4005_Cambridge_Regional_College.pdf"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="2293733240" lat="52.2406299" lon="0.1600486" version="3" timestamp="2020-11-18T22:38:52Z" changeset="94398753" uid="6476359" user="NSiecw">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB24 6BL"/>
+    <tag k="addr:street" v="Coles Road"/>
+    <tag k="description" v="Council offices"/>
+    <tag k="name" v="Milton Parish Council"/>
+    <tag k="office" v="council"/>
+  </node>
+  <node id="3373289990" lat="52.2457120" lon="0.1666001" version="3" timestamp="2015-05-24T19:53:19Z" changeset="31428191" uid="128314" user="johnbob">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB24 6DD"/>
+    <tag k="addr:street" v="Ely Road"/>
+    <tag k="name" v="Velocix"/>
+    <tag k="office" v="Technology"/>
+    <tag k="website" v="htttp://www.velocix.com"/>
+  </node>
+  <node id="3651659184" lat="52.2310968" lon="0.1485067" version="4" timestamp="2023-04-17T12:22:17Z" changeset="135013060" uid="64244" user="ChristopherCreutzig">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:place" v="Cambridge Business Park"/>
+    <tag k="addr:postcode" v="CB4 0JL"/>
+    <tag k="addr:street" v="Milton Road"/>
+    <tag k="name" v="MathWorks"/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-20:30"/>
+    <tag k="phone" v="+44 1223 226700"/>
+    <tag k="website" v="https://www.mathworks.com"/>
+  </node>
+  <node id="3768180500" lat="52.2324656" lon="0.1493026" version="6" timestamp="2024-08-23T09:03:55Z" changeset="155640779" uid="2773877" user="UnferthCartomancer">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="CB4 0FY"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="check_date" v="2024-08-23"/>
+    <tag k="name" v="Citrix Systems UK"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="3768180501" lat="52.2322476" lon="0.1496653" version="7" timestamp="2024-08-23T09:04:17Z" changeset="155640779" uid="2773877" user="UnferthCartomancer">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="CB4 0FY"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="check_date" v="2024-08-23"/>
+    <tag k="name" v="AVEVA"/>
+    <tag k="note" v="Previous names: Spiral Software, Invensys, Schneider Electric Software"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="3768180502" lat="52.2326203" lon="0.1493314" version="5" timestamp="2024-08-23T09:04:22Z" changeset="155640779" uid="2773877" user="UnferthCartomancer">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="CB4 0FY"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="check_date" v="2024-08-23"/>
+    <tag k="name" v="Grant Thornton UK LLP"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="4457176586" lat="52.2331120" lon="0.1480165" version="7" timestamp="2021-09-04T15:09:29Z" changeset="110720643" uid="242345" user="confusedbuffalo">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:postcode" v="CB4 0GF"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Featurespace Limited"/>
+    <tag k="office" v="company"/>
+    <tag k="phone" v="+44 1223 345940"/>
+    <tag k="website" v="https://www.featurespace.com/"/>
+  </node>
+  <node id="5237606800" lat="52.2323282" lon="0.1492721" version="6" timestamp="2024-08-23T09:03:58Z" changeset="155640779" uid="2773877" user="UnferthCartomancer">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="CB4 0FY"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="check_date" v="2024-08-23"/>
+    <tag k="name" v="Huawei Technologies R&amp;D (UK)"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5587153341" lat="52.2328993" lon="0.1467603" version="1" timestamp="2018-04-30T00:54:06Z" changeset="58540305" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:postcode" v="CB4 0GN"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Medical Device Usability"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="http://medical-device-usability.com/"/>
+  </node>
+  <node id="5587153342" lat="52.2329653" lon="0.1466680" version="2" timestamp="2019-03-25T06:55:38Z" changeset="68495098" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:postcode" v="CB4 0GN"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Emberion"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.emberion.com/"/>
+  </node>
+  <node id="5587153345" lat="52.2331445" lon="0.1464333" version="3" timestamp="2023-11-11T10:26:04Z" changeset="143893444" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:postcode" v="CB4 0GN"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="check_date" v="2023-10-22"/>
+    <tag k="name" v="Cambridge Touch Technology"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.camtouch3d.com/"/>
+  </node>
+  <node id="5587153346" lat="52.2332171" lon="0.1463202" version="1" timestamp="2018-04-30T00:54:07Z" changeset="58540305" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:postcode" v="CB4 0GN"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Beko"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.beko.co.uk/"/>
+  </node>
+  <node id="5587153350" lat="52.2331811" lon="0.1466863" version="1" timestamp="2018-04-30T00:54:07Z" changeset="58540305" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="153"/>
+    <tag k="addr:postcode" v="CB4 0GN"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Nuformix"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://nuformix.com/"/>
+  </node>
+  <node id="5587153352" lat="52.2338461" lon="0.1462287" version="1" timestamp="2018-04-30T00:54:07Z" changeset="58540305" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="184"/>
+    <tag k="addr:postcode" v="CB4 0GA"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Cambridge Wireless"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.cambridgewireless.co.uk/"/>
+  </node>
+  <node id="5587153382" lat="52.2371956" lon="0.1424787" version="2" timestamp="2020-06-30T09:58:46Z" changeset="87341742" uid="608881" user="tledakis">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="270"/>
+    <tag k="addr:postcode" v="CB4 0WE"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Worldpay"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.worldpay.com/"/>
+  </node>
+  <node id="5587153383" lat="52.2352387" lon="0.1399256" version="3" timestamp="2022-10-06T22:55:55Z" changeset="127122529" uid="17340731" user="groenroos">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="319"/>
+    <tag k="addr:postcode" v="CB4 0WG"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="brand" v="Bright Horizons"/>
+    <tag k="brand:wikidata" v="Q4967421"/>
+    <tag k="fee" v="yes"/>
+    <tag k="isced:level" v="0"/>
+    <tag k="name" v="Bright Horizons Day Nursery and Preschool"/>
+    <tag k="nursery" v="yes"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-18:00"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="phone" v="+44 333 920 1198"/>
+    <tag k="preschool" v="yes"/>
+    <tag k="website" v="https://www.brighthorizons.co.uk/our-nurseries/csp-day-nursery-and-preschool"/>
+  </node>
+  <node id="5587153400" lat="52.2316384" lon="0.1443098" version="2" timestamp="2023-09-12T12:40:54Z" changeset="141161766" uid="64091" user="jong">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="CB4 0FP"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="check_date" v="2023-09-12"/>
+    <tag k="name" v="Frontier Developments"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.frontier.co.uk/"/>
+  </node>
+  <node id="5587153401" lat="52.2324693" lon="0.1438030" version="2" timestamp="2019-04-17T16:49:04Z" changeset="69317043" uid="192531" user="sovata">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="CB4 0DW"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Cambridge Consultants"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.cambridgeconsultants.com/home"/>
+  </node>
+  <node id="5587153402" lat="52.2325092" lon="0.1422105" version="1" timestamp="2018-04-30T00:54:09Z" changeset="58540305" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="CB4 0XL"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Ember"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://ember.com/"/>
+  </node>
+  <node id="5587153403" lat="52.2327636" lon="0.1416913" version="2" timestamp="2019-03-25T06:55:39Z" changeset="68495098" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:postcode" v="CB4 0WG"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Huawei Technologies R&amp;D"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.huawei.com/uk/"/>
+  </node>
+  <node id="5587153404" lat="52.2326246" lon="0.1413605" version="1" timestamp="2018-04-30T00:54:09Z" changeset="58540305" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:postcode" v="CB4 0WG"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Neul"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="http://neul.com/"/>
+  </node>
+  <node id="5587153405" lat="52.2323003" lon="0.1426935" version="2" timestamp="2019-03-25T06:55:31Z" changeset="68495096" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="CB4 0FX"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="FlexEnable"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.flexenable.com/"/>
+  </node>
+  <node id="5587153406" lat="52.2320138" lon="0.1434202" version="1" timestamp="2018-04-30T00:54:09Z" changeset="58540305" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="CB4 0FP"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Johnson Matthey Catalysts"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://matthey.com/"/>
+  </node>
+  <node id="5591272351" lat="52.2302416" lon="0.1616142" version="2" timestamp="2023-11-11T10:26:58Z" changeset="143893477" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 0DL"/>
+    <tag k="addr:street" v="Cowley Road"/>
+    <tag k="name" v="Tarmac, Cambridge Asphalt"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.tarmac.com/asphalt2gosites/cambridge/"/>
+  </node>
+  <node id="5591272362" lat="52.2299896" lon="0.1630827" version="2" timestamp="2019-03-21T02:51:35Z" changeset="68359311" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 0DL"/>
+    <tag k="addr:street" v="Cowley Road"/>
+    <tag k="name" v="Frimstone"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.frimstone.co.uk/"/>
+  </node>
+  <node id="5622974775" lat="52.2341910" lon="0.1376127" version="2" timestamp="2023-05-09T10:03:02Z" changeset="135887598" uid="364" user="Edward">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="406"/>
+    <tag k="addr:postcode" v="CB4 0WW"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Broadcom Europe Ltd"/>
+    <tag k="office" v="company"/>
+    <tag k="wikidata" v="Q50379828"/>
+  </node>
+  <node id="5790653452" lat="52.2353513" lon="0.1437447" version="2" timestamp="2023-10-22T11:29:19Z" changeset="142963398" uid="20471370" user="Vulch">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="214"/>
+    <tag k="addr:postcode" v="CB4 0WA"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="check_date" v="2023-10-22"/>
+    <tag k="name" v="Amgen"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655054" lat="52.2352112" lon="0.1421195" version="1" timestamp="2018-07-27T20:34:45Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:postcode" v="CB4 0WB"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Bayer CropScience Ltd"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655055" lat="52.2348422" lon="0.1432310" version="1" timestamp="2018-07-27T20:34:45Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="CB4 0GF"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Jagex"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655056" lat="52.2342531" lon="0.1446880" version="1" timestamp="2018-07-27T20:34:45Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="208"/>
+    <tag k="addr:postcode" v="CB4 0GZ"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Toshiba Research Europe"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655057" lat="52.2347814" lon="0.1459112" version="1" timestamp="2018-07-27T20:34:45Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:postcode" v="CB4 0GZ"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Abcam"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655058" lat="52.2350685" lon="0.1465139" version="1" timestamp="2018-07-27T20:34:46Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="200"/>
+    <tag k="addr:postcode" v="CB4 0GZ"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Abcam"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655060" lat="52.2340329" lon="0.1490083" version="2" timestamp="2021-09-08T18:58:53Z" changeset="110934735" uid="242345" user="confusedbuffalo">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="161"/>
+    <tag k="addr:postcode" v="CB4 0GQ"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Heraeus Noblelight Ltd"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655061" lat="52.2355806" lon="0.1456107" version="1" timestamp="2018-07-27T20:34:46Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:postcode" v="CB4 0FZ"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Roku"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655062" lat="52.2354657" lon="0.1454601" version="2" timestamp="2023-10-22T11:38:26Z" changeset="142963398" uid="20471370" user="Vulch">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="205"/>
+    <tag k="addr:postcode" v="CB4 0FZ"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="check_date" v="2023-10-22"/>
+    <tag k="name" v="Vectura"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655063" lat="52.2359825" lon="0.1445192" version="1" timestamp="2018-07-27T20:34:46Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="210-211"/>
+    <tag k="addr:postcode" v="CB4 0WA"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="British American Tobacco"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655064" lat="52.2344239" lon="0.1410439" version="2" timestamp="2021-08-12T12:14:44Z" changeset="109571633" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="330"/>
+    <tag k="addr:postcode" v="CB4 0XL"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Abcam"/>
+    <tag k="office" v="company"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
+  </node>
+  <node id="5790655065" lat="52.2340946" lon="0.1419534" version="1" timestamp="2018-07-27T20:34:46Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:postcode" v="CB4 0WN"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Cambridge Assessment"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655066" lat="52.2338790" lon="0.1416766" version="1" timestamp="2018-07-27T20:34:46Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:postcode" v="CB4 0WN"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Huber+Suhner Polatis"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655067" lat="52.2339614" lon="0.1423884" version="1" timestamp="2018-07-27T20:34:46Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:postcode" v="CB4 0WN"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Xaar"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655068" lat="52.2334431" lon="0.1432228" version="1" timestamp="2018-07-27T20:34:46Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="334-335"/>
+    <tag k="addr:postcode" v="CB4 0WN"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Dassault Systèmes"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655069" lat="52.2331525" lon="0.1398102" version="1" timestamp="2018-07-27T20:34:47Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:postcode" v="CB4 0FZ"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="AstraZeneca"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655070" lat="52.2341091" lon="0.1384776" version="1" timestamp="2018-07-27T20:34:47Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="314"/>
+    <tag k="addr:postcode" v="CB4 0WG"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Domantis"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655071" lat="52.2350463" lon="0.1388849" version="1" timestamp="2018-07-27T20:34:47Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="400"/>
+    <tag k="addr:postcode" v="CB4 0WH"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Ricardo UK Ltd"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655072" lat="52.2349494" lon="0.1367252" version="1" timestamp="2018-07-27T20:34:47Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="410"/>
+    <tag k="addr:postcode" v="CB4 0PE"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Dr Reddy's Chirotech Technology"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655073" lat="52.2359206" lon="0.1375276" version="3" timestamp="2022-03-05T22:17:45Z" changeset="118142296" uid="8732579" user="gaosul">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="418"/>
+    <tag k="addr:postcode" v="CB4 0PZ"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Cerevance"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655075" lat="52.2369302" lon="0.1401802" version="1" timestamp="2018-07-27T20:34:47Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="436"/>
+    <tag k="addr:postcode" v="CB4 0QA"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Astex Pharmaceuticals"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="5790655076" lat="52.2365155" lon="0.1437340" version="1" timestamp="2018-07-27T20:34:47Z" changeset="61130231" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="250-260"/>
+    <tag k="addr:postcode" v="CB4 0WE"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="Pharmorphix"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.worldpay.com/"/>
+  </node>
+  <node id="5814721153" lat="52.2335104" lon="0.1460418" version="4" timestamp="2024-08-30T14:44:44Z" changeset="155977906" uid="2773877" user="UnferthCartomancer">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The Bradfield Centre"/>
+    <tag k="addr:housenumber" v="183"/>
+    <tag k="addr:postcode" v="CB4 0GA"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:opening_hours" v="2024-08-30"/>
+    <tag k="cuisine" v="sandwich;coffee_shop;breakfast;cake;salad"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Lakeside Café"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="reservation" v="no"/>
+    <tag k="website" v="https://www.bradfieldcentre.com/meet/lakeside-cafe/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6043964603" lat="52.2434381" lon="0.1638322" version="7" timestamp="2022-11-27T23:03:45Z" changeset="129451191" uid="15926" user="Mark Williamson">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Katana Haircutters For Men"/>
+    <tag k="addr:housenumber" v="1b"/>
+    <tag k="addr:postcode" v="CB24 6BW"/>
+    <tag k="addr:street" v="Coles Road"/>
+    <tag k="addr:village" v="Milton"/>
+    <tag k="check_date:opening_hours" v="2022-11-27"/>
+    <tag k="name" v="Katana Haircutters For Men"/>
+    <tag k="opening_hours" v="Tu-Fr 09:00-17:30; Sa 09:00-15:30"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="6044092124" lat="52.2437301" lon="0.1637249" version="5" timestamp="2022-11-27T23:02:59Z" changeset="129451201" uid="15926" user="Mark Williamson">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Archie Rogers hair &amp; beauty"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB24 6BW"/>
+    <tag k="addr:street" v="Coles Road"/>
+    <tag k="addr:village" v="Milton"/>
+    <tag k="check_date:opening_hours" v="2022-11-27"/>
+    <tag k="name" v="Archie Rogers hair &amp; beauty"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="6660273891" lat="52.2345835" lon="0.1396899" version="2" timestamp="2023-03-08T19:15:13Z" changeset="133452814" uid="15834639" user="makisz">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="324"/>
+    <tag k="addr:postcode" v="CB4 0WG"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="IQVIA"/>
+    <tag k="office" v="company"/>
+    <tag k="old_name" v="Linguamatics"/>
+    <tag k="website" v="https://www.linguamatics.com"/>
+  </node>
+  <node id="6797609812" lat="52.2426392" lon="0.1604786" version="1" timestamp="2019-09-15T22:48:10Z" changeset="74507777" uid="6476359" user="NSiecw">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB24 6AJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Harmony Hair and Beauty Salon"/>
+    <tag k="shop" v="beauty"/>
+  </node>
+  <node id="6797609813" lat="52.2427392" lon="0.1605805" version="1" timestamp="2019-09-15T22:48:10Z" changeset="74507777" uid="6476359" user="NSiecw">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8B"/>
+    <tag k="addr:postcode" v="CB24 6AJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="The Milton Flower Shop"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00; Sa 09:00-14:00"/>
+    <tag k="shop" v="florist"/>
+  </node>
+  <node id="6797609814" lat="52.2427029" lon="0.1605423" version="2" timestamp="2022-06-06T16:29:40Z" changeset="122034199" uid="9520483" user="mapper160">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8A"/>
+    <tag k="addr:postcode" v="CB24 6AJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date:opening_hours" v="2022-06-06"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Roll Inn"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-14:00"/>
+  </node>
+  <node id="6797609815" lat="52.2426599" lon="0.1604973" version="2" timestamp="2024-12-01T10:43:54Z" changeset="159801113" uid="11186704" user="JamesLul">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6B"/>
+    <tag k="addr:postcode" v="CB24 6AJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date:opening_hours" v="2024-12-01"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Milton Spice"/>
+    <tag k="opening_hours:signed" v="no"/>
+  </node>
+  <node id="6797609816" lat="52.2426181" lon="0.1604534" version="2" timestamp="2024-12-01T10:43:41Z" changeset="159801109" uid="11186704" user="JamesLul">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6A"/>
+    <tag k="addr:postcode" v="CB24 6AJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Moda Barbers"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="6797609823" lat="52.2446394" lon="0.1633143" version="1" timestamp="2019-09-15T22:48:10Z" changeset="74507777" uid="6476359" user="NSiecw">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="CB24 6DF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="contact:website" v="http://www.ambassadorlodge.co.uk"/>
+    <tag k="name" v="Ambassador Lodge"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="6992444685" lat="52.2310369" lon="0.1455553" version="2" timestamp="2019-12-11T19:25:35Z" changeset="78277898" uid="379166" user="Borbus">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB4 0FW"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Noodle Republic"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-14:00; Sa-Su off"/>
+    <tag k="phone" v="+447912648888"/>
+  </node>
+  <node id="10759465447" lat="52.2308979" lon="0.1465528" version="1" timestamp="2023-03-24T16:37:22Z" changeset="134076211" uid="18790722" user="Nabla69">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="CB4 0FJ"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="name" v="DisplayLink / Synaptics"/>
+    <tag k="office" v="company"/>
+    <tag k="phone" v="+44 1223 443 920"/>
+    <tag k="website" v="https://synaptics.com"/>
+  </node>
+  <node id="11361853127" lat="52.2246727" lon="0.1571584" version="3" timestamp="2024-06-07T21:12:44Z" changeset="152393367" uid="9520483" user="mapper160">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="One Cambridge Square"/>
+    <tag k="addr:street" v="Cambridge Square"/>
+    <tag k="name" v="East of England Co-op"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-23:00; Su 07:00-22:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.eastofengland.coop/food/stores/one-cambridge-square"/>
+  </node>
+  <way id="4013874" version="18" timestamp="2022-10-12T16:29:34Z" changeset="127426022" uid="24119" user="Mauls">
+    <nd ref="21260807"/>
+    <nd ref="2452597594"/>
+    <nd ref="6484207668"/>
+    <nd ref="5587153359"/>
+    <nd ref="10281340"/>
+    <nd ref="21260817"/>
+    <nd ref="21260808"/>
+    <nd ref="21260809"/>
+    <nd ref="21260810"/>
+    <nd ref="5587153360"/>
+    <nd ref="21260811"/>
+    <nd ref="21260812"/>
+    <nd ref="21260818"/>
+    <nd ref="21260813"/>
+    <nd ref="6452434382"/>
+    <nd ref="6452434383"/>
+    <nd ref="21260814"/>
+    <nd ref="6452434384"/>
+    <nd ref="6452435085"/>
+    <nd ref="6452435086"/>
+    <nd ref="21260805"/>
+    <nd ref="6452434381"/>
+    <nd ref="2452991575"/>
+    <nd ref="2452991689"/>
+    <nd ref="2452991766"/>
+    <nd ref="2452991713"/>
+    <nd ref="21260815"/>
+    <nd ref="2452991562"/>
+    <nd ref="2452991628"/>
+    <nd ref="366134820"/>
+    <nd ref="2452855772"/>
+    <nd ref="527334122"/>
+    <nd ref="3768959746"/>
+    <nd ref="21260806"/>
+    <nd ref="3768959750"/>
+    <nd ref="3768963299"/>
+    <nd ref="3768963278"/>
+    <nd ref="6484207669"/>
+    <nd ref="21260807"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 0FZ"/>
+    <tag k="addr:street" v="Milton Road"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Cambridge Science Park"/>
+    <tag k="operator" v="Cambridge Science Park"/>
+    <tag k="ref:university_of_cambridge" v="EXT/CSP"/>
+    <tag k="wikidata" v="Q3275187"/>
+    <tag k="wikipedia" v="en:Cambridge Science Park"/>
+  </way>
+  <way id="4030306" version="18" timestamp="2023-10-10T07:31:45Z" changeset="142379562" uid="37791" user="Fradeve11">
+    <nd ref="21350337"/>
+    <nd ref="5617591082"/>
+    <nd ref="21350326"/>
+    <nd ref="5723547553"/>
+    <nd ref="5723547552"/>
+    <nd ref="5590429685"/>
+    <nd ref="21350338"/>
+    <nd ref="21350335"/>
+    <nd ref="5617595621"/>
+    <nd ref="5617591087"/>
+    <nd ref="5617591085"/>
+    <nd ref="21350336"/>
+    <nd ref="21350341"/>
+    <nd ref="21350339"/>
+    <nd ref="320927734"/>
+    <nd ref="1401467187"/>
+    <nd ref="320927736"/>
+    <nd ref="5590143652"/>
+    <nd ref="5617580584"/>
+    <nd ref="5617580586"/>
+    <nd ref="5617580590"/>
+    <nd ref="5617591078"/>
+    <nd ref="5617591080"/>
+    <nd ref="21350337"/>
+    <tag k="addr:postcode" v="CB24 6DL"/>
+    <tag k="addr:street" v="Humphries Way"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="420"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="diocese" v="Diocese of Ely"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="5"/>
+    <tag k="name" v="Milton C of E Primary School"/>
+    <tag k="phone" v="+44 1223 508783"/>
+    <tag k="ref:GB:uprn" v="10003199917"/>
+    <tag k="ref:edubase" v="143776"/>
+    <tag k="ref:edubase:group" v="2905"/>
+    <tag k="religion" v="christian"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="The Diocese of Ely Multi-Academy Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="www.milton.cambs.sch.uk"/>
+    <tag k="wikidata" v="Q67150000"/>
+  </way>
   <way id="25689359" version="7" timestamp="2021-08-16T12:28:33Z" changeset="109749797" uid="12638337" user="QPALZMWSX">
     <nd ref="2159896678"/>
     <nd ref="2159896681"/>
@@ -55,6 +761,63 @@
     <tag k="name" v="Platinum Building"/>
     <tag k="roof:levels" v="0"/>
     <tag k="source:name" v="survey"/>
+  </way>
+  <way id="25689426" version="9" timestamp="2025-01-02T17:09:24Z" changeset="160917571" uid="1102246" user="jtn20">
+    <nd ref="280084379"/>
+    <nd ref="280084380"/>
+    <nd ref="280084381"/>
+    <nd ref="280084382"/>
+    <nd ref="280084383"/>
+    <nd ref="280084384"/>
+    <nd ref="280084385"/>
+    <nd ref="280084379"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 0ZT"/>
+    <tag k="addr:street" v="St John's Innovation Park"/>
+    <tag k="demolished:building" v="office"/>
+    <tag k="name" v="St John's House"/>
+  </way>
+  <way id="28485511" version="10" timestamp="2022-12-27T18:10:59Z" changeset="130567649" uid="115894" user="DaveF">
+    <nd ref="312942785"/>
+    <nd ref="312942790"/>
+    <nd ref="312942789"/>
+    <nd ref="312942788"/>
+    <nd ref="1373665885"/>
+    <nd ref="312942787"/>
+    <nd ref="312942786"/>
+    <nd ref="1373665922"/>
+    <nd ref="312942785"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB24 6DD"/>
+    <tag k="addr:street" v="Ely Road"/>
+    <tag k="addr:village" v="Milton"/>
+    <tag k="golf:course" v="9_hole"/>
+    <tag k="leisure" v="footgolf"/>
+    <tag k="name" v="Cambridge FootGolf Centre"/>
+    <tag k="note:sport" v="Can't find tagging for foot golf, but there is disc_golf in tagwatch so have followed that convention."/>
+    <tag k="operator" v="UK Footgolf"/>
+    <tag k="phone" v="+44 800 6899552"/>
+    <tag k="source" v="note"/>
+    <tag k="website" v="http://www.ukfootgolf.com/cambridge/"/>
+  </way>
+  <way id="28530731" version="15" timestamp="2019-12-09T18:51:41Z" changeset="78167340" uid="379166" user="Borbus">
+    <nd ref="313399402"/>
+    <nd ref="313399403"/>
+    <nd ref="387519734"/>
+    <nd ref="313399404"/>
+    <nd ref="313399405"/>
+    <nd ref="313399407"/>
+    <nd ref="313399408"/>
+    <nd ref="313399409"/>
+    <nd ref="313399402"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="CB4 0EY"/>
+    <tag k="addr:street" v="Cambridge Science Park"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="demolished:building" v="commercial"/>
+    <tag k="name" v="Cambridge Science Park Innovation Centre"/>
+    <tag k="source" v="Yahoo"/>
   </way>
   <way id="28875314" version="7" timestamp="2019-02-18T15:40:37Z" changeset="67320264" uid="669183" user="Andy_W">
     <nd ref="317415877"/>
@@ -265,6 +1028,20 @@
     <tag k="phone" v="+44 1223 788140"/>
     <tag k="website" v="https://www.bradfieldcentre.com/"/>
   </way>
+  <way id="37531042" version="7" timestamp="2024-11-10T16:14:42Z" changeset="158974046" uid="5173844" user="ndrw6">
+    <nd ref="439464816"/>
+    <nd ref="12328892241"/>
+    <nd ref="3816752233"/>
+    <nd ref="439464797"/>
+    <nd ref="439464802"/>
+    <nd ref="439464806"/>
+    <nd ref="439464816"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 2QL"/>
+    <tag k="addr:street" v="Kings Hedges Road"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Blackwells Caravan Site"/>
+  </way>
   <way id="48205171" version="9" timestamp="2020-02-14T10:52:27Z" changeset="81003963" uid="379166" user="Borbus">
     <nd ref="612614182"/>
     <nd ref="612614183"/>
@@ -330,6 +1107,30 @@
     <tag k="source" v="aerials"/>
     <tag k="source:opening_hours" v="website"/>
     <tag k="website" v="https://www.tesco.com/store-locator/cambridge/cambridge-road"/>
+  </way>
+  <way id="82624868" version="9" timestamp="2023-04-05T12:32:47Z" changeset="134537055" uid="18853227" user="gerjomarty">
+    <nd ref="961575814"/>
+    <nd ref="7137807693"/>
+    <nd ref="7137807694"/>
+    <nd ref="7131014766"/>
+    <nd ref="7131014767"/>
+    <nd ref="961575818"/>
+    <nd ref="961575819"/>
+    <nd ref="7131014769"/>
+    <nd ref="7131014772"/>
+    <nd ref="8245278005"/>
+    <nd ref="961575822"/>
+    <nd ref="961575823"/>
+    <nd ref="961575824"/>
+    <nd ref="961575814"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Allia Future Business Centre"/>
+    <tag k="addr:postcode" v="CB4 2HY"/>
+    <tag k="addr:street" v="Kings Hedges Road"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Allia Future Business Centre"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="website" v="https://futurebusinesscentre.co.uk/"/>
   </way>
   <way id="120247765" version="4" timestamp="2020-11-18T22:38:52Z" changeset="94398753" uid="6476359" user="NSiecw">
     <nd ref="1348747006"/>
@@ -906,6 +1707,22 @@
     <tag k="opening_hours:signed" v="no"/>
     <tag k="shop" v="hairdresser"/>
   </way>
+  <way id="135277686" version="7" timestamp="2022-02-12T14:02:55Z" changeset="117322648" uid="606555" user="marczoutendijk">
+    <nd ref="1485790024"/>
+    <nd ref="1485790025"/>
+    <nd ref="1485790026"/>
+    <nd ref="1442997982"/>
+    <nd ref="3105202998"/>
+    <nd ref="21137728"/>
+    <nd ref="3105203007"/>
+    <nd ref="21137729"/>
+    <nd ref="1485790024"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 1YP"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Kerry's Field"/>
+  </way>
   <way id="136107183" version="2" timestamp="2014-08-14T09:06:50Z" changeset="24740046" uid="1723158" user="ozhiker2">
     <nd ref="1493512777"/>
     <nd ref="1493512758"/>
@@ -1012,6 +1829,22 @@
     <tag k="wikidata" v="Q7593599"/>
     <tag k="wikipedia" v="en:St John's Innovation Centre"/>
   </way>
+  <way id="305516911" version="8" timestamp="2024-08-31T03:22:46Z" changeset="155997527" uid="1102246" user="jtn20">
+    <nd ref="467693490"/>
+    <nd ref="3101982699"/>
+    <nd ref="467693492"/>
+    <nd ref="467693493"/>
+    <nd ref="12147143219"/>
+    <nd ref="3104079725"/>
+    <nd ref="467693496"/>
+    <nd ref="467693490"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 1TU"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Big T Caravan Park"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
   <way id="305516912" version="5" timestamp="2024-08-31T03:22:46Z" changeset="155997527" uid="1102246" user="jtn20">
     <nd ref="3101565783"/>
     <nd ref="3101565792"/>
@@ -1034,6 +1867,49 @@
     <tag k="roof:levels" v="1"/>
     <tag k="roof:shape" v="hipped"/>
   </way>
+  <way id="305516913" version="8" timestamp="2022-02-12T14:02:55Z" changeset="117322648" uid="606555" user="marczoutendijk">
+    <nd ref="3101566293"/>
+    <nd ref="3104054453"/>
+    <nd ref="3104054451"/>
+    <nd ref="3104054449"/>
+    <nd ref="3104054445"/>
+    <nd ref="3104054443"/>
+    <nd ref="3103673460"/>
+    <nd ref="3101982694"/>
+    <nd ref="3103673454"/>
+    <nd ref="3103673451"/>
+    <nd ref="3103673446"/>
+    <nd ref="3101982679"/>
+    <nd ref="467693499"/>
+    <nd ref="3101982657"/>
+    <nd ref="3101566280"/>
+    <nd ref="3101566277"/>
+    <nd ref="3101566273"/>
+    <nd ref="3101566272"/>
+    <nd ref="3101566268"/>
+    <nd ref="3101566270"/>
+    <nd ref="467693500"/>
+    <nd ref="3101982361"/>
+    <nd ref="3101982363"/>
+    <nd ref="3101982371"/>
+    <nd ref="3101982380"/>
+    <nd ref="3101982385"/>
+    <nd ref="3101982386"/>
+    <nd ref="3101982388"/>
+    <nd ref="3101982403"/>
+    <nd ref="3101982415"/>
+    <nd ref="3101982421"/>
+    <nd ref="3101982641"/>
+    <nd ref="467693501"/>
+    <nd ref="3101982698"/>
+    <nd ref="3101566293"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 1TU"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="New Fields Mobile Home Park"/>
+    <tag k="source" v="Yahoo"/>
+  </way>
   <way id="305516914" version="4" timestamp="2019-02-16T11:13:38Z" changeset="67250923" uid="5173844" user="ndrw6">
     <nd ref="3101565820"/>
     <nd ref="3101565809"/>
@@ -1046,6 +1922,68 @@
     <tag k="addr:street" v="Fen Road"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="The Black House"/>
+  </way>
+  <way id="305551775" version="5" timestamp="2022-02-16T20:03:13Z" changeset="117491888" uid="606555" user="marczoutendijk">
+    <nd ref="3101982916"/>
+    <nd ref="3101982920"/>
+    <nd ref="3101982919"/>
+    <nd ref="3101982902"/>
+    <nd ref="3101982864"/>
+    <nd ref="3101982879"/>
+    <nd ref="3101982882"/>
+    <nd ref="3101982901"/>
+    <nd ref="3101982916"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Clearview Park"/>
+  </way>
+  <way id="305551776" version="5" timestamp="2022-02-16T20:03:13Z" changeset="117491888" uid="606555" user="marczoutendijk">
+    <nd ref="3101982722"/>
+    <nd ref="3101982857"/>
+    <nd ref="3101982862"/>
+    <nd ref="3101982884"/>
+    <nd ref="3101982901"/>
+    <nd ref="3101982882"/>
+    <nd ref="3101982879"/>
+    <nd ref="3101982864"/>
+    <nd ref="3101982722"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Grassy Corner Caravan Site"/>
+  </way>
+  <way id="305551777" version="5" timestamp="2022-02-16T20:03:13Z" changeset="117491888" uid="606555" user="marczoutendijk">
+    <nd ref="3101982700"/>
+    <nd ref="3101982715"/>
+    <nd ref="3101982716"/>
+    <nd ref="3101982834"/>
+    <nd ref="3101982857"/>
+    <nd ref="3101982722"/>
+    <nd ref="3101982700"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Greenacres Park"/>
+  </way>
+  <way id="309213885" version="6" timestamp="2024-08-11T15:50:03Z" changeset="155109770" uid="6476359" user="NSiecw">
+    <nd ref="467693502"/>
+    <nd ref="3145410695"/>
+    <nd ref="3145410681"/>
+    <nd ref="467693498"/>
+    <nd ref="12104487326"/>
+    <nd ref="3145410680"/>
+    <nd ref="3145410687"/>
+    <nd ref="3145410689"/>
+    <nd ref="3145410692"/>
+    <nd ref="3145410698"/>
+    <nd ref="3145410705"/>
+    <nd ref="3145410706"/>
+    <nd ref="3145410732"/>
+    <nd ref="3145410734"/>
+    <nd ref="3145410749"/>
+    <nd ref="467693502"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 1UN"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="name" v="Lomas Farm"/>
   </way>
   <way id="309213886" version="3" timestamp="2024-08-31T03:22:46Z" changeset="155997527" uid="1102246" user="jtn20">
     <nd ref="3145410715"/>
@@ -1065,6 +2003,46 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Tatyana Cottage"/>
   </way>
+  <way id="309234413" version="6" timestamp="2024-08-31T03:22:46Z" changeset="155997527" uid="1102246" user="jtn20">
+    <nd ref="3145611124"/>
+    <nd ref="3145846295"/>
+    <nd ref="3145846305"/>
+    <nd ref="3145846309"/>
+    <nd ref="3145846319"/>
+    <nd ref="3145846328"/>
+    <nd ref="3145611127"/>
+    <nd ref="3145611122"/>
+    <nd ref="3145611118"/>
+    <nd ref="3145611114"/>
+    <nd ref="3145611110"/>
+    <nd ref="3145611106"/>
+    <nd ref="3145611112"/>
+    <nd ref="3145611108"/>
+    <nd ref="467693519"/>
+    <nd ref="3145611082"/>
+    <nd ref="3145611078"/>
+    <nd ref="3145611038"/>
+    <nd ref="3145611039"/>
+    <nd ref="3145611048"/>
+    <nd ref="3145611050"/>
+    <nd ref="3145611055"/>
+    <nd ref="3145611067"/>
+    <nd ref="3145611064"/>
+    <nd ref="3145611041"/>
+    <nd ref="3145611046"/>
+    <nd ref="3145611071"/>
+    <nd ref="3145410632"/>
+    <nd ref="3145410641"/>
+    <nd ref="3145410648"/>
+    <nd ref="3145611111"/>
+    <nd ref="3145410659"/>
+    <nd ref="3145611124"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 1UN"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="Cave Industrial Estate"/>
+  </way>
   <way id="309234414" version="3" timestamp="2019-02-16T11:13:40Z" changeset="67250923" uid="5173844" user="ndrw6">
     <nd ref="3145611100"/>
     <nd ref="3145611107"/>
@@ -1080,6 +2058,61 @@
     <tag k="addr:street" v="Sunningdale"/>
     <tag k="building" v="industrial"/>
     <tag k="name" v="Cave Industrial"/>
+  </way>
+  <way id="309249282" version="3" timestamp="2019-02-16T11:13:40Z" changeset="67250923" uid="5173844" user="ndrw6">
+    <nd ref="3105203007"/>
+    <nd ref="21137728"/>
+    <nd ref="3145747031"/>
+    <nd ref="3145747043"/>
+    <nd ref="3145747047"/>
+    <nd ref="467693519"/>
+    <nd ref="3145611082"/>
+    <nd ref="3145611078"/>
+    <nd ref="3145611063"/>
+    <nd ref="3145611038"/>
+    <nd ref="3145746903"/>
+    <nd ref="3145746901"/>
+    <nd ref="3145746897"/>
+    <nd ref="3145746899"/>
+    <nd ref="3145746896"/>
+    <nd ref="3145746889"/>
+    <nd ref="3145746885"/>
+    <nd ref="3145746875"/>
+    <nd ref="3145746874"/>
+    <nd ref="3145746872"/>
+    <nd ref="3145747040"/>
+    <nd ref="3105203007"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 1UN"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="Cottage Industrial Estate"/>
+  </way>
+  <way id="365610362" version="5" timestamp="2022-01-04T15:05:16Z" changeset="115759030" uid="2400059" user="Pablo Rodriguez">
+    <nd ref="3696137628"/>
+    <nd ref="3696137629"/>
+    <nd ref="3696137630"/>
+    <nd ref="3696137631"/>
+    <nd ref="3696137632"/>
+    <nd ref="3696137633"/>
+    <nd ref="3696137634"/>
+    <nd ref="3696137628"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB24 6DQ"/>
+    <tag k="addr:street" v="Butt Lane"/>
+    <tag k="addr:village" v="Milton"/>
+    <tag k="amenity" v="recycling"/>
+    <tag k="name" v="Milton Recycling Centre"/>
+    <tag k="operator" v="Cambridgeshire County Council"/>
+    <tag k="owner" v="Cambridgeshire County Council"/>
+    <tag k="ownership" v="municipal"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling_type" v="centre"/>
+    <tag k="website" v="https://www.cambridgeshire.gov.uk/directory/listings/milton-recycling-centre"/>
+    <tag k="wikidata" v="Q106094020"/>
   </way>
   <way id="496339910" version="6" timestamp="2024-12-30T15:30:22Z" changeset="160797120" uid="84263" user="Robert Whittaker">
     <nd ref="4880441565"/>
@@ -1224,5 +2257,101 @@
     <tag k="building" v="commercial"/>
     <tag k="name" v="Bio-Innovation Centre"/>
   </way>
+  <way id="1264206809" version="2" timestamp="2024-03-19T16:33:55Z" changeset="148870408" uid="2406" user="JeffB">
+    <nd ref="11745859267"/>
+    <nd ref="11745859268"/>
+    <nd ref="11745860569"/>
+    <nd ref="11745860570"/>
+    <nd ref="11745859267"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Vitrum"/>
+    <tag k="addr:postcode" v="CB4 0DS"/>
+    <tag k="addr:street" v="St John's Innovation Park"/>
+    <tag k="construction" v="commercial"/>
+    <tag k="landuse" v="construction"/>
+    <tag k="name" v="New Vitrum Building"/>
+    <tag k="opening_date" v="2026"/>
+    <tag k="url" v="https://vitrumbybreakthrough.com/"/>
+  </way>
+  <way id="1307056904" version="1" timestamp="2024-08-11T15:34:46Z" changeset="155108969" uid="6476359" user="NSiecw">
+    <nd ref="3147009222"/>
+    <nd ref="3147009188"/>
+    <nd ref="3147009198"/>
+    <nd ref="3147009199"/>
+    <nd ref="12104461422"/>
+    <nd ref="12104461421"/>
+    <nd ref="3104080161"/>
+    <nd ref="12104461420"/>
+    <nd ref="12104461419"/>
+    <nd ref="467693476"/>
+    <nd ref="3147009222"/>
+    <tag k="addr:street" v="Fen Road"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="West View"/>
+  </way>
+  <way id="1332635900" version="1" timestamp="2024-11-10T16:04:28Z" changeset="158973569" uid="5173844" user="ndrw6">
+    <nd ref="12328836995"/>
+    <nd ref="12328836994"/>
+    <nd ref="12328878106"/>
+    <nd ref="12328878105"/>
+    <nd ref="12328878104"/>
+    <nd ref="12328878103"/>
+    <nd ref="12328878102"/>
+    <nd ref="12328878101"/>
+    <nd ref="12328837000"/>
+    <nd ref="12328836999"/>
+    <nd ref="12328836998"/>
+    <nd ref="12328836997"/>
+    <nd ref="12328836996"/>
+    <nd ref="577389100"/>
+    <nd ref="11688103257"/>
+    <nd ref="3768963260"/>
+    <nd ref="3768963278"/>
+    <nd ref="3768963272"/>
+    <nd ref="11688103262"/>
+    <nd ref="3768963284"/>
+    <nd ref="577389097"/>
+    <nd ref="11688190605"/>
+    <nd ref="560519152"/>
+    <nd ref="294011649"/>
+    <nd ref="3768963295"/>
+    <nd ref="583777382"/>
+    <nd ref="562882734"/>
+    <nd ref="11634838035"/>
+    <nd ref="4226900766"/>
+    <nd ref="562948526"/>
+    <nd ref="562948527"/>
+    <nd ref="4226900765"/>
+    <nd ref="583777396"/>
+    <nd ref="3768959733"/>
+    <nd ref="562882735"/>
+    <nd ref="12328836995"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 2QT"/>
+    <tag k="addr:street" v="Kings Hedges Road"/>
+    <tag k="amenity" v="college"/>
+    <tag k="max_age" v="none"/>
+    <tag k="min_age" v="14"/>
+    <tag k="name" v="Cambridge Regional College"/>
+    <tag k="operator" v="Cambridge Regional College"/>
+    <tag k="phone" v="+44 1223 418200"/>
+    <tag k="ref:GB:uprn" v="10003203874"/>
+    <tag k="ref:edubase" v="130610"/>
+    <tag k="ref:university_of_cambridge" v="yes"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="website" v="https://www.camre.ac.uk/"/>
+    <tag k="wikidata" v="Q5025507"/>
+  </way>
+  <relation id="7144436" version="3" timestamp="2019-02-16T11:16:46Z" changeset="67251295" uid="5173844" user="ndrw6">
+    <member type="way" ref="464096030" role=""/>
+    <member type="way" ref="464096029" role=""/>
+    <member type="way" ref="464096019" role=""/>
+    <member type="way" ref="464096021" role=""/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB4 0AE"/>
+    <tag k="addr:street" v="Milton Avenue"/>
+    <tag k="name" v="Cambridge North Station"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
 
 </osm>

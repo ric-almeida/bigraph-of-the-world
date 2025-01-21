@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:06:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:23:25Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="631977789" lat="52.3267645" lon="-0.0252894" version="5" timestamp="2024-05-29T09:55:34Z" changeset="151980045" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE27 4TN"/>
+    <tag k="addr:street" v="Ashton Close"/>
+    <tag k="addr:suburb" v="Needingworth"/>
+    <tag k="landuse" v="farm"/>
+    <tag k="name" v="Lodel Farm"/>
+    <tag k="note:retag" v="CS #48756035"/>
+  </node>
+  <node id="4347308824" lat="52.3380328" lon="-0.0394268" version="2" timestamp="2024-05-21T13:07:43Z" changeset="151627949" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:postcode" v="PE27 4NE"/>
+    <tag k="addr:street" v="Lowndes Drove"/>
+    <tag k="addr:suburb" v="Needingworth"/>
+    <tag k="name" v="Blackers Hill Farm"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="4347308833" lat="52.3375381" lon="-0.0381111" version="2" timestamp="2024-05-21T13:07:43Z" changeset="151627949" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:postcode" v="PE27 4NE"/>
+    <tag k="addr:street" v="Lowndes Drove"/>
+    <tag k="addr:suburb" v="Needingworth"/>
+    <tag k="name" v="Priory Farm"/>
+    <tag k="place" v="farm"/>
+  </node>
   <way id="125936495" version="11" timestamp="2024-11-02T14:48:25Z" changeset="158662019" uid="10420541" user="Thingummy">
     <nd ref="1397397399"/>
     <nd ref="1397397443"/>
@@ -39,6 +65,24 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.greeneking.co.uk/pubs/cambridgeshire/old-ferry-boat"/>
     <tag k="wikidata" v="Q26421296"/>
+  </way>
+  <way id="146411806" version="6" timestamp="2022-02-06T16:08:01Z" changeset="117084938" uid="11022773" user="GeoFens">
+    <nd ref="2794759115"/>
+    <nd ref="2794759114"/>
+    <nd ref="2781612855"/>
+    <nd ref="1596833873"/>
+    <nd ref="1596833869"/>
+    <nd ref="2794759112"/>
+    <nd ref="2794759110"/>
+    <nd ref="1596833864"/>
+    <nd ref="1596833866"/>
+    <nd ref="2794759115"/>
+    <tag k="abutters" v="Monsal Works"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:postcode" v="PE27 3LY"/>
+    <tag k="addr:street" v="Somersham Road"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="Monsal Works"/>
   </way>
   <way id="154376055" version="5" timestamp="2024-04-26T22:43:24Z" changeset="150559651" uid="10420541" user="Thingummy">
     <nd ref="1669174262"/>
@@ -79,6 +123,44 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.pikeandeel.com/"/>
   </way>
+  <way id="217129260" version="12" timestamp="2024-05-21T13:07:43Z" changeset="151627949" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="2794759134"/>
+    <nd ref="2794759150"/>
+    <nd ref="2794759163"/>
+    <nd ref="2264336351"/>
+    <nd ref="1507202394"/>
+    <nd ref="1507202290"/>
+    <nd ref="2796080292"/>
+    <nd ref="2794759178"/>
+    <nd ref="2794759176"/>
+    <nd ref="303715436"/>
+    <nd ref="2781612897"/>
+    <nd ref="11523278490"/>
+    <nd ref="11523278491"/>
+    <nd ref="2794758959"/>
+    <nd ref="2794758961"/>
+    <nd ref="2794758963"/>
+    <nd ref="2796077745"/>
+    <nd ref="2794758965"/>
+    <nd ref="2794759098"/>
+    <nd ref="2796077749"/>
+    <nd ref="2794759101"/>
+    <nd ref="2794759103"/>
+    <nd ref="2794759100"/>
+    <nd ref="2794759138"/>
+    <nd ref="2794759136"/>
+    <nd ref="2794759105"/>
+    <nd ref="2794759134"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:postcode" v="PE27 4NB"/>
+    <tag k="addr:street" v="Needingworth Road"/>
+    <tag k="addr:suburb" v="Needingworth"/>
+    <tag k="description" v="18 hole Par 72"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="St Ives Golf Club"/>
+    <tag k="phone" v="+44 1480 499920"/>
+    <tag k="website" v="https://www.stivesgolfclub.co.uk/"/>
+  </way>
   <way id="245350044" version="4" timestamp="2024-05-29T11:25:40Z" changeset="151984117" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="2525603217"/>
     <nd ref="2525603172"/>
@@ -104,6 +186,41 @@
     <tag k="building:levels" v="3"/>
     <tag k="name" v="Si One"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="276465762" version="5" timestamp="2024-05-29T09:55:34Z" changeset="151980045" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="2810622611"/>
+    <nd ref="2810622574"/>
+    <nd ref="2810622614"/>
+    <nd ref="2810622609"/>
+    <nd ref="2810622610"/>
+    <nd ref="2810622617"/>
+    <nd ref="2810622618"/>
+    <nd ref="2810622619"/>
+    <nd ref="2810622620"/>
+    <nd ref="2810622611"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE27 4TF"/>
+    <tag k="addr:street" v="Mill Way"/>
+    <tag k="addr:suburb" v="Needingworth"/>
+    <tag k="landuse" v="recreation_ground"/>
+    <tag k="name" v="Millfields Recreation Ground"/>
+    <tag k="surface" v="grass"/>
+  </way>
+  <way id="345037426" version="3" timestamp="2024-05-21T13:12:20Z" changeset="151628164" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3517343771"/>
+    <nd ref="3517343772"/>
+    <nd ref="3517343773"/>
+    <nd ref="3517343774"/>
+    <nd ref="3517343775"/>
+    <nd ref="3517343776"/>
+    <nd ref="3517343771"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:postcode" v="PE27 4TN"/>
+    <tag k="addr:street" v="Overcote Lane"/>
+    <tag k="addr:suburb" v="Needingworth"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Overcote Farm"/>
   </way>
   <way id="435281226" version="1" timestamp="2016-08-02T10:20:34Z" changeset="41188504" uid="2983218" user="LovenOutdoors">
     <nd ref="4332140971"/>
@@ -186,6 +303,48 @@
     <tag k="addr:suburb" v="Needingworth"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Fairview"/>
+  </way>
+  <way id="1160543831" version="1" timestamp="2023-04-07T18:58:10Z" changeset="134629244" uid="11022773" user="GeoFens">
+    <nd ref="2781612895"/>
+    <nd ref="10793643390"/>
+    <nd ref="2794758975"/>
+    <nd ref="2781612907"/>
+    <nd ref="2781612906"/>
+    <nd ref="2781612905"/>
+    <nd ref="2781612880"/>
+    <nd ref="2781612879"/>
+    <nd ref="2781612877"/>
+    <nd ref="10793643391"/>
+    <nd ref="2781612890"/>
+    <nd ref="2781612892"/>
+    <nd ref="2781612893"/>
+    <nd ref="2781612894"/>
+    <nd ref="2781612895"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:postcode" v="PE27 3ND"/>
+    <tag k="addr:street" v="Needingworth Road"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Giffords Farm"/>
+  </way>
+  <way id="1160543832" version="1" timestamp="2023-04-07T18:58:10Z" changeset="134629244" uid="11022773" user="GeoFens">
+    <nd ref="8591798888"/>
+    <nd ref="10793643392"/>
+    <nd ref="10793643393"/>
+    <nd ref="9094809714"/>
+    <nd ref="9094809715"/>
+    <nd ref="6522712557"/>
+    <nd ref="6522712556"/>
+    <nd ref="6522712555"/>
+    <nd ref="2781612966"/>
+    <nd ref="2808178711"/>
+    <nd ref="8591798887"/>
+    <nd ref="2808178710"/>
+    <nd ref="8591798888"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:postcode" v="PE27 4NB"/>
+    <tag k="addr:street" v="Needingworth Road"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Five Acres Farm"/>
   </way>
 
 </osm>

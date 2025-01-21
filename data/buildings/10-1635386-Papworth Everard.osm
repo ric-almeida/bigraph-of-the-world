@@ -1,8 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:24:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:39:45Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="244399318" lat="52.2480812" lon="-0.1219857" version="2" timestamp="2020-12-09T20:04:22Z" changeset="95573611" uid="5008136" user="JayTurnr">
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="Wigwam Church Lane Day Nursery"/>
+    <tag k="preschool" v="yes"/>
+  </node>
+  <node id="3102772131" lat="52.2511248" lon="-0.1185717" version="4" timestamp="2023-10-24T14:48:15Z" changeset="143069362" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:postcode" v="CB23 3UY"/>
+    <tag k="addr:street" v="Ermine Street North"/>
+    <tag k="addr:suburb" v="Papworth Everard"/>
+    <tag k="amenity" v="veterinary"/>
+    <tag k="emergency:phone" v="0845 500 4247"/>
+    <tag k="name" v="Ash Croft Vets"/>
+    <tag k="phone" v="+44 1480 831615"/>
+    <tag k="website" v="https://www.ashcroftvet.co.uk/"/>
+  </node>
+  <node id="7747857864" lat="52.2489354" lon="-0.1178844" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3RD"/>
+    <tag k="addr:street" v="Ermine Street South"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="name" v="Darrens Flooring DFC"/>
+    <tag k="shop" v="carpet"/>
+  </node>
+  <way id="136675539" version="7" timestamp="2021-10-30T12:25:42Z" changeset="113159450" uid="242345" user="confusedbuffalo">
+    <nd ref="249417544"/>
+    <nd ref="247461300"/>
+    <nd ref="249417532"/>
+    <nd ref="7747857607"/>
+    <nd ref="249417529"/>
+    <nd ref="1499446408"/>
+    <nd ref="1499446407"/>
+    <nd ref="1499446399"/>
+    <nd ref="1499446397"/>
+    <nd ref="1499446395"/>
+    <nd ref="249417653"/>
+    <nd ref="1499446410"/>
+    <nd ref="249417593"/>
+    <nd ref="7747857662"/>
+    <nd ref="249417544"/>
+    <tag k="addr:postcode" v="CB23 3XQ"/>
+    <tag k="addr:street" v="Varrier Jones Drive"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="420"/>
+    <tag k="isced:level" v="0;1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Pendragon Community Primary School"/>
+    <tag k="phone" v="+44 1480 830267"/>
+    <tag k="ref:GB:uprn" v="10003187406"/>
+    <tag k="ref:edubase" v="110617"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://pendragon.eschools.co.uk/"/>
+    <tag k="wikidata" v="Q66223505"/>
+  </way>
   <way id="258697625" version="2" timestamp="2023-06-04T22:25:39Z" changeset="136949687" uid="3999" user="BarryMyles">
     <nd ref="2640216754"/>
     <nd ref="2640216891"/>

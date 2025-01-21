@@ -1,8 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:16:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:28:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="26913003" lat="52.1154235" lon="0.1699677" version="3" timestamp="2019-03-11T15:19:43Z" changeset="68026414" uid="281267" user="smb1001">
+    <tag k="addr:postcode" v="CB22 3HU"/>
+    <tag k="addr:street" v="London Road"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="name" v="Sawston Medical Centre"/>
+  </node>
+  <node id="36418168" lat="52.1205358" lon="0.1689719" version="4" timestamp="2023-07-18T21:14:26Z" changeset="138688072" uid="18573" user="Stephen Paulger">
+    <tag k="addr:city" v="Sawston"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:postcode" v="CB22 3HJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="White Lion"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="wikidata" v="Q26420913"/>
+  </node>
+  <node id="1619056266" lat="52.1233607" lon="0.1698123" version="9" timestamp="2024-07-15T16:01:25Z" changeset="153979415" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Sawston"/>
+    <tag k="addr:housenumber" v="28-31"/>
+    <tag k="addr:postcode" v="CB22 3BG"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="The Co-operative Food"/>
+    <tag k="brand:wikidata" v="Q107617274"/>
+    <tag k="brand:wikipedia" v="en:Co-op Food"/>
+    <tag k="check_date" v="2024-07-15"/>
+    <tag k="check_date:opening_hours" v="2024-07-15"/>
+    <tag k="fhrs:id" v="596656"/>
+    <tag k="name" v="The Co-operative Food"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-22:00; Su 10:00-16:00"/>
+    <tag k="operator" v="Central England Co-operative"/>
+    <tag k="operator:wikidata" v="Q16986583"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://stores.centralengland.coop/cambridgeshire/cambridge/29-31-high-st"/>
+  </node>
+  <node id="2411800117" lat="52.1222186" lon="0.1699689" version="8" timestamp="2024-11-07T11:22:10Z" changeset="158851456" uid="10554793" user="dstansby">
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2024-11-07"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Sweet Tea"/>
+    <tag k="opening_hours" v="Jan-Dec: Mo-Fr 07:30-15:00; Sa 07:30-14:00"/>
+    <tag k="phone" v="+44 1223 833992"/>
+  </node>
+  <node id="5278627421" lat="52.1224360" lon="0.1644805" version="6" timestamp="2022-07-20T09:36:18Z" changeset="123842243" uid="10735362" user="BisheyBishop">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Town Close Park"/>
+    <tag k="addr:street" v="Mill Lane"/>
+    <tag k="addr:village" v="Sawston"/>
+    <tag k="amenity" v="bench"/>
+    <tag k="backrest" v="yes"/>
+    <tag k="description" v="Town Close Bench"/>
+    <tag k="inscription" v="Dedicated to Town Close"/>
+    <tag k="name" v="Bench in Town Close Park"/>
+  </node>
+  <node id="6331214559" lat="52.1155188" lon="0.1701291" version="1" timestamp="2019-03-11T15:19:43Z" changeset="68026414" uid="281267" user="smb1001">
+    <tag k="addr:postcode" v="CB22 3HU"/>
+    <tag k="addr:street" v="London Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Granta Pharmacy"/>
+  </node>
+  <way id="5204383" version="18" timestamp="2024-06-09T22:51:55Z" changeset="152473349" uid="5173844" user="ndrw6">
+    <nd ref="36418036"/>
+    <nd ref="1860231658"/>
+    <nd ref="36418052"/>
+    <nd ref="2911046415"/>
+    <nd ref="7539030993"/>
+    <nd ref="36418054"/>
+    <nd ref="5838990693"/>
+    <nd ref="11967851787"/>
+    <nd ref="1382881706"/>
+    <nd ref="11061717194"/>
+    <nd ref="11061717195"/>
+    <nd ref="11061717196"/>
+    <nd ref="11061717198"/>
+    <nd ref="11967851775"/>
+    <nd ref="11967851777"/>
+    <nd ref="11967851776"/>
+    <nd ref="1382881890"/>
+    <nd ref="2954327790"/>
+    <nd ref="11967851549"/>
+    <nd ref="2911046422"/>
+    <nd ref="11967850789"/>
+    <nd ref="2911046419"/>
+    <nd ref="36418037"/>
+    <nd ref="36418034"/>
+    <nd ref="8423764604"/>
+    <nd ref="3602744828"/>
+    <nd ref="36418035"/>
+    <nd ref="36418036"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB22 3BP"/>
+    <tag k="addr:street" v="New Road"/>
+    <tag k="addr:village" v="Sawston"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="1140"/>
+    <tag k="isced:level" v="2"/>
+    <tag k="max_age" v="16"/>
+    <tag k="min_age" v="11"/>
+    <tag k="name" v="Sawston Village College"/>
+    <tag k="phone" v="+44 1223 712777"/>
+    <tag k="ref:GB:uprn" v="100091414875"/>
+    <tag k="ref:edubase" v="136775"/>
+    <tag k="ref:edubase:group" v="16031"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Anglian Learning"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.sawstonvc.org/"/>
+    <tag k="wikidata" v="Q7428684"/>
+    <tag k="wikipedia" v="en:Sawston Village College"/>
+  </way>
+  <way id="5204401" version="7" timestamp="2024-06-11T17:37:36Z" changeset="152554380" uid="5173844" user="ndrw6">
+    <nd ref="36418113"/>
+    <nd ref="11973555062"/>
+    <nd ref="11973555061"/>
+    <nd ref="36417699"/>
+    <nd ref="1420805279"/>
+    <nd ref="1420805287"/>
+    <nd ref="1420805291"/>
+    <nd ref="36418110"/>
+    <nd ref="1420805306"/>
+    <nd ref="36418111"/>
+    <nd ref="36418112"/>
+    <nd ref="36418113"/>
+    <tag k="addr:postcode" v="CB22 3GB"/>
+    <tag k="addr:street" v="Link Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="420"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="The Bellbird Primary School"/>
+    <tag k="phone" v="+44 1223 833216"/>
+    <tag k="ref:GB:uprn" v="10033028544"/>
+    <tag k="ref:edubase" v="135132"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://www.thebellbird.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q66228833"/>
+  </way>
   <way id="299528390" version="5" timestamp="2019-02-04T10:43:57Z" changeset="66899076" uid="5173844" user="ndrw6">
     <nd ref="3035292472"/>
     <nd ref="3035292473"/>

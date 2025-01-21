@@ -1,8 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:53:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:19:16Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="5911347024" lat="52.3114481" lon="0.3901772" version="3" timestamp="2022-05-14T17:37:38Z" changeset="120987711" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Victoria Hall"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB7 5NG"/>
+    <tag k="addr:street" v="Carter Street"/>
+    <tag k="addr:village" v="Fordham"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="fixme" v="Check precise location within hall"/>
+    <tag k="name" v="Fordham Post Office"/>
+    <tag k="opening_hours" v="Mo,Th 14:00-16:00"/>
+    <tag k="ref:pol_id" v="90119"/>
+    <tag k="source" v="pol_branch_list_2018-02"/>
+  </node>
+  <node id="10230452305" lat="52.3109140" lon="0.3929314" version="2" timestamp="2023-04-23T18:34:47Z" changeset="135273319" uid="17434095" user="Lightning Checkout">
+    <tag k="addr:city" v="Fordham"/>
+    <tag k="addr:postcode" v="CB7 5NJ"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="check_date:currency:XBT" v="2023-04-23"/>
+    <tag k="contact:twitter" v="@pierrevnortje"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="pierrevnortje@aol.com"/>
+    <tag k="name" v="BWP Productions"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="online_shop"/>
+    <tag k="website" v="https://bwp.productions"/>
+  </node>
+  <node id="11909266430" lat="52.2871581" lon="0.3990363" version="1" timestamp="2024-05-16T07:24:48Z" changeset="151393353" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:place" v="Lynx Business Park"/>
+    <tag k="addr:postcode" v="CB8 7NY"/>
+    <tag k="addr:street" v="Fordham Road"/>
+    <tag k="addr:unit" v="3"/>
+    <tag k="addr:village" v="Snailwell"/>
+    <tag k="name" v="Fordham Fine Foods"/>
+    <tag k="office" v="yes"/>
+    <tag k="website" v="https://www.fordhamfinefoods.co.uk/"/>
+  </node>
   <way id="220607181" version="3" timestamp="2018-09-17T09:58:46Z" changeset="62659064" uid="84263" user="Robert Whittaker">
     <nd ref="2297082659"/>
     <nd ref="5911340607"/>

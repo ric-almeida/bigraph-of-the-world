@@ -1,8 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:57:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:20:16Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="1366096164" lat="52.5312050" lon="-0.3984755" version="2" timestamp="2022-03-06T13:37:08Z" changeset="118159305" uid="7630" user="LivingWithDragons">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Middle Street"/>
+    <tag k="name" v="Elton Village Store"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="GPS waypoint"/>
+  </node>
+  <node id="9558299679" lat="52.5300664" lon="-0.3955738" version="1" timestamp="2022-03-06T13:37:08Z" changeset="118159305" uid="7630" user="LivingWithDragons">
+    <tag k="addr:housenumber" v="6a"/>
+    <tag k="addr:street" v="Overend"/>
+    <tag k="name" v="Church View House"/>
+    <tag k="survey:date" v="2022-01-30"/>
+  </node>
+  <node id="9558299682" lat="52.5310617" lon="-0.3978803" version="1" timestamp="2022-03-06T13:37:08Z" changeset="118159305" uid="7630" user="LivingWithDragons">
+    <tag k="addr:housenumber" v="3a"/>
+    <tag k="addr:street" v="Middle Street"/>
+    <tag k="name" v="Potters Barn"/>
+    <tag k="survey:date" v="2022-01-30"/>
+  </node>
+  <node id="9558299686" lat="52.5314100" lon="-0.3994448" version="1" timestamp="2022-03-06T13:37:08Z" changeset="118159305" uid="7630" user="LivingWithDragons">
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Middle Street"/>
+    <tag k="name" v="The Angel House"/>
+    <tag k="survey:date" v="2022-01-30"/>
+  </node>
+  <node id="9558299687" lat="52.5321889" lon="-0.4019256" version="1" timestamp="2022-03-06T13:37:08Z" changeset="118159305" uid="7630" user="LivingWithDragons">
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Middle Street"/>
+    <tag k="name" v="Mill House"/>
+    <tag k="survey:date" v="2022-01-30"/>
+  </node>
+  <node id="9558299689" lat="52.5330557" lon="-0.4003034" version="1" timestamp="2022-03-06T13:37:08Z" changeset="118159305" uid="7630" user="LivingWithDragons">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Duck Street"/>
+    <tag k="name" v="Willowbrook Cottage"/>
+    <tag k="survey:date" v="2022-01-30"/>
+  </node>
+  <node id="9558299694" lat="52.5340839" lon="-0.3999430" version="1" timestamp="2022-03-06T13:37:08Z" changeset="118159305" uid="7630" user="LivingWithDragons">
+    <tag k="addr:street" v="Duck Street"/>
+    <tag k="name" v="Crane House"/>
+    <tag k="survey:date" v="2022-01-30"/>
+  </node>
+  <node id="9558299695" lat="52.5341532" lon="-0.3998389" version="1" timestamp="2022-03-06T13:37:08Z" changeset="118159305" uid="7630" user="LivingWithDragons">
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Duck Street"/>
+    <tag k="name" v="Waddle End"/>
+    <tag k="survey:date" v="2022-01-30"/>
+  </node>
   <way id="492744163" version="3" timestamp="2024-08-10T20:55:06Z" changeset="155078312" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="1366096089"/>
     <nd ref="4847277418"/>
@@ -23,5 +71,32 @@
     <tag k="source" v="GPS waypoint"/>
     <tag k="website" v="http://www.eltonmethodist.org/"/>
   </way>
+  <relation id="6037462" version="4" timestamp="2022-05-06T16:55:28Z" changeset="120639352" uid="242345" user="confusedbuffalo">
+    <member type="way" ref="127075920" role="outer"/>
+    <member type="way" ref="402676334" role="outer"/>
+    <tag k="addr:city" v="Peterborough"/>
+    <tag k="addr:place" v="Elton"/>
+    <tag k="addr:postcode" v="PE8 6RS"/>
+    <tag k="addr:street" v="School Lane"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="140"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="diocese" v="Diocese of Ely"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="5"/>
+    <tag k="name" v="Elton Church of England Primary School"/>
+    <tag k="phone" v="+44 1832 280314"/>
+    <tag k="ref:GB:uprn" v="100091536111"/>
+    <tag k="ref:edubase" v="110847"/>
+    <tag k="religion" v="christian"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="voluntary_aided"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="https://www.elton.cambs.sch.uk/"/>
+  </relation>
 
 </osm>

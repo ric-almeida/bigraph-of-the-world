@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:07:10Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:24:23Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="339681409" lat="52.3172980" lon="-0.1746590" version="8" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housename" v="Surgery"/>
+    <tag k="addr:housenumber" v="1a"/>
+    <tag k="addr:postcode" v="PE29 2JH"/>
+    <tag k="addr:street" v="Pinfold Lane"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="healthcare:speciality" v="general"/>
+    <tag k="name" v="Roman Gate Surgery"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:00,14:00-18:00"/>
+    <tag k="operator" v="The Hicks Group"/>
+    <tag k="phone" v="+441480 455331"/>
+    <tag k="website" v="https://www.charleshicksmedicalcentre.nhs.uk/"/>
+  </node>
+  <node id="339681420" lat="52.3190562" lon="-0.1733906" version="5" timestamp="2024-01-17T12:04:01Z" changeset="146361124" uid="10420541" user="Thingummy">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="PE29 2AY"/>
+    <tag k="addr:street" v="Cambridge Street"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="418696"/>
+    <tag k="name" v="The Comrades Club"/>
+  </node>
+  <node id="339681422" lat="52.3186614" lon="-0.1750436" version="5" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="PE29 2HA"/>
+    <tag k="addr:street" v="The Causeway"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="340955"/>
+    <tag k="name" v="The Royal Oak"/>
+    <tag k="wikidata" v="Q26455145"/>
+  </node>
+  <node id="339681424" lat="52.3185818" lon="-0.1750093" version="7" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="PE29 2HA"/>
+    <tag k="addr:street" v="The Causeway"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger;fish_and_chips;kebab"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="1297410"/>
+    <tag k="name" v="Riverside Fish &amp; Chips"/>
+    <tag k="post:city" v="Huntingdon"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="339681425" lat="52.3178606" lon="-0.1749064" version="6" timestamp="2024-09-16T18:43:36Z" changeset="156701170" uid="21425661" user="CjMalone">
+    <tag k="addr:district" v="Huntingdon"/>
+    <tag k="addr:street" v="Causeway"/>
+    <tag k="addr:town" v="Godmanchester"/>
+    <tag k="brand" v="One Stop"/>
+    <tag k="brand:wikidata" v="Q65954217"/>
+    <tag k="check_date" v="2023-05-30"/>
+    <tag k="name" v="One Stop"/>
+    <tag k="old_addr:street" v="The Causeway"/>
+    <tag k="post:city" v="Huntingdon"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="339681578" lat="52.3203197" lon="-0.1757626" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="PE29 2BA"/>
+    <tag k="addr:street" v="Post Street"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="fhrs:id" v="341234"/>
+    <tag k="name" v="Cinta"/>
+  </node>
+  <node id="4319288072" lat="52.3006448" lon="-0.1864042" version="2" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LD"/>
+    <tag k="addr:street" v="Offord Road"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="name" v="Wyboston Farm"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="4323280393" lat="52.2942265" lon="-0.1562897" version="2" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LJ"/>
+    <tag k="addr:street" v="London Road"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="name" v="Depden Farm"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="4324894668" lat="52.2882615" lon="-0.1518664" version="2" timestamp="2024-04-28T17:22:06Z" changeset="150628902" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9PA"/>
+    <tag k="addr:street" v="Ermine Street"/>
+    <tag k="name" v="Depden Lodge Farm"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="6211196143" lat="52.3122618" lon="-0.1632954" version="9" timestamp="2024-04-09T08:47:50Z" changeset="149765403" uid="10420541" user="Thingummy">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housename" v="King James Retail Centre"/>
+    <tag k="addr:postcode" v="PE29 2PA"/>
+    <tag k="addr:street" v="Ermine Street"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="addr:unit" v="4"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="fish_and_chips"/>
+    <tag k="fhrs:id" v="1060902"/>
+    <tag k="name" v="Rumbles Fish Bar"/>
+  </node>
+  <node id="10940545744" lat="52.3178687" lon="-0.1748291" version="4" timestamp="2024-08-28T13:04:31Z" changeset="155879632" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2HA"/>
+    <tag k="addr:street" v="Causeway"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="check_date" v="2013-07-14"/>
+    <tag k="name" v="Godmanchester Post Office"/>
+    <tag k="operator" v="One Stop"/>
+    <tag k="operator:wikidata" v="Q65954217"/>
+    <tag k="ref:pol_id" v="11477"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/2862301/godmanchester"/>
+  </node>
+  <way id="28560854" version="13" timestamp="2024-12-29T23:41:26Z" changeset="160771676" uid="10420541" user="Thingummy">
+    <nd ref="313751998"/>
+    <nd ref="313752007"/>
+    <nd ref="313751999"/>
+    <nd ref="313752000"/>
+    <nd ref="313752002"/>
+    <nd ref="313752003"/>
+    <nd ref="10827041184"/>
+    <nd ref="313752005"/>
+    <nd ref="313751998"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2WW"/>
+    <tag k="addr:street" v="London Road"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="school"/>
+    <tag k="fhrs:id" v="1083862"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="name" v="St Anne's Church of England Primary School"/>
+    <tag k="ref:edubase" v="131238"/>
+    <tag k="wikidata" v="Q67149306"/>
+  </way>
   <way id="30713608" version="20" timestamp="2024-05-26T06:46:48Z" changeset="151837669" uid="322785" user="BCNorwich">
     <nd ref="339681429"/>
     <nd ref="6997591038"/>
@@ -73,6 +219,22 @@
     <tag k="ref:GB:nhle" v="1128566"/>
     <tag k="website" v="https://gmccouncil.com/council-services/hall-hire/"/>
   </way>
+  <way id="98352312" version="6" timestamp="2016-08-08T14:13:14Z" changeset="41325453" uid="2983218" user="LovenOutdoors">
+    <nd ref="1137853403"/>
+    <nd ref="1137853405"/>
+    <nd ref="1137853393"/>
+    <nd ref="1137853409"/>
+    <nd ref="1137853419"/>
+    <nd ref="1137853411"/>
+    <nd ref="1137853414"/>
+    <nd ref="1137853415"/>
+    <nd ref="1137853403"/>
+    <tag k="addr:city" v="Godmanchester"/>
+    <tag k="addr:street" v="Cow Lane"/>
+    <tag k="man_made" v="wastewater_plant"/>
+    <tag k="name" v="Waste Water Works"/>
+    <tag k="source" v="Bing local knowledge"/>
+  </way>
   <way id="98780125" version="5" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
     <nd ref="1142792081"/>
     <nd ref="1142792077"/>
@@ -97,6 +259,34 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="The College of Animal Welfare"/>
     <tag k="office" v="educational_institution"/>
+  </way>
+  <way id="98780129" version="9" timestamp="2024-01-15T21:04:46Z" changeset="146298083" uid="16586381" user="KasperSFranz">
+    <nd ref="1142792074"/>
+    <nd ref="1142792112"/>
+    <nd ref="1142792091"/>
+    <nd ref="1142792099"/>
+    <nd ref="1142792094"/>
+    <nd ref="1507321019"/>
+    <nd ref="1142792046"/>
+    <nd ref="1142792056"/>
+    <nd ref="10958497966"/>
+    <nd ref="1142792108"/>
+    <nd ref="1142792074"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housename" v="King's Bush Farm"/>
+    <tag k="addr:postcode" v="PE29 2NH"/>
+    <tag k="addr:street" v="London Road"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="animal_shelter"/>
+    <tag k="animal_shelter" v="dog:cat;wildlife"/>
+    <tag k="animal_shelter:adoption" v="yes"/>
+    <tag k="animal_shelter:sanctuary" v="yes"/>
+    <tag k="name" v="Wood Green Animal Shelter"/>
+    <tag k="operator:type" v="charitable"/>
+    <tag k="phone" v="+44 300 303 9333"/>
+    <tag k="website" v="https://www.woodgreen.org.uk/about/visit_us/godmanchester"/>
+    <tag k="wikidata" v="Q8032207"/>
+    <tag k="wikipedia" v="en:Woodgreen Pets Charity"/>
   </way>
   <way id="106688969" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
     <nd ref="1227197784"/>
@@ -212,6 +402,24 @@
     <tag k="building" v="terrace"/>
     <tag k="name" v="bridge terrace"/>
   </way>
+  <way id="137338565" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <nd ref="1506587927"/>
+    <nd ref="1506587922"/>
+    <nd ref="1506587925"/>
+    <nd ref="1506587928"/>
+    <nd ref="1506587921"/>
+    <nd ref="1506587926"/>
+    <nd ref="1506587924"/>
+    <nd ref="1506587919"/>
+    <nd ref="1506587927"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LD"/>
+    <tag k="addr:street" v="Offord Road"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Corpus Christi Farm"/>
+    <tag k="source" v="bing"/>
+  </way>
   <way id="162072815" version="10" timestamp="2024-07-15T22:33:09Z" changeset="153991674" uid="21425661" user="CjMalone">
     <nd ref="1740176940"/>
     <nd ref="1740176954"/>
@@ -241,6 +449,35 @@
     <tag k="phone" v="+44 1480 433139"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.coop.co.uk/store-finder/PE29-2BT/32-cambridge-road"/>
+  </way>
+  <way id="162580115" version="5" timestamp="2024-11-02T22:54:34Z" changeset="158679950" uid="10420541" user="Thingummy">
+    <nd ref="1744416851"/>
+    <nd ref="9241440546"/>
+    <nd ref="1744416835"/>
+    <nd ref="7477140837"/>
+    <nd ref="7477140836"/>
+    <nd ref="7477140831"/>
+    <nd ref="7477140833"/>
+    <nd ref="7477140841"/>
+    <nd ref="12308310487"/>
+    <nd ref="12308310486"/>
+    <nd ref="6650384988"/>
+    <nd ref="7477140843"/>
+    <nd ref="7477140842"/>
+    <nd ref="9241440538"/>
+    <nd ref="1744416853"/>
+    <nd ref="6650375461"/>
+    <nd ref="9241440537"/>
+    <nd ref="6650384990"/>
+    <nd ref="6650384991"/>
+    <nd ref="1744416851"/>
+    <tag k="addr:city" v="Godmanchester Huntingdon"/>
+    <tag k="addr:street" v="Betts Close"/>
+    <tag k="landuse" v="grass"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Buttermel Meadow"/>
+    <tag k="operator" v="Godmanchester Town Council"/>
+    <tag k="operator:type" v="council"/>
   </way>
   <way id="163694205" version="3" timestamp="2019-01-02T21:58:15Z" changeset="65972342" uid="364" user="Edward">
     <nd ref="1753742081"/>
@@ -360,6 +597,28 @@
     <tag k="name" v="Ducklings"/>
     <tag k="start_date" v="~1900"/>
   </way>
+  <way id="230277127" version="3" timestamp="2023-09-11T00:26:20Z" changeset="141085535" uid="10420541" user="Thingummy">
+    <nd ref="2387992755"/>
+    <nd ref="306561930"/>
+    <nd ref="2387992689"/>
+    <nd ref="2387992712"/>
+    <nd ref="2387992765"/>
+    <nd ref="1149035665"/>
+    <nd ref="2387992758"/>
+    <nd ref="2387992726"/>
+    <nd ref="2387992702"/>
+    <nd ref="2387992754"/>
+    <nd ref="2387992799"/>
+    <nd ref="2387992747"/>
+    <nd ref="2387992755"/>
+    <tag k="addr:city" v="Godmanchester"/>
+    <tag k="addr:parentstreet" v="The Avenue"/>
+    <tag k="addr:street" v="Park Lane"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="Park Lane Meadows"/>
+    <tag k="residential" v="trailer_park"/>
+  </way>
   <way id="230961758" version="3" timestamp="2024-12-03T11:22:46Z" changeset="159876685" uid="10420541" user="Thingummy">
     <nd ref="2393851108"/>
     <nd ref="2393851131"/>
@@ -442,6 +701,167 @@
     <tag k="amenity" v="childcare"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Grove Villa"/>
+  </way>
+  <way id="337346200" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <nd ref="3444437030"/>
+    <nd ref="3444437031"/>
+    <nd ref="3444437032"/>
+    <nd ref="3444437033"/>
+    <nd ref="3444437059"/>
+    <nd ref="3444437060"/>
+    <nd ref="3444437034"/>
+    <nd ref="3444437030"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2EL"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Harcourt Farm"/>
+  </way>
+  <way id="337350780" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <nd ref="3444472811"/>
+    <nd ref="3507098253"/>
+    <nd ref="3444472812"/>
+    <nd ref="4321317834"/>
+    <nd ref="4321317844"/>
+    <nd ref="3444472813"/>
+    <nd ref="3444472814"/>
+    <nd ref="3444472815"/>
+    <nd ref="3444472816"/>
+    <nd ref="4321317847"/>
+    <nd ref="4321317848"/>
+    <nd ref="3444472811"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LH"/>
+    <tag k="addr:street" v="London Road"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Bleakley Farm"/>
+  </way>
+  <way id="343922908" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <nd ref="4319288034"/>
+    <nd ref="4319288033"/>
+    <nd ref="3507077958"/>
+    <nd ref="3507077959"/>
+    <nd ref="9140678092"/>
+    <nd ref="9140678093"/>
+    <nd ref="4319288032"/>
+    <nd ref="4319288034"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LD"/>
+    <tag k="addr:street" v="Offord Hill"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Offord Hill Farm"/>
+  </way>
+  <way id="343924743" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <nd ref="3507093284"/>
+    <nd ref="3507094876"/>
+    <nd ref="3507093285"/>
+    <nd ref="3507093286"/>
+    <nd ref="3507093287"/>
+    <nd ref="3507093284"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LG"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Lower Debden Farm"/>
+  </way>
+  <way id="343926438" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
+    <nd ref="3507096448"/>
+    <nd ref="3507096449"/>
+    <nd ref="3507096450"/>
+    <nd ref="3507096451"/>
+    <nd ref="3507096448"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LJ"/>
+    <tag k="addr:street" v="London Road"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Beaconfield Equine Centre"/>
+  </way>
+  <way id="343927319" version="5" timestamp="2024-12-25T17:08:42Z" changeset="160611193" uid="5173844" user="ndrw6">
+    <nd ref="12451438942"/>
+    <nd ref="12451439026"/>
+    <nd ref="3507109538"/>
+    <nd ref="3507109539"/>
+    <nd ref="8901513346"/>
+    <nd ref="3507109548"/>
+    <nd ref="8901513344"/>
+    <nd ref="3507109540"/>
+    <nd ref="3507109541"/>
+    <nd ref="8901513335"/>
+    <nd ref="8901513336"/>
+    <nd ref="8901513337"/>
+    <nd ref="8901513338"/>
+    <nd ref="12451438938"/>
+    <nd ref="12451438937"/>
+    <nd ref="12451438942"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LG"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="addr:village" v="Godmanchester"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Debden Top Farm"/>
+  </way>
+  <way id="433294951" version="7" timestamp="2024-09-03T18:12:04Z" changeset="156154279" uid="10420541" user="Thingummy">
+    <nd ref="10958503352"/>
+    <nd ref="10958503353"/>
+    <nd ref="10958503355"/>
+    <nd ref="10958505218"/>
+    <nd ref="10958505221"/>
+    <nd ref="10958505222"/>
+    <nd ref="10958505220"/>
+    <nd ref="10958503354"/>
+    <nd ref="4321317132"/>
+    <nd ref="4321317134"/>
+    <nd ref="4321317135"/>
+    <nd ref="4321317136"/>
+    <nd ref="4321317137"/>
+    <nd ref="5486462354"/>
+    <nd ref="4321317139"/>
+    <nd ref="5486462355"/>
+    <nd ref="10958503352"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LF"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Clyde Farm"/>
+  </way>
+  <way id="562887729" version="15" timestamp="2024-09-17T00:36:07Z" changeset="156709536" uid="21226027" user="DorneyLake123">
+    <nd ref="5425470579"/>
+    <nd ref="9553066893"/>
+    <nd ref="9553066895"/>
+    <nd ref="9553066894"/>
+    <nd ref="12151927777"/>
+    <nd ref="12151927779"/>
+    <nd ref="6213930256"/>
+    <nd ref="12151927784"/>
+    <nd ref="6514070895"/>
+    <nd ref="5425470582"/>
+    <nd ref="12151927790"/>
+    <nd ref="12151927791"/>
+    <nd ref="12151927792"/>
+    <nd ref="12151927793"/>
+    <nd ref="12151927794"/>
+    <nd ref="5425470579"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE29 2NL"/>
+    <tag k="addr:street" v="Butcher Drive"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="315"/>
+    <tag k="fhrs:id" v="1022668"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Godmanchester Bridge Academy"/>
+    <tag k="ref:edubase" v="141690"/>
+    <tag k="website" v="https://www.godmanchesterbridge.co.uk"/>
+    <tag k="wikidata" v="Q66230971"/>
   </way>
   <way id="563684903" version="8" timestamp="2024-09-02T17:00:00Z" changeset="156108280" uid="10420541" user="Thingummy">
     <nd ref="5431797250"/>
@@ -603,6 +1023,27 @@
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://stores.centralengland.coop/cambridgeshire/godmanchester/king-james-retail-centre"/>
   </way>
+  <way id="995647765" version="7" timestamp="2024-09-07T15:17:47Z" changeset="156317464" uid="10420541" user="Thingummy">
+    <nd ref="2384421577"/>
+    <nd ref="12162016711"/>
+    <nd ref="12162016714"/>
+    <nd ref="6650500452"/>
+    <nd ref="6650500435"/>
+    <nd ref="6650500433"/>
+    <nd ref="9571926574"/>
+    <nd ref="9571926573"/>
+    <nd ref="12162016715"/>
+    <nd ref="2384421577"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2AG"/>
+    <tag k="addr:street" v="Park Lane"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="alt_name" v="Huntingdonshire community plant and tree nursery"/>
+    <tag k="landuse" v="plant_nursery"/>
+    <tag k="name" v="Godmanchester Community Pant Nursery"/>
+    <tag k="operator" v="Godmanchester Town Council"/>
+    <tag k="shop" v="yes"/>
+  </way>
   <way id="1130165610" version="3" timestamp="2024-04-19T12:21:59Z" changeset="150221212" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="10490244945"/>
     <nd ref="11806716955"/>
@@ -681,6 +1122,25 @@
     <tag k="historic:period" v="tudor"/>
     <tag k="name" v="The Limes"/>
   </way>
+  <way id="1221984643" version="4" timestamp="2024-02-16T21:57:40Z" changeset="147550423" uid="10420541" user="Thingummy">
+    <nd ref="5486678903"/>
+    <nd ref="5486678904"/>
+    <nd ref="5486678905"/>
+    <nd ref="5486678906"/>
+    <nd ref="5486678901"/>
+    <nd ref="5486678902"/>
+    <nd ref="5486678903"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="Jundith's Field Hall"/>
+    <tag k="addr:postcode" v="PE29 2WB"/>
+    <tag k="addr:street" v="London Road"/>
+    <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="events_venue"/>
+    <tag k="building:material" v="brick"/>
+    <tag k="name" v="Judith's Field Hall"/>
+    <tag k="operator" v="Godmanchester Town Council"/>
+    <tag k="website" v="https://gmccouncil.com/council-services/hall-hire/"/>
+  </way>
   <way id="1224873954" version="2" timestamp="2024-04-08T18:01:22Z" changeset="149746635" uid="10420541" user="Thingummy">
     <nd ref="11802644973"/>
     <nd ref="11359055698"/>
@@ -711,6 +1171,23 @@
     <tag k="name" v="Bee's Barber"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="http://www.beesbarbers.com"/>
+  </way>
+  <way id="1346193338" version="1" timestamp="2024-12-25T17:08:42Z" changeset="160611193" uid="5173844" user="ndrw6">
+    <nd ref="12451368396"/>
+    <nd ref="12451438901"/>
+    <nd ref="12451368400"/>
+    <nd ref="12451368399"/>
+    <nd ref="12451438905"/>
+    <nd ref="12451438904"/>
+    <nd ref="12451438903"/>
+    <nd ref="12451368397"/>
+    <nd ref="12451368396"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9PA"/>
+    <tag k="addr:street" v="Ermine Street"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Depden Lodge Farm"/>
   </way>
   <way id="1350019911" version="2" timestamp="2025-01-14T14:38:19Z" changeset="161347704" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="12488709289"/>

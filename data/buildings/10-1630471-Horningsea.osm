@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:12:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:26:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="521842955" lat="52.2376376" lon="0.1865846" version="9" timestamp="2022-05-17T16:37:39Z" changeset="121109288" uid="12424494" user="lovelyfurball88">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Orchard Mobility"/>
+    <tag k="addr:housenumber" v="Scotsdales"/>
+    <tag k="addr:postcode" v="CB25 9JG"/>
+    <tag k="addr:street" v="High Street, Horningsea"/>
+    <tag k="name" v="Orchard Mobility"/>
+    <tag k="opening_hours" v="Mo-Sa 09:30-16:00"/>
+    <tag k="operator" v="Orchard Mobility"/>
+    <tag k="phone" v="+44 1223 863908"/>
+    <tag k="shop" v="mobility_aids"/>
+    <tag k="website" v="http://www.orchard-mobility.co.uk"/>
+  </node>
   <way id="136393847" version="5" timestamp="2021-01-02T23:49:11Z" changeset="96830513" uid="5173844" user="ndrw6">
     <nd ref="8285229170"/>
     <nd ref="1496211623"/>
@@ -77,6 +90,20 @@
     <tag k="toilets" v="yes"/>
     <tag k="website" v="https://ploughandfleece.co.uk"/>
     <tag k="website:menu" v="https://ploughandfleece.co.uk/menu/"/>
+  </way>
+  <way id="938356959" version="1" timestamp="2021-05-03T10:23:58Z" changeset="104044454" uid="281267" user="smb1001">
+    <nd ref="8693242993"/>
+    <nd ref="8693243003"/>
+    <nd ref="8420901020"/>
+    <nd ref="8285229103"/>
+    <nd ref="8285229104"/>
+    <nd ref="8693243007"/>
+    <nd ref="2282324864"/>
+    <nd ref="8693242993"/>
+    <tag k="addr:postcode" v="CB25 9JE"/>
+    <tag k="addr:street" v="Clayhithe Road"/>
+    <tag k="name" v="Gayton Farm"/>
+    <tag k="tourism" v="caravan_site"/>
   </way>
 
 </osm>

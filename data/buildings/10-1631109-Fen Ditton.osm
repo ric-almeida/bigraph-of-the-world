@@ -1,8 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:12:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:26:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="3787321259" lat="52.2113434" lon="0.1769658" version="5" timestamp="2024-11-10T20:31:57Z" changeset="158984660" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="699"/>
+    <tag k="addr:postcode" v="CB5 8SQ"/>
+    <tag k="addr:street" v="Newmarket Road"/>
+    <tag k="brand" v="Seat"/>
+    <tag k="brand:wikidata" v="Q188217"/>
+    <tag k="name" v="Marshall Seat"/>
+    <tag k="operator" v="Marshall"/>
+    <tag k="shop" v="car"/>
+  </node>
+  <node id="3787321272" lat="52.2113196" lon="0.1772321" version="4" timestamp="2024-11-10T20:31:57Z" changeset="158984660" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="699"/>
+    <tag k="addr:postcode" v="CB5 8SQ"/>
+    <tag k="addr:street" v="Newmarket Road"/>
+    <tag k="brand" v="Nissan"/>
+    <tag k="brand:wikidata" v="Q20165"/>
+    <tag k="name" v="Marshall Nissan"/>
+    <tag k="operator" v="Marshall"/>
+    <tag k="shop" v="car"/>
+  </node>
+  <node id="10780099605" lat="52.2123759" lon="0.1804696" version="3" timestamp="2023-11-19T14:32:19Z" changeset="144210422" uid="16344555" user="HilaryBa">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB5 8BX"/>
+    <tag k="addr:street" v="Jubilee Square"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="baby_feeding" v="room"/>
+    <tag k="description" v="Marleigh Community Centre (and all public open space in Marleigh) is managed by The Land Trust &#x0a;0300 323 0170 (24hrs)&#x0a;log a ticket on https://thelandtrust.zendesk.com/hc/en-gb/requests/new"/>
+    <tag k="email" v="marleigh@thelandtrust.org.uk"/>
+    <tag k="name" v="Marleigh Community Centre"/>
+    <tag k="note" v="log a ticket for a maintenance issue, answer to a question or to provide feedback: https://thelandtrust.zendesk.com/hc/en-gb/requests/new"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="The Land Trust @ Marleigh"/>
+    <tag k="operator:type" v="community"/>
+    <tag k="website" v="https://v2.hallmaster.co.uk/Scheduler/View/10911?startRoom=0&amp;startView=listWeek&amp;customerView=true"/>
+  </node>
+  <node id="11246860118" lat="52.2118751" lon="0.1798604" version="1" timestamp="2023-10-07T20:17:24Z" changeset="142283149" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Marleigh Avenue"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="R3form"/>
+    <tag k="sport" v="yoga;pilates;barre"/>
+    <tag k="website" v="https://r3formstudio.co.uk/cambridge/"/>
+  </node>
+  <node id="11932470415" lat="52.2123783" lon="0.1806796" version="3" timestamp="2024-12-13T00:39:39Z" changeset="160227494" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB5 8BG"/>
+    <tag k="addr:street" v="Jubilee Square"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="description" v="Italian cafe, gelato, cakes, pizza, deli, and more."/>
+    <tag k="fhrs:id" v="1720218"/>
+    <tag k="name" v="Salento"/>
+    <tag k="opening_hours" v="Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 09:00-22:00 Su 09:00-19:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="https://www.salentosmarleigh.com/"/>
+  </node>
+  <way id="39749067" version="8" timestamp="2023-07-16T16:09:26Z" changeset="138585276" uid="242345" user="confusedbuffalo">
+    <nd ref="476509573"/>
+    <nd ref="476509574"/>
+    <nd ref="476509575"/>
+    <nd ref="476509576"/>
+    <nd ref="476509577"/>
+    <nd ref="476509578"/>
+    <nd ref="476509573"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB5 8SZ"/>
+    <tag k="addr:street" v="Horningsea Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="175"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Fen Ditton Primary School"/>
+    <tag k="phone" v="+44 1223 292342"/>
+    <tag k="ref:GB:uprn" v="10003196586"/>
+    <tag k="ref:edubase" v="145423"/>
+    <tag k="ref:edubase:group" v="16031"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Anglian Learning"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="source" v="Yahoo"/>
+    <tag k="website" v="https://www.fenditton.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q66232400"/>
+  </way>
   <way id="67191891" version="10" timestamp="2023-11-03T08:23:52Z" changeset="143562757" uid="504708" user="HillWithSmallFields">
     <nd ref="811383160"/>
     <nd ref="811383152"/>
@@ -169,6 +257,26 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Rectory"/>
     <tag k="wikidata" v="Q26420303"/>
+  </way>
+  <way id="305516915" version="2" timestamp="2022-03-20T19:50:04Z" changeset="118708720" uid="84263" user="Robert Whittaker">
+    <nd ref="3101566285"/>
+    <nd ref="3101566286"/>
+    <nd ref="3101566294"/>
+    <nd ref="3101566298"/>
+    <nd ref="1618889128"/>
+    <nd ref="1618889127"/>
+    <nd ref="1618889125"/>
+    <nd ref="1618889124"/>
+    <nd ref="1618889121"/>
+    <nd ref="3101566285"/>
+    <tag k="addr:postcode" v="CB5 8SX"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="addr:village" v="Fen Ditton"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="1432852"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="The Plough"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
   </way>
   <way id="306146151" version="6" timestamp="2024-11-10T19:02:30Z" changeset="158981719" uid="11022773" user="GeoFens">
     <nd ref="3109761469"/>

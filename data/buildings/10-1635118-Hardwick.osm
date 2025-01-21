@@ -1,8 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:23:29Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:38:40Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="32534154" lat="52.2153102" lon="0.0124001" version="4" timestamp="2022-07-05T09:25:43Z" changeset="123225353" uid="15405797" user="lovethebomb">
+    <tag k="addr:city" v="Hardwick"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:postcode" v="CB23 7QG"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="Hardwick Post Office"/>
+    <tag k="ref:pol_id" v="1127"/>
+  </node>
+  <node id="5223980421" lat="52.2157240" lon="0.0231850" version="2" timestamp="2022-10-01T16:14:51Z" changeset="126866078" uid="6476359" user="NSiecw">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB23 7QH"/>
+    <tag k="addr:street" v="Saint Neots Road"/>
+    <tag k="government" v="Driver_and_Vehicle_Standards_Agency"/>
+    <tag k="name" v="Practical Driving Test Centre in Cambridge Hardwick"/>
+    <tag k="office" v="government"/>
+  </node>
+  <node id="7546119523" lat="52.2174026" lon="0.0103211" version="1" timestamp="2020-05-21T20:18:50Z" changeset="85572345" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:postcode" v="CB23 7QJ"/>
+    <tag k="addr:street" v="Saint Neots Road"/>
+    <tag k="addr:village" v="Hardwick"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Amor"/>
+    <tag k="phone" v="+441954212648"/>
+    <tag k="website" v="https://amortraining.co.uk/"/>
+  </node>
+  <node id="7546119524" lat="52.2174248" lon="0.0101408" version="1" timestamp="2020-05-21T20:18:50Z" changeset="85572345" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:postcode" v="CB23 7QJ"/>
+    <tag k="addr:street" v="Saint Neots Road"/>
+    <tag k="addr:village" v="Hardwick"/>
+    <tag k="name" v="The Beauty Spot"/>
+    <tag k="phone" v="+441954211009"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://thebeautyspothardwick.co.uk/"/>
+  </node>
+  <node id="7546119525" lat="52.2173920" lon="0.0103869" version="1" timestamp="2020-05-21T20:18:50Z" changeset="85572345" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:postcode" v="CB23 7QJ"/>
+    <tag k="addr:street" v="Saint Neots Road"/>
+    <tag k="addr:village" v="Hardwick"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Frankies Snack Bar"/>
+    <tag k="phone" v="+441954212001"/>
+  </node>
+  <way id="4937636" version="10" timestamp="2024-04-08T15:26:30Z" changeset="149740406" uid="5173844" user="ndrw6">
+    <nd ref="11802325393"/>
+    <nd ref="11802325394"/>
+    <nd ref="32534225"/>
+    <nd ref="11802325391"/>
+    <nd ref="32534226"/>
+    <nd ref="32534223"/>
+    <nd ref="32534224"/>
+    <nd ref="32534221"/>
+    <nd ref="1745429812"/>
+    <nd ref="5277563362"/>
+    <nd ref="1745429793"/>
+    <nd ref="11802325392"/>
+    <nd ref="11802325393"/>
+    <tag k="addr:postcode" v="CB23 7RE"/>
+    <tag k="addr:street" v="Limes Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="735"/>
+    <tag k="email" v="office@hardwick.cambs.sch.uk"/>
+    <tag k="fax" v="+44 1954 210095"/>
+    <tag k="isced:level" v="0;1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="3"/>
+    <tag k="name" v="Hardwick and Cambourne Community Primary School"/>
+    <tag k="phone" v="+44 1954 210070"/>
+    <tag k="ref:GB:uprn" v="100091415927"/>
+    <tag k="ref:edubase" v="110748"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://www.hardwickandcambourneprimary.co.uk/"/>
+  </way>
   <way id="128611486" version="3" timestamp="2023-05-18T18:05:33Z" changeset="136267381" uid="3999" user="BarryMyles">
     <nd ref="1420814399"/>
     <nd ref="1420814390"/>

@@ -1,8 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:25:28Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:39:45Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="25612057" lat="52.2549151" lon="0.1041496" version="6" timestamp="2022-09-20T19:37:09Z" changeset="126436903" uid="6476359" user="NSiecw">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB24 9EP"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:village" v="Histon"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="King William IV"/>
+    <tag k="wikidata" v="Q26420307"/>
+  </node>
+  <node id="25612174" lat="52.2514410" lon="0.1082285" version="4" timestamp="2024-05-10T12:54:35Z" changeset="151145102" uid="104519" user="Rupert Swarbrick">
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Tawa Lounge"/>
+    <tag k="opening_hours" v="We,Th 08:45-22:30; Fr 08:45-23:00; Sa 09:00-23:00; Su 10:00-16:00"/>
+  </node>
+  <node id="568437482" lat="52.2517442" lon="0.1068659" version="3" timestamp="2024-05-10T18:50:41Z" changeset="151160394" uid="9088405" user="TheUKHighStreet">
+    <tag k="addr:city" v="Histon"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB24 9JD"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Well Pharmacy"/>
+    <tag k="brand:wikidata" v="Q7726524"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Well Pharmacy"/>
+    <tag k="website" v="https://www.nhs.uk/services/pharmacy/WELL/FT890"/>
+  </node>
+  <node id="1122619166" lat="52.2520504" lon="0.1059969" version="7" timestamp="2023-09-11T12:46:18Z" changeset="141111051" uid="64091" user="jong">
+    <tag k="addr:city" v="Histon"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB24 9JD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fhrs:id" v="596479"/>
+    <tag k="name" v="Barkers Bakery"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-14:00; Sa 07:30-13:00"/>
+    <tag k="shop" v="bakery"/>
+  </node>
+  <node id="1122619217" lat="52.2523638" lon="0.1054255" version="6" timestamp="2019-01-31T17:27:59Z" changeset="66809106" uid="346039" user="fitzsimons">
+    <tag k="addr:city" v="Histon"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="CB24 9JD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Thomson Webb and Corfield"/>
+  </node>
+  <node id="3428303161" lat="52.2452536" lon="0.1053768" version="4" timestamp="2019-03-25T06:53:22Z" changeset="68495059" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The Workspace"/>
+    <tag k="addr:postcode" v="CB24 9PT"/>
+    <tag k="addr:street" v="Pioneer Court, Vision Park, Histon"/>
+    <tag k="name" v="Pure Resourcing Solutions"/>
+    <tag k="office" v="company"/>
+    <tag k="phone" v="+44 1223 209888"/>
+    <tag k="website" v="https://www.prs.uk.com/contact-us/get-in-touch?office=cambridge"/>
+  </node>
+  <node id="5081135955" lat="52.2523459" lon="0.1054791" version="5" timestamp="2023-10-19T14:38:25Z" changeset="142819514" uid="4345757" user="JassKurn">
+    <tag k="addr:city" v="Histon"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="CB24 9JD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Coral"/>
+    <tag k="brand:wikidata" v="Q54621344"/>
+    <tag k="brand:wikipedia" v="en:Coral (bookmaker)"/>
+    <tag k="name" v="Coral"/>
+    <tag k="shop" v="bookmaker"/>
+  </node>
   <node id="9027165010" lat="52.2519280" lon="0.1067682" version="1" timestamp="2021-08-22T23:09:04Z" changeset="110081683" uid="64091" user="jong">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="CB24 9JD"/>
@@ -16,6 +85,61 @@
     <tag k="unisex" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="9050812746" lat="52.2520528" lon="0.1054650" version="1" timestamp="2021-08-31T11:59:12Z" changeset="110511023" uid="64091" user="jong">
+    <tag k="addr:city" v="Histon"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB24 9JD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Gin House Flowers"/>
+    <tag k="shop" v="florist"/>
+  </node>
+  <way id="4266453" version="11" timestamp="2023-08-12T16:48:10Z" changeset="139795223" uid="242345" user="confusedbuffalo">
+    <nd ref="25611931"/>
+    <nd ref="4248294385"/>
+    <nd ref="4248294388"/>
+    <nd ref="25611840"/>
+    <nd ref="4248294381"/>
+    <nd ref="4248294379"/>
+    <nd ref="4248294387"/>
+    <nd ref="4248294382"/>
+    <nd ref="25612438"/>
+    <nd ref="4248294383"/>
+    <nd ref="4248294380"/>
+    <nd ref="25612480"/>
+    <nd ref="1160400425"/>
+    <nd ref="1160400426"/>
+    <nd ref="25612555"/>
+    <nd ref="1160400428"/>
+    <nd ref="4248299025"/>
+    <nd ref="4248299029"/>
+    <nd ref="4248299027"/>
+    <nd ref="4248299028"/>
+    <nd ref="25632713"/>
+    <nd ref="25632712"/>
+    <nd ref="25612017"/>
+    <nd ref="4248294386"/>
+    <nd ref="25611931"/>
+    <tag k="addr:postcode" v="CB24 9JA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="630"/>
+    <tag k="email" v="office@histonimpington-jun.cambs.sch.uk"/>
+    <tag k="fax" v="+44 1223 712193"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Histon and Impington Brook Primary School"/>
+    <tag k="phone" v="+44 1223 712192"/>
+    <tag k="ref:GB:uprn" v="100091421589"/>
+    <tag k="ref:edubase" v="139087"/>
+    <tag k="ref:edubase:group" v="2526"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Meridian Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="http://www.histonimpington-jun.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q66229804"/>
+  </way>
   <way id="93084061" version="7" timestamp="2023-09-11T12:45:28Z" changeset="141111208" uid="64091" user="jong">
     <nd ref="1078975499"/>
     <nd ref="1078975513"/>
@@ -582,6 +706,47 @@
     <tag k="addr:street" v="Saffron Road"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Histon &amp; Impington Royal British Legion Club"/>
+  </way>
+  <way id="760391987" version="5" timestamp="2023-11-16T17:49:35Z" changeset="144106297" uid="242345" user="confusedbuffalo">
+    <nd ref="7103163996"/>
+    <nd ref="459118541"/>
+    <nd ref="10037652331"/>
+    <nd ref="10037652330"/>
+    <nd ref="10037652362"/>
+    <nd ref="10037652361"/>
+    <nd ref="10037652367"/>
+    <nd ref="10037652363"/>
+    <nd ref="10037652366"/>
+    <nd ref="7103163995"/>
+    <nd ref="10037652339"/>
+    <nd ref="10037652348"/>
+    <nd ref="7103163996"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB24 9AQ"/>
+    <tag k="addr:street" v="Glebe Way"/>
+    <tag k="addr:suburb" v="Histon"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="420"/>
+    <tag k="email" v="office@histonimpington-inf.cambs.sch.uk"/>
+    <tag k="fax" v="+44 1223 568827"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Histon and Impington Park Primary School"/>
+    <tag k="phone" v="+44 1223 568826"/>
+    <tag k="ref:GB:uprn" v="10094259106"/>
+    <tag k="ref:edubase" v="139086"/>
+    <tag k="ref:edubase:group" v="2526"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Meridian Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.parkprimary.co.uk/"/>
+    <tag k="wikidata" v="Q66229802"/>
   </way>
   <way id="978128530" version="3" timestamp="2022-09-20T21:59:12Z" changeset="126440658" uid="6476359" user="NSiecw">
     <nd ref="10040707145"/>

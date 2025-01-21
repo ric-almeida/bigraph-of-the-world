@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:14:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:27:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="96518682" lat="52.0666597" lon="0.3730752" version="2" timestamp="2024-03-03T17:41:30Z" changeset="148175841" uid="17453940" user="Hedge0850">
+    <tag k="addr:city" v="Castle Camps"/>
+    <tag k="addr:postcode" v="CB21 4SX"/>
+    <tag k="addr:street" v="Bartlow Road"/>
+    <tag k="name" v="Castle Camps Saddlery"/>
+    <tag k="opening_hours" v="Mo,Tu,Th,Fr 09:00-16:00; Su 10:00-16:00; PH off"/>
+    <tag k="shop" v="saddlery"/>
+    <tag k="website" v="http://www.castlecampssaddlery.co.uk"/>
+  </node>
+  <node id="5911394862" lat="52.0633068" lon="0.3812638" version="3" timestamp="2024-05-28T22:26:37Z" changeset="151965313" uid="8891552" user="Zomba">
+    <tag k="addr:city" v="Castle Camps"/>
+    <tag k="addr:housename" v="Outside the Village Hall"/>
+    <tag k="addr:postcode" v="CB21 4SR"/>
+    <tag k="addr:street" v="Park Lane"/>
+    <tag k="addr:village" v="Castle Camps"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="name" v="Castle Camps Mobile Service Post Office"/>
+    <tag k="opening_hours" v="Th 11:00-12:00"/>
+    <tag k="ref:pol_id" v="110230"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/7221134/castle-camps-mobile-service"/>
+  </node>
+  <node id="11688096739" lat="52.0667647" lon="0.3728386" version="1" timestamp="2024-03-03T17:41:30Z" changeset="148175841" uid="17453940" user="Hedge0850">
+    <tag k="addr:city" v="Castle Camps"/>
+    <tag k="addr:postcode" v="CB21 4SX"/>
+    <tag k="addr:street" v="Bartlow Road"/>
+    <tag k="leisure" v="horse_riding"/>
+    <tag k="name" v="Bartlow Equestrian"/>
+    <tag k="website" v="http://www.bartlowequestriancentre.co.uk"/>
+  </node>
   <way id="626147557" version="3" timestamp="2024-05-28T22:26:37Z" changeset="151965313" uid="8891552" user="Zomba">
     <nd ref="5911355786"/>
     <nd ref="5911355788"/>

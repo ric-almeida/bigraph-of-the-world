@@ -1,8 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:24:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:38:40Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="2232008418" lat="52.2689688" lon="-0.0092506" version="6" timestamp="2023-10-19T14:16:25Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:housename" v="Cambridge Services"/>
+    <tag k="addr:postcode" v="CB23 4WU"/>
+    <tag k="addr:street" v="Huntingdon Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Costa"/>
+    <tag k="brand:wikidata" v="Q608845"/>
+    <tag k="brand:wikipedia" v="en:Costa Coffee"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="1433147"/>
+    <tag k="name" v="Costa"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="2232008433" lat="52.2688526" lon="-0.0086263" version="9" timestamp="2024-05-30T18:38:28Z" changeset="152050057" uid="10420541" user="Thingummy">
+    <tag k="addr:housename" v="Cambridge Services"/>
+    <tag k="addr:postcode" v="CB23 4WU"/>
+    <tag k="addr:street" v="Huntingdon Road"/>
+    <tag k="addr:unit" v="Unit 7"/>
+    <tag k="alt_name" v="Kentucky Fried Chicken"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="KFC"/>
+    <tag k="brand:wikidata" v="Q524757"/>
+    <tag k="brand:wikipedia" v="en:KFC"/>
+    <tag k="contact:website" v="https://www.kfc.co.uk/kfc-near-me/cambridge-a14-services"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fhrs:id" v="1433010"/>
+    <tag k="name" v="KFC"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="5323215727" lat="52.2527214" lon="-0.0318392" version="3" timestamp="2019-03-06T13:59:28Z" changeset="67845624" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 4NN"/>
+    <tag k="addr:street" v="Battle Gate Road"/>
+    <tag k="addr:village" v="Boxworth"/>
+    <tag k="name" v="ADAS Boxworth"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="https://www.adas.uk/"/>
+  </node>
   <way id="68750286" version="4" timestamp="2024-12-27T20:44:38Z" changeset="160691964" uid="5542153" user="Simon Hobeck">
     <nd ref="826257925"/>
     <nd ref="826257929"/>

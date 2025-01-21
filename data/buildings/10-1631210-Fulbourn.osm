@@ -1,8 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:13:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:26:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="17708621" lat="52.1833653" lon="0.2217954" version="5" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="beer_garden" v="yes"/>
+    <tag k="description:floor" v="Tiles (I think)"/>
+    <tag k="fhrs:id" v="1775648"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Six Bells"/>
+    <tag k="operator" v="Pubmaster"/>
+    <tag k="parking" v="yes"/>
+    <tag k="real_ale" v="6 beers (varying)"/>
+    <tag k="wikidata" v="Q26457166"/>
+  </node>
+  <node id="428843044" lat="52.1835405" lon="0.2214885" version="8" timestamp="2024-07-15T22:33:06Z" changeset="153991674" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Co-op Food"/>
+    <tag k="brand:wikidata" v="Q3277439"/>
+    <tag k="brand:wikipedia" v="en:Co-op Food"/>
+    <tag k="check_date" v="2024-07-15"/>
+    <tag k="check_date:opening_hours" v="2024-07-15"/>
+    <tag k="fhrs:id" v="1432895"/>
+    <tag k="name" v="Co-op Food"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="The Co-operative Group"/>
+    <tag k="operator:wikidata" v="Q117202"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.coop.co.uk/store-finder/CB21-5DH/11-high-street"/>
+  </node>
+  <node id="428843045" lat="52.1838148" lon="0.2211349" version="3" timestamp="2022-05-28T23:33:18Z" changeset="121635573" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB21 5DH"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fhrs:id" v="1432899"/>
+    <tag k="name" v="Michael Beaumont Butchers"/>
+    <tag k="opening_hours" v="Mo off; Tu-Fr 08:00-17:30; Sa 08:00-13:00; Su off"/>
+    <tag k="phone" v="+44 1223 880955"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="start_date" v="1965"/>
+    <tag k="website" v="https://www.beaumontsbutchers.com/"/>
+  </node>
+  <node id="428843046" lat="52.1835899" lon="0.2214325" version="4" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="11b"/>
+    <tag k="addr:postcode" v="CB21 5DH"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="fhrs:id" v="1432907"/>
+    <tag k="name" v="Kirin"/>
+    <tag k="opening_hours" v="Mo off; Tu-Th 16:00-22:00; Fr-Sa 13:00-22:30; Su 16:00-22:00"/>
+    <tag k="phone" v="+44 1223 881288"/>
+  </node>
+  <node id="428843049" lat="52.1832364" lon="0.2219830" version="4" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="3-5"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza;fish_and_chips;kebab"/>
+    <tag k="diet:halal" v="yes"/>
+    <tag k="fhrs:id" v="1433784"/>
+    <tag k="name" v="Fulbourn Kebab &amp; Pizza"/>
+    <tag k="phone" v="+44 1223 882886"/>
+  </node>
+  <node id="428843051" lat="52.1835450" lon="0.2219633" version="5" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="1432909"/>
+    <tag k="name" v="Fulbourn Coffee Shop"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-17:00; Sa-Su 08:30-16:00"/>
+  </node>
+  <node id="428843052" lat="52.1840549" lon="0.2210641" version="2" timestamp="2022-05-28T23:33:18Z" changeset="121635573" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Apthorpe Street"/>
+    <tag k="fhrs:id" v="1432922"/>
+    <tag k="name" v="The Fruit Shop"/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="510772839" lat="52.1852630" lon="0.2098127" version="1" timestamp="2009-09-27T16:50:25Z" changeset="2654389" uid="3582" user="davidearl">
+    <tag k="addr:housename" v="The Gate Lodge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Hinton Road"/>
+    <tag k="name" v="The Gate Lodge"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="521577112" lat="52.1833487" lon="0.2222859" version="4" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Village Pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-13:00,14:15-18:00; Sa 09:00-13:00"/>
+    <tag k="operator" v="Avicenna"/>
+  </node>
+  <node id="521577116" lat="52.1836490" lon="0.2218205" version="3" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Antony Davis"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-16:30; Sa 10:00-13:00; Su off"/>
+    <tag k="phone" v="+44 1223 928220"/>
+    <tag k="website" v="https://www.antonydavis.co.uk/"/>
+  </node>
+  <node id="521577118" lat="52.1835982" lon="0.2218945" version="7" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fhrs:id" v="1634624"/>
+    <tag k="name" v="Stir Bakery"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-15:30; Sa 08:00-15:30; Su 08:00-14:30"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="website" v="https://www.yourstir.co.uk/locations/fulbourn/"/>
+  </node>
+  <node id="521577120" lat="52.1835807" lon="0.2219179" version="3" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="10a"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="beauty" v="tanning;nails;skin_care;hair_removal"/>
+    <tag k="name" v="Body Image"/>
+    <tag k="opening_hours" v="Mo off; Tu 10:00-16:30; We-Fr 10:00-18:00; Sa 10:00-14:00; Su off; PH off"/>
+    <tag k="phone" v="+44 1223 880881"/>
+    <tag k="shop" v="beauty"/>
+  </node>
+  <node id="521577133" lat="52.1833693" lon="0.2222372" version="6" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Woodland Wishes"/>
+    <tag k="phone" v="+44 1223 880002"/>
+    <tag k="shop" v="funeral_directors"/>
+    <tag k="website" v="https://woodlandwishes.co.uk/"/>
+  </node>
+  <node id="521577188" lat="52.1837891" lon="0.2212611" version="4" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="&quot;twelve&quot;"/>
+    <tag k="opening_hours" v="Mo 14:00-16:30; Tu,Th,Fr 09:30-16:30; Sa 09:30-12:30"/>
+    <tag k="operator" v="Fulbourn and the Wilbrahams Parish Churches"/>
+    <tag k="operator:type" v="religious"/>
+    <tag k="religion" v="christian"/>
+    <tag k="website" v="https://www.fulbournandthewilbrahams.org/twelve/"/>
+  </node>
+  <node id="529594818" lat="52.1786186" lon="0.2223985" version="1" timestamp="2009-10-12T19:04:15Z" changeset="2828876" uid="3582" user="davidearl">
+    <tag k="addr:housename" v="The Old Rose &amp; Crown"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Home End"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Cedar Audio"/>
+  </node>
+  <node id="1513986539" lat="52.1696026" lon="0.1918203" version="1" timestamp="2011-11-23T10:10:21Z" changeset="9919099" uid="57884" user="EdLoach">
+    <tag k="addr:housename" v="Hill Farm"/>
+    <tag k="addr:postcode" v="CB21 5EQ"/>
+    <tag k="addr:street" v="Shelford Road"/>
+    <tag k="craft" v="brewery"/>
+    <tag k="name" v="Cambridge Moonshine"/>
+  </node>
+  <node id="9778141249" lat="52.1834380" lon="0.2222412" version="2" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="4b"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Look Ahead"/>
+    <tag k="phone" v="+44 1223 880840"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="11423112285" lat="52.1836189" lon="0.2218677" version="3" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Fulbourn"/>
+    <tag k="addr:housenumber" v="12a"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Eco Bee"/>
+    <tag k="opening_hours" v="Mo off; Tu-We 10:00-16:00; Th-Sa 10:00-15:00; Su off"/>
+    <tag k="phone" v="+44 7359 215373"/>
+    <tag k="shop" v="second_hand"/>
+    <tag k="website" v="http://www.ecobeecambridge.co.uk/"/>
+  </node>
   <way id="23104220" version="4" timestamp="2023-02-13T02:21:45Z" changeset="132468464" uid="7675562" user="ChildishGiant">
     <nd ref="249438113"/>
     <nd ref="249438114"/>
@@ -67,6 +253,29 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Croft Centre"/>
     <tag k="website" v="https://pilgrim.cambs.sch.uk/our-centres/croft"/>
+  </way>
+  <way id="239448155" version="2" timestamp="2017-09-15T09:29:38Z" changeset="52062913" uid="281267" user="smb1001">
+    <nd ref="2472247360"/>
+    <nd ref="2472247347"/>
+    <nd ref="2472247352"/>
+    <nd ref="2472247346"/>
+    <nd ref="2472247354"/>
+    <nd ref="2472247345"/>
+    <nd ref="2472247350"/>
+    <nd ref="2472247349"/>
+    <nd ref="2472247342"/>
+    <nd ref="2472247348"/>
+    <nd ref="2472247353"/>
+    <nd ref="2472247355"/>
+    <nd ref="2472247351"/>
+    <nd ref="2472247357"/>
+    <nd ref="2472247344"/>
+    <nd ref="2472247356"/>
+    <nd ref="2472247360"/>
+    <tag k="addr:postcode" v="CB21 5GT"/>
+    <tag k="addr:street" v="Wilbraham Road"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Queens Business Park"/>
   </way>
   <way id="310364470" version="10" timestamp="2022-05-28T23:33:18Z" changeset="121635573" uid="1102246" user="jtn20">
     <nd ref="3157857696"/>
@@ -142,6 +351,38 @@
     <tag k="website" v="http://thehatandrabbit.co.uk"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wheelchair:description" v="Step free access to beer garden and back entrance but steps up to main bar"/>
+  </way>
+  <way id="435019059" version="5" timestamp="2023-10-13T12:35:35Z" changeset="142522327" uid="37791" user="Fradeve11">
+    <nd ref="4329538390"/>
+    <nd ref="4652418852"/>
+    <nd ref="4329538389"/>
+    <nd ref="4652418846"/>
+    <nd ref="4329538405"/>
+    <nd ref="4329538400"/>
+    <nd ref="4329538185"/>
+    <nd ref="4652418853"/>
+    <nd ref="4329538399"/>
+    <nd ref="4329538398"/>
+    <nd ref="4652418851"/>
+    <nd ref="4329538390"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The Old Rectory"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB21 5EP"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="100"/>
+    <tag k="isced:level" v="1;2"/>
+    <tag k="max_age" v="16"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Landmark International School"/>
+    <tag k="phone" v="+44 1223 755100"/>
+    <tag k="ref:GB:uprn" v="10033037539"/>
+    <tag k="ref:edubase" v="142776"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="independent"/>
+    <tag k="website" v="https://landmarkinternationalschool.co.uk/"/>
+    <tag k="wikidata" v="Q30593483"/>
   </way>
   <way id="518185026" version="2" timestamp="2018-05-19T17:16:16Z" changeset="59107173" uid="1287673" user="sloerunner">
     <nd ref="5055290094"/>

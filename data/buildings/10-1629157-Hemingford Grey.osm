@@ -1,8 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:07:10Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:24:23Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="313725337" lat="52.3162605" lon="-0.0817849" version="11" timestamp="2024-11-16T22:39:28Z" changeset="159224769" uid="11022773" user="GeoFens">
+    <tag k="addr:street" v="London Road"/>
+    <tag k="brand" v="Costcutter"/>
+    <tag k="brand:wikidata" v="Q5175072"/>
+    <tag k="compressed_air" v="yes"/>
+    <tag k="name" v="Costcutter"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="phone" v="+44 1562 749 992"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="313725510" lat="52.3176486" lon="-0.1006893" version="3" timestamp="2024-05-18T13:38:23Z" changeset="151494542" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="PE28 9DR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:suburb" v="Hemingford Grey"/>
+    <tag k="brand" v="Budgens"/>
+    <tag k="brand:wikidata" v="Q4985016"/>
+    <tag k="name" v="Budgens"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-21:00; Su 08:00-20:00"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.budgens.co.uk/our-stores/hemingford-grey"/>
+  </node>
+  <way id="28558293" version="10" timestamp="2024-09-17T00:27:31Z" changeset="156709419" uid="21226027" user="DorneyLake123">
+    <nd ref="313725325"/>
+    <nd ref="313725324"/>
+    <nd ref="4062408473"/>
+    <nd ref="313725328"/>
+    <nd ref="3393931696"/>
+    <nd ref="313725321"/>
+    <nd ref="2269778244"/>
+    <nd ref="4062408909"/>
+    <nd ref="313725320"/>
+    <nd ref="4062408908"/>
+    <nd ref="4062408910"/>
+    <nd ref="313725325"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE28 9DU"/>
+    <tag k="addr:street" v="St Ives Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="315"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Hemingford Grey Primary School"/>
+    <tag k="ref:edubase" v="110679"/>
+    <tag k="wikidata" v="Q66223547"/>
+  </way>
   <way id="334715843" version="10" timestamp="2024-05-29T10:11:03Z" changeset="151980677" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="3417778227"/>
     <nd ref="3417778228"/>
@@ -23,6 +72,27 @@
     <tag k="building:levels" v="2"/>
     <tag k="name" v="Victoria Terrace"/>
     <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="334715989" version="4" timestamp="2024-11-24T12:08:04Z" changeset="159530858" uid="5869307" user="RobinWat">
+    <nd ref="728689578"/>
+    <nd ref="2269778222"/>
+    <nd ref="2269778262"/>
+    <nd ref="728689577"/>
+    <nd ref="1929164243"/>
+    <nd ref="2810580615"/>
+    <nd ref="3417784726"/>
+    <nd ref="3417784727"/>
+    <nd ref="1929164841"/>
+    <nd ref="1929164982"/>
+    <nd ref="3417784728"/>
+    <nd ref="728689578"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE27 5HG"/>
+    <tag k="addr:street" v="St Ives Road"/>
+    <tag k="addr:suburb" v="Hemingford Grey"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Geaves Farm"/>
   </way>
   <way id="615640212" version="4" timestamp="2024-08-13T07:59:13Z" changeset="155181993" uid="19459805" user="Edric Ellis">
     <nd ref="5821514349"/>

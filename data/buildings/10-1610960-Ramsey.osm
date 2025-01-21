@@ -1,8 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:56:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:20:16Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="705529678" lat="52.4489776" lon="-0.1070382" version="10" timestamp="2024-12-14T17:02:55Z" changeset="160286022" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="PE26 1HA"/>
+    <tag k="addr:street" v="Great Whyte"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="email" v="greatwhyte@ramseypharmacy.co.uk"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Ramsey Pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:30"/>
+    <tag k="phone" v="+44 1487 814886"/>
+    <tag k="website" v="https://www.ramseypharmacy.co.uk"/>
+  </node>
+  <node id="706271966" lat="52.4484381" lon="-0.1061030" version="7" timestamp="2024-11-10T19:33:40Z" changeset="158982748" uid="11022773" user="GeoFens">
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="The Bengal"/>
+  </node>
+  <node id="2403644385" lat="52.4497083" lon="-0.1076078" version="9" timestamp="2024-12-14T17:02:55Z" changeset="160286022" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Great Whyte"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="turkish"/>
+    <tag k="name" v="Konak Cafe and Grill"/>
+    <tag k="old_name" v="Windmill Bakery"/>
+  </node>
+  <node id="2403644417" lat="52.4496560" lon="-0.1070673" version="6" timestamp="2024-05-29T13:36:03Z" changeset="151990147" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="PE26 1HH"/>
+    <tag k="addr:street" v="Great Whyte"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="name" v="Ramsey Traditional Butchers"/>
+    <tag k="old_name" v="M. Collins Butchers"/>
+    <tag k="phone" v="+44 1487 812764"/>
+    <tag k="shop" v="butcher"/>
+  </node>
+  <node id="5235188621" lat="52.4565716" lon="-0.1094620" version="4" timestamp="2024-08-17T16:23:58Z" changeset="155379286" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 2RB"/>
+    <tag k="addr:street" v="Stocking Fen Road"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="name" v="Stevelin Motorcycles"/>
+    <tag k="shop" v="motorcycle"/>
+    <tag k="website" v="https://www.stevelinmotorcycles.co.uk/"/>
+  </node>
+  <node id="6457281174" lat="52.4485142" lon="-0.1066426" version="4" timestamp="2023-04-27T19:38:07Z" changeset="135441543" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Great Whyte"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Leo's Cafe &amp; Bistro"/>
+  </node>
+  <node id="6506880843" lat="52.4488838" lon="-0.1069876" version="7" timestamp="2024-12-14T17:02:55Z" changeset="160286022" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:street" v="Great Whyte"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Farmers Coffee Shop"/>
+    <tag k="old_name" v="Wild Frost"/>
+  </node>
+  <node id="7406402042" lat="52.4481876" lon="-0.1071158" version="9" timestamp="2024-12-07T16:10:11Z" changeset="160032223" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bake Me 1"/>
+    <tag k="old_name" v="Wake n Bake"/>
+  </node>
+  <node id="7406402045" lat="52.4481046" lon="-0.1082785" version="3" timestamp="2024-05-29T13:45:05Z" changeset="151990631" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="PE26 1AA"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="The Golden Pizza Company"/>
+    <tag k="old_name" v="Chilli Express"/>
+    <tag k="website" v="https://www.goldenpizzaramsey.co.uk"/>
+  </node>
+  <node id="7406421383" lat="52.4490674" lon="-0.1039856" version="3" timestamp="2024-05-29T13:45:05Z" changeset="151990631" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="108a"/>
+    <tag k="addr:postcode" v="PE26 1BS"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="name" v="Lasting Impressions"/>
+    <tag k="shop" v="beauty"/>
+  </node>
+  <node id="7414369433" lat="52.4845714" lon="-0.0404155" version="3" timestamp="2024-05-29T14:01:49Z" changeset="151991349" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="White House Farm"/>
+    <tag k="addr:postcode" v="PE26 2XU"/>
+    <tag k="addr:street" v="Benwick Road"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="name" v="Down2Earth"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="shop" v="farm"/>
+  </node>
+  <node id="7629802356" lat="52.4568600" lon="-0.1092164" version="6" timestamp="2025-01-12T17:01:52Z" changeset="161280529" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="Unit 5"/>
+    <tag k="addr:street" v="Highlode Industrial Estate"/>
+    <tag k="name" v="Country Roads Tyres"/>
+    <tag k="old_name" v="KBS Tyre &amp; Battery"/>
+    <tag k="shop" v="tyres"/>
+  </node>
+  <node id="7635220366" lat="52.4485165" lon="-0.1050953" version="2" timestamp="2023-02-19T16:53:27Z" changeset="132756623" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="clothes" v="wedding"/>
+    <tag k="name" v="Harvey's"/>
+    <tag k="operator" v="Harvey's of Ramsey"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="8739793705" lat="52.4670234" lon="-0.1022385" version="3" timestamp="2024-05-29T13:50:47Z" changeset="151990898" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 2XQ"/>
+    <tag k="addr:street" v="Muchwood Lane"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="healthcare" v="physiotherapist"/>
+    <tag k="name" v="Ramsey Physiotherapy Clinic"/>
+    <tag k="phone" v="+441487 253101"/>
+    <tag k="website" v="https://www.ramseyphysiotherapy.co.uk"/>
+  </node>
+  <node id="8827716676" lat="52.4692386" lon="-0.0945886" version="4" timestamp="2024-05-29T13:50:47Z" changeset="151990898" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="Unit 2"/>
+    <tag k="addr:postcode" v="PE26 2RB"/>
+    <tag k="addr:street" v="Bodsey Toll Road"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="email" v="kaylock51@gmail.com"/>
+    <tag k="name" v="Harlequin Balloons &amp; Party Store"/>
+    <tag k="phone" v="+44 1487 814177"/>
+    <tag k="shop" v="party"/>
+    <tag k="website" v="https://www.harlequin.shop"/>
+  </node>
+  <node id="8910519188" lat="52.4482529" lon="-0.1068406" version="3" timestamp="2024-11-10T19:33:40Z" changeset="158982748" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="The Ramsey Initiative"/>
+    <tag k="shop" v="yes"/>
+  </node>
+  <node id="9022774496" lat="52.4570865" lon="-0.1090069" version="4" timestamp="2025-01-12T17:01:52Z" changeset="161280529" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="Unit 8"/>
+    <tag k="addr:street" v="Highlode Industrial Estate"/>
+    <tag k="name" v="Key Performance Parts"/>
+    <tag k="phone" v="+44 1487 813359"/>
+    <tag k="shop" v="car_parts"/>
+    <tag k="website" v="https://keysperformanceparts.co.uk"/>
+  </node>
+  <node id="9403106117" lat="52.4484580" lon="-0.1060180" version="4" timestamp="2024-11-10T19:33:40Z" changeset="158982748" uid="11022773" user="GeoFens">
+    <tag k="addr:housenumber" v="72a"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Fallen Moon"/>
+    <tag k="shop" v="tattoo"/>
+  </node>
+  <node id="9693007722" lat="52.4478203" lon="-0.1062879" version="2" timestamp="2024-05-29T13:45:05Z" changeset="151990631" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="PE26 1AB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="email" v="bookings@ramseyrooms.co.uk"/>
+    <tag k="name" v="Ramsey Rooms"/>
+    <tag k="phone" v="+441487 829237"/>
+    <tag k="rooms" v="10"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.ramseyrooms.co.uk"/>
+  </node>
+  <node id="10678695651" lat="52.4485010" lon="-0.1051763" version="1" timestamp="2023-02-19T16:53:27Z" changeset="132756623" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Willow &amp; Wreath Florist"/>
+    <tag k="shop" v="florist"/>
+    <tag k="website" v="https://willowandwreathflorist.com"/>
+  </node>
+  <node id="10847019253" lat="52.4495418" lon="-0.1074692" version="5" timestamp="2024-12-14T17:02:55Z" changeset="160286022" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="28a"/>
+    <tag k="addr:postcode" v="PE26 1HA"/>
+    <tag k="addr:street" v="Great Whyte"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="name" v="The Little Fenland Eco Shop"/>
+    <tag k="opening_hours" v="Tue-Sat 8:45 - 17:45"/>
+    <tag k="shop" v="houseware"/>
+    <tag k="website" v="https://www.littlefenlandeco.com"/>
+  </node>
+  <node id="11194603328" lat="52.4694358" lon="-0.0943709" version="3" timestamp="2024-05-29T13:50:47Z" changeset="151990898" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 2XH"/>
+    <tag k="addr:street" v="Bodsey Toll Road"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="name" v="Ruby Ruth’s Country Barn"/>
+    <tag k="shop" v="gift"/>
+  </node>
+  <node id="11494872188" lat="52.4694246" lon="-0.0946101" version="2" timestamp="2024-05-29T13:50:47Z" changeset="151990898" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 2XH"/>
+    <tag k="addr:street" v="Bodsey Toll Road"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Ruby Cooper's Cafe"/>
+  </node>
+  <node id="11494896101" lat="52.4803593" lon="-0.1091329" version="1" timestamp="2024-01-06T17:40:43Z" changeset="145965670" uid="11022773" user="GeoFens">
+    <tag k="addr:street" v="Lodes End Drove"/>
+    <tag k="name" v="Spadger Bird Seed"/>
+    <tag k="shop" v="pet"/>
+  </node>
+  <node id="11709458286" lat="52.4484996" lon="-0.1068284" version="6" timestamp="2024-11-10T19:33:40Z" changeset="158982748" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="Unit 1"/>
+    <tag k="addr:postcode" v="PE26 1HB"/>
+    <tag k="addr:street" v="Spring Court"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="name" v="Pet Havens"/>
+    <tag k="shop" v="pet"/>
+  </node>
+  <node id="11709458288" lat="52.4484595" lon="-0.1069223" version="5" timestamp="2024-11-10T19:33:40Z" changeset="158982748" uid="11022773" user="GeoFens">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="Unit 2"/>
+    <tag k="addr:postcode" v="PE26 1HB"/>
+    <tag k="addr:street" v="Spring Court"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="leisure" v="indoor_play"/>
+    <tag k="name" v="Ramsey Bouncers"/>
+  </node>
   <way id="56222934" version="11" timestamp="2024-09-09T15:54:13Z" changeset="156401613" uid="21425661" user="CjMalone">
     <nd ref="705529375"/>
     <nd ref="11608146769"/>
@@ -27,6 +278,123 @@
     <tag k="phone" v="+44 330 838 9757"/>
     <tag k="shop" v="variety_store"/>
   </way>
+  <way id="231915993" version="13" timestamp="2023-10-21T18:00:35Z" changeset="142935242" uid="9451067" user="b-jazz-bot">
+    <nd ref="1736653207"/>
+    <nd ref="2402410530"/>
+    <nd ref="2402410514"/>
+    <nd ref="2402410610"/>
+    <nd ref="2402410618"/>
+    <nd ref="2402410564"/>
+    <nd ref="2402410534"/>
+    <nd ref="2402410601"/>
+    <nd ref="7932567711"/>
+    <nd ref="2402410589"/>
+    <nd ref="7797368458"/>
+    <nd ref="7797368457"/>
+    <nd ref="7797368459"/>
+    <nd ref="2402410612"/>
+    <nd ref="7797368462"/>
+    <nd ref="2402410533"/>
+    <nd ref="2402410590"/>
+    <nd ref="7797368465"/>
+    <nd ref="7797368463"/>
+    <nd ref="2402410599"/>
+    <nd ref="2402410604"/>
+    <nd ref="2402410622"/>
+    <nd ref="9022805251"/>
+    <nd ref="9022805252"/>
+    <nd ref="9022805250"/>
+    <nd ref="9022805249"/>
+    <nd ref="2402410558"/>
+    <nd ref="9022805248"/>
+    <nd ref="9022805247"/>
+    <nd ref="9022805246"/>
+    <nd ref="2402410508"/>
+    <nd ref="2402410571"/>
+    <nd ref="2402410563"/>
+    <nd ref="7408900590"/>
+    <nd ref="7626529741"/>
+    <nd ref="1736653156"/>
+    <nd ref="7487687913"/>
+    <nd ref="692256299"/>
+    <nd ref="692256324"/>
+    <nd ref="2402410505"/>
+    <nd ref="1736653170"/>
+    <nd ref="1736653171"/>
+    <nd ref="2402410543"/>
+    <nd ref="9721610171"/>
+    <nd ref="2402410575"/>
+    <nd ref="2402410606"/>
+    <nd ref="2402410587"/>
+    <nd ref="2402410553"/>
+    <nd ref="1736653199"/>
+    <nd ref="1736653204"/>
+    <nd ref="1736653205"/>
+    <nd ref="2402410593"/>
+    <nd ref="2402410614"/>
+    <nd ref="2402410585"/>
+    <nd ref="3092744710"/>
+    <nd ref="3092744689"/>
+    <nd ref="1736653231"/>
+    <nd ref="8372467810"/>
+    <nd ref="1736653232"/>
+    <nd ref="1736653238"/>
+    <nd ref="4054229761"/>
+    <nd ref="4054233307"/>
+    <nd ref="7511421554"/>
+    <nd ref="7511421553"/>
+    <nd ref="7511421556"/>
+    <nd ref="4054229764"/>
+    <nd ref="4054229745"/>
+    <nd ref="4054233318"/>
+    <nd ref="4054233308"/>
+    <nd ref="1736653216"/>
+    <nd ref="4054229775"/>
+    <nd ref="1736653209"/>
+    <nd ref="4054229751"/>
+    <nd ref="1736653207"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="PE26 1DD"/>
+    <tag k="addr:street" v="Abbey Terrace"/>
+    <tag k="description" v="18 hole Par 70"/>
+    <tag k="email" v="admin@ramseyclub.co.uk"/>
+    <tag k="golf:course" v="18_hole"/>
+    <tag k="golf:par" v="70"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="Ramsey Golf &amp; Bowls Club"/>
+    <tag k="phone" v="+44 1487 812600"/>
+    <tag k="website" v="https://www.ramseyclub.co.uk/"/>
+  </way>
+  <way id="232018919" version="11" timestamp="2024-09-16T23:59:15Z" changeset="156709110" uid="21226027" user="DorneyLake123">
+    <nd ref="2403644420"/>
+    <nd ref="2403644651"/>
+    <nd ref="2403644391"/>
+    <nd ref="2403644438"/>
+    <nd ref="2403644419"/>
+    <nd ref="2403644502"/>
+    <nd ref="7490034307"/>
+    <nd ref="7490034314"/>
+    <nd ref="2403644389"/>
+    <nd ref="2403644503"/>
+    <nd ref="7541969033"/>
+    <nd ref="2403644379"/>
+    <nd ref="7519884411"/>
+    <nd ref="7519884405"/>
+    <nd ref="2403644420"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE26 1AD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="270"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="7"/>
+    <tag k="min_age" v="5"/>
+    <tag k="name" v="Ramsey Spinning Infant School"/>
+    <tag k="operator" v="The Elliot Foundation"/>
+    <tag k="ref:edubase" v="143775"/>
+    <tag k="wikidata" v="Q66231716"/>
+  </way>
   <way id="344515039" version="5" timestamp="2024-05-29T13:57:37Z" changeset="151991179" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="3512513225"/>
     <nd ref="3512513228"/>
@@ -50,6 +418,151 @@
     <tag k="phone" v="+44 1487 815012"/>
     <tag k="shop" v="storage_rental"/>
     <tag k="website" v="https://csc-fortyfoot.business.site/"/>
+  </way>
+  <way id="396414301" version="4" timestamp="2021-07-25T13:24:54Z" changeset="108565547" uid="11022773" user="GeoFens">
+    <nd ref="3992192609"/>
+    <nd ref="7830651341"/>
+    <nd ref="3992192610"/>
+    <nd ref="3992192611"/>
+    <nd ref="3992192612"/>
+    <nd ref="3992192613"/>
+    <nd ref="7837047768"/>
+    <nd ref="7837047767"/>
+    <nd ref="7910195830"/>
+    <nd ref="3992192614"/>
+    <nd ref="3992192615"/>
+    <nd ref="3992192609"/>
+    <tag k="addr:street" v="Horse Drove"/>
+    <tag k="industrial" v="automotive"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="Shelton Motors"/>
+    <tag k="website" v="https://www.sheltonmotors.co.uk"/>
+  </way>
+  <way id="403037976" version="14" timestamp="2024-12-21T20:38:40Z" changeset="160482709" uid="5173844" user="ndrw6">
+    <nd ref="4054222657"/>
+    <nd ref="4054222653"/>
+    <nd ref="4054222659"/>
+    <nd ref="4054222647"/>
+    <nd ref="4054222645"/>
+    <nd ref="4054222651"/>
+    <nd ref="4054222646"/>
+    <nd ref="7487687163"/>
+    <nd ref="7518407593"/>
+    <nd ref="2403644655"/>
+    <nd ref="7518375875"/>
+    <nd ref="7518375871"/>
+    <nd ref="2403644568"/>
+    <nd ref="12439563792"/>
+    <nd ref="7518407626"/>
+    <nd ref="7518407594"/>
+    <nd ref="2403644599"/>
+    <nd ref="9659385820"/>
+    <nd ref="4054222654"/>
+    <nd ref="4054222652"/>
+    <nd ref="4054222648"/>
+    <nd ref="4054222656"/>
+    <nd ref="4054222649"/>
+    <nd ref="4054222650"/>
+    <nd ref="4054222655"/>
+    <nd ref="4054222658"/>
+    <nd ref="4054222657"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 1JA"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="355"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="7"/>
+    <tag k="name" v="Ramsey Junior School"/>
+    <tag k="operator" v="The Elliot Foundation"/>
+    <tag k="phone" v="+44 1487 812500"/>
+    <tag k="ref:GB:uprn" v="100091518277"/>
+    <tag k="ref:edubase" v="143777"/>
+    <tag k="ref:edubase:group" v="3025"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="The Elliot Foundation Academies Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.ramspinfederation.co.uk/"/>
+    <tag k="wikidata" v="Q66231719"/>
+  </way>
+  <way id="403039326" version="12" timestamp="2024-05-29T13:36:43Z" changeset="151990185" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="2403683586"/>
+    <nd ref="4054229768"/>
+    <nd ref="4054229748"/>
+    <nd ref="4054229752"/>
+    <nd ref="4054229757"/>
+    <nd ref="4054229781"/>
+    <nd ref="4054233293"/>
+    <nd ref="706271987"/>
+    <nd ref="4054229767"/>
+    <nd ref="705529983"/>
+    <nd ref="705529373"/>
+    <nd ref="705529989"/>
+    <nd ref="705529926"/>
+    <nd ref="705529470"/>
+    <nd ref="4054233321"/>
+    <nd ref="4054229771"/>
+    <nd ref="1582700454"/>
+    <nd ref="1582700461"/>
+    <nd ref="1582700460"/>
+    <nd ref="1582700450"/>
+    <nd ref="4054229760"/>
+    <nd ref="4054233294"/>
+    <nd ref="4054233311"/>
+    <nd ref="4054233298"/>
+    <nd ref="4054229774"/>
+    <nd ref="4054229785"/>
+    <nd ref="7625773727"/>
+    <nd ref="4054229782"/>
+    <nd ref="4054229780"/>
+    <nd ref="1736653211"/>
+    <nd ref="4054233301"/>
+    <nd ref="4054233306"/>
+    <nd ref="7511418351"/>
+    <nd ref="4054229779"/>
+    <nd ref="7511421646"/>
+    <nd ref="7511421644"/>
+    <nd ref="7511418362"/>
+    <nd ref="4054229788"/>
+    <nd ref="4054233313"/>
+    <nd ref="4054229758"/>
+    <nd ref="11227912087"/>
+    <nd ref="11227912085"/>
+    <nd ref="7511418363"/>
+    <nd ref="4054233295"/>
+    <nd ref="2403683653"/>
+    <nd ref="7511418367"/>
+    <nd ref="2403683586"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 1DG"/>
+    <tag k="addr:street" v="Abbey Road"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="1250"/>
+    <tag k="isced:level" v="2;3"/>
+    <tag k="max_age" v="18"/>
+    <tag k="min_age" v="11"/>
+    <tag k="name" v="Abbey College"/>
+    <tag k="phone" v="+44 1487 812352"/>
+    <tag k="ref:GB:uprn" v="10000168252"/>
+    <tag k="ref:edubase" v="137377"/>
+    <tag k="ref:edubase:group" v="2045"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Abbey College, Ramsey"/>
+    <tag k="school:trust:type" v="single_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.abbeycollege.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q4663983"/>
+    <tag k="wikipedia" v="en:Abbey College, Ramsey"/>
   </way>
   <way id="412714255" version="6" timestamp="2024-10-24T20:17:12Z" changeset="158312393" uid="11022773" user="GeoFens">
     <nd ref="4140668904"/>
@@ -124,6 +637,28 @@
     <tag k="name" v="The Pavilion Ramsey"/>
     <tag k="website" v="https://www.ramseypavilion.org.uk"/>
   </way>
+  <way id="800788955" version="8" timestamp="2024-05-29T13:30:36Z" changeset="151989901" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="7489985893"/>
+    <nd ref="7489985894"/>
+    <nd ref="7489985947"/>
+    <nd ref="7489985948"/>
+    <nd ref="7487687338"/>
+    <nd ref="7490042663"/>
+    <nd ref="7490042664"/>
+    <nd ref="7490042665"/>
+    <nd ref="7490042662"/>
+    <nd ref="7489985893"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 1HS"/>
+    <tag k="addr:street" v="Great Whyte"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="Ramsey Community Fire &amp; Rescue Station"/>
+    <tag k="operator" v="Cambridgeshire Fire and Rescue Service"/>
+    <tag k="operator:wikidata" v="Q5025656"/>
+    <tag k="website" v="https://www.cambsfire.gov.uk/find-a-fire-station/ramsey-fire-station/"/>
+  </way>
   <way id="803919224" version="3" timestamp="2024-12-12T00:12:48Z" changeset="160189086" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="7519884356"/>
     <nd ref="7519884353"/>
@@ -169,6 +704,50 @@
     <tag k="website" v="http://mereside1999.wix.com/mva"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="839148129" version="4" timestamp="2024-05-29T13:50:47Z" changeset="151990898" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="7830651340"/>
+    <nd ref="3992192609"/>
+    <nd ref="7830651341"/>
+    <nd ref="7830651342"/>
+    <nd ref="3992197973"/>
+    <nd ref="7830651344"/>
+    <nd ref="7837047754"/>
+    <nd ref="7837047755"/>
+    <nd ref="7837047756"/>
+    <nd ref="7837047757"/>
+    <nd ref="7837047758"/>
+    <nd ref="7837047759"/>
+    <nd ref="7837047760"/>
+    <nd ref="7830651350"/>
+    <nd ref="7830651340"/>
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 2SB"/>
+    <tag k="addr:street" v="Mill Drove"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="bbq" v="no"/>
+    <tag k="cabins" v="yes"/>
+    <tag k="caravans" v="yes"/>
+    <tag k="dog" v="yes"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="hot_water" v="shower"/>
+    <tag k="kitchen" v="no"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Rivermill Touring Caravan and Camping Park"/>
+    <tag k="permanent_camping" v="no"/>
+    <tag k="picnic_table" v="yes"/>
+    <tag k="power_supply" v="yes"/>
+    <tag k="shower" v="hot"/>
+    <tag k="static_caravans" v="no"/>
+    <tag k="tents" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="tourism" v="camp_site"/>
+    <tag k="washing_machine" v="no"/>
+    <tag k="waste_disposal" v="yes"/>
+    <tag k="website" v="https://www.facebook.com/rivermillramsey/"/>
+  </way>
   <way id="863367709" version="2" timestamp="2024-12-30T02:46:39Z" changeset="160774459" uid="493595" user="Yorvik Prestigitator">
     <nd ref="8042802630"/>
     <nd ref="8042802637"/>
@@ -202,6 +781,25 @@
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Ramsey Forty Foot Village Hall"/>
   </way>
+  <way id="969324834" version="2" timestamp="2024-05-29T14:01:00Z" changeset="151991321" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="8969278732"/>
+    <nd ref="8969278733"/>
+    <nd ref="8969278734"/>
+    <nd ref="8969278735"/>
+    <nd ref="8969278736"/>
+    <nd ref="4663307536"/>
+    <nd ref="8969278732"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 2UE"/>
+    <tag k="addr:street" v="Mereside Drove"/>
+    <tag k="addr:suburb" v="Ramsey Mereside"/>
+    <tag k="area" v="yes"/>
+    <tag k="email" v="info@fenlendlightrailway.co.uk"/>
+    <tag k="name" v="Fenland Light Railway"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="website" v="https://www.fenlandlightrailway.co.uk"/>
+  </way>
   <way id="971023124" version="1" timestamp="2021-08-06T22:06:59Z" changeset="109286214" uid="11022773" user="GeoFens">
     <nd ref="8986773868"/>
     <nd ref="8986773869"/>
@@ -214,6 +812,31 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Auto Attentive"/>
     <tag k="shop" v="car_repair"/>
+  </way>
+  <way id="1096142083" version="2" timestamp="2024-05-29T14:01:00Z" changeset="151991321" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="10038152105"/>
+    <nd ref="10038152106"/>
+    <nd ref="10038152107"/>
+    <nd ref="10038152108"/>
+    <nd ref="10038152109"/>
+    <nd ref="10038152110"/>
+    <nd ref="10038152111"/>
+    <nd ref="1623971186"/>
+    <nd ref="1623971086"/>
+    <nd ref="10038152112"/>
+    <nd ref="10038152113"/>
+    <nd ref="10038152114"/>
+    <nd ref="10038152105"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE26 2UE"/>
+    <tag k="addr:street" v="Mereside Drove"/>
+    <tag k="addr:suburb" v="Ramsey Mereside"/>
+    <tag k="email" v="info@riversidelakeandleisure.co.uk"/>
+    <tag k="name" v="Riverside Lake and Leisure"/>
+    <tag k="phone" v="+447788817580"/>
+    <tag k="tourism" v="camp_site"/>
+    <tag k="website" v="https://riversidelakeandleisure.co.uk"/>
   </way>
   <way id="1256679363" version="1" timestamp="2024-03-01T20:04:03Z" changeset="148110389" uid="11022773" user="GeoFens">
     <nd ref="11682500754"/>

@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:11:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:25:27Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="148189887" lat="52.3082818" lon="0.0399552" version="4" timestamp="2019-01-31T12:24:01Z" changeset="66800126" uid="669183" user="Andy_W">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Coldharbour Farm"/>
+    <tag k="addr:postcode" v="CB24 5EY"/>
+    <tag k="addr:street" v="Willingham Road"/>
+    <tag k="addr:village" v="Over"/>
+    <tag k="name" v="Coldharbour Farm"/>
+    <tag k="place" v="farm"/>
+  </node>
+  <node id="2157233688" lat="52.3165062" lon="0.0172317" version="3" timestamp="2022-07-30T17:24:56Z" changeset="124276705" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Over"/>
+    <tag k="addr:housename" v="The Gallery"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB24 5NB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Ponders Travel"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:30; Sa 09:00-17:00"/>
+    <tag k="phone" v="+44 1954 232802"/>
+    <tag k="shop" v="travel_agency"/>
+    <tag k="website" v="https://www.ponderstravel.co.uk/"/>
+  </node>
   <way id="15016537" version="7" timestamp="2022-10-04T20:08:52Z" changeset="127014510" uid="6476359" user="NSiecw">
     <nd ref="148189562"/>
     <nd ref="148189559"/>
@@ -22,6 +43,106 @@
     <tag k="building" v="community_centre"/>
     <tag k="fhrs:id" v="596322"/>
     <tag k="name" v="Over Conference and Community Centre"/>
+  </way>
+  <way id="15016548" version="11" timestamp="2023-08-12T12:03:41Z" changeset="139785033" uid="242345" user="confusedbuffalo">
+    <nd ref="148189720"/>
+    <nd ref="9301199494"/>
+    <nd ref="148189733"/>
+    <nd ref="148189718"/>
+    <nd ref="1770441871"/>
+    <nd ref="1770441868"/>
+    <nd ref="9301199495"/>
+    <nd ref="1770441872"/>
+    <nd ref="1770441881"/>
+    <nd ref="1770441877"/>
+    <nd ref="1770441879"/>
+    <nd ref="1770441874"/>
+    <nd ref="1770441876"/>
+    <nd ref="148189715"/>
+    <nd ref="148189712"/>
+    <nd ref="9931544702"/>
+    <nd ref="1770441870"/>
+    <nd ref="1770441869"/>
+    <nd ref="1770441880"/>
+    <nd ref="1770441873"/>
+    <nd ref="1770441878"/>
+    <nd ref="1770441875"/>
+    <nd ref="148189720"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:place" v="Over"/>
+    <tag k="addr:postcode" v="CB24 5PG"/>
+    <tag k="addr:street" v="Long Furlong"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="250"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Over Primary School"/>
+    <tag k="phone" v="+44 1954 273332"/>
+    <tag k="ref:GB:uprn" v="10003196008"/>
+    <tag k="ref:edubase" v="110616"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://overprimary.org/"/>
+    <tag k="wikidata" v="Q67148325"/>
+  </way>
+  <way id="162274363" version="7" timestamp="2024-10-24T18:47:13Z" changeset="158309507" uid="669183" user="Andy_W">
+    <nd ref="1741871667"/>
+    <nd ref="1741871664"/>
+    <nd ref="9210237012"/>
+    <nd ref="9210241620"/>
+    <nd ref="1741871655"/>
+    <nd ref="1741871671"/>
+    <nd ref="1741871674"/>
+    <nd ref="1741871666"/>
+    <nd ref="1741871651"/>
+    <nd ref="12285973547"/>
+    <nd ref="1741871662"/>
+    <nd ref="1741871661"/>
+    <nd ref="1741871653"/>
+    <nd ref="1741871676"/>
+    <nd ref="1741871667"/>
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB24 5NE"/>
+    <tag k="addr:street" v="Long Lane"/>
+    <tag k="addr:village" v="Over"/>
+    <tag k="area" v="yes"/>
+    <tag k="caravans" v="yes"/>
+    <tag k="charge" v="14 GBP per adult per night;7 GBP per child per night"/>
+    <tag k="description" v="Cuckoo Fen campsite welcomes tents and smaller campervans. Each pitch must have at least one Greener Camping Club membership associated with it - if not a member they will add the annual membership fee when you book. Not open all year; check website."/>
+    <tag k="dog" v="leashed"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="email" v="cuckoofen@gmail.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://www.cuckoofen.co.uk/?lightbox=dataItem-l0i1admz"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Cuckoo Fen Campsite"/>
+    <tag k="openfire" v="yes"/>
+    <tag k="opening_hours" v="00:00-24:00; Oct-May off"/>
+    <tag k="phone" v="+44 7599 544652"/>
+    <tag k="power_supply" v="no"/>
+    <tag k="reservation" v="required"/>
+    <tag k="shower" v="yes"/>
+    <tag k="static_caravans" v="no"/>
+    <tag k="tents" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="tourism" v="camp_site"/>
+    <tag k="website" v="https://www.cuckoofen.co.uk"/>
+  </way>
+  <way id="162275355" version="3" timestamp="2019-01-31T12:25:07Z" changeset="66800154" uid="669183" user="Andy_W">
+    <nd ref="1741886000"/>
+    <nd ref="1741885937"/>
+    <nd ref="1741885960"/>
+    <nd ref="1741885948"/>
+    <nd ref="1494698621"/>
+    <nd ref="1741886000"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB24 5NE"/>
+    <tag k="addr:street" v="Long Lane"/>
+    <tag k="addr:village" v="Over"/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Albany Farm"/>
   </way>
   <way id="200291993" version="6" timestamp="2021-04-06T15:56:02Z" changeset="102419287" uid="669183" user="Andy_W">
     <nd ref="2102912553"/>

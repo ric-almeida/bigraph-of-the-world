@@ -1,8 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:50:55Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:18:15Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="26385707" lat="52.2752983" lon="0.3271282" version="12" timestamp="2024-07-08T16:57:03Z" changeset="153711916" uid="21615891" user="kilroyd">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB25 0DU"/>
+    <tag k="addr:street" v="The Causeway"/>
+    <tag k="addr:village" v="Burwell"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="check_date:opening_hours" v="2024-07-08"/>
+    <tag k="contact:website" v="https://www.postoffice.co.uk/branch-finder/0671134/burwell"/>
+    <tag k="fhrs:id" v="336471"/>
+    <tag k="name" v="Burwell Post Office"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:30; Sa 09:00-12:30"/>
+    <tag k="opening_hours:post_office" v="Mo-Fr 09:00-17:30; Sa 09:00-12:30"/>
+    <tag k="ref:pol_id" v="465"/>
+    <tag k="shop" v="gift"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="304736366" lat="52.2799663" lon="0.3247658" version="6" timestamp="2018-12-18T18:27:28Z" changeset="65589365" uid="364" user="Edward">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB25 0BA"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="336466"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Fox"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wikidata" v="Q26419376"/>
+  </node>
+  <node id="304736391" lat="52.2844660" lon="0.3246570" version="5" timestamp="2024-01-03T12:42:02Z" changeset="145838135" uid="84263" user="Robert Whittaker">
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:postcode" v="CB25 0BA"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="1543521"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Anchor"/>
+    <tag k="note" v="fhrs;Id is old one, new one doesnt appear to have been assigned"/>
+    <tag k="real_ale" v="4 handpumps"/>
+    <tag k="real_fire" v="wood-burner"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="toilets" v="customers"/>
+    <tag k="wheelchair:description" v="fairly steep access to front door, no steps"/>
+  </node>
+  <node id="304736523" lat="52.2712636" lon="0.3277123" version="4" timestamp="2024-01-03T12:42:02Z" changeset="145838135" uid="84263" user="Robert Whittaker">
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="CB25 0HD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="1105973"/>
+    <tag k="name" v="The Five Bells"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="2149835304" lat="52.2799769" lon="0.3250491" version="6" timestamp="2023-11-11T10:26:51Z" changeset="143893477" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Burwell"/>
+    <tag k="addr:housename" v="The Bengal Fox"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB25 0BA"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="The Bengal Fox"/>
+    <tag k="phone" v="+44 1638 605559"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.bengalfox.co.uk/"/>
+  </node>
+  <node id="2151126519" lat="52.2779883" lon="0.3261421" version="2" timestamp="2016-10-03T12:46:26Z" changeset="42602880" uid="84681" user="SK53">
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="CB25 0DU"/>
+    <tag k="addr:street" v="The Causeway"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="fish_and_chips"/>
+    <tag k="fhrs:id" v="336275"/>
+    <tag k="name" v="The Best Plaice"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="4428894632" lat="52.2748181" lon="0.3278044" version="3" timestamp="2024-01-03T12:42:02Z" changeset="145838135" uid="84263" user="Robert Whittaker">
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:postcode" v="CB25 0HD"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="fhrs:id" v="1439774"/>
+    <tag k="kindergarten" v="day_nursery"/>
+    <tag k="name" v="Red House Day Nursery"/>
+    <tag k="source:addr" v="http://www.redhousedaynursery.co.uk/"/>
+    <tag k="url" v="http://www.redhousedaynursery.co.uk/"/>
+  </node>
+  <node id="5578053302" lat="52.2784192" lon="0.3253392" version="4" timestamp="2023-09-10T13:08:52Z" changeset="141062390" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Burwell"/>
+    <tag k="addr:housename" v="Foon Lok"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:postcode" v="CB25 0DU"/>
+    <tag k="addr:street" v="The Causeway"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Foon Lok Chinese Take-Away"/>
+    <tag k="takeaway" v="only"/>
+  </node>
+  <node id="5578198994" lat="52.2801293" lon="0.3242702" version="8" timestamp="2024-07-08T16:46:09Z" changeset="153711916" uid="21615891" user="kilroyd">
+    <tag k="addr:city" v="Burwell"/>
+    <tag k="addr:housename" v="Tina's"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB25 0BA"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Tinas-Burwell-504810036223254/"/>
+    <tag k="name" v="Tina's"/>
+    <tag k="opening_hours" v="Mo-We 09:00-17:00; Sa 09:00-16:00"/>
+    <tag k="shop" v="arts_and_crafts"/>
+  </node>
+  <node id="5589172614" lat="52.2765640" lon="0.3272162" version="2" timestamp="2018-04-30T20:57:07Z" changeset="58567834" uid="8171533" user="1n50">
+    <tag k="addr:city" v="Burwell"/>
+    <tag k="addr:housenumber" v="6-8"/>
+    <tag k="addr:postcode" v="CB25 0DU"/>
+    <tag k="addr:street" v="The Causeway"/>
+    <tag k="name" v="Idina Curtains and Blinds"/>
+    <tag k="source" v="https://www.idina.co.uk/contact"/>
+    <tag k="website" v="https://www.idina.co.uk/contact"/>
+  </node>
+  <node id="5589176647" lat="52.2767266" lon="0.3270770" version="1" timestamp="2018-04-30T21:01:42Z" changeset="58567834" uid="8171533" user="1n50">
+    <tag k="addr:city" v="Burwell"/>
+    <tag k="addr:housename" v="Rco Optics"/>
+    <tag k="addr:housenumber" v="10A"/>
+    <tag k="addr:postcode" v="CB25 0DU"/>
+    <tag k="addr:street" v="The Causeway"/>
+    <tag k="name" v="Ryco Optics"/>
+    <tag k="website" v="https://www.rycooptics.co.uk/"/>
+  </node>
+  <node id="11799679593" lat="52.2746030" lon="0.3301434" version="1" timestamp="2024-04-07T12:57:52Z" changeset="149691204" uid="17340731" user="groenroos">
+    <tag k="addr:city" v="Burwell"/>
+    <tag k="addr:housename" v="Burwell Surgery"/>
+    <tag k="addr:postcode" v="CB25 0AE"/>
+    <tag k="addr:street" v="Newmarket Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Burwell Surgery Dispensary"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-18:00"/>
+    <tag k="operator" v="Burwell Surgery"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+  </node>
+  <way id="122886690" version="5" timestamp="2021-09-13T11:22:59Z" changeset="111139777" uid="5173844" user="ndrw6">
+    <nd ref="1371747406"/>
+    <nd ref="1371747381"/>
+    <nd ref="1371747387"/>
+    <nd ref="1371747402"/>
+    <nd ref="1380227983"/>
+    <nd ref="1371747377"/>
+    <nd ref="1371747382"/>
+    <nd ref="1371747404"/>
+    <nd ref="1371747388"/>
+    <nd ref="1371747399"/>
+    <nd ref="1380228094"/>
+    <nd ref="1371747405"/>
+    <nd ref="1371747391"/>
+    <nd ref="1371747375"/>
+    <nd ref="1371747379"/>
+    <nd ref="1371747380"/>
+    <nd ref="1371747394"/>
+    <nd ref="1371747403"/>
+    <nd ref="1371747406"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="CB25 0EF"/>
+    <tag k="addr:street" v="North Street"/>
+    <tag k="amenity" v="conference_centre"/>
+    <tag k="fhrs:id" v="336469"/>
+    <tag k="leisure" v="garden"/>
+    <tag k="name" v="Burwell House"/>
+    <tag k="not:addr:postcode" v="CB5 0EF"/>
+    <tag k="operator" v="Cambridgeshire County Council"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="source:addr:postcode" v="http://www.burwellhouse.com/"/>
+    <tag k="website" v="http://www.burwellhouse.com/"/>
+  </way>
   <way id="224896008" version="7" timestamp="2024-07-15T22:33:09Z" changeset="153991674" uid="21425661" user="CjMalone">
     <nd ref="2337401887"/>
     <nd ref="2337401888"/>
@@ -70,6 +253,37 @@
     <tag k="source:addr:postcode" v="code-point_open"/>
     <tag k="source:geometry" v="Bing"/>
     <tag k="wikidata" v="Q26616627"/>
+  </way>
+  <way id="354825977" version="13" timestamp="2023-08-06T15:59:15Z" changeset="139522080" uid="242345" user="confusedbuffalo">
+    <nd ref="1175265397"/>
+    <nd ref="3604926919"/>
+    <nd ref="3604924563"/>
+    <nd ref="3604926902"/>
+    <nd ref="3604924581"/>
+    <nd ref="9087753389"/>
+    <nd ref="9087753388"/>
+    <nd ref="3604924572"/>
+    <nd ref="1175265409"/>
+    <nd ref="3604926912"/>
+    <nd ref="1175265397"/>
+    <tag k="addr:postcode" v="CB25 0DU"/>
+    <tag k="addr:street" v="The Causeway"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="450"/>
+    <tag k="fhrs:id" v="336476"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Burwell Village College (Primary)"/>
+    <tag k="not:addr:postcode" v="CB25 0DX"/>
+    <tag k="phone" v="+44 1638 613103"/>
+    <tag k="ref:GB:uprn" v="10002600109"/>
+    <tag k="ref:edubase" v="110758"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="source:addr" v="url"/>
+    <tag k="website" v="https://www.burwellvillage.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q66223572"/>
   </way>
   <way id="445463303" version="3" timestamp="2021-11-21T21:24:21Z" changeset="114073720" uid="8661831" user="Colin_Jones">
     <nd ref="4428884767"/>

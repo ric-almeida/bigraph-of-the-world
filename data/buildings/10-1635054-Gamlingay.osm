@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:22:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:37:37Z" areas="2024-12-31T00:49:33Z"/>
 
   <way id="159744337" version="7" timestamp="2023-12-17T20:42:24Z" changeset="145228822" uid="5589" user="user_5589">
     <nd ref="1718487767"/>
@@ -95,6 +95,51 @@
     <tag k="building" v="yes"/>
     <tag k="healthcare" v="doctor"/>
     <tag k="name" v="Greensands Medical Practice"/>
+  </way>
+  <way id="373908313" version="13" timestamp="2023-12-17T20:42:24Z" changeset="145228822" uid="5589" user="user_5589">
+    <nd ref="8479228643"/>
+    <nd ref="3773404873"/>
+    <nd ref="3783817021"/>
+    <nd ref="3773406794"/>
+    <nd ref="1474320838"/>
+    <nd ref="3779846409"/>
+    <nd ref="3775206033"/>
+    <nd ref="3779846410"/>
+    <nd ref="3773406798"/>
+    <nd ref="8479228642"/>
+    <nd ref="8479228641"/>
+    <nd ref="8479228640"/>
+    <nd ref="8479228639"/>
+    <nd ref="8479228643"/>
+    <tag k="addr:city" v="Sandy"/>
+    <tag k="addr:county" v="Bedfordshire"/>
+    <tag k="addr:housename" v="Gamlingay Village Primary"/>
+    <tag k="addr:postcode" v="SG19 3HD"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="addr:suburb" v="Gamlingay"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="420"/>
+    <tag k="email" v="office@gamlingayvp.org"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Gamlingay Village Primary"/>
+    <tag k="note" v="2018-08-31: Gamlingay Village College closed; 2016-03-01: Gamlingay First School closed (different site in village)."/>
+    <tag k="old_name" v="Gamlingay Village College"/>
+    <tag k="old_name:1" v="Gamlingay First School"/>
+    <tag k="operator" v="The Cam Academy Trust"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="operator:wikidata" v="Q110778636"/>
+    <tag k="phone" v="+44 1767 650 208"/>
+    <tag k="ref:GB:uprn" v="100091577063"/>
+    <tag k="ref:edubase" v="142638"/>
+    <tag k="ref:edubase:group" v="2753"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="The Cam Academy Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="website" v="https://www.gamlingayvp.org/"/>
+    <tag k="wikidata" v="Q5520248"/>
   </way>
   <way id="374130485" version="2" timestamp="2015-10-16T20:08:58Z" changeset="34683055" uid="207297" user="Accipiter">
     <nd ref="3775269538"/>
@@ -488,6 +533,27 @@
     <tag k="building" v="house"/>
     <tag k="name" v="Black Cat Cottage"/>
     <tag k="wikidata" v="Q26421022"/>
+  </way>
+  <way id="375592030" version="4" timestamp="2022-02-17T19:46:56Z" changeset="117535645" uid="242345" user="confusedbuffalo">
+    <nd ref="3778567579"/>
+    <nd ref="3775031967"/>
+    <nd ref="3775031968"/>
+    <nd ref="3775031969"/>
+    <nd ref="3778567578"/>
+    <nd ref="3778567579"/>
+    <tag k="addr:city" v="Sandy"/>
+    <tag k="addr:county" v="Hertfordshire"/>
+    <tag k="addr:housename" v="Gamlingay Rainbow Pre-School"/>
+    <tag k="addr:postcode" v="SG19 3LF"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="addr:suburb" v="Gamlingay"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="email" v="contact@rainbowgamlingay.co.uk"/>
+    <tag k="mobile" v="+44 7814 500 946"/>
+    <tag k="name" v="Gamlingay Rainbow Pre-School"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:00"/>
+    <tag k="phone" v="+44 1767 651 996"/>
+    <tag k="website" v="http://www.rainbowgamlingay.co.uk/"/>
   </way>
   <way id="375603935" version="1" timestamp="2015-10-16T20:30:22Z" changeset="34683406" uid="207297" user="Accipiter">
     <nd ref="3789576326"/>

@@ -1,8 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:17:16Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:30:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="2928915101" lat="52.1368391" lon="0.0710242" version="8" timestamp="2019-03-25T06:44:07Z" changeset="68494899" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Sphere Medical Limited"/>
+    <tag k="addr:postcode" v="CB22 7GG"/>
+    <tag k="addr:street" v="Harston Mill"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="name" v="Sphere Medical"/>
+    <tag k="phone" v="+44 1223 875222"/>
+    <tag k="website" v="https://www.spheremedical.com/"/>
+  </node>
+  <node id="3783220757" lat="52.1366972" lon="0.0705787" version="1" timestamp="2015-10-12T12:26:27Z" changeset="34589203" uid="2032231" user="narboy">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="Goods In"/>
+    <tag k="addr:postcode" v="CB22 7GG"/>
+    <tag k="addr:street" v="Harston Mill"/>
+    <tag k="name" v="Goods In"/>
+    <tag k="office" v="company"/>
+  </node>
+  <node id="4242054417" lat="52.1399966" lon="0.0817208" version="4" timestamp="2019-02-04T10:42:18Z" changeset="66899076" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="59-61"/>
+    <tag k="addr:postcode" v="CB22 7PZ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Harston"/>
+    <tag k="name" v="Ducati Cambridge"/>
+    <tag k="shop" v="motorcycle"/>
+    <tag k="website" v="https://vindisducati.com/"/>
+  </node>
+  <node id="9163585336" lat="52.1428971" lon="0.0856779" version="4" timestamp="2023-10-19T14:52:41Z" changeset="142820318" uid="4345757" user="JassKurn">
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:postcode" v="CB22 7QB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Costa"/>
+    <tag k="brand:wikidata" v="Q608845"/>
+    <tag k="brand:wikipedia" v="en:Costa Coffee"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="fhrs:id" v="1433704"/>
+    <tag k="name" v="Costa"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <way id="4991485" version="14" timestamp="2023-09-11T12:57:13Z" changeset="141111882" uid="242345" user="confusedbuffalo">
+    <nd ref="33129804"/>
+    <nd ref="1619056269"/>
+    <nd ref="33129802"/>
+    <nd ref="1819642751"/>
+    <nd ref="33129801"/>
+    <nd ref="1819643204"/>
+    <nd ref="1819643203"/>
+    <nd ref="1815893570"/>
+    <nd ref="1827083089"/>
+    <nd ref="33129800"/>
+    <nd ref="33129799"/>
+    <nd ref="1658008874"/>
+    <nd ref="33129805"/>
+    <nd ref="1658008884"/>
+    <nd ref="33129804"/>
+    <tag k="addr:postcode" v="CB22 7PX"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="125"/>
+    <tag k="email" v="office@harstonnewton.cambs.sch.uk"/>
+    <tag k="fax" v="+44 1223 871375"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Harston &amp; Newton Community Primary School"/>
+    <tag k="phone" v="+44 1223 870345"/>
+    <tag k="ref:GB:uprn" v="10003196446"/>
+    <tag k="ref:edubase" v="110612"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://www.harstonnewton.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q66223499"/>
+  </way>
+  <way id="45750073" version="5" timestamp="2019-08-14T11:46:08Z" changeset="73344790" uid="9310280" user="rsakunth">
+    <nd ref="582686276"/>
+    <nd ref="582686279"/>
+    <nd ref="6709839052"/>
+    <nd ref="25779996"/>
+    <nd ref="582686253"/>
+    <nd ref="586643657"/>
+    <nd ref="582686256"/>
+    <nd ref="582686259"/>
+    <nd ref="582686261"/>
+    <nd ref="586643666"/>
+    <nd ref="582686276"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The Barn"/>
+    <tag k="addr:postcode" v="CB22 5HL"/>
+    <tag k="addr:street" v="Newton Road"/>
+    <tag k="addr:village" v="Little Shelford"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Redback Design"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source:addr" v="Redback Design"/>
+    <tag k="url" v="http://www.redbackdesign.co.uk/"/>
+  </way>
   <way id="152992812" version="3" timestamp="2017-01-09T12:44:49Z" changeset="45025599" uid="1287673" user="sloerunner">
     <nd ref="1657503707"/>
     <nd ref="1657503702"/>

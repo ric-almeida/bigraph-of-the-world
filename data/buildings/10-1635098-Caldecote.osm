@@ -1,8 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:23:29Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:38:40Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="111497234" lat="52.2159579" lon="-0.0107713" version="3" timestamp="2020-10-08T11:15:29Z" changeset="92171196" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The Shieling"/>
+    <tag k="addr:postcode" v="CB23 7NX"/>
+    <tag k="addr:street" v="Off Highfields Road"/>
+    <tag k="addr:village" v="Highfields Caldecote"/>
+    <tag k="amenity" v="animal_boarding"/>
+    <tag k="name" v="Cozy Pets Hotel"/>
+    <tag k="operator" v="Cozy Pets Hotel"/>
+    <tag k="phone" v="+441954212008"/>
+    <tag k="website" v="https://www.cozypetshotel.co.uk/"/>
+  </node>
+  <node id="7950867657" lat="52.2153526" lon="-0.0154924" version="1" timestamp="2020-09-28T11:16:35Z" changeset="91636642" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 7NS"/>
+    <tag k="addr:street" v="Highfields Road"/>
+    <tag k="addr:village" v="Highfields Caldecote"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Fortitude Fitness Centre"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="website" v="https://www.fortitudefitnesscentre.co.uk/"/>
+  </node>
+  <node id="8461471076" lat="52.2136106" lon="-0.0193595" version="2" timestamp="2021-07-10T22:08:46Z" changeset="107764043" uid="175702" user="AxelBoldt">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="109A"/>
+    <tag k="addr:postcode" v="CB23 7NX"/>
+    <tag k="addr:street" v="Highfields Road"/>
+    <tag k="addr:village" v="Highfields Caldecote"/>
+    <tag k="name" v="Divas"/>
+    <tag k="phone" v="+441954432104"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://mydivasalon.co.uk/"/>
+  </node>
+  <node id="8461480938" lat="52.2138973" lon="-0.0181579" version="1" timestamp="2021-02-26T15:24:52Z" changeset="100059938" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:postcode" v="CB23 7NX"/>
+    <tag k="addr:street" v="Highfields Road"/>
+    <tag k="addr:village" v="Highfields Caldecote"/>
+    <tag k="craft" v="plumber"/>
+    <tag k="email" v="info@uniplumb.com"/>
+    <tag k="name" v="Uniplumb"/>
+    <tag k="phone" v="+441954212553"/>
+    <tag k="website" v="https://www.uniplumb.com/"/>
+  </node>
+  <way id="12301822" version="13" timestamp="2023-09-11T12:56:57Z" changeset="141111862" uid="242345" user="confusedbuffalo">
+    <nd ref="111497383"/>
+    <nd ref="2512895347"/>
+    <nd ref="7352918862"/>
+    <nd ref="7455198299"/>
+    <nd ref="7455198258"/>
+    <nd ref="111497309"/>
+    <nd ref="111497255"/>
+    <nd ref="111497258"/>
+    <nd ref="7352918984"/>
+    <nd ref="7352918990"/>
+    <nd ref="2512894754"/>
+    <nd ref="111497373"/>
+    <nd ref="7455198211"/>
+    <nd ref="7352918606"/>
+    <nd ref="7455198212"/>
+    <nd ref="111497383"/>
+    <tag k="addr:postcode" v="CB23 7NX"/>
+    <tag k="addr:street" v="Highfields Road"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="210"/>
+    <tag k="email" v="office@caldecote.cambs.sch.uk"/>
+    <tag k="fax" v="+44 1954 213440"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Caldecote Primary School"/>
+    <tag k="phone" v="+44 1954 210263"/>
+    <tag k="ref:GB:uprn" v="10003185902"/>
+    <tag k="ref:edubase" v="110603"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://www.caldecoteprimaryschool.org.uk/"/>
+    <tag k="wikidata" v="Q67148322"/>
+  </way>
   <way id="243567273" version="5" timestamp="2019-02-04T10:43:53Z" changeset="66899076" uid="5173844" user="ndrw6">
     <nd ref="2509564791"/>
     <nd ref="2509564836"/>

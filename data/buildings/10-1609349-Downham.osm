@@ -1,8 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:48:45Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:17:13Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="506800377" lat="52.4328834" lon="0.2411430" version="6" timestamp="2021-06-10T13:47:10Z" changeset="106160115" uid="84263" user="Robert Whittaker">
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="CB6 2ST"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="fish_and_chips"/>
+    <tag k="fhrs:id" v="1149672"/>
+    <tag k="name" v="My Fish Bar"/>
+  </node>
+  <node id="506800378" lat="52.4324501" lon="0.2398029" version="3" timestamp="2019-09-06T09:37:38Z" changeset="74165214" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housenumber" v="52A"/>
+    <tag k="addr:postcode" v="CB6 2ST"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:village" v="Little Downham"/>
+    <tag k="name" v="Uppercutz Hairdressers"/>
+    <tag k="opening_hours" v="Tu 09:00-19:00,Th 09:00-17:00, Fr 09:00-18:00, Sa 08:00-16:00"/>
+    <tag k="phone" v="+44 1353 699412"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="6323641066" lat="52.4316375" lon="0.2348283" version="2" timestamp="2019-03-08T10:17:23Z" changeset="67916471" uid="84263" user="Robert Whittaker">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Little Downham Community Rooms"/>
+    <tag k="addr:postcode" v="CB6 2SX"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:village" v="Little Downham"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="Little Downham Post Office"/>
+    <tag k="opening_hours" v="Mo-We 09:00-13:30; Fr 12:00-13:30"/>
+    <tag k="ref:pol_id" v="110071"/>
+    <tag k="source:addr" v="pol_branch_list_2018-02"/>
+  </node>
+  <way id="41435238" version="12" timestamp="2023-09-26T09:28:58Z" changeset="141765173" uid="37791" user="Fradeve11">
+    <nd ref="506800363"/>
+    <nd ref="506800365"/>
+    <nd ref="2428087146"/>
+    <nd ref="506800366"/>
+    <nd ref="506800364"/>
+    <nd ref="8427303083"/>
+    <nd ref="2428087244"/>
+    <nd ref="506800363"/>
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB6 2ST"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:village" v="Little Downham"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="210"/>
+    <tag k="fhrs:id" v="1031372"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Downham Feoffees Primary Academy"/>
+    <tag k="phone" v="+44 1353 699325"/>
+    <tag k="ref:GB:uprn" v="10002596765"/>
+    <tag k="ref:edubase" v="144947"/>
+    <tag k="ref:edubase:group" v="2526"/>
+    <tag k="school:trust" v="yes"/>
+    <tag k="school:trust:name" v="Meridian Trust"/>
+    <tag k="school:trust:type" v="multi_academy"/>
+    <tag k="school:type" v="academy"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="https://www.downhamfeoffees.org/"/>
+    <tag k="wikidata" v="Q66232195"/>
+  </way>
   <way id="636842936" version="4" timestamp="2021-09-28T22:03:43Z" changeset="111839180" uid="1868422" user="falcon2">
     <nd ref="6004867723"/>
     <nd ref="6004867727"/>

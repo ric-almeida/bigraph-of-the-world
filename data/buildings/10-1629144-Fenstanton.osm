@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:06:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:23:25Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="1142728246" lat="52.3060973" lon="-0.0740076" version="5" timestamp="2024-05-10T12:29:24Z" changeset="151143855" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HU"/>
+    <tag k="addr:street" v="Low Road"/>
+    <tag k="addr:suburb" v="Fenstanton"/>
+    <tag k="email" v="info@crystallakesleisure.co.uk"/>
+    <tag k="name" v="Crystal Lakes Leisure"/>
+    <tag k="note" v="Camping area closed for refurbishment for 2019 and 2020."/>
+    <tag k="phone" v="+44 1480 497728"/>
+    <tag k="tourism" v="caravan_site"/>
+    <tag k="website" v="https://www.crystallakesleisure.co.uk/"/>
+  </node>
+  <node id="1506771178" lat="52.2981900" lon="-0.0732337" version="2" timestamp="2024-05-10T12:15:02Z" changeset="151143155" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:street" v="Hilton Road"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="Fenstanton Post Office"/>
+  </node>
+  <node id="3372121420" lat="52.3014981" lon="-0.0678507" version="3" timestamp="2021-04-09T22:14:00Z" changeset="102672788" uid="11022773" user="GeoFens">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Honey Hill"/>
+    <tag k="addr:village" v="Fenstanton"/>
+    <tag k="name" v="Ron's Farm Shop"/>
+    <tag k="opening_hours" v="Tu 07:30-17:00; We 07:30-13:00; Th-Fr 07:30-17:00; Sa 07:30-14:00; Su 07:30-12:30"/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
   <way id="128494597" version="7" timestamp="2024-05-10T12:22:41Z" changeset="151143521" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="1419936567"/>
     <nd ref="1419936573"/>
@@ -33,6 +61,38 @@
     <tag k="source" v="Bing;survey"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.travelodge.co.uk/hotels/36/Huntingdon-Fenstanton-hotel"/>
+  </way>
+  <way id="204798491" version="8" timestamp="2024-05-10T12:22:41Z" changeset="151143521" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="2147730892"/>
+    <nd ref="25297045"/>
+    <nd ref="2147730895"/>
+    <nd ref="2147730894"/>
+    <nd ref="1419936532"/>
+    <nd ref="1419936488"/>
+    <nd ref="2147730892"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 9HS"/>
+    <tag k="addr:street" v="Cambridge Road"/>
+    <tag k="addr:suburb" v="Fenstanton"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Shell"/>
+    <tag k="brand:wikidata" v="Q110716465"/>
+    <tag k="brand:wikipedia" v="en:Royal Dutch Shell"/>
+    <tag k="fhrs:id" v="766637"/>
+    <tag k="fuel:GTL_diesel" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:lpg" v="yes"/>
+    <tag k="fuel:octane_100" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="phone" v="+44 1954 232460"/>
+    <tag k="ref:navads" v="NVDS353_10019004"/>
+    <tag k="shop:name" v="Shell Shop"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://find.shell.com/gb/fuel/10019004-shell-fenstanton"/>
   </way>
   <way id="331187087" version="7" timestamp="2024-11-10T21:40:03Z" changeset="158986570" uid="11022773" user="GeoFens">
     <nd ref="3382422850"/>

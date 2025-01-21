@@ -1,8 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:16:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:28:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="41036806" lat="52.1039045" lon="0.1663215" version="2" timestamp="2021-09-21T09:31:50Z" changeset="111485422" uid="6816132" user="CjMalone">
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="CB22 4NL"/>
+    <tag k="addr:street" v="Station Road East"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="596613"/>
+    <tag k="name" v="Red Lion"/>
+    <tag k="survey:date" v="2021-07-02"/>
+    <tag k="wikidata" v="Q26420963"/>
+  </node>
+  <node id="2549170386" lat="52.1034632" lon="0.1659892" version="4" timestamp="2023-10-19T14:16:28Z" changeset="142818410" uid="4345757" user="JassKurn">
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="CB22 4NL"/>
+    <tag k="addr:street" v="Station Road East"/>
+    <tag k="brand" v="Holiday Inn Express"/>
+    <tag k="brand:wikidata" v="Q5880423"/>
+    <tag k="brand:wikipedia" v="en:Holiday Inn Express"/>
+    <tag k="fhrs:id" v="597183"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Holiday Inn Express"/>
+    <tag k="operator" v="Holiday Inn Express"/>
+    <tag k="survey:date" v="2021-01-03"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="6076110011" lat="52.0959133" lon="0.1286624" version="2" timestamp="2019-02-04T10:42:24Z" changeset="66899076" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The Officers Mess"/>
+    <tag k="addr:postcode" v="CB22 4QH"/>
+    <tag k="addr:street" v="Royston Road"/>
+    <tag k="addr:village" v="Duxford"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="The Mess Cafe"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-17:30"/>
+  </node>
+  <node id="9110441883" lat="52.1038722" lon="0.1562353" version="1" timestamp="2021-09-21T09:31:50Z" changeset="111485422" uid="6816132" user="CjMalone">
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="CB22 4NW"/>
+    <tag k="addr:street" v="Royston Road"/>
+    <tag k="fhrs:id" v="597261"/>
+    <tag k="guest_house" v="bed_and_breakfast"/>
+    <tag k="name" v="Orchard Pond B&amp;B"/>
+    <tag k="survey:date" v="2021-07-02"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <way id="5544780" version="9" timestamp="2023-09-11T12:57:36Z" changeset="141111905" uid="242345" user="confusedbuffalo">
+    <nd ref="40810230"/>
+    <nd ref="40810249"/>
+    <nd ref="1420800197"/>
+    <nd ref="1420800195"/>
+    <nd ref="40810254"/>
+    <nd ref="40810244"/>
+    <nd ref="40810230"/>
+    <tag k="addr:postcode" v="CB22 4NE"/>
+    <tag k="addr:street" v="Mill Lane"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="210"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="diocese" v="Diocese of Ely"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="William Westley Church of England VC Primary School"/>
+    <tag k="phone" v="+44 1223 832176"/>
+    <tag k="ref:GB:uprn" v="10003203757"/>
+    <tag k="ref:edubase" v="110795"/>
+    <tag k="religion" v="christian"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="voluntary_controlled"/>
+    <tag k="website" v="https://www.williamwestley.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q66223615"/>
+  </way>
+  <way id="22001368" version="11" timestamp="2019-03-25T06:43:21Z" changeset="68494888" uid="9451067" user="b-jazz-bot">
+    <nd ref="237042984"/>
+    <nd ref="237042988"/>
+    <nd ref="237042977"/>
+    <nd ref="237042980"/>
+    <nd ref="1407350212"/>
+    <nd ref="1833676445"/>
+    <nd ref="237042970"/>
+    <nd ref="237042972"/>
+    <nd ref="1407350203"/>
+    <nd ref="237042965"/>
+    <nd ref="1407350208"/>
+    <nd ref="237042968"/>
+    <nd ref="237043013"/>
+    <nd ref="237043011"/>
+    <nd ref="237043009"/>
+    <nd ref="287070164"/>
+    <nd ref="287070211"/>
+    <nd ref="237043019"/>
+    <nd ref="237043016"/>
+    <nd ref="1407350205"/>
+    <nd ref="1407350207"/>
+    <nd ref="1407350211"/>
+    <nd ref="1407350206"/>
+    <nd ref="237042984"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="IWM Duxford"/>
+    <tag k="addr:postcode" v="CB22 4QR"/>
+    <tag k="addr:street" v="Royston Road"/>
+    <tag k="addr:village" v="Duxford"/>
+    <tag k="name" v="IWM Duxford"/>
+    <tag k="operator" v="Imperial War Museums"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.iwm.org.uk/"/>
+  </way>
+  <way id="22001459" version="5" timestamp="2018-12-06T17:42:30Z" changeset="65246701" uid="281267" user="smb1001">
+    <nd ref="237042781"/>
+    <nd ref="237042776"/>
+    <nd ref="1930814353"/>
+    <nd ref="237042774"/>
+    <nd ref="5337598595"/>
+    <nd ref="5337598596"/>
+    <nd ref="5337598597"/>
+    <nd ref="6122031274"/>
+    <nd ref="237042795"/>
+    <nd ref="6122031279"/>
+    <nd ref="4584096337"/>
+    <nd ref="4584096338"/>
+    <nd ref="4584096344"/>
+    <nd ref="4584096340"/>
+    <nd ref="4584096341"/>
+    <nd ref="4584096342"/>
+    <nd ref="4584096339"/>
+    <nd ref="237042781"/>
+    <tag k="addr:postcode" v="CB22 4QT"/>
+    <tag k="addr:street" v="Hill Farm Road"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="Syngenta"/>
+  </way>
   <way id="463099080" version="4" timestamp="2023-02-01T14:08:02Z" changeset="131965319" uid="2969887" user="eastender">
     <nd ref="4584096345"/>
     <nd ref="5850003594"/>

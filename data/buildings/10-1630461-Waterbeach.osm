@@ -1,8 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:12:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:26:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="26976845" lat="52.2707510" lon="0.1899843" version="4" timestamp="2022-04-24T12:17:51Z" changeset="120121979" uid="1102246" user="jtn20">
+    <tag k="addr:city" v="Waterbeach"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB25 9PB"/>
+    <tag k="addr:street" v="Denny End Road"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="fish_and_chips"/>
+    <tag k="fhrs:id" v="1433850"/>
+    <tag k="name" v="The Beach Fryer"/>
+    <tag k="source:name" v="survey"/>
+  </node>
+  <node id="467926948" lat="52.2581197" lon="0.1987522" version="7" timestamp="2023-12-07T23:27:07Z" changeset="144883638" uid="6816132" user="CjMalone">
+    <tag k="addr:city" v="Waterbeach"/>
+    <tag k="addr:housename" v="The Bridge"/>
+    <tag k="addr:postcode" v="CB25 9HZ"/>
+    <tag k="addr:street" v="Clayhithe Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brand" v="Chef &amp; Brewer"/>
+    <tag k="brand:wikidata" v="Q5089491"/>
+    <tag k="cuisine" v="british"/>
+    <tag k="email" v="6335unit@spiritpubcompany.com"/>
+    <tag k="name" v="The Bridge"/>
+    <tag k="operator" v="Chef &amp; Brewer Pub Co"/>
+    <tag k="phone" v="+44 1223 860622"/>
+    <tag k="website" v="https://www.chefandbrewer.com/pubs/cambridgeshire/bridge"/>
+  </node>
+  <node id="667327413" lat="52.2681065" lon="0.1901744" version="5" timestamp="2017-09-02T17:22:01Z" changeset="51675236" uid="242345" user="confusedbuffalo">
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Boswell &amp; Son"/>
+    <tag k="phone" v="+44 1223 860916"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="667328459" lat="52.2681508" lon="0.1901892" version="5" timestamp="2017-09-02T17:22:01Z" changeset="51675236" uid="242345" user="confusedbuffalo">
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Hair Wellbeing"/>
+    <tag k="phone" v="+44 1223 860266"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="7023769918" lat="52.2722510" lon="0.1819618" version="3" timestamp="2023-07-22T13:28:25Z" changeset="138854240" uid="417738" user="MyCallisto">
+    <tag k="addr:city" v="Waterbeach"/>
+    <tag k="addr:housename" v="Unit G3, Blenheim House, Cambridge Innovation Park"/>
+    <tag k="addr:postcode" v="CB25 9GL"/>
+    <tag k="addr:street" v="Denny End Road"/>
+    <tag k="name" v="Silicon Microgravity Ltd, UK"/>
+    <tag k="office" v="high_resolution_gravimeters,_accelerometers_and_gyroscopes_with_mems_technology"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="website" v="https://www.silicong.com"/>
+  </node>
+  <node id="7023769920" lat="52.2724598" lon="0.1807706" version="2" timestamp="2019-12-01T20:36:48Z" changeset="77790759" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Waterbeach"/>
+    <tag k="addr:street" v="Denny End Road"/>
+    <tag k="name" v="Cambridge Innovation Park North"/>
+    <tag k="office" v="Business"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="website" v="https://cambridgeinnovationparks.co.uk/"/>
+  </node>
+  <way id="4409050" version="12" timestamp="2023-10-02T14:55:41Z" changeset="142043633" uid="37791" user="Fradeve11">
+    <nd ref="5590541585"/>
+    <nd ref="26976880"/>
+    <nd ref="2286183215"/>
+    <nd ref="26976309"/>
+    <nd ref="26976883"/>
+    <nd ref="320900509"/>
+    <nd ref="467679302"/>
+    <nd ref="320900510"/>
+    <nd ref="26976875"/>
+    <nd ref="26976886"/>
+    <nd ref="2286183211"/>
+    <nd ref="26976887"/>
+    <nd ref="5590541584"/>
+    <nd ref="5590541585"/>
+    <tag k="addr:postcode" v="CB25 9JU"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="630"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Waterbeach Community Primary School"/>
+    <tag k="phone" v="+44 1223 718988"/>
+    <tag k="ref:GB:uprn" v="10003196247"/>
+    <tag k="ref:edubase" v="110621"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="website" v="https://www.waterbeach.cambs.sch.uk/"/>
+    <tag k="wikidata" v="Q66223509"/>
+  </way>
   <way id="131415576" version="4" timestamp="2019-02-25T19:39:58Z" changeset="67560166" uid="9229116" user="Bytemark">
     <nd ref="1446329797"/>
     <nd ref="1446329889"/>
@@ -440,6 +530,41 @@
     <tag k="building:levels" v="2"/>
     <tag k="name" v="Bannold Crossing House"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="412376231" version="5" timestamp="2024-05-31T22:45:47Z" changeset="152100886" uid="11022773" user="GeoFens">
+    <nd ref="4138224349"/>
+    <nd ref="4138224346"/>
+    <nd ref="11948939607"/>
+    <nd ref="4163264758"/>
+    <nd ref="262711257"/>
+    <nd ref="4138224325"/>
+    <nd ref="4138224332"/>
+    <nd ref="11948939640"/>
+    <nd ref="4138224330"/>
+    <nd ref="4138224339"/>
+    <nd ref="4138224334"/>
+    <nd ref="4138224352"/>
+    <nd ref="11948939618"/>
+    <nd ref="4138224327"/>
+    <nd ref="4138224344"/>
+    <nd ref="11948939611"/>
+    <nd ref="4138224345"/>
+    <nd ref="4163264927"/>
+    <nd ref="4138224349"/>
+    <tag k="addr:city" v="Waterbeach"/>
+    <tag k="addr:postcode" v="CB25 9PQ"/>
+    <tag k="addr:street" v="Ely Road"/>
+    <tag k="fee" v="yes"/>
+    <tag k="fee:conditional" v="no @ (age &lt; 5)"/>
+    <tag k="name" v="Denny Abbey and Farmland Museum"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="opening_hours:url" v="https://www.dennyfarmlandmuseum.org.uk/content/visiting-us/admission-prices"/>
+    <tag k="operator" v="English Heritage"/>
+    <tag k="seasonal" v="yes"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.dennyfarmlandmuseum.org.uk/"/>
+    <tag k="wikidata" v="Q732263"/>
+    <tag k="wikipedia" v="en:Denny Abbey"/>
   </way>
   <way id="548627334" version="2" timestamp="2023-12-29T17:44:06Z" changeset="145671615" uid="2406" user="JeffB">
     <nd ref="5300023990"/>

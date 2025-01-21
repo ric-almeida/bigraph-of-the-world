@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T16:23:29Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:38:40Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="23719278" lat="52.1811855" lon="0.0935751" version="5" timestamp="2019-02-16T10:44:31Z" changeset="67250645" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2-4"/>
+    <tag k="addr:postcode" v="CB3 9NQ"/>
+    <tag k="addr:street" v="Broadway"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Rupert Brooke"/>
+    <tag k="note" v="Very foody - arguably a restaurant rather than a pub"/>
+    <tag k="real_ale" v="yes"/>
+  </node>
+  <node id="23719482" lat="52.1833304" lon="0.0940465" version="7" timestamp="2021-03-25T22:51:58Z" changeset="101747927" uid="145231" user="woodpeck_repair">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="CB3 9NQ"/>
+    <tag k="addr:street" v="Broadway"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Blue Ball Inn"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+44 1223 846004"/>
+    <tag k="website" v="https://www.blueballgrantchester.co.uk/"/>
+  </node>
+  <node id="3651047293" lat="52.1808887" lon="0.0905094" version="5" timestamp="2019-03-21T02:50:00Z" changeset="68359293" uid="9451067" user="b-jazz-bot">
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB3 9NL"/>
+    <tag k="addr:street" v="Stulpfield Road"/>
+    <tag k="addr:village" v="Grantchester"/>
+    <tag k="name" v="Gentle Groom"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
+    <tag k="phone" v="+44 1223 845542"/>
+    <tag k="shop" v="pet"/>
+    <tag k="website" v="https://www.gentlegroom.co.uk/"/>
+  </node>
   <way id="82623473" version="17" timestamp="2024-04-04T14:02:22Z" changeset="149572211" uid="12661527" user="Kartenkarsten714">
     <nd ref="961551269"/>
     <nd ref="961551262"/>
@@ -250,6 +284,21 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Byron's Lodge"/>
     <tag k="tourism" v="guest_house"/>
+  </way>
+  <way id="602497588" version="2" timestamp="2018-06-28T16:27:39Z" changeset="60254360" uid="8460117" user="curt1us">
+    <nd ref="1828857338"/>
+    <nd ref="5722582054"/>
+    <nd ref="5722582055"/>
+    <nd ref="5722582056"/>
+    <nd ref="5722582057"/>
+    <nd ref="1828857145"/>
+    <nd ref="1828857338"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB3 9ED"/>
+    <tag k="addr:street" v="Grantchester Road"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="The Cocks and Hens Cambridge Tennis"/>
+    <tag k="sport" v="tennis"/>
   </way>
   <way id="1234036918" version="1" timestamp="2023-12-25T14:07:41Z" changeset="145499128" uid="493595" user="Yorvik Prestigitator">
     <nd ref="11452165453"/>

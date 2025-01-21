@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-20T15:48:45Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-21T14:17:13Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="619006045" lat="52.5096888" lon="0.0839309" version="4" timestamp="2024-04-03T10:12:17Z" changeset="149516462" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="March"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE15 0QA"/>
+    <tag k="addr:street" v="Norfolk Street"/>
+    <tag k="addr:suburb" v="Wimblington"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="contact:website" v="https://www.postoffice.co.uk/branch-finder/3572307/wimblington"/>
+    <tag k="name" v="Wimblington Post Office"/>
+    <tag k="ref:pol_id" v="13702"/>
+  </node>
+  <node id="4028582729" lat="52.5039946" lon="0.0796477" version="5" timestamp="2024-04-19T09:39:59Z" changeset="150214074" uid="95856" user="john paul jones &amp; gringo">
+    <tag k="addr:city" v="March"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="46a"/>
+    <tag k="addr:postcode" v="PE15 0RB"/>
+    <tag k="addr:street" v="Doddington Road"/>
+    <tag k="addr:suburb" v="Wimblington"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Gulf"/>
+    <tag k="brand:wikidata" v="Q1296860"/>
+    <tag k="brand:wikipedia" v="en:Gulf Oil"/>
+    <tag k="name" v="Sisco Service Station"/>
+    <tag k="opening_hours" v="08:30 - 17:30"/>
+  </node>
   <way id="1132033991" version="2" timestamp="2024-04-19T09:39:59Z" changeset="150214074" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="10555283087"/>
     <nd ref="10555283088"/>
@@ -24,6 +51,30 @@
     <tag k="amenity" v="community_centre"/>
     <tag k="building" v="public"/>
     <tag k="name" v="Wimblington Parish Hall"/>
+  </way>
+  <way id="1174434759" version="2" timestamp="2024-04-19T09:39:59Z" changeset="150214074" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="4586574651"/>
+    <nd ref="4586574650"/>
+    <nd ref="10912806270"/>
+    <nd ref="10912806259"/>
+    <nd ref="4586574638"/>
+    <nd ref="4586574639"/>
+    <nd ref="4586574640"/>
+    <nd ref="4586574641"/>
+    <nd ref="4586574642"/>
+    <nd ref="4586574643"/>
+    <nd ref="10912634192"/>
+    <nd ref="4586574653"/>
+    <nd ref="4586574651"/>
+    <tag k="addr:city" v="March"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE15 0FB"/>
+    <tag k="addr:street" v="Block Fen Drove"/>
+    <tag k="addr:suburb" v="Wimblington"/>
+    <tag k="amenity" v="animal_shelter"/>
+    <tag k="name" v="Block Fen Animal Centre"/>
+    <tag k="operator" v="RSPCA"/>
+    <tag k="website" v="https://www.rspca.org.uk/local/block-fen-animal-centre/aboutus"/>
   </way>
 
 </osm>
