@@ -5,11 +5,11 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github royangkr/bigraph_of_the_world))
 
-(authors "Author Name")
+(authors "Roy Ang")
 
-(maintainers "Maintainer Name")
+(maintainers "Roy Ang")
 
 (license LICENSE)
 
