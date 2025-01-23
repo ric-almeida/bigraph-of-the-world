@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:18:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:20:54Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="2961509797" lat="52.2398144" lon="0.2782200" version="3" timestamp="2020-10-26T11:59:17Z" changeset="93060045" uid="7782183" user="James Hannah">
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="CB25 0HP"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="shop" v="convenience"/>
+  </node>
   <way id="4291139" version="10" timestamp="2023-08-01T20:36:50Z" changeset="139317851" uid="242345" user="confusedbuffalo">
     <nd ref="25905300"/>
     <nd ref="2296817156"/>
@@ -53,6 +59,19 @@
     <tag k="amenity" v="pub"/>
     <tag k="building" v="pub"/>
     <tag k="name" v="Black Horse Inn"/>
+  </way>
+  <way id="220585120" version="6" timestamp="2022-02-17T01:51:39Z" changeset="117499130" uid="11201682" user="hillanit">
+    <nd ref="2296904563"/>
+    <nd ref="2296904660"/>
+    <nd ref="2296904320"/>
+    <nd ref="2296904436"/>
+    <nd ref="2296904563"/>
+    <tag k="addr:housenumber" v="48-49"/>
+    <tag k="addr:postcode" v="CB25 0LP"/>
+    <tag k="addr:street" v="Downing Court"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
   </way>
 
 </osm>

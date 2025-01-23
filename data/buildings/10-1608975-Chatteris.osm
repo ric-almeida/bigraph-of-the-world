@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:17:13Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:18:50Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="619004910" lat="52.4549465" lon="0.0498353" version="4" timestamp="2024-04-03T09:02:01Z" changeset="149513718" uid="95856" user="john paul jones &amp; gringo">
     <tag k="addr:city" v="Chatteris"/>
@@ -167,6 +167,18 @@
     <tag k="source:name" v="survey"/>
     <tag k="wikidata" v="Q5187661"/>
   </way>
+  <way id="232043352" version="3" timestamp="2025-01-16T20:19:09Z" changeset="161432715" uid="14110503" user="Jay7235">
+    <nd ref="2403898849"/>
+    <nd ref="2403898843"/>
+    <nd ref="2403898956"/>
+    <nd ref="2403898855"/>
+    <nd ref="2403898871"/>
+    <nd ref="2403898894"/>
+    <nd ref="2403898849"/>
+    <tag k="addr:city" v="Chatteris"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="East Park Street"/>
+  </way>
   <way id="232133840" version="7" timestamp="2024-01-27T15:36:19Z" changeset="146748969" uid="11022773" user="GeoFens">
     <nd ref="8811403680"/>
     <nd ref="2405028076"/>
@@ -234,6 +246,28 @@
     <tag k="name" v="Kingsfield Primary School"/>
     <tag k="ref:edubase" v="140888"/>
     <tag k="wikidata" v="Q66230611"/>
+  </way>
+  <way id="255550578" version="4" timestamp="2024-04-03T08:18:06Z" changeset="149512022" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="2612318519"/>
+    <nd ref="2612318520"/>
+    <nd ref="2612318521"/>
+    <nd ref="2612318522"/>
+    <nd ref="2612318523"/>
+    <nd ref="2612318524"/>
+    <nd ref="2612318525"/>
+    <nd ref="2612318526"/>
+    <nd ref="2612318527"/>
+    <nd ref="2612318528"/>
+    <nd ref="2612318529"/>
+    <nd ref="2612318530"/>
+    <nd ref="2612318519"/>
+    <tag k="addr:city" v="Chatteris"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE16 6XS"/>
+    <tag k="addr:street" v="Parkside"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
   </way>
   <way id="378287100" version="2" timestamp="2018-12-20T05:07:34Z" changeset="65630037" uid="5173844" user="ndrw6">
     <nd ref="3816879720"/>
@@ -303,6 +337,19 @@
     <tag k="name" v="King Edward Community Centre"/>
     <tag k="phone" v="+44 1 354 692658"/>
     <tag k="website" v="http://www.kingedwardcentre.org.uk/"/>
+  </way>
+  <way id="656404672" version="3" timestamp="2024-04-03T08:32:45Z" changeset="149512600" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="6148997997"/>
+    <nd ref="8997986962"/>
+    <nd ref="8997986961"/>
+    <nd ref="6148997996"/>
+    <nd ref="6148997997"/>
+    <tag k="addr:city" v="Chatteris"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="PE16 6FQ"/>
+    <tag k="addr:street" v="Lancaster Way"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="656404708" version="2" timestamp="2021-08-01T23:03:56Z" changeset="108989906" uid="11022773" user="GeoFens">
     <nd ref="6148998180"/>
@@ -383,6 +430,22 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="ALS Food and Pharmaceutical"/>
   </way>
+  <way id="915778412" version="2" timestamp="2022-05-26T16:35:42Z" changeset="121536103" uid="16100649" user="Maschinwerk">
+    <nd ref="8506508795"/>
+    <nd ref="9773103185"/>
+    <nd ref="9773103184"/>
+    <nd ref="8506508792"/>
+    <nd ref="8506508793"/>
+    <nd ref="9773103187"/>
+    <nd ref="9773103186"/>
+    <nd ref="8506508794"/>
+    <nd ref="8506508795"/>
+    <tag k="addr:city" v="Chatteris"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="PE16 6UA"/>
+    <tag k="addr:street" v="Doddington Road"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="928235618" version="3" timestamp="2024-08-17T17:47:59Z" changeset="155383136" uid="11022773" user="GeoFens">
     <nd ref="8610722953"/>
     <nd ref="12117287411"/>
@@ -446,6 +509,47 @@
     <tag k="operator" v="Cambridgeshire Fire and Rescue Service"/>
     <tag k="operator:wikidata" v="Q5025656"/>
     <tag k="website" v="https://www.cambsfire.gov.uk/find-a-fire-station/chatteris-fire-station/"/>
+  </way>
+  <way id="963287896" version="2" timestamp="2021-11-22T21:06:19Z" changeset="114114398" uid="636385" user="Malcvolm">
+    <nd ref="8910522569"/>
+    <nd ref="8910522570"/>
+    <nd ref="8910522571"/>
+    <nd ref="8910522568"/>
+    <nd ref="8910522566"/>
+    <nd ref="8910522567"/>
+    <nd ref="8910522569"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Gull Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="972196096" version="2" timestamp="2024-04-03T08:32:45Z" changeset="149512600" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="8997986962"/>
+    <nd ref="6148997998"/>
+    <nd ref="6148997995"/>
+    <nd ref="8997986961"/>
+    <nd ref="8997986962"/>
+    <tag k="addr:city" v="Chatteris"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="PE16 6FQ"/>
+    <tag k="addr:street" v="Lancaster Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1064085245" version="2" timestamp="2024-03-03T16:36:13Z" changeset="148173501" uid="11022773" user="GeoFens">
+    <nd ref="9773103172"/>
+    <nd ref="11688030320"/>
+    <nd ref="11688030321"/>
+    <nd ref="9773103173"/>
+    <nd ref="11688030326"/>
+    <nd ref="11688030327"/>
+    <nd ref="9773103174"/>
+    <nd ref="9773103175"/>
+    <nd ref="9773103172"/>
+    <tag k="addr:city" v="Chatteris"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="PE16 6UA"/>
+    <tag k="addr:street" v="Doddington Road"/>
+    <tag k="building" v="house"/>
   </way>
 
 </osm>

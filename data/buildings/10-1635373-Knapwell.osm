@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:38:40Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:41:11Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="11198393217" lat="52.2284044" lon="-0.0501758" version="2" timestamp="2023-10-23T19:16:54Z" changeset="143032250" uid="5113580" user="Craske">
     <tag k="addr:city" v="Cambridge"/>
@@ -25,6 +25,20 @@
     <tag k="opening_hours" v="Sa-Su 09:00-11:30"/>
     <tag k="website" v="https://www.instagram.com/thehatch_coffeehouse"/>
   </node>
+  <way id="372020946" version="3" timestamp="2022-09-22T23:27:01Z" changeset="126524515" uid="6476359" user="NSiecw">
+    <nd ref="3755598721"/>
+    <nd ref="10046207296"/>
+    <nd ref="10046207295"/>
+    <nd ref="3755598833"/>
+    <nd ref="3755598721"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:locality" v="Knapwell"/>
+    <tag k="addr:postcode" v="CB23 4LB"/>
+    <tag k="addr:street" v="St. Neots Road"/>
+    <tag k="building" v="residential"/>
+  </way>
   <way id="372020957" version="3" timestamp="2023-09-17T19:36:08Z" changeset="141395959" uid="5113580" user="Craske">
     <nd ref="3755598688"/>
     <nd ref="3755598845"/>
@@ -38,6 +52,142 @@
     <tag k="addr:street" v="Knapwell Wood Farm"/>
     <tag k="building" v="residential"/>
     <tag k="name" v="Knapwell Wood Farm House"/>
+  </way>
+  <way id="372020960" version="4" timestamp="2022-09-22T23:27:01Z" changeset="126524515" uid="6476359" user="NSiecw">
+    <nd ref="3755598661"/>
+    <nd ref="3755598696"/>
+    <nd ref="3755598678"/>
+    <nd ref="3755598838"/>
+    <nd ref="3755598661"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:full" v="1, The Bungalows"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:locality" v="Knapwell"/>
+    <tag k="addr:postcode" v="CB23 4NS"/>
+    <tag k="addr:street" v="Wood Farm"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="551190108" version="3" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="5323222938"/>
+    <nd ref="10046217330"/>
+    <nd ref="10046217329"/>
+    <nd ref="5323222941"/>
+    <nd ref="5323222938"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="551190109" version="3" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="5323222945"/>
+    <nd ref="10046217324"/>
+    <nd ref="10046217323"/>
+    <nd ref="5323222944"/>
+    <nd ref="5323222945"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="551190110" version="4" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="5323222946"/>
+    <nd ref="5323222947"/>
+    <nd ref="5323222948"/>
+    <nd ref="5323222949"/>
+    <nd ref="5323222950"/>
+    <nd ref="5323222951"/>
+    <nd ref="5323222952"/>
+    <nd ref="5323222953"/>
+    <nd ref="5323222946"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="551190119" version="3" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="5323222992"/>
+    <nd ref="5323222993"/>
+    <nd ref="5323222994"/>
+    <nd ref="5323222995"/>
+    <nd ref="616790357"/>
+    <nd ref="5323222997"/>
+    <nd ref="5323222998"/>
+    <nd ref="5323222999"/>
+    <nd ref="5323222992"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 4NP"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="551190122" version="3" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="5323223010"/>
+    <nd ref="5323223011"/>
+    <nd ref="5323223012"/>
+    <nd ref="5323223013"/>
+    <nd ref="5323223014"/>
+    <nd ref="5323223015"/>
+    <nd ref="5323223010"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="551190124" version="3" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="5323224022"/>
+    <nd ref="10046217322"/>
+    <nd ref="10046217321"/>
+    <nd ref="5323224027"/>
+    <nd ref="5323224022"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="551190126" version="3" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="5323224032"/>
+    <nd ref="5323224033"/>
+    <nd ref="5323224034"/>
+    <nd ref="5323224035"/>
+    <nd ref="5323224032"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="551190133" version="3" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="5323224082"/>
+    <nd ref="5323224083"/>
+    <nd ref="5323224084"/>
+    <nd ref="5323224085"/>
+    <nd ref="5323224082"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Walnut Tree House"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="551190134" version="3" timestamp="2022-09-22T23:27:01Z" changeset="126524515" uid="6476359" user="NSiecw">
     <nd ref="5323224086"/>
@@ -74,6 +224,214 @@
     <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>
     <tag k="name" v="Manor Cottage"/>
+  </way>
+  <way id="556576646" version="3" timestamp="2022-09-22T23:27:01Z" changeset="126524515" uid="6476359" user="NSiecw">
+    <nd ref="5368988067"/>
+    <nd ref="5368988068"/>
+    <nd ref="5368988069"/>
+    <nd ref="5368988070"/>
+    <nd ref="5368988067"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:full" v="3, The Bungalows"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:locality" v="Knapwell"/>
+    <tag k="addr:postcode" v="CB23 4NS"/>
+    <tag k="addr:street" v="Wood Farm"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="750495967" version="2" timestamp="2022-09-22T23:27:01Z" changeset="126524515" uid="6476359" user="NSiecw">
+    <nd ref="3755598661"/>
+    <nd ref="7017367837"/>
+    <nd ref="7017367838"/>
+    <nd ref="3755598838"/>
+    <nd ref="3755598661"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:full" v="2, The Bungalows"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:locality" v="Knapwell"/>
+    <tag k="addr:postcode" v="CB23 4NS"/>
+    <tag k="addr:street" v="Wood Farm"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="1097138728" version="1" timestamp="2022-09-22T23:27:01Z" changeset="126524515" uid="6476359" user="NSiecw">
+    <nd ref="10046207296"/>
+    <nd ref="3755598826"/>
+    <nd ref="3755598830"/>
+    <nd ref="10046207295"/>
+    <nd ref="10046207296"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:locality" v="Knapwell"/>
+    <tag k="addr:postcode" v="CB23 4LB"/>
+    <tag k="addr:street" v="St. Neots Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="1097138729" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046207301"/>
+    <nd ref="10046207298"/>
+    <nd ref="10046207297"/>
+    <nd ref="10046207302"/>
+    <nd ref="10046207301"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:locality" v="Knapwell"/>
+    <tag k="addr:postcode" v="CB23 4NT"/>
+    <tag k="addr:street" v="St. Neots Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138730" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046207306"/>
+    <nd ref="10046207305"/>
+    <nd ref="10046207304"/>
+    <nd ref="10046207303"/>
+    <nd ref="10046207302"/>
+    <nd ref="10046207301"/>
+    <nd ref="10046207300"/>
+    <nd ref="10046207299"/>
+    <nd ref="10046207306"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:locality" v="Knapwell"/>
+    <tag k="addr:postcode" v="CB23 4NT"/>
+    <tag k="addr:street" v="St. Neots Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138731" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046217318"/>
+    <nd ref="10046207312"/>
+    <nd ref="10046207311"/>
+    <nd ref="10046207310"/>
+    <nd ref="10046207309"/>
+    <nd ref="10046217317"/>
+    <nd ref="10046217318"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138732" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046217318"/>
+    <nd ref="10046217317"/>
+    <nd ref="10046207316"/>
+    <nd ref="10046207315"/>
+    <nd ref="10046207314"/>
+    <nd ref="10046207313"/>
+    <nd ref="10046217318"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138733" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046217320"/>
+    <nd ref="5323224042"/>
+    <nd ref="5323224049"/>
+    <nd ref="5323224048"/>
+    <nd ref="5323224047"/>
+    <nd ref="10046217319"/>
+    <nd ref="10046217320"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138734" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046217320"/>
+    <nd ref="10046217319"/>
+    <nd ref="5323224046"/>
+    <nd ref="5323224045"/>
+    <nd ref="5323224044"/>
+    <nd ref="5323224043"/>
+    <nd ref="10046217320"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Chalybeate"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138735" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046217322"/>
+    <nd ref="5323224023"/>
+    <nd ref="5323224024"/>
+    <nd ref="10046217321"/>
+    <nd ref="10046217322"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Woodside Cottage"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB23 4NR"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138736" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046217324"/>
+    <nd ref="5323222942"/>
+    <nd ref="5323222943"/>
+    <nd ref="10046217323"/>
+    <nd ref="10046217324"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138737" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046217326"/>
+    <nd ref="5323222939"/>
+    <nd ref="5323222940"/>
+    <nd ref="10046217325"/>
+    <nd ref="10046217326"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138738" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046217328"/>
+    <nd ref="10046217326"/>
+    <nd ref="10046217325"/>
+    <nd ref="10046217327"/>
+    <nd ref="10046217328"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1097138739" version="2" timestamp="2024-12-24T10:16:18Z" changeset="160569353" uid="5173844" user="ndrw6">
+    <nd ref="10046217330"/>
+    <nd ref="10046217328"/>
+    <nd ref="10046217327"/>
+    <nd ref="10046217329"/>
+    <nd ref="10046217330"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Knapwell"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="1132092809" version="3" timestamp="2024-08-03T15:47:38Z" changeset="154779447" uid="669183" user="Andy_W">
     <nd ref="10555768366"/>

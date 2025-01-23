@@ -28,6 +28,15 @@ let test =
             (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [S "Church Street"], 0))) 
             (Big.par (Big.split 1) (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [S "685011752-Whittlesey Salvation Army"], 0))))))));;
 
+let test2 = 
+   Big.nest 
+      (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [S ""], 0))) 
+      (Big.par (Big.split 1) (Big.nest 
+         (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [S ""], 0))) 
+         (Big.par (Big.split 1) (Big.nest 
+            (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [S ""], 0))) 
+            (Big.par (Big.split 1) (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [S "685011752-Whittlesey Salvation Army"], 0))))))));;
+            
 exception TagNotFound of string * string
 
 (** given boundary_level^boundary_id^boundary_name, return a map of k:street v:building list found in boundary*)
@@ -41,15 +50,23 @@ let street_to_buildings boundary =
    let nodes_id_tags = List.map nodes ~f:(fun (Osm_xml.Types.OSMId id, Osm_xml.Types.OSMNode node_record) -> (id, node_record.tags)) in 
    let l = List.concat [relation_id_tags ;ways_id_tags; nodes_id_tags] in
    List.fold l ~init: StringMap.empty ~f: (fun acc (building_id, building_record) -> 
-      match Osm_xml.Types.find_tag building_record "name" with
-      | None -> raise (TagNotFound ("name",building_id))
-      | Some building_name ->
-         begin match Osm_xml.Types.find_tag building_record "addr:street" with
-         | None -> raise (TagNotFound ("addr:street",building_id))
-         | Some street -> 
+      match Osm_xml.Types.find_tag building_record "addr:street" with
+      | None -> raise (TagNotFound ("addr:street",building_id))
+      | Some street ->
+         begin match Osm_xml.Types.find_tag building_record "name" with
+         | Some building_name -> 
             begin StringMap.update acc street ~f:(function
             | None -> [building_id^"-"^building_name]
             | Some values -> ((building_id^"-"^building_name) :: values))
+            end
+         | None ->
+            begin match Osm_xml.Types.find_tag building_record "addr:housenumber" with
+            | Some housenumber -> 
+               begin StringMap.update acc street ~f:(function
+               | None -> [building_id^"-"^street^" "^housenumber]
+               | Some values -> ((building_id^"-"^street^" "^housenumber) :: values))
+               end
+            | None -> raise (TagNotFound ("name and addr:housenumber",building_id))
             end
          end
       )
@@ -81,3 +98,21 @@ let add_agent_to_bigraph (agent:Big.t) (bigraph:Big.t) (position:int) =
       let id = Big.split 1 in
       let agent_and_after = (Big.par id agent)::(add_copies_to_list (ord-position-1) id []) in
       Big.comp bigraph (Big.ppar_of_list (add_copies_to_list position id agent_and_after))
+
+module BRS =  Brs.Make (Solver.Make_SAT (Solver.MS))
+
+let street_to_boundary =
+   let boundary = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [S ""], 0)) in
+   let street = Big.ion (Link.parse_face []) (Ctrl.C ("Street", [S ""], 0)) in
+   let agent = Big.atom (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
+   let lhs = 
+      Big.nest 
+         boundary
+         (Big.par (Big.split 1) (Big.nest 
+            street
+            (Big.par (Big.split 1) agent))) in
+   let rhs = 
+      Big.nest
+         boundary
+         (Big.par_of_list [Big.split 1; agent; Big.nest street (Big.split 1) ] ) in
+   BRS.parse_react_unsafe ~name:"Move up boundaries"  ~lhs:lhs ~rhs:rhs () None

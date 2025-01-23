@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:19:16Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:21:51Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="255589803" lat="52.3342240" lon="0.2245304" version="5" timestamp="2023-11-10T21:58:58Z" changeset="143880969" uid="13097056" user="PCarew_EG">
     <tag k="addr:city" v="Stretham"/>
@@ -29,6 +29,18 @@
     <tag k="rooms" v="yes"/>
     <tag k="source:addr" v="FHRS Open Data"/>
   </node>
+  <way id="224413575" version="4" timestamp="2013-06-11T17:49:40Z" changeset="16513531" uid="1119200" user="Bugali">
+    <nd ref="2332314187"/>
+    <nd ref="2338253512"/>
+    <nd ref="2332314161"/>
+    <nd ref="2332314165"/>
+    <nd ref="2332314162"/>
+    <nd ref="2332314187"/>
+    <tag k="addr:housenumber" v="19;21"/>
+    <tag k="addr:postcode" v="CB6 3JQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="227992919" version="5" timestamp="2021-06-15T06:58:47Z" changeset="106375959" uid="13563954" user="LongSnoot">
     <nd ref="2366168053"/>
     <nd ref="2366168055"/>
@@ -162,6 +174,19 @@
     <tag k="disused:amenity" v="pub"/>
     <tag k="name" v="The Lazy Otter"/>
   </way>
+  <way id="485364058" version="6" timestamp="2021-06-15T20:16:50Z" changeset="106421860" uid="13563954" user="LongSnoot">
+    <nd ref="4590513552"/>
+    <nd ref="4781352261"/>
+    <nd ref="4781352255"/>
+    <nd ref="4781352245"/>
+    <nd ref="4590513552"/>
+    <tag k="addr:housenumber" v="Bridge House"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="hotel"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
   <way id="517344596" version="3" timestamp="2024-12-11T19:31:06Z" changeset="160182213" uid="22284288" user="GeeGoo1234">
     <nd ref="5048617251"/>
     <nd ref="5048617250"/>
@@ -181,6 +206,419 @@
     <tag k="source" v="survey"/>
     <tag k="source:addr" v="FHRS Open Data"/>
     <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way id="588594569" version="7" timestamp="2021-06-17T06:36:52Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="5621519243"/>
+    <nd ref="5621519277"/>
+    <nd ref="5621519273"/>
+    <nd ref="5621519245"/>
+    <nd ref="5621519252"/>
+    <nd ref="8090747241"/>
+    <nd ref="8090747240"/>
+    <nd ref="5621519285"/>
+    <nd ref="5621519243"/>
+    <tag k="addr:housenumber" v="Red Lion"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="588594572" version="6" timestamp="2021-06-17T06:32:36Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="5621519305"/>
+    <nd ref="5621519293"/>
+    <nd ref="5621519265"/>
+    <nd ref="5621519275"/>
+    <nd ref="5621519305"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="many"/>
+  </way>
+  <way id="588594573" version="6" timestamp="2021-06-17T06:34:11Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="5621519295"/>
+    <nd ref="5621519283"/>
+    <nd ref="5621519290"/>
+    <nd ref="5621519279"/>
+    <nd ref="5621519304"/>
+    <nd ref="5621519310"/>
+    <nd ref="5621519307"/>
+    <nd ref="5621519317"/>
+    <nd ref="5621519295"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="588714812" version="6" timestamp="2021-06-17T06:43:55Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="5622319863"/>
+    <nd ref="5622319982"/>
+    <nd ref="5622319962"/>
+    <nd ref="5622319313"/>
+    <nd ref="5622319893"/>
+    <nd ref="5622319980"/>
+    <nd ref="5622319863"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Chapel Street"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="588714815" version="6" timestamp="2021-06-17T06:45:28Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="5622319975"/>
+    <nd ref="5622319921"/>
+    <nd ref="5622319833"/>
+    <nd ref="5622319957"/>
+    <nd ref="5622319975"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Chapel Street"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="588714824" version="7" timestamp="2021-06-17T06:39:30Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="5622319881"/>
+    <nd ref="5622319885"/>
+    <nd ref="5622319864"/>
+    <nd ref="5622319303"/>
+    <nd ref="5622319881"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB6 3JG"/>
+    <tag k="addr:street" v="Chapel Street"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="637877235" version="4" timestamp="2023-08-25T18:21:01Z" changeset="140384267" uid="19332" user="Colin Watson">
+    <nd ref="6012777964"/>
+    <nd ref="6012777961"/>
+    <nd ref="6012777962"/>
+    <nd ref="8111545557"/>
+    <nd ref="8111545556"/>
+    <nd ref="6012777963"/>
+    <nd ref="8111545558"/>
+    <nd ref="8111545559"/>
+    <nd ref="6012777964"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="CB6 3LA"/>
+    <tag k="addr:street" v="Pump Lane"/>
+    <tag k="building" v="detached"/>
+  </way>
+  <way id="870766572" version="7" timestamp="2022-03-27T19:09:30Z" changeset="118992832" uid="242345" user="confusedbuffalo">
+    <nd ref="8111543670"/>
+    <nd ref="8111543676"/>
+    <nd ref="8111543673"/>
+    <nd ref="8111543669"/>
+    <nd ref="8111543670"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="The Grove"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="house" v="terraced"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766573" version="7" timestamp="2022-03-27T19:09:30Z" changeset="118992832" uid="242345" user="confusedbuffalo">
+    <nd ref="8111543672"/>
+    <nd ref="8111543670"/>
+    <nd ref="8111543669"/>
+    <nd ref="8111543671"/>
+    <nd ref="8111543672"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="The Grove"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="house" v="terraced"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766574" version="7" timestamp="2022-03-27T19:09:30Z" changeset="118992832" uid="242345" user="confusedbuffalo">
+    <nd ref="8111543675"/>
+    <nd ref="8111543672"/>
+    <nd ref="8111543671"/>
+    <nd ref="8111543674"/>
+    <nd ref="8111543675"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="The Grove"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="house" v="terraced"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766580" version="6" timestamp="2021-06-15T07:55:57Z" changeset="106377067" uid="13563954" user="LongSnoot">
+    <nd ref="8111543701"/>
+    <nd ref="8111543706"/>
+    <nd ref="8111543705"/>
+    <nd ref="8111543703"/>
+    <nd ref="8111543701"/>
+    <tag k="addr:housenumber" v="Little Haven"/>
+    <tag k="addr:street" v="King Cob"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766581" version="6" timestamp="2021-06-15T20:46:14Z" changeset="106423266" uid="13563954" user="LongSnoot">
+    <nd ref="8111543703"/>
+    <nd ref="8111543702"/>
+    <nd ref="8111543704"/>
+    <nd ref="8111543707"/>
+    <nd ref="8111543701"/>
+    <nd ref="8111543703"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766582" version="6" timestamp="2021-06-15T06:49:00Z" changeset="106377067" uid="13563954" user="LongSnoot">
+    <nd ref="8111543712"/>
+    <nd ref="8111543709"/>
+    <nd ref="8111543708"/>
+    <nd ref="8111543711"/>
+    <nd ref="8111543712"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766583" version="6" timestamp="2021-06-15T06:49:03Z" changeset="106377067" uid="13563954" user="LongSnoot">
+    <nd ref="8111543713"/>
+    <nd ref="8111543712"/>
+    <nd ref="8111543711"/>
+    <nd ref="8111543710"/>
+    <nd ref="8111543713"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766584" version="6" timestamp="2021-06-15T06:48:54Z" changeset="106377067" uid="13563954" user="LongSnoot">
+    <nd ref="8111543715"/>
+    <nd ref="8111543719"/>
+    <nd ref="8111543716"/>
+    <nd ref="8111543714"/>
+    <nd ref="8111543715"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766585" version="6" timestamp="2021-06-15T06:48:57Z" changeset="106377067" uid="13563954" user="LongSnoot">
+    <nd ref="8111543718"/>
+    <nd ref="8111543715"/>
+    <nd ref="8111543714"/>
+    <nd ref="8111543717"/>
+    <nd ref="8111543718"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766587" version="6" timestamp="2021-06-15T20:48:45Z" changeset="106423266" uid="13563954" user="LongSnoot">
+    <nd ref="8111543727"/>
+    <nd ref="8111543726"/>
+    <nd ref="8111543725"/>
+    <nd ref="8111543724"/>
+    <nd ref="8111543727"/>
+    <tag k="addr:housenumber" v="1d"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766588" version="6" timestamp="2021-06-15T20:49:22Z" changeset="106423266" uid="13563954" user="LongSnoot">
+    <nd ref="8111543731"/>
+    <nd ref="8111543730"/>
+    <nd ref="8111543729"/>
+    <nd ref="8111543728"/>
+    <nd ref="8111543731"/>
+    <tag k="addr:housenumber" v="1c"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766589" version="6" timestamp="2021-06-17T06:06:21Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="8111543735"/>
+    <nd ref="8111543734"/>
+    <nd ref="8111543733"/>
+    <nd ref="8111543732"/>
+    <nd ref="8111543735"/>
+    <tag k="addr:housenumber" v="1b"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766590" version="6" timestamp="2021-06-17T06:06:46Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="8111543739"/>
+    <nd ref="8111543736"/>
+    <nd ref="8111543737"/>
+    <nd ref="8111543738"/>
+    <nd ref="8111543739"/>
+    <tag k="addr:housenumber" v="1a"/>
+    <tag k="addr:street" v="Green End"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870766633" version="6" timestamp="2021-06-15T07:38:50Z" changeset="106377067" uid="13563954" user="LongSnoot">
+    <nd ref="8111543931"/>
+    <nd ref="8111543930"/>
+    <nd ref="8111543929"/>
+    <nd ref="8111543928"/>
+    <nd ref="8111543931"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Newmarket Road"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870767043" version="3" timestamp="2023-08-25T18:22:32Z" changeset="140384267" uid="19332" user="Colin Watson">
+    <nd ref="8111545397"/>
+    <nd ref="8111545394"/>
+    <nd ref="8111545395"/>
+    <nd ref="8111545396"/>
+    <nd ref="8111545397"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Chapel Street"/>
+    <tag k="building" v="detached"/>
+  </way>
+  <way id="870767051" version="3" timestamp="2023-08-25T18:23:57Z" changeset="140384267" uid="19332" user="Colin Watson">
+    <nd ref="8111545528"/>
+    <nd ref="8111545523"/>
+    <nd ref="8111545524"/>
+    <nd ref="8111545527"/>
+    <nd ref="8111545526"/>
+    <nd ref="8111545525"/>
+    <nd ref="8111545522"/>
+    <nd ref="8111545521"/>
+    <nd ref="8111545518"/>
+    <nd ref="8111545519"/>
+    <nd ref="8111545520"/>
+    <nd ref="8111545517"/>
+    <nd ref="8111545528"/>
+    <tag k="addr:housenumber" v="7,9"/>
+    <tag k="addr:street" v="Newmarket Road"/>
+    <tag k="building" v="semidetached_house"/>
+  </way>
+  <way id="870767085" version="6" timestamp="2021-06-17T06:27:58Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="8111545666"/>
+    <nd ref="8111545663"/>
+    <nd ref="8111545664"/>
+    <nd ref="8111545665"/>
+    <nd ref="8111545666"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Pump Lane"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870767086" version="9" timestamp="2024-12-19T11:49:39Z" changeset="160390746" uid="5173844" user="ndrw6">
+    <nd ref="8111545667"/>
+    <nd ref="8111545671"/>
+    <nd ref="8111545672"/>
+    <nd ref="8111545670"/>
+    <nd ref="8111545667"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Pump Lane"/>
+    <tag k="building" v="terrace"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="870767087" version="6" timestamp="2021-06-17T06:24:34Z" changeset="106504868" uid="13563954" user="LongSnoot">
+    <nd ref="8111545680"/>
+    <nd ref="8111545679"/>
+    <nd ref="8111545678"/>
+    <nd ref="8111545676"/>
+    <nd ref="8111545675"/>
+    <nd ref="8111545677"/>
+    <nd ref="8111545673"/>
+    <nd ref="8111545674"/>
+    <nd ref="8111545680"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="quadruple_saltbox"/>
+  </way>
+  <way id="1343741235" version="1" timestamp="2024-12-19T11:49:39Z" changeset="160390746" uid="5173844" user="ndrw6">
+    <nd ref="12433259458"/>
+    <nd ref="8111545669"/>
+    <nd ref="8111545668"/>
+    <nd ref="12433259459"/>
+    <nd ref="12433259458"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Pump Lane"/>
+    <tag k="building" v="terrace"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="1343741236" version="1" timestamp="2024-12-19T11:49:39Z" changeset="160390746" uid="5173844" user="ndrw6">
+    <nd ref="12433259459"/>
+    <nd ref="12433259461"/>
+    <nd ref="12433259460"/>
+    <nd ref="12433259458"/>
+    <nd ref="12433259459"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Pump Lane"/>
+    <tag k="building" v="terrace"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="1343741237" version="1" timestamp="2024-12-19T11:49:39Z" changeset="160390746" uid="5173844" user="ndrw6">
+    <nd ref="12433259461"/>
+    <nd ref="12433259463"/>
+    <nd ref="12433259462"/>
+    <nd ref="12433259460"/>
+    <nd ref="12433259461"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Pump Lane"/>
+    <tag k="building" v="terrace"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="1343741238" version="1" timestamp="2024-12-19T11:49:39Z" changeset="160390746" uid="5173844" user="ndrw6">
+    <nd ref="12433259463"/>
+    <nd ref="8111545667"/>
+    <nd ref="8111545670"/>
+    <nd ref="12433259462"/>
+    <nd ref="12433259463"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Pump Lane"/>
+    <tag k="building" v="terrace"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
   </way>
 
 </osm>

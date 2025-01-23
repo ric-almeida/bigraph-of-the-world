@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:28:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:34:00Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26531408" lat="52.1270493" lon="0.2227728" version="13" timestamp="2023-10-09T11:07:10Z" changeset="142344579" uid="8821850" user="wkdgs">
     <tag k="addr:city" v="Cambridge"/>
@@ -77,6 +77,60 @@
     <tag k="name" v="Russian Orthodox Church of St Edmund"/>
     <tag k="old_name" v="Abington United Reformed Church"/>
     <tag k="religion" v="christian"/>
+  </way>
+  <way id="987820392" version="1" timestamp="2021-09-28T22:00:41Z" changeset="111839111" uid="12138865" user="miku archer">
+    <nd ref="9130620969"/>
+    <nd ref="9130620970"/>
+    <nd ref="9130620971"/>
+    <nd ref="9130620972"/>
+    <nd ref="9130620973"/>
+    <nd ref="9130620974"/>
+    <nd ref="9130620975"/>
+    <nd ref="9130620976"/>
+    <nd ref="9130620969"/>
+    <tag k="addr:city" v="Little Abington"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="CB21 6BE"/>
+    <tag k="addr:street" v="Westfield"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="987820393" version="1" timestamp="2021-09-28T22:00:41Z" changeset="111839111" uid="12138865" user="miku archer">
+    <nd ref="9130620977"/>
+    <nd ref="9130620978"/>
+    <nd ref="9130620979"/>
+    <nd ref="9130620980"/>
+    <nd ref="9130620981"/>
+    <nd ref="9130620982"/>
+    <nd ref="9130620983"/>
+    <nd ref="9130620984"/>
+    <nd ref="9130620977"/>
+    <tag k="addr:city" v="Little Abington"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="CB21 6BE"/>
+    <tag k="addr:street" v="Westfield"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <way id="987820394" version="1" timestamp="2021-09-28T22:00:41Z" changeset="111839111" uid="12138865" user="miku archer">
+    <nd ref="9130620985"/>
+    <nd ref="9130620977"/>
+    <nd ref="9130620986"/>
+    <nd ref="9130620987"/>
+    <nd ref="9130620988"/>
+    <nd ref="9130620989"/>
+    <nd ref="9130620990"/>
+    <nd ref="9130620991"/>
+    <nd ref="9130620992"/>
+    <nd ref="9130620993"/>
+    <nd ref="9130620985"/>
+    <tag k="addr:city" v="Little Abington"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="CB21 6BE"/>
+    <tag k="addr:street" v="Westfield"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="1"/>
   </way>
 
 </osm>

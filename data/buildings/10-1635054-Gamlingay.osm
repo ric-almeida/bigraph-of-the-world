@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:37:37Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:39:03Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="9665451058" lat="52.1526643" lon="-0.1917785" version="2" timestamp="2022-04-14T09:34:47Z" changeset="119703857" uid="15577619" user="Discusfish">
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="SG19 3JF"/>
+    <tag k="addr:street" v="Clare Court"/>
+  </node>
+  <node id="9665451059" lat="52.1527395" lon="-0.1917834" version="2" timestamp="2022-04-14T09:34:47Z" changeset="119703857" uid="15577619" user="Discusfish">
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="SG19 3JF"/>
+    <tag k="addr:street" v="Clare Court"/>
+  </node>
+  <node id="9665451060" lat="52.1527943" lon="-0.1917892" version="2" timestamp="2022-04-14T09:34:47Z" changeset="119703857" uid="15577619" user="Discusfish">
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="SG19 3JF"/>
+    <tag k="addr:street" v="Clare Court"/>
+  </node>
   <way id="159744337" version="7" timestamp="2023-12-17T20:42:24Z" changeset="145228822" uid="5589" user="user_5589">
     <nd ref="1718487767"/>
     <nd ref="1718487740"/>
@@ -141,6 +159,54 @@
     <tag k="website" v="https://www.gamlingayvp.org/"/>
     <tag k="wikidata" v="Q5520248"/>
   </way>
+  <way id="374122060" version="3" timestamp="2019-09-12T15:30:59Z" changeset="74399074" uid="322785" user="BCNorwich">
+    <nd ref="3775249656"/>
+    <nd ref="6790707569"/>
+    <nd ref="6790707568"/>
+    <nd ref="3775249757"/>
+    <nd ref="3775249656"/>
+    <tag k="addr:housenumber" v="1-3"/>
+    <tag k="addr:street" v="Merton Grange Barns"/>
+    <tag k="building" v="farm"/>
+  </way>
+  <way id="374122067" version="5" timestamp="2019-09-12T11:32:55Z" changeset="74389164" uid="10294304" user="Royal Pollen">
+    <nd ref="3775249771"/>
+    <nd ref="3775249772"/>
+    <nd ref="3775249773"/>
+    <nd ref="3775249774"/>
+    <nd ref="3775249771"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="5-7"/>
+    <tag k="addr:postcode" v="SG19 3DS"/>
+    <tag k="addr:street" v="Merton Grange Barns"/>
+    <tag k="building" v="farm"/>
+  </way>
+  <way id="374130478" version="2" timestamp="2015-10-16T20:08:58Z" changeset="34683055" uid="207297" user="Accipiter">
+    <nd ref="3775269520"/>
+    <nd ref="3775269521"/>
+    <nd ref="3775269522"/>
+    <nd ref="3775269523"/>
+    <nd ref="3789563858"/>
+    <nd ref="3789563859"/>
+    <nd ref="3775269520"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="29-35"/>
+    <tag k="addr:postcode" v="SG19 3EP"/>
+    <tag k="addr:street" v="Church End"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="374130481" version="2" timestamp="2015-10-16T20:08:58Z" changeset="34683055" uid="207297" user="Accipiter">
+    <nd ref="3775269528"/>
+    <nd ref="3775269529"/>
+    <nd ref="3775269530"/>
+    <nd ref="3775269531"/>
+    <nd ref="3775269528"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="19-21"/>
+    <tag k="addr:postcode" v="SG19 3EP"/>
+    <tag k="addr:street" v="Church End"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="374130485" version="2" timestamp="2015-10-16T20:08:58Z" changeset="34683055" uid="207297" user="Accipiter">
     <nd ref="3775269538"/>
     <nd ref="3775269539"/>
@@ -230,6 +296,19 @@
     <tag k="building" v="kindergarten"/>
     <tag k="name" v="Rainbow Pre School"/>
   </way>
+  <way id="374480495" version="5" timestamp="2023-09-03T10:34:54Z" changeset="140751871" uid="5173844" user="ndrw6">
+    <nd ref="11164815874"/>
+    <nd ref="3778713509"/>
+    <nd ref="11164815882"/>
+    <nd ref="3778713506"/>
+    <nd ref="11164815875"/>
+    <nd ref="11164815874"/>
+    <tag k="addr:housenumber" v="57, 59"/>
+    <tag k="addr:street" v="Green Acres"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
+  </way>
   <way id="374484776" version="5" timestamp="2023-10-21T10:05:08Z" changeset="142916462" uid="6816132" user="CjMalone">
     <nd ref="11164815766"/>
     <nd ref="3778757194"/>
@@ -287,6 +366,34 @@
     <tag k="name" v="The Wheatsheaf"/>
     <tag k="opening_hours" v="closed"/>
     <tag k="wikidata" v="Q26604309"/>
+  </way>
+  <way id="374676636" version="2" timestamp="2015-10-15T19:08:43Z" changeset="34661943" uid="207297" user="Accipiter">
+    <nd ref="3780599172"/>
+    <nd ref="3780599173"/>
+    <nd ref="3780599174"/>
+    <nd ref="3780599175"/>
+    <nd ref="3780599176"/>
+    <nd ref="3780599177"/>
+    <nd ref="3780599172"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="SG19 3JJ"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="374676641" version="3" timestamp="2015-10-15T19:08:43Z" changeset="34661943" uid="207297" user="Accipiter">
+    <nd ref="3780599202"/>
+    <nd ref="3780599203"/>
+    <nd ref="3787144601"/>
+    <nd ref="3780599206"/>
+    <nd ref="3780599207"/>
+    <nd ref="3780599208"/>
+    <nd ref="3780599202"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="SG19 3JJ"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="374676651" version="4" timestamp="2024-07-15T22:33:09Z" changeset="153991674" uid="21425661" user="CjMalone">
     <nd ref="3780599249"/>
@@ -368,6 +475,19 @@
     <tag k="building" v="house"/>
     <tag k="name" v="The Old Rose and Crown"/>
   </way>
+  <way id="374989302" version="2" timestamp="2015-10-13T19:46:23Z" changeset="34620142" uid="207297" user="Accipiter">
+    <nd ref="3783735285"/>
+    <nd ref="3783735286"/>
+    <nd ref="3783735287"/>
+    <nd ref="3783735288"/>
+    <nd ref="3783735289"/>
+    <nd ref="3783735290"/>
+    <nd ref="3783735285"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Mill Street"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="374996147" version="2" timestamp="2015-10-15T19:08:43Z" changeset="34661943" uid="207297" user="Accipiter">
     <nd ref="3783793347"/>
     <nd ref="3783793348"/>
@@ -400,6 +520,30 @@
     <tag k="amenity" v="fire_station"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Gamlingay Community Fire &amp; Rescue Station"/>
+  </way>
+  <way id="375003680" version="2" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="3783873692"/>
+    <nd ref="3783873693"/>
+    <nd ref="3783873694"/>
+    <nd ref="3783873695"/>
+    <nd ref="3783873696"/>
+    <nd ref="3783873697"/>
+    <nd ref="3783873692"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="375003684" version="2" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="3783873720"/>
+    <nd ref="3783873721"/>
+    <nd ref="3783873722"/>
+    <nd ref="3783873723"/>
+    <nd ref="3783873720"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="375003696" version="1" timestamp="2015-10-12T21:31:58Z" changeset="34600140" uid="207297" user="Accipiter">
     <nd ref="3783873876"/>
@@ -458,6 +602,19 @@
     <tag k="name" v="Worboys Garage"/>
     <tag k="operator" v="Gulf"/>
     <tag k="shop" v="car_repair"/>
+  </way>
+  <way id="375130931" version="1" timestamp="2015-10-13T19:46:22Z" changeset="34620142" uid="207297" user="Accipiter">
+    <nd ref="3785203394"/>
+    <nd ref="3785203395"/>
+    <nd ref="3785203396"/>
+    <nd ref="3785203397"/>
+    <nd ref="3785203394"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housename" v="Cromwell Cottage"/>
+    <tag k="addr:housenumber" v="9-11"/>
+    <tag k="addr:postcode" v="SG19 3JW"/>
+    <tag k="addr:street" v="Mill Street"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="375130935" version="1" timestamp="2015-10-13T19:46:22Z" changeset="34620142" uid="207297" user="Accipiter">
     <nd ref="3785203409"/>
@@ -555,6 +712,55 @@
     <tag k="phone" v="+44 1767 651 996"/>
     <tag k="website" v="http://www.rainbowgamlingay.co.uk/"/>
   </way>
+  <way id="375600144" version="2" timestamp="2018-05-28T10:42:39Z" changeset="59336427" uid="364" user="Edward">
+    <nd ref="3789563544"/>
+    <nd ref="3789563545"/>
+    <nd ref="3789563546"/>
+    <nd ref="3789563547"/>
+    <nd ref="3789563544"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="SG19 3EP"/>
+    <tag k="addr:street" v="Church End"/>
+    <tag k="building" v="house"/>
+    <tag k="wikidata" v="Q26604413"/>
+  </way>
+  <way id="375600153" version="1" timestamp="2015-10-16T20:08:57Z" changeset="34683055" uid="207297" user="Accipiter">
+    <nd ref="3789563860"/>
+    <nd ref="3789563861"/>
+    <nd ref="3789563862"/>
+    <nd ref="3789563863"/>
+    <nd ref="3789563860"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:postcode" v="SG19 3EP"/>
+    <tag k="addr:street" v="Church End"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="375600156" version="1" timestamp="2015-10-16T20:08:57Z" changeset="34683055" uid="207297" user="Accipiter">
+    <nd ref="3789563863"/>
+    <nd ref="3789563864"/>
+    <nd ref="3789563865"/>
+    <nd ref="3789563862"/>
+    <nd ref="3789563863"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="SG19 3EP"/>
+    <tag k="addr:street" v="Church End"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="375600160" version="1" timestamp="2015-10-16T20:08:57Z" changeset="34683055" uid="207297" user="Accipiter">
+    <nd ref="3789563864"/>
+    <nd ref="3789563865"/>
+    <nd ref="3789563866"/>
+    <nd ref="3789563867"/>
+    <nd ref="3789563864"/>
+    <tag k="addr:city" v="Gamlingay"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="SG19 3EP"/>
+    <tag k="addr:street" v="Church End"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="375603935" version="1" timestamp="2015-10-16T20:30:22Z" changeset="34683406" uid="207297" user="Accipiter">
     <nd ref="3789576326"/>
     <nd ref="3789576327"/>
@@ -581,6 +787,150 @@
     <tag k="addr:street" v="Heath Road"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="HFI"/>
+  </way>
+  <way id="912783358" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479228247"/>
+    <nd ref="8479229023"/>
+    <nd ref="8479229022"/>
+    <nd ref="8479229019"/>
+    <nd ref="8479229018"/>
+    <nd ref="8479228248"/>
+    <nd ref="8479228247"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="912783538" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479229004"/>
+    <nd ref="8479229001"/>
+    <nd ref="8479229002"/>
+    <nd ref="8479229000"/>
+    <nd ref="8479228999"/>
+    <nd ref="8479229003"/>
+    <nd ref="8479229004"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="912783539" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479229010"/>
+    <nd ref="8479229007"/>
+    <nd ref="8479229008"/>
+    <nd ref="8479229005"/>
+    <nd ref="8479229006"/>
+    <nd ref="8479229009"/>
+    <nd ref="8479229010"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="912783540" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479229016"/>
+    <nd ref="8479229013"/>
+    <nd ref="8479229014"/>
+    <nd ref="8479229012"/>
+    <nd ref="8479229011"/>
+    <nd ref="8479229015"/>
+    <nd ref="8479229016"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="912783541" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479228248"/>
+    <nd ref="8479229017"/>
+    <nd ref="8479229020"/>
+    <nd ref="8479229021"/>
+    <nd ref="8479229024"/>
+    <nd ref="8479228247"/>
+    <nd ref="8479228248"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="912783542" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479229030"/>
+    <nd ref="8479229037"/>
+    <nd ref="8479229036"/>
+    <nd ref="8479229034"/>
+    <nd ref="8479229032"/>
+    <nd ref="8479229029"/>
+    <nd ref="8479229030"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="912783544" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479229044"/>
+    <nd ref="8479229043"/>
+    <nd ref="8479229042"/>
+    <nd ref="8479229039"/>
+    <nd ref="8479229040"/>
+    <nd ref="8479229041"/>
+    <nd ref="8479229044"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="912783545" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479229048"/>
+    <nd ref="8479229045"/>
+    <nd ref="8479229046"/>
+    <nd ref="8479229047"/>
+    <nd ref="8479229048"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="912783546" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479229054"/>
+    <nd ref="8479229051"/>
+    <nd ref="8479229050"/>
+    <nd ref="8479229049"/>
+    <nd ref="8479229052"/>
+    <nd ref="8479229053"/>
+    <nd ref="8479229054"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="SG19 3LZ"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="912783547" version="1" timestamp="2021-03-02T14:05:17Z" changeset="100285512" uid="5173844" user="ndrw6">
+    <nd ref="8479229062"/>
+    <nd ref="8479229059"/>
+    <nd ref="8479229057"/>
+    <nd ref="8479229058"/>
+    <nd ref="8479229060"/>
+    <nd ref="8479229061"/>
+    <nd ref="8479229056"/>
+    <nd ref="8479229055"/>
+    <nd ref="8479229062"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Cowslip Lane"/>
+    <tag k="addr:village" v="Gamlingay"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1204641088" version="1" timestamp="2023-09-03T10:34:54Z" changeset="140751871" uid="5173844" user="ndrw6">
+    <nd ref="11164815875"/>
+    <nd ref="3778713507"/>
+    <nd ref="3778713505"/>
+    <nd ref="3778713508"/>
+    <nd ref="11164815874"/>
+    <nd ref="11164815875"/>
+    <tag k="addr:housenumber" v="57, 59"/>
+    <tag k="addr:street" v="Green Acres"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="0"/>
   </way>
 
 </osm>

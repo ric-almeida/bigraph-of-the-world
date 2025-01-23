@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:32:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:39:03Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="7593639600" lat="52.1352423" lon="0.0004828" version="2" timestamp="2023-11-10T05:58:48Z" changeset="143848233" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Royston"/>
@@ -54,6 +54,32 @@
     <tag k="website" v="https://www.petersfield.cambs.sch.uk/"/>
     <tag k="wikidata" v="Q66223659"/>
   </way>
+  <way id="629634085" version="2" timestamp="2024-09-15T10:32:31Z" changeset="156641440" uid="8661831" user="Colin_Jones">
+    <nd ref="5945099547"/>
+    <nd ref="5945099546"/>
+    <nd ref="5945099545"/>
+    <nd ref="5945099544"/>
+    <nd ref="5945099547"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="SG8 5QN"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Orwell"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="629634088" version="3" timestamp="2024-09-15T10:32:31Z" changeset="156641440" uid="8661831" user="Colin_Jones">
+    <nd ref="5945099561"/>
+    <nd ref="5945099558"/>
+    <nd ref="5945099556"/>
+    <nd ref="5945099557"/>
+    <nd ref="5945099559"/>
+    <nd ref="5945099560"/>
+    <nd ref="5945099561"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Orwell"/>
+    <tag k="building" v="yes"/>
+    <tag k="wikidata" v="Q26458437"/>
+  </way>
   <way id="629634163" version="4" timestamp="2023-11-16T16:38:01Z" changeset="144103995" uid="13445" user="zorque">
     <nd ref="5945100640"/>
     <nd ref="5945100637"/>
@@ -73,6 +99,34 @@
     <tag k="name" v="Orwell Village Hall"/>
     <tag k="source" v="survey"/>
     <tag k="source:name" v="voice"/>
+  </way>
+  <way id="629634174" version="2" timestamp="2024-09-15T10:32:31Z" changeset="156641440" uid="8661831" user="Colin_Jones">
+    <nd ref="5945100913"/>
+    <nd ref="5945100910"/>
+    <nd ref="5945100911"/>
+    <nd ref="5945100909"/>
+    <nd ref="5945100908"/>
+    <nd ref="5945100912"/>
+    <nd ref="5945100906"/>
+    <nd ref="5945100907"/>
+    <nd ref="5945100913"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="SG8 5QN"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Orwell"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="629634177" version="2" timestamp="2024-09-15T10:32:31Z" changeset="156641440" uid="8661831" user="Colin_Jones">
+    <nd ref="5945100925"/>
+    <nd ref="5945100922"/>
+    <nd ref="5945100923"/>
+    <nd ref="5945100924"/>
+    <nd ref="5945100925"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="SG8 5QN"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Orwell"/>
+    <tag k="building" v="yes"/>
   </way>
 
 </osm>

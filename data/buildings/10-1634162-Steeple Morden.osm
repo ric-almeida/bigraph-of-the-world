@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:31:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:38:00Z" areas="2024-12-31T00:49:33Z"/>
 
   <way id="154590228" version="10" timestamp="2023-05-24T22:59:45Z" changeset="136519989" uid="3999" user="BarryMyles">
     <nd ref="1671185430"/>
@@ -44,6 +44,19 @@
     <tag k="website" v="https://www.steeplemorden.cambs.sch.uk/"/>
     <tag k="wikidata" v="Q66223613"/>
   </way>
+  <way id="301937418" version="2" timestamp="2023-11-16T16:38:01Z" changeset="144103995" uid="13445" user="zorque">
+    <nd ref="3061125964"/>
+    <nd ref="3061125965"/>
+    <nd ref="3061125966"/>
+    <nd ref="3061125967"/>
+    <nd ref="3061125964"/>
+    <tag k="addr:city" v="Royston"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="SG8 0LP"/>
+    <tag k="addr:street" v="Cheyney Street"/>
+    <tag k="addr:suburb" v="Steeple Morden"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="548082118" version="1" timestamp="2017-12-20T08:52:56Z" changeset="54780357" uid="1180904" user="Lightswitchr">
     <nd ref="5295247802"/>
     <nd ref="5295247803"/>
@@ -54,6 +67,20 @@
     <tag k="addr:street" v="Ashwell Street"/>
     <tag k="building" v="house"/>
     <tag k="name" v="Gatley End Farm"/>
+  </way>
+  <way id="730143471" version="1" timestamp="2019-10-01T09:23:48Z" changeset="75138397" uid="281267" user="smb1001">
+    <nd ref="275942501"/>
+    <nd ref="6840023126"/>
+    <nd ref="6840023129"/>
+    <nd ref="6840023125"/>
+    <nd ref="6840023139"/>
+    <nd ref="6840023138"/>
+    <nd ref="275942501"/>
+    <tag k="addr:housename" v="The Fox"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="building" v="yes"/>
+    <tag k="note" v="former Fox public house"/>
   </way>
   <way id="1076890250" version="1" timestamp="2022-07-08T16:21:39Z" changeset="123373416" uid="13792107" user="LordGarySugar">
     <nd ref="275942804"/>
@@ -92,6 +119,76 @@
     <tag k="operator:wikidata" v="Q7096543"/>
     <tag k="ref" v="EASMD"/>
     <tag k="telecom" v="exchange"/>
+  </way>
+  <way id="1175781718" version="2" timestamp="2023-11-16T16:38:01Z" changeset="144103995" uid="13445" user="zorque">
+    <nd ref="10925336095"/>
+    <nd ref="10925336096"/>
+    <nd ref="10925336097"/>
+    <nd ref="10925336098"/>
+    <nd ref="10925336099"/>
+    <nd ref="10925336100"/>
+    <nd ref="10925336101"/>
+    <nd ref="10925336102"/>
+    <nd ref="10925336103"/>
+    <nd ref="10925336104"/>
+    <nd ref="10925336095"/>
+    <tag k="addr:city" v="Royston"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="SG8 0PD"/>
+    <tag k="addr:street" v="Hay Street"/>
+    <tag k="addr:suburb" v="Steeple Morden"/>
+    <tag k="building" v="detached"/>
+  </way>
+  <way id="1314169419" version="1" timestamp="2024-09-08T14:12:08Z" changeset="156353869" uid="742701" user="kerr smith">
+    <nd ref="12163562142"/>
+    <nd ref="12163562196"/>
+    <nd ref="12163562195"/>
+    <nd ref="12163562194"/>
+    <nd ref="12163562193"/>
+    <nd ref="12163562142"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  </way>
+  <way id="1314169420" version="1" timestamp="2024-09-08T14:12:08Z" changeset="156353869" uid="742701" user="kerr smith">
+    <nd ref="12163562196"/>
+    <nd ref="12163562142"/>
+    <nd ref="12163562192"/>
+    <nd ref="12163562191"/>
+    <nd ref="12163562198"/>
+    <nd ref="12163562197"/>
+    <nd ref="12163562196"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  </way>
+  <way id="1314169423" version="1" timestamp="2024-09-08T14:12:08Z" changeset="156353869" uid="742701" user="kerr smith">
+    <nd ref="12163562172"/>
+    <nd ref="12163562171"/>
+    <nd ref="12163562170"/>
+    <nd ref="12163562169"/>
+    <nd ref="12163562168"/>
+    <nd ref="12163562167"/>
+    <nd ref="12163562166"/>
+    <nd ref="12163562165"/>
+    <nd ref="12163562172"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  </way>
+  <way id="1314169427" version="1" timestamp="2024-09-08T14:12:08Z" changeset="156353869" uid="742701" user="kerr smith">
+    <nd ref="12163562190"/>
+    <nd ref="12163562189"/>
+    <nd ref="12163562188"/>
+    <nd ref="12163562187"/>
+    <nd ref="12163562190"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
   </way>
 
 </osm>

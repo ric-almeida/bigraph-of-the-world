@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:37:37Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:39:03Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="60851505" lat="52.1628987" lon="-0.0064572" version="5" timestamp="2022-03-08T20:24:17Z" changeset="118251543" uid="1287673" user="sloerunner">
     <tag k="addr:city" v="Great Eversden"/>
@@ -192,6 +192,37 @@
     <tag k="name" v="Eversden Village Hall"/>
     <tag k="start_date" v="1845"/>
   </way>
+  <way id="548261239" version="2" timestamp="2024-01-28T21:35:27Z" changeset="146796090" uid="10633286" user="Moorit">
+    <nd ref="5296703098"/>
+    <nd ref="5296703099"/>
+    <nd ref="5296703100"/>
+    <nd ref="5296703101"/>
+    <nd ref="5296703098"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Wimpole Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="548261246" version="2" timestamp="2021-06-10T19:08:51Z" changeset="106173776" uid="10633286" user="Moorit">
+    <nd ref="5296703132"/>
+    <nd ref="5296703133"/>
+    <nd ref="5296703134"/>
+    <nd ref="5296703135"/>
+    <nd ref="5296703132"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Wimpole Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="548261248" version="3" timestamp="2022-03-17T16:47:13Z" changeset="118602896" uid="5173844" user="ndrw6">
+    <nd ref="5296703141"/>
+    <nd ref="5296703142"/>
+    <nd ref="5296703143"/>
+    <nd ref="5296703144"/>
+    <nd ref="9585928827"/>
+    <nd ref="5296703141"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Wimpole Road"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="548261263" version="2" timestamp="2023-05-17T11:48:54Z" changeset="136209389" uid="1428841" user="BarnabasBaggs">
     <nd ref="5296703202"/>
     <nd ref="5296703203"/>
@@ -202,6 +233,96 @@
     <tag k="addr:street" v="Chapel Road"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Nixon's Hall"/>
+  </way>
+  <way id="548261266" version="2" timestamp="2023-08-03T18:54:28Z" changeset="139408933" uid="10633286" user="Moorit">
+    <nd ref="5296703214"/>
+    <nd ref="5296703215"/>
+    <nd ref="5296703216"/>
+    <nd ref="5296703217"/>
+    <nd ref="5296703214"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Chapel Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="619868635" version="3" timestamp="2024-02-16T14:48:27Z" changeset="147535584" uid="742701" user="kerr smith">
+    <nd ref="5857162209"/>
+    <nd ref="5857162208"/>
+    <nd ref="5857162207"/>
+    <nd ref="5857162206"/>
+    <nd ref="11626718951"/>
+    <nd ref="11626718949"/>
+    <nd ref="11626718948"/>
+    <nd ref="11626718950"/>
+    <nd ref="5857162209"/>
+    <tag k="addr:housename" v="Brook Cottage"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 1HT"/>
+    <tag k="addr:street" v="Kingston Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="note" v="This house appears to be on Tinkers Lane but a local resident explained that even though technically this house is in Great Eversden it has Kingston Road as its street name"/>
+  </way>
+  <way id="619868650" version="4" timestamp="2024-02-15T12:32:01Z" changeset="147489400" uid="742701" user="kerr smith">
+    <nd ref="11626718937"/>
+    <nd ref="11626718942"/>
+    <nd ref="11626718941"/>
+    <nd ref="11626718940"/>
+    <nd ref="11626718943"/>
+    <nd ref="5857162589"/>
+    <nd ref="11626718938"/>
+    <nd ref="11626718939"/>
+    <nd ref="5857162586"/>
+    <nd ref="5857162587"/>
+    <nd ref="10593959357"/>
+    <nd ref="11626718935"/>
+    <nd ref="11626718937"/>
+    <tag k="addr:housename" v="Graycots"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 1HT"/>
+    <tag k="addr:street" v="Kingston Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="619868651" version="2" timestamp="2024-02-15T12:32:01Z" changeset="147489400" uid="742701" user="kerr smith">
+    <nd ref="5857162595"/>
+    <nd ref="5857162592"/>
+    <nd ref="5857162591"/>
+    <nd ref="5857162590"/>
+    <nd ref="5857162593"/>
+    <nd ref="5857162594"/>
+    <nd ref="5857162595"/>
+    <tag k="addr:housename" v="Hill House Farm"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 1HT"/>
+    <tag k="addr:street" v="Kingston Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1041195482" version="1" timestamp="2022-03-17T16:47:13Z" changeset="118602896" uid="5173844" user="ndrw6">
+    <nd ref="9585928827"/>
+    <nd ref="5296703145"/>
+    <nd ref="5296703140"/>
+    <nd ref="5296703141"/>
+    <nd ref="9585928827"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Wimpole Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1255295439" version="1" timestamp="2024-02-27T16:15:24Z" changeset="147979849" uid="742701" user="kerr smith">
+    <nd ref="11669420454"/>
+    <nd ref="11669420461"/>
+    <nd ref="11669420455"/>
+    <nd ref="11669420453"/>
+    <nd ref="11669420462"/>
+    <nd ref="11669420456"/>
+    <nd ref="11669420459"/>
+    <nd ref="11669420463"/>
+    <nd ref="11669420454"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The Manor Cottage"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="CB23 1HW"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Great Eversden"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
   </way>
 
 </osm>

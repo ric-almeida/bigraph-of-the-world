@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:27:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:34:00Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="30152962" lat="52.0956220" lon="0.2701632" version="5" timestamp="2019-02-04T10:42:15Z" changeset="66899076" uid="5173844" user="ndrw6">
     <tag k="addr:city" v="Cambridge"/>
@@ -291,6 +291,20 @@
     <tag k="website" v="https://www.lvc.org/"/>
     <tag k="wikidata" v="Q6554925"/>
   </way>
+  <way id="752080473" version="2" timestamp="2021-02-25T08:33:22Z" changeset="99959291" uid="12732024" user="Daviddcamb">
+    <nd ref="7030278594"/>
+    <nd ref="7030278593"/>
+    <nd ref="7030278592"/>
+    <nd ref="7030278591"/>
+    <nd ref="7030278594"/>
+    <tag k="addr:city" v="Linton"/>
+    <tag k="addr:housename" v="The Rectory"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB21 4JX"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+  </way>
   <way id="752080499" version="2" timestamp="2024-07-07T12:29:38Z" changeset="153660011" uid="493595" user="Yorvik Prestigitator">
     <nd ref="7030278725"/>
     <nd ref="7030278722"/>
@@ -303,6 +317,17 @@
     <tag k="building" v="public"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Linton Village Hall"/>
+  </way>
+  <way id="753437992" version="5" timestamp="2024-01-21T11:54:51Z" changeset="146508258" uid="2836992" user="Picity">
+    <nd ref="10012956498"/>
+    <nd ref="7039646387"/>
+    <nd ref="7039646386"/>
+    <nd ref="7039646388"/>
+    <nd ref="10012956499"/>
+    <nd ref="10012956498"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Dovehouse Close"/>
+    <tag k="building" v="terrace"/>
   </way>
   <way id="913805995" version="2" timestamp="2022-02-20T22:14:52Z" changeset="117656759" uid="242345" user="confusedbuffalo">
     <nd ref="2804681048"/>
@@ -328,6 +353,26 @@
     <tag k="building:levels" v="1"/>
     <tag k="description" v="Linton Heights Junior School"/>
     <tag k="name" v="Linton Heights Junior School"/>
+  </way>
+  <way id="1093321606" version="4" timestamp="2024-01-21T11:44:32Z" changeset="146508258" uid="2836992" user="Picity">
+    <nd ref="10012956497"/>
+    <nd ref="7039646389"/>
+    <nd ref="7039646390"/>
+    <nd ref="10012956496"/>
+    <nd ref="10012956497"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Dovehouse Close"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="1093321607" version="4" timestamp="2024-01-21T11:54:49Z" changeset="146508258" uid="2836992" user="Picity">
+    <nd ref="10012956496"/>
+    <nd ref="10012956498"/>
+    <nd ref="10012956499"/>
+    <nd ref="10012956497"/>
+    <nd ref="10012956496"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Dovehouse Close"/>
+    <tag k="building" v="terrace"/>
   </way>
   <relation id="10368501" version="2" timestamp="2021-12-29T21:39:46Z" changeset="115538843" uid="14683432" user="Tawenmund">
     <member type="way" ref="752080547" role="inner"/>

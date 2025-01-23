@@ -1,0 +1,30 @@
+digraph "after" {
+newrank = true;
+stylesheet = "style.css";
+r0 [ label="0", style="dashed", shape=box, width=.28, height=.18, fontname="serif", fontsize=9.0 ];
+{ rank=source; r0 };
+v0 [ label="Boundary()", shape=ellipse, id="v0_Boundary()" fontname="sans-serif", fontsize=9.0,fixedsize=true, width=1.200000, height=.30 ];
+v1 [ label="Boundary()", shape=ellipse, id="v1_Boundary()" fontname="sans-serif", fontsize=9.0,fixedsize=true, width=1.200000, height=.30 ];
+v2 [ label="Agent", shape=ellipse, id="v2_Agent" fontname="sans-serif", fontsize=9.0,fixedsize=true, width=0.700000, height=.30 ];
+v3 [ label="Street()", shape=ellipse, id="v3_Street()" fontname="sans-serif", fontsize=9.0,fixedsize=true, width=1.000000, height=.30 ];
+v4 [ label="Building(685011752-Whittlesey Salvation Army)", shape=ellipse, id="v4_Building(685011752-Whittlesey Salvation Army)" fontname="sans-serif", fontsize=9.0,fixedsize=true, width=4.700000, height=.30 ];
+s0 [ label="0", style="filled,dashed", fillcolor="gray", shape=box, width=.28, height=.18, fontname="serif", fontsize=9.0 ];
+s1 [ label="1", style="filled,dashed", fillcolor="gray", shape=box, width=.28, height=.18, fontname="serif", fontsize=9.0 ];
+s2 [ label="2", style="filled,dashed", fillcolor="gray", shape=box, width=.28, height=.18, fontname="serif", fontsize=9.0 ];
+s3 [ label="3", style="filled,dashed", fillcolor="gray", shape=box, width=.28, height=.18, fontname="serif", fontsize=9.0 ];
+{ rank=same; v0 };
+{ rank=same; v1 };
+{ rank=same; v3 };
+{ rank=same; v4; v2 };
+{ rank=sink; s0; s1; s2; s3 };
+r0 -> v0 [ arrowhead="vee", arrowsize=0.5 ];
+v0 -> v1 [ arrowhead="vee", arrowsize=0.5 ];
+v1 -> v2 [ arrowhead="vee", arrowsize=0.5 ];
+v1 -> v3 [ arrowhead="vee", arrowsize=0.5 ];
+v3 -> v4 [ arrowhead="vee", arrowsize=0.5 ];
+v0 -> s0 [ arrowhead="vee", arrowsize=0.5 ];
+v1 -> s1 [ arrowhead="vee", arrowsize=0.5 ];
+v3 -> s2 [ arrowhead="vee", arrowsize=0.5 ];
+v4 -> s3 [ arrowhead="vee", arrowsize=0.5 ];
+edge [ color=green, arrowhead=none, arrowtail=none, arrowsize=0.3 ];
+}

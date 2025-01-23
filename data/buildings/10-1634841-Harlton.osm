@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:32:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:39:03Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="60850826" lat="52.1541094" lon="0.0124804" version="4" timestamp="2020-05-26T09:32:07Z" changeset="85760086" uid="9965025" user="meded99">
     <tag k="addr:postcode" v="CB23 1HA"/>
@@ -40,6 +40,16 @@
     <tag k="building" v="public"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Harlton Village Hall"/>
+  </way>
+  <way id="548260617" version="2" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="5296696712"/>
+    <nd ref="5296696713"/>
+    <nd ref="5296696714"/>
+    <nd ref="5296696715"/>
+    <nd ref="5296696712"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Eversden Road"/>
+    <tag k="building" v="yes"/>
   </way>
 
 </osm>

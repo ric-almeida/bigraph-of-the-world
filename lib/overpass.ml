@@ -25,7 +25,7 @@ let rec download (uri : Uri.t) (file_path : string) =
   
 (** downloads osm file of all buildings in area defined by root_id*)
 let query_buildings (root_level : string) (root_id : string) (root_name :string)=
-  let url = api^"?data=relation%28"^root_id^"%29%3Bmap%5Fto%5Farea%3Bnwr%5B%22name%22%5D%5B%22addr%3Astreet%22%5D%28area%29%3Bout%20meta%3B%0A" in
+  let url = api^"?data=relation%28"^root_id^"%29%3Bmap%5Fto%5Farea%2D%3E%2Ea%3B%28nwr%5B%22addr%3Astreet%22%5D%5B%22name%22%5D%28area%2Ea%29%3Bnwr%5B%22addr%3Astreet%22%5D%5B%22addr%3Ahousenumber%22%5D%28area%2Ea%29%3B%29%3Bout%20meta%3B%0A" in
   let file_path = "data/buildings/"^root_level^"-"^root_id^"-"^root_name^".osm" in
   download (Uri.of_string url) file_path
 
@@ -45,7 +45,7 @@ exception TagNotFound of string * string
 let query_all_children (root_level : string) (root_id : string) (root_name :string) =
   let url = api^"?data=rel%28"^root_id^"%29%3B%0Amap_to_area%3B%0Arelation%5B%22boundary%22%3D%22administrative%22%5D%28area%29%28if%3A%20t%5B%22admin_level%22%5D%20%3E%20"^root_level^"%29%3B%0Aout%20meta%3B%0A" in
   let osm_file = "data/boundaries/"^root_level^"-"^root_id^"-"^root_name^".osm" in
-  let _ = download (Uri.of_string url) osm_file in 
+  let _ = Lwt_main.run (download (Uri.of_string url) osm_file) in 
   let (Osm_xml.Types.OSM osm_record) = Osm_xml.Parser.parse_file osm_file in
   match Map.is_empty osm_record.relations with
   | true-> query_buildings root_level root_id root_name

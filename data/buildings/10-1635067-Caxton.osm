@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:37:37Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:40:06Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="1515168720" lat="52.2147290" lon="-0.0960600" version="3" timestamp="2011-11-28T00:07:52Z" changeset="9973433" uid="96695" user="Tim Morley">
     <tag k="addr:housename" v="Cambridge Depot"/>
@@ -29,6 +29,69 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Caxton Village Hall"/>
   </way>
+  <way id="280498318" version="2" timestamp="2023-01-12T23:15:19Z" changeset="131207986" uid="5173844" user="ndrw6">
+    <nd ref="2846076503"/>
+    <nd ref="10544408731"/>
+    <nd ref="10544408730"/>
+    <nd ref="10544408729"/>
+    <nd ref="10544408732"/>
+    <nd ref="2846076504"/>
+    <nd ref="2846076505"/>
+    <nd ref="2846076506"/>
+    <nd ref="2846076503"/>
+    <tag k="addr:city" v="Caxton"/>
+    <tag k="addr:housenumber" v="The Depot"/>
+    <tag k="addr:postcode" v="CB23 3PN"/>
+    <tag k="addr:street" v="Royston Road"/>
+    <tag k="building" v="industrial"/>
+    <tag k="source" v="http://propertylink.estatesgazette.com/property-details/5523495-the-depot"/>
+  </way>
+  <way id="485389838" version="4" timestamp="2017-04-19T12:11:43Z" changeset="47936663" uid="408627" user="Egg5000">
+    <nd ref="4781603674"/>
+    <nd ref="4781603675"/>
+    <nd ref="4781603676"/>
+    <nd ref="4781603677"/>
+    <nd ref="4781603678"/>
+    <nd ref="4781603679"/>
+    <nd ref="4781603680"/>
+    <nd ref="4781603681"/>
+    <nd ref="4781603674"/>
+    <tag k="addr:housename" v="Bryn Mill"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB23 3PP"/>
+    <tag k="addr:street" v="Bourn Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="485391124" version="4" timestamp="2017-04-19T12:06:38Z" changeset="47936451" uid="408627" user="Egg5000">
+    <nd ref="4781619062"/>
+    <nd ref="4781619063"/>
+    <nd ref="4781619091"/>
+    <nd ref="4781619093"/>
+    <nd ref="4781619092"/>
+    <nd ref="4781619064"/>
+    <nd ref="4781619065"/>
+    <nd ref="4781619066"/>
+    <nd ref="4781619062"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Bourn Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="485391125" version="4" timestamp="2024-02-04T20:14:21Z" changeset="147068050" uid="10633286" user="Moorit">
+    <nd ref="4781619067"/>
+    <nd ref="4781619068"/>
+    <nd ref="4781619069"/>
+    <nd ref="4781619070"/>
+    <nd ref="4781619071"/>
+    <nd ref="4781619072"/>
+    <nd ref="4781619073"/>
+    <nd ref="4781619074"/>
+    <nd ref="4781619075"/>
+    <nd ref="4781619076"/>
+    <nd ref="4781619067"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Bourn Road"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="485391128" version="4" timestamp="2023-06-04T17:41:48Z" changeset="136942355" uid="3999" user="BarryMyles">
     <nd ref="4781619087"/>
     <nd ref="4781619088"/>
@@ -46,6 +109,50 @@
     <tag k="ref" v="EACAX"/>
     <tag k="telecom" v="exchange"/>
   </way>
+  <way id="485638916" version="2" timestamp="2023-10-20T18:51:05Z" changeset="142886950" uid="10633286" user="Moorit">
+    <nd ref="4784163497"/>
+    <nd ref="4784163498"/>
+    <nd ref="4784163499"/>
+    <nd ref="4784163500"/>
+    <nd ref="4784163497"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Tates Field"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="485638917" version="2" timestamp="2023-10-20T18:51:05Z" changeset="142886950" uid="10633286" user="Moorit">
+    <nd ref="4784163501"/>
+    <nd ref="4784163502"/>
+    <nd ref="4784163503"/>
+    <nd ref="4784163504"/>
+    <nd ref="4784163501"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Tates Field"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="485642387" version="3" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4784189081"/>
+    <nd ref="4784189082"/>
+    <nd ref="12051440770"/>
+    <nd ref="12051440771"/>
+    <nd ref="4784189083"/>
+    <nd ref="4784189084"/>
+    <nd ref="4784189081"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="CB23 3PS"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="485642388" version="2" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4784189085"/>
+    <nd ref="4784189086"/>
+    <nd ref="4784189087"/>
+    <nd ref="4784189088"/>
+    <nd ref="4784189085"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="CB23 3PS"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="485642389" version="3" timestamp="2017-04-09T09:23:10Z" changeset="47588271" uid="408627" user="Egg5000">
     <nd ref="4784189089"/>
     <nd ref="4784189090"/>
@@ -61,6 +168,169 @@
     <tag k="cuisine" v="thai"/>
     <tag k="name" v="No 77"/>
     <tag k="takeaway" v="yes"/>
+  </way>
+  <way id="485856298" version="2" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4786177536"/>
+    <nd ref="4786177537"/>
+    <nd ref="4786177538"/>
+    <nd ref="4786177539"/>
+    <nd ref="4786177536"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB23 3PS"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="485856299" version="3" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4786177541"/>
+    <nd ref="4786177542"/>
+    <nd ref="4786177543"/>
+    <nd ref="4786177540"/>
+    <nd ref="12051430063"/>
+    <nd ref="12051430062"/>
+    <nd ref="12051430060"/>
+    <nd ref="12051430061"/>
+    <nd ref="12051430059"/>
+    <nd ref="12051430058"/>
+    <nd ref="4786177541"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 3PS"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="485856310" version="2" timestamp="2023-10-20T18:51:05Z" changeset="142886950" uid="10633286" user="Moorit">
+    <nd ref="4786177588"/>
+    <nd ref="4786177589"/>
+    <nd ref="4786177590"/>
+    <nd ref="4786177591"/>
+    <nd ref="4786177588"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Tates Field"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="486333588" version="3" timestamp="2023-10-20T18:51:05Z" changeset="142886950" uid="10633286" user="Moorit">
+    <nd ref="4789651440"/>
+    <nd ref="4789651441"/>
+    <nd ref="4789651442"/>
+    <nd ref="4789651443"/>
+    <nd ref="4789651440"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Tates Field"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="486333618" version="3" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4789651538"/>
+    <nd ref="4789651539"/>
+    <nd ref="4789651540"/>
+    <nd ref="4789651541"/>
+    <nd ref="4789651538"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 3PS"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="486333620" version="2" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4789651542"/>
+    <nd ref="4789651543"/>
+    <nd ref="4789651540"/>
+    <nd ref="4789651541"/>
+    <nd ref="4789651542"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="486333621" version="2" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4789651544"/>
+    <nd ref="4789651545"/>
+    <nd ref="4789651546"/>
+    <nd ref="4789651547"/>
+    <nd ref="4789651544"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="486333622" version="2" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4789651548"/>
+    <nd ref="4789651549"/>
+    <nd ref="4789651547"/>
+    <nd ref="4789651546"/>
+    <nd ref="4789651548"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="486333624" version="2" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4789651550"/>
+    <nd ref="4789651551"/>
+    <nd ref="4789651552"/>
+    <nd ref="4789651553"/>
+    <nd ref="4789651550"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="486333625" version="2" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4789651554"/>
+    <nd ref="4789651555"/>
+    <nd ref="4789651552"/>
+    <nd ref="4789651553"/>
+    <nd ref="4789651554"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="486334367" version="3" timestamp="2024-11-10T21:09:58Z" changeset="158985808" uid="10633286" user="Moorit">
+    <nd ref="4789651571"/>
+    <nd ref="12051440769"/>
+    <nd ref="12051430068"/>
+    <nd ref="12051430067"/>
+    <nd ref="4789651572"/>
+    <nd ref="4789651573"/>
+    <nd ref="4789651574"/>
+    <nd ref="4789651571"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="CB23 3PS"/>
+    <tag k="addr:street" v="Rosemary Greene Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="635091198" version="3" timestamp="2024-10-18T08:30:44Z" changeset="158039752" uid="10633286" user="Moorit">
+    <nd ref="5991846099"/>
+    <nd ref="5991846090"/>
+    <nd ref="5991846092"/>
+    <nd ref="5991846098"/>
+    <nd ref="5991846097"/>
+    <nd ref="5991846095"/>
+    <nd ref="12260644090"/>
+    <nd ref="5991846094"/>
+    <nd ref="7947868947"/>
+    <nd ref="7947868948"/>
+    <nd ref="5991846096"/>
+    <nd ref="5991846099"/>
+    <tag k="addr:city" v="Caxton"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Ermine Street"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="635091200" version="2" timestamp="2024-10-18T08:30:44Z" changeset="158039752" uid="10633286" user="Moorit">
+    <nd ref="5991846109"/>
+    <nd ref="5991846106"/>
+    <nd ref="5991846107"/>
+    <nd ref="5991846108"/>
+    <nd ref="5991846109"/>
+    <tag k="addr:city" v="Caxton"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Ermine Street"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="852052104" version="2" timestamp="2024-10-18T08:30:44Z" changeset="158039752" uid="10633286" user="Moorit">
+    <nd ref="7947868946"/>
+    <nd ref="7947868945"/>
+    <nd ref="7947868944"/>
+    <nd ref="7947868943"/>
+    <nd ref="7947868946"/>
+    <tag k="addr:city" v="Caxton"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Ermine Street"/>
+    <tag k="building" v="yes"/>
   </way>
 
 </osm>

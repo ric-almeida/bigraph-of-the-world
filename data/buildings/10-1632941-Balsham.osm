@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:27:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:32:59Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="2423980475" lat="52.1314054" lon="0.3195442" version="2" timestamp="2013-09-09T18:49:39Z" changeset="17755096" uid="607399" user="ehm1806">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
+  <node id="2423980860" lat="52.1314012" lon="0.3196045" version="1" timestamp="2013-08-19T11:10:17Z" changeset="17409403" uid="281267" user="smb1001">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="High Street"/>
+  </node>
   <way id="4537709" version="9" timestamp="2023-09-29T11:56:39Z" changeset="141908856" uid="37791" user="Fradeve11">
     <nd ref="28206463"/>
     <nd ref="2423117367"/>
@@ -69,6 +77,21 @@
     <tag k="building" v="public"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Balsham Village Hall"/>
+  </way>
+  <way id="234096862" version="1" timestamp="2013-08-19T11:25:02Z" changeset="17409403" uid="281267" user="smb1001">
+    <nd ref="2423994105"/>
+    <nd ref="2423994042"/>
+    <nd ref="2423994060"/>
+    <nd ref="2423994075"/>
+    <nd ref="2423994050"/>
+    <nd ref="2423994108"/>
+    <nd ref="2423994134"/>
+    <nd ref="2423994125"/>
+    <nd ref="2423994105"/>
+    <tag k="addr:housename" v="Balsham Manor"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
   </way>
 
 </osm>

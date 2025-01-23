@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:28:30Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:34:00Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="5627391821" lat="52.1167069" lon="0.2200807" version="2" timestamp="2018-05-19T05:55:47Z" changeset="59095743" uid="322785" user="BCNorwich">
     <tag k="addr:city" v="Cambridge"/>
@@ -14,6 +14,74 @@
     <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
     <tag k="website" v="https://www.illumina.com/"/>
   </node>
+  <way id="78871882" version="2" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="923558744"/>
+    <nd ref="923559079"/>
+    <nd ref="923559006"/>
+    <nd ref="923558802"/>
+    <nd ref="923558744"/>
+    <tag k="addr:housenumber" v="47a"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="78871884" version="3" timestamp="2024-03-05T19:13:51Z" changeset="148264455" uid="5173844" user="ndrw6">
+    <nd ref="923559127"/>
+    <nd ref="11694836405"/>
+    <nd ref="11694836406"/>
+    <nd ref="923558637"/>
+    <nd ref="923558685"/>
+    <nd ref="11694836407"/>
+    <nd ref="11694836408"/>
+    <nd ref="923558747"/>
+    <nd ref="923559127"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="OS Opendata StreetView"/>
+  </way>
+  <way id="78871900" version="2" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="923558985"/>
+    <nd ref="923559059"/>
+    <nd ref="923558981"/>
+    <nd ref="923559042"/>
+    <nd ref="923558985"/>
+    <tag k="addr:housenumber" v="57a"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+    <tag k="fixme:building" v="Who are the tenants of this building?"/>
+    <tag k="note" v="This building may no longer exist."/>
+    <tag k="source" v="OS Opendata StreetView"/>
+  </way>
+  <way id="78871927" version="2" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="923559062"/>
+    <nd ref="923558861"/>
+    <nd ref="923558679"/>
+    <nd ref="923559122"/>
+    <nd ref="923559062"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="78871930" version="4" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="923558762"/>
+    <nd ref="923558818"/>
+    <nd ref="923558872"/>
+    <nd ref="12405784610"/>
+    <nd ref="12405784609"/>
+    <nd ref="923558800"/>
+    <nd ref="923558762"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="OS Opendata StreetView"/>
+  </way>
   <way id="78871936" version="3" timestamp="2022-04-15T13:03:03Z" changeset="119750710" uid="15588944" user="Grenville Myer">
     <nd ref="923559041"/>
     <nd ref="7950398182"/>
@@ -34,6 +102,18 @@
     <tag k="shop" v="greengrocer"/>
     <tag k="source" v="OS Opendata StreetView"/>
   </way>
+  <way id="78871947" version="2" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="923558973"/>
+    <nd ref="923559087"/>
+    <nd ref="923559020"/>
+    <nd ref="923559035"/>
+    <nd ref="923558973"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="Bing"/>
+  </way>
   <way id="478269398" version="3" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
     <nd ref="4715054380"/>
     <nd ref="4715054381"/>
@@ -47,6 +127,19 @@
     <tag k="addr:street" v="North Road"/>
     <tag k="building" v="house"/>
     <tag k="name" v="Cow Shed Barn"/>
+  </way>
+  <way id="584479173" version="3" timestamp="2022-09-02T02:47:05Z" changeset="125677196" uid="5173844" user="ndrw6">
+    <nd ref="5587025226"/>
+    <nd ref="5587025227"/>
+    <nd ref="5587025228"/>
+    <nd ref="9993985246"/>
+    <nd ref="9993985247"/>
+    <nd ref="5587025229"/>
+    <nd ref="5587025226"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB21 6AQ"/>
+    <tag k="addr:street" v="Pampisford Road"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="584479233" version="3" timestamp="2020-01-20T21:44:24Z" changeset="79818634" uid="364" user="Edward">
     <nd ref="5587025568"/>
@@ -63,6 +156,603 @@
     <tag k="name" v="Nisa"/>
     <tag k="shop" v="convenience"/>
     <tag k="wikidata" v="Q26616068"/>
+  </way>
+  <way id="639199140" version="3" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="6023458517"/>
+    <nd ref="12405784507"/>
+    <nd ref="12405784506"/>
+    <nd ref="6023458514"/>
+    <nd ref="6023458515"/>
+    <nd ref="12405784508"/>
+    <nd ref="12405784509"/>
+    <nd ref="6023458516"/>
+    <nd ref="6023458517"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751414970" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024437005"/>
+    <nd ref="7024437004"/>
+    <nd ref="7024437003"/>
+    <nd ref="7024437001"/>
+    <nd ref="7024437000"/>
+    <nd ref="7024437002"/>
+    <nd ref="7024437005"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751414974" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024437023"/>
+    <nd ref="7024437020"/>
+    <nd ref="7024437018"/>
+    <nd ref="7024437019"/>
+    <nd ref="7024437021"/>
+    <nd ref="7024437022"/>
+    <nd ref="7024437023"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751414976" version="3" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7024437031"/>
+    <nd ref="12405784514"/>
+    <nd ref="12405784515"/>
+    <nd ref="7024437030"/>
+    <nd ref="7024437029"/>
+    <nd ref="7024437028"/>
+    <nd ref="7024437031"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751414990" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024474792"/>
+    <nd ref="7024474789"/>
+    <nd ref="7024474790"/>
+    <nd ref="7024474787"/>
+    <nd ref="7024474788"/>
+    <nd ref="7024474791"/>
+    <nd ref="7024474792"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751414995" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024474812"/>
+    <nd ref="7024474809"/>
+    <nd ref="7024474810"/>
+    <nd ref="7024474811"/>
+    <nd ref="7024474812"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751414996" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024474816"/>
+    <nd ref="7024474815"/>
+    <nd ref="7024474814"/>
+    <nd ref="7024474813"/>
+    <nd ref="7024474816"/>
+    <tag k="addr:housenumber" v="20a"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751414999" version="3" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7024474828"/>
+    <nd ref="7024474827"/>
+    <nd ref="7024474826"/>
+    <nd ref="7024474825"/>
+    <nd ref="12405784524"/>
+    <nd ref="12405784525"/>
+    <nd ref="7024474828"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751415000" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024474832"/>
+    <nd ref="7024474829"/>
+    <nd ref="7024474830"/>
+    <nd ref="7024474831"/>
+    <nd ref="7024474832"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751415005" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024474852"/>
+    <nd ref="7024474849"/>
+    <nd ref="7024474850"/>
+    <nd ref="7024474851"/>
+    <nd ref="7024474852"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751415007" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024474862"/>
+    <nd ref="7024474859"/>
+    <nd ref="7024474860"/>
+    <nd ref="7024474861"/>
+    <nd ref="7024474857"/>
+    <nd ref="7024474858"/>
+    <nd ref="7024474862"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751415011" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024474880"/>
+    <nd ref="7024474879"/>
+    <nd ref="7024474876"/>
+    <nd ref="7024474875"/>
+    <nd ref="7024474878"/>
+    <nd ref="7024474877"/>
+    <nd ref="7024474880"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751415012" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7024474888"/>
+    <nd ref="7024474885"/>
+    <nd ref="7024474884"/>
+    <nd ref="7024474882"/>
+    <nd ref="7024474881"/>
+    <nd ref="7024474883"/>
+    <nd ref="7024474886"/>
+    <nd ref="7024474887"/>
+    <nd ref="7024474888"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751415039" version="3" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="12405784580"/>
+    <nd ref="7024475012"/>
+    <nd ref="7024475009"/>
+    <nd ref="7024475008"/>
+    <nd ref="7024475007"/>
+    <nd ref="12405784579"/>
+    <nd ref="12405784580"/>
+    <tag k="addr:housenumber" v="6-7"/>
+    <tag k="addr:postcode" v="CB21 6AT"/>
+    <tag k="addr:street" v="Chalky Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="751415042" version="2" timestamp="2021-02-05T09:37:17Z" changeset="98757254" uid="1287673" user="sloerunner">
+    <nd ref="7024475024"/>
+    <nd ref="7024475021"/>
+    <nd ref="7024475022"/>
+    <nd ref="7024475023"/>
+    <nd ref="7024475024"/>
+    <tag k="addr:housenumber" v="4-5"/>
+    <tag k="addr:postcode" v="CB21 6AT"/>
+    <tag k="addr:street" v="Chalky Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="852316749" version="2" timestamp="2020-09-29T14:23:23Z" changeset="91713766" uid="616774" user="mueschel">
+    <nd ref="7950398175"/>
+    <nd ref="7950398174"/>
+    <nd ref="7950398173"/>
+    <nd ref="7950398172"/>
+    <nd ref="7950398175"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316752" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406593"/>
+    <nd ref="7950406590"/>
+    <nd ref="7950406591"/>
+    <nd ref="7950406592"/>
+    <nd ref="7950406593"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316753" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406597"/>
+    <nd ref="7950406596"/>
+    <nd ref="7950406595"/>
+    <nd ref="7950406594"/>
+    <nd ref="7950406597"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316754" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406601"/>
+    <nd ref="7950406598"/>
+    <nd ref="7950406599"/>
+    <nd ref="7950406600"/>
+    <nd ref="7950406601"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316757" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406613"/>
+    <nd ref="7950406610"/>
+    <nd ref="7950406611"/>
+    <nd ref="7950406612"/>
+    <nd ref="7950406613"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316758" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406617"/>
+    <nd ref="7950406614"/>
+    <nd ref="7950406615"/>
+    <nd ref="7950406616"/>
+    <nd ref="7950406617"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316760" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406625"/>
+    <nd ref="7950406624"/>
+    <nd ref="7950406623"/>
+    <nd ref="7950406622"/>
+    <nd ref="7950406625"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316761" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406629"/>
+    <nd ref="7950406628"/>
+    <nd ref="7950406627"/>
+    <nd ref="7950406626"/>
+    <nd ref="7950406629"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316762" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406633"/>
+    <nd ref="7950406632"/>
+    <nd ref="7950406631"/>
+    <nd ref="7950406630"/>
+    <nd ref="7950406633"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316764" version="2" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7950406641"/>
+    <nd ref="7950406640"/>
+    <nd ref="12405784619"/>
+    <nd ref="12405784620"/>
+    <nd ref="7950406639"/>
+    <nd ref="7950406638"/>
+    <nd ref="12405784618"/>
+    <nd ref="12405784617"/>
+    <nd ref="7950406641"/>
+    <tag k="addr:housenumber" v="44b"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316767" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406655"/>
+    <nd ref="7950406654"/>
+    <nd ref="7950406653"/>
+    <nd ref="7950406652"/>
+    <nd ref="7950406655"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316768" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406659"/>
+    <nd ref="7950406656"/>
+    <nd ref="7950406657"/>
+    <nd ref="7950406658"/>
+    <nd ref="7950406659"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316769" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406663"/>
+    <nd ref="7950406660"/>
+    <nd ref="7950406661"/>
+    <nd ref="7950406662"/>
+    <nd ref="7950406663"/>
+    <tag k="addr:housenumber" v="43a"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316770" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406667"/>
+    <nd ref="7950406666"/>
+    <nd ref="7950406665"/>
+    <nd ref="7950406664"/>
+    <nd ref="7950406667"/>
+    <tag k="addr:housenumber" v="42a"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316771" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406671"/>
+    <nd ref="7950406668"/>
+    <nd ref="7950406669"/>
+    <nd ref="7950406670"/>
+    <nd ref="7950406671"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316773" version="2" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7950406679"/>
+    <nd ref="7950406678"/>
+    <nd ref="12405784615"/>
+    <nd ref="12405784616"/>
+    <nd ref="7950406677"/>
+    <nd ref="7950406676"/>
+    <nd ref="7950406679"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316774" version="2" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7950406685"/>
+    <nd ref="7950406684"/>
+    <nd ref="7950406683"/>
+    <nd ref="12405784588"/>
+    <nd ref="12405784587"/>
+    <nd ref="7950406682"/>
+    <nd ref="7950406681"/>
+    <nd ref="7950406680"/>
+    <nd ref="7950406685"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316775" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406693"/>
+    <nd ref="7950406692"/>
+    <nd ref="7950406691"/>
+    <nd ref="7950406690"/>
+    <nd ref="7950406689"/>
+    <nd ref="7950406688"/>
+    <nd ref="7950406687"/>
+    <nd ref="7950406686"/>
+    <nd ref="7950406693"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="852316776" version="1" timestamp="2020-09-28T08:43:37Z" changeset="91625475" uid="1287673" user="sloerunner">
+    <nd ref="7950406697"/>
+    <nd ref="7950406696"/>
+    <nd ref="7950406695"/>
+    <nd ref="7950406694"/>
+    <nd ref="7950406697"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="CB21 6AS"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237167" version="2" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7959084053"/>
+    <nd ref="7959084052"/>
+    <nd ref="7959084051"/>
+    <nd ref="12405784453"/>
+    <nd ref="12405784452"/>
+    <nd ref="7959084050"/>
+    <nd ref="7959084053"/>
+    <tag k="addr:housenumber" v="34a"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+    <tag k="fixme" v="approx position of new house"/>
+  </way>
+  <way id="853237168" version="2" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7959084057"/>
+    <nd ref="7959084054"/>
+    <nd ref="12405784477"/>
+    <nd ref="12405784476"/>
+    <nd ref="7959084055"/>
+    <nd ref="7959084056"/>
+    <nd ref="7959084057"/>
+    <tag k="addr:housenumber" v="35a"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+    <tag k="fixme" v="approx position of new house"/>
+  </way>
+  <way id="853237169" version="1" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7959084061"/>
+    <nd ref="7959084060"/>
+    <nd ref="7959084059"/>
+    <nd ref="7959084058"/>
+    <nd ref="7959084061"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237170" version="1" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7959084065"/>
+    <nd ref="7959084064"/>
+    <nd ref="7959084063"/>
+    <nd ref="7959084062"/>
+    <nd ref="7959084065"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237174" version="2" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7959088094"/>
+    <nd ref="7959088093"/>
+    <nd ref="7959088092"/>
+    <nd ref="7959088091"/>
+    <nd ref="12405784486"/>
+    <nd ref="12405784487"/>
+    <nd ref="7959088094"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237176" version="1" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7959088119"/>
+    <nd ref="7959088118"/>
+    <nd ref="7959088117"/>
+    <nd ref="7959088116"/>
+    <nd ref="7959088119"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237177" version="1" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7959088123"/>
+    <nd ref="7959088122"/>
+    <nd ref="7959088121"/>
+    <nd ref="7959088120"/>
+    <nd ref="7959088123"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237178" version="2" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7959088127"/>
+    <nd ref="7959088126"/>
+    <nd ref="12405784426"/>
+    <nd ref="12405784427"/>
+    <nd ref="7959088125"/>
+    <nd ref="7959088124"/>
+    <nd ref="7959088127"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237180" version="2" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7959088135"/>
+    <nd ref="7959088134"/>
+    <nd ref="7959088133"/>
+    <nd ref="12405784455"/>
+    <nd ref="12405784454"/>
+    <nd ref="7959088132"/>
+    <nd ref="7959088135"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237181" version="2" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="7959088139"/>
+    <nd ref="12405784468"/>
+    <nd ref="12405784467"/>
+    <nd ref="12405784466"/>
+    <nd ref="12405784469"/>
+    <nd ref="7959088138"/>
+    <nd ref="7959088137"/>
+    <nd ref="7959088136"/>
+    <nd ref="7959088139"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237185" version="1" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7959088153"/>
+    <nd ref="7959088150"/>
+    <nd ref="7959088151"/>
+    <nd ref="7959088152"/>
+    <nd ref="7959088153"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237186" version="1" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7959088157"/>
+    <nd ref="7959088154"/>
+    <nd ref="7959088155"/>
+    <nd ref="7959088156"/>
+    <nd ref="7959088157"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237187" version="1" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7959088161"/>
+    <nd ref="7959088160"/>
+    <nd ref="7959088159"/>
+    <nd ref="7959088158"/>
+    <nd ref="7959088161"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="853237188" version="1" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
+    <nd ref="7959088162"/>
+    <nd ref="7959088169"/>
+    <nd ref="7959088168"/>
+    <nd ref="7959088167"/>
+    <nd ref="7959088163"/>
+    <nd ref="7959088165"/>
+    <nd ref="7959088166"/>
+    <nd ref="7959088164"/>
+    <nd ref="7959088162"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="CB21 6AU"/>
+    <tag k="addr:street" v="South Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1341116642" version="1" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
+    <nd ref="12405784579"/>
+    <nd ref="7024475010"/>
+    <nd ref="7024475011"/>
+    <nd ref="12405784580"/>
+    <nd ref="12405784579"/>
+    <tag k="addr:housenumber" v="6-7"/>
+    <tag k="addr:postcode" v="CB21 6AT"/>
+    <tag k="addr:street" v="Chalky Road"/>
+    <tag k="building" v="house"/>
   </way>
 
 </osm>

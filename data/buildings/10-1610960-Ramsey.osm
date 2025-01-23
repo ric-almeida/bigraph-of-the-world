@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:20:16Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:22:54Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="705529678" lat="52.4489776" lon="-0.1070382" version="10" timestamp="2024-12-14T17:02:55Z" changeset="160286022" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Huntingdon"/>
@@ -130,6 +130,20 @@
     <tag k="name" v="Harvey's"/>
     <tag k="operator" v="Harvey's of Ramsey"/>
     <tag k="shop" v="clothes"/>
+  </node>
+  <node id="7824547066" lat="52.4499173" lon="-0.1189184" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+  </node>
+  <node id="7824547067" lat="52.4499590" lon="-0.1187521" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
   </node>
   <node id="8739793705" lat="52.4670234" lon="-0.1022385" version="3" timestamp="2024-05-29T13:50:47Z" changeset="151990898" uid="95856" user="john paul jones &amp; gringo">
     <tag k="addr:city" v="Huntingdon"/>
@@ -278,6 +292,17 @@
     <tag k="phone" v="+44 330 838 9757"/>
     <tag k="shop" v="variety_store"/>
   </way>
+  <way id="143310487" version="3" timestamp="2024-12-21T23:54:39Z" changeset="160487127" uid="5173844" user="ndrw6">
+    <nd ref="1568281896"/>
+    <nd ref="1568281868"/>
+    <nd ref="1568281928"/>
+    <nd ref="1568281965"/>
+    <nd ref="1568281896"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Church Green"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="231915993" version="13" timestamp="2023-10-21T18:00:35Z" changeset="142935242" uid="9451067" user="b-jazz-bot">
     <nd ref="1736653207"/>
     <nd ref="2402410530"/>
@@ -394,6 +419,18 @@
     <tag k="operator" v="The Elliot Foundation"/>
     <tag k="ref:edubase" v="143775"/>
     <tag k="wikidata" v="Q66231716"/>
+  </way>
+  <way id="276536821" version="1" timestamp="2014-04-23T16:02:31Z" changeset="21889673" uid="1876487" user="Jordan Mann">
+    <nd ref="2403644541"/>
+    <nd ref="2403644512"/>
+    <nd ref="2403644660"/>
+    <nd ref="2811331003"/>
+    <nd ref="2403644421"/>
+    <nd ref="2403644541"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="3-5"/>
+    <tag k="addr:street" v="Great Whyte"/>
+    <tag k="building" v="yes"/>
   </way>
   <way id="344515039" version="5" timestamp="2024-05-29T13:57:37Z" changeset="151991179" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="3512513225"/>
@@ -614,6 +651,33 @@
     <tag k="opening_hours" v="Mo-Fr 09:00-17:30"/>
     <tag k="shop" v="wine"/>
   </way>
+  <way id="657095201" version="5" timestamp="2024-12-21T23:54:39Z" changeset="160487127" uid="5173844" user="ndrw6">
+    <nd ref="6154555885"/>
+    <nd ref="6154555882"/>
+    <nd ref="6154555883"/>
+    <nd ref="6154555884"/>
+    <nd ref="6154555885"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="10-11"/>
+    <tag k="addr:postcode" v="PE26 1DW"/>
+    <tag k="addr:street" v="Church Green"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="657095337" version="4" timestamp="2024-12-21T20:38:40Z" changeset="160482709" uid="5173844" user="ndrw6">
+    <nd ref="6154556677"/>
+    <nd ref="6154556674"/>
+    <nd ref="6154556675"/>
+    <nd ref="6154556676"/>
+    <nd ref="6154556677"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="PE26 1SG"/>
+    <tag k="addr:street" v="Hopbine Court"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="800550737" version="5" timestamp="2024-08-17T16:23:58Z" changeset="155379286" uid="11022773" user="GeoFens">
     <nd ref="12117136043"/>
     <nd ref="9659383921"/>
@@ -659,6 +723,868 @@
     <tag k="operator:wikidata" v="Q5025656"/>
     <tag k="website" v="https://www.cambsfire.gov.uk/find-a-fire-station/ramsey-fire-station/"/>
   </way>
+  <way id="802992244" version="6" timestamp="2024-12-21T23:54:39Z" changeset="160487127" uid="5173844" user="ndrw6">
+    <nd ref="7511422292"/>
+    <nd ref="7511422288"/>
+    <nd ref="7511422287"/>
+    <nd ref="7511422289"/>
+    <nd ref="7511422290"/>
+    <nd ref="7511422291"/>
+    <nd ref="7511422292"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="PE26 1DW"/>
+    <tag k="addr:street" v="Church Green"/>
+    <tag k="addr:suburb" v="Ramsey"/>
+    <tag k="building" v="house"/>
+    <tag k="old_name" v="Ramsey Town Council"/>
+  </way>
+  <way id="802992245" version="3" timestamp="2024-12-21T23:54:39Z" changeset="160487127" uid="5173844" user="ndrw6">
+    <nd ref="7511422296"/>
+    <nd ref="7511422293"/>
+    <nd ref="7511422294"/>
+    <nd ref="7511422295"/>
+    <nd ref="7511422296"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Church Green"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="802992246" version="3" timestamp="2024-12-21T23:54:39Z" changeset="160487127" uid="5173844" user="ndrw6">
+    <nd ref="7511422302"/>
+    <nd ref="7511422299"/>
+    <nd ref="7511422298"/>
+    <nd ref="7511422297"/>
+    <nd ref="7511422300"/>
+    <nd ref="7511422301"/>
+    <nd ref="7511422302"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housename" v="Ramsey Abbey Estate Offices"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Church Green"/>
+    <tag k="building" v="house"/>
+    <tag k="old_name" v="Ramsey Town Council"/>
+  </way>
+  <way id="802992247" version="3" timestamp="2024-12-21T23:54:39Z" changeset="160487127" uid="5173844" user="ndrw6">
+    <nd ref="7511422309"/>
+    <nd ref="7511422306"/>
+    <nd ref="7511422304"/>
+    <nd ref="7511422303"/>
+    <nd ref="7511422305"/>
+    <nd ref="7511422307"/>
+    <nd ref="7511422308"/>
+    <nd ref="7511422309"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housename" v="Abbey House"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Church Green"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="802992248" version="3" timestamp="2024-12-21T23:54:39Z" changeset="160487127" uid="5173844" user="ndrw6">
+    <nd ref="7511422313"/>
+    <nd ref="7511422310"/>
+    <nd ref="7511422311"/>
+    <nd ref="7511422312"/>
+    <nd ref="7511422313"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Church Green"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="802992249" version="3" timestamp="2024-12-21T23:54:39Z" changeset="160487127" uid="5173844" user="ndrw6">
+    <nd ref="7511422317"/>
+    <nd ref="7511422314"/>
+    <nd ref="7511422315"/>
+    <nd ref="7511422316"/>
+    <nd ref="7511422317"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Church Green"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="802992302" version="3" timestamp="2024-12-21T23:54:39Z" changeset="160487127" uid="5173844" user="ndrw6">
+    <nd ref="7511422538"/>
+    <nd ref="7511422537"/>
+    <nd ref="7511422536"/>
+    <nd ref="7511422535"/>
+    <nd ref="7511422538"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="1-3"/>
+    <tag k="addr:street" v="Church Green"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362959" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865755"/>
+    <nd ref="7824550344"/>
+    <nd ref="7824550343"/>
+    <nd ref="7514865754"/>
+    <nd ref="7514865755"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362960" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865759"/>
+    <nd ref="7824550346"/>
+    <nd ref="7824550345"/>
+    <nd ref="7514865758"/>
+    <nd ref="7514865759"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362961" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865764"/>
+    <nd ref="7514865761"/>
+    <nd ref="7514865762"/>
+    <nd ref="7514865763"/>
+    <nd ref="7514865764"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362962" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865768"/>
+    <nd ref="7514865765"/>
+    <nd ref="7514865766"/>
+    <nd ref="7514865767"/>
+    <nd ref="7514865768"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362963" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865770"/>
+    <nd ref="7514865772"/>
+    <nd ref="7514865773"/>
+    <nd ref="7514865769"/>
+    <nd ref="7514865770"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362964" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865769"/>
+    <nd ref="7514865774"/>
+    <nd ref="7514865771"/>
+    <nd ref="7514865770"/>
+    <nd ref="7514865769"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362965" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865778"/>
+    <nd ref="7514865777"/>
+    <nd ref="7514865776"/>
+    <nd ref="7514865775"/>
+    <nd ref="7514865778"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362966" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865782"/>
+    <nd ref="7514865781"/>
+    <nd ref="7514865780"/>
+    <nd ref="7514865779"/>
+    <nd ref="7514865782"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362967" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865788"/>
+    <nd ref="7514865785"/>
+    <nd ref="7514865783"/>
+    <nd ref="7514865784"/>
+    <nd ref="7514865786"/>
+    <nd ref="7514865787"/>
+    <nd ref="7514865788"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362968" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865790"/>
+    <nd ref="7514865789"/>
+    <nd ref="7514865793"/>
+    <nd ref="7514865792"/>
+    <nd ref="7514865790"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362970" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514821383"/>
+    <nd ref="7514821380"/>
+    <nd ref="7514821381"/>
+    <nd ref="7514821382"/>
+    <nd ref="7514821383"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362972" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865888"/>
+    <nd ref="7824550338"/>
+    <nd ref="7824550337"/>
+    <nd ref="7514865889"/>
+    <nd ref="7514865888"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362973" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865895"/>
+    <nd ref="7514865894"/>
+    <nd ref="7514865893"/>
+    <nd ref="7514865892"/>
+    <nd ref="7514865895"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362974" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865899"/>
+    <nd ref="7514865898"/>
+    <nd ref="7514865897"/>
+    <nd ref="7514865896"/>
+    <nd ref="7514865899"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362975" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865903"/>
+    <nd ref="7514865902"/>
+    <nd ref="7514865901"/>
+    <nd ref="7514865900"/>
+    <nd ref="7514865903"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362976" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865909"/>
+    <nd ref="7514865908"/>
+    <nd ref="7514865907"/>
+    <nd ref="7514865904"/>
+    <nd ref="7514865905"/>
+    <nd ref="7514865906"/>
+    <nd ref="7514865909"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362977" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865912"/>
+    <nd ref="7514865911"/>
+    <nd ref="7514865910"/>
+    <nd ref="7514865915"/>
+    <nd ref="7514865912"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362978" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865915"/>
+    <nd ref="7514865914"/>
+    <nd ref="7514865913"/>
+    <nd ref="7514865912"/>
+    <nd ref="7514865915"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362979" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865918"/>
+    <nd ref="7514865917"/>
+    <nd ref="7514865916"/>
+    <nd ref="7514865921"/>
+    <nd ref="7514865918"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362980" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865921"/>
+    <nd ref="7514865920"/>
+    <nd ref="7514865919"/>
+    <nd ref="7514865918"/>
+    <nd ref="7514865921"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362981" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865923"/>
+    <nd ref="7514865926"/>
+    <nd ref="7514865925"/>
+    <nd ref="7514865922"/>
+    <nd ref="7514865923"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362982" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865922"/>
+    <nd ref="7514865924"/>
+    <nd ref="7514865927"/>
+    <nd ref="7514865923"/>
+    <nd ref="7514865922"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362983" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865931"/>
+    <nd ref="7824550340"/>
+    <nd ref="7824550339"/>
+    <nd ref="7514865928"/>
+    <nd ref="7514865931"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362985" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865939"/>
+    <nd ref="7514865936"/>
+    <nd ref="7514865937"/>
+    <nd ref="7514865938"/>
+    <nd ref="7514865939"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362986" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865940"/>
+    <nd ref="7514865942"/>
+    <nd ref="7514865943"/>
+    <nd ref="7514865941"/>
+    <nd ref="7514865940"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362987" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865941"/>
+    <nd ref="7514865944"/>
+    <nd ref="7514865945"/>
+    <nd ref="7514865940"/>
+    <nd ref="7514865941"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362988" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865949"/>
+    <nd ref="7514865946"/>
+    <nd ref="7514865947"/>
+    <nd ref="7514865948"/>
+    <nd ref="7514865949"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362990" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865957"/>
+    <nd ref="7514865956"/>
+    <nd ref="7514865955"/>
+    <nd ref="7514865954"/>
+    <nd ref="7514865957"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362991" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865961"/>
+    <nd ref="7514865960"/>
+    <nd ref="7514865959"/>
+    <nd ref="7514865958"/>
+    <nd ref="7514865961"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362992" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865965"/>
+    <nd ref="7514865964"/>
+    <nd ref="7514865963"/>
+    <nd ref="7514865962"/>
+    <nd ref="7514865965"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362993" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865967"/>
+    <nd ref="7514865966"/>
+    <nd ref="7514865970"/>
+    <nd ref="7514865969"/>
+    <nd ref="7514865967"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362995" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865974"/>
+    <nd ref="7514865973"/>
+    <nd ref="7514865972"/>
+    <nd ref="7514865977"/>
+    <nd ref="7514865974"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362996" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865977"/>
+    <nd ref="7514865976"/>
+    <nd ref="7514865975"/>
+    <nd ref="7514865974"/>
+    <nd ref="7514865977"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362997" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865980"/>
+    <nd ref="7514865979"/>
+    <nd ref="7514865978"/>
+    <nd ref="7514865983"/>
+    <nd ref="7514865980"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362998" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865983"/>
+    <nd ref="7514865982"/>
+    <nd ref="7514865981"/>
+    <nd ref="7514865980"/>
+    <nd ref="7514865983"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803362999" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865985"/>
+    <nd ref="7514865987"/>
+    <nd ref="7514865988"/>
+    <nd ref="7514865984"/>
+    <nd ref="7514865985"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363000" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514865984"/>
+    <nd ref="7514865989"/>
+    <nd ref="7514865986"/>
+    <nd ref="7514865985"/>
+    <nd ref="7514865984"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363002" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866001"/>
+    <nd ref="7514865998"/>
+    <nd ref="7514865999"/>
+    <nd ref="7514866000"/>
+    <nd ref="7514866001"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363003" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866003"/>
+    <nd ref="7514866005"/>
+    <nd ref="7514866006"/>
+    <nd ref="7514866002"/>
+    <nd ref="7514866003"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363004" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866002"/>
+    <nd ref="7514866007"/>
+    <nd ref="7514866004"/>
+    <nd ref="7514866003"/>
+    <nd ref="7514866002"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363005" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866009"/>
+    <nd ref="7514866012"/>
+    <nd ref="7514866011"/>
+    <nd ref="7514866008"/>
+    <nd ref="7514866009"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363006" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866008"/>
+    <nd ref="7514866010"/>
+    <nd ref="7514866013"/>
+    <nd ref="7514866009"/>
+    <nd ref="7514866008"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363007" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866017"/>
+    <nd ref="7514866014"/>
+    <nd ref="7514866015"/>
+    <nd ref="7514866016"/>
+    <nd ref="7514866017"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363008" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866021"/>
+    <nd ref="7514866018"/>
+    <nd ref="7514866019"/>
+    <nd ref="7514866020"/>
+    <nd ref="7514866021"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363009" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866025"/>
+    <nd ref="7514866024"/>
+    <nd ref="7514866023"/>
+    <nd ref="7514866022"/>
+    <nd ref="7514866025"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363010" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866029"/>
+    <nd ref="7514866026"/>
+    <nd ref="7514866027"/>
+    <nd ref="7514866028"/>
+    <nd ref="7514866029"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363011" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866033"/>
+    <nd ref="7514866032"/>
+    <nd ref="7514866031"/>
+    <nd ref="7514866030"/>
+    <nd ref="7514866033"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363012" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824550347"/>
+    <nd ref="7514866035"/>
+    <nd ref="7514866034"/>
+    <nd ref="7824550348"/>
+    <nd ref="7824550347"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363013" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866035"/>
+    <nd ref="7514866039"/>
+    <nd ref="7514866036"/>
+    <nd ref="7514866034"/>
+    <nd ref="7514866035"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363014" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866043"/>
+    <nd ref="7514866040"/>
+    <nd ref="7514866041"/>
+    <nd ref="7514866042"/>
+    <nd ref="7514866043"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363015" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866045"/>
+    <nd ref="7514866069"/>
+    <nd ref="7514866070"/>
+    <nd ref="7514866044"/>
+    <nd ref="7514866045"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363016" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866047"/>
+    <nd ref="7514866061"/>
+    <nd ref="7514866060"/>
+    <nd ref="7514866046"/>
+    <nd ref="7514866047"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363017" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866049"/>
+    <nd ref="7514866065"/>
+    <nd ref="7514866064"/>
+    <nd ref="7514866048"/>
+    <nd ref="7514866049"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363018" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866050"/>
+    <nd ref="7514866055"/>
+    <nd ref="7514866052"/>
+    <nd ref="7514866051"/>
+    <nd ref="7514866050"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363019" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866051"/>
+    <nd ref="7514866053"/>
+    <nd ref="7514866054"/>
+    <nd ref="7514866050"/>
+    <nd ref="7514866051"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363020" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866059"/>
+    <nd ref="7514866056"/>
+    <nd ref="7514866057"/>
+    <nd ref="7514866058"/>
+    <nd ref="7514866059"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363021" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866046"/>
+    <nd ref="7514866063"/>
+    <nd ref="7514866062"/>
+    <nd ref="7514866047"/>
+    <nd ref="7514866046"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363022" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866048"/>
+    <nd ref="7514866067"/>
+    <nd ref="7514866066"/>
+    <nd ref="7514866049"/>
+    <nd ref="7514866048"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="803363023" version="2" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7514866044"/>
+    <nd ref="7514866071"/>
+    <nd ref="7514866068"/>
+    <nd ref="7514866045"/>
+    <nd ref="7514866044"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="PE26 1LD"/>
+    <tag k="addr:street" v="Muir Grove"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="803919224" version="3" timestamp="2024-12-12T00:12:48Z" changeset="160189086" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="7519884356"/>
     <nd ref="7519884353"/>
@@ -676,6 +1602,114 @@
     <tag k="name" v="Ramsey Dental Surgery"/>
     <tag k="website" v="https://www.ramseydentalsurgery.co.uk"/>
   </way>
+  <way id="804458088" version="2" timestamp="2022-03-19T18:19:27Z" changeset="118675134" uid="11022773" user="GeoFens">
+    <nd ref="7524516933"/>
+    <nd ref="7524516932"/>
+    <nd ref="7524516931"/>
+    <nd ref="7524516930"/>
+    <nd ref="7524516933"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Hopbine Court"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458089" version="3" timestamp="2024-12-21T20:38:40Z" changeset="160482709" uid="5173844" user="ndrw6">
+    <nd ref="7524516937"/>
+    <nd ref="7524516934"/>
+    <nd ref="7524516935"/>
+    <nd ref="7524516936"/>
+    <nd ref="7524516937"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Hopbine Court"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458090" version="3" timestamp="2024-12-21T20:38:40Z" changeset="160482709" uid="5173844" user="ndrw6">
+    <nd ref="7524516941"/>
+    <nd ref="7524516940"/>
+    <nd ref="7524516939"/>
+    <nd ref="7524516938"/>
+    <nd ref="7524516941"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Hopbine Court"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458091" version="3" timestamp="2024-12-21T20:38:40Z" changeset="160482709" uid="5173844" user="ndrw6">
+    <nd ref="7524516945"/>
+    <nd ref="7524516942"/>
+    <nd ref="7524516943"/>
+    <nd ref="7524516944"/>
+    <nd ref="7524516945"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Hopbine Court"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458092" version="3" timestamp="2024-12-21T20:38:40Z" changeset="160482709" uid="5173844" user="ndrw6">
+    <nd ref="7524516949"/>
+    <nd ref="7524516948"/>
+    <nd ref="7524516947"/>
+    <nd ref="7524516946"/>
+    <nd ref="7524516949"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Hopbine Court"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458095" version="3" timestamp="2022-12-30T15:57:59Z" changeset="130693172" uid="11022773" user="GeoFens">
+    <nd ref="7524516961"/>
+    <nd ref="7524516958"/>
+    <nd ref="7524516959"/>
+    <nd ref="7524516960"/>
+    <nd ref="7524516961"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Malthouse Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458097" version="3" timestamp="2023-03-04T15:50:26Z" changeset="133295621" uid="11022773" user="GeoFens">
+    <nd ref="7524516969"/>
+    <nd ref="7524516968"/>
+    <nd ref="7524516967"/>
+    <nd ref="7524516966"/>
+    <nd ref="7524516969"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Hopbine Court"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458098" version="3" timestamp="2023-03-04T15:50:26Z" changeset="133295621" uid="11022773" user="GeoFens">
+    <nd ref="7524516973"/>
+    <nd ref="7524516972"/>
+    <nd ref="7524516971"/>
+    <nd ref="7524516970"/>
+    <nd ref="7524516973"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Hopbine Court"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458099" version="3" timestamp="2023-03-04T15:50:26Z" changeset="133295621" uid="11022773" user="GeoFens">
+    <nd ref="7524516977"/>
+    <nd ref="7524516974"/>
+    <nd ref="7524516975"/>
+    <nd ref="7524516976"/>
+    <nd ref="7524516977"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Hopbine Court"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458100" version="3" timestamp="2022-12-30T15:57:59Z" changeset="130693172" uid="11022773" user="GeoFens">
+    <nd ref="7524516981"/>
+    <nd ref="7524516980"/>
+    <nd ref="7524516979"/>
+    <nd ref="7524516978"/>
+    <nd ref="7524516981"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Malthouse Lane"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="804458101" version="3" timestamp="2022-03-19T18:19:27Z" changeset="118675134" uid="11022773" user="GeoFens">
     <nd ref="7524516985"/>
     <nd ref="7524516984"/>
@@ -687,6 +1721,39 @@
     <tag k="addr:street" v="Malthouse Lane"/>
     <tag k="building" v="house"/>
     <tag k="name" v="Norfolk House"/>
+  </way>
+  <way id="804458102" version="2" timestamp="2022-03-19T18:19:27Z" changeset="118675134" uid="11022773" user="GeoFens">
+    <nd ref="7524516989"/>
+    <nd ref="7524516988"/>
+    <nd ref="7524516987"/>
+    <nd ref="7524516986"/>
+    <nd ref="7524516989"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Malthouse Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458103" version="2" timestamp="2022-03-19T18:19:27Z" changeset="118675134" uid="11022773" user="GeoFens">
+    <nd ref="7524516993"/>
+    <nd ref="7524516992"/>
+    <nd ref="7524516991"/>
+    <nd ref="7524516990"/>
+    <nd ref="7524516993"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Malthouse Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="804458104" version="2" timestamp="2022-03-19T18:19:27Z" changeset="118675134" uid="11022773" user="GeoFens">
+    <nd ref="7524516997"/>
+    <nd ref="7524516994"/>
+    <nd ref="7524516995"/>
+    <nd ref="7524516996"/>
+    <nd ref="7524516997"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Malthouse Lane"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="823384495" version="3" timestamp="2024-12-31T05:36:18Z" changeset="160819845" uid="493595" user="Yorvik Prestigitator">
     <nd ref="7687209456"/>
@@ -703,6 +1770,136 @@
     <tag k="name" v="Ramsey Mereside Village Hall"/>
     <tag k="website" v="http://mereside1999.wix.com/mva"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="838384891" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824547075"/>
+    <nd ref="7514865952"/>
+    <nd ref="7514865951"/>
+    <nd ref="7824547074"/>
+    <nd ref="7824547075"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="838384892" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824547079"/>
+    <nd ref="7824547078"/>
+    <nd ref="7824547077"/>
+    <nd ref="7824547076"/>
+    <nd ref="7824547079"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="838384893" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824547083"/>
+    <nd ref="7824547082"/>
+    <nd ref="7824547081"/>
+    <nd ref="7824547080"/>
+    <nd ref="7824547083"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="838384899" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824550305"/>
+    <nd ref="7824550309"/>
+    <nd ref="7824550306"/>
+    <nd ref="7824550304"/>
+    <nd ref="7824550305"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="838384900" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824550308"/>
+    <nd ref="7824550305"/>
+    <nd ref="7824550304"/>
+    <nd ref="7824550307"/>
+    <nd ref="7824550308"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="838384910" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824550338"/>
+    <nd ref="7514865891"/>
+    <nd ref="7514865890"/>
+    <nd ref="7824550337"/>
+    <nd ref="7824550338"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="PE26 1LE"/>
+    <tag k="addr:street" v="Jackson Drive"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="838384911" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824550340"/>
+    <nd ref="7514865930"/>
+    <nd ref="7514865929"/>
+    <nd ref="7824550339"/>
+    <nd ref="7824550340"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="PE26 1LH"/>
+    <tag k="addr:street" v="Carver Way"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="838384912" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824550344"/>
+    <nd ref="7514865756"/>
+    <nd ref="7514865753"/>
+    <nd ref="7824550343"/>
+    <nd ref="7824550344"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="838384913" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824550346"/>
+    <nd ref="7514865760"/>
+    <nd ref="7514865757"/>
+    <nd ref="7824550345"/>
+    <nd ref="7824550346"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="838384914" version="1" timestamp="2020-08-18T23:54:33Z" changeset="89599341" uid="5173844" user="ndrw6">
+    <nd ref="7824550348"/>
+    <nd ref="7514866037"/>
+    <nd ref="7514866038"/>
+    <nd ref="7824550347"/>
+    <nd ref="7824550348"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE26 1LB"/>
+    <tag k="addr:street" v="Wagstaffe Close"/>
+    <tag k="addr:town" v="Ramsey"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="839148129" version="4" timestamp="2024-05-29T13:50:47Z" changeset="151990898" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="7830651340"/>
@@ -769,6 +1966,19 @@
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Pondersbridge Village Hall"/>
   </way>
+  <way id="878949927" version="2" timestamp="2021-04-09T16:02:37Z" changeset="102656366" uid="11022773" user="GeoFens">
+    <nd ref="8176801756"/>
+    <nd ref="8176801757"/>
+    <nd ref="8176801758"/>
+    <nd ref="8176801759"/>
+    <nd ref="8176801760"/>
+    <nd ref="8176801761"/>
+    <nd ref="8176801756"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Park Road"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="915844738" version="2" timestamp="2025-01-07T20:07:44Z" changeset="161109472" uid="493595" user="Yorvik Prestigitator">
     <nd ref="8507033367"/>
     <nd ref="8507033364"/>
@@ -813,6 +2023,363 @@
     <tag k="name" v="Auto Attentive"/>
     <tag k="shop" v="car_repair"/>
   </way>
+  <way id="997974167" version="3" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="9214623697"/>
+    <nd ref="11115213343"/>
+    <nd ref="11115213342"/>
+    <nd ref="9214623698"/>
+    <nd ref="9214623699"/>
+    <nd ref="9214623700"/>
+    <nd ref="9214623697"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="997974168" version="2" timestamp="2023-03-04T15:50:26Z" changeset="133295621" uid="11022773" user="GeoFens">
+    <nd ref="9214623701"/>
+    <nd ref="9214623702"/>
+    <nd ref="9214623703"/>
+    <nd ref="9214623704"/>
+    <nd ref="9214623701"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="997974169" version="3" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="9214623705"/>
+    <nd ref="11115213340"/>
+    <nd ref="11115213341"/>
+    <nd ref="9214623706"/>
+    <nd ref="9214623707"/>
+    <nd ref="9214623708"/>
+    <nd ref="9214623705"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="997974171" version="2" timestamp="2023-03-04T15:50:26Z" changeset="133295621" uid="11022773" user="GeoFens">
+    <nd ref="9214623714"/>
+    <nd ref="9214623715"/>
+    <nd ref="9214623716"/>
+    <nd ref="9214647417"/>
+    <nd ref="9214623714"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="997974172" version="2" timestamp="2023-03-04T15:50:26Z" changeset="133295621" uid="11022773" user="GeoFens">
+    <nd ref="9214647418"/>
+    <nd ref="9214647419"/>
+    <nd ref="9214647420"/>
+    <nd ref="9214647421"/>
+    <nd ref="9214647418"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="997974175" version="3" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="9214647430"/>
+    <nd ref="9214647431"/>
+    <nd ref="9214647432"/>
+    <nd ref="11115213347"/>
+    <nd ref="11115213346"/>
+    <nd ref="9214647433"/>
+    <nd ref="9214647430"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="997974176" version="3" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="9214647434"/>
+    <nd ref="9214647435"/>
+    <nd ref="9214647436"/>
+    <nd ref="11115213344"/>
+    <nd ref="11115213345"/>
+    <nd ref="9214647437"/>
+    <nd ref="9214647434"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1003270301" version="2" timestamp="2023-01-29T17:01:47Z" changeset="131847751" uid="11022773" user="GeoFens">
+    <nd ref="9258449973"/>
+    <nd ref="9258449974"/>
+    <nd ref="9258449975"/>
+    <nd ref="9258449976"/>
+    <nd ref="9258449973"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1003270302" version="2" timestamp="2023-01-29T17:01:47Z" changeset="131847751" uid="11022773" user="GeoFens">
+    <nd ref="9258449977"/>
+    <nd ref="9258449978"/>
+    <nd ref="9258449979"/>
+    <nd ref="9258449980"/>
+    <nd ref="9258449977"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1003270305" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="9258449989"/>
+    <nd ref="9258449990"/>
+    <nd ref="9258449991"/>
+    <nd ref="9258449992"/>
+    <nd ref="9258449989"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1003270307" version="3" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="9258449997"/>
+    <nd ref="11115213329"/>
+    <nd ref="11115213328"/>
+    <nd ref="9258450000"/>
+    <nd ref="9258449997"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="1003270308" version="3" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="9258450001"/>
+    <nd ref="9258450002"/>
+    <nd ref="9258450003"/>
+    <nd ref="11115213330"/>
+    <nd ref="11115213331"/>
+    <nd ref="9258450004"/>
+    <nd ref="9258450001"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1025801382" version="2" timestamp="2023-01-29T17:01:47Z" changeset="131847751" uid="11022773" user="GeoFens">
+    <nd ref="9457808670"/>
+    <nd ref="9457808671"/>
+    <nd ref="9457808672"/>
+    <nd ref="9457808673"/>
+    <nd ref="9457808670"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1025801383" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="9457808674"/>
+    <nd ref="9457808675"/>
+    <nd ref="9457808676"/>
+    <nd ref="9457808677"/>
+    <nd ref="9457808674"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1066914624" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="9796638316"/>
+    <nd ref="9796647417"/>
+    <nd ref="9796647418"/>
+    <nd ref="9796647419"/>
+    <nd ref="9796647420"/>
+    <nd ref="9796647421"/>
+    <nd ref="9796638316"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1066914625" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="9796647422"/>
+    <nd ref="9796647423"/>
+    <nd ref="9796647424"/>
+    <nd ref="9796647425"/>
+    <nd ref="9796647422"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1066914626" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="9796647426"/>
+    <nd ref="9796647427"/>
+    <nd ref="9796647428"/>
+    <nd ref="9796647429"/>
+    <nd ref="9796647426"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1066914627" version="3" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="9796647430"/>
+    <nd ref="11115213339"/>
+    <nd ref="11115213338"/>
+    <nd ref="9796647433"/>
+    <nd ref="9796647430"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="1066914629" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="9796647438"/>
+    <nd ref="9796647439"/>
+    <nd ref="9796647440"/>
+    <nd ref="9796647441"/>
+    <nd ref="9796647438"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1096132682" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038065989"/>
+    <nd ref="10038065990"/>
+    <nd ref="10038065991"/>
+    <nd ref="10038065992"/>
+    <nd ref="10038065989"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1096132683" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038065993"/>
+    <nd ref="10038065994"/>
+    <nd ref="10038065995"/>
+    <nd ref="10038065996"/>
+    <nd ref="10038065993"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1096132684" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038065997"/>
+    <nd ref="10038065998"/>
+    <nd ref="10038065999"/>
+    <nd ref="10038066000"/>
+    <nd ref="10038065997"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1096132685" version="4" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="10038066001"/>
+    <nd ref="11115213337"/>
+    <nd ref="11115213336"/>
+    <nd ref="10038066004"/>
+    <nd ref="10038066001"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+  </way>
+  <way id="1096132686" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038066005"/>
+    <nd ref="10038066006"/>
+    <nd ref="10038066007"/>
+    <nd ref="10038066008"/>
+    <nd ref="10038066005"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1096133646" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038092824"/>
+    <nd ref="10038092825"/>
+    <nd ref="10038092826"/>
+    <nd ref="10038092827"/>
+    <nd ref="10038092824"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="8-14"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="1096133647" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038092828"/>
+    <nd ref="10038092829"/>
+    <nd ref="10038092830"/>
+    <nd ref="10038092831"/>
+    <nd ref="10038092828"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1096133648" version="4" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="10038092832"/>
+    <nd ref="11115213393"/>
+    <nd ref="11115213392"/>
+    <nd ref="10038092835"/>
+    <nd ref="10038092832"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="1096133649" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038092836"/>
+    <nd ref="10038092837"/>
+    <nd ref="10038092838"/>
+    <nd ref="10038092839"/>
+    <nd ref="10038092836"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="2-6"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="1096133650" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038092840"/>
+    <nd ref="10038092841"/>
+    <nd ref="10038092842"/>
+    <nd ref="10038092843"/>
+    <nd ref="10038092840"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1096133653" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038092852"/>
+    <nd ref="10038092853"/>
+    <nd ref="10038092854"/>
+    <nd ref="10038092855"/>
+    <nd ref="10038092856"/>
+    <nd ref="10038092857"/>
+    <nd ref="10038092852"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1096133654" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10038092858"/>
+    <nd ref="10038092859"/>
+    <nd ref="10038092860"/>
+    <nd ref="10038092861"/>
+    <nd ref="10038092858"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="1096142083" version="2" timestamp="2024-05-29T14:01:00Z" changeset="151991321" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="10038152105"/>
     <nd ref="10038152106"/>
@@ -837,6 +2404,388 @@
     <tag k="phone" v="+447788817580"/>
     <tag k="tourism" v="camp_site"/>
     <tag k="website" v="https://riversidelakeandleisure.co.uk"/>
+  </way>
+  <way id="1136237116" version="3" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="10592089075"/>
+    <nd ref="10592089076"/>
+    <nd ref="11115171248"/>
+    <nd ref="11115171247"/>
+    <nd ref="11115171249"/>
+    <nd ref="10592089077"/>
+    <nd ref="10592089078"/>
+    <nd ref="10592089075"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Stoneman Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237117" version="2" timestamp="2023-03-04T15:50:26Z" changeset="133295621" uid="11022773" user="GeoFens">
+    <nd ref="10592089079"/>
+    <nd ref="10592089080"/>
+    <nd ref="10592089081"/>
+    <nd ref="10592089082"/>
+    <nd ref="10592089079"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Stoneman Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237120" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592089089"/>
+    <nd ref="10592089090"/>
+    <nd ref="10592089091"/>
+    <nd ref="10592089092"/>
+    <nd ref="10592089089"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237121" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592089093"/>
+    <nd ref="10592089094"/>
+    <nd ref="10592089095"/>
+    <nd ref="10592089096"/>
+    <nd ref="10592089093"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237122" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592089097"/>
+    <nd ref="10592089098"/>
+    <nd ref="10592089099"/>
+    <nd ref="10592089100"/>
+    <nd ref="10592089097"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237123" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592089101"/>
+    <nd ref="10592089102"/>
+    <nd ref="10592089103"/>
+    <nd ref="10592089104"/>
+    <nd ref="10592089101"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237124" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592104305"/>
+    <nd ref="10592104306"/>
+    <nd ref="10592104307"/>
+    <nd ref="10592104308"/>
+    <nd ref="10592104305"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237125" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592104309"/>
+    <nd ref="10592104310"/>
+    <nd ref="10592104311"/>
+    <nd ref="10592104312"/>
+    <nd ref="10592104309"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237126" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592104313"/>
+    <nd ref="10592104314"/>
+    <nd ref="10592104315"/>
+    <nd ref="10592104316"/>
+    <nd ref="10592104313"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237127" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592104317"/>
+    <nd ref="10592104318"/>
+    <nd ref="10592104319"/>
+    <nd ref="10592104320"/>
+    <nd ref="10592104317"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237128" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592104321"/>
+    <nd ref="10592104322"/>
+    <nd ref="10592104323"/>
+    <nd ref="10592104324"/>
+    <nd ref="10592104321"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1136237129" version="2" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10592104325"/>
+    <nd ref="10592104326"/>
+    <nd ref="10592104327"/>
+    <nd ref="10592104328"/>
+    <nd ref="10592104325"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1160489722" version="4" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="10793212471"/>
+    <nd ref="10793212472"/>
+    <nd ref="11115171254"/>
+    <nd ref="11115171253"/>
+    <nd ref="11115171252"/>
+    <nd ref="10793212473"/>
+    <nd ref="10793212474"/>
+    <nd ref="10793212471"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Stoneman Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1160489723" version="4" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="10793212475"/>
+    <nd ref="10793212476"/>
+    <nd ref="11115171256"/>
+    <nd ref="11115171255"/>
+    <nd ref="11115171257"/>
+    <nd ref="10793212477"/>
+    <nd ref="10793212478"/>
+    <nd ref="10793212475"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Stoneman Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1160489725" version="3" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="10793212483"/>
+    <nd ref="10793212484"/>
+    <nd ref="10793212485"/>
+    <nd ref="10793212486"/>
+    <nd ref="10793212483"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Stoneman Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1191288707" version="1" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="11060187359"/>
+    <nd ref="11060187360"/>
+    <nd ref="11060187361"/>
+    <nd ref="11060187362"/>
+    <nd ref="11060187359"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1191288708" version="1" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="11060187363"/>
+    <nd ref="11060187364"/>
+    <nd ref="11060187365"/>
+    <nd ref="11060187366"/>
+    <nd ref="11060187363"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="28-36"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="1191288709" version="1" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="11060187367"/>
+    <nd ref="11060187368"/>
+    <nd ref="11060187369"/>
+    <nd ref="11060187370"/>
+    <nd ref="11060187367"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="38-42"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="1191288710" version="3" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="11060187371"/>
+    <nd ref="11115213389"/>
+    <nd ref="11115213388"/>
+    <nd ref="11060187374"/>
+    <nd ref="11060187371"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="1191288711" version="3" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="11060187375"/>
+    <nd ref="11115213391"/>
+    <nd ref="11115213390"/>
+    <nd ref="11060187378"/>
+    <nd ref="11060187375"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="1191288712" version="1" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="11060187379"/>
+    <nd ref="11060187380"/>
+    <nd ref="11060187381"/>
+    <nd ref="11060187382"/>
+    <nd ref="11060187379"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1191288713" version="1" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="11060187383"/>
+    <nd ref="11060187384"/>
+    <nd ref="11060187385"/>
+    <nd ref="11060187386"/>
+    <nd ref="11060187383"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1191288714" version="1" timestamp="2023-07-21T18:56:49Z" changeset="138827200" uid="11022773" user="GeoFens">
+    <nd ref="11060187387"/>
+    <nd ref="11060187388"/>
+    <nd ref="11060187389"/>
+    <nd ref="11060187390"/>
+    <nd ref="11060187387"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1198144955" version="1" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="11115213329"/>
+    <nd ref="9258449998"/>
+    <nd ref="9258449999"/>
+    <nd ref="11115213328"/>
+    <nd ref="11115213329"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="1198144956" version="2" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="11115213333"/>
+    <nd ref="10038066002"/>
+    <nd ref="10038066003"/>
+    <nd ref="11115213332"/>
+    <nd ref="11115213333"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+  </way>
+  <way id="1198144957" version="2" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="11115213335"/>
+    <nd ref="11115213333"/>
+    <nd ref="11115213332"/>
+    <nd ref="11115213334"/>
+    <nd ref="11115213335"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+  </way>
+  <way id="1198144958" version="2" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="11115213337"/>
+    <nd ref="11115213335"/>
+    <nd ref="11115213334"/>
+    <nd ref="11115213336"/>
+    <nd ref="11115213337"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+  </way>
+  <way id="1198144959" version="1" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="11115213339"/>
+    <nd ref="9796647431"/>
+    <nd ref="9796647432"/>
+    <nd ref="11115213338"/>
+    <nd ref="11115213339"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="1198144960" version="1" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="11115213352"/>
+    <nd ref="9214647423"/>
+    <nd ref="9214647424"/>
+    <nd ref="11115213351"/>
+    <nd ref="11115213352"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1198144966" version="2" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="11115213389"/>
+    <nd ref="11060187372"/>
+    <nd ref="11060187373"/>
+    <nd ref="11115213388"/>
+    <nd ref="11115213389"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="1198144967" version="2" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="11115213391"/>
+    <nd ref="11060187376"/>
+    <nd ref="11060187377"/>
+    <nd ref="11115213390"/>
+    <nd ref="11115213391"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="1198144968" version="2" timestamp="2023-12-07T19:49:08Z" changeset="144878649" uid="242345" user="confusedbuffalo">
+    <nd ref="11115213393"/>
+    <nd ref="10038092833"/>
+    <nd ref="10038092834"/>
+    <nd ref="11115213392"/>
+    <nd ref="11115213393"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Dispersal Way"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="1198144981" version="1" timestamp="2023-08-14T22:53:40Z" changeset="139891799" uid="5173844" user="ndrw6">
+    <nd ref="11115213449"/>
+    <nd ref="11115213448"/>
+    <nd ref="11115213447"/>
+    <nd ref="11115213446"/>
+    <nd ref="11115171250"/>
+    <nd ref="11115171251"/>
+    <nd ref="11115213449"/>
+    <tag k="addr:city" v="Ramsey"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Stoneman Way"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="1256679363" version="1" timestamp="2024-03-01T20:04:03Z" changeset="148110389" uid="11022773" user="GeoFens">
     <nd ref="11682500754"/>

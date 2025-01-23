@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:39:45Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:41:11Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="244399318" lat="52.2480812" lon="-0.1219857" version="2" timestamp="2020-12-09T20:04:22Z" changeset="95573611" uid="5008136" user="JayTurnr">
     <tag k="addr:street" v="Church Lane"/>
@@ -27,6 +27,11 @@
     <tag k="addr:village" v="Papworth Everard"/>
     <tag k="name" v="Darrens Flooring DFC"/>
     <tag k="shop" v="carpet"/>
+  </node>
+  <node id="10830740765" lat="52.2454089" lon="-0.1117208" version="1" timestamp="2023-04-21T21:37:39Z" changeset="135210470" uid="486701" user="eteb3">
+    <tag k="addr:city" v="Papworth Everard"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="South Park Drive"/>
   </node>
   <way id="136675539" version="7" timestamp="2021-10-30T12:25:42Z" changeset="113159450" uid="242345" user="confusedbuffalo">
     <nd ref="249417544"/>
@@ -63,6 +68,20 @@
     <tag k="school:type" v="community"/>
     <tag k="website" v="https://pendragon.eschools.co.uk/"/>
     <tag k="wikidata" v="Q66223505"/>
+  </way>
+  <way id="235720133" version="4" timestamp="2024-12-21T11:59:37Z" changeset="160467028" uid="6476359" user="NSiecw">
+    <nd ref="11338055692"/>
+    <nd ref="2437792569"/>
+    <nd ref="2437792521"/>
+    <nd ref="2437792590"/>
+    <nd ref="2437792507"/>
+    <nd ref="11338055693"/>
+    <nd ref="11338055692"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Ermine Street North"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="258697625" version="2" timestamp="2023-06-04T22:25:39Z" changeset="136949687" uid="3999" user="BarryMyles">
     <nd ref="2640216754"/>
@@ -132,6 +151,590 @@
     <tag k="shop" v="convenience"/>
     <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
   </way>
+  <way id="572201920" version="3" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858726"/>
+    <nd ref="7747858722"/>
+    <nd ref="7747858721"/>
+    <nd ref="7747858725"/>
+    <nd ref="7747858726"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201921" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664212"/>
+    <nd ref="5497664213"/>
+    <nd ref="5497664214"/>
+    <nd ref="5497664215"/>
+    <nd ref="5497664216"/>
+    <nd ref="5497664217"/>
+    <nd ref="5497664212"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201923" version="3" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664218"/>
+    <nd ref="5497664219"/>
+    <nd ref="5497664220"/>
+    <nd ref="5497664621"/>
+    <nd ref="5497664622"/>
+    <nd ref="5497664623"/>
+    <nd ref="5497664218"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201924" version="3" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664626"/>
+    <nd ref="5497664627"/>
+    <nd ref="7747858423"/>
+    <nd ref="7747858424"/>
+    <nd ref="7747858422"/>
+    <nd ref="5497664626"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201937" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858464"/>
+    <nd ref="5497664704"/>
+    <nd ref="5497664705"/>
+    <nd ref="7747858472"/>
+    <nd ref="7747858465"/>
+    <nd ref="7747858464"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201938" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664710"/>
+    <nd ref="5497664711"/>
+    <nd ref="5497664712"/>
+    <nd ref="5497664713"/>
+    <nd ref="5497664714"/>
+    <nd ref="5497664715"/>
+    <nd ref="5497664710"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201939" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664719"/>
+    <nd ref="7747858823"/>
+    <nd ref="7747858822"/>
+    <nd ref="5497664718"/>
+    <nd ref="5497664719"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201940" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664723"/>
+    <nd ref="7747858827"/>
+    <nd ref="7747858826"/>
+    <nd ref="5497664722"/>
+    <nd ref="5497664723"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201941" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858496"/>
+    <nd ref="5497664724"/>
+    <nd ref="5497664725"/>
+    <nd ref="7747858495"/>
+    <nd ref="7747858496"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201942" version="3" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664728"/>
+    <nd ref="5497664729"/>
+    <nd ref="5497664730"/>
+    <nd ref="5497664731"/>
+    <nd ref="5497664732"/>
+    <nd ref="5497664733"/>
+    <nd ref="5497664728"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AG"/>
+    <tag k="addr:street" v="Dairy Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201943" version="3" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664734"/>
+    <nd ref="5497664735"/>
+    <nd ref="5497664736"/>
+    <nd ref="5497664737"/>
+    <nd ref="5497664734"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AG"/>
+    <tag k="addr:street" v="Dairy Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201944" version="3" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664738"/>
+    <nd ref="5497664739"/>
+    <nd ref="5497664740"/>
+    <nd ref="5497664741"/>
+    <nd ref="5497664738"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AG"/>
+    <tag k="addr:street" v="Dairy Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201945" version="3" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858632"/>
+    <nd ref="5497664745"/>
+    <nd ref="5497664753"/>
+    <nd ref="5497664749"/>
+    <nd ref="5497664750"/>
+    <nd ref="5497664751"/>
+    <nd ref="7747858631"/>
+    <nd ref="7747858632"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB23 3AG"/>
+    <tag k="addr:street" v="Dairy Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201946" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664754"/>
+    <nd ref="5497664755"/>
+    <nd ref="5497664756"/>
+    <nd ref="5497664757"/>
+    <nd ref="5497664754"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201947" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664758"/>
+    <nd ref="5497664759"/>
+    <nd ref="5497664760"/>
+    <nd ref="5497664761"/>
+    <nd ref="5497664758"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201948" version="3" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664762"/>
+    <nd ref="5497664763"/>
+    <nd ref="5497664764"/>
+    <nd ref="5497664765"/>
+    <nd ref="5497664762"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201949" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858626"/>
+    <nd ref="7747858628"/>
+    <nd ref="7747858627"/>
+    <nd ref="5497664769"/>
+    <nd ref="5497664770"/>
+    <nd ref="7747858625"/>
+    <nd ref="7747858626"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201950" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664788"/>
+    <nd ref="7747857968"/>
+    <nd ref="5497664773"/>
+    <nd ref="5497664774"/>
+    <nd ref="7747857967"/>
+    <nd ref="5497664791"/>
+    <nd ref="5497664788"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201951" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664773"/>
+    <nd ref="5497664784"/>
+    <nd ref="5497664787"/>
+    <nd ref="5497664775"/>
+    <nd ref="5497664774"/>
+    <nd ref="5497664773"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201952" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664776"/>
+    <nd ref="5497664777"/>
+    <nd ref="7747858105"/>
+    <nd ref="7747858106"/>
+    <nd ref="5497664778"/>
+    <nd ref="5497664779"/>
+    <nd ref="5497664776"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201953" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664780"/>
+    <nd ref="5497664781"/>
+    <nd ref="5497664782"/>
+    <nd ref="5497664783"/>
+    <nd ref="5497664780"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201954" version="2" timestamp="2020-07-26T01:13:37Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664784"/>
+    <nd ref="5497664785"/>
+    <nd ref="5497664786"/>
+    <nd ref="5497664787"/>
+    <nd ref="5497664784"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201956" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664792"/>
+    <nd ref="5497664793"/>
+    <nd ref="7747858103"/>
+    <nd ref="7747858104"/>
+    <nd ref="5497664794"/>
+    <nd ref="7747858107"/>
+    <nd ref="5497664792"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201957" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664801"/>
+    <nd ref="5497664798"/>
+    <nd ref="5497664799"/>
+    <nd ref="5497664802"/>
+    <nd ref="5497664801"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201959" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664803"/>
+    <nd ref="5497664807"/>
+    <nd ref="5497664808"/>
+    <nd ref="5497664806"/>
+    <nd ref="5497664803"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201974" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664871"/>
+    <nd ref="5497664872"/>
+    <nd ref="5497664873"/>
+    <nd ref="5497664874"/>
+    <nd ref="5497664871"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201981" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664901"/>
+    <nd ref="5497664902"/>
+    <nd ref="5497664903"/>
+    <nd ref="5497664904"/>
+    <nd ref="5497664905"/>
+    <nd ref="5497664906"/>
+    <nd ref="5497664901"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201983" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858354"/>
+    <nd ref="5497664910"/>
+    <nd ref="7747858609"/>
+    <nd ref="7747858610"/>
+    <nd ref="5497664913"/>
+    <nd ref="7747858355"/>
+    <nd ref="7747858354"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201984" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858606"/>
+    <nd ref="5497664916"/>
+    <nd ref="5497664917"/>
+    <nd ref="7747858605"/>
+    <nd ref="7747858606"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201985" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664920"/>
+    <nd ref="5497664921"/>
+    <nd ref="5497664922"/>
+    <nd ref="5497664923"/>
+    <nd ref="5497664920"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201987" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664927"/>
+    <nd ref="7747858881"/>
+    <nd ref="7747858880"/>
+    <nd ref="5497664926"/>
+    <nd ref="5497664927"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201988" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664928"/>
+    <nd ref="5497664929"/>
+    <nd ref="5497664930"/>
+    <nd ref="5497664931"/>
+    <nd ref="5497664932"/>
+    <nd ref="5497664933"/>
+    <nd ref="5497664928"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201990" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664934"/>
+    <nd ref="5497664935"/>
+    <nd ref="5497664936"/>
+    <nd ref="5497664937"/>
+    <nd ref="5497664938"/>
+    <nd ref="5497664939"/>
+    <nd ref="5497664934"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201992" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664940"/>
+    <nd ref="5497664941"/>
+    <nd ref="5497664942"/>
+    <nd ref="5497664943"/>
+    <nd ref="5497664944"/>
+    <nd ref="5497664945"/>
+    <nd ref="5497664940"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201993" version="3" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664946"/>
+    <nd ref="5497664947"/>
+    <nd ref="5497664948"/>
+    <nd ref="5497664949"/>
+    <nd ref="5497664950"/>
+    <nd ref="5497664951"/>
+    <nd ref="5497664946"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572201994" version="3" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858612"/>
+    <nd ref="5497664959"/>
+    <nd ref="5497664952"/>
+    <nd ref="5497664953"/>
+    <nd ref="5497664954"/>
+    <nd ref="7747858611"/>
+    <nd ref="7747858612"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="622436807" version="3" timestamp="2024-03-19T20:12:32Z" changeset="148879618" uid="10633286" user="Moorit">
+    <nd ref="5879278518"/>
+    <nd ref="5879278515"/>
+    <nd ref="5879278513"/>
+    <nd ref="5879278514"/>
+    <nd ref="5879278516"/>
+    <nd ref="5879278512"/>
+    <nd ref="5879278511"/>
+    <nd ref="5879278517"/>
+    <nd ref="5879278518"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3XJ"/>
+    <tag k="addr:street" v="Wimbish Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622436818" version="2" timestamp="2024-03-19T20:12:32Z" changeset="148879618" uid="10633286" user="Moorit">
+    <nd ref="5879278570"/>
+    <nd ref="5879278567"/>
+    <nd ref="5879278568"/>
+    <nd ref="5879278569"/>
+    <nd ref="5879278570"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Wimbish Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622436819" version="2" timestamp="2024-03-19T20:12:32Z" changeset="148879618" uid="10633286" user="Moorit">
+    <nd ref="5879278576"/>
+    <nd ref="5879278573"/>
+    <nd ref="5879278574"/>
+    <nd ref="5879278575"/>
+    <nd ref="5879278571"/>
+    <nd ref="5879278572"/>
+    <nd ref="5879278576"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Wimbish Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622436826" version="3" timestamp="2024-12-28T22:13:37Z" changeset="160731904" uid="1802093" user="Paul Berry">
+    <nd ref="5879278608"/>
+    <nd ref="12438532520"/>
+    <nd ref="12438532519"/>
+    <nd ref="5879278605"/>
+    <nd ref="5879278608"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3RR"/>
+    <tag k="addr:street" v="Haynes Owen Place"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="622436828" version="2" timestamp="2024-12-28T22:13:37Z" changeset="160731904" uid="1802093" user="Paul Berry">
+    <nd ref="5879278620"/>
+    <nd ref="12459652662"/>
+    <nd ref="12459652661"/>
+    <nd ref="5879278619"/>
+    <nd ref="5879278620"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="7-8"/>
+    <tag k="addr:postcode" v="CB23 3RR"/>
+    <tag k="addr:street" v="Haynes Owen Place"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="622436829" version="3" timestamp="2024-12-28T22:10:15Z" changeset="160731831" uid="1802093" user="Paul Berry">
+    <nd ref="12438532516"/>
+    <nd ref="5879278624"/>
+    <nd ref="5879278623"/>
+    <nd ref="5879278622"/>
+    <nd ref="5879278621"/>
+    <nd ref="12438532515"/>
+    <nd ref="12438532516"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="CB23 3RH"/>
+    <tag k="addr:street" v="Ermine Street North"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="622436830" version="2" timestamp="2024-12-21T11:59:37Z" changeset="160467028" uid="6476359" user="NSiecw">
     <nd ref="5879278632"/>
     <nd ref="5879278629"/>
@@ -154,6 +757,3852 @@
     <tag k="addr:village" v="Papworth Everard"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="St. Francis of Assisi House"/>
+  </way>
+  <way id="622436877" version="3" timestamp="2020-10-03T14:42:38Z" changeset="91904797" uid="11886423" user="NZhekin">
+    <nd ref="5879278987"/>
+    <nd ref="5879278984"/>
+    <nd ref="5879278983"/>
+    <nd ref="5879278982"/>
+    <nd ref="5879278985"/>
+    <nd ref="5879278986"/>
+    <nd ref="5879278978"/>
+    <nd ref="5879278979"/>
+    <nd ref="5879278980"/>
+    <nd ref="5879278981"/>
+    <nd ref="5879278987"/>
+    <tag k="addr:housenumber" v="23-31"/>
+    <tag k="addr:postcode" v="CB23 3RZ"/>
+    <tag k="addr:street" v="Jubilee Green"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+  </way>
+  <way id="622436894" version="2" timestamp="2024-03-03T22:10:27Z" changeset="148183557" uid="10633286" user="Moorit">
+    <nd ref="5879279072"/>
+    <nd ref="5879279071"/>
+    <nd ref="5879279067"/>
+    <nd ref="5879279068"/>
+    <nd ref="5879279070"/>
+    <nd ref="5879279069"/>
+    <nd ref="5879279072"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Hayman's Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622436895" version="2" timestamp="2024-03-03T22:10:27Z" changeset="148183557" uid="10633286" user="Moorit">
+    <nd ref="5879279076"/>
+    <nd ref="5879279075"/>
+    <nd ref="5879279074"/>
+    <nd ref="5879279073"/>
+    <nd ref="5879279076"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Hayman's Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622436896" version="2" timestamp="2024-03-03T22:10:27Z" changeset="148183557" uid="10633286" user="Moorit">
+    <nd ref="5879279082"/>
+    <nd ref="5879279079"/>
+    <nd ref="5879279078"/>
+    <nd ref="5879279077"/>
+    <nd ref="5879279080"/>
+    <nd ref="5879279081"/>
+    <nd ref="5879279082"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Hayman's Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437001" version="2" timestamp="2024-04-08T18:49:51Z" changeset="149748498" uid="10633286" user="Moorit">
+    <nd ref="5879279564"/>
+    <nd ref="5879279561"/>
+    <nd ref="5879279562"/>
+    <nd ref="5879279559"/>
+    <nd ref="5879279560"/>
+    <nd ref="5879279563"/>
+    <nd ref="5879279564"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Morden Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437018" version="2" timestamp="2024-11-05T08:04:17Z" changeset="158768489" uid="10633286" user="Moorit">
+    <nd ref="5879279632"/>
+    <nd ref="5879279631"/>
+    <nd ref="5879279630"/>
+    <nd ref="5879279629"/>
+    <nd ref="5879279632"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Morden Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437019" version="3" timestamp="2024-11-05T08:04:17Z" changeset="158768489" uid="10633286" user="Moorit">
+    <nd ref="5879279636"/>
+    <nd ref="11338056177"/>
+    <nd ref="11338056176"/>
+    <nd ref="5879279633"/>
+    <nd ref="5879279636"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Morden Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437020" version="4" timestamp="2024-11-05T08:04:17Z" changeset="158768489" uid="10633286" user="Moorit">
+    <nd ref="5879279639"/>
+    <nd ref="11338056179"/>
+    <nd ref="11338056178"/>
+    <nd ref="5879279638"/>
+    <nd ref="5879279639"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="CB23 3UN"/>
+    <tag k="addr:street" v="Morden Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437021" version="3" timestamp="2024-04-08T18:49:51Z" changeset="149748498" uid="10633286" user="Moorit">
+    <nd ref="5879279641"/>
+    <nd ref="11338056175"/>
+    <nd ref="11338056174"/>
+    <nd ref="5879279642"/>
+    <nd ref="5879279641"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Morden Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437029" version="2" timestamp="2025-01-03T20:01:36Z" changeset="160964611" uid="10633286" user="Moorit">
+    <nd ref="5879279676"/>
+    <nd ref="5879279675"/>
+    <nd ref="5879279674"/>
+    <nd ref="5879279673"/>
+    <nd ref="5879279676"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Byfield Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437030" version="2" timestamp="2025-01-03T20:01:36Z" changeset="160964611" uid="10633286" user="Moorit">
+    <nd ref="5879279680"/>
+    <nd ref="5879279679"/>
+    <nd ref="5879279678"/>
+    <nd ref="5879279677"/>
+    <nd ref="5879279680"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Byfield Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437107" version="2" timestamp="2025-01-03T20:01:36Z" changeset="160964611" uid="10633286" user="Moorit">
+    <nd ref="5879280423"/>
+    <nd ref="5879280420"/>
+    <nd ref="5879280421"/>
+    <nd ref="5879280422"/>
+    <nd ref="5879280423"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Byfield Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437108" version="2" timestamp="2025-01-03T20:01:36Z" changeset="160964611" uid="10633286" user="Moorit">
+    <nd ref="5879280427"/>
+    <nd ref="5879280426"/>
+    <nd ref="5879280425"/>
+    <nd ref="5879280424"/>
+    <nd ref="5879280427"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Byfield Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437110" version="2" timestamp="2020-10-03T14:42:42Z" changeset="91904797" uid="11886423" user="NZhekin">
+    <nd ref="5879280439"/>
+    <nd ref="5879280436"/>
+    <nd ref="5879280437"/>
+    <nd ref="5879280438"/>
+    <nd ref="5879280439"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Byfield Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437196" version="2" timestamp="2024-02-04T20:14:21Z" changeset="147068050" uid="10633286" user="Moorit">
+    <nd ref="5879281448"/>
+    <nd ref="5879281447"/>
+    <nd ref="5879281443"/>
+    <nd ref="5879281442"/>
+    <nd ref="5879281441"/>
+    <nd ref="5879281444"/>
+    <nd ref="5879281446"/>
+    <nd ref="5879281445"/>
+    <nd ref="5879281448"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4 - 6"/>
+    <tag k="addr:postcode" v="CB23 3RD"/>
+    <tag k="addr:street" v="Ermine Street South"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437199" version="2" timestamp="2024-02-04T20:14:21Z" changeset="147068050" uid="10633286" user="Moorit">
+    <nd ref="5879281456"/>
+    <nd ref="5879281455"/>
+    <nd ref="5879281451"/>
+    <nd ref="5879281450"/>
+    <nd ref="5879281449"/>
+    <nd ref="5879281452"/>
+    <nd ref="5879281454"/>
+    <nd ref="5879281453"/>
+    <nd ref="5879281456"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 3RD"/>
+    <tag k="addr:street" v="Ermine Street South"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437242" version="2" timestamp="2024-03-03T22:10:27Z" changeset="148183557" uid="10633286" user="Moorit">
+    <nd ref="5879282000"/>
+    <nd ref="5879281999"/>
+    <nd ref="5879281998"/>
+    <nd ref="5879281997"/>
+    <nd ref="5879282000"/>
+    <tag k="addr:city" v="Papworth Everard"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="South Park Drive"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437243" version="2" timestamp="2024-03-19T20:12:32Z" changeset="148879618" uid="10633286" user="Moorit">
+    <nd ref="5879282004"/>
+    <nd ref="5879282003"/>
+    <nd ref="5879282002"/>
+    <nd ref="5879282001"/>
+    <nd ref="5879282004"/>
+    <tag k="addr:city" v="Papworth Everard"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="South Park Drive"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437298" version="2" timestamp="2025-01-03T20:01:36Z" changeset="160964611" uid="10633286" user="Moorit">
+    <nd ref="5879282620"/>
+    <nd ref="5879282617"/>
+    <nd ref="5879282616"/>
+    <nd ref="5879282615"/>
+    <nd ref="5879282618"/>
+    <nd ref="5879282619"/>
+    <nd ref="5879282613"/>
+    <nd ref="5879282614"/>
+    <nd ref="5879282620"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Musker Place"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437299" version="2" timestamp="2025-01-03T20:01:36Z" changeset="160964611" uid="10633286" user="Moorit">
+    <nd ref="5879282624"/>
+    <nd ref="5879282623"/>
+    <nd ref="5879282622"/>
+    <nd ref="5879282621"/>
+    <nd ref="5879282624"/>
+    <tag k="addr:housenumber" v="25 - 27"/>
+    <tag k="addr:street" v="Musker Place"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437307" version="2" timestamp="2020-10-03T14:42:41Z" changeset="91904797" uid="11886423" user="NZhekin">
+    <nd ref="5879282658"/>
+    <nd ref="5879282657"/>
+    <nd ref="5879282656"/>
+    <nd ref="5879282655"/>
+    <nd ref="5879282658"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Musker Place"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437365" version="2" timestamp="2024-01-26T21:45:13Z" changeset="146726015" uid="10633286" user="Moorit">
+    <nd ref="5879283250"/>
+    <nd ref="5879283247"/>
+    <nd ref="5879283248"/>
+    <nd ref="5879283249"/>
+    <nd ref="5879283250"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Hayman's Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437371" version="2" timestamp="2024-01-26T21:45:13Z" changeset="146726015" uid="10633286" user="Moorit">
+    <nd ref="5879283278"/>
+    <nd ref="5879283277"/>
+    <nd ref="5879283276"/>
+    <nd ref="5879283275"/>
+    <nd ref="5879283278"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Hayman's Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437372" version="2" timestamp="2024-01-26T21:45:13Z" changeset="146726015" uid="10633286" user="Moorit">
+    <nd ref="5879283282"/>
+    <nd ref="5879283281"/>
+    <nd ref="5879283280"/>
+    <nd ref="5879283279"/>
+    <nd ref="5879283282"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Hayman's Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437373" version="2" timestamp="2024-01-26T21:45:13Z" changeset="146726015" uid="10633286" user="Moorit">
+    <nd ref="5879283490"/>
+    <nd ref="5879283489"/>
+    <nd ref="5879283485"/>
+    <nd ref="5879283486"/>
+    <nd ref="5879283488"/>
+    <nd ref="5879283487"/>
+    <nd ref="5879283283"/>
+    <nd ref="5879283284"/>
+    <nd ref="5879283490"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Hayman's Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437385" version="2" timestamp="2023-12-10T21:04:44Z" changeset="144977583" uid="10633286" user="Moorit">
+    <nd ref="5879283550"/>
+    <nd ref="5879283547"/>
+    <nd ref="5879283548"/>
+    <nd ref="5879283549"/>
+    <nd ref="5879283550"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Blyton Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437386" version="2" timestamp="2024-12-03T19:45:11Z" changeset="159894723" uid="10633286" user="Moorit">
+    <nd ref="5879283554"/>
+    <nd ref="5879283553"/>
+    <nd ref="5879283552"/>
+    <nd ref="5879283551"/>
+    <nd ref="5879283554"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Blyton Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437387" version="2" timestamp="2024-12-03T19:45:11Z" changeset="159894723" uid="10633286" user="Moorit">
+    <nd ref="5879283560"/>
+    <nd ref="5879283559"/>
+    <nd ref="5879283555"/>
+    <nd ref="5879283556"/>
+    <nd ref="5879283558"/>
+    <nd ref="5879283557"/>
+    <nd ref="5879283560"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Blyton Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437388" version="2" timestamp="2024-12-03T19:45:11Z" changeset="159894723" uid="10633286" user="Moorit">
+    <nd ref="5879283564"/>
+    <nd ref="5879283563"/>
+    <nd ref="5879283562"/>
+    <nd ref="5879283561"/>
+    <nd ref="5879283564"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Blyton Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437389" version="2" timestamp="2024-12-03T19:45:11Z" changeset="159894723" uid="10633286" user="Moorit">
+    <nd ref="5879283570"/>
+    <nd ref="5879283569"/>
+    <nd ref="5879283568"/>
+    <nd ref="5879283565"/>
+    <nd ref="5879283566"/>
+    <nd ref="5879283567"/>
+    <nd ref="5879283570"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Blyton Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437393" version="2" timestamp="2023-12-10T21:04:44Z" changeset="144977583" uid="10633286" user="Moorit">
+    <nd ref="5879283688"/>
+    <nd ref="5879283687"/>
+    <nd ref="5879283686"/>
+    <nd ref="5879283685"/>
+    <nd ref="5879283688"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Blyton Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437394" version="2" timestamp="2024-12-03T19:45:11Z" changeset="159894723" uid="10633286" user="Moorit">
+    <nd ref="5879283692"/>
+    <nd ref="5879283691"/>
+    <nd ref="5879283690"/>
+    <nd ref="5879283689"/>
+    <nd ref="5879283692"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Blyton Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437395" version="2" timestamp="2024-12-03T19:45:11Z" changeset="159894723" uid="10633286" user="Moorit">
+    <nd ref="5879283698"/>
+    <nd ref="5879283695"/>
+    <nd ref="5879283696"/>
+    <nd ref="5879283697"/>
+    <nd ref="5879283694"/>
+    <nd ref="5879283693"/>
+    <nd ref="5879283698"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Blyton Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437412" version="3" timestamp="2023-12-10T21:04:44Z" changeset="144977583" uid="10633286" user="Moorit">
+    <nd ref="5879283773"/>
+    <nd ref="5879283770"/>
+    <nd ref="5879283771"/>
+    <nd ref="5879283772"/>
+    <nd ref="5879283773"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3GS"/>
+    <tag k="addr:street" v="Hut Field Lane"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437441" version="2" timestamp="2024-03-19T19:34:12Z" changeset="148878070" uid="10633286" user="Moorit">
+    <nd ref="5879284133"/>
+    <nd ref="5879284129"/>
+    <nd ref="5879284128"/>
+    <nd ref="5879284132"/>
+    <nd ref="5879284131"/>
+    <nd ref="5879284126"/>
+    <nd ref="5879284127"/>
+    <nd ref="5879284130"/>
+    <nd ref="5879284133"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="St George Lane"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437446" version="2" timestamp="2024-04-22T19:59:02Z" changeset="150363976" uid="10633286" user="Moorit">
+    <nd ref="5879284157"/>
+    <nd ref="5879284154"/>
+    <nd ref="5879284155"/>
+    <nd ref="5879284156"/>
+    <nd ref="5879284157"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Varrier Jones Drive"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437447" version="2" timestamp="2024-04-22T19:59:02Z" changeset="150363976" uid="10633286" user="Moorit">
+    <nd ref="5879284166"/>
+    <nd ref="5879284162"/>
+    <nd ref="5879284161"/>
+    <nd ref="5879284163"/>
+    <nd ref="5879284164"/>
+    <nd ref="5879284165"/>
+    <nd ref="5879284159"/>
+    <nd ref="5879284160"/>
+    <nd ref="5879284166"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Varrier Jones Drive"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437448" version="2" timestamp="2023-12-10T21:04:44Z" changeset="144977583" uid="10633286" user="Moorit">
+    <nd ref="5879284170"/>
+    <nd ref="5879284169"/>
+    <nd ref="5879284168"/>
+    <nd ref="5879284167"/>
+    <nd ref="5879284170"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3GS"/>
+    <tag k="addr:street" v="Hut Field Lane"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437449" version="2" timestamp="2023-12-10T21:04:44Z" changeset="144977583" uid="10633286" user="Moorit">
+    <nd ref="5879284176"/>
+    <nd ref="5879284173"/>
+    <nd ref="5879284172"/>
+    <nd ref="5879284171"/>
+    <nd ref="5879284174"/>
+    <nd ref="5879284175"/>
+    <nd ref="5879284176"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3GS"/>
+    <tag k="addr:street" v="Hut Field Lane"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437450" version="2" timestamp="2023-12-10T21:04:44Z" changeset="144977583" uid="10633286" user="Moorit">
+    <nd ref="5879284182"/>
+    <nd ref="5879284181"/>
+    <nd ref="5879284180"/>
+    <nd ref="5879284177"/>
+    <nd ref="5879284178"/>
+    <nd ref="5879284179"/>
+    <nd ref="5879284182"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3GS"/>
+    <tag k="addr:street" v="Hut Field Lane"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437451" version="2" timestamp="2023-12-10T21:04:44Z" changeset="144977583" uid="10633286" user="Moorit">
+    <nd ref="5879284386"/>
+    <nd ref="5879284385"/>
+    <nd ref="5879284184"/>
+    <nd ref="5879284183"/>
+    <nd ref="5879284386"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 3GS"/>
+    <tag k="addr:street" v="Hut Field Lane"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437466" version="2" timestamp="2024-04-22T19:59:02Z" changeset="150363976" uid="10633286" user="Moorit">
+    <nd ref="5879284450"/>
+    <nd ref="5879284449"/>
+    <nd ref="5879284448"/>
+    <nd ref="5879284447"/>
+    <nd ref="5879284450"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Varrier Jones Drive"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437467" version="2" timestamp="2024-04-22T19:59:02Z" changeset="150363976" uid="10633286" user="Moorit">
+    <nd ref="5879284456"/>
+    <nd ref="5879284455"/>
+    <nd ref="5879284454"/>
+    <nd ref="5879284453"/>
+    <nd ref="5879284456"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Varrier Jones Drive"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437473" version="2" timestamp="2024-04-22T19:59:02Z" changeset="150363976" uid="10633286" user="Moorit">
+    <nd ref="5879284590"/>
+    <nd ref="5879284587"/>
+    <nd ref="5879284588"/>
+    <nd ref="5879284589"/>
+    <nd ref="5879284590"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Varrier Jones Drive"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437572" version="3" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="5879285541"/>
+    <nd ref="11338055854"/>
+    <nd ref="11338055853"/>
+    <nd ref="5879285538"/>
+    <nd ref="5879285541"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437580" version="3" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="5879285574"/>
+    <nd ref="11338055836"/>
+    <nd ref="11338055835"/>
+    <nd ref="5879285571"/>
+    <nd ref="5879285574"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437581" version="3" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="5879285577"/>
+    <nd ref="11338055846"/>
+    <nd ref="11338055845"/>
+    <nd ref="5879285576"/>
+    <nd ref="5879285577"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437582" version="3" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="5879285581"/>
+    <nd ref="11338055844"/>
+    <nd ref="11338055843"/>
+    <nd ref="5879285580"/>
+    <nd ref="5879285581"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437583" version="3" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="5879285586"/>
+    <nd ref="11338055838"/>
+    <nd ref="11338055837"/>
+    <nd ref="5879285583"/>
+    <nd ref="5879285586"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437584" version="3" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="5879285590"/>
+    <nd ref="11338055848"/>
+    <nd ref="11338055847"/>
+    <nd ref="5879285587"/>
+    <nd ref="5879285590"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437585" version="4" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="5879285594"/>
+    <nd ref="11338055850"/>
+    <nd ref="11338055849"/>
+    <nd ref="5879285591"/>
+    <nd ref="5879285594"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437586" version="3" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="5879285598"/>
+    <nd ref="11338055858"/>
+    <nd ref="11338055857"/>
+    <nd ref="5879285595"/>
+    <nd ref="5879285598"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437598" version="4" timestamp="2024-02-26T19:44:05Z" changeset="147946539" uid="10633286" user="Moorit">
+    <nd ref="5879285671"/>
+    <nd ref="11338055770"/>
+    <nd ref="11338055769"/>
+    <nd ref="5879285670"/>
+    <nd ref="5879285671"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3RP"/>
+    <tag k="addr:street" v="Brookfield Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437599" version="3" timestamp="2024-02-26T19:44:05Z" changeset="147946539" uid="10633286" user="Moorit">
+    <nd ref="5879285674"/>
+    <nd ref="11338055796"/>
+    <nd ref="11338055795"/>
+    <nd ref="5879285673"/>
+    <nd ref="5879285674"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Brookfield Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437708" version="2" timestamp="2024-11-12T21:01:46Z" changeset="159068184" uid="10633286" user="Moorit">
+    <nd ref="5879286015"/>
+    <nd ref="5879286012"/>
+    <nd ref="5879286013"/>
+    <nd ref="5879286014"/>
+    <nd ref="5879286015"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB23 3GT"/>
+    <tag k="addr:street" v="Old Pinewood Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="622437712" version="3" timestamp="2024-11-12T21:01:46Z" changeset="159068184" uid="10633286" user="Moorit">
+    <nd ref="5879286033"/>
+    <nd ref="5879286030"/>
+    <nd ref="5879286031"/>
+    <nd ref="5879286032"/>
+    <nd ref="5879286033"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB23 3GT"/>
+    <tag k="addr:street" v="Old Pinewood Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="694161964" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517157982"/>
+    <nd ref="6517157979"/>
+    <nd ref="7747857900"/>
+    <nd ref="6517157980"/>
+    <nd ref="6517157981"/>
+    <nd ref="7747857901"/>
+    <nd ref="6517157982"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161965" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857942"/>
+    <nd ref="6517202589"/>
+    <nd ref="6517202590"/>
+    <nd ref="6517202588"/>
+    <nd ref="6517157983"/>
+    <nd ref="7747857943"/>
+    <nd ref="7747857942"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161966" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857913"/>
+    <nd ref="6517202591"/>
+    <nd ref="6517202602"/>
+    <nd ref="6517202601"/>
+    <nd ref="6517202600"/>
+    <nd ref="7747857912"/>
+    <nd ref="7747857913"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161968" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202603"/>
+    <nd ref="7747857911"/>
+    <nd ref="7747857910"/>
+    <nd ref="6517202604"/>
+    <nd ref="6517202603"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161969" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202609"/>
+    <nd ref="7747857909"/>
+    <nd ref="7747857908"/>
+    <nd ref="6517202608"/>
+    <nd ref="6517202609"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161970" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202614"/>
+    <nd ref="6517202613"/>
+    <nd ref="6517202612"/>
+    <nd ref="6517202611"/>
+    <nd ref="6517202614"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161971" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202618"/>
+    <nd ref="7747858010"/>
+    <nd ref="7747858009"/>
+    <nd ref="6517202615"/>
+    <nd ref="6517202618"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161972" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202624"/>
+    <nd ref="7747858013"/>
+    <nd ref="7747858014"/>
+    <nd ref="6517202619"/>
+    <nd ref="6517202624"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="128"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161973" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202632"/>
+    <nd ref="6517202631"/>
+    <nd ref="6517202630"/>
+    <nd ref="6517202629"/>
+    <nd ref="6517202632"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161974" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202636"/>
+    <nd ref="6517202635"/>
+    <nd ref="6517202634"/>
+    <nd ref="6517202633"/>
+    <nd ref="6517202636"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161975" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857999"/>
+    <nd ref="6517202641"/>
+    <nd ref="6517202640"/>
+    <nd ref="6517202639"/>
+    <nd ref="6517202638"/>
+    <nd ref="7747858000"/>
+    <nd ref="7747857999"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161976" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202648"/>
+    <nd ref="6517202647"/>
+    <nd ref="7747857916"/>
+    <nd ref="6517202646"/>
+    <nd ref="6517202645"/>
+    <nd ref="7747857915"/>
+    <nd ref="6517202648"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161980" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202664"/>
+    <nd ref="6517202661"/>
+    <nd ref="6517202662"/>
+    <nd ref="6517202663"/>
+    <nd ref="6517202664"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161981" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202668"/>
+    <nd ref="6517202667"/>
+    <nd ref="6517202666"/>
+    <nd ref="6517202665"/>
+    <nd ref="6517202668"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161982" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202672"/>
+    <nd ref="6517202669"/>
+    <nd ref="6517202670"/>
+    <nd ref="6517202671"/>
+    <nd ref="6517202672"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161983" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202676"/>
+    <nd ref="6517202673"/>
+    <nd ref="6517202674"/>
+    <nd ref="6517202675"/>
+    <nd ref="6517202676"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161984" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202680"/>
+    <nd ref="6517202677"/>
+    <nd ref="6517202678"/>
+    <nd ref="6517202679"/>
+    <nd ref="6517202680"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161986" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202688"/>
+    <nd ref="6517202687"/>
+    <nd ref="6517202686"/>
+    <nd ref="6517202685"/>
+    <nd ref="6517202688"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161987" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202692"/>
+    <nd ref="6517202691"/>
+    <nd ref="6517202690"/>
+    <nd ref="6517202689"/>
+    <nd ref="6517202692"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161988" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202696"/>
+    <nd ref="6517202695"/>
+    <nd ref="6517202694"/>
+    <nd ref="6517202693"/>
+    <nd ref="6517202696"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161989" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202700"/>
+    <nd ref="6517202699"/>
+    <nd ref="6517202698"/>
+    <nd ref="6517202697"/>
+    <nd ref="6517202700"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161990" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202704"/>
+    <nd ref="6517202703"/>
+    <nd ref="6517202702"/>
+    <nd ref="6517202701"/>
+    <nd ref="6517202704"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161991" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202708"/>
+    <nd ref="6517202705"/>
+    <nd ref="6517202706"/>
+    <nd ref="6517202707"/>
+    <nd ref="6517202708"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694161992" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202712"/>
+    <nd ref="6517202709"/>
+    <nd ref="6517202710"/>
+    <nd ref="6517202711"/>
+    <nd ref="6517202712"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162003" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202756"/>
+    <nd ref="7747858265"/>
+    <nd ref="7747858264"/>
+    <nd ref="6517202753"/>
+    <nd ref="6517202756"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AW"/>
+    <tag k="addr:street" v="Cottage Green"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162004" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202760"/>
+    <nd ref="7747858261"/>
+    <nd ref="7747858260"/>
+    <nd ref="6517202757"/>
+    <nd ref="6517202760"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162005" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202764"/>
+    <nd ref="6517202761"/>
+    <nd ref="6517202762"/>
+    <nd ref="6517202763"/>
+    <nd ref="6517202764"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="150"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162006" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202767"/>
+    <nd ref="7747857880"/>
+    <nd ref="7747857879"/>
+    <nd ref="6517202766"/>
+    <nd ref="6517202767"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162007" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858257"/>
+    <nd ref="7747858251"/>
+    <nd ref="7747858250"/>
+    <nd ref="7747858256"/>
+    <nd ref="7747858257"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162008" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202776"/>
+    <nd ref="6517202773"/>
+    <nd ref="6517202774"/>
+    <nd ref="6517202775"/>
+    <nd ref="6517202776"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="168"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162009" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202780"/>
+    <nd ref="6517202777"/>
+    <nd ref="6517202778"/>
+    <nd ref="6517202779"/>
+    <nd ref="6517202780"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162010" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202784"/>
+    <nd ref="6517202781"/>
+    <nd ref="6517202782"/>
+    <nd ref="6517202783"/>
+    <nd ref="6517202784"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162011" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202788"/>
+    <nd ref="6517202787"/>
+    <nd ref="6517202786"/>
+    <nd ref="6517202785"/>
+    <nd ref="6517202788"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162013" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202796"/>
+    <nd ref="6517202795"/>
+    <nd ref="6517202794"/>
+    <nd ref="6517202793"/>
+    <nd ref="6517202796"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162014" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202800"/>
+    <nd ref="6517202797"/>
+    <nd ref="6517202798"/>
+    <nd ref="6517202799"/>
+    <nd ref="6517202800"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162015" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202804"/>
+    <nd ref="6517202801"/>
+    <nd ref="6517202802"/>
+    <nd ref="6517202803"/>
+    <nd ref="6517202804"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162016" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202808"/>
+    <nd ref="6517202807"/>
+    <nd ref="6517202806"/>
+    <nd ref="6517202805"/>
+    <nd ref="6517202808"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162018" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202816"/>
+    <nd ref="6517202815"/>
+    <nd ref="6517202814"/>
+    <nd ref="6517202813"/>
+    <nd ref="6517202816"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162019" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202820"/>
+    <nd ref="6517202817"/>
+    <nd ref="6517202818"/>
+    <nd ref="6517202819"/>
+    <nd ref="6517202820"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162020" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202824"/>
+    <nd ref="6517202821"/>
+    <nd ref="6517202822"/>
+    <nd ref="6517202823"/>
+    <nd ref="6517202824"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162021" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202828"/>
+    <nd ref="6517202825"/>
+    <nd ref="6517202826"/>
+    <nd ref="6517202827"/>
+    <nd ref="6517202828"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162022" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202832"/>
+    <nd ref="6517202829"/>
+    <nd ref="6517202830"/>
+    <nd ref="6517202831"/>
+    <nd ref="6517202832"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162025" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202844"/>
+    <nd ref="6517202841"/>
+    <nd ref="6517202842"/>
+    <nd ref="6517202843"/>
+    <nd ref="6517202844"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162031" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202869"/>
+    <nd ref="7747857907"/>
+    <nd ref="7747857906"/>
+    <nd ref="6517202868"/>
+    <nd ref="6517202869"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AW"/>
+    <tag k="addr:street" v="Cottage Green"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162032" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202874"/>
+    <nd ref="6517202873"/>
+    <nd ref="6517202872"/>
+    <nd ref="6517202871"/>
+    <nd ref="6517202874"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162033" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202878"/>
+    <nd ref="7747857888"/>
+    <nd ref="7747857887"/>
+    <nd ref="6517202875"/>
+    <nd ref="6517202878"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162034" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202882"/>
+    <nd ref="7747857886"/>
+    <nd ref="7747857885"/>
+    <nd ref="6517202879"/>
+    <nd ref="6517202882"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162035" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202886"/>
+    <nd ref="7747857884"/>
+    <nd ref="7747857883"/>
+    <nd ref="6517202883"/>
+    <nd ref="6517202886"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162036" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202890"/>
+    <nd ref="7747858206"/>
+    <nd ref="7747858205"/>
+    <nd ref="6517202887"/>
+    <nd ref="6517202890"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162037" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202894"/>
+    <nd ref="6517202891"/>
+    <nd ref="6517202892"/>
+    <nd ref="6517202893"/>
+    <nd ref="6517202894"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162038" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202899"/>
+    <nd ref="7747858007"/>
+    <nd ref="7747858008"/>
+    <nd ref="6517202895"/>
+    <nd ref="6517202899"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162041" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202911"/>
+    <nd ref="7747858006"/>
+    <nd ref="7747858005"/>
+    <nd ref="6517202910"/>
+    <nd ref="6517202911"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162043" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202920"/>
+    <nd ref="6517202919"/>
+    <nd ref="6517202918"/>
+    <nd ref="6517202917"/>
+    <nd ref="6517202920"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162044" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202924"/>
+    <nd ref="6517202921"/>
+    <nd ref="6517202922"/>
+    <nd ref="6517202923"/>
+    <nd ref="6517202924"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162045" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202928"/>
+    <nd ref="6517202925"/>
+    <nd ref="6517202926"/>
+    <nd ref="6517202927"/>
+    <nd ref="6517202928"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162046" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202931"/>
+    <nd ref="7747858086"/>
+    <nd ref="7747858085"/>
+    <nd ref="6517202930"/>
+    <nd ref="6517202931"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162047" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202939"/>
+    <nd ref="7747857998"/>
+    <nd ref="7747857997"/>
+    <nd ref="6517202933"/>
+    <nd ref="6517202939"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162048" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202942"/>
+    <nd ref="6517202941"/>
+    <nd ref="6517202944"/>
+    <nd ref="6517202945"/>
+    <nd ref="7747857917"/>
+    <nd ref="6517202942"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162050" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202954"/>
+    <nd ref="7747858022"/>
+    <nd ref="7747858021"/>
+    <nd ref="6517202951"/>
+    <nd ref="6517202954"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162051" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202957"/>
+    <nd ref="7747858024"/>
+    <nd ref="7747858023"/>
+    <nd ref="6517202956"/>
+    <nd ref="6517202957"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162052" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202962"/>
+    <nd ref="6517202959"/>
+    <nd ref="6517202960"/>
+    <nd ref="6517202961"/>
+    <nd ref="6517202962"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162053" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202966"/>
+    <nd ref="6517202963"/>
+    <nd ref="6517202964"/>
+    <nd ref="6517202965"/>
+    <nd ref="6517202966"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162054" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202969"/>
+    <nd ref="7747858138"/>
+    <nd ref="7747858137"/>
+    <nd ref="6517202968"/>
+    <nd ref="6517202969"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162060" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203003"/>
+    <nd ref="6517203002"/>
+    <nd ref="6517203001"/>
+    <nd ref="6517203000"/>
+    <nd ref="6517203003"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162061" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203007"/>
+    <nd ref="6517203006"/>
+    <nd ref="6517203005"/>
+    <nd ref="6517203004"/>
+    <nd ref="6517203007"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162062" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203011"/>
+    <nd ref="6517203010"/>
+    <nd ref="6517203009"/>
+    <nd ref="6517203008"/>
+    <nd ref="6517203011"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162063" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203015"/>
+    <nd ref="6517203012"/>
+    <nd ref="6517203013"/>
+    <nd ref="6517203014"/>
+    <nd ref="6517203015"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162065" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203023"/>
+    <nd ref="6517203022"/>
+    <nd ref="6517203021"/>
+    <nd ref="6517203020"/>
+    <nd ref="6517203023"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162066" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203027"/>
+    <nd ref="6517203026"/>
+    <nd ref="6517203025"/>
+    <nd ref="6517203024"/>
+    <nd ref="6517203027"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162067" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203031"/>
+    <nd ref="6517203030"/>
+    <nd ref="6517203029"/>
+    <nd ref="6517203028"/>
+    <nd ref="6517203031"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162068" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203035"/>
+    <nd ref="6517203034"/>
+    <nd ref="6517203033"/>
+    <nd ref="6517203032"/>
+    <nd ref="6517203035"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162069" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203039"/>
+    <nd ref="6517203038"/>
+    <nd ref="6517203037"/>
+    <nd ref="6517203036"/>
+    <nd ref="6517203039"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162073" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203055"/>
+    <nd ref="6517203052"/>
+    <nd ref="6517203053"/>
+    <nd ref="6517203054"/>
+    <nd ref="6517203055"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162074" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203059"/>
+    <nd ref="6517203058"/>
+    <nd ref="6517203057"/>
+    <nd ref="6517203056"/>
+    <nd ref="6517203059"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162075" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203063"/>
+    <nd ref="6517203062"/>
+    <nd ref="6517203061"/>
+    <nd ref="6517203060"/>
+    <nd ref="6517203063"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162076" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203067"/>
+    <nd ref="6517203064"/>
+    <nd ref="6517203065"/>
+    <nd ref="6517203066"/>
+    <nd ref="6517203067"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162077" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203071"/>
+    <nd ref="6517203070"/>
+    <nd ref="6517203069"/>
+    <nd ref="6517203068"/>
+    <nd ref="6517203071"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162078" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203075"/>
+    <nd ref="6517203072"/>
+    <nd ref="6517203073"/>
+    <nd ref="6517203074"/>
+    <nd ref="6517203075"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162079" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203079"/>
+    <nd ref="7747858132"/>
+    <nd ref="7747858131"/>
+    <nd ref="6517203076"/>
+    <nd ref="6517203079"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162080" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203083"/>
+    <nd ref="7747858130"/>
+    <nd ref="7747858129"/>
+    <nd ref="6517203080"/>
+    <nd ref="6517203083"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162081" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203087"/>
+    <nd ref="6517203086"/>
+    <nd ref="6517203085"/>
+    <nd ref="6517203084"/>
+    <nd ref="6517203087"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162082" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203091"/>
+    <nd ref="6517203090"/>
+    <nd ref="6517203089"/>
+    <nd ref="6517203088"/>
+    <nd ref="6517203091"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162083" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203095"/>
+    <nd ref="6517203094"/>
+    <nd ref="6517203093"/>
+    <nd ref="6517203092"/>
+    <nd ref="6517203095"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162084" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203099"/>
+    <nd ref="6517203098"/>
+    <nd ref="6517203097"/>
+    <nd ref="6517203096"/>
+    <nd ref="6517203099"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162085" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203103"/>
+    <nd ref="6517203102"/>
+    <nd ref="6517203101"/>
+    <nd ref="6517203100"/>
+    <nd ref="6517203103"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162086" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203107"/>
+    <nd ref="6517203106"/>
+    <nd ref="6517203105"/>
+    <nd ref="6517203104"/>
+    <nd ref="6517203107"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162087" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203111"/>
+    <nd ref="6517203110"/>
+    <nd ref="6517203109"/>
+    <nd ref="6517203108"/>
+    <nd ref="6517203111"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162088" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203115"/>
+    <nd ref="6517203112"/>
+    <nd ref="6517203113"/>
+    <nd ref="6517203114"/>
+    <nd ref="6517203115"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162089" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203119"/>
+    <nd ref="6517203118"/>
+    <nd ref="6517203117"/>
+    <nd ref="6517203116"/>
+    <nd ref="6517203119"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162090" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203123"/>
+    <nd ref="6517203122"/>
+    <nd ref="6517203121"/>
+    <nd ref="6517203120"/>
+    <nd ref="6517203123"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162091" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203127"/>
+    <nd ref="6517203124"/>
+    <nd ref="6517203125"/>
+    <nd ref="6517203126"/>
+    <nd ref="6517203127"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162092" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203131"/>
+    <nd ref="6517203128"/>
+    <nd ref="6517203129"/>
+    <nd ref="6517203130"/>
+    <nd ref="6517203131"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162093" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203135"/>
+    <nd ref="6517203134"/>
+    <nd ref="6517203133"/>
+    <nd ref="6517203132"/>
+    <nd ref="6517203135"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162094" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203139"/>
+    <nd ref="6517203138"/>
+    <nd ref="6517203137"/>
+    <nd ref="6517203136"/>
+    <nd ref="6517203139"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162095" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203143"/>
+    <nd ref="6517203142"/>
+    <nd ref="6517203141"/>
+    <nd ref="6517203140"/>
+    <nd ref="6517203143"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162096" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203147"/>
+    <nd ref="6517203146"/>
+    <nd ref="6517203145"/>
+    <nd ref="6517203144"/>
+    <nd ref="6517203147"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162097" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203151"/>
+    <nd ref="6517203148"/>
+    <nd ref="6517203149"/>
+    <nd ref="6517203150"/>
+    <nd ref="6517203151"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162098" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203155"/>
+    <nd ref="6517203152"/>
+    <nd ref="6517203153"/>
+    <nd ref="6517203154"/>
+    <nd ref="6517203155"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162099" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203159"/>
+    <nd ref="6517203156"/>
+    <nd ref="6517203157"/>
+    <nd ref="6517203158"/>
+    <nd ref="6517203159"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162101" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203167"/>
+    <nd ref="7747858417"/>
+    <nd ref="7747858416"/>
+    <nd ref="6517203164"/>
+    <nd ref="6517203167"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162103" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203174"/>
+    <nd ref="7747858645"/>
+    <nd ref="7747858644"/>
+    <nd ref="6517203175"/>
+    <nd ref="6517203174"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162104" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858647"/>
+    <nd ref="6517203181"/>
+    <nd ref="6517203179"/>
+    <nd ref="7747858648"/>
+    <nd ref="7747858646"/>
+    <nd ref="7747858647"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162112" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203224"/>
+    <nd ref="6517203223"/>
+    <nd ref="6517203222"/>
+    <nd ref="6517203221"/>
+    <nd ref="6517203219"/>
+    <nd ref="6517203220"/>
+    <nd ref="6517203224"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162113" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203225"/>
+    <nd ref="7747858327"/>
+    <nd ref="7747858326"/>
+    <nd ref="6517203226"/>
+    <nd ref="6517203225"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162117" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203244"/>
+    <nd ref="6517203241"/>
+    <nd ref="7747858102"/>
+    <nd ref="7747858101"/>
+    <nd ref="6517203242"/>
+    <nd ref="6517203243"/>
+    <nd ref="6517203244"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162123" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203278"/>
+    <nd ref="6517203276"/>
+    <nd ref="6517203273"/>
+    <nd ref="6517203274"/>
+    <nd ref="6517203275"/>
+    <nd ref="6517203277"/>
+    <nd ref="6517203278"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="694162124" version="2" timestamp="2020-07-26T01:13:38Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203282"/>
+    <nd ref="6517203279"/>
+    <nd ref="6517203280"/>
+    <nd ref="6517203281"/>
+    <nd ref="6517203282"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165701" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857878"/>
+    <nd ref="6517202768"/>
+    <nd ref="6517202765"/>
+    <nd ref="7747857877"/>
+    <nd ref="7747857878"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="156"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165702" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857880"/>
+    <nd ref="7747857878"/>
+    <nd ref="7747857877"/>
+    <nd ref="7747857879"/>
+    <nd ref="7747857880"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="154"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165703" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857882"/>
+    <nd ref="6517202885"/>
+    <nd ref="6517202884"/>
+    <nd ref="7747857881"/>
+    <nd ref="7747857882"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165704" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857884"/>
+    <nd ref="7747857882"/>
+    <nd ref="7747857881"/>
+    <nd ref="7747857883"/>
+    <nd ref="7747857884"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165705" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857886"/>
+    <nd ref="6517202881"/>
+    <nd ref="6517202880"/>
+    <nd ref="7747857885"/>
+    <nd ref="7747857886"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165706" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857888"/>
+    <nd ref="6517202877"/>
+    <nd ref="6517202876"/>
+    <nd ref="7747857887"/>
+    <nd ref="7747857888"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165711" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857903"/>
+    <nd ref="6517202870"/>
+    <nd ref="6517202867"/>
+    <nd ref="7747857902"/>
+    <nd ref="7747857903"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3AW"/>
+    <tag k="addr:street" v="Cottage Green"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165712" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857905"/>
+    <nd ref="7747857903"/>
+    <nd ref="7747857902"/>
+    <nd ref="7747857904"/>
+    <nd ref="7747857905"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AW"/>
+    <tag k="addr:street" v="Cottage Green"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165713" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857907"/>
+    <nd ref="7747857905"/>
+    <nd ref="7747857904"/>
+    <nd ref="7747857906"/>
+    <nd ref="7747857907"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3AW"/>
+    <tag k="addr:street" v="Cottage Green"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165714" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857909"/>
+    <nd ref="6517202610"/>
+    <nd ref="6517202607"/>
+    <nd ref="7747857908"/>
+    <nd ref="7747857909"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165715" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857911"/>
+    <nd ref="6517202606"/>
+    <nd ref="6517202605"/>
+    <nd ref="7747857910"/>
+    <nd ref="7747857911"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165716" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857912"/>
+    <nd ref="6517202595"/>
+    <nd ref="6517202594"/>
+    <nd ref="6517202593"/>
+    <nd ref="6517202592"/>
+    <nd ref="7747857913"/>
+    <nd ref="7747857912"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165719" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857917"/>
+    <nd ref="6517202946"/>
+    <nd ref="6517202943"/>
+    <nd ref="6517202942"/>
+    <nd ref="7747857917"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="110"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165721" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202934"/>
+    <nd ref="7747857997"/>
+    <nd ref="7747857998"/>
+    <nd ref="6517202937"/>
+    <nd ref="6517202934"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165722" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202933"/>
+    <nd ref="6517202938"/>
+    <nd ref="6517202940"/>
+    <nd ref="6517202939"/>
+    <nd ref="6517202933"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165728" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857943"/>
+    <nd ref="6517157984"/>
+    <nd ref="6517202585"/>
+    <nd ref="6517202586"/>
+    <nd ref="6517202587"/>
+    <nd ref="7747857942"/>
+    <nd ref="7747857943"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165749" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747857995"/>
+    <nd ref="6517202936"/>
+    <nd ref="6517202935"/>
+    <nd ref="7747857996"/>
+    <nd ref="7747857995"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165750" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202937"/>
+    <nd ref="7747857995"/>
+    <nd ref="7747857996"/>
+    <nd ref="6517202934"/>
+    <nd ref="6517202937"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165751" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858000"/>
+    <nd ref="6517202637"/>
+    <nd ref="6517202644"/>
+    <nd ref="6517202643"/>
+    <nd ref="6517202642"/>
+    <nd ref="7747857999"/>
+    <nd ref="7747858000"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165752" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858002"/>
+    <nd ref="6517202912"/>
+    <nd ref="6517202909"/>
+    <nd ref="7747858001"/>
+    <nd ref="7747858002"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165753" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858004"/>
+    <nd ref="7747858002"/>
+    <nd ref="7747858001"/>
+    <nd ref="7747858003"/>
+    <nd ref="7747858004"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165754" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858006"/>
+    <nd ref="7747858004"/>
+    <nd ref="7747858003"/>
+    <nd ref="7747858005"/>
+    <nd ref="7747858006"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165755" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202895"/>
+    <nd ref="6517202898"/>
+    <nd ref="6517202900"/>
+    <nd ref="6517202899"/>
+    <nd ref="6517202895"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165756" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858007"/>
+    <nd ref="6517202897"/>
+    <nd ref="6517202896"/>
+    <nd ref="7747858008"/>
+    <nd ref="7747858007"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165757" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858010"/>
+    <nd ref="6517202617"/>
+    <nd ref="6517202616"/>
+    <nd ref="7747858009"/>
+    <nd ref="7747858010"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="CB23 3AL"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165758" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202619"/>
+    <nd ref="6517202621"/>
+    <nd ref="6517202625"/>
+    <nd ref="6517202624"/>
+    <nd ref="6517202619"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165759" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858013"/>
+    <nd ref="7747858012"/>
+    <nd ref="7747858011"/>
+    <nd ref="7747858014"/>
+    <nd ref="7747858013"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165760" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858012"/>
+    <nd ref="6517202623"/>
+    <nd ref="6517202622"/>
+    <nd ref="7747858011"/>
+    <nd ref="7747858012"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165761" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202627"/>
+    <nd ref="7747858018"/>
+    <nd ref="7747858017"/>
+    <nd ref="6517202620"/>
+    <nd ref="6517202627"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="124"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165762" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858015"/>
+    <nd ref="6517202626"/>
+    <nd ref="6517202628"/>
+    <nd ref="7747858016"/>
+    <nd ref="7747858015"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165763" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517202620"/>
+    <nd ref="7747858015"/>
+    <nd ref="7747858016"/>
+    <nd ref="6517202627"/>
+    <nd ref="6517202620"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165765" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858022"/>
+    <nd ref="7747858020"/>
+    <nd ref="7747858019"/>
+    <nd ref="7747858021"/>
+    <nd ref="7747858022"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165766" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858024"/>
+    <nd ref="6517202958"/>
+    <nd ref="6517202955"/>
+    <nd ref="7747858023"/>
+    <nd ref="7747858024"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165787" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858086"/>
+    <nd ref="6517202932"/>
+    <nd ref="6517202935"/>
+    <nd ref="6517202936"/>
+    <nd ref="7747858085"/>
+    <nd ref="7747858086"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB23 3AJ"/>
+    <tag k="addr:street" v="Cromwell Crescent"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165795" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858128"/>
+    <nd ref="7747858127"/>
+    <nd ref="7747858125"/>
+    <nd ref="7747858124"/>
+    <nd ref="7747858123"/>
+    <nd ref="7747858126"/>
+    <nd ref="7747858128"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB23 3AN"/>
+    <tag k="addr:street" v="Hanslope Close"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165796" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858130"/>
+    <nd ref="6517203082"/>
+    <nd ref="6517203081"/>
+    <nd ref="7747858129"/>
+    <nd ref="7747858130"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3AR"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165797" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858132"/>
+    <nd ref="6517203078"/>
+    <nd ref="6517203077"/>
+    <nd ref="7747858131"/>
+    <nd ref="7747858132"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165799" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858136"/>
+    <nd ref="6517202970"/>
+    <nd ref="6517202967"/>
+    <nd ref="7747858135"/>
+    <nd ref="7747858136"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165800" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858138"/>
+    <nd ref="7747858136"/>
+    <nd ref="7747858135"/>
+    <nd ref="7747858137"/>
+    <nd ref="7747858138"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165803" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858144"/>
+    <nd ref="6517202903"/>
+    <nd ref="6517202902"/>
+    <nd ref="7747858143"/>
+    <nd ref="7747858144"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AP"/>
+    <tag k="addr:street" v="St Peter's Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165810" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858206"/>
+    <nd ref="6517202889"/>
+    <nd ref="6517202888"/>
+    <nd ref="7747858205"/>
+    <nd ref="7747858206"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165815" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858249"/>
+    <nd ref="6517202772"/>
+    <nd ref="6517202769"/>
+    <nd ref="7747858248"/>
+    <nd ref="7747858249"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165816" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858251"/>
+    <nd ref="7747858249"/>
+    <nd ref="7747858248"/>
+    <nd ref="7747858250"/>
+    <nd ref="7747858251"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165817" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858253"/>
+    <nd ref="6517202770"/>
+    <nd ref="6517202771"/>
+    <nd ref="7747858252"/>
+    <nd ref="7747858253"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="158"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165818" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858255"/>
+    <nd ref="7747858253"/>
+    <nd ref="7747858252"/>
+    <nd ref="7747858254"/>
+    <nd ref="7747858255"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165819" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858259"/>
+    <nd ref="6517202759"/>
+    <nd ref="6517202758"/>
+    <nd ref="7747858258"/>
+    <nd ref="7747858259"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165820" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858261"/>
+    <nd ref="7747858259"/>
+    <nd ref="7747858258"/>
+    <nd ref="7747858260"/>
+    <nd ref="7747858261"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="146"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165821" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858263"/>
+    <nd ref="6517202755"/>
+    <nd ref="6517202754"/>
+    <nd ref="7747858262"/>
+    <nd ref="7747858263"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AW"/>
+    <tag k="addr:street" v="Cottage Green"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165822" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858265"/>
+    <nd ref="7747858263"/>
+    <nd ref="7747858262"/>
+    <nd ref="7747858264"/>
+    <nd ref="7747858265"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3AW"/>
+    <tag k="addr:street" v="Cottage Green"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165826" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858327"/>
+    <nd ref="6517203228"/>
+    <nd ref="6517203227"/>
+    <nd ref="7747858326"/>
+    <nd ref="7747858327"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165871" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858417"/>
+    <nd ref="6517203166"/>
+    <nd ref="6517203165"/>
+    <nd ref="7747858416"/>
+    <nd ref="7747858417"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165872" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858419"/>
+    <nd ref="5497664628"/>
+    <nd ref="5497664629"/>
+    <nd ref="7747858418"/>
+    <nd ref="7747858419"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165873" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858421"/>
+    <nd ref="7747858419"/>
+    <nd ref="7747858418"/>
+    <nd ref="7747858420"/>
+    <nd ref="7747858421"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165874" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858422"/>
+    <nd ref="5497664624"/>
+    <nd ref="5497664625"/>
+    <nd ref="5497664626"/>
+    <nd ref="7747858422"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165875" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858425"/>
+    <nd ref="7747858421"/>
+    <nd ref="7747858420"/>
+    <nd ref="7747858426"/>
+    <nd ref="7747858425"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3AH"/>
+    <tag k="addr:street" v="Green Walk"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165879" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858462"/>
+    <nd ref="7747858390"/>
+    <nd ref="5497664707"/>
+    <nd ref="5497664708"/>
+    <nd ref="7747858391"/>
+    <nd ref="7747858461"/>
+    <nd ref="7747858462"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165880" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858461"/>
+    <nd ref="7747858463"/>
+    <nd ref="5497664706"/>
+    <nd ref="7747858462"/>
+    <nd ref="7747858461"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165881" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858465"/>
+    <nd ref="7747858466"/>
+    <nd ref="7747858467"/>
+    <nd ref="7747858464"/>
+    <nd ref="7747858465"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165882" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858466"/>
+    <nd ref="7747858473"/>
+    <nd ref="5497664702"/>
+    <nd ref="5497664703"/>
+    <nd ref="7747858467"/>
+    <nd ref="7747858466"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165883" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858469"/>
+    <nd ref="7747858471"/>
+    <nd ref="7747858470"/>
+    <nd ref="7747858468"/>
+    <nd ref="7747858469"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165884" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858471"/>
+    <nd ref="7747858481"/>
+    <nd ref="7747858480"/>
+    <nd ref="7747858470"/>
+    <nd ref="7747858471"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165885" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858463"/>
+    <nd ref="5497664709"/>
+    <nd ref="7747858472"/>
+    <nd ref="5497664705"/>
+    <nd ref="7747858460"/>
+    <nd ref="5497664706"/>
+    <nd ref="7747858463"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165886" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858473"/>
+    <nd ref="7747858395"/>
+    <nd ref="7747858474"/>
+    <nd ref="5497664701"/>
+    <nd ref="7747858394"/>
+    <nd ref="5497664702"/>
+    <nd ref="7747858473"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165887" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858468"/>
+    <nd ref="5497664700"/>
+    <nd ref="5497664701"/>
+    <nd ref="7747858474"/>
+    <nd ref="7747858469"/>
+    <nd ref="7747858468"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165888" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858475"/>
+    <nd ref="7747858478"/>
+    <nd ref="7747858479"/>
+    <nd ref="7747858476"/>
+    <nd ref="7747858475"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165889" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858477"/>
+    <nd ref="5497664696"/>
+    <nd ref="5497664697"/>
+    <nd ref="5497664698"/>
+    <nd ref="7747858477"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165890" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858476"/>
+    <nd ref="7747858477"/>
+    <nd ref="5497664698"/>
+    <nd ref="5497664699"/>
+    <nd ref="7747858475"/>
+    <nd ref="7747858476"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165896" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858493"/>
+    <nd ref="5497664726"/>
+    <nd ref="5497664727"/>
+    <nd ref="7747858492"/>
+    <nd ref="7747858491"/>
+    <nd ref="7747858494"/>
+    <nd ref="7747858493"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165913" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858605"/>
+    <nd ref="5497664918"/>
+    <nd ref="5497664919"/>
+    <nd ref="7747858606"/>
+    <nd ref="7747858605"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165914" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858607"/>
+    <nd ref="5497664911"/>
+    <nd ref="5497664912"/>
+    <nd ref="7747858608"/>
+    <nd ref="7747858607"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165915" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858611"/>
+    <nd ref="5497664955"/>
+    <nd ref="5497664956"/>
+    <nd ref="5497664957"/>
+    <nd ref="5497664958"/>
+    <nd ref="7747858612"/>
+    <nd ref="7747858611"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165917" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858623"/>
+    <nd ref="5497664771"/>
+    <nd ref="5497664766"/>
+    <nd ref="7747858624"/>
+    <nd ref="7747858623"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165918" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858629"/>
+    <nd ref="5497664767"/>
+    <nd ref="5497664768"/>
+    <nd ref="7747858622"/>
+    <nd ref="7747858621"/>
+    <nd ref="7747858630"/>
+    <nd ref="7747858629"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3AF"/>
+    <tag k="addr:street" v="Stretham Gardens"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165919" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858631"/>
+    <nd ref="5497664752"/>
+    <nd ref="5497664742"/>
+    <nd ref="5497664743"/>
+    <nd ref="5497664744"/>
+    <nd ref="7747858632"/>
+    <nd ref="7747858631"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AG"/>
+    <tag k="addr:street" v="Dairy Lane"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165920" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858634"/>
+    <nd ref="6517203172"/>
+    <nd ref="6517203171"/>
+    <nd ref="7747858633"/>
+    <nd ref="7747858634"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165921" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858633"/>
+    <nd ref="7747858635"/>
+    <nd ref="7747858636"/>
+    <nd ref="7747858634"/>
+    <nd ref="7747858633"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165922" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203168"/>
+    <nd ref="6517203170"/>
+    <nd ref="6517203173"/>
+    <nd ref="7747858637"/>
+    <nd ref="6517203168"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165926" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664636"/>
+    <nd ref="5497664637"/>
+    <nd ref="5497664638"/>
+    <nd ref="5497664639"/>
+    <nd ref="5497664640"/>
+    <nd ref="5497664636"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AE"/>
+    <tag k="addr:street" v="Windmill Place"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165927" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858643"/>
+    <nd ref="6517203177"/>
+    <nd ref="6517203176"/>
+    <nd ref="7747858642"/>
+    <nd ref="7747858643"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165928" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858645"/>
+    <nd ref="7747858643"/>
+    <nd ref="7747858642"/>
+    <nd ref="7747858644"/>
+    <nd ref="7747858645"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165929" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858646"/>
+    <nd ref="6517203183"/>
+    <nd ref="6517203180"/>
+    <nd ref="7747858647"/>
+    <nd ref="7747858646"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165930" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="6517203179"/>
+    <nd ref="6517203178"/>
+    <nd ref="6517203182"/>
+    <nd ref="7747858648"/>
+    <nd ref="6517203179"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165938" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858718"/>
+    <nd ref="5497664201"/>
+    <nd ref="5497664202"/>
+    <nd ref="7747858717"/>
+    <nd ref="7747858718"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165939" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858720"/>
+    <nd ref="7747858727"/>
+    <nd ref="7747858728"/>
+    <nd ref="7747858719"/>
+    <nd ref="7747858720"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165940" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858722"/>
+    <nd ref="7747858720"/>
+    <nd ref="7747858719"/>
+    <nd ref="7747858721"/>
+    <nd ref="7747858722"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165941" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858724"/>
+    <nd ref="5497664206"/>
+    <nd ref="5497664207"/>
+    <nd ref="7747858723"/>
+    <nd ref="7747858724"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165942" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664210"/>
+    <nd ref="7747858718"/>
+    <nd ref="7747858717"/>
+    <nd ref="5497664203"/>
+    <nd ref="5497664210"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165943" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="5497664205"/>
+    <nd ref="7747858724"/>
+    <nd ref="7747858723"/>
+    <nd ref="5497664208"/>
+    <nd ref="5497664205"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:postcode" v="CB23 3AA"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165944" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858734"/>
+    <nd ref="7747858733"/>
+    <nd ref="7747858732"/>
+    <nd ref="7747858730"/>
+    <nd ref="7747858729"/>
+    <nd ref="7747858731"/>
+    <nd ref="7747858734"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165945" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858738"/>
+    <nd ref="7747858737"/>
+    <nd ref="7747858736"/>
+    <nd ref="7747858735"/>
+    <nd ref="7747858738"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AQ"/>
+    <tag k="addr:street" v="Trinity Way"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165962" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858821"/>
+    <nd ref="5497664716"/>
+    <nd ref="5497664717"/>
+    <nd ref="7747858820"/>
+    <nd ref="7747858821"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165963" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858823"/>
+    <nd ref="7747858821"/>
+    <nd ref="7747858820"/>
+    <nd ref="7747858822"/>
+    <nd ref="7747858823"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165964" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858825"/>
+    <nd ref="5497664720"/>
+    <nd ref="5497664721"/>
+    <nd ref="7747858824"/>
+    <nd ref="7747858825"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165965" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858827"/>
+    <nd ref="7747858825"/>
+    <nd ref="7747858824"/>
+    <nd ref="7747858826"/>
+    <nd ref="7747858827"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165971" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858879"/>
+    <nd ref="5497664924"/>
+    <nd ref="5497664925"/>
+    <nd ref="7747858878"/>
+    <nd ref="7747858879"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="830165972" version="1" timestamp="2020-07-26T01:13:36Z" changeset="88509210" uid="5173844" user="ndrw6">
+    <nd ref="7747858881"/>
+    <nd ref="7747858879"/>
+    <nd ref="7747858878"/>
+    <nd ref="7747858880"/>
+    <nd ref="7747858881"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AB"/>
+    <tag k="addr:street" v="Summers Hill Drive"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1002979681" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134480"/>
+    <nd ref="9256134479"/>
+    <nd ref="9256134478"/>
+    <nd ref="9256134477"/>
+    <nd ref="9256134480"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979682" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134482"/>
+    <nd ref="9256134488"/>
+    <nd ref="9256134487"/>
+    <nd ref="9256134481"/>
+    <nd ref="9256134482"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979683" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134483"/>
+    <nd ref="9256134486"/>
+    <nd ref="9256134485"/>
+    <nd ref="9256134484"/>
+    <nd ref="9256134483"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979684" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134484"/>
+    <nd ref="9256134482"/>
+    <nd ref="9256134481"/>
+    <nd ref="9256134483"/>
+    <nd ref="9256134484"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979685" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134490"/>
+    <nd ref="9256134498"/>
+    <nd ref="9256134497"/>
+    <nd ref="9256134489"/>
+    <nd ref="9256134490"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979686" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134492"/>
+    <nd ref="9256134490"/>
+    <nd ref="9256134489"/>
+    <nd ref="9256134491"/>
+    <nd ref="9256134492"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979687" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134494"/>
+    <nd ref="9256134492"/>
+    <nd ref="9256134491"/>
+    <nd ref="9256134493"/>
+    <nd ref="9256134494"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979688" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134495"/>
+    <nd ref="9256134494"/>
+    <nd ref="9256134493"/>
+    <nd ref="9256134496"/>
+    <nd ref="9256134495"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979689" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134503"/>
+    <nd ref="9256134500"/>
+    <nd ref="9256134499"/>
+    <nd ref="9256134502"/>
+    <nd ref="9256134503"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979690" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134504"/>
+    <nd ref="9256134503"/>
+    <nd ref="9256134502"/>
+    <nd ref="9256134501"/>
+    <nd ref="9256134504"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979691" version="3" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134505"/>
+    <nd ref="9256134509"/>
+    <nd ref="9256134508"/>
+    <nd ref="9256134506"/>
+    <nd ref="9256134505"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979692" version="3" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134506"/>
+    <nd ref="9256134507"/>
+    <nd ref="9256134512"/>
+    <nd ref="9256134510"/>
+    <nd ref="9256134505"/>
+    <nd ref="9256134506"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979693" version="3" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134512"/>
+    <nd ref="9256134513"/>
+    <nd ref="9256134514"/>
+    <nd ref="9256134511"/>
+    <nd ref="9256134510"/>
+    <nd ref="9256134512"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979694" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256134516"/>
+    <nd ref="9256146820"/>
+    <nd ref="9256146819"/>
+    <nd ref="9256134515"/>
+    <nd ref="9256134516"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979695" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256146817"/>
+    <nd ref="9256134516"/>
+    <nd ref="9256134515"/>
+    <nd ref="9256146818"/>
+    <nd ref="9256146817"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979704" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256146854"/>
+    <nd ref="9256146860"/>
+    <nd ref="9256146859"/>
+    <nd ref="9256146853"/>
+    <nd ref="9256146854"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979705" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256146856"/>
+    <nd ref="9256146854"/>
+    <nd ref="9256146853"/>
+    <nd ref="9256146855"/>
+    <nd ref="9256146856"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979706" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256146857"/>
+    <nd ref="9256146856"/>
+    <nd ref="9256146855"/>
+    <nd ref="9256146858"/>
+    <nd ref="9256146857"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979707" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256146862"/>
+    <nd ref="9256146868"/>
+    <nd ref="9256146867"/>
+    <nd ref="9256146861"/>
+    <nd ref="9256146862"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979708" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256146864"/>
+    <nd ref="9256146862"/>
+    <nd ref="9256146861"/>
+    <nd ref="9256146863"/>
+    <nd ref="9256146864"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979709" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256146865"/>
+    <nd ref="9256146864"/>
+    <nd ref="9256146863"/>
+    <nd ref="9256146866"/>
+    <nd ref="9256146865"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1002979710" version="2" timestamp="2024-07-13T10:20:00Z" changeset="153887181" uid="6476359" user="NSiecw">
+    <nd ref="9256146872"/>
+    <nd ref="9256146870"/>
+    <nd ref="9256146869"/>
+    <nd ref="9256146871"/>
+    <nd ref="9256146872"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3AY"/>
+    <tag k="addr:street" v="Letterpress Lane"/>
+    <tag k="addr:suburb" v="Papworth Everad"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476538" version="2" timestamp="2024-12-21T11:59:37Z" changeset="160467028" uid="6476359" user="NSiecw">
+    <nd ref="11338055693"/>
+    <nd ref="2437792578"/>
+    <nd ref="2437792587"/>
+    <nd ref="2437792527"/>
+    <nd ref="2437792584"/>
+    <nd ref="11338055692"/>
+    <nd ref="11338055693"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Ermine Street North"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1222476565" version="2" timestamp="2024-02-26T19:44:05Z" changeset="147946539" uid="10633286" user="Moorit">
+    <nd ref="11338055770"/>
+    <nd ref="5879285668"/>
+    <nd ref="5879285669"/>
+    <nd ref="11338055769"/>
+    <nd ref="11338055770"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="CB23 3RP"/>
+    <tag k="addr:street" v="Brookfield Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476578" version="2" timestamp="2024-02-26T19:44:05Z" changeset="147946539" uid="10633286" user="Moorit">
+    <nd ref="11338055796"/>
+    <nd ref="5879285675"/>
+    <nd ref="5879285672"/>
+    <nd ref="11338055795"/>
+    <nd ref="11338055796"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Brookfield Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476598" version="2" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="11338055836"/>
+    <nd ref="5879285573"/>
+    <nd ref="5879285572"/>
+    <nd ref="11338055835"/>
+    <nd ref="11338055836"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476599" version="2" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="11338055838"/>
+    <nd ref="5879285585"/>
+    <nd ref="5879285584"/>
+    <nd ref="11338055837"/>
+    <nd ref="11338055838"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476602" version="2" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="11338055844"/>
+    <nd ref="5879285582"/>
+    <nd ref="5879285579"/>
+    <nd ref="11338055843"/>
+    <nd ref="11338055844"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476603" version="2" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="11338055846"/>
+    <nd ref="5879285578"/>
+    <nd ref="5879285575"/>
+    <nd ref="11338055845"/>
+    <nd ref="11338055846"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476604" version="2" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="11338055848"/>
+    <nd ref="5879285589"/>
+    <nd ref="5879285588"/>
+    <nd ref="11338055847"/>
+    <nd ref="11338055848"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476605" version="2" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="11338055850"/>
+    <nd ref="5879285593"/>
+    <nd ref="5879285592"/>
+    <nd ref="11338055849"/>
+    <nd ref="11338055850"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CB23 3RN"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476607" version="2" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="11338055854"/>
+    <nd ref="5879285540"/>
+    <nd ref="5879285539"/>
+    <nd ref="11338055853"/>
+    <nd ref="11338055854"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476609" version="2" timestamp="2024-01-26T19:28:47Z" changeset="146722516" uid="10633286" user="Moorit">
+    <nd ref="11338055858"/>
+    <nd ref="5879285597"/>
+    <nd ref="5879285596"/>
+    <nd ref="11338055857"/>
+    <nd ref="11338055858"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Pendragon Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476657" version="2" timestamp="2024-04-08T18:49:51Z" changeset="149748498" uid="10633286" user="Moorit">
+    <nd ref="11338056173"/>
+    <nd ref="5879279644"/>
+    <nd ref="5879279643"/>
+    <nd ref="11338056172"/>
+    <nd ref="11338056173"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Morden Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476658" version="2" timestamp="2024-04-08T18:49:51Z" changeset="149748498" uid="10633286" user="Moorit">
+    <nd ref="11338056175"/>
+    <nd ref="11338056173"/>
+    <nd ref="11338056172"/>
+    <nd ref="11338056174"/>
+    <nd ref="11338056175"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Morden Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476659" version="2" timestamp="2024-11-05T08:04:17Z" changeset="158768489" uid="10633286" user="Moorit">
+    <nd ref="11338056177"/>
+    <nd ref="5879279635"/>
+    <nd ref="5879279634"/>
+    <nd ref="11338056176"/>
+    <nd ref="11338056177"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Morden Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222476660" version="2" timestamp="2024-11-05T08:04:17Z" changeset="158768489" uid="10633286" user="Moorit">
+    <nd ref="11338056179"/>
+    <nd ref="5879279640"/>
+    <nd ref="5879279637"/>
+    <nd ref="11338056178"/>
+    <nd ref="11338056179"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="CB23 3UN"/>
+    <tag k="addr:street" v="Morden Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1222543157" version="2" timestamp="2024-11-05T08:04:17Z" changeset="158768489" uid="10633286" user="Moorit">
+    <nd ref="11338983416"/>
+    <nd ref="5879278872"/>
+    <nd ref="5879278871"/>
+    <nd ref="11338983415"/>
+    <nd ref="11338983416"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Stott Street"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1344527984" version="2" timestamp="2024-12-28T22:10:15Z" changeset="160731831" uid="1802093" user="Paul Berry">
+    <nd ref="12438532516"/>
+    <nd ref="12438532515"/>
+    <nd ref="5879278628"/>
+    <nd ref="5879278627"/>
+    <nd ref="5879278626"/>
+    <nd ref="5879278625"/>
+    <nd ref="12438532516"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="CB23 3RH"/>
+    <tag k="addr:street" v="Ermine Street North"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1344527986" version="2" timestamp="2024-12-28T22:13:37Z" changeset="160731904" uid="1802093" user="Paul Berry">
+    <nd ref="12438532520"/>
+    <nd ref="5879278607"/>
+    <nd ref="5879278606"/>
+    <nd ref="12438532519"/>
+    <nd ref="12438532520"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 3RR"/>
+    <tag k="addr:street" v="Haynes Owen Place"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1344527987" version="2" timestamp="2024-12-28T22:13:37Z" changeset="160731904" uid="1802093" user="Paul Berry">
+    <nd ref="5879278611"/>
+    <nd ref="5879278612"/>
+    <nd ref="5879278614"/>
+    <nd ref="5879278615"/>
+    <nd ref="5879278609"/>
+    <nd ref="5879278611"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 3RR"/>
+    <tag k="addr:street" v="Haynes Owen Place"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1344527988" version="2" timestamp="2024-12-28T22:13:37Z" changeset="160731904" uid="1802093" user="Paul Berry">
+    <nd ref="5879278610"/>
+    <nd ref="5879278609"/>
+    <nd ref="5879278611"/>
+    <nd ref="5879278613"/>
+    <nd ref="5879278616"/>
+    <nd ref="5879278610"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CB23 3RR"/>
+    <tag k="addr:street" v="Haynes Owen Place"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1346963505" version="1" timestamp="2024-12-28T22:13:37Z" changeset="160731904" uid="1802093" user="Paul Berry">
+    <nd ref="12459652662"/>
+    <nd ref="5879278617"/>
+    <nd ref="5879278618"/>
+    <nd ref="12459652661"/>
+    <nd ref="12459652662"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="5-6"/>
+    <tag k="addr:postcode" v="CB23 3RR"/>
+    <tag k="addr:street" v="Haynes Owen Place"/>
+    <tag k="addr:village" v="Papworth Everard"/>
+    <tag k="building" v="house"/>
   </way>
 
 </osm>

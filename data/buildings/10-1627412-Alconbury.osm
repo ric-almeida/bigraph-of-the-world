@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-21T14:22:24Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-23T15:24:54Z" areas="2024-12-31T00:49:33Z"/>
 
   <way id="431837023" version="4" timestamp="2024-05-26T10:54:14Z" changeset="151845600" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4310590234"/>
@@ -29,6 +29,22 @@
     <tag k="addr:suburb" v="Alconbury"/>
     <tag k="landuse" v="commercial"/>
     <tag k="name" v="Labcorp"/>
+  </way>
+  <way id="973146878" version="2" timestamp="2024-05-26T10:34:25Z" changeset="151844871" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="9007080115"/>
+    <nd ref="9007080119"/>
+    <nd ref="9007080116"/>
+    <nd ref="9007080114"/>
+    <nd ref="9007080115"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE28 4EH"/>
+    <tag k="addr:street" v="Manor Lane"/>
+    <tag k="addr:suburb" v="Alconbury"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="NaPTAN"/>
+    <tag k="source:postcode" v="Land Registry Prices Paid Open Data"/>
   </way>
 
 </osm>
