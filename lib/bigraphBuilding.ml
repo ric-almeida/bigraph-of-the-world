@@ -4,67 +4,48 @@ open Core
 module StringMap = Map.Make(String)
 
 (** example bigraph*)
-let a0 =
-  Big.nest
-    (Big.ion (Link.parse_face ["a"]) (Ctrl.C ("A", [S "hello"], 1)))
-    (Big.nest
- (Big.ion (Link.Face.empty) (Ctrl.C ("Snd", [], 0)))
- (Big.par
-    (Big.nest
-       (Big.ion (Link.parse_face ["a"; "v_a"]) (Ctrl.C ("M", [], 2)))
-       Big.one)
-    (Big.nest
-       (Big.ion (Link.Face.empty) (Ctrl.C ("Ready", [], 0)))
-       (Big.nest
-    (Big.ion (Link.Face.empty) (Ctrl.C ("Fun", [], 0)))
-    Big.one))))
-
 let test = 
    Big.nest 
-      (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [S "8-295349-Fenland"], 0))) 
-      (Big.par (Big.split 1) (Big.nest 
-         (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [S "10-1609095-Whittlesey"], 0))) 
-         (Big.par (Big.split 1) (Big.nest 
+      (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0))) 
+      (Big.par_of_list [Big.atom Link.Face.empty (Ctrl.C ("ID", [S "8-295349-Fenland"], 0));(Big.split 1) ;(Big.nest 
+         (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0))) 
+         (Big.par_of_list [Big.atom Link.Face.empty (Ctrl.C ("ID", [S "10-1609095-Whittlesey"],0)); Big.split 1 ;(Big.nest 
             (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [S "Church Street"], 0))) 
-            (Big.par (Big.split 1) (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [S "685011752-Whittlesey Salvation Army"], 0))))))));;
+            (Big.par 
+               (Big.split 1) 
+               (Big.nest
+                  (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [], 0)))
+                  (Big.atom Link.Face.empty (Ctrl.C ("ID", [S "685011752-Whittlesey Salvation Army"], 0)))
+               )
+            ))]
+         ))]
+      );;
 
-let test2 = 
-   Big.nest 
-      (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [S ""], 0))) 
-      (Big.par (Big.split 1) (Big.nest 
-         (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [S ""], 0))) 
-         (Big.par (Big.split 1) (Big.nest 
-            (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [S ""], 0))) 
-            (Big.par (Big.split 1) (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [S "685011752-Whittlesey Salvation Army"], 0))))))));;
-            
 exception TagNotFound of string * string
+module StringSet = Set.Make(String)
 
 (** given boundary_level^boundary_id^boundary_name, return a map of k:street v:building list found in boundary*)
 let street_to_buildings boundary = 
    let (Osm_xml.Types.OSM osm_record) = Osm_xml.Parser.parse_file ("data/buildings/"^boundary^".osm") in
-   let relations = Map.to_alist osm_record.relations in
-   let relation_id_tags = List.map relations ~f:(fun (Osm_xml.Types.OSMId id, Osm_xml.Types.OSMRelation relation_record) -> (id, relation_record.tags)) in 
-   let ways = Map.to_alist osm_record.ways in
-   let ways_id_tags = List.map ways ~f:(fun (Osm_xml.Types.OSMId id, Osm_xml.Types.OSMWay way_record) -> (id,way_record.tags)) in 
-   let nodes = Map.to_alist osm_record.nodes in
-   let nodes_id_tags = List.map nodes ~f:(fun (Osm_xml.Types.OSMId id, Osm_xml.Types.OSMNode node_record) -> (id, node_record.tags)) in 
-   let l = List.concat [relation_id_tags ;ways_id_tags; nodes_id_tags] in
-   List.fold l ~init: StringMap.empty ~f: (fun acc (building_id, building_record) -> 
+   let relation_id_tags = Map.fold osm_record.relations ~init:[] ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:(Osm_xml.Types.OSMRelation relation_record) l -> (id, relation_record.tags)::l) in 
+   let relation_ways_id_tags = Map.fold osm_record.ways ~init:relation_id_tags ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:(Osm_xml.Types.OSMWay way_record) l -> (id,way_record.tags)::l) in 
+   let relation_ways_nodes_id_tags = Map.fold osm_record.nodes ~init:relation_ways_id_tags ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:(Osm_xml.Types.OSMNode node_record) l -> (id, node_record.tags)::l) in 
+   List.fold relation_ways_nodes_id_tags ~init:StringMap.empty ~f:(fun streets_map (building_id, building_record) -> 
       match Osm_xml.Types.find_tag building_record "addr:street" with
       | None -> raise (TagNotFound ("addr:street",building_id))
       | Some street ->
          begin match Osm_xml.Types.find_tag building_record "name" with
          | Some building_name -> 
-            begin StringMap.update acc street ~f:(function
-            | None -> [building_id^"-"^building_name]
-            | Some values -> ((building_id^"-"^building_name) :: values))
+            begin StringMap.update streets_map street ~f:(function
+            | None -> StringMap.singleton building_name building_id
+            | Some buildings_map -> StringMap.set buildings_map ~key:building_name ~data:building_id)
             end
          | None ->
             begin match Osm_xml.Types.find_tag building_record "addr:housenumber" with
             | Some housenumber -> 
-               begin StringMap.update acc street ~f:(function
-               | None -> [building_id^"-"^street^" "^housenumber]
-               | Some values -> ((building_id^"-"^street^" "^housenumber) :: values))
+               begin StringMap.update streets_map street ~f:(function
+               | None -> StringMap.singleton (housenumber^" "^street) building_id
+               | Some buildings_map -> StringMap.set buildings_map ~key:(housenumber^" "^street) ~data:building_id)
                end
             | None -> raise (TagNotFound ("name and addr:housenumber",building_id))
             end
@@ -73,46 +54,77 @@ let street_to_buildings boundary =
 
 (** given a parent to child string-to-string map and a string root, builds the bigraph with that root*)
 let rec build_place_graph parent_to_children root = 
-   let ion = (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [S root], 0))) in
+   let ion = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0)) in
+   let id = Big.atom Link.Face.empty (Ctrl.C ("ID", [S root], 0)) in
+   let site = Big.split 1 in
    match Map.find parent_to_children root with
-   | Some l -> 
+   | Some children -> 
       Big.nest 
          ion 
-         (Big.par_of_list ((Big.split 1)::(List.map l ~f:(fun s -> build_place_graph parent_to_children s))))
+         (Big.par_of_list (id::site::(List.map children ~f:(fun child -> build_place_graph parent_to_children child))))
    | None -> 
       Big.nest 
          ion 
-         (Big.par_of_list ((Big.split 1)::(List.map (Map.to_alist (street_to_buildings root)) ~f:(fun (street, buildings) -> 
-            Big.nest 
-               (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [S street], 0))) 
-               (Big.par_of_list ((Big.split 1)::(List.map buildings ~f:(fun building -> 
-                  Big.ion (Link.parse_face []) (Ctrl.C ("Building", [S building], 0))))))))))
+         (Big.par_of_list (id::site::(Map.fold (street_to_buildings root) ~init:[] ~f:(fun ~key:street ~data:buildings street_list-> 
+            let street_id = Big.atom Link.Face.empty (Ctrl.C ("ID", [S street], 0)) in
+            (Big.nest 
+               (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0))) 
+               (Big.par_of_list (street_id::site::(Map.fold buildings ~init:[] ~f:(fun ~key:building_name ~data:building_id building_list ->
+                  let building_id = Big.atom Link.Face.empty (Ctrl.C ("ID", [S (building_id^"-"^building_name)], 0)) in
+                  (Big.nest
+                     (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [], 0)))
+                     (Big.par building_id site))::building_list )))))::street_list))))
 
 let add_agent_to_bigraph (agent:Big.t) (bigraph:Big.t) (position:int) = 
-   let rec add_copies_to_list n copy l = 
-      if n > 0 then add_copies_to_list (n-1) copy (copy::l) else l in
    let ord = Big.ord_of_inter (Big.inner bigraph) in
    if position >= ord then
       raise (Invalid_argument ("position "^(string_of_int position)^" not within 0-"^(string_of_int (ord-1))))
    else 
-      let id = Big.split 1 in
-      let agent_and_after = (Big.par id agent)::(add_copies_to_list (ord-position-1) id []) in
-      Big.comp bigraph (Big.ppar_of_list (add_copies_to_list position id agent_and_after))
+      Big.comp bigraph (Big.ppar_of_list [Big.id (Big.Inter (position, Link.Face.empty)); Big.par (Big.split 1) agent; Big.id (Big.Inter (ord-position-1, Link.Face.empty))])
 
-module BRS =  Brs.Make (Solver.Make_SAT (Solver.MS))
 
-let street_to_boundary =
-   let boundary = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [S ""], 0)) in
-   let street = Big.ion (Link.parse_face []) (Ctrl.C ("Street", [S ""], 0)) in
-   let agent = Big.atom (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
+module MSSolver = Solver.Make_SAT(Solver.MS)
+module BRS =  Brs.Make(MSSolver)
+
+
+let add_agent_to_bigraph_rewrite (agent:Big.t) (bigraph:Big.t) (parent_id:Big.t) = 
+   let occ_list = MSSolver.occurrences ~target:bigraph ~pattern:parent_id in 
+   match occ_list with
+   | [o] -> Big.rewrite (o.nodes, o.edges, o.hyper_edges) ~s:bigraph ~r0:parent_id ~r1:(Big.par parent_id agent)
+   | _ -> raise (Not_found_s (Sexplib0.Sexp.message "not found" []))
+
+let react_street_to_boundary =
+   let boundary = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0)) in
+   let street = Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0)) in
+   let agent = Big.ion (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
+   let site = Big.split 1 in
    let lhs = 
       Big.nest 
          boundary
-         (Big.par (Big.split 1) (Big.nest 
+         (Big.par site (Big.nest 
             street
-            (Big.par (Big.split 1) agent))) in
+            (Big.par site agent))) in
    let rhs = 
       Big.nest
          boundary
-         (Big.par_of_list [Big.split 1; agent; Big.nest street (Big.split 1) ] ) in
-   BRS.parse_react_unsafe ~name:"Move up boundaries"  ~lhs:lhs ~rhs:rhs () None
+         (Big.par_of_list [site; agent; Big.nest street site ] ) in
+   BRS.parse_react_unsafe ~name:"Move from street to boundary"  ~lhs:lhs ~rhs:rhs () None
+
+let react_building_to_street =
+   let street = Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0)) in
+   let building = Big.ion (Link.parse_face []) (Ctrl.C ("Building", [], 0)) in
+   let agent = Big.ion (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
+   let site = Big.split 1 in
+   let lhs = 
+      Big.nest 
+         street
+         (Big.par site (Big.nest 
+            building
+            (Big.par site agent))) in
+   let rhs = 
+      Big.nest
+         street
+         (Big.par_of_list [site; agent; Big.nest building site] ) in
+   BRS.parse_react_unsafe ~name:"Move from building to street"  ~lhs:lhs ~rhs:rhs () None
+
+let b = BRS.step
