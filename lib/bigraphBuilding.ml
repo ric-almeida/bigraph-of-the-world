@@ -10,13 +10,13 @@ let test =
       (Big.par_of_list [Big.atom Link.Face.empty (Ctrl.C ("ID", [S "8-295349-Fenland"], 0));(Big.split 1) ;(Big.nest 
          (Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0))) 
          (Big.par_of_list [Big.atom Link.Face.empty (Ctrl.C ("ID", [S "10-1609095-Whittlesey"],0)); Big.split 1 ;(Big.nest 
-            (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [S "Church Street"], 0))) 
-            (Big.par 
-               (Big.split 1) 
-               (Big.nest
-                  (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [], 0)))
+            (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0))) 
+            (Big.par_of_list [Big.atom Link.Face.empty (Ctrl.C ("ID", [S "Church Street"],0));Big.split 1; Big.nest
+               (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [], 0)))
+               (Big.par 
+                  (Big.split 1) 
                   (Big.atom Link.Face.empty (Ctrl.C ("ID", [S "685011752-Whittlesey Salvation Army"], 0)))
-               )
+               )]
             ))]
          ))]
       );;
@@ -52,6 +52,16 @@ let street_to_buildings boundary =
          end
       )
 
+let rec divide_and_par x = 
+   let rec split x l r = match x with
+   | [] -> (l,r)
+   | x::xs -> split xs r (x::l) in 
+   match x with
+   | [] -> Big.id_eps
+   | x::[] -> x
+   | _ -> let (l,r) = split x [] [] 
+      in (Big.par (divide_and_par l) (divide_and_par r))
+
 (** given a parent to child string-to-string map and a string root, builds the bigraph with that root*)
 let rec build_place_graph parent_to_children root = 
    let ion = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0)) in
@@ -61,19 +71,19 @@ let rec build_place_graph parent_to_children root =
    | Some children -> 
       Big.nest 
          ion 
-         (Big.par_of_list (id::site::(List.map children ~f:(fun child -> build_place_graph parent_to_children child))))
+         (divide_and_par (id::site::(List.map children ~f:(fun child -> build_place_graph parent_to_children child))))
    | None -> 
       Big.nest 
          ion 
-         (Big.par_of_list (id::site::(Map.fold (street_to_buildings root) ~init:[] ~f:(fun ~key:street ~data:buildings street_list-> 
+         (divide_and_par (Map.fold (street_to_buildings root) ~init:[id;site] ~f:(fun ~key:street ~data:buildings street_list-> 
             let street_id = Big.atom Link.Face.empty (Ctrl.C ("ID", [S street], 0)) in
             (Big.nest 
                (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0))) 
-               (Big.par_of_list (street_id::site::(Map.fold buildings ~init:[] ~f:(fun ~key:building_name ~data:building_id building_list ->
+               (divide_and_par (Map.fold buildings ~init:[street_id;site] ~f:(fun ~key:building_name ~data:building_id building_list ->
                   let building_id = Big.atom Link.Face.empty (Ctrl.C ("ID", [S (building_id^"-"^building_name)], 0)) in
                   (Big.nest
                      (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [], 0)))
-                     (Big.par building_id site))::building_list )))))::street_list))))
+                     (Big.par building_id site))::building_list ))))::street_list)))
 
 let add_agent_to_bigraph (agent:Big.t) (bigraph:Big.t) (position:int) = 
    let ord = Big.ord_of_inter (Big.inner bigraph) in
@@ -86,14 +96,45 @@ let add_agent_to_bigraph (agent:Big.t) (bigraph:Big.t) (position:int) =
 module MSSolver = Solver.Make_SAT(Solver.MS)
 module BRS =  Brs.Make(MSSolver)
 
-
 let add_agent_to_bigraph_rewrite (agent:Big.t) (bigraph:Big.t) (parent_id:Big.t) = 
    let occ_list = MSSolver.occurrences ~target:bigraph ~pattern:parent_id in 
    match occ_list with
    | [o] -> Big.rewrite (o.nodes, o.edges, o.hyper_edges) ~s:bigraph ~r0:parent_id ~r1:(Big.par parent_id agent)
    | _ -> raise (Not_found_s (Sexplib0.Sexp.message "not found" []))
 
-let react_street_to_boundary =
+let react_up_boundary_to_boundary = 
+   let boundary = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0)) in
+   let agent = Big.ion (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
+   let site = Big.split 1 in
+   let lhs = 
+      Big.nest 
+         boundary
+         (Big.par site (Big.nest 
+            boundary
+            (Big.par site agent))) in
+   let rhs = 
+      Big.nest
+         boundary
+         (Big.par_of_list [site; Big.nest boundary site; agent ] ) in
+   BRS.parse_react_unsafe ~name:"Move up boundary to boundary"  ~lhs:lhs ~rhs:rhs () None
+
+let react_down_boundary_to_boundary = 
+   let boundary = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0)) in
+   let agent = Big.ion (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
+   let site = Big.split 1 in
+   let lhs = 
+      Big.nest
+         boundary
+         (Big.par_of_list [site; Big.nest boundary site; agent ] ) in
+   let rhs = 
+      Big.nest 
+         boundary
+         (Big.par site (Big.nest 
+            boundary
+            (Big.par site agent))) in
+   BRS.parse_react_unsafe ~name:"Move down boundary to boundary"  ~lhs:lhs ~rhs:rhs () None
+
+let react_up_street_to_boundary =
    let boundary = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0)) in
    let street = Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0)) in
    let agent = Big.ion (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
@@ -107,10 +148,27 @@ let react_street_to_boundary =
    let rhs = 
       Big.nest
          boundary
-         (Big.par_of_list [site; agent; Big.nest street site ] ) in
-   BRS.parse_react_unsafe ~name:"Move from street to boundary"  ~lhs:lhs ~rhs:rhs () None
+         (Big.par_of_list [site; Big.nest street site; agent] ) in
+   BRS.parse_react_unsafe ~name:"Move up street to boundary"  ~lhs:lhs ~rhs:rhs () None
 
-let react_building_to_street =
+let react_down_boundary_to_street =
+   let boundary = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0)) in
+   let street = Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0)) in
+   let agent = Big.ion (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
+   let site = Big.split 1 in
+   let lhs = 
+      Big.nest
+         boundary
+         (Big.par_of_list [site; Big.nest street site; agent ] ) in
+   let rhs = 
+      Big.nest 
+         boundary
+         (Big.par site (Big.nest 
+            street
+            (Big.par site agent))) in
+   BRS.parse_react_unsafe ~name:"Move down boundary to street"  ~lhs:lhs ~rhs:rhs () None
+
+let react_up_building_to_street =
    let street = Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0)) in
    let building = Big.ion (Link.parse_face []) (Ctrl.C ("Building", [], 0)) in
    let agent = Big.ion (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
@@ -124,7 +182,24 @@ let react_building_to_street =
    let rhs = 
       Big.nest
          street
-         (Big.par_of_list [site; agent; Big.nest building site] ) in
-   BRS.parse_react_unsafe ~name:"Move from building to street"  ~lhs:lhs ~rhs:rhs () None
+         (Big.par_of_list [site; Big.nest building site; agent] ) in
+   BRS.parse_react_unsafe ~name:"Move up building to street"  ~lhs:lhs ~rhs:rhs () None
 
-let b = BRS.step
+let react_down_street_to_building =
+   let street = Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0)) in
+   let building = Big.ion (Link.parse_face []) (Ctrl.C ("Building", [], 0)) in
+   let agent = Big.ion (Link.parse_face []) (Ctrl.C ("Agent", [], 0)) in
+   let site = Big.split 1 in
+   let lhs = 
+      Big.nest
+         street
+         (Big.par_of_list [site; Big.nest building site; agent] ) in
+   let rhs = 
+      Big.nest 
+         street
+         (Big.par site (Big.nest 
+            building
+            (Big.par site agent))) in
+   BRS.parse_react_unsafe ~name:"Move down street to building"  ~lhs:lhs ~rhs:rhs () None
+
+let react_rules = [react_up_building_to_street; react_up_street_to_boundary; react_up_boundary_to_boundary; react_down_boundary_to_boundary; react_down_boundary_to_street; react_down_street_to_building]
