@@ -15,7 +15,7 @@ depends: [
   "odoc" {with-doc}
   "ppx_let"
   "cohttp-lwt-unix"
-  "core"
+  "core" { = "v0.14.1"}
   "progress"
   "bigrapher" {= "dev"}
   "osm_xml" {= "dev"}
@@ -34,13 +34,13 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/royangkr/bigraph_of_the_world.git"
+dev-repo: "git+https://github.com/RyanGibb/bigraph_of_the_world.git"
 pin-depends: [
-  ["bigrapher.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
-  ["bigraph.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
-  ["big_json.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
-  ["big_utils.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
-  ["minicard.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
-  ["minisat.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
+  ["bigrapher.dev" "git+https://github.com/RyanGibb/bigraph-tools#f2b80bf26a3f8515ec804274c9abfbf8b99b9541"]
+  ["bigraph.dev" "git+https://github.com/RyanGibb/bigraph-tools#f2b80bf26a3f8515ec804274c9abfbf8b99b9541"]
+  ["big_json.dev" "git+https://github.com/RyanGibb/bigraph-tools#f2b80bf26a3f8515ec804274c9abfbf8b99b9541"]
+  ["big_utils.dev" "git+https://github.com/RyanGibb/bigraph-tools#f2b80bf26a3f8515ec804274c9abfbf8b99b9541"]
+  ["minicard.dev" "git+https://github.com/RyanGibb/bigraph-tools#f2b80bf26a3f8515ec804274c9abfbf8b99b9541"]
+  ["minisat.dev" "git+https://github.com/RyanGibb/bigraph-tools#f2b80bf26a3f8515ec804274c9abfbf8b99b9541"]
   ["osm_xml.dev" "git+https://github.com/geocaml/osm_xml#a4032fc527312244d23bdbf9535618b566320780"]
 ]
