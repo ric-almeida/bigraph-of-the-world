@@ -13,6 +13,12 @@ depends: [
   "ocaml"
   "dune" {>= "3.17"}
   "odoc" {with-doc}
+  "ppx_let"
+  "cohttp-lwt-unix"
+  "core"
+  "progress"
+  "bigrapher" {= "dev"}
+  "osm_xml" {= "dev"}
 ]
 build: [
   ["dune" "subst"] {dev}
@@ -29,3 +35,12 @@ build: [
   ]
 ]
 dev-repo: "git+https://github.com/royangkr/bigraph_of_the_world.git"
+pin-depends: [
+  ["bigrapher.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
+  ["bigraph.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
+  ["big_json.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
+  ["big_utils.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
+  ["minicard.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
+  ["minisat.dev" "git+https://github.com/royangkr/bigraph-tools#52b0ed3e9ec6e851d9a6f37353e6faef8c70f116"]
+  ["osm_xml.dev" "git+https://github.com/geocaml/osm_xml#a4032fc527312244d23bdbf9535618b566320780"]
+]
