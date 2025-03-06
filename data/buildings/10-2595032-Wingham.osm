@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-03-05T18:16:59Z" areas="2024-12-31T00:49:33Z"/>
+
+  <node id="6169238248" lat="51.2706868" lon="1.2073782" version="4" timestamp="2024-07-04T12:59:47Z" changeset="153546468" uid="11471297" user="Palgrave Peter">
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:housename" v="The Old Railway Station"/>
+    <tag k="addr:postcode" v="CT3 1NH"/>
+    <tag k="addr:street" v="Canterbury Road"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="1083368"/>
+    <tag k="fixme" v="Approximate position"/>
+    <tag k="name" v="The Railway Station Cafe"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-14:00"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="6169424606" lat="51.2686079" lon="1.1993551" version="7" timestamp="2024-07-08T19:07:02Z" changeset="153717356" uid="5008136" user="JayTurnr">
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:postcode" v="CT3 1NL"/>
+    <tag k="addr:street" v="Canterbury Road"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Shell"/>
+    <tag k="brand:wikidata" v="Q110716465"/>
+    <tag k="compressed_air" v="yes"/>
+    <tag k="fhrs:id" v="926434"/>
+    <tag k="name" v="Shell"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="source:name" v="FHRS Open Data"/>
+    <tag k="website" v="https://find.shell.com/gb/fuel/12821133-casino-filling-station"/>
+  </node>
+  <node id="7330162565" lat="51.2700956" lon="1.2132387" version="4" timestamp="2024-08-28T13:04:31Z" changeset="155879632" uid="21425661" user="CjMalone">
+    <tag k="addr:city" v="Wingham"/>
+    <tag k="addr:housename" v="Village Hall"/>
+    <tag k="addr:postcode" v="CT3 1BD"/>
+    <tag k="addr:street" v="School Lane"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="check_date" v="2023-09-27"/>
+    <tag k="name" v="Wingham Post Office"/>
+    <tag k="opening_hours" v="Tu,Th 09:00-11:00"/>
+    <tag k="ref:pol_id" v="168105"/>
+    <tag k="source" v="Post Office Consultation https://www.postofficeviews.co.uk/national-consultation-team/wingham-ct3-1aa-118909/supporting_documents/Wingham%20%20CT3%201AA%20%20Information%20Letter.pdf-1"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/0424714/wingham"/>
+  </node>
+  <way id="186909817" version="6" timestamp="2024-07-04T12:59:47Z" changeset="153546468" uid="11471297" user="Palgrave Peter">
+    <nd ref="250384412"/>
+    <nd ref="1976600877"/>
+    <nd ref="1976600851"/>
+    <nd ref="1976600814"/>
+    <nd ref="1976600853"/>
+    <nd ref="1976600838"/>
+    <nd ref="1976600861"/>
+    <nd ref="1976600819"/>
+    <nd ref="1976600867"/>
+    <nd ref="250384412"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:postcode" v="CT3 1BD"/>
+    <tag k="addr:street" v="School Lane"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="210"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Wingham Primary School"/>
+    <tag k="phone" v="+44 1227 720277"/>
+    <tag k="ref:GB:uprn" v="100062298256"/>
+    <tag k="ref:edubase" v="118403"/>
+    <tag k="ref:edubase:group" v="1627"/>
+    <tag k="school:federation:name" v="The Federation of Preston and Wingham"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="wikidata" v="Q66226252"/>
+  </way>
+  <way id="186911097" version="3" timestamp="2018-04-29T14:44:31Z" changeset="58529435" uid="7037" user="Gregory Williams">
+    <nd ref="1976625497"/>
+    <nd ref="1976625469"/>
+    <nd ref="1976625487"/>
+    <nd ref="1976625454"/>
+    <nd ref="1976625497"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:postcode" v="CT3 1AA"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="building" v="yes"/>
+    <tag k="fhrs:id" v="619448"/>
+    <tag k="name" v="Wingham Central Stores"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </way>
+  <way id="186911099" version="4" timestamp="2021-01-29T00:33:15Z" changeset="98325438" uid="5008136" user="JayTurnr">
+    <nd ref="1976625494"/>
+    <nd ref="1976625488"/>
+    <nd ref="1976625520"/>
+    <nd ref="1976625522"/>
+    <nd ref="1976625492"/>
+    <nd ref="1976625515"/>
+    <nd ref="1976625494"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:postcode" v="CT3 1AA"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="building" v="yes"/>
+    <tag k="disused:amenity" v="post_office"/>
+    <tag k="fixme" v="Survey required to confirm new usage"/>
+    <tag k="note" v="Former Post Office, closed November 2019."/>
+    <tag k="ref:pol_id" v="1899"/>
+  </way>
+  <way id="186911100" version="5" timestamp="2024-07-23T16:57:29Z" changeset="154316338" uid="5008136" user="JayTurnr">
+    <nd ref="1976625513"/>
+    <nd ref="1976625495"/>
+    <nd ref="1976625453"/>
+    <nd ref="1976625485"/>
+    <nd ref="1976625471"/>
+    <nd ref="1976625456"/>
+    <nd ref="1976625478"/>
+    <nd ref="1976625518"/>
+    <nd ref="1976625491"/>
+    <nd ref="1976625480"/>
+    <nd ref="1976625473"/>
+    <nd ref="1976625513"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:postcode" v="CT3 1AB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="building" v="yes"/>
+    <tag k="disused:amenity" v="bank"/>
+    <tag k="name" v="Lloyds Bank"/>
+  </way>
+  <way id="186911438" version="3" timestamp="2021-01-29T00:33:15Z" changeset="98325438" uid="5008136" user="JayTurnr">
+    <nd ref="1976631598"/>
+    <nd ref="1976631592"/>
+    <nd ref="1976631602"/>
+    <nd ref="1976631601"/>
+    <nd ref="1976631600"/>
+    <nd ref="1976631597"/>
+    <nd ref="1976631594"/>
+    <nd ref="1976631596"/>
+    <nd ref="1976631595"/>
+    <nd ref="1976631599"/>
+    <nd ref="1976631593"/>
+    <nd ref="1976631598"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="CT3 1AA"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="Dental Practice"/>
+  </way>
+  <way id="186911513" version="2" timestamp="2018-04-29T14:44:31Z" changeset="58529435" uid="7037" user="Gregory Williams">
+    <nd ref="1976634282"/>
+    <nd ref="1976634280"/>
+    <nd ref="1976634276"/>
+    <nd ref="1976634273"/>
+    <nd ref="1976634282"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CT3 1BN"/>
+    <tag k="addr:street" v="North Court Road"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Surgery"/>
+  </way>
+  <way id="186911992" version="4" timestamp="2018-05-26T06:43:45Z" changeset="59287920" uid="364" user="Edward">
+    <nd ref="1976643403"/>
+    <nd ref="1976643405"/>
+    <nd ref="1976643433"/>
+    <nd ref="1976643427"/>
+    <nd ref="1976643430"/>
+    <nd ref="1976643436"/>
+    <nd ref="1976643439"/>
+    <nd ref="1976643421"/>
+    <nd ref="1976643424"/>
+    <nd ref="1976643443"/>
+    <nd ref="1976643403"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:postcode" v="CT3 1BB"/>
+    <tag k="addr:street" v="Canterbury Road"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="name" v="The Red Lion Inn"/>
+    <tag k="website" v="http://www.redlionwingham.co.uk/"/>
+    <tag k="wikidata" v="Q17557898"/>
+  </way>
+  <way id="186912494" version="5" timestamp="2020-06-09T08:32:47Z" changeset="86394631" uid="364" user="Edward">
+    <nd ref="1976654248"/>
+    <nd ref="1976654229"/>
+    <nd ref="1976654243"/>
+    <nd ref="1976654283"/>
+    <nd ref="1976654245"/>
+    <nd ref="1976654264"/>
+    <nd ref="1976654286"/>
+    <nd ref="1976654287"/>
+    <nd ref="1976654258"/>
+    <nd ref="1976654266"/>
+    <nd ref="1976654280"/>
+    <nd ref="1976654247"/>
+    <nd ref="1976654268"/>
+    <nd ref="1976654231"/>
+    <nd ref="1976654241"/>
+    <nd ref="1976654253"/>
+    <nd ref="1976654249"/>
+    <nd ref="1976654285"/>
+    <nd ref="1976654248"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:postcode" v="CT3 1BJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="contact:website" v="http://www.staple-online.co.uk/anchor/"/>
+    <tag k="fhrs:id" v="466217"/>
+    <tag k="name" v="The Anchor"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="wikidata" v="Q26323721"/>
+  </way>
+  <way id="186912495" version="7" timestamp="2018-12-28T20:35:12Z" changeset="65852162" uid="608760" user="gregrs">
+    <nd ref="1976654246"/>
+    <nd ref="1976654284"/>
+    <nd ref="1976654242"/>
+    <nd ref="1976654256"/>
+    <nd ref="1976654254"/>
+    <nd ref="1976654278"/>
+    <nd ref="1976654262"/>
+    <nd ref="1976654251"/>
+    <nd ref="1976654244"/>
+    <nd ref="1976654282"/>
+    <nd ref="1976654260"/>
+    <nd ref="1976654233"/>
+    <nd ref="1976654246"/>
+    <tag k="addr:postcode" v="CT3 1BB"/>
+    <tag k="addr:street" v="Canterbury Road"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="fhrs:id" v="915502"/>
+    <tag k="name" v="The Dog Inn"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="http://www.thedoginn.co.uk/"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair:description" v="Lovely place if you’re on sticks but with no wheelchair toilet and lots of steps all around the place!"/>
+    <tag k="wikidata" v="Q17557663"/>
+  </way>
+  <way id="186913202" version="3" timestamp="2022-01-19T10:08:02Z" changeset="116334376" uid="7037" user="Gregory Williams">
+    <nd ref="1976657781"/>
+    <nd ref="1976657779"/>
+    <nd ref="1976657778"/>
+    <nd ref="1976657780"/>
+    <nd ref="1976657781"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:postcode" v="CT3 1DE"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Wingham"/>
+    <tag k="building" v="yes"/>
+    <tag k="fhrs:id" v="459932"/>
+    <tag k="name" v="ET Wilmshurst &amp; Sons"/>
+    <tag k="shop" v="bakery"/>
+  </way>
+  <way id="313920643" version="11" timestamp="2024-06-21T14:08:08Z" changeset="152995045" uid="11471297" user="Palgrave Peter">
+    <nd ref="3199638871"/>
+    <nd ref="3199638870"/>
+    <nd ref="3199638869"/>
+    <nd ref="11081342283"/>
+    <nd ref="3199638878"/>
+    <nd ref="3199638879"/>
+    <nd ref="11081342282"/>
+    <nd ref="11081342281"/>
+    <nd ref="11081342280"/>
+    <nd ref="6831750674"/>
+    <nd ref="3199640164"/>
+    <nd ref="11207765832"/>
+    <nd ref="11207765835"/>
+    <nd ref="11207765834"/>
+    <nd ref="11207765828"/>
+    <nd ref="11207765841"/>
+    <nd ref="11207765844"/>
+    <nd ref="6831750675"/>
+    <nd ref="3199640219"/>
+    <nd ref="11207765845"/>
+    <nd ref="11207765851"/>
+    <nd ref="3199640238"/>
+    <nd ref="11207765798"/>
+    <nd ref="11207765793"/>
+    <nd ref="11207765792"/>
+    <nd ref="11207765790"/>
+    <nd ref="3199640237"/>
+    <nd ref="11207765779"/>
+    <nd ref="11207765783"/>
+    <nd ref="11207765781"/>
+    <nd ref="11207758763"/>
+    <nd ref="11081342290"/>
+    <nd ref="11081342289"/>
+    <nd ref="11207758753"/>
+    <nd ref="11081342288"/>
+    <nd ref="11207758752"/>
+    <nd ref="11138967424"/>
+    <nd ref="11138967419"/>
+    <nd ref="11138967418"/>
+    <nd ref="11999040295"/>
+    <nd ref="11081342287"/>
+    <nd ref="3199638898"/>
+    <nd ref="11081342286"/>
+    <nd ref="11081342285"/>
+    <nd ref="11081342284"/>
+    <nd ref="3199638875"/>
+    <nd ref="11138967453"/>
+    <nd ref="3199638871"/>
+    <tag k="addr:hamlet" v="Shatterling"/>
+    <tag k="addr:postcode" v="CT3 1JL"/>
+    <tag k="addr:street" v="Rusham Road"/>
+    <tag k="fhrs:id" v="254664"/>
+    <tag k="name" v="Wingham Wildlife Park"/>
+    <tag k="phone" v="+44 1227 720836"/>
+    <tag k="tourism" v="zoo"/>
+    <tag k="website" v="https://winghamwildlifepark.co.uk/"/>
+    <tag k="wikidata" v="Q8025221"/>
+  </way>
+  <way id="316307864" version="2" timestamp="2021-08-24T18:38:10Z" changeset="110188921" uid="242345" user="confusedbuffalo">
+    <nd ref="3224168675"/>
+    <nd ref="3224168676"/>
+    <nd ref="3224168677"/>
+    <nd ref="3224168678"/>
+    <nd ref="3224168675"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="316308084" version="3" timestamp="2021-08-24T18:38:10Z" changeset="110188921" uid="242345" user="confusedbuffalo">
+    <nd ref="3224171082"/>
+    <nd ref="3224171083"/>
+    <nd ref="3224171084"/>
+    <nd ref="3224171085"/>
+    <nd ref="3224171082"/>
+    <tag k="addr:housename" v="The Old Dairy"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="316308284" version="3" timestamp="2021-08-24T18:38:10Z" changeset="110188921" uid="242345" user="confusedbuffalo">
+    <nd ref="3224165819"/>
+    <nd ref="3224165820"/>
+    <nd ref="3224165821"/>
+    <nd ref="3224165822"/>
+    <nd ref="3224165823"/>
+    <nd ref="3224165824"/>
+    <nd ref="3224165819"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="886421645" version="4" timestamp="2021-10-26T19:01:10Z" changeset="113007088" uid="6218813" user="St Mary Clay">
+    <nd ref="8242507848"/>
+    <nd ref="8242533092"/>
+    <nd ref="8242507850"/>
+    <nd ref="8242507851"/>
+    <nd ref="8242507848"/>
+    <tag k="addr:city" v="Wingham"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="CT3 1BN"/>
+    <tag k="addr:street" v="North Court Road"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="886424425" version="4" timestamp="2021-10-26T19:01:10Z" changeset="113007088" uid="6218813" user="St Mary Clay">
+    <nd ref="8242533090"/>
+    <nd ref="8242533091"/>
+    <nd ref="8242533092"/>
+    <nd ref="8242507850"/>
+    <nd ref="8242533093"/>
+    <nd ref="8242533090"/>
+    <tag k="addr:city" v="Wingham"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="CT3 1BN"/>
+    <tag k="addr:street" v="North Court Road"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="886425012" version="3" timestamp="2021-10-26T19:01:10Z" changeset="113007088" uid="6218813" user="St Mary Clay">
+    <nd ref="8242500568"/>
+    <nd ref="8242500569"/>
+    <nd ref="8242500570"/>
+    <nd ref="8242500571"/>
+    <nd ref="8242500568"/>
+    <tag k="addr:city" v="Canterbury"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="CT3 1BN"/>
+    <tag k="addr:street" v="North Court Road"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="886425211" version="3" timestamp="2021-10-26T19:01:10Z" changeset="113007088" uid="6218813" user="St Mary Clay">
+    <nd ref="8242470979"/>
+    <nd ref="8242470980"/>
+    <nd ref="8242470981"/>
+    <nd ref="8242500571"/>
+    <nd ref="8242500570"/>
+    <nd ref="8242470979"/>
+    <tag k="addr:city" v="Wingham"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CT3 1BN"/>
+    <tag k="addr:street" v="North Court Road"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+  <way id="886425743" version="3" timestamp="2021-10-26T19:01:10Z" changeset="113007088" uid="6218813" user="St Mary Clay">
+    <nd ref="8242529221"/>
+    <nd ref="8242529222"/>
+    <nd ref="8242529223"/>
+    <nd ref="8242529224"/>
+    <nd ref="8242529225"/>
+    <nd ref="8242529226"/>
+    <nd ref="8242529221"/>
+    <tag k="addr:city" v="Wingham"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CT3 1BN"/>
+    <tag k="addr:street" v="North Court Road"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+  </way>
+
+</osm>

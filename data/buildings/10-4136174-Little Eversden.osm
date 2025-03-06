@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:43:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T01:25:29Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="5480052621" lat="52.1538199" lon="0.0110438" version="6" timestamp="2019-09-05T12:31:41Z" changeset="74131712" uid="3432400" user="GinaroZ">
     <tag k="addr:city" v="Cambridge"/>
@@ -624,6 +624,18 @@
     <tag k="addr:street" v="Wheeler's Close"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="548264976" version="3" timestamp="2025-02-06T19:02:08Z" changeset="162219510" uid="10633286" user="Moorit">
+    <nd ref="5296735420"/>
+    <nd ref="9586012794"/>
+    <nd ref="9586012793"/>
+    <nd ref="5296735419"/>
+    <nd ref="5296735420"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="CB23 1HF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="548264979" version="3" timestamp="2023-05-17T11:35:06Z" changeset="136208793" uid="1428841" user="BarnabasBaggs">
     <nd ref="5296735435"/>
     <nd ref="9586012921"/>
@@ -922,6 +934,22 @@
     <tag k="addr:street" v="Lowfields"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="619866782" version="2" timestamp="2025-02-09T20:21:26Z" changeset="162327672" uid="10633286" user="Moorit">
+    <nd ref="5857142665"/>
+    <nd ref="5857142662"/>
+    <nd ref="5857142661"/>
+    <nd ref="5857142660"/>
+    <nd ref="5857142657"/>
+    <nd ref="5857142656"/>
+    <nd ref="5857142663"/>
+    <nd ref="5857142658"/>
+    <nd ref="5857142659"/>
+    <nd ref="5857142664"/>
+    <nd ref="5857142665"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Leete's Lane"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="619866833" version="3" timestamp="2024-04-11T18:46:16Z" changeset="149878523" uid="10633286" user="Moorit">
     <nd ref="9586012862"/>
     <nd ref="5857143710"/>
@@ -1115,6 +1143,30 @@
     <nd ref="9586012770"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Wheeler's Way"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1041206459" version="2" timestamp="2025-02-06T19:02:08Z" changeset="162219510" uid="10633286" user="Moorit">
+    <nd ref="9586012792"/>
+    <nd ref="5296735417"/>
+    <nd ref="5296735418"/>
+    <nd ref="9586012791"/>
+    <nd ref="9586012792"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="CB23 1HF"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1041206460" version="2" timestamp="2025-02-06T19:02:08Z" changeset="162219510" uid="10633286" user="Moorit">
+    <nd ref="9586012794"/>
+    <nd ref="9586012792"/>
+    <nd ref="9586012791"/>
+    <nd ref="9586012793"/>
+    <nd ref="9586012794"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="CB23 1HF"/>
+    <tag k="addr:street" v="High Street"/>
     <tag k="building" v="yes"/>
   </way>
   <way id="1041206468" version="2" timestamp="2023-03-30T08:37:26Z" changeset="134293651" uid="1428841" user="BarnabasBaggs">

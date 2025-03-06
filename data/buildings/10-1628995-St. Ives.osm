@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:27:54Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T01:01:01Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="247651243" lat="52.3252642" lon="-0.0772192" version="6" timestamp="2023-08-01T20:57:11Z" changeset="139318565" uid="508" user="Welshie">
     <tag k="addr:city" v="St Ives"/>
@@ -14,6 +14,20 @@
     <tag k="tourism" v="museum"/>
     <tag k="website" v="https://norrismuseum.org.uk/"/>
     <tag k="wikidata" v="Q47486809"/>
+  </node>
+  <node id="287460380" lat="52.3360999" lon="-0.0768400" version="9" timestamp="2025-02-13T23:07:33Z" changeset="162484231" uid="22499623" user="MappingTheMoon">
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:housenumber" v="9-11"/>
+    <tag k="addr:postcode" v="PE27 3XS"/>
+    <tag k="addr:street" v="Kings Hedges"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2025-02-13"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="KINGS HEDGES PHARMACY"/>
+    <tag k="old_name" v="Lloyds Pharmacy"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00; Sa 09:00-13:00"/>
   </node>
   <node id="550507800" lat="52.3222698" lon="-0.0699208" version="3" timestamp="2019-07-22T22:16:21Z" changeset="72533130" uid="9278787" user="MWXNG">
     <tag k="addr:city" v="St Ives"/>
@@ -502,7 +516,7 @@
     <tag k="website" v="https://www.outoutnightclubs.co.uk"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7324236400" lat="52.3235048" lon="-0.0739276" version="7" timestamp="2025-01-05T21:56:46Z" changeset="161037699" uid="1802093" user="Paul Berry">
+  <node id="7324236400" lat="52.3235048" lon="-0.0739276" version="8" timestamp="2025-01-23T18:50:04Z" changeset="161685632" uid="22338672" user="Lex Bailey">
     <tag k="addr:city" v="St Ives"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="PE27 5FW"/>
@@ -513,7 +527,7 @@
     <tag k="contact:website" v="https://store-locator.costcutter.co.uk/costcutter-e8858f573a6f"/>
     <tag k="name" v="Mace (Costcutter)"/>
     <tag k="opening_hours" v="Tu-Su 07:00-21:00; Mo 07:00-22:30"/>
-    <tag k="shop" v="optician"/>
+    <tag k="shop" v="supermarket"/>
   </node>
   <node id="7458990278" lat="52.3239498" lon="-0.0739824" version="6" timestamp="2024-05-29T11:24:30Z" changeset="151984070" uid="95856" user="john paul jones &amp; gringo">
     <tag k="addr:city" v="St Ives"/>
@@ -2883,6 +2897,137 @@
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="PE27 5NX"/>
     <tag k="addr:street" v="Warren Road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732837" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118531"/>
+    <nd ref="5502118532"/>
+    <nd ref="5502118533"/>
+    <nd ref="5502118534"/>
+    <nd ref="5502118531"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732838" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118535"/>
+    <nd ref="5502118536"/>
+    <nd ref="5502118532"/>
+    <nd ref="5502118531"/>
+    <nd ref="5502118535"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732842" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118545"/>
+    <nd ref="5502118546"/>
+    <nd ref="5502118547"/>
+    <nd ref="5502118548"/>
+    <nd ref="5502118545"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732846" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118561"/>
+    <nd ref="5502118562"/>
+    <nd ref="5502118563"/>
+    <nd ref="5502118564"/>
+    <nd ref="5502118561"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732847" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118565"/>
+    <nd ref="5502118566"/>
+    <nd ref="5502118562"/>
+    <nd ref="5502118561"/>
+    <nd ref="5502118565"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732852" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118589"/>
+    <nd ref="5502118590"/>
+    <nd ref="5502118591"/>
+    <nd ref="5502118592"/>
+    <nd ref="5502118589"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732853" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118593"/>
+    <nd ref="5502118594"/>
+    <nd ref="5502118590"/>
+    <nd ref="5502118589"/>
+    <nd ref="5502118593"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732855" version="4" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118599"/>
+    <nd ref="5502118600"/>
+    <nd ref="5502118601"/>
+    <nd ref="5502118602"/>
+    <nd ref="5502118599"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="PE27 5QF"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732913" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118873"/>
+    <nd ref="5502118874"/>
+    <nd ref="5502118875"/>
+    <nd ref="5502118876"/>
+    <nd ref="5502118873"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="PE27 5QF"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732914" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118877"/>
+    <nd ref="5502118878"/>
+    <nd ref="5502118874"/>
+    <nd ref="5502118873"/>
+    <nd ref="5502118877"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="PE27 5QF"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732915" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118879"/>
+    <nd ref="5502118880"/>
+    <nd ref="5502118881"/>
+    <nd ref="5502118882"/>
+    <nd ref="5502118879"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE27 5QF"/>
+    <tag k="addr:street" v="Fairfields"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="572732916" version="2" timestamp="2025-02-13T21:40:46Z" changeset="162482098" uid="10633286" user="Moorit">
+    <nd ref="5502118883"/>
+    <nd ref="5502118884"/>
+    <nd ref="5502118880"/>
+    <nd ref="5502118879"/>
+    <nd ref="5502118883"/>
+    <tag k="addr:city" v="St Ives"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="PE27 5QF"/>
+    <tag k="addr:street" v="Fairfields"/>
     <tag k="building" v="house"/>
   </way>
   <way id="572732949" version="2" timestamp="2020-03-22T19:52:39Z" changeset="82493062" uid="10633286" user="Moorit">
@@ -8529,7 +8674,7 @@
     <tag k="addr:street" v="Knights Way"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="694652248" version="7" timestamp="2024-05-29T11:24:30Z" changeset="151984070" uid="95856" user="john paul jones &amp; gringo">
+  <way id="694652248" version="8" timestamp="2025-01-25T19:34:55Z" changeset="161758829" uid="11022773" user="GeoFens">
     <nd ref="6522712550"/>
     <nd ref="6522712547"/>
     <nd ref="6522712548"/>
@@ -8549,6 +8694,7 @@
     <tag k="cuisine" v="coffee_shop"/>
     <tag k="drive_through" v="yes"/>
     <tag k="fhrs:id" v="1357025"/>
+    <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Costa"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="takeaway" v="yes"/>
@@ -9230,22 +9376,20 @@
     <tag k="building" v="yes"/>
     <tag k="building:levels" v="2"/>
   </way>
-  <way id="953735340" version="1" timestamp="2021-06-12T13:50:05Z" changeset="106254231" uid="11022773" user="GeoFens">
+  <way id="953735340" version="3" timestamp="2025-01-25T20:08:37Z" changeset="161759788" uid="11022773" user="GeoFens">
     <nd ref="8827436901"/>
     <nd ref="8827436902"/>
     <nd ref="8827436903"/>
     <nd ref="8827436904"/>
     <nd ref="8827436901"/>
     <tag k="addr:city" v="St Ives"/>
-    <tag k="addr:housename" v="Abbey Retail Park"/>
+    <tag k="addr:housenumber" v="Unit 7"/>
     <tag k="addr:postcode" v="PE27 4AE"/>
     <tag k="addr:street" v="Harrison Way"/>
     <tag k="building" v="yes"/>
     <tag k="drive_through" v="no"/>
-    <tag k="email" v="info@thefilling-station.com"/>
-    <tag k="name" v="The Filling Station"/>
-    <tag k="shop" v="alcohol"/>
-    <tag k="website" v="https://www.thefilling-station.com/"/>
+    <tag k="old_name" v="The Filling Station"/>
+    <tag k="shop" v="vacant"/>
   </way>
   <way id="1075849925" version="4" timestamp="2023-11-03T14:30:32Z" changeset="143577303" uid="242345" user="confusedbuffalo">
     <nd ref="9866560771"/>

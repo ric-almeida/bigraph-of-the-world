@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:27:54Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T01:01:01Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="280781336" lat="52.3339811" lon="-0.1880560" version="13" timestamp="2023-10-13T07:36:19Z" changeset="142509765" uid="616774" user="mueschel">
+  <node id="280781336" lat="52.3339811" lon="-0.1880560" version="14" timestamp="2025-01-25T14:22:18Z" changeset="161748149" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Huntingdon"/>
     <tag k="addr:housenumber" v="72A"/>
     <tag k="addr:postcode" v="PE29 3EZ"/>
     <tag k="addr:street" v="Ermine Street"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Wellbeing Pharmacy"/>
+    <tag k="brand:wikidata" v="Q131904552"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Wellbeing Pharmacy"/>
     <tag k="ref" v="WP038"/>
     <tag k="ref:GB:nhs_ods" v="FX693"/>
-    <tag k="website" v="https://wellbeing-pharmacy.co.uk/"/>
+    <tag k="website" v="https://wellbeing-pharmacy.co.uk/branch/wellbeing-pharmacy-huntingdon/"/>
   </node>
   <node id="283152180" lat="52.3454821" lon="-0.1757718" version="5" timestamp="2024-06-01T18:32:06Z" changeset="152134469" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Huntingdon"/>
@@ -235,15 +237,6 @@
     <tag k="shop" v="trade"/>
     <tag k="trade" v="plumbing"/>
     <tag k="website" v="https://www.wolseley.co.uk/branch/huntingdon/"/>
-  </node>
-  <node id="1845622027" lat="52.3279666" lon="-0.1777085" version="2" timestamp="2022-07-16T16:11:59Z" changeset="123694741" uid="242345" user="confusedbuffalo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housename" v="Riverside House"/>
-    <tag k="addr:housenumber" v="160"/>
-    <tag k="addr:postcode" v="PE29 3SG"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="building" v="office"/>
-    <tag k="name" v="web2market"/>
   </node>
   <node id="1867553633" lat="52.3455105" lon="-0.1763917" version="9" timestamp="2022-01-09T19:07:02Z" changeset="115954680" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Huntingdon"/>
@@ -1337,7 +1330,7 @@
     <tag k="name" v="Amazon Logistics (DCB1)"/>
     <tag k="operator" v="Amazon Logistics"/>
   </way>
-  <way id="173802683" version="5" timestamp="2022-07-16T16:11:59Z" changeset="123694741" uid="242345" user="confusedbuffalo">
+  <way id="173802683" version="6" timestamp="2025-02-06T20:31:44Z" changeset="162222233" uid="13750939" user="FortQuake">
     <nd ref="1845622027"/>
     <nd ref="1845622029"/>
     <nd ref="1845622028"/>
@@ -1348,7 +1341,7 @@
     <tag k="addr:housenumber" v="160"/>
     <tag k="addr:postcode" v="PE29 3SG"/>
     <tag k="addr:street" v="High Street"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="office"/>
     <tag k="designation" v="commercial"/>
     <tag k="name" v="web2market"/>
   </way>
@@ -7572,7 +7565,7 @@
     <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>
   </way>
-  <way id="552705817" version="4" timestamp="2023-10-24T14:47:38Z" changeset="143069323" uid="9451067" user="b-jazz-bot">
+  <way id="552705817" version="5" timestamp="2025-02-06T20:31:44Z" changeset="162222233" uid="13750939" user="FortQuake">
     <nd ref="5335932974"/>
     <nd ref="11286084270"/>
     <nd ref="5335932975"/>
@@ -7583,6 +7576,7 @@
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="PE29 3QT"/>
     <tag k="addr:street" v="Orchard Lane"/>
+    <tag k="building" v="yes"/>
     <tag k="dance:style" v="ballet;ballroom"/>
     <tag k="dance:teaching" v="yes"/>
     <tag k="leisure" v="dance"/>

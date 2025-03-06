@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:32:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T01:02:53Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="17708621" lat="52.1833653" lon="0.2217954" version="5" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
     <tag k="addr:city" v="Fulbourn"/>
@@ -2096,7 +2096,7 @@
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Manor Walk"/>
   </node>
-  <node id="529595045" lat="52.1831297" lon="0.2223463" version="1" timestamp="2009-10-12T19:04:27Z" changeset="2828876" uid="3582" user="davidearl">
+  <node id="529595045" lat="52.1831799" lon="0.2223396" version="2" timestamp="2025-02-16T00:56:03Z" changeset="162555779" uid="20475686" user="Dan200">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Church Lane"/>
   </node>
@@ -8444,6 +8444,24 @@
     <tag k="amenity" v="social_club"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Fulbourn Sports and Social Club"/>
+  </way>
+  <way id="1333362449" version="3" timestamp="2025-02-07T12:47:19Z" changeset="162244197" uid="322785" user="BCNorwich">
+    <nd ref="12335926082"/>
+    <nd ref="12335926089"/>
+    <nd ref="12335926083"/>
+    <nd ref="12335926086"/>
+    <nd ref="12335926084"/>
+    <nd ref="12335926085"/>
+    <nd ref="12335926082"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB21 5AZ"/>
+    <tag k="addr:street" v="Bullen Way"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="house" v="detached"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
   </way>
 
 </osm>

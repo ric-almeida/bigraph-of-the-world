@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:27:54Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T01:01:01Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="280781350" lat="52.3229362" lon="-0.2071610" version="4" timestamp="2020-11-03T17:06:32Z" changeset="93494738" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Huntingdon"/>
@@ -12,7 +12,7 @@
     <tag k="office" v="government"/>
     <tag k="opening_hours" v="09:00-17:00"/>
   </node>
-  <node id="339777102" lat="52.3235440" lon="-0.2268360" version="10" timestamp="2024-12-14T10:35:45Z" changeset="160274705" uid="95856" user="john paul jones &amp; gringo">
+  <node id="339777102" lat="52.3235612" lon="-0.2268360" version="11" timestamp="2025-02-01T23:23:49Z" changeset="162029410" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Huntingdon"/>
     <tag k="addr:housenumber" v="97-97A"/>
     <tag k="addr:postcode" v="PE28 4TQ"/>
@@ -32,7 +32,7 @@
     <tag k="source:addr" v="FHRS Open Data"/>
     <tag k="website" v="https://www.coop.co.uk/store-finder/PE28-4TQ/97-99-high-street"/>
   </node>
-  <node id="1619183052" lat="52.3236535" lon="-0.2270071" version="3" timestamp="2021-09-01T13:40:19Z" changeset="110568769" uid="6816132" user="CjMalone">
+  <node id="1619183052" lat="52.3236642" lon="-0.2270031" version="4" timestamp="2025-02-01T23:23:49Z" changeset="162029410" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Huntingdon"/>
     <tag k="addr:housenumber" v="99B"/>
     <tag k="addr:postcode" v="PE28 4TQ"/>
@@ -563,6 +563,21 @@
     <tag k="addr:street" v="River Lane"/>
     <tag k="addr:suburb" v="Brampton"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="612758109" version="2" timestamp="2025-02-01T23:23:49Z" changeset="162029410" uid="11022773" user="GeoFens">
+    <nd ref="5799734755"/>
+    <nd ref="5799734652"/>
+    <nd ref="5799734753"/>
+    <nd ref="5799734754"/>
+    <nd ref="5799734755"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:suburb" v="Brampton"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Measures"/>
+    <tag k="operator" v="Measure's"/>
+    <tag k="shop" v="butcher"/>
   </way>
   <way id="613161894" version="3" timestamp="2022-08-01T06:12:24Z" changeset="124327337" uid="322785" user="BCNorwich">
     <nd ref="5802538717"/>

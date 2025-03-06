@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-03-05T18:20:00Z" areas="2024-12-31T00:49:33Z"/>
+
+  <node id="384343143" lat="51.1745073" lon="1.3435514" version="6" timestamp="2021-07-15T09:31:21Z" changeset="108036947" uid="608760" user="gregrs">
+    <tag k="addr:county" v="Kent"/>
+    <tag k="addr:postcode" v="CT15 5JL"/>
+    <tag k="addr:street" v="The Street"/>
+    <tag k="addr:village" v="Martin"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="fhrs:id" v="1340256"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Old Lantern Inn"/>
+    <tag k="phone" v="+44 1304 852276"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="http://www.theoldlanterninn.co.uk/"/>
+  </node>
+  <node id="7160271801" lat="51.1683537" lon="1.3397450" version="5" timestamp="2024-09-04T10:31:01Z" changeset="156179250" uid="11471297" user="Palgrave Peter">
+    <tag k="addr:city" v="East Langdon"/>
+    <tag k="addr:housename" v="East Langdon Village Hall"/>
+    <tag k="addr:postcode" v="CT15 5JH"/>
+    <tag k="addr:street" v="The Street"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="name" v="East Langdon Post Office"/>
+    <tag k="note" v="Post Office data refers to &quot;Village Hall&quot; however the building is known as and labelled &quot;Parish Hall&quot;."/>
+    <tag k="opening_hours" v="Tu,Th 09:00-12:00"/>
+    <tag k="ref:pol_id" v="119751"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/1184717/east-langdon"/>
+  </node>
+  <way id="389258438" version="8" timestamp="2024-09-04T10:31:01Z" changeset="156179250" uid="11471297" user="Palgrave Peter">
+    <nd ref="3924155509"/>
+    <nd ref="3924155510"/>
+    <nd ref="3924171140"/>
+    <nd ref="3924171144"/>
+    <nd ref="3924155513"/>
+    <nd ref="3924155515"/>
+    <nd ref="3924155514"/>
+    <nd ref="3924155509"/>
+    <tag k="addr:city" v="Dover"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:county" v="Kent"/>
+    <tag k="addr:postcode" v="CT15 5JQ"/>
+    <tag k="addr:street" v="West Side"/>
+    <tag k="addr:village" v="East Langdon"/>
+    <tag k="amenity" v="school"/>
+    <tag k="capacity" v="82"/>
+    <tag k="contact:phone" v="+44 1304 852600"/>
+    <tag k="contact:website" v="https://www.langdonprimaryschool.co.uk/"/>
+    <tag k="fhrs:id" v="459947"/>
+    <tag k="isced:level" v="1"/>
+    <tag k="max_age" v="11"/>
+    <tag k="min_age" v="4"/>
+    <tag k="name" v="Langdon Primary School"/>
+    <tag k="ref:GB:uprn" v="100062287609"/>
+    <tag k="ref:edubase" v="118398"/>
+    <tag k="religion" v="none"/>
+    <tag k="school:boarding" v="no"/>
+    <tag k="school:gender" v="mixed"/>
+    <tag k="school:selective" v="no"/>
+    <tag k="school:trust" v="no"/>
+    <tag k="school:type" v="community"/>
+    <tag k="source:addr" v="https://www.langdonprimaryschool.co.uk/contact-us/"/>
+    <tag k="wikidata" v="Q66226246"/>
+  </way>
+  <way id="766654071" version="2" timestamp="2021-10-29T18:42:27Z" changeset="113136917" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="7160271797"/>
+    <nd ref="9210710503"/>
+    <nd ref="9210710505"/>
+    <nd ref="9210710506"/>
+    <nd ref="9210710504"/>
+    <nd ref="7160271798"/>
+    <nd ref="7160271799"/>
+    <nd ref="7160271800"/>
+    <nd ref="7160271797"/>
+    <tag k="addr:city" v="East Langdon"/>
+    <tag k="addr:postcode" v="CT15 5JH"/>
+    <tag k="addr:street" v="The Street"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="name" v="East Langdon Parish Hall"/>
+  </way>
+
+</osm>

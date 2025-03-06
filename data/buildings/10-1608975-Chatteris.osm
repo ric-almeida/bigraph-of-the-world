@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:18:50Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-03-05T18:05:51Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="619004910" lat="52.4549465" lon="0.0498353" version="4" timestamp="2024-04-03T09:02:01Z" changeset="149513718" uid="95856" user="john paul jones &amp; gringo">
+  <node id="619004910" lat="52.4549465" lon="0.0498353" version="5" timestamp="2025-02-23T15:41:10Z" changeset="162857729" uid="22551827" user="Swarming00">
     <tag k="addr:city" v="Chatteris"/>
     <tag k="addr:country" v="GB"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="PE16 6BE"/>
     <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="pub"/>
+    <tag k="email" v="info@thegeorgehotelchatteris.co.uk"/>
+    <tag k="internet_access" v="yes"/>
     <tag k="name" v="The George Hotel"/>
+    <tag k="opening_hours" v="Mo-Th,Su 11:00-22:00; Fr,Sa 11:00-00:00"/>
+    <tag k="phone" v="+44 (0)1354 692208"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.thegeorgehotelchatteris.co.uk/"/>
   </node>
   <node id="667143016" lat="52.4530055" lon="0.0503959" version="4" timestamp="2021-08-01T22:51:30Z" changeset="108989726" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Chatteris"/>
@@ -30,6 +36,21 @@
     <tag k="addr:street" v="Market Hill"/>
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="The Old Bakery"/>
+  </node>
+  <node id="667143109" lat="52.4544561" lon="0.0497816" version="6" timestamp="2025-02-23T15:37:51Z" changeset="162857568" uid="22551827" user="Swarming00">
+    <tag k="addr:city" v="Chatteris"/>
+    <tag k="addr:housenumber" v="12-16"/>
+    <tag k="addr:postcode" v="PE16 6BA"/>
+    <tag k="addr:street" v="Market Hill"/>
+    <tag k="email" v="info@crosskeyschatteris.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="The Cross Keys Inn"/>
+    <tag k="opening_hours" v="Mo-Th,Su 12:00-23:00; Fr,Sa 12:00-00:00"/>
+    <tag k="phone" v="+44 (0)1354 692644"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.crosskeyschatteris.com/"/>
+    <tag k="wikidata" v="Q26616811"/>
   </node>
   <node id="667143119" lat="52.4542816" lon="0.0498668" version="6" timestamp="2024-03-01T20:44:34Z" changeset="148111632" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Chatteris"/>
@@ -51,9 +72,10 @@
     <tag k="name" v="London Road Stores"/>
     <tag k="shop" v="convenience"/>
   </node>
-  <node id="667503156" lat="52.4558585" lon="0.0488953" version="6" timestamp="2024-04-03T09:02:01Z" changeset="149513718" uid="95856" user="john paul jones &amp; gringo">
+  <node id="667503156" lat="52.4558585" lon="0.0488953" version="8" timestamp="2025-02-23T15:49:17Z" changeset="162858095" uid="22551827" user="Swarming00">
     <tag k="addr:city" v="Chatteris"/>
     <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="30"/>
     <tag k="addr:postcode" v="PE16 6BG"/>
     <tag k="addr:street" v="High Street"/>
     <tag k="amenity" v="post_office"/>
@@ -63,7 +85,10 @@
     <tag k="check_date" v="2020-02-20"/>
     <tag k="contact:website" v="https://www.postoffice.co.uk/branch-finder/1582305/chatteris"/>
     <tag k="name" v="Chatteris Post Office"/>
+    <tag k="opening_hours" v="Mo-Th 09:15-17:30; Fr 09:00-17:30; Sa 09:00-13:00; Su off"/>
     <tag k="ref:pol_id" v="3476"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/1582305/chatteris"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="667503158" lat="52.4557237" lon="0.0489958" version="4" timestamp="2024-01-27T15:36:19Z" changeset="146748969" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Chatteris"/>
@@ -74,6 +99,35 @@
     <tag k="brand:wikidata" v="Q116272370"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Allied Pharmacy"/>
+  </node>
+  <node id="667503170" lat="52.4555145" lon="0.0498233" version="4" timestamp="2025-02-23T15:45:56Z" changeset="162857955" uid="22551827" user="Swarming00">
+    <tag k="addr:city" v="Chatteris"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="PE16 6BE"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="email" v="thebramleyhousehotel@gmail.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="The Bramley House Hotel"/>
+    <tag k="opening_hours" v="Mo-Su 16:00-00:00"/>
+    <tag k="phone" v="+44 (0)1354 695414"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.thebramleyhousehotel.co.uk/"/>
+  </node>
+  <node id="2405028062" lat="52.4566668" lon="0.0482487" version="2" timestamp="2025-02-23T15:52:50Z" changeset="162858256" uid="22551827" user="Swarming00">
+    <tag k="addr:city" v="Chatteris"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="PE16 6BH"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="name" v="Dragon Inn"/>
+    <tag k="opening_hours" v="Mo,We-Th,Su 17:00-22:30; Tu off; Fr,Sa 17:00-23:00"/>
+    <tag k="phone" v="+44 (0)1354 695577"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="no"/>
+    <tag k="website" v="https://dragon-inn-chatteris.edan.io/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2405045809" lat="52.4540683" lon="0.0498775" version="3" timestamp="2024-03-01T20:44:34Z" changeset="148111632" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Chatteris"/>
@@ -179,7 +233,7 @@
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="East Park Street"/>
   </way>
-  <way id="232133840" version="7" timestamp="2024-01-27T15:36:19Z" changeset="146748969" uid="11022773" user="GeoFens">
+  <way id="232133840" version="8" timestamp="2025-02-02T20:35:50Z" changeset="162062250" uid="139424" user="pigsonthewing">
     <nd ref="8811403680"/>
     <nd ref="2405028076"/>
     <nd ref="2405028307"/>
@@ -201,6 +255,7 @@
     <tag k="old_name" v="Barclays Bank"/>
     <tag k="tourism" v="museum"/>
     <tag k="website" v="https://www.chatterismuseum.org.uk"/>
+    <tag k="wikidata" v="Q113369812"/>
   </way>
   <way id="232135218" version="13" timestamp="2024-09-17T00:15:41Z" changeset="156709313" uid="21226027" user="DorneyLake123">
     <nd ref="5612384127"/>

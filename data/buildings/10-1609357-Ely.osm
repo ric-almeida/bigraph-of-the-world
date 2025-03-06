@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:19:54Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T00:56:01Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="29042565" lat="52.3989634" lon="0.2587933" version="18" timestamp="2023-12-22T15:37:40Z" changeset="145411179" uid="19332" user="Colin Watson">
     <tag k="addr:city" v="Ely"/>
@@ -179,21 +179,14 @@
     <tag k="source:addr" v="FHRS Open Data"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="602221002" lat="52.3991175" lon="0.2656596" version="11" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+  <node id="602221002" lat="52.3991175" lon="0.2656596" version="13" timestamp="2025-02-18T10:15:55Z" changeset="162653260" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="CB7 4NY"/>
     <tag k="addr:street" v="Buttermarket"/>
     <tag k="amenity" v="cafe"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/people/The-Bagel-Bar/100064955461351/"/>
-    <tag k="cuisine" v="bagel"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="fhrs:id" v="1291318"/>
-    <tag k="name" v="The Bagel Bar"/>
-    <tag k="outdoor_seating" v="yes"/>
+    <tag k="name" v="Al Fresco"/>
     <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="takeaway" v="only"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="602221012" lat="52.3993484" lon="0.2638194" version="7" timestamp="2021-06-11T13:11:29Z" changeset="106216609" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Ely"/>
@@ -301,16 +294,17 @@
     <tag k="website" v="https://stmarysdentalely.co.uk/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="763441946" lat="52.3998029" lon="0.2601753" version="11" timestamp="2023-10-13T13:02:11Z" changeset="142523506" uid="20378261" user="Oppy Enson">
+  <node id="763441946" lat="52.3998029" lon="0.2601753" version="12" timestamp="2025-02-18T13:01:48Z" changeset="162660492" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:postcode" v="CB7 4ES"/>
     <tag k="addr:street" v="St Mary's Street"/>
     <tag k="alt_name" v="Grain Culture"/>
-    <tag k="check_date" v="2023-10-13"/>
+    <tag k="check_date" v="2025-02-18"/>
+    <tag k="check_date:opening_hours" v="2025-02-18"/>
     <tag k="fhrs:id" v="1159844"/>
     <tag k="name" v="The Bake Shop"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-18:00; Su 09:00-15:00; PH 09:00-15:00"/>
+    <tag k="opening_hours" v="Su 09:00-15:00; PH 09:00-15:00; Mo-Th 08:00-18:00; Fr,Sa 08:00-20:00"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
@@ -437,19 +431,21 @@
     <tag k="phone" v="+44 1353 668802"/>
     <tag k="website" v="https://elyspice.com/"/>
   </node>
-  <node id="971884675" lat="52.3959707" lon="0.2706290" version="7" timestamp="2024-04-23T06:31:59Z" changeset="150377262" uid="12752888" user="U42">
+  <node id="971884675" lat="52.3959707" lon="0.2706290" version="9" timestamp="2025-02-18T03:16:29Z" changeset="162642828" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:postcode" v="CB7 4AU"/>
     <tag k="addr:street" v="Waterside"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="cake;coffee_shop;tea"/>
     <tag k="fhrs:id" v="336117"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Peacocks Tearoom"/>
+    <tag k="opening_hours" v="We-Su 10:30-17:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+44 1353 661100"/>
     <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="website" v="http://www.peacockstearoom.co.uk/"/>
+    <tag k="website" v="https://www.peacockstearoom.co.uk/"/>
   </node>
   <node id="1647071013" lat="52.3995624" lon="0.2635286" version="14" timestamp="2024-08-23T16:44:17Z" changeset="155662841" uid="21425661" user="CjMalone">
     <tag k="addr:city" v="Ely"/>
@@ -498,7 +494,7 @@
     <tag k="source:addr:postcode" v="code-point_open"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2309440557" lat="52.3993599" lon="0.2646872" version="6" timestamp="2024-04-20T16:00:03Z" changeset="150270021" uid="12752888" user="U42">
+  <node id="2309440557" lat="52.3993599" lon="0.2646872" version="7" timestamp="2025-02-18T10:38:16Z" changeset="162653208" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:postcode" v="CB7 4LQ"/>
@@ -506,6 +502,7 @@
     <tag k="fhrs:id" v="1315817"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Tom's Cakes"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-17:00; Su 10:00-17:00"/>
     <tag k="outdoor_seating" v="no"/>
     <tag k="shop" v="bakery"/>
     <tag k="source:addr" v="FHRS Open Data"/>
@@ -544,7 +541,7 @@
     <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
     <tag k="website" v="https://www.tuckergardner.com/branch/estate-agents/ely#/"/>
   </node>
-  <node id="2309440562" lat="52.3993377" lon="0.2648145" version="11" timestamp="2023-10-19T14:16:26Z" changeset="142818410" uid="4345757" user="JassKurn">
+  <node id="2309440562" lat="52.3993377" lon="0.2648145" version="12" timestamp="2025-02-18T10:37:10Z" changeset="162653208" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:postcode" v="CB7 4LF"/>
@@ -553,6 +550,7 @@
     <tag k="brand:wikidata" v="Q4691850"/>
     <tag k="brand:wikipedia" v="en:Age UK"/>
     <tag k="name" v="Age UK"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00; Su 10:00-16:00"/>
     <tag k="shop" v="charity"/>
     <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
     <tag k="website" v="https://directory.ageuk.org.uk/charity-shops/age-uk-shop-ely/"/>
@@ -587,12 +585,13 @@
     <tag k="source:addr" v="FHRS Open Data"/>
     <tag k="website" v="https://www.spar.co.uk/store-locator/afb19292-spar-ely/"/>
   </node>
-  <node id="2309440566" lat="52.3993206" lon="0.2649084" version="5" timestamp="2023-01-17T14:39:58Z" changeset="131383080" uid="84263" user="Robert Whittaker">
+  <node id="2309440566" lat="52.3993206" lon="0.2649084" version="6" timestamp="2025-02-18T11:03:26Z" changeset="162653208" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:postcode" v="CB7 4LF"/>
     <tag k="addr:street" v="High Street"/>
     <tag k="name" v="Paul Day's"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-16:30"/>
     <tag k="shop" v="sports"/>
     <tag k="website" v="http://www.pauldaysports.com/"/>
   </node>
@@ -634,18 +633,16 @@
     <tag k="source:addr" v="FHRS Open Data"/>
     <tag k="website" v="https://wildwoodrestaurants.co.uk/restaurant/ely/"/>
   </node>
-  <node id="2309440570" lat="52.3992121" lon="0.2645678" version="6" timestamp="2023-01-18T22:51:35Z" changeset="131440611" uid="84263" user="Robert Whittaker">
+  <node id="2309440570" lat="52.3992121" lon="0.2645678" version="9" timestamp="2025-02-18T21:00:51Z" changeset="162677169" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:postcode" v="CB7 4JU"/>
     <tag k="addr:street" v="High Street"/>
     <tag k="fixme" v="Check for closure after 2023-01-29"/>
-    <tag k="name" v="Ely Cathedral Shop"/>
+    <tag k="name" v="Odyssey Games"/>
     <tag k="note" v="Website says this shop is closing on 29th January."/>
-    <tag k="shop" v="gift"/>
+    <tag k="opening_hours" v="Tu-Sa 09:30-17:00; Su 10:00-16:00"/>
+    <tag k="shop" v="games"/>
     <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
-    <tag k="toilets:wheelchair" v="no"/>
-    <tag k="website" v="https://www.elycathedral.org/plan-your-visit/eat-drink-shop/the-old-choir-house"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2309440571" lat="52.3993664" lon="0.2636900" version="11" timestamp="2023-10-19T14:16:26Z" changeset="142818410" uid="4345757" user="JassKurn">
     <tag k="addr:city" v="Ely"/>
@@ -933,15 +930,13 @@
     <tag k="source:addr" v="FHRS Open Data"/>
     <tag k="takeaway" v="yes"/>
   </node>
-  <node id="2310445192" lat="52.3987309" lon="0.2664427" version="6" timestamp="2023-01-11T16:51:30Z" changeset="131154457" uid="84263" user="Robert Whittaker">
+  <node id="2310445192" lat="52.3987309" lon="0.2664427" version="8" timestamp="2025-02-18T09:59:39Z" changeset="162653260" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="2A"/>
     <tag k="addr:postcode" v="CB7 4AF"/>
     <tag k="addr:street" v="Fore Hill"/>
-    <tag k="name" v="Farrow &amp; Smith Hair Design"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="http://farrowandsmith.co.uk/"/>
-    <tag k="wheelchair" v="no"/>
+    <tag k="name" v="Cherry Hill Chocolates"/>
+    <tag k="shop" v="chocolate"/>
   </node>
   <node id="2312842979" lat="52.4001421" lon="0.2647262" version="7" timestamp="2023-01-18T18:24:00Z" changeset="131433621" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Ely"/>
@@ -1009,20 +1004,14 @@
     <tag k="shop" v="jewelry"/>
     <tag k="website" v="https://page-finejewellery.co.uk/"/>
   </node>
-  <node id="2312843026" lat="52.4003160" lon="0.2640477" version="7" timestamp="2023-12-08T12:58:11Z" changeset="144902557" uid="20378261" user="Oppy Enson">
+  <node id="2312843026" lat="52.4003160" lon="0.2640477" version="8" timestamp="2025-02-18T14:51:13Z" changeset="162664498" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:postcode" v="CB7 4LS"/>
     <tag k="addr:street" v="Market Street"/>
     <tag k="addr:unit" v="1"/>
-    <tag k="check_date" v="2023-12-08"/>
-    <tag k="fhrs:id" v="1452727"/>
-    <tag k="name" v="Nakeed"/>
-    <tag k="old_name" v="Phoenix"/>
-    <tag k="opening_hours" v="Th,Sa 09:00-16:00; Fr 09:30-16:00"/>
-    <tag k="shop" v="grocery"/>
+    <tag k="disused:shop" v="grocery"/>
     <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="zero_waste" v="yes"/>
   </node>
   <node id="2312843033" lat="52.4001028" lon="0.2641925" version="6" timestamp="2023-01-11T17:10:00Z" changeset="131155069" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Ely"/>
@@ -1136,6 +1125,20 @@
     <tag k="website" v="https://www.boots.com/stores/171-ely-market-street-cb7-4pb"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wheelchair:description" v="Staff happy to help if needed."/>
+  </node>
+  <node id="2496159250" lat="52.3986609" lon="0.2626982" version="8" timestamp="2025-02-16T22:38:32Z" changeset="162589454" uid="6647145" user="Flic">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:housename" v="Ely Cathedral"/>
+    <tag k="addr:postcode" v="CB7 4DL"/>
+    <tag k="addr:street" v="The Gallery"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="The Stained Glass Museum"/>
+    <tag k="opening_hours" v="Tu-Sa 10:00-16:00"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://stainedglassmuseum.com/"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q47012069"/>
   </node>
   <node id="2559948444" lat="52.3995770" lon="0.2634300" version="10" timestamp="2023-02-06T11:22:36Z" changeset="132153102" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Ely"/>
@@ -1251,11 +1254,12 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wheelchair:description" v="one downstairs treatment room, you need to inform them when making an appointment you need to have the downstairs tretment room."/>
   </node>
-  <node id="2560003723" lat="52.3999069" lon="0.2641372" version="3" timestamp="2023-02-06T14:08:42Z" changeset="132159499" uid="84263" user="Robert Whittaker">
+  <node id="2560003723" lat="52.3999069" lon="0.2641372" version="4" timestamp="2025-02-18T11:19:52Z" changeset="162656343" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:postcode" v="CB7 4LN"/>
     <tag k="addr:street" v="Chequer Lane"/>
     <tag k="amenity" v="social_facility"/>
+    <tag k="check_date" v="2025-02-18"/>
     <tag k="name" v="Chequer Studio"/>
     <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
   </node>
@@ -1517,7 +1521,7 @@
     <tag k="website" v="https://www.starbucks.com/store-locator/store/1014336/ely-the-cloisters-3-a-the-cloisters-ely-eng-cb-7-4-zh-gb"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2560191693" lat="52.3997878" lon="0.2666137" version="11" timestamp="2024-06-15T11:47:43Z" changeset="152717477" uid="84263" user="Robert Whittaker">
+  <node id="2560191693" lat="52.3996281" lon="0.2666564" version="12" timestamp="2025-02-17T17:28:51Z" changeset="162624490" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="CB7 4ZH"/>
@@ -1546,17 +1550,13 @@
     <tag k="website" v="https://www.maxphoto.co.uk/photo-store-locator/ely-market-place"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2560197314" lat="52.3993863" lon="0.2666533" version="9" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+  <node id="2560197314" lat="52.3993863" lon="0.2666533" version="10" timestamp="2025-02-17T17:24:10Z" changeset="162624490" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="CB7 4NP"/>
     <tag k="addr:street" v="Market Place"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/lemontreedelicafe/"/>
-    <tag k="fhrs:id" v="931598"/>
-    <tag k="name" v="Lemon Tree Deli Cafe"/>
+    <tag k="disused:amenity" v="cafe"/>
     <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2560244130" lat="52.3990832" lon="0.2659988" version="6" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
     <tag k="addr:city" v="Ely"/>
@@ -1607,6 +1607,16 @@
     <tag k="fhrs:id" v="960926"/>
     <tag k="name" v="Riverside Bar &amp; Kitchen"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3863658158" lat="52.3909355" lon="0.2665282" version="4" timestamp="2025-01-30T21:12:03Z" changeset="161955274" uid="7666952" user="phodgkin">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4BS"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="fhrs:id" v="336099"/>
+    <tag k="name" v="Locoespresso"/>
+    <tag k="opening_hours" v="Mo-Th 05:15-19:00; Fr,Sa 05:15-20:00; Su 08:00-18:00"/>
+    <tag k="shop" v="newsagent"/>
   </node>
   <node id="4382373286" lat="52.3992833" lon="0.2651566" version="8" timestamp="2024-01-23T18:17:30Z" changeset="146603456" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Ely"/>
@@ -1831,6 +1841,28 @@
     <tag k="source:addr" v="FHRS Open Data"/>
     <tag k="website" v="https://www.nandos.co.uk/restaurants/ely"/>
   </node>
+  <node id="7997380056" lat="52.4051673" lon="0.2670638" version="3" timestamp="2025-02-18T20:33:16Z" changeset="162676410" uid="6647145" user="Flic">
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:postcode" v="CB6 1DE"/>
+    <tag k="addr:street" v="Lynn Road"/>
+  </node>
+  <node id="7997380067" lat="52.4050374" lon="0.2669750" version="3" timestamp="2025-02-18T20:33:11Z" changeset="162676410" uid="6647145" user="Flic">
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:postcode" v="CB6 1DE"/>
+    <tag k="addr:street" v="Lynn Road"/>
+  </node>
+  <node id="8007418352" lat="52.4018374" lon="0.2634310" version="2" timestamp="2025-02-18T21:10:38Z" changeset="162676410" uid="6647145" user="Flic">
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Lynn Road"/>
+  </node>
+  <node id="8007418354" lat="52.4018687" lon="0.2634556" version="2" timestamp="2025-02-18T21:10:31Z" changeset="162676410" uid="6647145" user="Flic">
+    <tag k="addr:housenumber" v="49A"/>
+    <tag k="addr:street" v="Lynn Road"/>
+  </node>
+  <node id="8007418355" lat="52.4019106" lon="0.2634988" version="2" timestamp="2025-02-18T21:10:48Z" changeset="162676410" uid="6647145" user="Flic">
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Lynn Road"/>
+  </node>
   <node id="8016211544" lat="52.4013413" lon="0.2676818" version="2" timestamp="2024-07-12T08:09:20Z" changeset="153843474" uid="20378261" user="Oppy Enson">
     <tag k="addr:housenumber" v="79"/>
     <tag k="addr:street" v="Newnham Street"/>
@@ -1917,7 +1949,7 @@
     <tag k="addr:postcode" v="CB7 4DD"/>
     <tag k="addr:street" v="Kings Row"/>
   </node>
-  <node id="8795907362" lat="52.3994998" lon="0.2648867" version="4" timestamp="2023-02-06T09:12:08Z" changeset="132148064" uid="84263" user="Robert Whittaker">
+  <node id="8795907362" lat="52.3994998" lon="0.2648867" version="5" timestamp="2025-02-18T10:20:32Z" changeset="162653208" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="CB7 4NB"/>
@@ -1926,6 +1958,7 @@
     <tag k="cuisine" v="japanese"/>
     <tag k="fhrs:id" v="1276735"/>
     <tag k="name" v="Sushi &amp; Salad"/>
+    <tag k="opening_hours" v="Tu-Th 12:00-21:00; Fr,Sa 12:00-22:00; Su 12:00-17:00"/>
     <tag k="source:addr" v="FHRS Open Data"/>
     <tag k="website" v="https://www.sushiandsalad.com/"/>
   </node>
@@ -1978,19 +2011,12 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.theladz.co.uk/"/>
   </node>
-  <node id="8811595979" lat="52.3996483" lon="0.2629919" version="7" timestamp="2024-01-19T12:40:50Z" changeset="146442450" uid="20378261" user="Oppy Enson">
+  <node id="8811595979" lat="52.3996483" lon="0.2629919" version="8" timestamp="2025-02-17T17:49:08Z" changeset="162624490" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="CB7 4LJ"/>
     <tag k="addr:street" v="High Street"/>
-    <tag k="brand:wikidata" v="Q67201363"/>
-    <tag k="check_date" v="2024-01-19"/>
-    <tag k="name" v="Hughes"/>
-    <tag k="opening_hours" v="Mo-Sa 09:00-17:30; Su off"/>
-    <tag k="shop" v="electrical"/>
-    <tag k="website" v="https://www.hughes.co.uk/store-page/ely"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wheelchair:description" v="easy wide wheelchair space"/>
+    <tag k="disused:shop" v="electrical"/>
   </node>
   <node id="8811595980" lat="52.3996409" lon="0.2630831" version="5" timestamp="2023-12-08T12:58:11Z" changeset="144902557" uid="20378261" user="Oppy Enson">
     <tag k="addr:city" v="Ely"/>
@@ -2063,12 +2089,13 @@
     <tag k="disused:amenity" v="pharmacy"/>
     <tag k="old_name" v="St Mary's Pharmacy"/>
   </node>
-  <node id="8811707609" lat="52.3963884" lon="0.2670852" version="3" timestamp="2022-06-04T13:06:33Z" changeset="121938460" uid="1868422" user="falcon2">
+  <node id="8811707609" lat="52.3963884" lon="0.2670852" version="4" timestamp="2025-01-31T09:37:38Z" changeset="161969878" uid="1624486" user="thetornado76">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:postcode" v="CB7 4AH"/>
     <tag k="addr:street" v="Broad Street"/>
-    <tag k="healthcare" v="osteopath"/>
+    <tag k="healthcare" v="alternative"/>
+    <tag k="healthcare:speciality" v="osteopathy"/>
     <tag k="name" v="Stockley Osteopaths"/>
     <tag k="website" v="https://stockleyosteopaths.com/"/>
   </node>
@@ -2098,12 +2125,13 @@
     <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
     <tag k="website" v="https://www.dreamdoors.co.uk/kitchen-showrooms/cambridge"/>
   </node>
-  <node id="8811757932" lat="52.3992334" lon="0.2644095" version="4" timestamp="2023-01-18T22:51:35Z" changeset="131440611" uid="84263" user="Robert Whittaker">
+  <node id="8811757932" lat="52.3992334" lon="0.2644095" version="5" timestamp="2025-02-18T10:28:08Z" changeset="162653208" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="28b"/>
     <tag k="addr:postcode" v="CB7 4JU"/>
     <tag k="addr:street" v="High Street"/>
     <tag k="name" v="The Eel Catcher's Daughter"/>
+    <tag k="opening_hours" v="Mo-Sa 09:30-17:00; Su 10:30-15:30"/>
     <tag k="shop" v="gift"/>
     <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
     <tag k="website" v="https://www.eelcatchersdaughter.co.uk/"/>
@@ -2147,6 +2175,14 @@
     <tag k="name" v="Fencabs"/>
     <tag k="office" v="taxi"/>
     <tag k="website" v="https://www.fencabs.co.uk/"/>
+  </node>
+  <node id="8821095865" lat="52.3994118" lon="0.2643646" version="8" timestamp="2025-02-18T11:02:47Z" changeset="162653260" uid="6647145" user="Flic">
+    <tag k="addr:city" v="Ely"/>
+    <tag k="addr:postcode" v="CB7 4LQ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="name" v="Fone World"/>
+    <tag k="shop" v="mobile_phone"/>
+    <tag k="source:addr:postcode" v="code-point_open"/>
   </node>
   <node id="8821095868" lat="52.3994188" lon="0.2643002" version="3" timestamp="2023-01-17T15:32:04Z" changeset="131386524" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Ely"/>
@@ -2196,25 +2232,19 @@
     <tag k="old_name" v="Robert Hutchinson"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="8823524201" lat="52.3999625" lon="0.2647072" version="3" timestamp="2023-01-11T19:52:18Z" changeset="131160112" uid="84263" user="Robert Whittaker">
+  <node id="8823524201" lat="52.3999625" lon="0.2647072" version="4" timestamp="2025-02-18T22:09:00Z" changeset="162679062" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="23b"/>
     <tag k="addr:postcode" v="CB7 4LZ"/>
     <tag k="addr:street" v="Market Street"/>
-    <tag k="name" v="Jensen's"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.jensensely.co.uk/"/>
+    <tag k="amenity" v="cafe"/>
   </node>
-  <node id="8824592265" lat="52.3982310" lon="0.2680553" version="5" timestamp="2023-06-20T13:39:54Z" changeset="137564900" uid="12507004" user="Linfindel">
+  <node id="8824592265" lat="52.3982310" lon="0.2680553" version="6" timestamp="2025-02-18T22:15:49Z" changeset="162679062" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:postcode" v="CB7 4AA"/>
     <tag k="addr:street" v="Fore Hill"/>
-    <tag k="brand" v="Spar"/>
-    <tag k="name" v="Spa Ely"/>
-    <tag k="not:brand:wikidata" v="Q610492"/>
-    <tag k="shop" v="beauty"/>
-    <tag k="website" v="https://spa-ely.co.uk/"/>
+    <tag k="disused:shop" v="beauty"/>
   </node>
   <node id="8824592270" lat="52.3986749" lon="0.2670716" version="5" timestamp="2023-02-06T11:19:52Z" changeset="132153012" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Ely"/>
@@ -2319,12 +2349,12 @@
     <tag k="source:addr:postcode" v="ons_uprn_lookup"/>
     <tag k="website" v="https://www.pricebailey.co.uk/locations/ely/"/>
   </node>
-  <node id="8824592289" lat="52.3995296" lon="0.2626687" version="5" timestamp="2023-12-08T12:58:11Z" changeset="144902557" uid="20378261" user="Oppy Enson">
+  <node id="8824592289" lat="52.3995296" lon="0.2626687" version="6" timestamp="2025-02-16T22:30:42Z" changeset="162589485" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="CB7 4JU"/>
     <tag k="addr:street" v="High Street"/>
-    <tag k="check_date" v="2023-12-08"/>
+    <tag k="check_date" v="2025-02-16"/>
     <tag k="disused:shop" v="clothes"/>
     <tag k="facebook" v="https://www.facebook.com/littleroosely/"/>
     <tag k="name" v="Little Roos"/>
@@ -2556,7 +2586,7 @@
     <tag k="source:addr" v="pol_branch_list_2020‑11‑13"/>
     <tag k="website" v="https://www.postoffice.co.uk/branch-finder/0091138/ely"/>
   </node>
-  <node id="10565972321" lat="52.3997121" lon="0.2628458" version="3" timestamp="2024-01-19T12:40:50Z" changeset="146442450" uid="20378261" user="Oppy Enson">
+  <node id="10565972321" lat="52.3997121" lon="0.2628458" version="5" timestamp="2025-02-16T22:32:11Z" changeset="162589485" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="CB7 4LJ"/>
@@ -2589,23 +2619,25 @@
     <tag k="office" v="employment_agency"/>
     <tag k="source:addr:postcode" v="code-point_open"/>
   </node>
-  <node id="10608615403" lat="52.3996152" lon="0.2648352" version="4" timestamp="2023-04-18T19:14:00Z" changeset="135073672" uid="6816132" user="CjMalone">
+  <node id="10608615403" lat="52.3996152" lon="0.2648352" version="5" timestamp="2025-02-18T10:32:49Z" changeset="162653208" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="CB7 4NB"/>
     <tag k="addr:street" v="High Street Passage"/>
     <tag k="contact:facebook" v="https://www.facebook.com/thetreasurechestely"/>
     <tag k="name" v="The Treasure Chest"/>
+    <tag k="opening_hours" v="Mo-Sa 09:30-17:00"/>
     <tag k="shop" v="gift"/>
     <tag k="source:addr:postcode" v="code-point_open"/>
   </node>
-  <node id="10608615404" lat="52.3996354" lon="0.2649821" version="3" timestamp="2023-02-06T09:10:09Z" changeset="132148000" uid="84263" user="Robert Whittaker">
+  <node id="10608615404" lat="52.3996354" lon="0.2649821" version="4" timestamp="2025-02-18T10:21:40Z" changeset="162653208" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="CB7 4NB"/>
     <tag k="addr:street" v="High Street Passage"/>
     <tag k="fhrs:id" v="336137"/>
     <tag k="name" v="Boswell and Son"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:00; Sa 19:30-14:00"/>
     <tag k="shop" v="bakery"/>
     <tag k="website" v="https://boswellandson.co.uk/"/>
   </node>
@@ -2639,17 +2671,12 @@
     <tag k="office" v="accountant"/>
     <tag k="website" v="https://www.lovewell-blake.co.uk/contact/offices/ely-office"/>
   </node>
-  <node id="10609075855" lat="52.4004016" lon="0.2636227" version="3" timestamp="2023-02-06T09:10:09Z" changeset="132148000" uid="84263" user="Robert Whittaker">
+  <node id="10609075855" lat="52.4004016" lon="0.2636227" version="4" timestamp="2025-02-16T22:37:37Z" changeset="162589664" uid="6647145" user="Flic">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="68"/>
     <tag k="addr:postcode" v="CB7 4LS"/>
     <tag k="addr:street" v="Market Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="jamaican"/>
-    <tag k="fhrs:id" v="1381884"/>
-    <tag k="name" v="Dutchie &amp; Grill"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://www.dutchieandgrill.co.uk/"/>
+    <tag k="disused:amenity" v="restaurant"/>
   </node>
   <node id="10609075856" lat="52.4002548" lon="0.2631864" version="2" timestamp="2023-02-06T14:05:42Z" changeset="132159384" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Ely"/>
@@ -2771,13 +2798,15 @@
     <tag k="old_name" v="Ben's Yard Restaurant"/>
     <tag k="website" v="https://www.bensyard.co.uk/amelierestaurant"/>
   </node>
-  <node id="11211163385" lat="52.3736683" lon="0.2918838" version="3" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
+  <node id="11211163385" lat="52.3736683" lon="0.2918838" version="4" timestamp="2025-02-01T21:31:09Z" changeset="162026737" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="Unit 3"/>
     <tag k="addr:postcode" v="CB7 5TR"/>
     <tag k="addr:street" v="Bens Yard"/>
+    <tag k="alt_name" v="The Farm Shop at Bens Yard"/>
+    <tag k="name" v="The Farm Shop"/>
     <tag k="old_name" v="Malloy's Craft Butchery"/>
-    <tag k="shop" v="vacant"/>
+    <tag k="shop" v="farm"/>
   </node>
   <node id="11211163390" lat="52.3736609" lon="0.2924953" version="3" timestamp="2024-07-07T14:27:21Z" changeset="153664537" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Ely"/>
@@ -3490,6 +3519,51 @@
     <tag k="name" v="Junior School"/>
     <tag k="nohousenumber" v="yes"/>
   </way>
+  <way id="221608228" version="5" timestamp="2025-02-18T23:13:04Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2306416335"/>
+    <nd ref="2306416365"/>
+    <nd ref="2306416329"/>
+    <nd ref="2306416270"/>
+    <nd ref="2306416364"/>
+    <nd ref="2306416366"/>
+    <nd ref="2306416368"/>
+    <nd ref="2306416322"/>
+    <nd ref="2306416283"/>
+    <nd ref="2306416267"/>
+    <nd ref="2306416295"/>
+    <nd ref="2306416335"/>
+    <tag k="addr:housename" v="The Coach House"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB7 4JH"/>
+    <tag k="addr:street" v="Chantry Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="221608232" version="6" timestamp="2025-02-18T23:32:56Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2306416275"/>
+    <nd ref="2306416313"/>
+    <nd ref="2306416320"/>
+    <nd ref="2531232930"/>
+    <nd ref="2306416282"/>
+    <nd ref="2306416275"/>
+    <tag k="addr:housename" v="Palace Green Cottage"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="building" v="detached"/>
+    <tag k="wikidata" v="Q26616585"/>
+  </way>
+  <way id="221608233" version="5" timestamp="2025-02-18T23:07:15Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2306416281"/>
+    <nd ref="2306416329"/>
+    <nd ref="2306416365"/>
+    <nd ref="2306416296"/>
+    <nd ref="2306416286"/>
+    <nd ref="2306416281"/>
+    <tag k="addr:housename" v="Cathedral Mews House"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="CB7 4ER"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="221608236" version="9" timestamp="2024-01-19T12:40:50Z" changeset="146442450" uid="20378261" user="Oppy Enson">
     <nd ref="2306416288"/>
     <nd ref="2306416284"/>
@@ -3519,7 +3593,7 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q26461482"/>
   </way>
-  <way id="221608237" version="4" timestamp="2023-01-11T17:04:16Z" changeset="131154899" uid="84263" user="Robert Whittaker">
+  <way id="221608237" version="5" timestamp="2025-02-18T22:04:43Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="8818018123"/>
     <nd ref="8818018122"/>
     <nd ref="8818018121"/>
@@ -3531,7 +3605,46 @@
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="St Mary's Street"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="221608239" version="4" timestamp="2025-02-18T23:09:39Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2306416276"/>
+    <nd ref="2306416362"/>
+    <nd ref="2306416311"/>
+    <nd ref="2306416264"/>
+    <nd ref="2306416272"/>
+    <nd ref="2306416296"/>
+    <nd ref="2306416286"/>
+    <nd ref="2306416271"/>
+    <nd ref="2306416276"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="221608245" version="6" timestamp="2025-02-18T22:58:51Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2306416358"/>
+    <nd ref="2306416321"/>
+    <nd ref="2306416357"/>
+    <nd ref="2306416338"/>
+    <nd ref="2531232928"/>
+    <nd ref="2531232926"/>
+    <nd ref="2306416356"/>
+    <nd ref="2306416358"/>
+    <tag k="addr:housename" v="The Chantry"/>
+    <tag k="addr:street" v="Palace Green"/>
+    <tag k="building" v="detached"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="name" v="The Chantry"/>
+  </way>
+  <way id="221608246" version="4" timestamp="2025-02-18T23:04:52Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2306416318"/>
+    <nd ref="2306416341"/>
+    <nd ref="2306416342"/>
+    <nd ref="2306416303"/>
+    <nd ref="2306416318"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="St Mary's Street"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="221627820" version="5" timestamp="2021-06-11T13:11:29Z" changeset="106216609" uid="84263" user="Robert Whittaker">
     <nd ref="2306600357"/>
@@ -3754,6 +3867,18 @@
     <tag k="building" v="yes"/>
     <tag k="wikidata" v="Q26419464"/>
   </way>
+  <way id="221878288" version="7" timestamp="2025-02-18T11:04:11Z" changeset="162655775" uid="6647145" user="Flic">
+    <nd ref="2308624127"/>
+    <nd ref="2308623972"/>
+    <nd ref="2308623569"/>
+    <nd ref="2308623699"/>
+    <nd ref="2308624255"/>
+    <nd ref="2308623500"/>
+    <nd ref="2308624127"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="retail"/>
+  </way>
   <way id="221878290" version="6" timestamp="2024-07-07T19:12:46Z" changeset="153675356" uid="116410" user="Leonardozwei">
     <nd ref="2308623676"/>
     <nd ref="2308623707"/>
@@ -3767,7 +3892,7 @@
     <tag k="building" v="yes"/>
     <tag k="note" v="shop has merged with the pub"/>
   </way>
-  <way id="221878294" version="3" timestamp="2018-12-03T17:55:31Z" changeset="65133697" uid="242345" user="confusedbuffalo">
+  <way id="221878294" version="5" timestamp="2025-02-18T10:22:54Z" changeset="162654216" uid="6647145" user="Flic">
     <nd ref="2308624241"/>
     <nd ref="2525192989"/>
     <nd ref="2308623765"/>
@@ -3793,8 +3918,10 @@
     <tag k="addr:street" v="Market Street"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="City Cycle Centre"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:30; Sa 08:45-17:30"/>
     <tag k="phone" v="+44 1353 663131"/>
     <tag k="shop" v="department_store"/>
+    <tag k="toilets" v="no"/>
     <tag k="website" v="http://www.citycyclecentre.com/"/>
     <tag k="wheelchair" v="limited"/>
   </way>
@@ -4049,7 +4176,7 @@
     <tag k="building" v="yes"/>
     <tag k="wikidata" v="Q26461434"/>
   </way>
-  <way id="222308207" version="4" timestamp="2022-06-04T13:05:03Z" changeset="121938419" uid="1868422" user="falcon2">
+  <way id="222308207" version="5" timestamp="2025-02-18T21:52:42Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="2312886249"/>
     <nd ref="2312886080"/>
     <nd ref="2312886072"/>
@@ -4061,11 +4188,11 @@
     <tag k="addr:housenumber" v="38a"/>
     <tag k="addr:postcode" v="CB7 4ES"/>
     <tag k="addr:street" v="St Mary's Street"/>
-    <tag k="building" v="commercial"/>
+    <tag k="building" v="house"/>
     <tag k="name" v="Angela Mellor Gallery"/>
     <tag k="website" v="http://angelamellor.com/"/>
   </way>
-  <way id="222308215" version="4" timestamp="2022-04-05T06:48:27Z" changeset="119328704" uid="364" user="Edward">
+  <way id="222308215" version="5" timestamp="2025-02-18T12:59:09Z" changeset="162659984" uid="6647145" user="Flic">
     <nd ref="2312886201"/>
     <nd ref="8821436038"/>
     <nd ref="2312886145"/>
@@ -4093,6 +4220,7 @@
     <tag k="addr:postcode" v="CB7 4EY"/>
     <tag k="addr:street" v="St Mary's Street"/>
     <tag k="building" v="yes"/>
+    <tag k="check_date" v="2025-02-18"/>
     <tag k="fhrs:id" v="922029"/>
     <tag k="name" v="Poets House"/>
     <tag k="source:addr" v="FHRS Open Data"/>
@@ -4191,6 +4319,18 @@
     <tag k="addr:street" v="Silver Street"/>
     <tag k="building" v="detached"/>
   </way>
+  <way id="222323416" version="4" timestamp="2025-02-18T23:40:08Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2313008024"/>
+    <nd ref="2313007933"/>
+    <nd ref="2313007850"/>
+    <nd ref="2313007925"/>
+    <nd ref="2313007833"/>
+    <nd ref="2313008016"/>
+    <nd ref="2313008024"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="222323429" version="4" timestamp="2023-11-24T08:35:36Z" changeset="144397468" uid="20378261" user="Oppy Enson">
     <nd ref="2313008014"/>
     <nd ref="2313007909"/>
@@ -4217,6 +4357,16 @@
     <tag k="addr:street" v="Cromwell Road"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="222323443" version="4" timestamp="2025-02-18T23:38:37Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2313008012"/>
+    <nd ref="2313007904"/>
+    <nd ref="2313007914"/>
+    <nd ref="2313007816"/>
+    <nd ref="2313008012"/>
+    <tag k="addr:housenumber" v="6,6a"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="building" v="semidetached_house"/>
+  </way>
   <way id="222323447" version="5" timestamp="2023-10-08T10:51:58Z" changeset="142299167" uid="20378261" user="Oppy Enson">
     <nd ref="8038303699"/>
     <nd ref="2313007998"/>
@@ -4232,6 +4382,27 @@
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:street" v="St Mary's Street"/>
     <tag k="building" v="semidetached_house"/>
+  </way>
+  <way id="222323449" version="4" timestamp="2025-02-18T23:40:13Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2313007926"/>
+    <nd ref="2313007905"/>
+    <nd ref="2313007908"/>
+    <nd ref="2313007988"/>
+    <nd ref="2313007926"/>
+    <tag k="addr:housenumber" v="2A"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="222323453" version="4" timestamp="2025-02-18T23:40:27Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2313007841"/>
+    <nd ref="2313007810"/>
+    <nd ref="2313007917"/>
+    <nd ref="2313007933"/>
+    <nd ref="2313008024"/>
+    <nd ref="2313007841"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="222323457" version="9" timestamp="2024-10-18T10:26:18Z" changeset="158043900" uid="20378261" user="Oppy Enson">
     <nd ref="2313007834"/>
@@ -4249,7 +4420,7 @@
     <tag k="opening_hours" v="Mo-Fr 08:30-19:00"/>
     <tag k="website" v="https://petdoctors.co.uk/our-practices/ely/"/>
   </way>
-  <way id="222323461" version="3" timestamp="2023-01-11T17:04:16Z" changeset="131154899" uid="84263" user="Robert Whittaker">
+  <way id="222323461" version="4" timestamp="2025-02-16T22:34:46Z" changeset="162589597" uid="6647145" user="Flic">
     <nd ref="2313007876"/>
     <nd ref="2313007849"/>
     <nd ref="2313007989"/>
@@ -4262,9 +4433,21 @@
     <tag k="addr:housenumber" v="29a"/>
     <tag k="addr:street" v="St Mary's Street"/>
     <tag k="building" v="yes"/>
+    <tag k="check_date" v="2025-02-16"/>
     <tag k="healthcare" v="complementary"/>
     <tag k="name" v="Ely Complementary Health Care"/>
     <tag k="phone" v="+44 1353 664476"/>
+  </way>
+  <way id="222323471" version="5" timestamp="2025-02-18T23:37:56Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2313007997"/>
+    <nd ref="2313008028"/>
+    <nd ref="2313008031"/>
+    <nd ref="2313007838"/>
+    <nd ref="2313007997"/>
+    <tag k="addr:housenumber" v="12,14"/>
+    <tag k="addr:postcode" v="CB7 4JG"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="building" v="semidetached_house"/>
   </way>
   <way id="223913082" version="11" timestamp="2024-12-22T17:27:58Z" changeset="160509792" uid="21984098" user="JNygaard">
     <nd ref="2327572873"/>
@@ -9225,7 +9408,7 @@
     <tag k="addr:street" v="Potters Lane"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="236287874" version="9" timestamp="2024-08-27T12:55:16Z" changeset="155830795" uid="84263" user="Robert Whittaker">
+  <way id="236287874" version="10" timestamp="2025-02-18T14:35:21Z" changeset="162663920" uid="6647145" user="Flic">
     <nd ref="2306600622"/>
     <nd ref="717516814"/>
     <nd ref="2306600627"/>
@@ -9240,10 +9423,7 @@
     <tag k="addr:postcode" v="CB7 4EL"/>
     <tag k="addr:street" v="Minster Place"/>
     <tag k="building" v="yes"/>
-    <tag k="check_date" v="2023-02-05"/>
-    <tag k="disused:shop" v="clothes"/>
-    <tag k="old_name" v="Edinburgh Woollen Mill"/>
-    <tag k="wheelchair" v="limited"/>
+    <tag k="shop" v="kitchen"/>
   </way>
   <way id="236290247" version="6" timestamp="2025-01-16T13:28:12Z" changeset="161419275" uid="84263" user="Robert Whittaker">
     <nd ref="717516920"/>
@@ -9266,6 +9446,126 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://www.bonmarche.co.uk/storelanding?storename=ely"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="236320179" version="4" timestamp="2025-02-18T23:56:37Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2443577054"/>
+    <nd ref="2443577055"/>
+    <nd ref="2443577057"/>
+    <nd ref="2443577058"/>
+    <nd ref="2443577054"/>
+    <tag k="addr:housenumber" v="15B"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="building" v="detached"/>
+  </way>
+  <way id="236320182" version="4" timestamp="2025-02-18T23:56:31Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2443577071"/>
+    <nd ref="2443577073"/>
+    <nd ref="2443577074"/>
+    <nd ref="2443577076"/>
+    <nd ref="2443577071"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="building" v="detached"/>
+  </way>
+  <way id="236320184" version="4" timestamp="2025-02-18T23:58:31Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2443577083"/>
+    <nd ref="2443577085"/>
+    <nd ref="2443577086"/>
+    <nd ref="2443577087"/>
+    <nd ref="2443577089"/>
+    <nd ref="2443577090"/>
+    <nd ref="2443577091"/>
+    <nd ref="2443577092"/>
+    <nd ref="2443577094"/>
+    <nd ref="2443577095"/>
+    <nd ref="2443577101"/>
+    <nd ref="2443577102"/>
+    <nd ref="2443577103"/>
+    <nd ref="2443577104"/>
+    <nd ref="2443577083"/>
+    <tag k="addr:housenumber" v="19-25"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="244851232" version="7" timestamp="2025-02-18T23:41:31Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2521211666"/>
+    <nd ref="10896288768"/>
+    <nd ref="2521211668"/>
+    <nd ref="2521211670"/>
+    <nd ref="2521211672"/>
+    <nd ref="2521211674"/>
+    <nd ref="2521211678"/>
+    <nd ref="2521211676"/>
+    <nd ref="2521211666"/>
+    <tag k="addr:housenumber" v="1,3"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="building" v="semidetached_house"/>
+  </way>
+  <way id="244851234" version="4" timestamp="2025-02-18T23:46:36Z" changeset="162676524" uid="6647145" user="Flic">
+    <nd ref="2521211678"/>
+    <nd ref="2521211680"/>
+    <nd ref="2521211682"/>
+    <nd ref="2521211684"/>
+    <nd ref="2521211686"/>
+    <nd ref="2521211688"/>
+    <nd ref="2521211694"/>
+    <nd ref="2521211690"/>
+    <nd ref="2521211692"/>
+    <nd ref="2521211676"/>
+    <nd ref="2521211678"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="244851236" version="5" timestamp="2025-02-18T23:52:14Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2521211694"/>
+    <nd ref="2521211696"/>
+    <nd ref="2521211698"/>
+    <nd ref="2521211700"/>
+    <nd ref="2521211701"/>
+    <nd ref="2521211703"/>
+    <nd ref="2521211704"/>
+    <nd ref="2521211705"/>
+    <nd ref="2521211690"/>
+    <nd ref="2521211694"/>
+    <tag k="addr:housenumber" v="36-44"/>
+    <tag k="addr:postcode" v="CB7 4JF"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="244851237" version="4" timestamp="2025-02-18T23:52:49Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2521211703"/>
+    <nd ref="2521211706"/>
+    <nd ref="2521211707"/>
+    <nd ref="2521211709"/>
+    <nd ref="2521211711"/>
+    <nd ref="2521211713"/>
+    <nd ref="2521211714"/>
+    <nd ref="2521211704"/>
+    <nd ref="2521211703"/>
+    <tag k="addr:housenumber" v="30-34"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="building" v="terrace"/>
+  </way>
+  <way id="244851240" version="3" timestamp="2025-02-17T11:28:31Z" changeset="162607251" uid="6647145" user="Flic">
+    <nd ref="2521211732"/>
+    <nd ref="2521211734"/>
+    <nd ref="2521211736"/>
+    <nd ref="2521211737"/>
+    <nd ref="2521211732"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="244851241" version="3" timestamp="2025-02-17T11:29:21Z" changeset="162607251" uid="6647145" user="Flic">
+    <nd ref="2521211738"/>
+    <nd ref="2521211739"/>
+    <nd ref="2521211740"/>
+    <nd ref="2521211741"/>
+    <nd ref="2521211738"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="245223858" version="14" timestamp="2024-07-09T10:56:12Z" changeset="153739242" uid="616774" user="mueschel">
     <nd ref="2308623735"/>
@@ -9393,6 +9693,79 @@
     <tag k="name" v="Labas"/>
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="246017302" version="4" timestamp="2025-02-19T00:14:10Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2531045233"/>
+    <nd ref="2531045234"/>
+    <nd ref="2531045235"/>
+    <nd ref="2531045236"/>
+    <nd ref="2531045237"/>
+    <nd ref="2531045238"/>
+    <nd ref="2531045239"/>
+    <nd ref="2531045240"/>
+    <nd ref="2531045241"/>
+    <nd ref="2531045242"/>
+    <nd ref="2531045233"/>
+    <tag k="addr:housenumber" v="2,4"/>
+    <tag k="addr:street" v="Barton Road"/>
+    <tag k="building" v="semidetached_house"/>
+  </way>
+  <way id="246017304" version="4" timestamp="2025-02-19T00:20:23Z" changeset="162676524" uid="6647145" user="Flic">
+    <nd ref="2531045251"/>
+    <nd ref="2531045252"/>
+    <nd ref="2531045253"/>
+    <nd ref="2531045254"/>
+    <nd ref="2531045251"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Barton Road"/>
+    <tag k="building" v="detached"/>
+  </way>
+  <way id="246017305" version="7" timestamp="2025-02-19T00:20:27Z" changeset="162676524" uid="6647145" user="Flic">
+    <nd ref="2531045255"/>
+    <nd ref="3029556043"/>
+    <nd ref="3029556042"/>
+    <nd ref="3029556041"/>
+    <nd ref="3029556040"/>
+    <nd ref="2531045256"/>
+    <nd ref="2531045257"/>
+    <nd ref="2531045258"/>
+    <nd ref="2531045259"/>
+    <nd ref="2531045260"/>
+    <nd ref="2531045255"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Barton Road"/>
+    <tag k="building" v="detached"/>
+  </way>
+  <way id="246017307" version="10" timestamp="2025-02-19T00:18:42Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2531045269"/>
+    <nd ref="2531045270"/>
+    <nd ref="2531045272"/>
+    <nd ref="2531045273"/>
+    <nd ref="2531045274"/>
+    <nd ref="2531045275"/>
+    <nd ref="2531045276"/>
+    <nd ref="2531045277"/>
+    <nd ref="2531045269"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="CB7 4DE"/>
+    <tag k="addr:street" v="Barton Road"/>
+    <tag k="building" v="detached"/>
+  </way>
+  <way id="246017308" version="5" timestamp="2025-02-19T00:18:32Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="2531045278"/>
+    <nd ref="2531045279"/>
+    <nd ref="2531045280"/>
+    <nd ref="2531045281"/>
+    <nd ref="2531045282"/>
+    <nd ref="2531045283"/>
+    <nd ref="2531045284"/>
+    <nd ref="2531045285"/>
+    <nd ref="2531045286"/>
+    <nd ref="2531045287"/>
+    <nd ref="2531045278"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Barton Road"/>
+    <tag k="building" v="detached"/>
   </way>
   <way id="248088123" version="2" timestamp="2019-03-08T00:05:28Z" changeset="67904672" uid="84263" user="Robert Whittaker">
     <nd ref="2549310476"/>
@@ -9833,6 +10206,20 @@
     <tag k="addr:street" v="Back Hill"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="299023891" version="4" timestamp="2025-02-19T00:14:06Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="3029555732"/>
+    <nd ref="3029556033"/>
+    <nd ref="3029556034"/>
+    <nd ref="3029556035"/>
+    <nd ref="3029556036"/>
+    <nd ref="3029556037"/>
+    <nd ref="3029556038"/>
+    <nd ref="3029556039"/>
+    <nd ref="3029555732"/>
+    <tag k="addr:housenumber" v="6,8"/>
+    <tag k="addr:street" v="Barton Road"/>
+    <tag k="building" v="semidetached_house"/>
+  </way>
   <way id="299023893" version="3" timestamp="2024-10-18T10:24:25Z" changeset="158043238" uid="20378261" user="Oppy Enson">
     <nd ref="3029556053"/>
     <nd ref="3029556054"/>
@@ -10058,7 +10445,7 @@
     <tag k="addr:street" v="West Fen Road"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="354099768" version="5" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="354099768" version="6" timestamp="2025-02-18T22:16:15Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="3598776324"/>
     <nd ref="3598776336"/>
     <nd ref="3598776318"/>
@@ -10067,7 +10454,7 @@
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Fore Hill"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="apartments"/>
     <tag k="building:levels" v="3"/>
   </way>
   <way id="489584003" version="2" timestamp="2022-03-02T18:31:48Z" changeset="118029716" uid="14387773" user="arienne">
@@ -11296,7 +11683,7 @@
     <tag k="addr:street" v="Bohemond Street"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="489605860" version="2" timestamp="2021-05-03T11:09:28Z" changeset="104051040" uid="281267" user="smb1001">
+  <way id="489605860" version="3" timestamp="2025-02-18T15:13:24Z" changeset="162665222" uid="6647145" user="Flic">
     <nd ref="4818341703"/>
     <nd ref="4818341710"/>
     <nd ref="4818341624"/>
@@ -11311,7 +11698,7 @@
     <nd ref="4818341703"/>
     <tag k="addr:postcode" v="CB7 4EE"/>
     <tag k="addr:street" v="Nutholt Lane"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="government"/>
     <tag k="name" v="East Cambridgeshire District Council"/>
   </way>
   <way id="489605863" version="3" timestamp="2021-01-28T20:39:17Z" changeset="98319200" uid="5925545" user="yak23">
@@ -12214,7 +12601,7 @@
     <tag k="addr:street" v="St Johns Road"/>
     <tag k="building" v="detached"/>
   </way>
-  <way id="492126969" version="3" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="492126969" version="4" timestamp="2025-02-18T21:42:39Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="4841747687"/>
     <nd ref="4841748004"/>
     <nd ref="4841747969"/>
@@ -12223,7 +12610,7 @@
     <tag k="addr:housenumber" v="36B-E"/>
     <tag k="addr:postcode" v="CB6 3BB"/>
     <tag k="addr:street" v="St Johns Road"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="terrace"/>
   </way>
   <way id="492126971" version="3" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
     <nd ref="4841747782"/>
@@ -12249,6 +12636,17 @@
     <tag k="addr:housenumber" v="2B"/>
     <tag k="addr:street" v="Hills Lane"/>
     <tag k="building" v="bungalow"/>
+  </way>
+  <way id="492130484" version="5" timestamp="2025-02-18T22:38:19Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="4841777910"/>
+    <nd ref="4841778019"/>
+    <nd ref="4841778559"/>
+    <nd ref="4841778052"/>
+    <nd ref="4841777910"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB6 1AP"/>
+    <tag k="addr:street" v="St Catherine's"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="492130486" version="2" timestamp="2022-06-01T14:01:49Z" changeset="121814185" uid="14387773" user="arienne">
     <nd ref="4841777958"/>
@@ -12315,6 +12713,26 @@
     <tag k="addr:postcode" v="CB6 3AW"/>
     <tag k="addr:street" v="St Ovins Green"/>
     <tag k="building" v="semidetached_house"/>
+  </way>
+  <way id="492130503" version="5" timestamp="2025-02-18T22:39:37Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="4841777859"/>
+    <nd ref="8026414331"/>
+    <nd ref="8026414330"/>
+    <nd ref="4841778195"/>
+    <nd ref="4841777859"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="St Catherine's"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="492130505" version="5" timestamp="2025-02-18T22:39:33Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="4841777817"/>
+    <nd ref="8026414333"/>
+    <nd ref="8026414332"/>
+    <nd ref="4841778359"/>
+    <nd ref="4841777817"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="St Catherine's"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="492130506" version="4" timestamp="2023-11-24T14:42:23Z" changeset="144410977" uid="20378261" user="Oppy Enson">
     <nd ref="4841778446"/>
@@ -15193,6 +15611,28 @@
     <tag k="addr:street" v="Longfields"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="637815794" version="3" timestamp="2025-02-18T21:40:29Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6012354709"/>
+    <nd ref="6012354706"/>
+    <nd ref="6012354707"/>
+    <nd ref="6012354708"/>
+    <nd ref="6012354709"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB6 3DW"/>
+    <tag k="addr:street" v="Canterbury Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="637815797" version="5" timestamp="2025-02-18T20:39:37Z" changeset="162676524" uid="6647145" user="Flic">
+    <nd ref="6012354721"/>
+    <nd ref="6012354720"/>
+    <nd ref="6012354719"/>
+    <nd ref="6012354718"/>
+    <nd ref="6012354721"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CB6 3DT"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="637815799" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
     <nd ref="6012354729"/>
     <nd ref="6012354726"/>
@@ -15217,7 +15657,7 @@
     <tag k="building:levels" v="2"/>
     <tag k="roof:shape" v="gabled"/>
   </way>
-  <way id="637815801" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="637815801" version="3" timestamp="2025-02-18T20:37:37Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6012354737"/>
     <nd ref="6012354734"/>
     <nd ref="6012354735"/>
@@ -15226,7 +15666,7 @@
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="CB6 3DS"/>
     <tag k="addr:street" v="The Chase"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="637815804" version="3" timestamp="2020-10-22T18:17:50Z" changeset="92913596" uid="5925545" user="yak23">
     <nd ref="6012354758"/>
@@ -16072,7 +16512,7 @@
     <tag k="building:levels" v="2"/>
     <tag k="roof:shape" v="gabled"/>
   </way>
-  <way id="712529690" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529690" version="3" timestamp="2025-02-18T20:37:48Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255238"/>
     <nd ref="6699255237"/>
     <nd ref="6699255236"/>
@@ -16080,9 +16520,9 @@
     <nd ref="6699255238"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="The Chase"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529691" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529691" version="3" timestamp="2025-02-18T20:37:56Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255242"/>
     <nd ref="6699255241"/>
     <nd ref="6699255240"/>
@@ -16090,9 +16530,9 @@
     <nd ref="6699255242"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="The Chase"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529692" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529692" version="3" timestamp="2025-02-18T20:38:04Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255246"/>
     <nd ref="6699255245"/>
     <nd ref="6699255244"/>
@@ -16100,9 +16540,9 @@
     <nd ref="6699255246"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="The Chase"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529693" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529693" version="3" timestamp="2025-02-18T20:38:09Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255250"/>
     <nd ref="6699255249"/>
     <nd ref="6699255248"/>
@@ -16110,9 +16550,9 @@
     <nd ref="6699255250"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="The Chase"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529694" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529694" version="3" timestamp="2025-02-18T20:38:14Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255254"/>
     <nd ref="6699255251"/>
     <nd ref="6699255252"/>
@@ -16120,9 +16560,9 @@
     <nd ref="6699255254"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="The Chase"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529699" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529699" version="4" timestamp="2025-02-18T21:39:27Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255281"/>
     <nd ref="6699255280"/>
     <nd ref="6699255279"/>
@@ -16132,7 +16572,7 @@
     <tag k="addr:street" v="Yorke Way"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="712529700" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529700" version="4" timestamp="2025-02-18T21:39:25Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255285"/>
     <nd ref="6699255284"/>
     <nd ref="6699255283"/>
@@ -16142,7 +16582,7 @@
     <tag k="addr:street" v="Yorke Way"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="712529701" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529701" version="4" timestamp="2025-02-18T21:39:23Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255289"/>
     <nd ref="6699255288"/>
     <nd ref="6699255287"/>
@@ -16152,7 +16592,7 @@
     <tag k="addr:street" v="Yorke Way"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="712529702" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529702" version="4" timestamp="2025-02-18T21:39:21Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255293"/>
     <nd ref="6699255292"/>
     <nd ref="6699255291"/>
@@ -16172,7 +16612,7 @@
     <tag k="addr:street" v="The Chase"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="712529704" version="3" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="712529704" version="4" timestamp="2025-02-18T21:39:45Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255301"/>
     <nd ref="6699255300"/>
     <nd ref="6699255299"/>
@@ -16181,9 +16621,9 @@
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="CB6 3DU"/>
     <tag k="addr:street" v="Hervey Close"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529705" version="3" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="712529705" version="4" timestamp="2025-02-18T21:39:42Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255305"/>
     <nd ref="6699255304"/>
     <nd ref="6699255303"/>
@@ -16192,9 +16632,9 @@
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="CB6 3DU"/>
     <tag k="addr:street" v="Hervey Close"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529706" version="3" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="712529706" version="4" timestamp="2025-02-18T21:39:40Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255309"/>
     <nd ref="6699255306"/>
     <nd ref="6699255307"/>
@@ -16203,9 +16643,9 @@
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="CB6 3DU"/>
     <tag k="addr:street" v="Hervey Close"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529707" version="3" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="712529707" version="4" timestamp="2025-02-18T21:39:36Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255313"/>
     <nd ref="6699255310"/>
     <nd ref="6699255311"/>
@@ -16214,9 +16654,9 @@
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="CB6 3DU"/>
     <tag k="addr:street" v="Hervey Close"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529709" version="3" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="712529709" version="4" timestamp="2025-02-18T20:40:55Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255321"/>
     <nd ref="6699255318"/>
     <nd ref="6699255319"/>
@@ -16225,9 +16665,9 @@
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="CB6 3DU"/>
     <tag k="addr:street" v="Hervey Close"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529710" version="3" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="712529710" version="4" timestamp="2025-02-18T20:40:50Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255325"/>
     <nd ref="6699255322"/>
     <nd ref="6699255323"/>
@@ -16236,9 +16676,9 @@
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="CB6 3DU"/>
     <tag k="addr:street" v="Hervey Close"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529711" version="3" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="712529711" version="4" timestamp="2025-02-18T20:40:46Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255329"/>
     <nd ref="6699255326"/>
     <nd ref="6699255327"/>
@@ -16247,9 +16687,49 @@
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="CB6 3DU"/>
     <tag k="addr:street" v="Hervey Close"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529717" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529713" version="4" timestamp="2025-02-18T20:39:00Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255337"/>
+    <nd ref="6699255336"/>
+    <nd ref="6699255335"/>
+    <nd ref="6699255334"/>
+    <nd ref="6699255337"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529714" version="4" timestamp="2025-02-18T20:39:05Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255341"/>
+    <nd ref="6699255340"/>
+    <nd ref="6699255339"/>
+    <nd ref="6699255338"/>
+    <nd ref="6699255341"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529715" version="4" timestamp="2025-02-18T20:38:48Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255345"/>
+    <nd ref="6699255344"/>
+    <nd ref="6699255343"/>
+    <nd ref="6699255342"/>
+    <nd ref="6699255345"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529716" version="4" timestamp="2025-02-18T20:38:55Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255349"/>
+    <nd ref="6699255348"/>
+    <nd ref="6699255347"/>
+    <nd ref="6699255346"/>
+    <nd ref="6699255349"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529717" version="3" timestamp="2025-02-18T20:44:00Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255353"/>
     <nd ref="6699255350"/>
     <nd ref="6699255351"/>
@@ -16257,9 +16737,9 @@
     <nd ref="6699255353"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="The Chase"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="712529718" version="2" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529718" version="3" timestamp="2025-02-18T20:43:56Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255357"/>
     <nd ref="6699255354"/>
     <nd ref="6699255355"/>
@@ -16267,7 +16747,7 @@
     <nd ref="6699255357"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="The Chase"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="712529719" version="3" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
     <nd ref="6699255361"/>
@@ -16309,7 +16789,7 @@
     <tag k="addr:street" v="The Chase"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="712529723" version="4" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="712529723" version="5" timestamp="2025-02-18T21:46:33Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255377"/>
     <nd ref="6699255374"/>
     <nd ref="6699255375"/>
@@ -16317,7 +16797,7 @@
     <nd ref="6699255377"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="Mawson Close"/>
-    <tag k="building" v="semidetached_house"/>
+    <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>
   </way>
   <way id="712529724" version="4" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
@@ -16327,6 +16807,17 @@
     <nd ref="6699255380"/>
     <nd ref="6699255381"/>
     <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Mawson Close"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <way id="712529725" version="5" timestamp="2025-02-16T22:29:38Z" changeset="162589454" uid="6647145" user="Flic">
+    <nd ref="6699255385"/>
+    <nd ref="6699255382"/>
+    <nd ref="6699255383"/>
+    <nd ref="6699255384"/>
+    <nd ref="6699255385"/>
+    <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Mawson Close"/>
     <tag k="building" v="house"/>
     <tag k="building:levels" v="1"/>
@@ -16775,7 +17266,79 @@
     <tag k="addr:street" v="The Chase"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="712529818" version="2" timestamp="2022-02-28T17:33:06Z" changeset="117952779" uid="14387773" user="arienne">
+  <way id="712529811" version="4" timestamp="2025-02-18T20:40:22Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255739"/>
+    <nd ref="6699255738"/>
+    <nd ref="6699255735"/>
+    <nd ref="6699255734"/>
+    <nd ref="6699255737"/>
+    <nd ref="6699255736"/>
+    <nd ref="6699255739"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529812" version="4" timestamp="2025-02-18T20:40:17Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255743"/>
+    <nd ref="6699255742"/>
+    <nd ref="6699255741"/>
+    <nd ref="6699255740"/>
+    <nd ref="6699255743"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529813" version="4" timestamp="2025-02-18T20:39:30Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255747"/>
+    <nd ref="6699255746"/>
+    <nd ref="6699255745"/>
+    <nd ref="6699255744"/>
+    <nd ref="6699255747"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529814" version="4" timestamp="2025-02-18T20:39:25Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255751"/>
+    <nd ref="6699255750"/>
+    <nd ref="6699255749"/>
+    <nd ref="6699255748"/>
+    <nd ref="6699255751"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529815" version="5" timestamp="2025-02-18T20:39:42Z" changeset="162676524" uid="6647145" user="Flic">
+    <nd ref="6699255755"/>
+    <nd ref="6699255754"/>
+    <nd ref="6699255753"/>
+    <nd ref="6699255752"/>
+    <nd ref="6699255755"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Yorke Way"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529816" version="3" timestamp="2025-02-18T20:40:03Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255759"/>
+    <nd ref="6699255756"/>
+    <nd ref="6699255757"/>
+    <nd ref="6699255758"/>
+    <nd ref="6699255759"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Canterbury Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529817" version="3" timestamp="2025-02-18T20:40:09Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699255763"/>
+    <nd ref="6699255762"/>
+    <nd ref="6699255761"/>
+    <nd ref="6699255760"/>
+    <nd ref="6699255763"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Canterbury Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529818" version="3" timestamp="2025-02-18T20:40:35Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255767"/>
     <nd ref="6699255766"/>
     <nd ref="6699255765"/>
@@ -16783,7 +17346,7 @@
     <nd ref="6699255767"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Yorke Way"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="712529819" version="3" timestamp="2022-02-28T17:33:06Z" changeset="117952779" uid="14387773" user="arienne">
     <nd ref="6699255771"/>
@@ -17478,6 +18041,30 @@
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Canterbury Avenue"/>
     <tag k="building" v="yes"/>
+  </way>
+  <way id="712529984" version="3" timestamp="2025-02-18T21:40:25Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699256388"/>
+    <nd ref="6699256385"/>
+    <nd ref="6699256384"/>
+    <nd ref="6699256383"/>
+    <nd ref="6699256386"/>
+    <nd ref="6699256387"/>
+    <nd ref="6699256388"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Canterbury Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="712529985" version="3" timestamp="2025-02-18T21:40:33Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="6699256394"/>
+    <nd ref="6699256391"/>
+    <nd ref="6699256392"/>
+    <nd ref="6699256390"/>
+    <nd ref="6699256389"/>
+    <nd ref="6699256393"/>
+    <nd ref="6699256394"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Canterbury Avenue"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="712529986" version="3" timestamp="2022-02-28T17:33:06Z" changeset="117952779" uid="14387773" user="arienne">
     <nd ref="6699256398"/>
@@ -26637,6 +27224,26 @@
     <tag k="addr:street" v="West Fen Road"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="861197142" version="4" timestamp="2025-02-18T22:39:42Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="8026414331"/>
+    <nd ref="4841778288"/>
+    <nd ref="4841778203"/>
+    <nd ref="8026414330"/>
+    <nd ref="8026414331"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="St Catherine's"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="861197143" version="4" timestamp="2025-02-18T22:39:28Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="8026414333"/>
+    <nd ref="4841777886"/>
+    <nd ref="4841778023"/>
+    <nd ref="8026414332"/>
+    <nd ref="8026414333"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="St Catherine's"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="861197204" version="2" timestamp="2020-10-21T19:48:54Z" changeset="92851906" uid="5925545" user="yak23">
     <nd ref="8026414531"/>
     <nd ref="6700067743"/>
@@ -27539,6 +28146,27 @@
     <tag k="addr:street" v="Lynn Road"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="861197505" version="2" timestamp="2025-02-18T21:11:01Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="8026415531"/>
+    <nd ref="8026415535"/>
+    <nd ref="6700068401"/>
+    <nd ref="8026415532"/>
+    <nd ref="8026415531"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Egremont Street"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="861197506" version="2" timestamp="2025-02-18T21:10:56Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="8026415532"/>
+    <nd ref="6700068403"/>
+    <nd ref="8026415534"/>
+    <nd ref="8026415533"/>
+    <nd ref="8026415531"/>
+    <nd ref="8026415532"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Egremont Street"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="861197507" version="1" timestamp="2020-10-20T20:44:56Z" changeset="92790409" uid="5173844" user="ndrw6">
     <nd ref="8026415535"/>
     <nd ref="6700068406"/>
@@ -28191,6 +28819,17 @@
     <tag k="addr:postcode" v="CB6 3BB"/>
     <tag k="addr:street" v="St Johns Road"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="862854679" version="5" timestamp="2025-02-18T22:30:27Z" changeset="162676410" uid="6647145" user="Flic">
+    <nd ref="8038303586"/>
+    <nd ref="3596558621"/>
+    <nd ref="3596559313"/>
+    <nd ref="8038303587"/>
+    <nd ref="8038303586"/>
+    <tag k="addr:housenumber" v="10-32"/>
+    <tag k="addr:postcode" v="CB6 1AL"/>
+    <tag k="addr:street" v="West Fen Road"/>
+    <tag k="building" v="apartments"/>
   </way>
   <way id="862854680" version="4" timestamp="2023-10-08T11:09:04Z" changeset="142299356" uid="20378261" user="Oppy Enson">
     <nd ref="8038303589"/>
@@ -31618,7 +32257,7 @@
     <tag k="addr:street" v="Waterside"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="952682089" version="2" timestamp="2023-01-11T17:04:16Z" changeset="131154899" uid="84263" user="Robert Whittaker">
+  <way id="952682089" version="3" timestamp="2025-02-18T22:04:47Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="2306416300"/>
     <nd ref="2306416310"/>
     <nd ref="2306416330"/>
@@ -31627,9 +32266,9 @@
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="St Mary's Street"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
-  <way id="952682090" version="2" timestamp="2023-01-11T17:04:16Z" changeset="131154899" uid="84263" user="Robert Whittaker">
+  <way id="952682090" version="3" timestamp="2025-02-18T22:04:40Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="8818018122"/>
     <nd ref="2524577558"/>
     <nd ref="2524577559"/>
@@ -31638,7 +32277,7 @@
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="St Mary's Street"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="991451464" version="4" timestamp="2024-02-26T18:40:50Z" changeset="147944495" uid="5173844" user="ndrw6">
     <nd ref="9160317807"/>
@@ -32004,7 +32643,7 @@
     <tag k="addr:street" v="Brimstone Drive"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="1017327594" version="1" timestamp="2022-01-01T12:49:24Z" changeset="115634950" uid="14387773" user="arienne">
+  <way id="1017327594" version="3" timestamp="2025-02-18T21:46:37Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="6699255374"/>
     <nd ref="9383508007"/>
     <nd ref="9383508008"/>
@@ -35469,7 +36108,7 @@
     <tag k="addr:street" v="Waterside"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="1089837611" version="3" timestamp="2023-12-29T00:20:16Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+  <way id="1089837611" version="4" timestamp="2025-02-18T22:18:41Z" changeset="162676524" uid="6647145" user="Flic">
     <nd ref="9983196032"/>
     <nd ref="11464400215"/>
     <nd ref="9983196034"/>
@@ -35480,7 +36119,7 @@
     <tag k="addr:housenumber" v="49c"/>
     <tag k="addr:postcode" v="CB7 4AU"/>
     <tag k="addr:street" v="Waterside"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="detached"/>
   </way>
   <way id="1089837612" version="3" timestamp="2023-12-29T00:20:16Z" changeset="145641356" uid="242345" user="confusedbuffalo">
     <nd ref="9983196038"/>

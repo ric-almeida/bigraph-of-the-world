@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:21:51Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-03-05T18:06:56Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="271038367" lat="52.3980043" lon="0.1487028" version="3" timestamp="2019-03-08T00:05:25Z" changeset="67904672" uid="84263" user="Robert Whittaker">
+  <node id="271038367" lat="52.3980043" lon="0.1487028" version="4" timestamp="2025-02-23T15:31:56Z" changeset="162857329" uid="22551827" user="Swarming00">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="CB6 2LF"/>
@@ -11,8 +11,14 @@
     <tag k="addr:village" v="Witcham"/>
     <tag k="amenity" v="pub"/>
     <tag k="fhrs:id" v="531066"/>
-    <tag k="name" v="White Horse"/>
+    <tag k="name" v="The White Horse Inn"/>
+    <tag k="opening_hours" v="Mo,Tu off; We,Th 19:00-23:00; Fr,Sa 18:00-23:30; Su 12:00-19:00"/>
+    <tag k="phone" v="+44 (0)1353 777999"/>
     <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="takeaway" v="no"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://www.facebook.com/Whitehorsewitcham/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="550322011" version="2" timestamp="2021-10-26T00:17:17Z" changeset="112970802" uid="493595" user="Yorvik Prestigitator">
     <nd ref="5315422581"/>

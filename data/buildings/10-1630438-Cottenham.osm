@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:31:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T01:02:53Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="31934734" lat="52.2853404" lon="0.1252036" version="9" timestamp="2021-07-17T08:57:07Z" changeset="108151237" uid="8556624" user="nylon_overboard">
     <tag k="addr:housenumber" v="297"/>
@@ -670,7 +670,7 @@
     <tag k="school:type" v="academy"/>
     <tag k="website" v="https://www.astreacentreschool.org/"/>
   </node>
-  <way id="136451199" version="11" timestamp="2022-09-24T15:26:00Z" changeset="126586099" uid="6476359" user="NSiecw">
+  <way id="136451199" version="12" timestamp="2025-02-17T02:29:23Z" changeset="162593478" uid="493595" user="Yorvik Prestigitator">
     <nd ref="1496679872"/>
     <nd ref="1496679877"/>
     <nd ref="2158781066"/>
@@ -678,7 +678,8 @@
     <nd ref="1496679879"/>
     <nd ref="459495278"/>
     <nd ref="2020392223"/>
-    <nd ref="1657772363"/>
+    <nd ref="12594328357"/>
+    <nd ref="12594328356"/>
     <nd ref="1496679872"/>
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:postcode" v="CB24 8TA"/>
@@ -9479,21 +9480,22 @@
     <tag k="wikidata" v="Q5175572"/>
     <tag k="wikipedia" v="en:Cottenham Village College"/>
   </way>
-  <way id="459208317" version="5" timestamp="2023-09-28T15:16:23Z" changeset="141869176" uid="20349582" user="CastelloFruits">
+  <way id="459208317" version="6" timestamp="2025-02-17T02:29:23Z" changeset="162593478" uid="493595" user="Yorvik Prestigitator">
     <nd ref="4551165992"/>
     <nd ref="4551165993"/>
     <nd ref="4551165990"/>
-    <nd ref="1657772363"/>
-    <nd ref="1496704973"/>
-    <nd ref="248534818"/>
+    <nd ref="12594328358"/>
+    <nd ref="12594328355"/>
     <nd ref="4551165992"/>
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housename" v="Cottenham Village Hall"/>
     <tag k="addr:postcode" v="CB24 8TB"/>
     <tag k="addr:street" v="Lambs Lane"/>
     <tag k="addr:village" v="Cottenham"/>
-    <tag k="building" v="government"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
     <tag k="building:levels" v="2"/>
+    <tag k="community_centre" v="village_hall"/>
     <tag k="fhrs:id" v="596849"/>
     <tag k="name" v="Cottenham Village Hall"/>
     <tag k="phone" v="+44 1954 250873"/>
@@ -13460,7 +13462,7 @@
     <tag k="addr:village" v="Cottenham"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="1097411077" version="2" timestamp="2025-01-19T22:07:47Z" changeset="161542040" uid="5173844" user="ndrw6">
+  <way id="1097411077" version="3" timestamp="2025-02-17T02:29:23Z" changeset="162593478" uid="493595" user="Yorvik Prestigitator">
     <nd ref="10048394101"/>
     <nd ref="10048394100"/>
     <nd ref="10048394099"/>
@@ -13473,7 +13475,7 @@
     <tag k="addr:postcode" v="CB24 8XS"/>
     <tag k="addr:street" v="Leopold Walk"/>
     <tag k="addr:village" v="Cottenham"/>
-    <tag k="backrest" v="house"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="1097411078" version="1" timestamp="2022-09-24T00:36:36Z" changeset="126566717" uid="6476359" user="NSiecw">
     <nd ref="10048394103"/>

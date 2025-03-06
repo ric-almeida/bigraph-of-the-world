@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:17:54Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T00:54:56Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="5569979751" lat="52.2918269" lon="0.0524147" version="2" timestamp="2020-06-07T18:59:17Z" changeset="86316993" uid="5173844" user="ndrw6">
     <tag k="addr:city" v="Cambridge"/>
@@ -14505,6 +14505,23 @@
     <tag k="addr:town" v="Northstowe"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="1254885308" version="5" timestamp="2025-02-02T16:03:26Z" changeset="162052721" uid="19409584" user="elavram">
+    <nd ref="11665312095"/>
+    <nd ref="11665312093"/>
+    <nd ref="11665312092"/>
+    <nd ref="12062046649"/>
+    <nd ref="11665312094"/>
+    <nd ref="11665312095"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Mallard Lane"/>
+    <tag k="addr:town" v="Northstowe"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:orientation" v="across"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
   <way id="1270703781" version="4" timestamp="2024-07-15T15:13:47Z" changeset="153977287" uid="1102246" user="jtn20">
     <nd ref="11800360309"/>
     <nd ref="11800360312"/>
@@ -14621,6 +14638,28 @@
     <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>
     <tag k="roof:levels" v="1"/>
+  </way>
+  <way id="1292735573" version="3" timestamp="2025-01-31T12:29:09Z" changeset="161975368" uid="22445559" user="speedismeh">
+    <nd ref="11984262357"/>
+    <nd ref="11984262356"/>
+    <nd ref="11984262355"/>
+    <nd ref="11984262354"/>
+    <nd ref="11984262357"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Thistle Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1292735574" version="3" timestamp="2025-01-31T12:29:09Z" changeset="161975368" uid="22445559" user="speedismeh">
+    <nd ref="11984262361"/>
+    <nd ref="11984262360"/>
+    <nd ref="11984262359"/>
+    <nd ref="11984262358"/>
+    <nd ref="11984262361"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Thistle Street"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="1292735617" version="2" timestamp="2024-07-15T15:13:47Z" changeset="153977287" uid="1102246" user="jtn20">
     <nd ref="11984262494"/>
@@ -14955,6 +14994,48 @@
     <tag k="addr:street" v="Lockhart Way"/>
     <tag k="building" v="semidetached_house"/>
     <tag k="building:levels" v="3"/>
+  </way>
+  <way id="1300761420" version="5" timestamp="2025-02-02T16:03:49Z" changeset="162052721" uid="19409584" user="elavram">
+    <nd ref="12048042061"/>
+    <nd ref="12153289979"/>
+    <nd ref="12153289978"/>
+    <nd ref="12048042060"/>
+    <nd ref="12048042061"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Mallard Lane"/>
+    <tag k="addr:town" v="Northstowe"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="1300761421" version="6" timestamp="2025-02-02T16:03:38Z" changeset="162052721" uid="19409584" user="elavram">
+    <nd ref="12048042066"/>
+    <nd ref="12048042063"/>
+    <nd ref="12048042064"/>
+    <nd ref="12048042065"/>
+    <nd ref="12048042066"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Mallard Lane"/>
+    <tag k="addr:town" v="Northstowe"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="1312985596" version="3" timestamp="2025-02-02T16:03:12Z" changeset="162052721" uid="19409584" user="elavram">
+    <nd ref="12153324103"/>
+    <nd ref="12153324102"/>
+    <nd ref="12153324101"/>
+    <nd ref="12153290000"/>
+    <nd ref="12153324103"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Mallard Lane"/>
+    <tag k="addr:town" v="Northstowe"/>
+    <tag k="building" v="house"/>
   </way>
 
 </osm>

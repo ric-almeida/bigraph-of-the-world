@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:22:54Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T00:58:02Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="705529678" lat="52.4489776" lon="-0.1070382" version="10" timestamp="2024-12-14T17:02:55Z" changeset="160286022" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Huntingdon"/>
@@ -2799,6 +2799,48 @@
     <tag k="building" v="yes"/>
     <tag k="club" v="scout"/>
     <tag k="name" v="1st Ramsey Scout Group"/>
+  </way>
+  <way id="1359349393" version="1" timestamp="2025-02-12T16:03:01Z" changeset="162435921" uid="14305316" user="SAS1000">
+    <nd ref="12582355714"/>
+    <nd ref="12582355715"/>
+    <nd ref="12582355719"/>
+    <nd ref="12582355720"/>
+    <nd ref="12582355721"/>
+    <nd ref="12582355723"/>
+    <nd ref="12582355722"/>
+    <nd ref="12582355716"/>
+    <nd ref="12582355717"/>
+    <nd ref="12582355718"/>
+    <nd ref="12582355714"/>
+    <tag k="addr:city" v="Ramsey St Mary's"/>
+    <tag k="addr:housename" v="New Fen Farm"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="PE26 2SN"/>
+    <tag k="addr:street" v="St Marys Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <way id="1359349394" version="1" timestamp="2025-02-12T16:03:01Z" changeset="162435921" uid="14305316" user="SAS1000">
+    <nd ref="12582355717"/>
+    <nd ref="12582355714"/>
+    <nd ref="12582355715"/>
+    <nd ref="12582355719"/>
+    <nd ref="12582355720"/>
+    <nd ref="12582355721"/>
+    <nd ref="12582355723"/>
+    <nd ref="12582355724"/>
+    <nd ref="12582355725"/>
+    <nd ref="12582355726"/>
+    <nd ref="12582355727"/>
+    <nd ref="12582355728"/>
+    <nd ref="12582355717"/>
+    <tag k="addr:city" v="Ramsey St Mary's"/>
+    <tag k="addr:housename" v="New Fen Farm"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="PE26 2SN"/>
+    <tag k="addr:street" v="St Marys Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
   </way>
 
 </osm>

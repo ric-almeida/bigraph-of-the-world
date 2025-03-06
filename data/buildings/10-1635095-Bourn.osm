@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:40:06Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T01:06:58Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="111490567" lat="52.1818560" lon="-0.0697713" version="10" timestamp="2024-07-05T20:51:02Z" changeset="153604335" uid="13097056" user="PCarew_EG">
     <tag k="addr:city" v="Cambridge"/>
@@ -371,6 +371,16 @@
     <tag k="addr:street" v="Broadway"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="554569854" version="2" timestamp="2025-02-09T19:56:59Z" changeset="162326979" uid="10633286" user="Moorit">
+    <nd ref="5351795250"/>
+    <nd ref="5351795251"/>
+    <nd ref="5351795252"/>
+    <nd ref="5351795253"/>
+    <nd ref="5351795250"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Alms Hill"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="555309400" version="2" timestamp="2023-10-24T18:53:15Z" changeset="143079314" uid="10633286" user="Moorit">
     <nd ref="5357850194"/>
     <nd ref="5357850195"/>
@@ -451,6 +461,16 @@
     <nd ref="5357850652"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:street" v="Riddy Lane"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="555309501" version="3" timestamp="2025-02-09T19:56:59Z" changeset="162326979" uid="10633286" user="Moorit">
+    <nd ref="5357850824"/>
+    <nd ref="11221476040"/>
+    <nd ref="11221476039"/>
+    <nd ref="5357850827"/>
+    <nd ref="5357850824"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Hall Close"/>
     <tag k="building" v="yes"/>
   </way>
   <way id="560495654" version="2" timestamp="2021-04-15T17:57:12Z" changeset="103010781" uid="10633286" user="Moorit">
@@ -805,6 +825,36 @@
     <tag k="addr:street" v="Wellington Way"/>
     <tag k="landuse" v="commercial"/>
     <tag k="name" v="Cambridge Design Partnership"/>
+  </way>
+  <way id="1211131428" version="2" timestamp="2025-02-09T19:56:59Z" changeset="162326979" uid="10633286" user="Moorit">
+    <nd ref="11221475836"/>
+    <nd ref="5357850825"/>
+    <nd ref="5357850826"/>
+    <nd ref="11221475835"/>
+    <nd ref="11221475836"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Hall Close"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1211131429" version="2" timestamp="2025-02-09T19:56:59Z" changeset="162326979" uid="10633286" user="Moorit">
+    <nd ref="11221476038"/>
+    <nd ref="11221475836"/>
+    <nd ref="11221475835"/>
+    <nd ref="11221476037"/>
+    <nd ref="11221476038"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Hall Close"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1211131430" version="2" timestamp="2025-02-09T19:56:59Z" changeset="162326979" uid="10633286" user="Moorit">
+    <nd ref="11221476040"/>
+    <nd ref="11221476038"/>
+    <nd ref="11221476037"/>
+    <nd ref="11221476039"/>
+    <nd ref="11221476040"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Hall Close"/>
+    <tag k="building" v="yes"/>
   </way>
 
 </osm>

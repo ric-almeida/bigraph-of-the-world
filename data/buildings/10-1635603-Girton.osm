@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:42:11Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T01:25:29Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="21591816" lat="52.2247460" lon="0.0899211" version="13" timestamp="2022-11-20T11:49:36Z" changeset="129153326" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Cambridge"/>
@@ -30,20 +30,24 @@
     <tag k="source:opening_hours" v="pol_branch_list_2018-02"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="914755400" lat="52.2270057" lon="0.0934453" version="4" timestamp="2019-02-16T10:44:32Z" changeset="67250645" uid="5173844" user="ndrw6">
+  <node id="914755400" lat="52.2270057" lon="0.0934453" version="6" timestamp="2025-01-30T22:28:20Z" changeset="161957565" uid="22443859" user="StephenEglen">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="CB3 0NJ"/>
     <tag k="addr:street" v="Thornton Way"/>
     <tag k="name" v="Chris's Bikes"/>
+    <tag k="opening_hours" v="&quot;mostly afternoons, see the Google web page&quot;"/>
+    <tag k="service:bicycle:pump" v="yes"/>
     <tag k="shop" v="bicycle"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="1334904179" lat="52.2270826" lon="0.0935785" version="5" timestamp="2023-04-26T18:49:19Z" changeset="135398898" uid="1102246" user="jtn20">
+  <node id="1334904179" lat="52.2270826" lon="0.0935785" version="6" timestamp="2025-01-30T22:28:19Z" changeset="161957563" uid="22443859" user="StephenEglen">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="CB3 0NJ"/>
     <tag k="addr:street" v="Thornton Way"/>
+    <tag k="female" v="yes"/>
+    <tag k="male" v="yes"/>
     <tag k="name" v="Plum Tree Hair &amp; Beauty"/>
     <tag k="phone" v="+44 1223 276600"/>
     <tag k="shop" v="hairdresser"/>
@@ -96,13 +100,14 @@
     <tag k="addr:postcode" v="CB3 0NL"/>
     <tag k="addr:street" v="Thornton Way"/>
   </node>
-  <node id="1837454161" lat="52.2271196" lon="0.0936361" version="5" timestamp="2024-10-03T14:08:51Z" changeset="157421087" uid="1102246" user="jtn20">
+  <node id="1837454161" lat="52.2271196" lon="0.0936361" version="6" timestamp="2025-01-30T22:28:19Z" changeset="161957562" uid="22443859" user="StephenEglen">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="CB3 0NJ"/>
     <tag k="addr:street" v="Thornton Way"/>
     <tag k="amenity" v="dentist"/>
     <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="Girton Dental Practice"/>
     <tag k="website" v="https://girtondentalpractice.co.uk/"/>
   </node>
   <node id="1837454162" lat="52.2281825" lon="0.0943604" version="2" timestamp="2019-02-16T10:44:46Z" changeset="67250645" uid="5173844" user="ndrw6">
@@ -391,39 +396,45 @@
     <tag k="addr:postcode" v="CB3 0NR"/>
     <tag k="addr:street" v="Thornton Road"/>
   </node>
-  <node id="1837499594" lat="52.2256524" lon="0.0915441" version="3" timestamp="2019-02-16T10:44:49Z" changeset="67250645" uid="5173844" user="ndrw6">
+  <node id="1837499594" lat="52.2256524" lon="0.0915441" version="4" timestamp="2025-02-17T16:12:20Z" changeset="162620386" uid="298083" user="andrewdmay">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="1-8"/>
+    <tag k="addr:interpolation" v="all"/>
     <tag k="addr:postcode" v="CB3 0NS"/>
     <tag k="addr:street" v="Thornton Court"/>
   </node>
-  <node id="1837499611" lat="52.2258792" lon="0.0909701" version="3" timestamp="2019-02-16T10:44:50Z" changeset="67250645" uid="5173844" user="ndrw6">
+  <node id="1837499611" lat="52.2258792" lon="0.0909701" version="4" timestamp="2025-02-17T16:12:20Z" changeset="162620386" uid="298083" user="andrewdmay">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="41-49"/>
+    <tag k="addr:interpolation" v="all"/>
     <tag k="addr:postcode" v="CB3 0NS"/>
     <tag k="addr:street" v="Thornton Court"/>
   </node>
-  <node id="1837499616" lat="52.2253140" lon="0.0911605" version="3" timestamp="2019-02-16T10:44:50Z" changeset="67250645" uid="5173844" user="ndrw6">
+  <node id="1837499616" lat="52.2253140" lon="0.0911605" version="4" timestamp="2025-02-17T16:12:20Z" changeset="162620386" uid="298083" user="andrewdmay">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="17-25"/>
+    <tag k="addr:interpolation" v="all"/>
     <tag k="addr:postcode" v="CB3 0NS"/>
     <tag k="addr:street" v="Thornton Court"/>
   </node>
-  <node id="1837499624" lat="52.2255028" lon="0.0912490" version="3" timestamp="2019-02-16T10:44:50Z" changeset="67250645" uid="5173844" user="ndrw6">
+  <node id="1837499624" lat="52.2255028" lon="0.0912490" version="4" timestamp="2025-02-17T16:12:20Z" changeset="162620386" uid="298083" user="andrewdmay">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="9-16"/>
+    <tag k="addr:interpolation" v="all"/>
     <tag k="addr:postcode" v="CB3 0NS"/>
     <tag k="addr:street" v="Thornton Court"/>
   </node>
-  <node id="1837499629" lat="52.2254733" lon="0.0907421" version="3" timestamp="2019-02-16T10:44:50Z" changeset="67250645" uid="5173844" user="ndrw6">
+  <node id="1837499629" lat="52.2254733" lon="0.0907421" version="4" timestamp="2025-02-17T16:12:20Z" changeset="162620386" uid="298083" user="andrewdmay">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="26-34"/>
+    <tag k="addr:interpolation" v="all"/>
     <tag k="addr:postcode" v="CB3 0NS"/>
     <tag k="addr:street" v="Thornton Court"/>
   </node>
-  <node id="1837499651" lat="52.2256918" lon="0.0908467" version="3" timestamp="2019-02-16T10:44:50Z" changeset="67250645" uid="5173844" user="ndrw6">
+  <node id="1837499651" lat="52.2256918" lon="0.0908467" version="4" timestamp="2025-02-17T16:12:20Z" changeset="162620386" uid="298083" user="andrewdmay">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="35-40"/>
+    <tag k="addr:interpolation" v="all"/>
     <tag k="addr:postcode" v="CB3 0NS"/>
     <tag k="addr:street" v="Thornton Court"/>
   </node>
@@ -5197,6 +5208,21 @@
     <tag k="addr:street" v="Thornton Road"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="171570899" version="5" timestamp="2025-02-18T21:33:24Z" changeset="162678148" uid="298083" user="andrewdmay">
+    <nd ref="1825811015"/>
+    <nd ref="1825811074"/>
+    <nd ref="1825811170"/>
+    <nd ref="1825811142"/>
+    <nd ref="1825811235"/>
+    <nd ref="1825811078"/>
+    <nd ref="1825811015"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:postcode" v="CB3 0NE"/>
+    <tag k="addr:street" v="Thornton Road"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey,Bing"/>
+  </way>
   <way id="171570901" version="5" timestamp="2019-11-27T12:42:44Z" changeset="77631276" uid="10494963" user="j0hnj0nes">
     <nd ref="1825811168"/>
     <nd ref="1825811166"/>
@@ -7743,6 +7769,21 @@
     <tag k="addr:street" v="The Brambles"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="172912753" version="3" timestamp="2025-02-18T09:40:32Z" changeset="162652470" uid="298083" user="andrewdmay">
+    <nd ref="1837518512"/>
+    <nd ref="1837518683"/>
+    <nd ref="2463819816"/>
+    <nd ref="1837518800"/>
+    <nd ref="1837518539"/>
+    <nd ref="1837518809"/>
+    <nd ref="1837518630"/>
+    <nd ref="1837518512"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="CB3 0LT"/>
+    <tag k="addr:street" v="St Margaret's Road"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="172912754" version="4" timestamp="2019-02-16T10:47:33Z" changeset="67250645" uid="5173844" user="ndrw6">
     <nd ref="1837518631"/>
     <nd ref="1837518717"/>
@@ -7846,6 +7887,18 @@
     <tag k="addr:postcode" v="CB3 0LT"/>
     <tag k="addr:street" v="St Margaret's Road"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="172912762" version="2" timestamp="2025-02-18T09:40:32Z" changeset="162652470" uid="298083" user="andrewdmay">
+    <nd ref="1837518733"/>
+    <nd ref="1837518680"/>
+    <nd ref="1837518506"/>
+    <nd ref="1837518504"/>
+    <nd ref="1837518733"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="CB3 0LT"/>
+    <tag k="addr:street" v="St Margaret's Road"/>
+    <tag k="building" v="yes"/>
   </way>
   <way id="172912763" version="2" timestamp="2021-03-30T22:25:06Z" changeset="102011704" uid="281267" user="smb1001">
     <nd ref="1837518521"/>
@@ -8042,6 +8095,22 @@
     <tag k="addr:street" v="St Margaret's Road"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="172912780" version="3" timestamp="2025-02-18T09:40:32Z" changeset="162652470" uid="298083" user="andrewdmay">
+    <nd ref="1837518837"/>
+    <nd ref="1837518539"/>
+    <nd ref="1837518800"/>
+    <nd ref="2463819826"/>
+    <nd ref="1837518818"/>
+    <nd ref="1837518810"/>
+    <nd ref="1837518739"/>
+    <nd ref="1837518729"/>
+    <nd ref="1837518837"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="CB3 0LT"/>
+    <tag k="addr:street" v="St Margaret's Road"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="172912782" version="4" timestamp="2019-02-16T10:47:34Z" changeset="67250645" uid="5173844" user="ndrw6">
     <nd ref="1837518794"/>
     <nd ref="1837518803"/>
@@ -8105,13 +8174,17 @@
     <tag k="addr:street" v="St Margaret's Road"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="172912794" version="4" timestamp="2019-02-16T10:47:35Z" changeset="67250645" uid="5173844" user="ndrw6">
+  <way id="172912794" version="5" timestamp="2025-02-17T13:55:13Z" changeset="162613946" uid="298083" user="andrewdmay">
     <nd ref="1837518828"/>
+    <nd ref="12595834715"/>
+    <nd ref="12595834714"/>
+    <nd ref="12595834713"/>
     <nd ref="1837518614"/>
     <nd ref="1837518792"/>
     <nd ref="1837518732"/>
     <nd ref="1837518559"/>
     <nd ref="1837518913"/>
+    <nd ref="12595834716"/>
     <nd ref="1837518828"/>
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="14"/>
@@ -8283,6 +8356,19 @@
     <tag k="addr:street" v="Bandon Road"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="172912811" version="2" timestamp="2025-02-18T09:40:32Z" changeset="162652470" uid="298083" user="andrewdmay">
+    <nd ref="1837518649"/>
+    <nd ref="1837518801"/>
+    <nd ref="1837518810"/>
+    <nd ref="1837518818"/>
+    <nd ref="1837518498"/>
+    <nd ref="1837518649"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="CB3 0LT"/>
+    <tag k="addr:street" v="St Margaret's Road"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="172912812" version="4" timestamp="2019-02-16T10:47:36Z" changeset="67250645" uid="5173844" user="ndrw6">
     <nd ref="1837518555"/>
     <nd ref="1837518690"/>
@@ -8451,6 +8537,22 @@
     <tag k="addr:street" v="St Margaret's Road"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="172912824" version="3" timestamp="2025-02-18T09:40:32Z" changeset="162652470" uid="298083" user="andrewdmay">
+    <nd ref="1837518767"/>
+    <nd ref="1837518700"/>
+    <nd ref="2463819851"/>
+    <nd ref="1837518761"/>
+    <nd ref="1837518710"/>
+    <nd ref="1837518688"/>
+    <nd ref="2463819849"/>
+    <nd ref="1837518674"/>
+    <nd ref="1837518767"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="CB3 0LT"/>
+    <tag k="addr:street" v="St Margaret's Road"/>
+    <tag k="building" v="yes"/>
+  </way>
   <way id="172912825" version="2" timestamp="2021-03-30T22:25:06Z" changeset="102011704" uid="281267" user="smb1001">
     <nd ref="1837518796"/>
     <nd ref="1837518673"/>
@@ -8474,10 +8576,12 @@
     <tag k="addr:street" v="St Margaret's Road"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="172912827" version="4" timestamp="2019-02-16T10:47:37Z" changeset="67250645" uid="5173844" user="ndrw6">
+  <way id="172912827" version="5" timestamp="2025-02-17T13:55:13Z" changeset="162613946" uid="298083" user="andrewdmay">
     <nd ref="1837518553"/>
-    <nd ref="1837518842"/>
+    <nd ref="12595834712"/>
+    <nd ref="12595834711"/>
     <nd ref="1837518708"/>
+    <nd ref="12595834710"/>
     <nd ref="1837518707"/>
     <nd ref="1837518553"/>
     <tag k="addr:city" v="Cambridge"/>
@@ -8486,13 +8590,15 @@
     <tag k="addr:street" v="Bandon Road"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="172912828" version="3" timestamp="2016-07-11T16:24:14Z" changeset="40657142" uid="242345" user="confusedbuffalo">
+  <way id="172912828" version="4" timestamp="2025-02-18T09:40:32Z" changeset="162652470" uid="298083" user="andrewdmay">
     <nd ref="1837518511"/>
     <nd ref="1837518711"/>
     <nd ref="1837518547"/>
     <nd ref="1837518670"/>
     <nd ref="1837518511"/>
+    <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="CB3 0LT"/>
     <tag k="addr:street" v="St Margaret's Road"/>
     <tag k="building" v="house"/>
   </way>
@@ -9918,7 +10024,7 @@
     <tag k="addr:village" v="Girton"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="238869169" version="6" timestamp="2023-11-11T10:26:02Z" changeset="143893444" uid="9451067" user="b-jazz-bot">
+  <way id="238869169" version="8" timestamp="2025-02-05T13:29:48Z" changeset="162165653" uid="84263" user="Robert Whittaker">
     <nd ref="2466675297"/>
     <nd ref="2466675298"/>
     <nd ref="2466675299"/>
@@ -9936,6 +10042,7 @@
     <tag k="amenity" v="doctors"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Huntingdon Road Surgery, Girton branch"/>
+    <tag k="ref:GB:cqc_location" v="1-572243015"/>
     <tag k="website" v="https://www.huntingdonroadsurgery.co.uk/"/>
   </way>
   <way id="238869175" version="3" timestamp="2022-10-02T17:05:00Z" changeset="126902547" uid="6476359" user="NSiecw">
@@ -15527,7 +15634,7 @@
     <tag k="building:levels" v="1"/>
     <tag k="name" v="The William Collyn Community Centre"/>
   </way>
-  <way id="675122690" version="4" timestamp="2022-09-29T20:51:17Z" changeset="126798113" uid="6476359" user="NSiecw">
+  <way id="675122690" version="6" timestamp="2025-02-05T13:29:48Z" changeset="162165653" uid="84263" user="Robert Whittaker">
     <nd ref="6322585208"/>
     <nd ref="8586132628"/>
     <nd ref="6322585209"/>
@@ -15547,9 +15654,13 @@
     <tag k="addr:postcode" v="CB3 0GL"/>
     <tag k="addr:street" v="Wellbrook Way"/>
     <tag k="addr:village" v="Girton"/>
+    <tag k="amenity" v="social_facility"/>
     <tag k="building" v="yes"/>
     <tag k="building:levels" v="3"/>
     <tag k="name" v="Arlington Manor"/>
+    <tag k="operator" v="Hallmark Care Homes (Cambridge) Limited"/>
+    <tag k="ref:GB:cqc_location" v="1-6000610555"/>
+    <tag k="social_facility" v="group_home"/>
   </way>
   <way id="728028063" version="3" timestamp="2022-09-29T20:51:17Z" changeset="126798113" uid="6476359" user="NSiecw">
     <nd ref="4788451073"/>
@@ -16115,6 +16226,19 @@
     <tag k="addr:postcode" v="CB3 0LU"/>
     <tag k="addr:street" v="Bandon Road"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="918489019" version="2" timestamp="2025-02-17T10:40:32Z" changeset="162605659" uid="298083" user="andrewdmay">
+    <nd ref="8530292905"/>
+    <nd ref="8530292906"/>
+    <nd ref="8530292907"/>
+    <nd ref="8530292908"/>
+    <nd ref="8530292905"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="1A"/>
+    <tag k="addr:postcode" v="CB3 0LU"/>
+    <tag k="addr:street" v="Bandon Road"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="detached"/>
   </way>
   <way id="918489020" version="2" timestamp="2021-03-30T22:25:06Z" changeset="102011704" uid="281267" user="smb1001">
     <nd ref="8530292909"/>
@@ -23067,14 +23191,14 @@
     <tag k="building:levels" v="2"/>
     <tag k="roof:levels" v="1"/>
   </way>
-  <way id="1127507075" version="4" timestamp="2023-10-24T21:10:14Z" changeset="143084305" uid="1102246" user="jtn20">
+  <way id="1127507075" version="5" timestamp="2025-02-17T11:20:52Z" changeset="162607000" uid="298083" user="andrewdmay">
     <nd ref="10308789538"/>
     <nd ref="10308789536"/>
     <nd ref="10308789535"/>
     <nd ref="10308789537"/>
     <nd ref="10308789538"/>
     <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Milne Avenue"/>
     <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>

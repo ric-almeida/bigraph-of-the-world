@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:35:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T01:03:54Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="41036806" lat="52.1039045" lon="0.1663215" version="2" timestamp="2021-09-21T09:31:50Z" changeset="111485422" uid="6816132" user="CjMalone">
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:postcode" v="CB22 4NL"/>
-    <tag k="addr:street" v="Station Road East"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="596613"/>
-    <tag k="name" v="Red Lion"/>
-    <tag k="survey:date" v="2021-07-02"/>
-    <tag k="wikidata" v="Q26420963"/>
-  </node>
-  <node id="2549170386" lat="52.1034632" lon="0.1659892" version="4" timestamp="2023-10-19T14:16:28Z" changeset="142818410" uid="4345757" user="JassKurn">
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="CB22 4NL"/>
-    <tag k="addr:street" v="Station Road East"/>
-    <tag k="brand" v="Holiday Inn Express"/>
-    <tag k="brand:wikidata" v="Q5880423"/>
-    <tag k="brand:wikipedia" v="en:Holiday Inn Express"/>
-    <tag k="fhrs:id" v="597183"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Holiday Inn Express"/>
-    <tag k="operator" v="Holiday Inn Express"/>
-    <tag k="survey:date" v="2021-01-03"/>
-    <tag k="tourism" v="hotel"/>
-  </node>
   <node id="6076110011" lat="52.0959133" lon="0.1286624" version="2" timestamp="2019-02-04T10:42:24Z" changeset="66899076" uid="5173844" user="ndrw6">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housename" v="The Officers Mess"/>
@@ -138,6 +112,59 @@
     <tag k="addr:street" v="Hill Farm Road"/>
     <tag k="landuse" v="industrial"/>
     <tag k="name" v="Syngenta"/>
+  </way>
+  <way id="248067704" version="4" timestamp="2025-01-29T18:48:18Z" changeset="161909858" uid="18964624" user="Exterprook58">
+    <nd ref="2549170393"/>
+    <nd ref="5850005447"/>
+    <nd ref="5850005446"/>
+    <nd ref="2549170388"/>
+    <nd ref="2549170387"/>
+    <nd ref="2549170390"/>
+    <nd ref="2549170389"/>
+    <nd ref="2549170391"/>
+    <nd ref="5850005448"/>
+    <nd ref="5850005449"/>
+    <nd ref="2549170393"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="CB22 4NL"/>
+    <tag k="addr:street" v="Station Road East"/>
+    <tag k="brand" v="Holiday Inn Express"/>
+    <tag k="brand:wikidata" v="Q5880423"/>
+    <tag k="brand:wikipedia" v="en:Holiday Inn Express"/>
+    <tag k="building" v="hotel"/>
+    <tag k="fhrs:id" v="597183"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Holiday Inn Express"/>
+    <tag k="operator" v="Holiday Inn Express"/>
+    <tag k="survey:date" v="2021-01-03"/>
+    <tag k="tourism" v="hotel"/>
+  </way>
+  <way id="248067706" version="7" timestamp="2025-01-29T18:56:12Z" changeset="161910073" uid="18964624" user="Exterprook58">
+    <nd ref="2549170399"/>
+    <nd ref="2549170392"/>
+    <nd ref="2549170394"/>
+    <nd ref="2549170395"/>
+    <nd ref="2549170396"/>
+    <nd ref="2549170397"/>
+    <nd ref="2549170398"/>
+    <nd ref="12542364078"/>
+    <nd ref="12542364079"/>
+    <nd ref="5850005454"/>
+    <nd ref="5850005455"/>
+    <nd ref="2549170400"/>
+    <nd ref="2549170399"/>
+    <tag k="accommodation" v="yes"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="CB22 4NL"/>
+    <tag k="addr:street" v="Station Road East"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="fhrs:id" v="596613"/>
+    <tag k="name" v="Red Lion"/>
+    <tag k="survey:date" v="2021-07-02"/>
+    <tag k="wikidata" v="Q26420963"/>
   </way>
   <way id="463099080" version="4" timestamp="2023-02-01T14:08:02Z" changeset="131965319" uid="2969887" user="eastender">
     <nd ref="4584096345"/>

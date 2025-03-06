@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-23T15:26:54Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-19T00:59:51Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="534924543" lat="52.3464283" lon="-0.4076850" version="4" timestamp="2018-05-17T10:50:05Z" changeset="59046086" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Huntingdon"/>
@@ -25,5 +25,17 @@
     <tag k="ref:pol_id" v="110446"/>
     <tag k="source" v="pol_branch_list_2018-02"/>
   </node>
+  <way id="256336366" version="2" timestamp="2025-01-29T01:55:50Z" changeset="161879503" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="2620011520"/>
+    <nd ref="2620011524"/>
+    <nd ref="2620011521"/>
+    <nd ref="2620011523"/>
+    <nd ref="2620011520"/>
+    <tag k="addr:street" v="Church Road"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Catworth Village Hall"/>
+  </way>
 
 </osm>
