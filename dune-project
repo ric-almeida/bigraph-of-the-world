@@ -2,8 +2,6 @@
 
 (name bigraph_of_the_world)
 
-(generate_opam_files true)
-
 (source
  (github royangkr/bigraph_of_the_world))
 
