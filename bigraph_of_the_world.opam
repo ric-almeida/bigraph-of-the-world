@@ -19,6 +19,7 @@ depends: [
   "progress"
   "bigrapher" {= "dev"}
   "osm_xml" {= "dev"}
+  "tls-lwt"
 ]
 build: [
   ["dune" "subst"] {dev}
