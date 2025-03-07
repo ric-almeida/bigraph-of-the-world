@@ -44,11 +44,11 @@ For example:
 ./botw.exe 8 1481934 Dover
 ```
 
-This will build a Bigraph with [Dover](https://www.openstreetmap.org/relation/1481934) as its root and export the Bigraph to output/8-1481934-Dover.json. This Bigraph will contain the [hierarchy of administrative boundaries](https://osm-boundaries.com/l/6fe0b904dcdf9b142bfe7a404e69fff3290b566f), streets and buildings contained in Dover. 
+This will build a Bigraph with [Dover](https://www.openstreetmap.org/relation/1481934) as its root and export the Bigraph to `output/8-1481934-Dover.json`. This Bigraph will contain the [hierarchy of administrative boundaries](https://osm-boundaries.com/l/6fe0b904dcdf9b142bfe7a404e69fff3290b566f), streets and buildings contained in Dover. 
 
 The tool works for any relation on OSM with "admin_level", "id", and "name" tags. When running the tool on a new administrative boundary, querying Overpass API for osm files will take a while due to rate limiting.
 
-To export the Bigraph to a dot-file:
+To export the Bigraph to a dot file:
 ```
 ./botw.exe 8 1481934 Dover -write-dot
 ```
