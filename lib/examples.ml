@@ -13,7 +13,7 @@ module BRS =  Brs.Make(MSSolver)
 
 let write_state n b = 
     let file = "output/renders/state"^(string_of_int n)^".dot" in 
-    let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/renders/")) then Unix.mkdir_p ~perm:0o755 "output/renders/" in
+    let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/renders/")) then Core.Unix.mkdir_p ~perm:0o755 "output/renders/" in
     let _ = Lwt_main.run (Overpass.write_to_file (Bigraph.Big.to_dot b "b") file) in 
     let _ = Sys.command ("dot "^file^" -Tsvg -O") in 
     let _ = Sys.command ("rm "^file) in ()
