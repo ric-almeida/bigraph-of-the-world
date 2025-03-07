@@ -38,7 +38,7 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
 let command =
     Core.Command.basic
         ~summary:"Build bigraph of boundary"
-        ~readme:(fun () -> "Given a query boundary, build a Bigraph with that boundary as root. This Bigraph will contain the hierarchy of administrative boundaries, streets and buildings contained in Dover. The tool works for any relation on OSM with \"admin_level\", \"id\", and \"name\" tags.\nExample: ./botw.exe 8 1481934 Dover")
+        ~readme:(fun () -> "Given a query boundary, build a Bigraph with that boundary as root. This Bigraph will contain the hierarchy of administrative boundaries, streets and buildings contained within the query boundary. The tool works for any relation on OSM with \"admin_level\", \"id\", and \"name\" tags.\nExample: ./botw.exe 8 1481934 Dover")
         (let%map_open.Core.Command root_level = anon ("boundary_admin_level" %: string)
         and root_relation = anon ("boundary_relation_id" %: string) 
         and root_name = anon ("boundary_name" %: string) 
