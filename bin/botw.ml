@@ -14,12 +14,13 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
     let _ = print_endline ("Number of nodes: "^(string_of_int (Bigraph.Nodes.size b.n))) in
     (* let found = Bigraph.Nodes.find_all (Bigraph.Ctrl.C ("ID", [S query_string],0)) b.n in *)
     (* print_endline (Core.List.to_string ~f:string_of_int (Bigraph.IntSet.elements found)) *)
-    let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Big_json.big_to_json ~minify:true b ) (root_string^".json")) in
-    let _ = print_endline ("Bigraph saved to "^root_string^".json") in
+    let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/")) then Core.Unix.mkdir_p ~perm:0o755 "output/" in
+    let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Big_json.big_to_json ~minify:true b ) ("output/"^root_string^".json")) in
+    let _ = print_endline ("Bigraph saved to output/"^root_string^".json") in
     let _ = 
         if write_dot then 
-        let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Bigraph.Big.to_dot b root_string ) (root_string^".dot")) in
-        print_endline ("Bigraph saved to "^root_string^".dot") in
+        let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Bigraph.Big.to_dot b root_string ) ("output/"^root_string^".dot")) in
+        print_endline ("Bigraph saved to output/"^root_string^".dot") in
     (* let disconnected_agent = 
         (Big.close
         (Link.parse_face ["connection"])
@@ -38,7 +39,7 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
 let command =
     Core.Command.basic
         ~summary:"Build bigraph of boundary"
-        ~readme:(fun () -> "Given a query boundary, build a Bigraph with that boundary as root. This Bigraph will contain the hierarchy of administrative boundaries, streets and buildings contained within the query boundary. The tool works for any relation on OSM with \"admin_level\", \"id\", and \"name\" tags.\nExample: ./botw.exe 8 1481934 Dover")
+        ~readme:(fun () -> "Given a query boundary, build a Bigraph with that boundary as its root. This Bigraph will contain the hierarchy of administrative boundaries, streets and buildings contained within the query boundary. The tool works for any relation on OSM with \"admin_level\", \"id\", and \"name\" tags.\nExample: ./botw.exe 8 1481934 Dover")
         (let%map_open.Core.Command root_level = anon ("boundary_admin_level" %: string)
         and root_relation = anon ("boundary_relation_id" %: string) 
         and root_name = anon ("boundary_name" %: string) 
