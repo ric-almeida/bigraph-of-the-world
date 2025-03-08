@@ -22,13 +22,10 @@
   ocaml 
   ppx_let 
   cohttp-lwt-unix
-  core
-  core_unix
+  core 
   progress
   osm_xml
   tls-lwt
-  bigraph
-  big_json
-  memtrace)
+  (bigraph (>= 2.0.0)))
  (tags
   ("bigraphs")))
