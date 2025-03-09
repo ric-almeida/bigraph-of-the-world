@@ -23,6 +23,7 @@ depends: [
   "tls-lwt"
   "bigraph"
   "big_json"
+  "memtrace"
   "odoc" {with-doc}
 ]
 build: [
@@ -41,7 +42,9 @@ build: [
 ]
 dev-repo: "git+https://github.com/royangkr/bigraph_of_the_world.git"
 pin-depends: [
-  ["bigraph.dev" "git+https://github.com/royangkr/bigraph-tools#c755fa121ff7da1faa130147992717f10c38fb2e"]
-  ["big_json.dev" "git+https://github.com/royangkr/bigraph-tools#c755fa121ff7da1faa130147992717f10c38fb2e"]
-  ["osm_xml.dev" "git+https://github.com/geocaml/osm_xml#a4032fc527312244d23bdbf9535618b566320780"]
+    ["bigraph.dev" "git+https://github.com/royangkr/bigraph-tools#c755fa121ff7da1faa130147992717f10c38fb2e"]
+    ["big_json.dev" "git+https://github.com/royangkr/bigraph-tools#c755fa121ff7da1faa130147992717f10c38fb2e"]
+    ["minicard.dev" "git+https://github.com/royangkr/bigraph-tools#c755fa121ff7da1faa130147992717f10c38fb2e"]
+    ["minisat.dev" "git+https://github.com/royangkr/bigraph-tools#c755fa121ff7da1faa130147992717f10c38fb2e"]
+    ["osm_xml.dev" "git+https://github.com/geocaml/osm_xml#a4032fc527312244d23bdbf9535618b566320780"]
 ]

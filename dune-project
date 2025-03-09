@@ -28,6 +28,7 @@
   osm_xml
   tls-lwt
   bigraph
-  big_json)
+  big_json
+  memtrace)
  (tags
   ("bigraphs")))
