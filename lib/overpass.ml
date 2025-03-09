@@ -40,8 +40,8 @@ exception TagNotFound of string * string
 (** downloads osm file of all admin boundaries in area defined by root_id, and call queryBoundaries and queryBuildings on all child boundaries*)
 let query_all_children (root_level : string) (root_id : string) (root_name :string) =
     let _ = print_endline "Querying Overpass API for osm files... will take a while due to rate limiting" in
-    let _ = if not (Lwt_main.run (Lwt_unix.file_exists "data/boundaries/")) then Unix.mkdir_p ~perm:0o755 "data/boundaries/" in
-    let _ = if not (Lwt_main.run (Lwt_unix.file_exists "data/buildings/")) then Unix.mkdir_p ~perm:0o755 "data/buildings/" in
+    let _ = if not (Lwt_main.run (Lwt_unix.file_exists "data/boundaries/")) then Core_unix.mkdir_p ~perm:0o755 "data/boundaries/" in
+    let _ = if not (Lwt_main.run (Lwt_unix.file_exists "data/buildings/")) then Core_unix.mkdir_p ~perm:0o755 "data/buildings/" in
     let _ = Lwt_main.run (query_buildings root_level root_id root_name) in
     let _ = Lwt_main.run (query_boundaries root_level root_id root_name) in 
     let osm_file = "data/boundaries/"^root_level^"-"^root_id^"-"^root_name^".osm" in

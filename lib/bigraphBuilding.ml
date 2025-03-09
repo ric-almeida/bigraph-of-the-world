@@ -1,10 +1,7 @@
 open Bigraph
 open Core
 
-module StringMap = Map.Make(String)
-
 exception TagNotFound of string * string
-module StringSet = Set.Make(String)
 
 let rec divide_and_par x = 
     let rec split x l r = match x with
@@ -35,7 +32,7 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
         let child_buildings = 
         match Map.find parent_to_building root_string with
         | Some l -> l
-        | None -> StringSet.empty in
+        | None -> String.Set.empty in
         Big.nest 
             ion 
             (divide_and_par (Map.fold (Hierarchy.street_to_buildings child_buildings root_string) ~init:(id::site::child_boundary_graphs) ~f:(fun ~key:street ~data:buildings street_list-> 

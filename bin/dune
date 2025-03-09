@@ -1,6 +1,6 @@
 (executable
  (public_name bigraph_of_the_world)
  (name botw)
- (libraries bigraph_of_the_world core)
+ (libraries bigraph_of_the_world core_unix.command_unix)
  (modes byte exe)
  (preprocess (pps ppx_let)))
