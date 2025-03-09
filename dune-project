@@ -22,7 +22,8 @@
   ocaml 
   ppx_let 
   cohttp-lwt-unix
-  core 
+  core
+  core_unix
   progress
   osm_xml
   tls-lwt
