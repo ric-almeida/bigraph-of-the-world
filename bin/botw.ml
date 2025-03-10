@@ -46,4 +46,6 @@ let command =
         and write_dot = flag "-write-dot" no_arg ~doc:"export the Bigraph to a dot-file" in
         fun () -> main root_level root_relation root_name write_dot)
 
-let () = Command_unix.run command
+let () = 
+    (* Memtrace.trace_if_requested (); *)
+    Command_unix.run command
