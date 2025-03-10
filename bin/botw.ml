@@ -15,7 +15,7 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
     (* let found = Bigraph.Nodes.find_all (Bigraph.Ctrl.C ("ID", [S query_string],0)) b.n in *)
     (* print_endline (Core.List.to_string ~f:string_of_int (Bigraph.IntSet.elements found)) *)
     let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/")) then Core_unix.mkdir_p ~perm:0o755 "output/" in
-    let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Big_json.big_to_json ~minify:true b ) ("output/"^root_string^".json")) in
+    let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Yojson.Safe.to_string (Bigraph.Big.yojson_of_t b)) ("output/"^root_string^".json")) in
     let _ = print_endline ("Bigraph saved to output/"^root_string^".json") in
     let _ = 
         if write_dot then 
@@ -46,4 +46,6 @@ let command =
         and write_dot = flag "-write-dot" no_arg ~doc:"export the Bigraph to a dot-file" in
         fun () -> main root_level root_relation root_name write_dot)
 
-let () = Command_unix.run command
+let () = 
+    (* Memtrace.trace_if_requested (); *)
+    Command_unix.run command

@@ -1,3 +1,4 @@
 (library
  (name bigraph_of_the_world)
- (libraries cohttp-lwt-unix osm_xml core core_unix bigraph big_json progress))
+ (public_name bigraph-of-the-world)
+ (libraries cohttp-lwt-unix osm_xml core core_unix bigraph progress))
