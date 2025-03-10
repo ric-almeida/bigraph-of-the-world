@@ -21,8 +21,8 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
     let building_to_parent = Hierarchy.building_to_parent parent_to_boundary root_string in
     let parent_to_building = Hierarchy.invert_map_set building_to_parent in
     let rec helper root_string = 
-        let ion = Big.ion (Link.parse_face []) Ctrl.{ s = "Boundary"; p = []; i = 0 } in
-        let id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S root_string]; i = 0 } in
+        let ion = Big.ion (Link.parse_face []) (Ctrl.C ("Boundary", [], 0)) in
+        let id = Big.atom Link.Face.empty (Ctrl.C ("ID", [S root_string], 0)) in
         let site = Big.split 1 in
         let child_boundary_graphs = 
         match Map.find parent_to_boundary root_string with
@@ -36,13 +36,13 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
         Big.nest 
             ion 
             (divide_and_par (Map.fold (Hierarchy.street_to_buildings child_buildings root_string) ~init:(id::site::child_boundary_graphs) ~f:(fun ~key:street ~data:buildings street_list-> 
-            let street_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S street]; i = 0 } in
+            let street_id = Big.atom Link.Face.empty (Ctrl.C ("ID", [S street], 0)) in
             (Big.nest 
-                (Big.ion (Link.parse_face []) Ctrl.{ s = "Street"; p = []; i = 0 }) 
+                (Big.ion (Link.parse_face []) (Ctrl.C ("Street", [], 0))) 
                 (divide_and_par (Map.fold buildings ~init:[street_id;site] ~f:(fun ~key:building_name ~data:building_id building_list ->
-                    let building_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S (building_id^"-"^building_name)]; i = 0 } in
+                    let building_id = Big.atom Link.Face.empty (Ctrl.C ("ID", [S (building_id^"-"^building_name)], 0)) in
                     (Big.nest
-                        (Big.ion (Link.parse_face []) Ctrl.{ s = "Building"; p = []; i = 0 })
+                        (Big.ion (Link.parse_face []) (Ctrl.C ("Building", [], 0)))
                         (Big.par building_id site))::building_list ))))::street_list))) in
     helper root_string
 
@@ -65,10 +65,10 @@ let add_agent_to_bigraph_rewrite (agent:Big.t) (bigraph:Big.t) (parent_id:Big.t)
     | ((x,_,_)::_,1) ->  x
     | (_,n) -> raise (Not_found_s (Sexplib0.Sexp.message ("Number of possible states: "^(string_of_int n)) []))
 
-let agent = Big.ion (Link.parse_face ["connection"]) Ctrl.{ s = "Agent"; p = []; i = 1 }
-let boundary = Big.ion (Link.Face.empty) Ctrl.{ s = "Boundary"; p = []; i = 0 }
-let street = Big.ion (Link.Face.empty) Ctrl.{ s = "Street"; p = []; i = 0 }
-let building = Big.ion (Link.Face.empty) Ctrl.{ s = "Building"; p = []; i = 0 }
+let agent = Big.ion (Link.parse_face ["connection"]) (Ctrl.C ("Agent", [], 1))
+let boundary = Big.ion (Link.Face.empty) (Ctrl.C ("Boundary", [], 0))
+let street = Big.ion (Link.Face.empty) (Ctrl.C ("Street", [], 0))
+let building = Big.ion (Link.Face.empty) (Ctrl.C ("Building", [], 0))
 let site = Big.split 1
 
 let react_up_boundary = 
