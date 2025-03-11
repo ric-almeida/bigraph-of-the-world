@@ -33,53 +33,38 @@ let boundary_to_parent (root_level : string) (root_id : string) (root_name : str
     let parent_mp = Map.add_exn String.Map.empty ~key:(root_level^"-"^root_id^"-"^root_name) ~data:"0-0-root" in
     helper root_level root_id root_name parent_mp
 
-let building_to_parent boundary_parent_to_children root = 
-  let rec helper boundary parent_mp  = 
-    let p = 
-      match Map.find boundary_parent_to_children boundary with
-      | Some children ->
-        List.fold children ~init:parent_mp 
-        ~f:(fun p_map child ->
-          helper child p_map )
-      | None -> parent_mp in
+let street_to_building buildingid_seen boundary = 
     let (Osm_xml.Types.OSM osm_record) = Osm_xml.Parser.parse_file ("data/buildings/"^boundary^".osm") in
-    let relation_id = Map.fold osm_record.relations ~init:[] ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:_ l -> ("r"^id)::l) in 
-    let relation_ways_id = Map.fold osm_record.ways ~init:relation_id ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:_ l -> ("w"^id)::l) in 
-    let relation_ways_nodes_id = Map.fold osm_record.nodes ~init:relation_ways_id ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:_ l -> ("n"^id)::l) in 
-    List.fold relation_ways_nodes_id ~init:p ~f:(fun mp building_id -> 
-      match Map.find mp building_id with
-      | None -> Map.add_exn mp ~key:building_id ~data:boundary
-      | Some _ -> mp) in
-  helper root String.Map.empty
-
-(** given boundary_level^boundary_id^boundary_name, return a map of k:street v:Map(k:building_name v:building_id) found in boundary*)
-let street_to_buildings filter boundary = 
-   let (Osm_xml.Types.OSM osm_record) = Osm_xml.Parser.parse_file ("data/buildings/"^boundary^".osm") in
-   let relation_id_tags = Map.fold osm_record.relations ~init:[] ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:(Osm_xml.Types.OSMRelation relation_record) l -> (("r"^id), relation_record.tags)::l) in 
-   let relation_ways_id_tags = Map.fold osm_record.ways ~init:relation_id_tags ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:(Osm_xml.Types.OSMWay way_record) l -> (("w"^id),way_record.tags)::l) in 
-   let relation_ways_nodes_id_tags = Map.fold osm_record.nodes ~init:relation_ways_id_tags ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:(Osm_xml.Types.OSMNode node_record) l -> (("n"^id), node_record.tags)::l) in 
-   let filtered = List.filter relation_ways_nodes_id_tags ~f:(fun (building_id, _) -> Set.mem filter building_id) in
-   List.fold filtered ~init:String.Map.empty ~f:(fun streets_map (building_id, building_record) -> 
-      match Osm_xml.Types.find_tag building_record "addr:street" with
-      | None -> raise (TagNotFound ("addr:street",building_id))
-      | Some street ->
-         begin match Osm_xml.Types.find_tag building_record "name" with
-         | Some building_name -> 
-            begin Map.update streets_map street ~f:(function
-            | None -> String.Map.singleton building_name building_id
-            | Some buildings_map -> Map.set buildings_map ~key:building_name ~data:building_id)
-            end
-         | None ->
-            begin match Osm_xml.Types.find_tag building_record "addr:housenumber" with
-            | Some housenumber -> 
-               begin Map.update streets_map street ~f:(function
-               | None -> String.Map.singleton (housenumber^" "^street) building_id
-               | Some buildings_map -> Map.set buildings_map ~key:(housenumber^" "^street) ~data:building_id)
-               end
-            | None -> raise (TagNotFound ("name and addr:housenumber",building_id))
-            end
-         end
-      )
+    let relation_id_tags = Map.fold osm_record.relations ~init:[] ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:(Osm_xml.Types.OSMRelation relation_record) l -> (("r"^id), relation_record.tags)::l) in 
+    let relation_ways_id_tags = Map.fold osm_record.ways ~init:relation_id_tags ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:(Osm_xml.Types.OSMWay way_record) l -> (("w"^id),way_record.tags)::l) in 
+    let relation_ways_nodes_id_tags = Map.fold osm_record.nodes ~init:relation_ways_id_tags ~f:(fun ~key:(Osm_xml.Types.OSMId id) ~data:(Osm_xml.Types.OSMNode node_record) l -> (("n"^id), node_record.tags)::l) in 
+    List.fold relation_ways_nodes_id_tags ~init:(buildingid_seen, String.Map.empty) ~f:(fun (buildingid_seen, street_to_building_mp) (building_id, building_record) -> 
+        if Set.mem buildingid_seen building_id then (buildingid_seen, street_to_building_mp)
+        else
+            (* root IS building's immediate parent boundary*)
+            let buildingid_seen = Set.add buildingid_seen building_id in
+            (* add to street_to_building. data is another String.Map ~key:building_name ~data:building_id to prevent duplicate building_name*)
+            let street_to_building_mp =
+                match Osm_xml.Types.find_tag building_record "addr:street" with
+                | None -> raise (TagNotFound ("addr:street",building_id))
+                | Some street ->
+                    begin match Osm_xml.Types.find_tag building_record "name" with
+                    | Some building_name -> 
+                        begin Map.update street_to_building_mp street ~f:(function
+                        | None -> String.Map.singleton building_name building_id
+                        | Some buildings_map -> Map.set buildings_map ~key:building_name ~data:building_id)
+                        end
+                    | None ->
+                        begin match Osm_xml.Types.find_tag building_record "addr:housenumber" with
+                        | Some housenumber -> 
+                            begin Map.update street_to_building_mp street ~f:(function
+                            | None -> String.Map.singleton (housenumber^" "^street) building_id
+                            | Some buildings_map -> Map.set buildings_map ~key:(housenumber^" "^street) ~data:building_id)
+                            end
+                        | None -> raise (TagNotFound ("name and addr:housenumber",building_id))
+                        end
+                    end in
+            (buildingid_seen, street_to_building_mp))
    
 (** inverts a string to string map, returning a string to string list map*)
 let invert_map_list mp = 

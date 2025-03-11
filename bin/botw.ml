@@ -15,8 +15,8 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
     (* let found = Bigraph.Nodes.find_all (Bigraph.Ctrl.C ("ID", [S query_string],0)) b.n in *)
     (* print_endline (Core.List.to_string ~f:string_of_int (Bigraph.IntSet.elements found)) *)
     let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/")) then Core_unix.mkdir_p ~perm:0o755 "output/" in
-    let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Yojson.Safe.to_string (Bigraph.Big.yojson_of_t b)) ("output/"^root_string^".json")) in
-    let _ = print_endline ("Bigraph saved to output/"^root_string^".json") in
+    (* let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Yojson.Safe.to_string (Bigraph.Big.yojson_of_t b)) ("output/"^root_string^".json")) in
+    let _ = print_endline ("Bigraph saved to output/"^root_string^".json") in *)
     let _ = 
         if write_dot then 
         let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Bigraph.Big.to_dot b root_string ) ("output/"^root_string^".dot")) in

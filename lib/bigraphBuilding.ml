@@ -3,48 +3,85 @@ open Core
 
 exception TagNotFound of string * string
 
-let rec divide_and_par x = 
-    let rec split x l r = match x with
-    | [] -> (l,r)
-    | x::xs -> split xs r (x::l) in 
-    match x with
+(* let rec divide_and_par x = 
+  let rec split x l r = match x with
+  | [] -> (l,r)
+  | x::xs -> split xs r (x::l) in 
+  match x with
+  | [] -> Big.id_eps
+  | x::[] -> x
+  | _ -> let (l,r) = split x [] [] 
+      in (Big.par (divide_and_par l) (divide_and_par r)) *)
+
+let rec par_of_list_top_down bs = 
+    let split xs = 
+        let rec move s d k =
+            match s with 
+            | [] -> ([],d)
+            | x::xs -> 
+                if k>0 then move xs (x::d) (k-1) 
+                else (s,d) in
+        let k = List.length xs /2 in
+        let (r, l_reversed) = move xs [] k in
+        (List.rev l_reversed, r) in
+    match bs with
     | [] -> Big.id_eps
-    | x::[] -> x
-    | _ -> let (l,r) = split x [] [] 
-        in (Big.par (divide_and_par l) (divide_and_par r))
+    | [b] -> b
+    | _ -> 
+        let (l,r) = split bs in
+    Big.par (par_of_list_top_down l) (par_of_list_top_down r)
+
+(* let par_of_list_bottom_up bs = 
+    let rec helper bs acc = match bs,acc with
+    | b1::b2::bs, acc -> helper bs ((Big.par b1 b2)::acc)
+    | [b], [] -> b
+    | [b], acc -> helper (List.rev (b::acc)) []
+    | [], [] -> Big.id_eps
+    | [], acc -> helper (List.rev acc) [] in
+    helper bs [] *)
 
 (** given a parent to child string-to-string map and a string root, builds the bigraph with that root*)
 let build_place_graph (root_level : string) (root_id : string) (root_name : string) = 
     let root_string = root_level^"-"^root_id^"-"^root_name in
     let boundary_to_parent =  Hierarchy.boundary_to_parent root_level root_id root_name in
-    let parent_to_boundary = Hierarchy.invert_map_list boundary_to_parent in
-    let building_to_parent = Hierarchy.building_to_parent parent_to_boundary root_string in
-    let parent_to_building = Hierarchy.invert_map_set building_to_parent in
-    let rec helper root_string = 
+    let boundary_to_children = Hierarchy.invert_map_list boundary_to_parent in
+    let rec helper buildingid_seen boundary = 
         let ion = Big.ion (Link.parse_face []) Ctrl.{ s = "Boundary"; p = []; i = 0 } in
-        let id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S root_string]; i = 0 } in
+        let id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S boundary]; i = 0 } in
         let site = Big.split 1 in
-        let child_boundary_graphs = 
-        match Map.find parent_to_boundary root_string with
-        | Some children -> 
-            List.map children ~f:(fun child -> helper child)
-        | None -> [] in
-        let child_buildings = 
-        match Map.find parent_to_building root_string with
-        | Some l -> l
-        | None -> String.Set.empty in
-        Big.nest 
-            ion 
-            (divide_and_par (Map.fold (Hierarchy.street_to_buildings child_buildings root_string) ~init:(id::site::child_boundary_graphs) ~f:(fun ~key:street ~data:buildings street_list-> 
-            let street_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S street]; i = 0 } in
-            (Big.nest 
-                (Big.ion (Link.parse_face []) Ctrl.{ s = "Street"; p = []; i = 0 }) 
-                (divide_and_par (Map.fold buildings ~init:[street_id;site] ~f:(fun ~key:building_name ~data:building_id building_list ->
-                    let building_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S (building_id^"-"^building_name)]; i = 0 } in
-                    (Big.nest
-                        (Big.ion (Link.parse_face []) Ctrl.{ s = "Building"; p = []; i = 0 })
-                        (Big.par building_id site))::building_list ))))::street_list))) in
-    helper root_string
+        let (buildingid_seen, child_boundary_graphs) = 
+            match Map.find boundary_to_children boundary with
+            | Some children -> 
+                List.fold children 
+                    ~init:(buildingid_seen, []) 
+                    ~f:(fun (buildingid_seen,child_boundary_graphs) child -> 
+                        let (buildingid_seen, child_place_graph) = helper buildingid_seen child in
+                        (buildingid_seen, child_place_graph::child_boundary_graphs))
+            | None -> (buildingid_seen,[]) in
+        let (buildingid_seen, streets) = Hierarchy.street_to_building buildingid_seen boundary in
+        let place_graph =
+            Big.nest 
+                ion 
+                (par_of_list_top_down 
+                    (Map.fold streets
+                        ~init:(id::site::child_boundary_graphs) 
+                        ~f:(fun ~key:street ~data:buildings boundary_children_bigraphs-> 
+                            let street_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S street]; i = 0 } in
+                            (Big.nest 
+                                (Big.ion (Link.parse_face []) Ctrl.{ s = "Street"; p = []; i = 0 }) 
+                                (par_of_list_top_down 
+                                    (Map.fold buildings 
+                                        ~init:[street_id; site] 
+                                        ~f:(fun ~key:building_name ~data:building_id street_children_bigraphs ->
+                                            let building_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S (building_id^"-"^building_name)]; i = 0 } in
+                                            (Big.nest
+                                                (Big.ion (Link.parse_face []) Ctrl.{ s = "Building"; p = []; i = 0 })
+                                                (Big.par building_id site))
+                                            ::street_children_bigraphs ))))
+                            ::boundary_children_bigraphs))) in
+        (buildingid_seen,place_graph) in
+    let (_, place_graph) = helper String.Set.empty root_string in
+    place_graph
 
 let add_agent_to_bigraph (agent:Big.t) (bigraph:Big.t) (position:int) = 
     let ord = Big.ord_of_inter (Big.inner bigraph) in
