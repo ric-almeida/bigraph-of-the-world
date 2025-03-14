@@ -48,7 +48,8 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
     let rec helper buildingid_seen boundary = 
         let ion = Big.ion (Link.parse_face []) Ctrl.{ s = "Boundary"; p = []; i = 0 } in
         let id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S boundary]; i = 0 } in
-        let site = Big.split 1 in
+        (* let site = Big.split 1 in *)
+        let site = Big.id_eps in
         let (buildingid_seen, child_boundary_graphs) = 
             match Map.find boundary_to_children boundary with
             | Some children -> 
@@ -83,24 +84,37 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
     let (_, place_graph) = helper String.Set.empty root_string in
     place_graph
 
-let add_agent_to_bigraph (agent:Big.t) (bigraph:Big.t) (position:int) = 
+(* let add_agent_to_bigraph (agent:Big.t) (bigraph:Big.t) (position:int) = 
+    (* let site = Big.split 1 in *)
+    let site = Big.id_eps in
     let ord = Big.ord_of_inter (Big.inner bigraph) in
     if position >= ord then
         raise (Invalid_argument ("position "^(string_of_int position)^" not within 0-"^(string_of_int (ord-1))))
     else 
-        Big.comp bigraph (Big.ppar_of_list [Big.id (Big.Inter (position, Link.Face.empty)); Big.par (Big.split 1) agent; Big.id (Big.Inter (ord-position-1, Link.Face.empty))])
+        Big.comp bigraph (Big.ppar_of_list [Big.id (Big.Inter (position, Link.Face.empty)); Big.par site agent; Big.id (Big.Inter (ord-position-1, Link.Face.empty))]) *)
 
 
 module MSSolver = Solver.Make_SAT(Solver.MS)
 module BRS =  Brs.Make(MSSolver)
 
-let add_agent_to_bigraph_rewrite (agent:Big.t) (bigraph:Big.t) (parent_id:Big.t) = 
+let add_agent_to_bigraph_react (agent:Big.t) (bigraph:Big.t) (parent_id:Big.t) = 
     let lhs = parent_id in 
     let rhs = Big.par parent_id agent in 
     let react_add_agent = BRS.parse_react_unsafe ~name:"Add agent"  ~lhs:lhs ~rhs:rhs () None in
     match BRS.step bigraph [react_add_agent] with
     | ((x,_,_)::_,1) ->  x
     | (_,n) -> raise (Not_found_s (Sexplib0.Sexp.message ("Number of possible states: "^(string_of_int n)) []))
+
+let add_agent_to_bigraph_rewrite (b:Big.t) (parent_id:string) (agent:Big.t) = 
+    let parent_id_node = Ctrl.{ s = "ID"; p = [S parent_id]; i = 0 } in
+    let (parent_index,_) = 
+        let found = Nodes.find_all parent_id_node b.n in
+        match Iso.to_list (IntSet.IntSet.fix found) with
+        | [x] -> x
+        | l -> raise (Not_found_s (Sexplib0.Sexp.message ("Number of possible states: "^(string_of_int (List.length l))) []))
+    in
+    let parent_id_bigraph = Big.atom (Link.Face.empty) parent_id_node in
+    Big.rewrite (Iso.add 0 parent_index Iso.empty,Iso.empty,Fun.empty) ~s:b ~r0:parent_id_bigraph ~r1:(Big.par agent parent_id_bigraph) None;;
 
 let agent = Big.ion (Link.parse_face ["connection"]) Ctrl.{ s = "Agent"; p = []; i = 1 }
 let boundary = Big.ion (Link.Face.empty) Ctrl.{ s = "Boundary"; p = []; i = 0 }
