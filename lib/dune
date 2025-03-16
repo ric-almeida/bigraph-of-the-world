@@ -1,6 +1,6 @@
 (library
  (name bigraph_of_the_world)
  (public_name bigraph-of-the-world)
- (libraries cohttp-lwt-unix osm_xml core core_unix bigraph progress landmarks)
- (preprocess (pps landmarks-ppx --auto))
+ (libraries cohttp-lwt-unix osm_xml core core_unix bigraph progress)
+ (instrumentation (backend landmarks --auto))
  )

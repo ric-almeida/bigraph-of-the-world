@@ -1,6 +1,8 @@
 (executable
  (public_name botw)
  (name botw)
- (libraries bigraph_of_the_world core_unix.command_unix landmarks)
+ (libraries bigraph_of_the_world core_unix.command_unix)
  (modes byte exe)
- (preprocess (pps ppx_let landmarks-ppx --auto)))
+ (preprocess (pps ppx_let))
+ (instrumentation (backend landmarks --auto))
+ )

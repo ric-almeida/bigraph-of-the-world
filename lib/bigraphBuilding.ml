@@ -45,44 +45,52 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
     let root_string = root_level^"-"^root_id^"-"^root_name in
     let boundary_to_parent =  Hierarchy.boundary_to_parent root_level root_id root_name in
     let boundary_to_children = Hierarchy.invert_map_list boundary_to_parent in
-    let rec helper buildingid_seen boundary = 
-        let ion = Big.ion (Link.parse_face []) Ctrl.{ s = "Boundary"; p = []; i = 0 } in
-        let id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S boundary]; i = 0 } in
-        (* let site = Big.split 1 in *)
-        let site = Big.id_eps in
-        let (buildingid_seen, child_boundary_graphs) = 
-            match Map.find boundary_to_children boundary with
-            | Some children -> 
-                List.fold children 
-                    ~init:(buildingid_seen, []) 
-                    ~f:(fun (buildingid_seen,child_boundary_graphs) child -> 
-                        let (buildingid_seen, child_place_graph) = helper buildingid_seen child in
-                        (buildingid_seen, child_place_graph::child_boundary_graphs))
-            | None -> (buildingid_seen,[]) in
-        let (buildingid_seen, streets) = Hierarchy.street_to_building buildingid_seen boundary in
-        let place_graph =
-            Big.nest 
-                ion 
-                (par_of_list_top_down 
-                    (Map.fold streets
-                        ~init:(id::site::child_boundary_graphs) 
-                        ~f:(fun ~key:street ~data:buildings boundary_children_bigraphs-> 
-                            let street_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S street]; i = 0 } in
-                            (Big.nest 
-                                (Big.ion (Link.parse_face []) Ctrl.{ s = "Street"; p = []; i = 0 }) 
-                                (par_of_list_top_down 
-                                    (Map.fold buildings 
-                                        ~init:[street_id; site] 
-                                        ~f:(fun ~key:building_name ~data:building_id street_children_bigraphs ->
-                                            let building_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S (building_id^"-"^building_name)]; i = 0 } in
-                                            (Big.nest
-                                                (Big.ion (Link.parse_face []) Ctrl.{ s = "Building"; p = []; i = 0 })
-                                                (Big.par building_id site))
-                                            ::street_children_bigraphs ))))
-                            ::boundary_children_bigraphs))) in
-        (buildingid_seen,place_graph) in
-    let (_, place_graph) = helper String.Set.empty root_string in
-    place_graph
+    let bar =
+        let total = (Map.length boundary_to_parent) in
+        let open Progress.Line in
+        list [ const "Building bigraph"; elapsed (); bar total; percentage_of  total ] in
+    Progress.with_reporter
+        bar
+        (fun report_progress ->
+            let rec helper buildingid_seen boundary = 
+                let ion = Big.ion (Link.parse_face []) Ctrl.{ s = "Boundary"; p = []; i = 0 } in
+                let id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S boundary]; i = 0 } in
+                (* let site = Big.split 1 in *)
+                let site = Big.id_eps in
+                let (buildingid_seen, child_boundary_graphs) = 
+                    match Map.find boundary_to_children boundary with
+                    | Some children -> 
+                        List.fold children 
+                            ~init:(buildingid_seen, []) 
+                            ~f:(fun (buildingid_seen,child_boundary_graphs) child -> 
+                                let (buildingid_seen, child_place_graph) = helper buildingid_seen child in
+                                (buildingid_seen, child_place_graph::child_boundary_graphs))
+                    | None -> (buildingid_seen,[]) in
+                let (buildingid_seen, streets) = Hierarchy.street_to_building buildingid_seen boundary in
+                let place_graph =
+                    Big.nest 
+                        ion 
+                        (par_of_list_top_down 
+                            (Map.fold streets
+                                ~init:(id::site::child_boundary_graphs) 
+                                ~f:(fun ~key:street ~data:buildings boundary_children_bigraphs-> 
+                                    let street_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S street]; i = 0 } in
+                                    (Big.nest 
+                                        (Big.ion (Link.parse_face []) Ctrl.{ s = "Street"; p = []; i = 0 }) 
+                                        (par_of_list_top_down 
+                                            (Map.fold buildings 
+                                                ~init:[street_id; site] 
+                                                ~f:(fun ~key:building_name ~data:building_id street_children_bigraphs ->
+                                                    let building_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S (building_id^"-"^building_name)]; i = 0 } in
+                                                    (Big.nest
+                                                        (Big.ion (Link.parse_face []) Ctrl.{ s = "Building"; p = []; i = 0 })
+                                                        (Big.par building_id site))
+                                                    ::street_children_bigraphs ))))
+                                    ::boundary_children_bigraphs))) in
+                let _ = report_progress 1 in
+                (buildingid_seen,place_graph) in
+            let (_, place_graph) = helper String.Set.empty root_string in
+            place_graph)
 
 (* let add_agent_to_bigraph (agent:Big.t) (bigraph:Big.t) (position:int) = 
     (* let site = Big.split 1 in *)

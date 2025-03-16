@@ -27,6 +27,7 @@
   progress
   osm_xml
   tls-lwt
-  (bigraph (>= 2.0.0)))
+  (bigraph (>= 2.0.0))
+  (landmarks-ppx (and :dev (>= 1.4))))
  (tags
   ("bigraphs")))

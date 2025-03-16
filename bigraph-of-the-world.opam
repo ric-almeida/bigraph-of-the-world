@@ -22,6 +22,7 @@ depends: [
   "osm_xml"
   "tls-lwt"
   "bigraph" {>= "2.0.0"}
+  "landmarks-ppx" {dev & >= "1.4"}
   "odoc" {with-doc}
 ]
 build: [
