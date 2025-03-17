@@ -12,28 +12,19 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
         (Bigraph_of_the_world.Overpass.query_all_children root_level root_id root_name) in
     let b = Bigraph_of_the_world.BigraphBuilding.build_place_graph root_level root_id root_name in
     let _ = print_endline ("Number of nodes: "^(string_of_int (Bigraph.Nodes.size b.n))) in
-    (* let found = Bigraph.Nodes.find_all (Bigraph.Ctrl.C ("ID", [S query_string],0)) b.n in *)
-    (* print_endline (Core.List.to_string ~f:string_of_int (Bigraph.IntSet.elements found)) *)
+    let with_agent = Bigraph_of_the_world.BigraphBuilding.add_agent_to_building_react ~bigraph:b ~agent_id:"Agent A" ~building_id:"w735166217-89 Wype Road" in
+    let _ = print_endline ("Added agent by reaction. Number of nodes: "^(string_of_int (Bigraph.Nodes.size with_agent.n))) in
     let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/")) then Core_unix.mkdir_p ~perm:0o755 "output/" in
     (* let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Yojson.Safe.to_string (Bigraph.Big.yojson_of_t b)) ("output/"^root_string^".json")) in
     let _ = print_endline ("Bigraph saved to output/"^root_string^".json") in *)
-    let _ = 
-        if write_dot then 
-        let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Bigraph.Big.to_dot b root_string ) ("output/"^root_string^".dot")) in
-        print_endline ("Bigraph saved to output/"^root_string^".dot") in
-    (* let disconnected_agent = 
-        (Big.close
-        (Link.parse_face ["connection"])
-        (Big.nest
-            (Big.ion (Link.parse_face ["connection"]) (Ctrl.C ("Agent", [],0)))
-            (Big.atom (Link.Face.empty) (Ctrl.C ("ID", [S "agent 1"],0))))) in
-    let with_agent = Bigraph_of_the_world.BigraphBuilding.add_agent_to_bigraph (Big.par disconnected_agent disconnected_agent) b 0 in *)
-    (* let with_agent = Bigraph_of_the_world.BigraphBuilding.add_agent_to_bigraph_rewrite (Big.par disconnected_agent disconnected_agent) b (Big.atom Link.Face.empty (Ctrl.C ("ID", [S query_string], 0))) in *)
-    (* print_endline ("Number of nodes: "^(string_of_int (Bigraph.Nodes.size with_agent.n))) *)
-    (* let module MSSolver = Solver.Make_SAT(Solver.MS) in *)
-    (* print_int (List.length (MSSolver.occurrences ~target:b ~pattern:(Big.atom Link.Face.empty (Ctrl.C ("ID", [S query_string], 0))))) *)
-    (* let (_,possibilities) = Bigraph_of_the_world.BigraphBuilding.BRS.step with_agent [Bigraph_of_the_world.BigraphBuilding.react_connect_nearby_agents] in *)
-    (* print_endline (string_of_int possibilities) *)
+    let _ = if write_dot then 
+    begin
+        let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/renders")) then Core_unix.mkdir_p ~perm:0o755 "output/renders" in
+        let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Bigraph.Big.to_dot with_agent root_string ) ("output/renders/"^root_string^".dot")) in
+        print_endline ("Bigraph saved to output/"^root_string^".dot")
+    end in
+    (* let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Bigraph.Tikz.big_to_tikz b) ("output/"^root_string^".tikz")) in
+    let _ = print_endline ("Bigraph saved to output/"^root_string^".tikz") in *)
     ()
 
 let command =

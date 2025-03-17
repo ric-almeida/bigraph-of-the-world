@@ -3,17 +3,7 @@ open Core
 
 exception TagNotFound of string * string
 
-(* let rec divide_and_par x = 
-  let rec split x l r = match x with
-  | [] -> (l,r)
-  | x::xs -> split xs r (x::l) in 
-  match x with
-  | [] -> Big.id_eps
-  | x::[] -> x
-  | _ -> let (l,r) = split x [] [] 
-      in (Big.par (divide_and_par l) (divide_and_par r)) *)
-
-let rec par_of_list_top_down bs = 
+let rec of_list_top_down f bs = 
     let split xs = 
         let rec move s d k =
             match s with 
@@ -29,7 +19,7 @@ let rec par_of_list_top_down bs =
     | [b] -> b
     | _ -> 
         let (l,r) = split bs in
-    Big.par (par_of_list_top_down l) (par_of_list_top_down r)
+    f (of_list_top_down f l) (of_list_top_down f r)
 
 (* let par_of_list_bottom_up bs = 
     let rec helper bs acc = match bs,acc with
@@ -52,82 +42,127 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
     Progress.with_reporter
         bar
         (fun report_progress ->
-            let rec helper buildingid_seen boundary = 
-                let ion = Big.ion (Link.parse_face []) Ctrl.{ s = "Boundary"; p = []; i = 0 } in
-                let id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S boundary]; i = 0 } in
-                (* let site = Big.split 1 in *)
-                let site = Big.id_eps in
-                let (buildingid_seen, child_boundary_graphs) = 
-                    match Map.find boundary_to_children boundary with
-                    | Some children -> 
-                        List.fold children 
-                            ~init:(buildingid_seen, []) 
-                            ~f:(fun (buildingid_seen,child_boundary_graphs) child -> 
-                                let (buildingid_seen, child_place_graph) = helper buildingid_seen child in
-                                (buildingid_seen, child_place_graph::child_boundary_graphs))
-                    | None -> (buildingid_seen,[]) in
+            let rec helper buildingid_seen boundary comp_list= 
+                let site = Big.split 1 in
+                let (buildingid_seen, boundary_children_bigraphs) = 
+                    let children_boundaries = 
+                        match Map.find boundary_to_children boundary with
+                        | Some children -> children
+                        | None -> [] in
+                    List.fold children_boundaries 
+                        ~init:(buildingid_seen, [Big.ppar site Big.one]) 
+                        ~f:(fun (buildingid_seen,child_boundary_graphs) child -> 
+                            helper buildingid_seen child child_boundary_graphs) in
                 let (buildingid_seen, streets) = Hierarchy.street_to_building buildingid_seen boundary in
                 let place_graph =
-                    Big.nest 
-                        ion 
-                        (par_of_list_top_down 
+                    (Big.close
+                        (Link.parse_face ["id"])
+                        (Big.ppar
+                            (Big.par
+                                (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "ID"; p = [S boundary]; i = 1 })
+                                site (* sibiling id*)
+                            )
+                            (Big.par
+                                (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Boundary"; p = []; i = 1 })
+                                site (* sibiling boundary*)
+                            )
+                        )
+                    )::
+                    (Big.ppar
+                        (of_list_top_down (Big.comp) 
                             (Map.fold streets
-                                ~init:(id::site::child_boundary_graphs) 
-                                ~f:(fun ~key:street ~data:buildings boundary_children_bigraphs-> 
-                                    let street_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S street]; i = 0 } in
-                                    (Big.nest 
-                                        (Big.ion (Link.parse_face []) Ctrl.{ s = "Street"; p = []; i = 0 }) 
-                                        (par_of_list_top_down 
+                                ~init:boundary_children_bigraphs
+                                ~f:(fun ~key:street ~data:buildings boundary_children_bigraphs->
+                                    (* nest*)
+                                    (Big.close
+                                        (Link.parse_face ["id"])
+                                        (Big.ppar
+                                            (Big.par
+                                                (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "ID"; p = [S street]; i = 1 })
+                                                site (* sibiling id*)
+                                            )
+                                            (Big.par
+                                                (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Street"; p = []; i = 1 })
+                                                site (* sibiling street*)
+                                            )
+                                        ) 
+                                    )::
+                                    (Big.ppar 
+                                        (of_list_top_down (Big.comp) (* par buildings*)
                                             (Map.fold buildings 
-                                                ~init:[street_id; site] 
+                                                ~init:[Big.ppar site Big.one] (* close open-ended buildings sibling*)
                                                 ~f:(fun ~key:building_name ~data:building_id street_children_bigraphs ->
-                                                    let building_id = Big.atom Link.Face.empty Ctrl.{ s = "ID"; p = [S (building_id^"-"^building_name)]; i = 0 } in
-                                                    (Big.nest
-                                                        (Big.ion (Link.parse_face []) Ctrl.{ s = "Building"; p = []; i = 0 })
-                                                        (Big.par building_id site))
-                                                    ::street_children_bigraphs ))))
-                                    ::boundary_children_bigraphs))) in
+                                                    (Big.close
+                                                        (Link.parse_face ["id"])
+                                                        (Big.ppar
+                                                            (Big.par 
+                                                                (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "ID"; p = [S (building_id^"-"^building_name)]; i = 1 })
+                                                                site (* sibling id*)
+                                                            )
+                                                            (Big.par
+                                                                (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "Building"; p = []; i = 1 })
+                                                                site (* sibiling building*)
+                                                            )
+                                                        )
+                                                    )::
+                                                    street_children_bigraphs    
+                                                )
+                                            )
+                                        )
+                                        site (* sibling street*)
+                                    )::
+                                    boundary_children_bigraphs
+                                )
+                            )
+                        )
+                        site (* sibling boundary*)
+                    )::comp_list in
                 let _ = report_progress 1 in
                 (buildingid_seen,place_graph) in
-            let (_, place_graph) = helper String.Set.empty root_string in
-            place_graph)
-
-(* let add_agent_to_bigraph (agent:Big.t) (bigraph:Big.t) (position:int) = 
-    (* let site = Big.split 1 in *)
-    let site = Big.id_eps in
-    let ord = Big.ord_of_inter (Big.inner bigraph) in
-    if position >= ord then
-        raise (Invalid_argument ("position "^(string_of_int position)^" not within 0-"^(string_of_int (ord-1))))
-    else 
-        Big.comp bigraph (Big.ppar_of_list [Big.id (Big.Inter (position, Link.Face.empty)); Big.par site agent; Big.id (Big.Inter (ord-position-1, Link.Face.empty))]) *)
-
+            let (_, place_graph) = helper String.Set.empty root_string [Big.ppar Big.one Big.one]in
+           of_list_top_down (Big.comp) place_graph
+        )
 
 module MSSolver = Solver.Make_SAT(Solver.MS)
 module BRS =  Brs.Make(MSSolver)
 
-let add_agent_to_bigraph_react (agent:Big.t) (bigraph:Big.t) (parent_id:Big.t) = 
-    let lhs = parent_id in 
-    let rhs = Big.par parent_id agent in 
-    let react_add_agent = BRS.parse_react_unsafe ~name:"Add agent"  ~lhs:lhs ~rhs:rhs () None in
+let add_agent_to_building_react ~bigraph ~agent_id  ~building_id= 
+    let parent = Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Building"; p = []; i = 1 } in
+    let parent_id = Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "ID"; p = [S building_id]; i = 1 } in
+    let lhs = 
+        Big.close
+            (Link.parse_face ["id"])
+            (Big.ppar parent_id parent) in 
+    let site = Big.split 1 in
+    let child = 
+        Big.close
+            (Link.parse_face ["connection"])
+            (Big.atom (Link.parse_face ["id";"connection"]) Ctrl.{ s = "Agent"; p = []; i = 2 }) in
+    let child_id = Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "ID"; p = [S agent_id]; i = 1 } in
+    let rhs = 
+        Big.nest 
+            (Big.close
+                (Link.parse_face ["id"])
+                (Big.ppar 
+                    (Big.par parent_id site)
+                    parent) 
+            )
+            (Big.close
+                (Link.parse_face ["id"])
+                (Big.ppar child_id (Big.par child site))
+            ) in 
+    let react_add_agent = BRS.parse_react_unsafe ~name:("Add agent "^agent_id^" to building "^building_id)  ~lhs:lhs ~rhs:rhs () None in
     match BRS.step bigraph [react_add_agent] with
     | ((x,_,_)::_,1) ->  x
     | (_,n) -> raise (Not_found_s (Sexplib0.Sexp.message ("Number of possible states: "^(string_of_int n)) []))
 
-let add_agent_to_bigraph_rewrite (b:Big.t) (parent_id:string) (agent:Big.t) = 
-    let parent_id_node = Ctrl.{ s = "ID"; p = [S parent_id]; i = 0 } in
-    let (parent_index,_) = 
-        let found = Nodes.find_all parent_id_node b.n in
-        match Iso.to_list (IntSet.IntSet.fix found) with
-        | [x] -> x
-        | l -> raise (Not_found_s (Sexplib0.Sexp.message ("Number of possible states: "^(string_of_int (List.length l))) []))
-    in
-    let parent_id_bigraph = Big.atom (Link.Face.empty) parent_id_node in
-    Big.rewrite (Iso.add 0 parent_index Iso.empty,Iso.empty,Fun.empty) ~s:b ~r0:parent_id_bigraph ~r1:(Big.par agent parent_id_bigraph) None;;
-
-let agent = Big.ion (Link.parse_face ["connection"]) Ctrl.{ s = "Agent"; p = []; i = 1 }
-let boundary = Big.ion (Link.Face.empty) Ctrl.{ s = "Boundary"; p = []; i = 0 }
-let street = Big.ion (Link.Face.empty) Ctrl.{ s = "Street"; p = []; i = 0 }
-let building = Big.ion (Link.Face.empty) Ctrl.{ s = "Building"; p = []; i = 0 }
+let agent = Big.atom (Link.parse_face ["agent_id";"connection"]) Ctrl.{ s = "Agent"; p = []; i = 2 }
+let agent2 = Big.atom (Link.parse_face ["agent_id2";"connection"]) Ctrl.{ s = "Agent"; p = []; i = 2 }
+let disconnected_agent = Big.close (Link.parse_face ["connection"]) agent
+let disconnected_agent2 = Big.close (Link.parse_face ["connection"]) agent2
+let boundary = Big.ion (Link.parse_face ["boundary_id"]) Ctrl.{ s = "Boundary"; p = []; i = 1 }
+let street = Big.ion (Link.parse_face ["street_id"]) Ctrl.{ s = "Street"; p = []; i = 1 }
+let building = Big.ion (Link.parse_face ["building_id"]) Ctrl.{ s = "Building"; p = []; i = 1 }
 let site = Big.split 1
 
 let react_up_boundary = 
@@ -180,24 +215,22 @@ let react_down_building =
     BRS.parse_react_unsafe ~name:"Move down building"  ~lhs:lhs ~rhs:rhs () None
 
 let react_connect_nearby_agents = 
-    let disconnected_agent = Big.close (Link.parse_face ["connection"]) agent in
-    let lhs = Big.par disconnected_agent disconnected_agent in
+    let lhs = Big.par disconnected_agent disconnected_agent2 in
     let rhs = 
         Big.close 
             (Link.parse_face ["connection"])
-            (Big.par agent agent) in
+            (Big.par agent agent2) in
     BRS.parse_react_unsafe ~name:"Connect nearby agents"  ~lhs:lhs ~rhs:rhs () None
 
-let disconnect_agents = 
-    let disconnected_agent = Big.close (Link.parse_face ["connection"]) agent in
+let react_disconnect_agents = 
     let lhs = 
         Big.close 
             (Link.parse_face ["connection"])
-            (Big.ppar agent agent) in
-    let rhs = Big.ppar disconnected_agent disconnected_agent in
+            (Big.ppar agent agent2) in
+    let rhs = Big.ppar disconnected_agent disconnected_agent2 in
     BRS.parse_react_unsafe ~name:"Disconnect agents"  ~lhs:lhs ~rhs:rhs () None
 
 let react_rules = 
     [react_up_building; react_up_street; react_up_boundary; 
     react_down_boundary; react_down_street; react_down_building; 
-    react_connect_nearby_agents; disconnect_agents]
+    react_connect_nearby_agents; react_disconnect_agents]
