@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-03-25T16:11:35Z" areas="2025-02-06T02:17:44Z"/>
+
+  <node id="60851505" lat="52.1628987" lon="-0.0064572" version="5" timestamp="2022-03-08T20:24:17Z" changeset="118251543" uid="1287673" user="sloerunner">
+    <tag k="addr:city" v="Great Eversden"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 1HN"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="alt_name" v="The Hoops Tandoori"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="fhrs:id" v="597148"/>
+    <tag k="fhrs:local_authority_id" v="PI/000121294"/>
+    <tag k="name" v="Cam Spice"/>
+    <tag k="phone" v="+44 1223 264443"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.camspice.co.uk/"/>
+  </node>
+  <node id="9110441881" lat="52.1666553" lon="-0.0108066" version="1" timestamp="2021-09-21T09:31:50Z" changeset="111485422" uid="6816132" user="CjMalone">
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="CB23 1HW"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="fhrs:id" v="1215731"/>
+    <tag k="name" v="Red House Farm"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <way id="4272588" version="16" timestamp="2024-02-27T16:15:24Z" changeset="147979849" uid="742701" user="kerr smith">
+    <nd ref="60850900"/>
+    <nd ref="10803116077"/>
+    <nd ref="60850901"/>
+    <nd ref="5296734491"/>
+    <nd ref="60850902"/>
+    <nd ref="5296734525"/>
+    <nd ref="5296734488"/>
+    <nd ref="2279758765"/>
+    <nd ref="60850904"/>
+    <nd ref="731820041"/>
+    <nd ref="5276285"/>
+    <nd ref="5276286"/>
+    <nd ref="6029985786"/>
+    <nd ref="729798559"/>
+    <nd ref="10807473272"/>
+    <nd ref="4393558249"/>
+    <nd ref="5276287"/>
+    <nd ref="5296734202"/>
+    <nd ref="1248933792"/>
+    <nd ref="60850905"/>
+    <nd ref="11669420441"/>
+    <nd ref="5276289"/>
+    <nd ref="1248934151"/>
+    <nd ref="1248933761"/>
+    <nd ref="6029985785"/>
+    <nd ref="10770564294"/>
+    <nd ref="1248934031"/>
+    <nd ref="10844211195"/>
+    <nd ref="10770564304"/>
+    <nd ref="60850906"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High Street"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="8113730" version="4" timestamp="2017-12-21T03:25:49Z" changeset="54802718" uid="5173844" user="ndrw6">
+    <nd ref="5276276"/>
+    <nd ref="60850892"/>
+    <nd ref="60850893"/>
+    <nd ref="60850894"/>
+    <nd ref="60850895"/>
+    <nd ref="60850896"/>
+    <nd ref="731820033"/>
+    <nd ref="60850897"/>
+    <nd ref="60850898"/>
+    <nd ref="5296734790"/>
+    <nd ref="5296734788"/>
+    <nd ref="5296734785"/>
+    <nd ref="5296734781"/>
+    <nd ref="60850899"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Buck's Lane"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="8113731" version="5" timestamp="2023-03-29T10:25:34Z" changeset="134256322" uid="742701" user="kerr smith">
+    <nd ref="5276283"/>
+    <nd ref="2279758283"/>
+    <nd ref="60850913"/>
+    <nd ref="5296734699"/>
+    <nd ref="60850915"/>
+    <nd ref="5296734693"/>
+    <nd ref="5296734703"/>
+    <nd ref="60850918"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Chapel Road"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="8113732" version="10" timestamp="2018-11-01T15:29:19Z" changeset="64082872" uid="1257159" user="Jean-Pierre Rondeau">
+    <nd ref="60850900"/>
+    <nd ref="6029985788"/>
+    <nd ref="6029985789"/>
+    <nd ref="5296703160"/>
+    <nd ref="731820035"/>
+    <nd ref="731820045"/>
+    <nd ref="729798528"/>
+    <nd ref="60850919"/>
+    <nd ref="60850920"/>
+    <nd ref="4352981613"/>
+    <nd ref="2279758319"/>
+    <nd ref="260378237"/>
+    <nd ref="5296734573"/>
+    <nd ref="60850921"/>
+    <nd ref="60850922"/>
+    <nd ref="60850923"/>
+    <nd ref="60850924"/>
+    <nd ref="60850925"/>
+    <nd ref="60850926"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Wimpole Road"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="8113733" version="2" timestamp="2013-04-24T17:07:16Z" changeset="15851641" uid="281267" user="smb1001">
+    <nd ref="60850921"/>
+    <nd ref="2279758678"/>
+    <nd ref="60850927"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ivett's Close"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="8113873" version="10" timestamp="2024-02-15T11:46:33Z" changeset="147487441" uid="742701" user="kerr smith">
+    <nd ref="5276292"/>
+    <nd ref="1730772727"/>
+    <nd ref="10844211116"/>
+    <nd ref="4393558252"/>
+    <nd ref="10770564290"/>
+    <nd ref="703068690"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Kingston Road"/>
+  </way>
+  <way id="8113881" version="24" timestamp="2024-02-15T11:46:33Z" changeset="147487441" uid="742701" user="kerr smith">
+    <nd ref="60851382"/>
+    <nd ref="8679717416"/>
+    <nd ref="60851075"/>
+    <nd ref="8880056881"/>
+    <nd ref="60851369"/>
+    <nd ref="1771796314"/>
+    <nd ref="8880084323"/>
+    <nd ref="8880084324"/>
+    <nd ref="8880084325"/>
+    <nd ref="8880084326"/>
+    <nd ref="8880056915"/>
+    <nd ref="8887569745"/>
+    <nd ref="60851676"/>
+    <nd ref="1771796431"/>
+    <nd ref="7417058154"/>
+    <nd ref="4248094448"/>
+    <nd ref="4248094455"/>
+    <nd ref="4248094453"/>
+    <nd ref="1604158590"/>
+    <nd ref="4248094460"/>
+    <nd ref="1771801302"/>
+    <nd ref="1771801270"/>
+    <nd ref="60851370"/>
+    <nd ref="60851371"/>
+    <nd ref="3673512074"/>
+    <nd ref="9001716123"/>
+    <nd ref="60851372"/>
+    <nd ref="1771796232"/>
+    <nd ref="1771796331"/>
+    <nd ref="1771796235"/>
+    <nd ref="1771796366"/>
+    <nd ref="1771796339"/>
+    <nd ref="1771796375"/>
+    <nd ref="1771796386"/>
+    <nd ref="1771796341"/>
+    <nd ref="1771796433"/>
+    <nd ref="9001701776"/>
+    <nd ref="1771796445"/>
+    <nd ref="9001701775"/>
+    <nd ref="1771796424"/>
+    <nd ref="1771796329"/>
+    <nd ref="1771796442"/>
+    <nd ref="1771796325"/>
+    <nd ref="1771796262"/>
+    <nd ref="1771796400"/>
+    <nd ref="1771796222"/>
+    <nd ref="1771796268"/>
+    <nd ref="1771796398"/>
+    <nd ref="1771796377"/>
+    <nd ref="1771796327"/>
+    <nd ref="1771796337"/>
+    <nd ref="1771796390"/>
+    <nd ref="1771796343"/>
+    <nd ref="1771796429"/>
+    <nd ref="1771796223"/>
+    <nd ref="1771796273"/>
+    <nd ref="1771796382"/>
+    <nd ref="1771796257"/>
+    <nd ref="1771796332"/>
+    <nd ref="1771796229"/>
+    <nd ref="1771796219"/>
+    <nd ref="1771796393"/>
+    <nd ref="1771796286"/>
+    <nd ref="1771796384"/>
+    <nd ref="60851373"/>
+    <nd ref="1771796436"/>
+    <nd ref="1771796276"/>
+    <nd ref="1771796388"/>
+    <nd ref="1771796395"/>
+    <nd ref="1771796320"/>
+    <nd ref="1771796274"/>
+    <nd ref="1771796318"/>
+    <nd ref="9238827588"/>
+    <nd ref="1771796443"/>
+    <nd ref="1771796438"/>
+    <nd ref="1771796373"/>
+    <nd ref="1771796312"/>
+    <nd ref="1771796336"/>
+    <nd ref="10793018085"/>
+    <nd ref="1771796434"/>
+    <nd ref="9080509247"/>
+    <nd ref="1771796397"/>
+    <nd ref="1771796404"/>
+    <nd ref="8702477635"/>
+    <nd ref="1771796264"/>
+    <nd ref="8702477628"/>
+    <nd ref="1771796402"/>
+    <nd ref="8702477634"/>
+    <nd ref="7553325507"/>
+    <nd ref="60851374"/>
+    <nd ref="1771796278"/>
+    <nd ref="1771796379"/>
+    <nd ref="8702477619"/>
+    <nd ref="1771796226"/>
+    <nd ref="3673512109"/>
+    <nd ref="1771796323"/>
+    <nd ref="1771796255"/>
+    <nd ref="1771796440"/>
+    <nd ref="1771796260"/>
+    <nd ref="60851376"/>
+    <nd ref="11626635486"/>
+    <nd ref="11626635495"/>
+    <nd ref="9001716168"/>
+    <nd ref="9001716205"/>
+    <nd ref="9001716206"/>
+    <nd ref="9001716224"/>
+    <nd ref="60851377"/>
+    <nd ref="9001716225"/>
+    <nd ref="9001716231"/>
+    <nd ref="8880239709"/>
+    <nd ref="8880254503"/>
+    <nd ref="8880239708"/>
+    <nd ref="8880254504"/>
+    <nd ref="8880254505"/>
+    <nd ref="60851379"/>
+    <nd ref="1771796269"/>
+    <nd ref="1771796283"/>
+    <nd ref="1771796271"/>
+    <nd ref="8880254506"/>
+    <nd ref="8880254555"/>
+    <nd ref="60851380"/>
+    <nd ref="8880239715"/>
+    <nd ref="60851381"/>
+    <nd ref="8880254561"/>
+    <nd ref="8880254419"/>
+    <nd ref="8880254418"/>
+    <nd ref="8880239716"/>
+    <nd ref="8880254562"/>
+    <nd ref="8880254560"/>
+    <nd ref="60851382"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 2RY"/>
+    <tag k="addr:street" v="Comberton Road"/>
+    <tag k="addr:village" v="Toft"/>
+    <tag k="description" v="18 hole Par 73"/>
+    <tag k="email" v="meridian@golfsocieties.com"/>
+    <tag k="golf:course" v="18_hole"/>
+    <tag k="golf:designer" v="Peter Alliss and Clive Clark"/>
+    <tag k="golf:par" v="73"/>
+    <tag k="leisure" v="golf_course"/>
+    <tag k="name" v="Cambridge Meridian Golf Course"/>
+    <tag k="phone" v="+44 1223 264 700"/>
+    <tag k="website" v="https://cmgc.co.uk/"/>
+  </way>
+  <way id="8113915" version="1" timestamp="2007-10-06T14:36:58Z" changeset="49197" uid="3582" user="davidearl">
+    <nd ref="60850888"/>
+    <nd ref="60851503"/>
+    <tag k="created_by" v="comsomol"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Harlton Road"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="8113921" version="11" timestamp="2023-04-10T15:37:27Z" changeset="134737295" uid="742701" user="kerr smith">
+    <nd ref="60851503"/>
+    <nd ref="260378244"/>
+    <nd ref="10799566069"/>
+    <nd ref="10799566076"/>
+    <nd ref="2069497462"/>
+    <nd ref="5276279"/>
+    <nd ref="2537958878"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="218748858" version="3" timestamp="2021-08-28T18:32:12Z" changeset="110390773" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="2279758540"/>
+    <nd ref="2279758351"/>
+    <nd ref="2279758653"/>
+    <nd ref="2279758581"/>
+    <nd ref="2279758746"/>
+    <nd ref="2279758756"/>
+    <nd ref="2279758474"/>
+    <nd ref="2279758731"/>
+    <nd ref="2279758540"/>
+    <tag k="addr:city" v="Great Eversden"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 1HP"/>
+    <tag k="addr:street" v="Chapel Road"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Eversden Village Hall"/>
+    <tag k="start_date" v="1845"/>
+  </way>
+  <way id="254937938" version="3" timestamp="2018-11-01T15:29:26Z" changeset="64082872" uid="1257159" user="Jean-Pierre Rondeau">
+    <nd ref="2537958878"/>
+    <nd ref="732742531"/>
+    <nd ref="60850889"/>
+    <nd ref="5276280"/>
+    <nd ref="1475116940"/>
+    <nd ref="6029985791"/>
+    <nd ref="60850890"/>
+    <nd ref="6029985790"/>
+    <nd ref="5296734610"/>
+    <nd ref="60850891"/>
+    <nd ref="5276282"/>
+    <nd ref="5276283"/>
+    <nd ref="60850900"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="254937939" version="3" timestamp="2017-05-08T12:23:52Z" changeset="48500556" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="260378245"/>
+    <nd ref="60850887"/>
+    <nd ref="5276276"/>
+    <nd ref="4841599462"/>
+    <nd ref="5276277"/>
+    <nd ref="2701252568"/>
+    <nd ref="2701252578"/>
+    <nd ref="60850888"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Harlton Road"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="254938346" version="9" timestamp="2024-02-25T12:10:08Z" changeset="147888043" uid="742701" user="kerr smith">
+    <nd ref="703068690"/>
+    <nd ref="60850908"/>
+    <nd ref="5857162737"/>
+    <nd ref="60850909"/>
+    <nd ref="4393558251"/>
+    <nd ref="5276295"/>
+    <nd ref="4393558248"/>
+    <nd ref="5276296"/>
+    <nd ref="9238827604"/>
+    <nd ref="60850910"/>
+    <nd ref="10797795858"/>
+    <nd ref="8702477674"/>
+    <nd ref="5276298"/>
+    <nd ref="11662651517"/>
+    <nd ref="60850911"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Kingston Road"/>
+  </way>
+  <way id="254938348" version="4" timestamp="2023-04-26T15:34:16Z" changeset="135392587" uid="742701" user="kerr smith">
+    <nd ref="60850906"/>
+    <nd ref="1248934229"/>
+    <nd ref="5857162672"/>
+    <nd ref="10844199696"/>
+    <nd ref="5276290"/>
+    <nd ref="6029985784"/>
+    <nd ref="1248934285"/>
+    <nd ref="60850907"/>
+    <nd ref="10844211106"/>
+    <nd ref="1248933690"/>
+    <nd ref="5276292"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High Street"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="548261239" version="2" timestamp="2024-01-28T21:35:27Z" changeset="146796090" uid="10633286" user="Moorit">
+    <nd ref="5296703098"/>
+    <nd ref="5296703099"/>
+    <nd ref="5296703100"/>
+    <nd ref="5296703101"/>
+    <nd ref="5296703098"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Wimpole Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="548261246" version="2" timestamp="2021-06-10T19:08:51Z" changeset="106173776" uid="10633286" user="Moorit">
+    <nd ref="5296703132"/>
+    <nd ref="5296703133"/>
+    <nd ref="5296703134"/>
+    <nd ref="5296703135"/>
+    <nd ref="5296703132"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Wimpole Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="548261248" version="3" timestamp="2022-03-17T16:47:13Z" changeset="118602896" uid="5173844" user="ndrw6">
+    <nd ref="5296703141"/>
+    <nd ref="5296703142"/>
+    <nd ref="5296703143"/>
+    <nd ref="5296703144"/>
+    <nd ref="9585928827"/>
+    <nd ref="5296703141"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Wimpole Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="548261263" version="2" timestamp="2023-05-17T11:48:54Z" changeset="136209389" uid="1428841" user="BarnabasBaggs">
+    <nd ref="5296703202"/>
+    <nd ref="5296703203"/>
+    <nd ref="5296703204"/>
+    <nd ref="5296703205"/>
+    <nd ref="5296703202"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Chapel Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Nixon's Hall"/>
+  </way>
+  <way id="548261266" version="2" timestamp="2023-08-03T18:54:28Z" changeset="139408933" uid="10633286" user="Moorit">
+    <nd ref="5296703214"/>
+    <nd ref="5296703215"/>
+    <nd ref="5296703216"/>
+    <nd ref="5296703217"/>
+    <nd ref="5296703214"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Chapel Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="619868635" version="3" timestamp="2024-02-16T14:48:27Z" changeset="147535584" uid="742701" user="kerr smith">
+    <nd ref="5857162209"/>
+    <nd ref="5857162208"/>
+    <nd ref="5857162207"/>
+    <nd ref="5857162206"/>
+    <nd ref="11626718951"/>
+    <nd ref="11626718949"/>
+    <nd ref="11626718948"/>
+    <nd ref="11626718950"/>
+    <nd ref="5857162209"/>
+    <tag k="addr:housename" v="Brook Cottage"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="CB23 1HT"/>
+    <tag k="addr:street" v="Kingston Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="note" v="This house appears to be on Tinkers Lane but a local resident explained that even though technically this house is in Great Eversden it has Kingston Road as its street name"/>
+  </way>
+  <way id="619868650" version="4" timestamp="2024-02-15T12:32:01Z" changeset="147489400" uid="742701" user="kerr smith">
+    <nd ref="11626718937"/>
+    <nd ref="11626718942"/>
+    <nd ref="11626718941"/>
+    <nd ref="11626718940"/>
+    <nd ref="11626718943"/>
+    <nd ref="5857162589"/>
+    <nd ref="11626718938"/>
+    <nd ref="11626718939"/>
+    <nd ref="5857162586"/>
+    <nd ref="5857162587"/>
+    <nd ref="10593959357"/>
+    <nd ref="11626718935"/>
+    <nd ref="11626718937"/>
+    <tag k="addr:housename" v="Graycots"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="CB23 1HT"/>
+    <tag k="addr:street" v="Kingston Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="619868651" version="2" timestamp="2024-02-15T12:32:01Z" changeset="147489400" uid="742701" user="kerr smith">
+    <nd ref="5857162595"/>
+    <nd ref="5857162592"/>
+    <nd ref="5857162591"/>
+    <nd ref="5857162590"/>
+    <nd ref="5857162593"/>
+    <nd ref="5857162594"/>
+    <nd ref="5857162595"/>
+    <tag k="addr:housename" v="Hill House Farm"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CB23 1HT"/>
+    <tag k="addr:street" v="Kingston Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1000893889" version="3" timestamp="2024-02-16T14:48:27Z" changeset="147535584" uid="742701" user="kerr smith">
+    <nd ref="60850912"/>
+    <nd ref="9238827607"/>
+    <nd ref="11630594084"/>
+    <nd ref="9238827605"/>
+    <nd ref="5276301"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Tinkers Lane"/>
+    <tag k="not:name" v="Tinker's Lane"/>
+  </way>
+  <way id="1041195482" version="1" timestamp="2022-03-17T16:47:13Z" changeset="118602896" uid="5173844" user="ndrw6">
+    <nd ref="9585928827"/>
+    <nd ref="5296703145"/>
+    <nd ref="5296703140"/>
+    <nd ref="5296703141"/>
+    <nd ref="9585928827"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Wimpole Road"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="1251184939" version="2" timestamp="2024-02-25T12:10:08Z" changeset="147888043" uid="742701" user="kerr smith">
+    <nd ref="60850911"/>
+    <nd ref="11662651518"/>
+    <nd ref="6029985782"/>
+    <nd ref="6029985781"/>
+    <nd ref="11662651516"/>
+    <nd ref="5276299"/>
+    <nd ref="4393558253"/>
+    <nd ref="11630583149"/>
+    <nd ref="60850912"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Tinkers Lane"/>
+    <tag k="not:name" v="Tinker's Lane"/>
+  </way>
+  <way id="1255295439" version="1" timestamp="2024-02-27T16:15:24Z" changeset="147979849" uid="742701" user="kerr smith">
+    <nd ref="11669420454"/>
+    <nd ref="11669420461"/>
+    <nd ref="11669420455"/>
+    <nd ref="11669420453"/>
+    <nd ref="11669420462"/>
+    <nd ref="11669420456"/>
+    <nd ref="11669420459"/>
+    <nd ref="11669420463"/>
+    <nd ref="11669420454"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housename" v="The Manor Cottage"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="CB23 1HW"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:village" v="Great Eversden"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  </way>
+
+</osm>

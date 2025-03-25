@@ -1,3 +1,4 @@
+(* 10 1609601 Kennett*)
 (* dune exec bigraph_of_the_world 10 1609095 Whittlesey 92*)
 (* dune exec bigraph_of_the_world 8 295349 Fenland 2928*)
 (* dune exec bigraph_of_the_world 8 295352 "East Cambridgeshire" 9728*)
@@ -8,11 +9,9 @@
 
 let main (root_level : string) (root_id : string) (root_name : string) write_dot=
     let root_string = root_level^"-"^root_id^"-"^root_name in
-    let _ = if not (Lwt_main.run (Lwt_unix.file_exists ("data/boundaries/"^root_string^".osm"))) then 
-        (Bigraph_of_the_world.Overpass.query_all_children root_level root_id root_name) in
     let b = Bigraph_of_the_world.BigraphBuilding.build_place_graph root_level root_id root_name in
     let _ = print_endline ("Number of nodes: "^(string_of_int (Bigraph.Nodes.size b.n))) in
-    let with_agent = Bigraph_of_the_world.BigraphBuilding.add_agent_to_building_react ~bigraph:b ~agent_id:"Agent A" ~building_id:"w735166217-89 Wype Road" in
+    let with_agent = Bigraph_of_the_world.BigraphBuilding.add_agent_to_building_react ~bigraph:b ~agent_id:"Agent A" ~building_id:"Kentford Telephone Exchange" in
     let _ = print_endline ("Added agent by reaction. Number of nodes: "^(string_of_int (Bigraph.Nodes.size with_agent.n))) in
     let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/")) then Core_unix.mkdir_p ~perm:0o755 "output/" in
     (* let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Yojson.Safe.to_string (Bigraph.Big.yojson_of_t b)) ("output/"^root_string^".json")) in
@@ -20,8 +19,8 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
     let _ = if write_dot then 
     begin
         let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/renders")) then Core_unix.mkdir_p ~perm:0o755 "output/renders" in
-        let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Bigraph.Big.to_dot with_agent root_string ) ("output/renders/"^root_string^".dot")) in
-        print_endline ("Bigraph saved to output/"^root_string^".dot")
+        let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Bigraph.Big.to_dot b root_string ) ("output/renders/"^root_string^".dot")) in
+        print_endline ("Bigraph saved to output/renders/"^root_string^".dot")
     end in
     (* let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Bigraph.Tikz.big_to_tikz b) ("output/"^root_string^".tikz")) in
     let _ = print_endline ("Bigraph saved to output/"^root_string^".tikz") in *)
