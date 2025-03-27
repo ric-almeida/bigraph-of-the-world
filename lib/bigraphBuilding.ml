@@ -32,13 +32,14 @@ let rec of_list_top_down f bs =
 
 let add_sites_to_left_then_comp f g =
     let diff = Big.ord_of_inter (Big.inner f) - Big.ord_of_inter (Big.outer g) in
-    let _ = assert (diff>=0) in
     let site = Big.split 1 in
     let rec add_sites l = function
     | 0 -> l
     | n -> add_sites (site::l) (n-1) in
-    let g = of_list_top_down Big.ppar (add_sites [g] diff) in
-    Big.nest f g
+    if diff>=0 
+        then    Big.nest f (of_list_top_down Big.ppar (add_sites [g] diff))
+    else    Big.nest (of_list_top_down Big.ppar (add_sites [f] (-diff))) g
+    
 
 (** given a parent to child string-to-string map and a string root, builds the bigraph with that root*)
 let build_place_graph (root_level : string) (root_id : string) (root_name : string) = 
@@ -67,7 +68,7 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                         | Some children -> children
                         | None -> [] in
                     List.fold children_boundaries 
-                        ~init:(buildingid_seen, [Big.ppar Big.one site]) 
+                        ~init:(buildingid_seen, (Big.ppar site Big.one)::comp_list) 
                         ~f:(fun (buildingid_seen,child_boundary_graphs) child -> 
                             helper buildingid_seen child child_boundary_graphs) in
                 let (buildingid_seen, street_name_to_street_ids_and_buildings) = Hierarchy.street_name_to_street_ids_and_buildings buildingid_seen boundary in
@@ -76,20 +77,18 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                         (Link.parse_face ["id"])
                         (Big.ppar
                             (Big.par
-                                (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Boundary"; p = []; i = 1 })
-                                site (* sibiling boundary*)
-                            )
-                            (Big.par
                                 (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "ID"; p = [S boundary_name]; i = 1 })
                                 site (* sibiling id*)
                             )
+                            (Big.par
+                                (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Boundary"; p = []; i = 1 })
+                                site (* sibiling boundary*)
+                            )
                         )
                     )::
-                    (Big.placing [[0];[2];[1]] 3 Link.Face.empty)::
-                    (Big.ppar
-                        (of_list_top_down (add_sites_to_left_then_comp) 
+                    (* (Big.placing [[0];[2];[1]] 3 Link.Face.empty):: *)
                             (Map.fold street_name_to_street_ids_and_buildings
-                                ~init:boundary_children_bigraphs
+                                ~init:((Big.placing [[2];[0];[1]] 3 Link.Face.empty)::(Big.ppar site (Big.ppar site site))::boundary_children_bigraphs) (* add site to left then move to right*)
                                 ~f:(fun ~key:street_name ~data:(street_ids,buildings) boundary_children_bigraphs->
                                     let junctions =
                                         List.fold street_ids ~init:[] ~f:(fun junctions street_id ->
@@ -101,21 +100,23 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                                         (Link.parse_face ["id"])
                                         (Big.ppar
                                             (Big.par
-                                                (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Street"; p = []; i = 1 })
-                                                site (* sibiling street*)
-                                            )
-                                            (Big.par
                                                 (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "ID"; p = [S street_name]; i = 1 })
                                                 site (* sibiling id*)
                                             )
+                                            (Big.ppar
+                                                (Big.par
+                                                    (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Street"; p = []; i = 1 })
+                                                    site (* sibiling street*)
+                                                )
+                                                site (*sibling boundary*)
+                                            )
                                         ) 
                                     )::
-                                    (Big.placing [[0];[2];[1]] 3 Link.Face.empty)::
-                                    (Big.ppar
-                                        (of_list_top_down (add_sites_to_left_then_comp) (* par buildings*)
+                                    (Big.placing [[1];[0];[2];[3]] 4 Link.Face.empty)::
+                                        (* (of_list_top_down (add_sites_to_left_then_comp) par buildings *)
                                             (let junction_bigs = 
                                                 List.fold junctions 
-                                                    ~init:[Big.ppar Big.one site] (* close open-ended buildings sibling*)
+                                                    ~init:((Big.ppar Big.one (Big.ppar site (Big.ppar site site)))::boundary_children_bigraphs) (* close open-ended buildings sibling*)
                                                     ~f:(fun junction_bigs junction->
                                                         (Big.ppar
                                                             (Big.par
@@ -125,12 +126,20 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                                                                     | Some l -> (!site_no)::l
                                                                     ) in
                                                                     let _ = site_no := !site_no +1 in
-                                                                site) (* (Big.atom (Link.parse_face [junction]) Ctrl.{ s = "Junction"; p = []; i = 1 }) *)
+                                                                site (* (Big.atom (Link.parse_face [junction]) Ctrl.{ s = "Junction"; p = []; i = 1 }) *)
+                                                                )
                                                                 site (* sibiling junction*)
                                                             )
-                                                            site (* no id*)
-                                                        )::junction_bigs
-                                                    ) in
+                                                            (Big.ppar
+                                                                site (* no id*)
+                                                                (Big.ppar
+                                                                    site (*sibling street*)
+                                                                    site (*sibling boundary*)
+                                                                )
+                                                            )
+                                                        )::
+                                                        junction_bigs)
+                                                     in
                                             Map.fold buildings 
                                                 ~init:junction_bigs
                                                 ~f:(fun ~key:building_name ~data:_ street_children_bigraphs ->
@@ -141,40 +150,40 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                                                                 (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "Building"; p = []; i = 1 })
                                                                 site (* sibiling building*)
                                                             )
-                                                            (Big.par 
-                                                                (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "ID"; p = [S (building_name)]; i = 1 })
-                                                                site (* sibling id*)
+                                                            (Big.ppar
+                                                                (Big.par 
+                                                                    (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "ID"; p = [S (building_name)]; i = 1 })
+                                                                    site (* sibling id*)
+                                                                )
+                                                                (Big.ppar
+                                                                    site (*sibling street*)
+                                                                    site (*sibling boundary*)
+                                                                )
                                                             )
                                                         )
                                                     )::
                                                     street_children_bigraphs    
                                                 )
                                             )
-                                        )
-                                        site (* sibling street*)
-                                    )::
-                                    (Big.placing [[1];[0]] 2 Link.Face.empty)::
-                                    boundary_children_bigraphs
+                                        
                                 )
                             )
-                        )
-                        site (* sibling boundary*)
-                    )::
-                    (Big.placing [[1];[0]] 2 Link.Face.empty)::
-                    comp_list in
+                         in
                 let _ = report_progress 1 in
                 (buildingid_seen,place_graph) in
-            let (_, place_graph) = helper String.Set.empty root_string [Big.ppar Big.one Big.one] in
+            let (_, place_graph) = helper String.Set.empty root_string [] in
             let g = of_list_top_down (add_sites_to_left_then_comp) place_graph in
-            let junction_lists = Hashtbl.fold junction_hash ~init:[] ~f:(fun ~key:_ ~data:l acc->l::acc) in
-            let shared_junction_placing = Big.placing junction_lists !site_no Link.Face.empty in
+            let junction_lists = (Hashtbl.fold junction_hash ~init:[[!site_no];[!site_no+1]] ~f:(fun ~key:_ ~data:l acc->l::acc)) in
+            let shared_junction_placing = Big.placing junction_lists (!site_no+2) Link.Face.empty in
             let junction = Big.atom Link.Face.empty Ctrl.{ s = "Junction"; p = []; i = 0 } in
             let rec add_junction l = function
             | 0 -> l
             | n -> add_junction (junction::l) (n-1) in
-            let junction_big_list = add_junction [] (Hashtbl.length junction_hash) in
+            let junction_big_list = (add_junction [Big.one;Big.one] (Hashtbl.length junction_hash)) in
             let f = of_list_top_down (Big.ppar) junction_big_list in
             Big.share f shared_junction_placing g
+            (* Big.comp g (Big.comp shared_junction_placing f) *)
+            (* of_list_top_down (add_sites_to_left_then_comp) (place_graph@[shared_junction_placing;f]) *)
         )
 
 module MSSolver = Solver.Make_SAT(Solver.MS)
