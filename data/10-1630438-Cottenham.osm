@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:55:13Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:11:15Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="25277943" lat="52.2909564" lon="0.0978376" version="7" timestamp="2011-07-21T10:26:14Z" changeset="8787025" uid="383983" user="Ben Wheatley"/>
+  <node id="26052870" lat="52.3188099" lon="0.1694669" version="6" timestamp="2012-09-21T10:38:21Z" changeset="13193891" uid="383983" user="Ben Wheatley"/>
+  <node id="29976747" lat="52.3218941" lon="0.1996700" version="3" timestamp="2025-02-22T21:45:34Z" changeset="162832636" uid="5008136" user="JayTurnr"/>
   <node id="31934734" lat="52.2853404" lon="0.1252036" version="9" timestamp="2021-07-17T08:57:07Z" changeset="108151237" uid="8556624" user="nylon_overboard">
     <tag k="addr:housenumber" v="297"/>
     <tag k="addr:postcode" v="CB24 8QP"/>
@@ -68,12 +71,16 @@
     <tag k="opening_hours" v="Mo-Fr 08:30-12:30,13:00-17:30"/>
     <tag k="shop" v="car_repair"/>
   </node>
+  <node id="249629944" lat="52.2769681" lon="0.1442802" version="3" timestamp="2013-08-31T22:14:04Z" changeset="17610909" uid="236165" user="Philip Shore"/>
   <node id="259237541" lat="52.2863596" lon="0.1258956" version="5" timestamp="2019-10-09T20:37:53Z" changeset="75482493" uid="3432400" user="GinaroZ">
     <tag k="addr:housenumber" v="250a"/>
     <tag k="addr:postcode" v="CB24 8RZ"/>
     <tag k="addr:street" v="High Street"/>
     <tag k="amenity" v="community_centre"/>
     <tag k="name" v="Cottenham Community Centre"/>
+  </node>
+  <node id="870380991" lat="52.2652899" lon="0.1108517" version="3" timestamp="2018-05-04T21:33:33Z" changeset="58692159" uid="5173844" user="ndrw6">
+    <tag k="traffic_sign" v="city_limit"/>
   </node>
   <node id="998725085" lat="52.2856105" lon="0.1251492" version="6" timestamp="2023-09-30T09:46:26Z" changeset="141943693" uid="20349582" user="CastelloFruits">
     <tag k="addr:housenumber" v="272-274"/>
@@ -101,6 +108,7 @@
     <tag k="phone" v="+44 195 425 0257"/>
     <tag k="website" v="https://www.currypalacecottenham.com/"/>
   </node>
+  <node id="1151762189" lat="52.3235483" lon="0.1998895" version="2" timestamp="2025-02-22T21:45:34Z" changeset="162832636" uid="5008136" user="JayTurnr"/>
   <node id="2009683468" lat="52.2869784" lon="0.1256572" version="3" timestamp="2023-08-12T10:07:00Z" changeset="139780949" uid="185577" user="dpm">
     <tag k="addr:housenumber" v="234"/>
     <tag k="addr:postcode" v="CB24 8RZ"/>
@@ -490,6 +498,7 @@
     <tag k="addr:postcode" v="CB24 8SD"/>
     <tag k="addr:street" v="High Street"/>
   </node>
+  <node id="2200627878" lat="52.2682097" lon="0.0833025" version="3" timestamp="2016-06-05T16:27:05Z" changeset="39820148" uid="16089" user="Ben Harris"/>
   <node id="3995703523" lat="52.2897928" lon="0.1294068" version="1" timestamp="2016-02-08T16:01:08Z" changeset="37082853" uid="463360" user="John-O">
     <tag k="addr:city" v="Cottenham"/>
     <tag k="addr:housename" v="Unit 9a"/>
@@ -2498,7 +2507,7 @@
     <tag k="sidewalk" v="right"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="73414478" version="7" timestamp="2023-09-03T11:27:35Z" changeset="140753283" uid="19332" user="Colin Watson">
+  <way id="73414478" version="9" timestamp="2025-04-01T06:34:07Z" changeset="164358811" uid="322785" user="BCNorwich">
     <nd ref="870380991"/>
     <nd ref="870380982"/>
     <nd ref="21337305"/>

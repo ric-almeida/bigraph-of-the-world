@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:33:45Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:07:05Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="24965790" lat="52.3287946" lon="0.2483464" version="1" timestamp="2007-01-08T17:29:01Z" changeset="190458" uid="2955" user="Matthew Newton">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="26056822" lat="52.3500154" lon="0.2698975" version="1" timestamp="2007-02-24T01:05:25Z" changeset="222947" uid="3582" user="davidearl">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="253332185" lat="52.3054728" lon="0.2536381" version="4" timestamp="2014-03-12T13:03:04Z" changeset="21062670" uid="669183" user="Andy_W"/>
+  <node id="281434119" lat="52.3097874" lon="0.3180698" version="4" timestamp="2019-11-18T14:44:23Z" changeset="77233717" uid="84263" user="Robert Whittaker"/>
   <way id="4214201" version="10" timestamp="2021-08-26T13:28:05Z" changeset="110289039" uid="242345" user="confusedbuffalo">
     <nd ref="24965794"/>
     <nd ref="1444435161"/>
@@ -37,7 +45,7 @@
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
   </way>
-  <way id="4214203" version="15" timestamp="2016-09-25T14:52:05Z" changeset="42424736" uid="84681" user="SK53">
+  <way id="4214203" version="17" timestamp="2025-03-27T14:15:15Z" changeset="164166455" uid="10090920" user="Infinatum">
     <nd ref="24965834"/>
     <nd ref="2884471311"/>
     <nd ref="2298034320"/>
@@ -49,6 +57,7 @@
     <nd ref="2884471354"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="maxspeed:type" v="sign"/>
     <tag k="name" v="Church Road"/>
@@ -56,6 +65,7 @@
     <tag k="sidewalk" v="left"/>
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:sidewalk" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="4306124" version="6" timestamp="2021-08-26T13:28:05Z" changeset="110289039" uid="242345" user="confusedbuffalo">
     <nd ref="26052639"/>
@@ -70,7 +80,7 @@
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
   </way>
-  <way id="4306213" version="10" timestamp="2019-09-10T13:31:25Z" changeset="74311236" uid="84263" user="Robert Whittaker">
+  <way id="4306213" version="11" timestamp="2025-03-27T13:42:36Z" changeset="164165101" uid="10090920" user="Infinatum">
     <nd ref="979897723"/>
     <nd ref="2713840707"/>
     <nd ref="2713840746"/>
@@ -79,6 +89,7 @@
     <nd ref="26053239"/>
     <nd ref="310133425"/>
     <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
     <tag k="name" v="Lode Lane"/>
     <tag k="source" v="survey (Nov 2010)"/>
     <tag k="source:surface" v="survey (Nov 2010)"/>
@@ -246,7 +257,7 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Way Lane"/>
   </way>
-  <way id="4311118" version="8" timestamp="2020-07-23T14:28:04Z" changeset="88409621" uid="10126647" user="ansukess">
+  <way id="4311118" version="10" timestamp="2025-03-27T14:15:04Z" changeset="164166455" uid="10090920" user="Infinatum">
     <nd ref="24965827"/>
     <nd ref="24965828"/>
     <nd ref="3956572557"/>
@@ -260,12 +271,14 @@
     <nd ref="2298034330"/>
     <nd ref="24965831"/>
     <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="maxspeed:type" v="sign"/>
     <tag k="name" v="High Street"/>
     <tag k="ref" v="A1123"/>
     <tag k="sidewalk" v="left"/>
     <tag k="source:maxspeed" v="Stats19"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="4311124" version="5" timestamp="2021-10-17T19:29:12Z" changeset="112624767" uid="1287673" user="sloerunner">
     <nd ref="24965834"/>
@@ -777,18 +790,20 @@
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
   </way>
-  <way id="235089438" version="4" timestamp="2024-04-03T20:25:24Z" changeset="149542413" uid="5229644" user="Nathan_A_RF">
+  <way id="235089438" version="6" timestamp="2025-03-27T14:15:51Z" changeset="164166455" uid="10090920" user="Infinatum">
     <nd ref="9238343082"/>
     <nd ref="24965846"/>
     <nd ref="281434120"/>
     <nd ref="281434119"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="60 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Church Road"/>
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="260912531" version="3" timestamp="2021-04-12T13:05:42Z" changeset="102806079" uid="38214" user="Darkhorse">
     <nd ref="2665115433"/>
@@ -846,22 +861,26 @@
     <tag k="name" v="Old School Lane"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="280477782" version="2" timestamp="2021-05-31T12:05:11Z" changeset="105622587" uid="22799" user="DaveArq">
+  <way id="280477782" version="4" timestamp="2025-03-27T11:35:45Z" changeset="164159766" uid="10090920" user="Infinatum">
     <nd ref="253332207"/>
     <nd ref="1394896512"/>
     <nd ref="8785464361"/>
     <nd ref="1394896499"/>
     <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
     <tag k="name" v="Upware Road"/>
     <tag k="source:name" v="dictaphone"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="280477786" version="2" timestamp="2023-03-25T16:40:07Z" changeset="134110439" uid="1287673" user="sloerunner">
+  <way id="280477786" version="4" timestamp="2025-03-27T11:34:45Z" changeset="164159766" uid="10090920" user="Infinatum">
     <nd ref="2713888944"/>
     <nd ref="10761453350"/>
     <nd ref="262711508"/>
     <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
     <tag k="name" v="Old School Lane"/>
     <tag k="source:name" v="dictaphone"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="280477791" version="1" timestamp="2014-05-09T13:27:32Z" changeset="22230740" uid="67929" user="StephenRD">
     <nd ref="262711432"/>
@@ -1010,18 +1029,20 @@
     <tag k="highway" v="unclassified"/>
     <tag k="source" v="gps"/>
   </way>
-  <way id="444282664" version="1" timestamp="2016-09-25T14:52:03Z" changeset="42424736" uid="84681" user="SK53">
+  <way id="444282664" version="3" timestamp="2025-03-27T14:14:55Z" changeset="164166455" uid="10090920" user="Infinatum">
     <nd ref="24965831"/>
     <nd ref="24965832"/>
     <nd ref="26117087"/>
     <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="maxspeed:type" v="sign"/>
     <tag k="name" v="High Street"/>
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="444282665" version="2" timestamp="2019-06-18T10:08:31Z" changeset="71359683" uid="9196095" user="mhdrahm">
+  <way id="444282665" version="4" timestamp="2025-03-27T14:15:23Z" changeset="164166455" uid="10090920" user="Infinatum">
     <nd ref="4417706059"/>
     <nd ref="24965840"/>
     <nd ref="2884471350"/>
@@ -1030,6 +1051,7 @@
     <nd ref="2884471326"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="maxspeed:type" v="sign"/>
     <tag k="name" v="Church Road"/>
@@ -1037,8 +1059,9 @@
     <tag k="sidewalk" v="left"/>
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:sidewalk" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="444282666" version="1" timestamp="2016-09-25T14:52:03Z" changeset="42424736" uid="84681" user="SK53">
+  <way id="444282666" version="3" timestamp="2025-03-27T14:15:32Z" changeset="164166455" uid="10090920" user="Infinatum">
     <nd ref="2884471354"/>
     <nd ref="24965837"/>
     <nd ref="2884471321"/>
@@ -1049,6 +1072,7 @@
     <nd ref="4417706059"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="maxspeed:type" v="sign"/>
     <tag k="name" v="Church Road"/>
@@ -1056,6 +1080,7 @@
     <tag k="sidewalk" v="left"/>
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:sidewalk" v="Bing"/>
+    <tag k="surface" v="asphalt"/>
     <tag k="verge" v="left"/>
   </way>
   <way id="444282667" version="1" timestamp="2016-09-25T14:52:04Z" changeset="42424736" uid="84681" user="SK53">
@@ -1086,7 +1111,7 @@
     <tag k="roof:shape" v="gabled"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="1000835356" version="1" timestamp="2021-11-09T15:23:41Z" changeset="113570007" uid="13262840" user="jakedowner">
+  <way id="1000835356" version="3" timestamp="2025-03-27T14:15:41Z" changeset="164166455" uid="10090920" user="Infinatum">
     <nd ref="2884471326"/>
     <nd ref="24965842"/>
     <nd ref="24965843"/>
@@ -1098,11 +1123,13 @@
     <nd ref="9238343082"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="maxspeed:type" v="sign"/>
     <tag k="name" v="Church Road"/>
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1234960269" version="1" timestamp="2023-12-28T16:48:02Z" changeset="145628525" uid="242345" user="confusedbuffalo">
     <nd ref="11463228709"/>

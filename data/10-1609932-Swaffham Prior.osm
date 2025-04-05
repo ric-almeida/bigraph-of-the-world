@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:31:43Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="214258" lat="52.2485224" lon="0.3621545" version="7" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="214293" lat="52.2210968" lon="0.3174885" version="7" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="London;Harlow"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Nine Mile Hill"/>
+    <tag k="ref" v="36"/>
+  </node>
+  <node id="214294" lat="52.2253080" lon="0.3216542" version="8" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="5251594" lat="52.2444886" lon="0.2850042" version="2" timestamp="2015-05-25T20:04:30Z" changeset="31454039" uid="669183" user="Andy_W"/>
+  <node id="26125677" lat="52.2684282" lon="0.2984402" version="3" timestamp="2016-12-22T21:41:48Z" changeset="44602168" uid="669183" user="Andy_W"/>
+  <node id="197823991" lat="52.2679752" lon="0.2861706" version="4" timestamp="2016-12-22T21:41:49Z" changeset="44602168" uid="669183" user="Andy_W"/>
+  <node id="246521985" lat="52.2497400" lon="0.3640709" version="7" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="550967574" lat="52.2588729" lon="0.3137517" version="3" timestamp="2015-06-01T17:27:13Z" changeset="31642179" uid="90142" user="andy mackey"/>
+  <node id="1394896499" lat="52.3057406" lon="0.2535258" version="3" timestamp="2023-03-27T16:12:37Z" changeset="134185106" uid="1287673" user="sloerunner"/>
+  <node id="12623829719" lat="52.2422315" lon="0.2823043" version="1" timestamp="2025-02-27T18:14:45Z" changeset="163023715" uid="5229644" user="Nathan_A_RF"/>
+  <node id="12655866514" lat="52.2481592" lon="0.3611600" version="1" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
   <way id="4041748" version="29" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
     <nd ref="214294"/>
     <nd ref="12655866532"/>
@@ -136,8 +154,9 @@
     <tag k="ref" v="B1102"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
-  <way id="4310703" version="2" timestamp="2013-05-07T16:27:13Z" changeset="16013757" uid="281267" user="smb1001">
+  <way id="4310703" version="3" timestamp="2025-04-03T11:37:36Z" changeset="164460417" uid="953779" user="Adam Edwards">
     <nd ref="26113382"/>
+    <nd ref="12725482998"/>
     <nd ref="26113458"/>
     <nd ref="26113383"/>
     <nd ref="2294880910"/>
@@ -369,10 +388,10 @@
     <tag k="source:name" v="local knowledge"/>
     <tag k="source:prow_ref" v="cambridgeshire_county_council_prow_gis_data"/>
   </way>
-  <way id="4310730" version="1" timestamp="2007-02-23T20:25:05Z" changeset="222668" uid="3582" user="davidearl">
+  <way id="4310730" version="2" timestamp="2025-04-03T11:37:36Z" changeset="164460417" uid="953779" user="Adam Edwards">
     <nd ref="26113458"/>
+    <nd ref="12519380033"/>
     <nd ref="26113457"/>
-    <tag k="created_by" v="JOSM"/>
     <tag k="highway" v="residential"/>
   </way>
   <way id="4310731" version="10" timestamp="2023-02-26T09:15:48Z" changeset="133033809" uid="18549777" user="harryderouich">
@@ -863,10 +882,10 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="ref" v="B1102"/>
   </way>
-  <way id="179243203" version="4" timestamp="2025-02-27T18:14:45Z" changeset="163023715" uid="5229644" user="Nathan_A_RF">
+  <way id="179243203" version="5" timestamp="2025-04-03T11:37:36Z" changeset="164460417" uid="953779" user="Adam Edwards">
     <nd ref="5251827"/>
     <nd ref="12519380034"/>
-    <nd ref="12519380033"/>
+    <nd ref="12725482997"/>
     <nd ref="26113378"/>
     <nd ref="3545289527"/>
     <nd ref="26113376"/>

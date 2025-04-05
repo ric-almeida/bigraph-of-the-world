@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:57:13Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:11:15Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="231491" lat="52.2365683" lon="0.1278153" version="5" timestamp="2012-11-02T21:59:19Z" changeset="13728174" uid="4951" user="PeterEastern"/>
+  <node id="620870" lat="52.2321857" lon="0.1717542" version="9" timestamp="2014-05-08T10:40:54Z" changeset="22206539" uid="1723158" user="ozhiker2"/>
+  <node id="620892" lat="52.2364843" lon="0.1282139" version="5" timestamp="2012-11-02T21:59:21Z" changeset="13728174" uid="4951" user="PeterEastern"/>
+  <node id="5695581" lat="52.2339635" lon="0.1349151" version="9" timestamp="2019-10-14T23:41:24Z" changeset="75691486" uid="4948143" user="doublah">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="6550186" lat="52.2314836" lon="0.1393442" version="4" timestamp="2011-07-11T23:49:57Z" changeset="8698793" uid="383983" user="Ben Wheatley"/>
+  <node id="18352520" lat="52.2322908" lon="0.1717787" version="10" timestamp="2014-05-08T10:40:46Z" changeset="22206539" uid="1723158" user="ozhiker2"/>
+  <node id="21137468" lat="52.2205721" lon="0.1558899" version="7" timestamp="2021-12-23T16:07:54Z" changeset="115304750" uid="141442" user="CycleStreets"/>
+  <node id="21137469" lat="52.2207265" lon="0.1563250" version="6" timestamp="2020-11-24T14:34:38Z" changeset="94712867" uid="5173844" user="ndrw6"/>
+  <node id="21137495" lat="52.2213040" lon="0.1577193" version="6" timestamp="2014-07-26T22:31:09Z" changeset="24375552" uid="481116" user="bigalxyz123"/>
+  <node id="21137497" lat="52.2213483" lon="0.1578154" version="9" timestamp="2020-11-24T14:34:38Z" changeset="94712867" uid="5173844" user="ndrw6"/>
+  <node id="21260592" lat="52.2326747" lon="0.1512852" version="4" timestamp="2011-06-13T23:23:39Z" changeset="8432684" uid="383983" user="Ben Wheatley"/>
+  <node id="25733672" lat="52.2334713" lon="0.1675073" version="4" timestamp="2014-08-13T19:13:10Z" changeset="24730405" uid="1723158" user="ozhiker2"/>
+  <node id="25733675" lat="52.2333779" lon="0.1674215" version="4" timestamp="2014-08-13T19:13:10Z" changeset="24730405" uid="1723158" user="ozhiker2"/>
+  <node id="26064699" lat="52.2576651" lon="0.1631710" version="1" timestamp="2007-02-21T21:47:17Z" changeset="221422" uid="4734" user="KoolKat">
+    <tag k="created_by" v="JOSM"/>
+  </node>
   <node id="364173798" lat="52.2403848" lon="0.1611563" version="4" timestamp="2020-11-18T22:38:52Z" changeset="94398753" uid="6476359" user="NSiecw">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="87"/>
@@ -26,12 +44,15 @@
     <tag k="ref:pol_id" v="1841"/>
     <tag k="website" v="https://www.postoffice.co.uk/branch-finder/1171135/milton"/>
   </node>
+  <node id="414244954" lat="52.2525374" lon="0.1317712" version="6" timestamp="2012-02-01T09:33:46Z" changeset="10557010" uid="4663" user="G3YAC"/>
   <node id="708088941" lat="52.2530235" lon="0.1735318" version="3" timestamp="2011-11-06T19:53:37Z" changeset="9758884" uid="2406" user="JeffB">
     <tag k="addr:street" v="Ely Road"/>
     <tag k="building" v="farmhouse"/>
     <tag k="name" v="Meadow Farm"/>
     <tag k="source" v="survey"/>
   </node>
+  <node id="1493482608" lat="52.2612084" lon="0.1782541" version="3" timestamp="2024-03-06T15:41:48Z" changeset="148301377" uid="2406" user="JeffB"/>
+  <node id="1507454053" lat="52.2320024" lon="0.1504773" version="5" timestamp="2021-10-18T14:33:56Z" changeset="112655970" uid="5173844" user="ndrw6"/>
   <node id="2002317052" lat="52.2484791" lon="0.1455100" version="3" timestamp="2012-11-08T09:25:53Z" changeset="13795006" uid="1036414" user="DJA21">
     <tag k="addr:housename" v="Sunclose Farm"/>
     <tag k="addr:postcode" v="CB24 6DQ"/>
@@ -83,6 +104,15 @@
     <tag k="phone" v="+44 1223 226700"/>
     <tag k="website" v="https://www.mathworks.com"/>
   </node>
+  <node id="3716068747" lat="52.2317950" lon="0.1502248" version="1" timestamp="2015-08-26T21:57:27Z" changeset="33608973" uid="40448" user="François Guerraz"/>
+  <node id="3716542341" lat="52.2362012" lon="0.1571745" version="6" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="Cambridge;Ely"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="layer" v="3"/>
+    <tag k="name" v="Milton"/>
+    <tag k="ref" v="33"/>
+  </node>
+  <node id="3716542342" lat="52.2361597" lon="0.1577736" version="2" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
   <node id="3768180500" lat="52.2324656" lon="0.1493026" version="6" timestamp="2024-08-23T09:03:55Z" changeset="155640779" uid="2773877" user="UnferthCartomancer">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="101"/>
@@ -121,6 +151,7 @@
     <tag k="phone" v="+44 1223 345940"/>
     <tag k="website" v="https://www.featurespace.com/"/>
   </node>
+  <node id="4880441619" lat="52.2277312" lon="0.1571909" version="2" timestamp="2025-02-17T15:21:10Z" changeset="162617957" uid="20475686" user="Dan200"/>
   <node id="5237606800" lat="52.2323282" lon="0.1492721" version="6" timestamp="2024-08-23T09:03:58Z" changeset="155640779" uid="2773877" user="UnferthCartomancer">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="101"/>
@@ -1073,6 +1104,7 @@
     <tag k="name" v="Ambassador Lodge"/>
     <tag k="tourism" v="guest_house"/>
   </node>
+  <node id="6965089834" lat="52.2314906" lon="0.1497289" version="2" timestamp="2021-10-18T14:33:56Z" changeset="112655970" uid="5173844" user="ndrw6"/>
   <node id="6992444685" lat="52.2310369" lon="0.1455553" version="2" timestamp="2019-12-11T19:25:35Z" changeset="78277898" uid="379166" user="Borbus">
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:postcode" v="CB4 0FW"/>
@@ -1206,6 +1238,13 @@
     <tag k="name" v="Alianza"/>
     <tag k="office" v="it"/>
     <tag k="website" v="https://www.alianza.com/"/>
+  </node>
+  <node id="12726455177" lat="52.2246669" lon="0.1570023" version="1" timestamp="2025-04-03T18:12:38Z" changeset="164478013" uid="20314039" user="ij96">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Cambridge Square"/>
+    <tag k="level" v="4-6"/>
+    <tag k="name" v="Samsung Cambridge Solution Centre"/>
+    <tag k="office" v="research"/>
   </node>
   <way id="1881408" version="16" timestamp="2025-02-21T15:59:11Z" changeset="162786799" uid="5008136" user="JayTurnr">
     <nd ref="1324430286"/>
@@ -1912,7 +1951,7 @@
     <tag k="source:name" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="4013881" version="17" timestamp="2025-02-21T16:08:19Z" changeset="162787167" uid="5008136" user="JayTurnr">
+  <way id="4013881" version="19" timestamp="2025-04-01T06:34:07Z" changeset="164358811" uid="322785" user="BCNorwich">
     <nd ref="21350225"/>
     <nd ref="11669514517"/>
     <nd ref="1394056101"/>
@@ -32836,6 +32875,23 @@
     <tag k="source:name" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="1072416444" version="7" timestamp="2025-04-03T18:12:38Z" changeset="164478013" uid="20314039" user="ij96">
+    <nd ref="9839680689"/>
+    <nd ref="9839680690"/>
+    <nd ref="11361923498"/>
+    <nd ref="9839680691"/>
+    <nd ref="11361853128"/>
+    <nd ref="11361923497"/>
+    <nd ref="9839680692"/>
+    <nd ref="9839680693"/>
+    <nd ref="9839680689"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Cambridge Square"/>
+    <tag k="building" v="commercial"/>
+    <tag k="building:levels" v="7"/>
+    <tag k="fixme" v="size/position approximate"/>
+    <tag k="name" v="One Cambridge Square"/>
+  </way>
   <way id="1096946625" version="3" timestamp="2025-02-21T15:59:11Z" changeset="162786799" uid="5008136" user="JayTurnr">
     <nd ref="8998179482"/>
     <nd ref="12465939362"/>
@@ -33320,7 +33376,7 @@
     <tag k="oneway" v="yes"/>
     <tag k="source:name" v="survey"/>
   </way>
-  <way id="1361728703" version="1" timestamp="2025-02-21T16:05:31Z" changeset="162787055" uid="5008136" user="JayTurnr">
+  <way id="1361728703" version="3" timestamp="2025-04-01T06:34:07Z" changeset="164358811" uid="322785" user="BCNorwich">
     <nd ref="3015010838"/>
     <nd ref="8001713931"/>
     <nd ref="480418908"/>

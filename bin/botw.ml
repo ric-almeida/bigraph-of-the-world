@@ -11,8 +11,8 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
     let root_string = root_level^"-"^root_id^"-"^root_name in
     let b = Bigraph_of_the_world.BigraphBuilding.build_place_graph root_level root_id root_name in
     let _ = print_endline ("Number of nodes: "^(string_of_int (Bigraph.Nodes.size b.n))) in
-    let with_agent = Bigraph_of_the_world.BigraphBuilding.add_agent_to_building_react ~bigraph:b ~agent_id:"Agent A" ~building_id:"Kentford Telephone Exchange" in
-    let _ = print_endline ("Added agent by reaction. Number of nodes: "^(string_of_int (Bigraph.Nodes.size with_agent.n))) in
+    (* let with_agent = Bigraph_of_the_world.BigraphBuilding.add_agent_to_building_react ~bigraph:b ~agent_id:"Agent A" ~building_id:"Kentford Telephone Exchange" in
+    let _ = print_endline ("Added agent by reaction. Number of nodes: "^(string_of_int (Bigraph.Nodes.size with_agent.n))) in *)
     let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/")) then Core_unix.mkdir_p ~perm:0o755 "output/" in
     (* let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Yojson.Safe.to_string (Bigraph.Big.yojson_of_t b)) ("output/"^root_string^".json")) in
     let _ = print_endline ("Bigraph saved to output/"^root_string^".json") in *)

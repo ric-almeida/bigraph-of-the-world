@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-24T16:03:37Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:02:56Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="28257654" lat="51.2179118" lon="1.1855954" version="3" timestamp="2024-11-08T12:24:17Z" changeset="158893585" uid="5229644" user="Nathan_A_RF"/>
+  <node id="31399293" lat="51.2134166" lon="1.1908065" version="4" timestamp="2024-07-18T16:07:47Z" changeset="154108653" uid="11471297" user="Palgrave Peter"/>
+  <node id="249148169" lat="51.2268467" lon="1.2301026" version="2" timestamp="2009-04-04T21:54:57Z" changeset="177148" uid="7037" user="Gregory Williams">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="331098960" lat="51.2420638" lon="1.1986753" version="2" timestamp="2009-07-26T18:10:21Z" changeset="1947036" uid="7221" user="Crid"/>
   <node id="331101344" lat="51.2341950" lon="1.2075033" version="2" timestamp="2021-04-09T21:39:44Z" changeset="102671859" uid="608760" user="gregrs">
     <tag k="addr:county" v="Kent"/>
     <tag k="addr:housename" v="Throwley House"/>
@@ -15,6 +21,7 @@
     <tag k="source" v="visual_estimate"/>
     <tag k="source:addr" v="FHRS Open Data"/>
   </node>
+  <node id="671057427" lat="51.2464701" lon="1.2063920" version="3" timestamp="2012-02-03T09:17:21Z" changeset="10574391" uid="7037" user="Gregory Williams"/>
   <node id="769830521" lat="51.2253461" lon="1.2086673" version="2" timestamp="2023-09-15T00:46:00Z" changeset="141280502" uid="20252098" user="DoubleCart">
     <tag k="addr:city" v="Aylesham"/>
     <tag k="addr:postcode" v="CT3 3AJ"/>
@@ -25,6 +32,11 @@
     <tag k="name" v="Aylesham Library"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </node>
+  <node id="1438310740" lat="51.2223212" lon="1.2193496" version="3" timestamp="2021-04-28T21:27:05Z" changeset="103802188" uid="7511" user="retselkim"/>
+  <node id="1616808876" lat="51.2084761" lon="1.1986681" version="1" timestamp="2012-02-03T16:26:56Z" changeset="10576905" uid="7037" user="Gregory Williams"/>
+  <node id="1616833245" lat="51.2382027" lon="1.2281107" version="1" timestamp="2012-02-03T16:55:31Z" changeset="10577129" uid="7037" user="Gregory Williams"/>
+  <node id="1900712127" lat="51.2181127" lon="1.2211251" version="1" timestamp="2012-09-05T16:31:19Z" changeset="12998424" uid="7037" user="Gregory Williams"/>
+  <node id="1927656979" lat="51.2266248" lon="1.2244549" version="1" timestamp="2012-09-22T17:37:42Z" changeset="13210317" uid="7037" user="Gregory Williams"/>
   <node id="1976668303" lat="51.2251920" lon="1.2024071" version="5" timestamp="2023-09-15T00:46:00Z" changeset="141280502" uid="20252098" user="DoubleCart">
     <tag k="addr:city" v="Aylesham"/>
     <tag k="addr:county" v="Kent"/>
@@ -1196,8 +1208,9 @@
     <tag k="name" v="Derwent Way"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61778388" version="6" timestamp="2021-08-27T11:52:01Z" changeset="110338149" uid="242345" user="confusedbuffalo">
+  <way id="61778388" version="7" timestamp="2025-04-04T20:52:56Z" changeset="164528375" uid="20252098" user="DoubleCart">
     <nd ref="769830657"/>
+    <nd ref="12729766113"/>
     <nd ref="769830620"/>
     <nd ref="769830666"/>
     <nd ref="6321295930"/>
@@ -2598,8 +2611,9 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Matlock Close"/>
   </way>
-  <way id="1056007830" version="2" timestamp="2023-11-11T09:33:47Z" changeset="143891844" uid="7037" user="Gregory Williams">
+  <way id="1056007830" version="3" timestamp="2025-04-04T02:08:58Z" changeset="164487832" uid="20252098" user="DoubleCart">
     <nd ref="5368211704"/>
+    <nd ref="12727139547"/>
     <nd ref="11340973707"/>
     <nd ref="11340973705"/>
     <nd ref="11340973706"/>

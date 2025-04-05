@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T16:05:29Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:13:14Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="25710039" lat="52.1223821" lon="0.0218418" version="4" timestamp="2018-11-01T15:29:08Z" changeset="64082872" uid="1257159" user="Jean-Pierre Rondeau"/>
+  <node id="31950079" lat="52.1067704" lon="0.0174780" version="3" timestamp="2018-08-28T18:07:46Z" changeset="62079986" uid="5173844" user="ndrw6"/>
+  <node id="31950084" lat="52.1055302" lon="0.0152527" version="3" timestamp="2018-08-28T18:07:46Z" changeset="62079986" uid="5173844" user="ndrw6"/>
+  <node id="33409014" lat="52.0988774" lon="0.0623882" version="2" timestamp="2018-11-01T15:29:09Z" changeset="64082872" uid="1257159" user="Jean-Pierre Rondeau"/>
+  <node id="33409055" lat="52.0962653" lon="0.0348518" version="1" timestamp="2007-08-03T20:57:17Z" changeset="186181" uid="3582" user="davidearl">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="34956581" lat="52.1044423" lon="0.0136083" version="4" timestamp="2018-08-28T18:07:47Z" changeset="62079986" uid="5173844" user="ndrw6"/>
+  <node id="705351147" lat="52.1117210" lon="0.0462865" version="3" timestamp="2025-02-21T14:36:09Z" changeset="162783279" uid="5008136" user="JayTurnr"/>
+  <node id="2487260686" lat="52.0945074" lon="0.0453457" version="1" timestamp="2013-10-07T22:02:06Z" changeset="18238300" uid="90142" user="andy mackey"/>
+  <node id="5130755477" lat="52.0900441" lon="0.0132677" version="2" timestamp="2018-08-30T18:00:46Z" changeset="62148552" uid="5173844" user="ndrw6"/>
+  <node id="7078495492" lat="52.1024991" lon="0.0117598" version="1" timestamp="2019-12-22T21:48:28Z" changeset="78745037" uid="90142" user="andy mackey"/>
   <way id="4907202" version="6" timestamp="2021-04-05T03:26:16Z" changeset="102294560" uid="10457692" user="pravallg">
     <nd ref="31949981"/>
     <nd ref="31949983"/>
@@ -129,7 +141,7 @@
     <tag k="source:prow_ref" v="cambridgeshire_county_council_prow_gis_data"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="5015900" version="12" timestamp="2022-04-15T21:34:33Z" changeset="119766421" uid="227138" user="spookypeanut">
+  <way id="5015900" version="13" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
     <nd ref="33409316"/>
     <nd ref="9667021837"/>
     <nd ref="33409317"/>
@@ -160,11 +172,10 @@
     <nd ref="33409316"/>
     <tag k="addr:postcode" v="SG8 6PZ"/>
     <tag k="addr:street" v="Station Road"/>
-    <tag k="contact:website" v="http://www.sheprethwildlifepark.co.uk/"/>
+    <tag k="contact:website" v="https://www.sheprethwildlifepark.co.uk/"/>
     <tag k="name" v="Shepreth Wildlife Park"/>
-    <tag k="note" v="unsure of boundaries; merge parking area?"/>
+    <tag k="note" v="merge parking area?"/>
     <tag k="old_name" v="Willers Mill"/>
-    <tag k="source" v="Bing; extrapolation?"/>
     <tag k="tourism" v="zoo"/>
     <tag k="wikidata" v="Q55713636"/>
   </way>
@@ -325,15 +336,14 @@
     <tag k="layer" v="1"/>
     <tag k="maxspeed" v="30 mph"/>
   </way>
-  <way id="5015973" version="5" timestamp="2010-04-05T19:13:40Z" changeset="4337475" uid="21502" user="Kevin Steinhardt">
+  <way id="5015973" version="6" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
     <nd ref="31949998"/>
     <nd ref="31949996"/>
     <nd ref="31950001"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="Meldreth Road"/>
-    <tag k="source" v="GPS"/>
-    <tag k="source:name" v="dictaphone"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="5015974" version="15" timestamp="2022-03-12T16:56:27Z" changeset="118405429" uid="7463" user="kesterlester">
     <nd ref="33409575"/>
@@ -358,12 +368,13 @@
     <tag k="maxspeed" v="60 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
   </way>
-  <way id="5015993" version="7" timestamp="2019-04-24T12:22:07Z" changeset="69523838" uid="49323" user="Ben Page">
+  <way id="5015993" version="8" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
     <nd ref="31949998"/>
     <nd ref="1469285886"/>
     <nd ref="25710035"/>
     <nd ref="33409273"/>
     <nd ref="33409272"/>
+    <nd ref="12716223123"/>
     <nd ref="33409301"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="tertiary"/>
@@ -459,9 +470,10 @@
     <tag k="source:maxspeed" v="local_knowledge"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="5016005" version="9" timestamp="2022-03-12T16:56:27Z" changeset="118405429" uid="7463" user="kesterlester">
+  <way id="5016005" version="10" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
     <nd ref="33409301"/>
     <nd ref="3174333872"/>
+    <nd ref="12716223120"/>
     <nd ref="6029985847"/>
     <nd ref="6495703648"/>
     <nd ref="1461097640"/>
@@ -700,13 +712,16 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="133496790" version="4" timestamp="2021-07-03T01:15:14Z" changeset="107335932" uid="493595" user="Yorvik Prestigitator">
+  <way id="133496790" version="5" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
     <nd ref="1469285878"/>
     <nd ref="1469285882"/>
     <nd ref="5406246828"/>
     <nd ref="1469285890"/>
     <nd ref="1469285888"/>
     <nd ref="1469285889"/>
+    <nd ref="12716196464"/>
+    <nd ref="12716223114"/>
+    <nd ref="12716196463"/>
     <nd ref="1469285878"/>
     <tag k="addr:city" v="Shepreth"/>
     <tag k="addr:housenumber" v="2"/>
@@ -714,8 +729,10 @@
     <tag k="addr:street" v="Station Road"/>
     <tag k="amenity" v="community_centre"/>
     <tag k="building" v="public"/>
+    <tag k="building:levels" v="1"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Shepreth Village Hall"/>
+    <tag k="roof:levels" v="1"/>
     <tag k="website" v="http://www.hallsforhire.org.uk/halls/shepreth-village-hall/"/>
   </way>
   <way id="140295395" version="9" timestamp="2025-02-21T14:28:57Z" changeset="162782938" uid="5008136" user="JayTurnr">
@@ -875,6 +892,50 @@
     <tag k="name" v="Green Man"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
+  <way id="621947957" version="3" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
+    <nd ref="9727728872"/>
+    <nd ref="5875342347"/>
+    <nd ref="5875342344"/>
+    <nd ref="5875342342"/>
+    <nd ref="5875342343"/>
+    <nd ref="9727728873"/>
+    <nd ref="9727728872"/>
+    <tag k="addr:city" v="Shepreth"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
+  </way>
+  <way id="621947959" version="3" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
+    <nd ref="9727728875"/>
+    <nd ref="5875342365"/>
+    <nd ref="5875342364"/>
+    <nd ref="5875342352"/>
+    <nd ref="5875342353"/>
+    <nd ref="9727728875"/>
+    <tag k="addr:city" v="Shepreth"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
+  </way>
+  <way id="621947960" version="3" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
+    <nd ref="9727728876"/>
+    <nd ref="5875342369"/>
+    <nd ref="5875342368"/>
+    <nd ref="5875342350"/>
+    <nd ref="5875342351"/>
+    <nd ref="9727728877"/>
+    <nd ref="9727728876"/>
+    <tag k="addr:city" v="Shepreth"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
+  </way>
   <way id="621948002" version="2" timestamp="2020-05-15T18:07:08Z" changeset="85276299" uid="1287673" user="sloerunner">
     <nd ref="5875342593"/>
     <nd ref="5875342590"/>
@@ -1007,6 +1068,34 @@
     <tag k="addr:street" v="Cambridge Road"/>
     <tag k="landuse" v="retail"/>
     <tag k="name" v="Enterprise rent-a-car"/>
+  </way>
+  <way id="1058657597" version="2" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
+    <nd ref="5875342353"/>
+    <nd ref="5875342363"/>
+    <nd ref="5875342362"/>
+    <nd ref="9727728875"/>
+    <nd ref="5875342353"/>
+    <tag k="addr:city" v="Shepreth"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
+  </way>
+  <way id="1058657598" version="2" timestamp="2025-03-31T14:11:05Z" changeset="164332593" uid="1102246" user="jtn20">
+    <nd ref="9727728877"/>
+    <nd ref="5875342349"/>
+    <nd ref="5875342348"/>
+    <nd ref="5875342367"/>
+    <nd ref="5875342366"/>
+    <nd ref="9727728876"/>
+    <nd ref="9727728877"/>
+    <tag k="addr:city" v="Shepreth"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
   </way>
   <way id="1058657609" version="1" timestamp="2022-05-09T19:19:38Z" changeset="120762695" uid="5173844" user="ndrw6">
     <nd ref="8415751890"/>

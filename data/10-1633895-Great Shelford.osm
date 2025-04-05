@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T16:04:30Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:12:14Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="231535" lat="52.1633555" lon="0.0978130" version="5" timestamp="2024-12-29T19:44:22Z" changeset="160765712" uid="5229644" user="Nathan_A_RF"/>
+  <node id="328564" lat="52.1631232" lon="0.0985076" version="9" timestamp="2024-12-29T19:44:22Z" changeset="160765712" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="Royston A10, Cambridge South A1309"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Westfield"/>
+    <tag k="ref" v="11"/>
+  </node>
+  <node id="554246" lat="52.1672087" lon="0.1576978" version="5" timestamp="2016-05-28T06:13:35Z" changeset="39618348" uid="322785" user="BCNorwich">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="13387940" lat="52.1446559" lon="0.1447672" version="5" timestamp="2021-12-23T14:55:11Z" changeset="115302060" uid="5173844" user="ndrw6"/>
+  <node id="13387941" lat="52.1439314" lon="0.1468475" version="5" timestamp="2025-03-07T13:01:39Z" changeset="163326657" uid="20475686" user="Dan200"/>
+  <node id="15929886" lat="52.1709437" lon="0.1764159" version="10" timestamp="2022-07-01T11:25:39Z" changeset="123082166" uid="7463" user="kesterlester"/>
+  <node id="20080742" lat="52.1559503" lon="0.1518056" version="9" timestamp="2023-10-02T08:21:35Z" changeset="142026907" uid="20240549" user="Sforzando9500"/>
+  <node id="20080744" lat="52.1543244" lon="0.1484281" version="6" timestamp="2023-10-02T08:21:35Z" changeset="142026907" uid="20240549" user="Sforzando9500"/>
+  <node id="20080902" lat="52.1443362" lon="0.1457826" version="3" timestamp="2021-12-23T14:55:11Z" changeset="115302060" uid="5173844" user="ndrw6"/>
+  <node id="20080905" lat="52.1450024" lon="0.1437758" version="3" timestamp="2014-08-31T13:10:49Z" changeset="25137926" uid="1431737" user="ma-rt-in"/>
+  <node id="20080954" lat="52.1472406" lon="0.1491162" version="4" timestamp="2024-03-08T11:11:07Z" changeset="148379032" uid="5173844" user="ndrw6"/>
+  <node id="20922527" lat="52.1723458" lon="0.1636823" version="4" timestamp="2013-06-04T17:03:46Z" changeset="16422042" uid="2020" user="comsomol"/>
+  <node id="21642271" lat="52.1650504" lon="0.1207126" version="4" timestamp="2020-11-29T03:58:18Z" changeset="94968200" uid="8198058" user="ACarlotti"/>
+  <node id="26355866" lat="52.1445861" lon="0.1258655" version="3" timestamp="2013-04-26T13:16:48Z" changeset="15872207" uid="281267" user="smb1001"/>
+  <node id="36744852" lat="52.1509520" lon="0.1104832" version="4" timestamp="2012-06-07T12:26:04Z" changeset="11824559" uid="24119" user="Mauls"/>
+  <node id="36744854" lat="52.1509469" lon="0.1103209" version="6" timestamp="2012-06-07T12:26:04Z" changeset="11824559" uid="24119" user="Mauls"/>
   <node id="546671060" lat="52.1508364" lon="0.1421273" version="5" timestamp="2023-10-02T19:44:27Z" changeset="142054581" uid="20240549" user="Sforzando9500">
     <tag k="addr:city" v="Great Shelford"/>
     <tag k="addr:housenumber" v="33-35"/>
@@ -14,28 +37,17 @@
     <tag k="operator" v="Premier"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="546671091" lat="52.1545044" lon="0.1488586" version="2" timestamp="2010-02-10T15:31:04Z" changeset="3841057" uid="21502" user="Kevin Steinhardt"/>
+  <node id="623408192" lat="52.1711107" lon="0.1519906" version="3" timestamp="2024-12-31T18:24:22Z" changeset="160844230" uid="5229644" user="Nathan_A_RF"/>
   <node id="765994617" lat="52.1454742" lon="0.1282056" version="2" timestamp="2013-04-26T13:16:49Z" changeset="15872207" uid="281267" user="smb1001">
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Church Street"/>
     <tag k="source" v="aerials;local_knowledge"/>
     <tag k="source:addr" v="notes"/>
   </node>
-  <node id="2353761859" lat="52.1475619" lon="0.1330603" version="4" timestamp="2023-10-14T08:21:47Z" changeset="142566499" uid="6816132" user="CjMalone">
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:postcode" v="CB22 5EH"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="alt_name" v="Co-operative Food"/>
-    <tag k="brand" v="Co-op Food"/>
-    <tag k="brand:wikidata" v="Q3277439"/>
-    <tag k="fhrs:id" v="596556"/>
-    <tag k="name" v="Co-op Food"/>
-    <tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
-    <tag k="operator" v="The Co-operative Group"/>
-    <tag k="operator:wikidata" v="Q117202"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
-    <tag k="website" v="https://www.coop.co.uk/store-finder/CB22-5EH/76-high-street"/>
-  </node>
+  <node id="1290255891" lat="52.1443867" lon="0.1419498" version="5" timestamp="2023-10-05T19:09:06Z" changeset="142203153" uid="20240549" user="Sforzando9500"/>
+  <node id="1537155972" lat="52.1589557" lon="0.1046748" version="1" timestamp="2011-12-08T19:24:35Z" changeset="10067918" uid="5926" user="c2r"/>
+  <node id="1537156018" lat="52.1594119" lon="0.1052963" version="1" timestamp="2011-12-08T19:24:37Z" changeset="10067918" uid="5926" user="c2r"/>
   <node id="2353761862" lat="52.1465458" lon="0.1346587" version="13" timestamp="2024-07-28T16:25:59Z" changeset="154529065" uid="21753157" user="Certainly Subwoofer">
     <tag k="addr:housenumber" v="36-38"/>
     <tag k="addr:postcode" v="CB22 5LZ"/>
@@ -103,6 +115,7 @@
     <tag k="shop" v="butcher"/>
     <tag k="website" v="https://www.barkerbrosbutchers.co.uk/"/>
   </node>
+  <node id="4892441926" lat="52.1456030" lon="0.1422444" version="2" timestamp="2023-10-04T21:55:57Z" changeset="142164843" uid="20240549" user="Sforzando9500"/>
   <node id="5101071178" lat="52.1608514" lon="0.1229678" version="2" timestamp="2017-09-13T12:29:04Z" changeset="52005023" uid="84263" user="Robert Whittaker">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="CB22 5JW"/>
@@ -541,6 +554,7 @@
     <tag k="addr:housenumber" v="82"/>
     <tag k="addr:street" v="Cambridge Road"/>
   </node>
+  <node id="12465951419" lat="52.1596651" lon="0.1738522" version="1" timestamp="2024-12-31T18:14:30Z" changeset="160843965" uid="5229644" user="Nathan_A_RF"/>
   <way id="3904025" version="4" timestamp="2021-07-27T11:18:38Z" changeset="108684521" uid="1287673" user="sloerunner">
     <nd ref="20080519"/>
     <nd ref="20080520"/>

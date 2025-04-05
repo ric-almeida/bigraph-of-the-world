@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-24T16:05:43Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:03:56Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="4064801" lat="51.1609229" lon="1.2694153" version="3" timestamp="2017-02-02T17:30:40Z" changeset="45754015" uid="2773866" user="kreuzschnabel"/>
+  <node id="33187583" lat="51.1455862" lon="1.2580931" version="5" timestamp="2024-09-24T14:48:30Z" changeset="157043518" uid="11471297" user="Palgrave Peter"/>
+  <node id="33769284" lat="51.1456180" lon="1.2745382" version="5" timestamp="2010-08-06T21:57:45Z" changeset="5420936" uid="47487" user="IJMacD"/>
+  <node id="255892573" lat="51.1539956" lon="1.2888694" version="3" timestamp="2010-07-13T23:37:24Z" changeset="5213346" uid="47487" user="IJMacD"/>
+  <node id="256083948" lat="51.1467675" lon="1.2774492" version="2" timestamp="2012-08-28T18:22:52Z" changeset="12895905" uid="7037" user="Gregory Williams"/>
+  <node id="341960339" lat="51.1549776" lon="1.2864374" version="3" timestamp="2020-11-14T22:03:47Z" changeset="94123188" uid="5229644" user="Nathan_A_RF"/>
+  <node id="341960358" lat="51.1547055" lon="1.2871740" version="4" timestamp="2020-11-14T22:03:47Z" changeset="94123188" uid="5229644" user="Nathan_A_RF"/>
   <node id="520480420" lat="51.1525228" lon="1.2691875" version="2" timestamp="2017-12-06T19:31:12Z" changeset="54411554" uid="7037" user="Gregory Williams">
     <tag k="addr:city" v="Dover"/>
     <tag k="addr:housenumber" v="14"/>
@@ -27,6 +34,12 @@
     <tag k="religion" v="christian"/>
     <tag k="source:addr" v="FHRS Open Data"/>
   </node>
+  <node id="813888065" lat="51.1610651" lon="1.2690589" version="2" timestamp="2017-02-02T17:30:44Z" changeset="45754015" uid="2773866" user="kreuzschnabel"/>
+  <node id="848250789" lat="51.1459835" lon="1.2734807" version="1" timestamp="2010-08-06T21:57:29Z" changeset="5420936" uid="47487" user="IJMacD"/>
+  <node id="848250805" lat="51.1474918" lon="1.2723357" version="1" timestamp="2010-08-06T21:57:30Z" changeset="5420936" uid="47487" user="IJMacD"/>
+  <node id="1615535393" lat="51.1706221" lon="1.2486188" version="3" timestamp="2020-11-14T22:03:47Z" changeset="94123188" uid="5229644" user="Nathan_A_RF"/>
+  <node id="1640716473" lat="51.1568028" lon="1.2564237" version="2" timestamp="2024-02-10T22:27:48Z" changeset="147310383" uid="20895406" user="HB16"/>
+  <node id="1906655493" lat="51.1548603" lon="1.2869521" version="3" timestamp="2024-05-10T16:36:03Z" changeset="151155037" uid="6222245" user="FraukeLeo"/>
   <node id="1962745443" lat="51.1487992" lon="1.2751010" version="4" timestamp="2023-02-13T11:20:41Z" changeset="132485063" uid="10599253" user="DanGlover">
     <tag k="addr:city" v="Dover"/>
     <tag k="addr:country" v="GB"/>
@@ -40,6 +53,17 @@
     <tag k="name" v="The Railway Bell"/>
     <tag k="note" v="Redevelopment in progress 02/2023"/>
     <tag k="source:addr" v="FHRS Open Data"/>
+  </node>
+  <node id="9060166465" lat="51.1485191" lon="1.2731350" version="1" timestamp="2021-09-03T12:12:00Z" changeset="110675871" uid="5229644" user="Nathan_A_RF"/>
+  <node id="9060166466" lat="51.1484526" lon="1.2730493" version="1" timestamp="2021-09-03T12:12:00Z" changeset="110675871" uid="5229644" user="Nathan_A_RF"/>
+  <node id="12707937382" lat="51.1523447" lon="1.2686964" version="1" timestamp="2025-03-28T16:17:07Z" changeset="164215252" uid="21426772" user="Hyperioum">
+    <tag k="addr:city" v="Dover"/>
+    <tag k="addr:housename" v="DODS"/>
+    <tag k="addr:postcode" v="CT16 3DN"/>
+    <tag k="addr:street" v="Mill Street"/>
+    <tag k="amenity" v="arts_centre"/>
+    <tag k="name" v="Dover Operatic &amp; Dramatic Society"/>
+    <tag k="phone" v="01304824400"/>
   </node>
   <way id="933776" version="23" timestamp="2024-06-24T09:22:44Z" changeset="153102111" uid="5229644" user="Nathan_A_RF">
     <nd ref="4064799"/>
@@ -702,25 +726,19 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Woodside Close"/>
   </way>
-  <way id="148450503" version="7" timestamp="2024-09-29T16:15:42Z" changeset="157261972" uid="11471297" user="Palgrave Peter">
+  <way id="148450503" version="8" timestamp="2025-03-28T17:02:48Z" changeset="164217102" uid="21426772" user="Hyperioum">
     <nd ref="1615516951"/>
     <nd ref="1615516950"/>
     <nd ref="1615516946"/>
-    <nd ref="12209204567"/>
-    <nd ref="1947825556"/>
-    <nd ref="524397750"/>
-    <nd ref="524397821"/>
-    <nd ref="1947825558"/>
-    <nd ref="1947825560"/>
-    <nd ref="524397823"/>
-    <nd ref="524397819"/>
-    <nd ref="366636589"/>
-    <nd ref="524397817"/>
-    <nd ref="524397815"/>
-    <nd ref="1615516952"/>
-    <nd ref="12209204573"/>
-    <nd ref="1615516954"/>
-    <nd ref="524397766"/>
+    <nd ref="12708040304"/>
+    <nd ref="12708040305"/>
+    <nd ref="12708040310"/>
+    <nd ref="1947825534"/>
+    <nd ref="12708040311"/>
+    <nd ref="12708040306"/>
+    <nd ref="12708040307"/>
+    <nd ref="12708040308"/>
+    <nd ref="12708040309"/>
     <nd ref="1615516951"/>
     <tag k="addr:housenumber" v="3-4"/>
     <tag k="addr:postcode" v="CT16 3DT"/>

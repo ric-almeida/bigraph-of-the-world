@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:31:43Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:06:00Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="26113380" lat="52.2560078" lon="0.3064407" version="2" timestamp="2015-05-25T20:07:39Z" changeset="31454039" uid="669183" user="Andy_W"/>
+  <node id="26129083" lat="52.2713649" lon="0.2969142" version="4" timestamp="2019-11-13T00:50:36Z" changeset="76986905" uid="5173844" user="ndrw6"/>
   <node id="26385707" lat="52.2752983" lon="0.3271282" version="12" timestamp="2024-07-08T16:57:03Z" changeset="153711916" uid="21615891" user="kilroyd">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:country" v="GB"/>
@@ -23,6 +25,8 @@
     <tag k="shop" v="gift"/>
     <tag k="source:addr" v="FHRS Open Data"/>
   </node>
+  <node id="246521995" lat="52.2601480" lon="0.3661699" version="5" timestamp="2015-10-24T11:14:03Z" changeset="34839121" uid="84263" user="Robert Whittaker"/>
+  <node id="246524815" lat="52.2680701" lon="0.3576109" version="2" timestamp="2011-07-23T17:00:03Z" changeset="8808139" uid="74897" user="Rowland"/>
   <node id="304736366" lat="52.2799663" lon="0.3247658" version="6" timestamp="2018-12-18T18:27:28Z" changeset="65589365" uid="364" user="Edward">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="CB25 0BA"/>
@@ -176,6 +180,8 @@
     <tag k="name" v="Ryco Optics"/>
     <tag k="website" v="https://www.rycooptics.co.uk/"/>
   </node>
+  <node id="9502452637" lat="52.3006915" lon="0.3581856" version="2" timestamp="2024-03-07T17:29:06Z" changeset="148353231" uid="10420541" user="Thingummy"/>
+  <node id="10605722104" lat="52.2681460" lon="0.3572189" version="1" timestamp="2023-02-04T09:45:50Z" changeset="132069034" uid="5173844" user="ndrw6"/>
   <node id="11799679593" lat="52.2746030" lon="0.3301434" version="1" timestamp="2024-04-07T12:57:52Z" changeset="149691204" uid="17340731" user="groenroos">
     <tag k="addr:city" v="Burwell"/>
     <tag k="addr:housename" v="Burwell Surgery"/>
@@ -2083,7 +2089,7 @@
     <tag k="motor_vehicle" v="yes"/>
     <tag k="name" v="Hightown Drove"/>
   </way>
-  <way id="84240760" version="4" timestamp="2019-04-12T15:50:25Z" changeset="69152061" uid="322039" user="MacLondon">
+  <way id="84240760" version="5" timestamp="2025-03-27T12:43:46Z" changeset="164162285" uid="10090920" user="Infinatum">
     <nd ref="979897560"/>
     <nd ref="979897724"/>
     <nd ref="2699864946"/>
@@ -2093,8 +2099,7 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Priory Drove"/>
     <tag k="source" v="survey (Nov 2010)"/>
-    <tag k="source:surface" v="survey (Nov 2010)"/>
-    <tag k="surface" v="unpaved"/>
+    <tag k="surface" v="compacted"/>
   </way>
   <way id="97764457" version="1" timestamp="2011-02-01T22:26:22Z" changeset="7160026" uid="4951" user="PeterEastern">
     <nd ref="1131611550"/>
@@ -2606,19 +2611,17 @@
     <tag k="name" v="Ness Road"/>
     <tag k="ref" v="B1102"/>
   </way>
-  <way id="179240061" version="5" timestamp="2021-04-16T21:04:54Z" changeset="103081045" uid="242345" user="confusedbuffalo">
+  <way id="179240061" version="6" timestamp="2025-04-03T11:39:28Z" changeset="164460504" uid="953779" user="Adam Edwards">
     <nd ref="1175061320"/>
     <nd ref="1761249323"/>
     <nd ref="5251909"/>
     <nd ref="3545293223"/>
     <nd ref="3545293222"/>
-    <nd ref="5251914"/>
-    <nd ref="3545293221"/>
-    <nd ref="550967574"/>
+    <nd ref="12725527918"/>
     <tag k="highway" v="secondary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed" v="40 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Swaffham Road"/>
     <tag k="ref" v="B1102"/>
@@ -10875,6 +10878,20 @@
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Tunbridge Close"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="1374400822" version="1" timestamp="2025-04-03T11:39:28Z" changeset="164460504" uid="953779" user="Adam Edwards">
+    <nd ref="12725527918"/>
+    <nd ref="5251914"/>
+    <nd ref="3545293221"/>
+    <nd ref="550967574"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Swaffham Road"/>
+    <tag k="ref" v="B1102"/>
+    <tag k="sidewalk" v="separate"/>
   </way>
 
 </osm>

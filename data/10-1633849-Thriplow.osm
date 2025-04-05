@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T16:04:30Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:12:14Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="25709991" lat="52.0767666" lon="0.0869750" version="2" timestamp="2012-04-18T02:38:15Z" changeset="11339703" uid="24119" user="Mauls"/>
+  <node id="33408798" lat="52.0966679" lon="0.0801992" version="6" timestamp="2023-05-19T12:57:37Z" changeset="136299179" uid="3999" user="BarryMyles"/>
+  <node id="33408800" lat="52.0951706" lon="0.0814315" version="5" timestamp="2023-05-19T12:57:37Z" changeset="136299179" uid="3999" user="BarryMyles"/>
+  <node id="33408944" lat="52.1175664" lon="0.0983796" version="4" timestamp="2010-09-26T21:55:12Z" changeset="5886266" uid="21502" user="Kevin Steinhardt"/>
+  <node id="236998695" lat="52.0665746" lon="0.1067591" version="2" timestamp="2012-03-04T13:42:57Z" changeset="10868534" uid="553735" user="Johnmb"/>
+  <node id="544548692" lat="52.1168876" lon="0.0975434" version="2" timestamp="2010-09-26T21:55:15Z" changeset="5886266" uid="21502" user="Kevin Steinhardt"/>
+  <node id="927329163" lat="52.1172576" lon="0.0983690" version="2" timestamp="2024-12-29T21:34:11Z" changeset="160768719" uid="5229644" user="Nathan_A_RF"/>
+  <node id="1297465739" lat="52.0739466" lon="0.1072070" version="2" timestamp="2015-06-13T11:03:37Z" changeset="31941222" uid="406589" user="AmyCupcake"/>
+  <node id="2242635832" lat="52.0948946" lon="0.1277186" version="2" timestamp="2025-03-25T20:47:10Z" changeset="164096612" uid="13666626" user="RedAuburn"/>
   <way id="5015781" version="10" timestamp="2023-06-23T09:27:01Z" changeset="137680224" uid="242345" user="confusedbuffalo">
     <nd ref="33408798"/>
     <nd ref="1041278532"/>
@@ -363,9 +372,10 @@
     <tag k="tourism" v="museum"/>
     <tag k="website" v="https://www.iwm.org.uk/"/>
   </way>
-  <way id="22001372" version="3" timestamp="2021-05-28T09:23:17Z" changeset="105478240" uid="281267" user="smb1001">
+  <way id="22001372" version="4" timestamp="2025-03-25T20:47:10Z" changeset="164096612" uid="13666626" user="RedAuburn">
     <nd ref="236998647"/>
     <nd ref="2242635827"/>
+    <nd ref="12700495043"/>
     <nd ref="2242635828"/>
     <nd ref="236998715"/>
     <tag k="highway" v="residential"/>
@@ -1522,8 +1532,9 @@
     <tag k="addr:street" v="Heathfield Way"/>
     <tag k="building" v="residential"/>
   </way>
-  <way id="989229790" version="3" timestamp="2023-03-11T22:15:48Z" changeset="133569066" uid="161619" user="FvGordon">
+  <way id="989229790" version="4" timestamp="2025-03-25T20:47:10Z" changeset="164096612" uid="13666626" user="RedAuburn">
     <nd ref="6709715299"/>
+    <nd ref="12700495042"/>
     <nd ref="236998647"/>
     <tag k="highway" v="trunk"/>
     <tag k="lanes" v="3"/>
@@ -1541,8 +1552,9 @@
     <tag k="turn:backward" v="through"/>
     <tag k="turn:lanes:forward" v="left|through"/>
   </way>
-  <way id="989229791" version="4" timestamp="2023-03-11T22:15:48Z" changeset="133569066" uid="161619" user="FvGordon">
+  <way id="989229791" version="5" timestamp="2025-03-25T20:47:10Z" changeset="164096612" uid="13666626" user="RedAuburn">
     <nd ref="236998647"/>
+    <nd ref="12700495041"/>
     <nd ref="10387289"/>
     <tag k="highway" v="trunk"/>
     <tag k="lanes" v="3"/>

@@ -48,7 +48,6 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
         (Overpass.query_all_children root_level root_id root_name) in
     let boundary_to_parent =  Hierarchy.boundary_to_parent root_level root_id root_name in
     let boundary_to_children = Hierarchy.invert_map_list boundary_to_parent in
-    let streetid_to_junctions = Hierarchy.streetid_to_junctions root_string in
     let bar =
         let total = (Map.length boundary_to_parent) in
         let open Progress.Line in
@@ -58,20 +57,24 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
         (fun report_progress ->
             let site_no = ref 2 in (* site 0 is for id sibling, site 1 is for boundary sibling*)
             let junction_hash = String.Table.create () in
-            let rec helper buildingid_seen boundary comp_list= 
+            let rec helper boundary id_seen shared_intersections comp_list= 
                 let (_,boundary_id_name) = String.lsplit2_exn boundary ~on:'-' in
                 let (_,boundary_name) = String.lsplit2_exn boundary_id_name ~on:'-' in
                 let site = Big.split 1 in
-                let (buildingid_seen, boundary_children_bigraphs) = 
+                let (id_seen, shared_intersections, boundary_children_bigraphs) = 
                     let children_boundaries = 
                         match Map.find boundary_to_children boundary with
                         | Some children -> children
                         | None -> [] in
                     List.fold children_boundaries 
-                        ~init:(buildingid_seen, (Big.ppar site Big.one)::comp_list) (* site for id and one to close sibling boundaries *)
-                        ~f:(fun (buildingid_seen,child_boundary_graphs) child -> 
-                            helper buildingid_seen child child_boundary_graphs) in
-                let (buildingid_seen, street_name_to_street_ids_and_buildings) = Hierarchy.street_name_to_street_ids_and_buildings buildingid_seen boundary in
+                        ~init:(id_seen, shared_intersections, (Big.ppar site Big.one)::comp_list) (* site for id and one to close sibling boundaries *)
+                        ~f:(fun (id_seen, shared_intersections, child_boundary_graphs) child -> 
+                            let (id_seen, _, shared_intersections, child_boundary_graphs) =
+                                helper child id_seen shared_intersections child_boundary_graphs in
+                            (id_seen, shared_intersections, child_boundary_graphs)) in
+                let (new_id_seen, street_name_to_street_ids_and_buildings, in_out_intersections) = Hierarchy.idseen_streetnamemap_inoutintersections id_seen boundary in
+                let shared_intersections = Set.union in_out_intersections shared_intersections in
+                let streetid_to_junctions = Hierarchy.streetid_to_junctions boundary id_seen shared_intersections in
                 let place_graph =
                     (Big.close
                         (Link.parse_face ["id"])
@@ -82,7 +85,7 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                             )
                             (Big.par
                                 site (* sibiling boundary*)
-                                (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Boundary"; p = []; i = 1 }) (* site for children*)
+                                (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Boundary"; p = [S boundary_name]; i = 1 }) (* site for children*)
                             )
                         )
                     ):: (* nest *)
@@ -105,7 +108,7 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                                         site (*uncle boundary*)
                                         (Big.par
                                             site (* sibiling street/boundary*)
-                                            (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Street"; p = []; i = 1 }) (*site for children*)
+                                            (Big.ion (Link.parse_face ["id"]) Ctrl.{ s = "Street"; p = [S street_name]; i = 1 }) (*site for children*)
                                         )
                                     )
                                 ) 
@@ -153,7 +156,7 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                                                 )
                                                 (Big.par
                                                     site (* sibiling building*)
-                                                    (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "Building"; p = []; i = 1 })
+                                                    (Big.atom (Link.parse_face ["id"]) Ctrl.{ s = "Building"; p = [S (building_name)]; i = 1 })
                                                 )
                                             )
                                         )
@@ -165,8 +168,8 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                     )
                     in
                 let _ = report_progress 1 in
-                (buildingid_seen,place_graph) in
-            let (_, place_graph) = helper String.Set.empty root_string [] in
+                (new_id_seen, in_out_intersections, shared_intersections, place_graph) in
+            let (_, _, _, place_graph) = helper root_string String.Set.empty String.Set.empty [] in
             (* let g = of_list_top_down (add_sites_to_right_then_comp) place_graph in *)
             let junction_lists = [0]::[1]::(Hashtbl.fold junction_hash ~init:[] ~f:(fun ~key:_ ~data:l acc->l::acc)) in
             let shared_junction_placing = Big.placing junction_lists (!site_no) Link.Face.empty in

@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-24T16:05:43Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:03:56Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="27413656" lat="51.1446572" lon="1.3322700" version="3" timestamp="2024-06-24T09:22:44Z" changeset="153102111" uid="5229644" user="Nathan_A_RF"/>
+  <node id="27413896" lat="51.1533833" lon="1.3287803" version="2" timestamp="2010-08-18T11:53:16Z" changeset="5525928" uid="47487" user="IJMacD"/>
+  <node id="29391541" lat="51.1340315" lon="1.3371609" version="1" timestamp="2007-05-20T17:34:48Z" changeset="59033" uid="3560" user="Firefishy">
+    <tag k="created_by" v="JOSM"/>
+  </node>
   <node id="769219208" lat="51.1489126" lon="1.3830127" version="3" timestamp="2023-10-13T17:59:16Z" changeset="142534528" uid="20152636" user="HV2023">
     <tag k="addr:city" v="St Margaret's Bay"/>
     <tag k="addr:postcode" v="CT15 6DZ"/>
@@ -27,6 +32,8 @@
     <tag k="ref:pol_id" v="3014"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1154174657" lat="51.1693704" lon="1.3511092" version="1" timestamp="2011-02-15T09:12:54Z" changeset="7293028" uid="7037" user="Gregory Williams"/>
+  <node id="1281854739" lat="51.1790181" lon="1.3702215" version="1" timestamp="2011-05-12T17:20:56Z" changeset="8124331" uid="7037" user="Gregory Williams"/>
   <node id="2262002418" lat="51.1541756" lon="1.3716180" version="6" timestamp="2024-04-28T17:32:02Z" changeset="150629338" uid="4833194" user="motogs">
     <tag k="addr:city" v="St. Margaret's at Cliffe"/>
     <tag k="addr:place" v="St Margaret's at Cliffe"/>
@@ -57,6 +64,7 @@
     <tag k="phone" v="+44 1304 853 173"/>
     <tag k="website" v="https://baytrust.org.uk/the-pines-garden-tea-room/"/>
   </node>
+  <node id="3763647910" lat="51.1635316" lon="1.3400921" version="1" timestamp="2015-09-29T11:57:18Z" changeset="34323671" uid="3239139" user="Zain Ahmad Hashmi"/>
   <node id="10129954813" lat="51.1506431" lon="1.3783190" version="3" timestamp="2023-11-07T16:22:29Z" changeset="143744394" uid="19880472" user="aknight22">
     <tag k="addr:city" v="St Margarets Bay"/>
     <tag k="addr:housenumber" v="1-2"/>
@@ -71,7 +79,7 @@
     <tag k="phone" v="+44 1304 853217"/>
     <tag k="website" v="https://www.firstlightcafe.co.uk/"/>
   </node>
-  <way id="4471917" version="7" timestamp="2025-03-18T14:20:30Z" changeset="163777589" uid="3951648" user="rskedgell">
+  <way id="4471917" version="8" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412802"/>
     <nd ref="11415450737"/>
     <nd ref="769219130"/>
@@ -89,21 +97,21 @@
     <nd ref="27412814"/>
     <tag k="highway" v="residential"/>
     <tag k="lit" v="yes"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Kingsdown Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="4471918" version="4" timestamp="2024-08-16T19:14:00Z" changeset="155343278" uid="20092260" user="Doggy77">
+  <way id="4471918" version="5" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412814"/>
     <nd ref="11391647884"/>
     <nd ref="11391647885"/>
     <nd ref="27412815"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Kingsdown Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="4471919" version="8" timestamp="2023-12-03T10:59:19Z" changeset="144717096" uid="19880472" user="aknight22">
+  <way id="4471919" version="9" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412814"/>
     <nd ref="11371661301"/>
     <nd ref="27412826"/>
@@ -132,11 +140,11 @@
     <nd ref="27412821"/>
     <tag k="highway" v="residential"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Chapel Lane"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="4471920" version="10" timestamp="2023-11-23T18:26:49Z" changeset="144380015" uid="19880472" user="aknight22">
+  <way id="4471920" version="11" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412827"/>
     <nd ref="11366905334"/>
     <nd ref="6832793256"/>
@@ -146,28 +154,28 @@
     <nd ref="27412828"/>
     <tag k="highway" v="tertiary"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="High Street"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="4471921" version="6" timestamp="2023-05-01T13:51:16Z" changeset="135574620" uid="7037" user="Gregory Williams">
+  <way id="4471921" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412825"/>
     <nd ref="27412827"/>
     <tag k="highway" v="unclassified"/>
     <tag k="lane_markings" v="no"/>
     <tag k="lit" v="yes"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Sea Street"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="4471959" version="5" timestamp="2012-09-22T17:14:12Z" changeset="13210072" uid="7037" user="Gregory Williams">
+  <way id="4471959" version="6" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="1927634605"/>
     <nd ref="1927634606"/>
     <nd ref="1927634607"/>
     <nd ref="1927634604"/>
     <nd ref="1146894867"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Dover Road"/>
     <tag k="oneway" v="yes"/>
   </way>
@@ -221,35 +229,35 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="The Lane"/>
   </way>
-  <way id="4627876" version="6" timestamp="2023-11-18T16:03:27Z" changeset="144180482" uid="19880472" user="aknight22">
+  <way id="4627876" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="29391592"/>
     <nd ref="11360284038"/>
     <nd ref="29391594"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Reach Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="4627877" version="9" timestamp="2024-08-21T18:57:08Z" changeset="155573248" uid="20092260" user="Doggy77">
+  <way id="4627877" version="10" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219224"/>
     <nd ref="29391594"/>
     <nd ref="1590140662"/>
     <nd ref="622522786"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Reach Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="4627878" version="8" timestamp="2024-08-21T19:01:26Z" changeset="155573248" uid="20092260" user="Doggy77">
+  <way id="4627878" version="9" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="622522786"/>
     <nd ref="9171045742"/>
     <nd ref="769219194"/>
     <nd ref="769219250"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Churchill Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="surface" v="asphalt"/>
@@ -332,15 +340,15 @@
     <tag k="sidewalk" v="no"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="19803002" version="9" timestamp="2020-01-18T20:07:46Z" changeset="79740339" uid="231477" user="SiHollett">
+  <way id="19803002" version="10" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219157"/>
     <nd ref="1927634605"/>
     <nd ref="27412830"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Station Road"/>
   </way>
-  <way id="25768519" version="14" timestamp="2024-08-16T19:26:30Z" changeset="155343592" uid="20092260" user="Doggy77">
+  <way id="25768519" version="15" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412825"/>
     <nd ref="11360284055"/>
     <nd ref="281047635"/>
@@ -355,7 +363,7 @@
     <nd ref="281047638"/>
     <tag k="highway" v="unclassified"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Sea Street"/>
     <tag k="surface" v="asphalt"/>
   </way>
@@ -381,7 +389,7 @@
     <tag k="name" v="Granville Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="25768522" version="13" timestamp="2024-04-30T17:38:05Z" changeset="150719970" uid="19880472" user="aknight22">
+  <way id="25768522" version="14" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="859228149"/>
     <nd ref="1590143999"/>
     <nd ref="281047640"/>
@@ -405,9 +413,9 @@
     <nd ref="281047651"/>
     <tag k="highway" v="residential"/>
     <tag k="lanes" v="2"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Granville Road"/>
-    <tag k="note" v="Private Road with 20mph speed limit from the Hotel Road/Victoria Ave junction NE to the Dover Patrol Monument&#x0a;"/>
+    <tag k="note" v="Private Road with 20mph speed limit from the Hotel Road/Victoria Ave junction NE to the Dover Patrol Monument"/>
     <tag k="oneway" v="no"/>
     <tag k="surface" v="asphalt"/>
   </way>
@@ -466,7 +474,7 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Collingwood Road"/>
   </way>
-  <way id="49063207" version="8" timestamp="2024-08-16T19:02:32Z" changeset="155343278" uid="20092260" user="Doggy77">
+  <way id="49063207" version="9" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412828"/>
     <nd ref="622522798"/>
     <nd ref="11371661306"/>
@@ -476,7 +484,7 @@
     <nd ref="11371661303"/>
     <nd ref="859222915"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Well Lane"/>
     <tag k="surface" v="pebblestone"/>
   </way>
@@ -498,7 +506,7 @@
     <tag k="prow_ref" v="ER282"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="52513421" version="13" timestamp="2024-08-21T18:46:16Z" changeset="155573248" uid="20092260" user="Doggy77">
+  <way id="52513421" version="14" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="627854546"/>
     <nd ref="11331445972"/>
     <nd ref="6556490704"/>
@@ -506,7 +514,7 @@
     <nd ref="627854550"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="The Droveway"/>
     <tag k="surface" v="asphalt"/>
   </way>
@@ -573,7 +581,7 @@
     <tag k="source" v="survey"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
   </way>
-  <way id="61732881" version="4" timestamp="2023-12-14T17:46:18Z" changeset="145121913" uid="19880472" user="aknight22">
+  <way id="61732881" version="5" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219241"/>
     <nd ref="11417933658"/>
     <nd ref="769219183"/>
@@ -585,38 +593,38 @@
     <nd ref="1154174634"/>
     <nd ref="769219130"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="The Freedown"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732882" version="4" timestamp="2012-09-09T10:11:46Z" changeset="13042617" uid="7037" user="Gregory Williams">
+  <way id="61732882" version="5" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219142"/>
     <nd ref="769219216"/>
     <nd ref="769219260"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Glebe Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732885" version="4" timestamp="2012-09-09T10:11:48Z" changeset="13042617" uid="7037" user="Gregory Williams">
+  <way id="61732885" version="5" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="1906626085"/>
     <nd ref="769219198"/>
     <nd ref="1906626081"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Royston Gardens"/>
     <tag k="source" v="Bing"/>
   </way>
-  <way id="61732886" version="5" timestamp="2023-11-21T16:55:54Z" changeset="144295918" uid="19880472" user="aknight22">
+  <way id="61732886" version="6" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219254"/>
     <nd ref="769219190"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Cripps' Lane"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="61732887" version="6" timestamp="2024-08-21T19:03:48Z" changeset="155573248" uid="20092260" user="Doggy77">
+  <way id="61732887" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219164"/>
     <nd ref="11396460877"/>
     <nd ref="769219271"/>
@@ -624,22 +632,22 @@
     <nd ref="29391596"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Roman Way"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="61732889" version="4" timestamp="2016-04-03T17:19:10Z" changeset="38271396" uid="42123" user="Ropino">
+  <way id="61732889" version="5" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219175"/>
     <nd ref="769219127"/>
     <nd ref="769219229"/>
     <nd ref="769219157"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Millfield"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732890" version="7" timestamp="2023-12-11T18:51:28Z" changeset="145011032" uid="19880472" user="aknight22">
+  <way id="61732890" version="8" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219210"/>
     <nd ref="7357671036"/>
     <nd ref="11410392456"/>
@@ -648,11 +656,11 @@
     <nd ref="11410392457"/>
     <nd ref="769219247"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Townsend Farm Road"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732894" version="6" timestamp="2020-09-24T06:27:17Z" changeset="91408977" uid="11741743" user="randerv">
+  <way id="61732894" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219227"/>
     <nd ref="7936559217"/>
     <nd ref="1243206373"/>
@@ -661,31 +669,31 @@
     <nd ref="769219212"/>
     <nd ref="769219261"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="The Avenue"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732895" version="4" timestamp="2012-09-09T10:11:46Z" changeset="13042617" uid="7037" user="Gregory Williams">
+  <way id="61732895" version="5" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219216"/>
     <nd ref="769219134"/>
     <nd ref="769219253"/>
     <nd ref="769219187"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Glebe Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732896" version="6" timestamp="2024-08-21T19:02:27Z" changeset="155573248" uid="20092260" user="Doggy77">
+  <way id="61732896" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219131"/>
     <nd ref="769219250"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Churchill Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="61732898" version="6" timestamp="2023-12-14T17:46:18Z" changeset="145121913" uid="19880472" user="aknight22">
+  <way id="61732898" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219140"/>
     <nd ref="1243205172"/>
     <nd ref="11407974390"/>
@@ -693,29 +701,29 @@
     <nd ref="1154174641"/>
     <nd ref="11417933659"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="The Freedown"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732899" version="3" timestamp="2012-09-09T10:11:44Z" changeset="13042617" uid="7037" user="Gregory Williams">
+  <way id="61732899" version="4" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219123"/>
     <nd ref="769219218"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Ash Grove"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732900" version="6" timestamp="2024-08-21T19:02:21Z" changeset="155573248" uid="20092260" user="Doggy77">
+  <way id="61732900" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219246"/>
     <nd ref="769219194"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Churchill Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="61732901" version="6" timestamp="2023-12-02T12:39:04Z" changeset="144690384" uid="19880472" user="aknight22">
+  <way id="61732901" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219180"/>
     <nd ref="769219132"/>
     <nd ref="11389746917"/>
@@ -728,11 +736,11 @@
     <nd ref="10214908672"/>
     <nd ref="769219225"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="St. Georges Place"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732902" version="7" timestamp="2024-08-21T18:23:50Z" changeset="155573248" uid="20092260" user="Doggy77">
+  <way id="61732902" version="8" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219156"/>
     <nd ref="769219268"/>
     <nd ref="11401651581"/>
@@ -745,12 +753,12 @@
     <nd ref="769219149"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Langdon Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="surface" v="paving_stones"/>
   </way>
-  <way id="61732904" version="6" timestamp="2023-12-08T18:16:12Z" changeset="144913416" uid="19880472" user="aknight22">
+  <way id="61732904" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219218"/>
     <nd ref="8207984608"/>
     <nd ref="11403689045"/>
@@ -762,11 +770,11 @@
     <nd ref="1146894865"/>
     <nd ref="769219210"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Ash Grove"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732970" version="10" timestamp="2023-10-13T18:07:55Z" changeset="142534117" uid="20152636" user="HV2023">
+  <way id="61732970" version="11" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="545848218"/>
     <nd ref="545848224"/>
     <nd ref="10712948887"/>
@@ -780,7 +788,7 @@
     <tag k="bus" v="no"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Bay Hill"/>
     <tag k="psv" v="no"/>
     <tag k="source" v="survey"/>
@@ -799,11 +807,11 @@
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
   </way>
-  <way id="61732974" version="5" timestamp="2020-02-16T10:07:08Z" changeset="81066274" uid="110682" user="Worley">
+  <way id="61732974" version="6" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769220277"/>
     <nd ref="769220267"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="motor_vehicle" v="destination"/>
     <tag k="name" v="Cavenagh Road"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
@@ -829,7 +837,7 @@
     <tag k="name" v="Salisbury Road"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732976" version="5" timestamp="2023-11-14T17:45:37Z" changeset="144020249" uid="19880472" user="aknight22">
+  <way id="61732976" version="6" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769220240"/>
     <nd ref="11349248157"/>
     <nd ref="11349248156"/>
@@ -840,7 +848,7 @@
     <nd ref="769220262"/>
     <nd ref="627854571"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Norman Road"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
@@ -853,32 +861,32 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732978" version="3" timestamp="2012-09-16T10:43:31Z" changeset="13128694" uid="7037" user="Gregory Williams">
+  <way id="61732978" version="4" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769220207"/>
     <nd ref="769220240"/>
     <nd ref="769220191"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="The Rise"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732979" version="5" timestamp="2017-05-30T07:39:04Z" changeset="49095152" uid="322785" user="BCNorwich">
+  <way id="61732979" version="6" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769220250"/>
     <nd ref="4885091990"/>
     <nd ref="4885091989"/>
     <nd ref="627854549"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Kenilworth Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="61732980" version="5" timestamp="2019-05-30T13:58:56Z" changeset="70772018" uid="8893201" user="JonKrato">
+  <way id="61732980" version="6" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769220226"/>
     <nd ref="6511383191"/>
     <nd ref="769220183"/>
     <tag k="access" v="private"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Convent Close"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
@@ -918,7 +926,7 @@
     <tag k="source:name" v="OS_OpenData_Locator"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="61732984" version="6" timestamp="2020-02-11T18:32:51Z" changeset="80865445" uid="10652025" user="Desperado 42">
+  <way id="61732984" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769220210"/>
     <nd ref="6511373781"/>
     <nd ref="7128685493"/>
@@ -927,7 +935,7 @@
     <tag k="bicycle" v="permissive"/>
     <tag k="highway" v="unclassified"/>
     <tag k="horse" v="permissive"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="motor_vehicle" v="permissive"/>
     <tag k="name" v="Victoria Avenue"/>
     <tag k="note" v="Unmaintained, unadopted private road. Use at own risk."/>
@@ -936,7 +944,7 @@
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="surface" v="dirt"/>
   </way>
-  <way id="61732985" version="12" timestamp="2023-10-13T17:52:01Z" changeset="142534117" uid="20152636" user="HV2023">
+  <way id="61732985" version="13" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="281047647"/>
     <nd ref="769220212"/>
     <nd ref="6511373779"/>
@@ -963,13 +971,13 @@
     <nd ref="769220224"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Hotel Road"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="source:name" v="survey"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="61733048" version="5" timestamp="2019-05-30T13:58:56Z" changeset="70772018" uid="8893201" user="JonKrato">
+  <way id="61733048" version="6" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769220888"/>
     <nd ref="769220883"/>
     <nd ref="6511383195"/>
@@ -977,11 +985,11 @@
     <nd ref="769220873"/>
     <nd ref="627854548"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Downside"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
   </way>
-  <way id="72323137" version="6" timestamp="2019-04-02T14:33:15Z" changeset="68796399" uid="8270424" user="theArchDruid">
+  <way id="72323137" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="859228149"/>
     <nd ref="6378670106"/>
     <nd ref="859223658"/>
@@ -991,11 +999,11 @@
     <nd ref="281047656"/>
     <tag k="bus" v="designated"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="motor_vehicle" v="no"/>
     <tag k="psv" v="yes"/>
   </way>
-  <way id="99152995" version="6" timestamp="2024-08-21T19:06:20Z" changeset="155573248" uid="20092260" user="Doggy77">
+  <way id="99152995" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219250"/>
     <nd ref="11396460873"/>
     <nd ref="1590140652"/>
@@ -1007,17 +1015,17 @@
     <nd ref="29391590"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Roman Way"/>
     <tag k="source" v="OS_OpenData_StreetView"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="99152997" version="3" timestamp="2024-08-15T12:28:42Z" changeset="155280704" uid="20092260" user="Doggy77">
+  <way id="99152997" version="4" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219265"/>
     <nd ref="622522796"/>
     <nd ref="622522784"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Vicarage Lane"/>
     <tag k="surface" v="pebblestone"/>
   </way>
@@ -1055,9 +1063,8 @@
     <tag k="name" v="Station Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="99836181" version="15" timestamp="2025-03-18T14:20:30Z" changeset="163777589" uid="3951648" user="rskedgell">
-    <nd ref="1154174621"/>
-    <nd ref="12157570117"/>
+  <way id="99836181" version="16" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
+    <nd ref="12707149041"/>
     <nd ref="206365158"/>
     <nd ref="339685486"/>
     <nd ref="6441310316"/>
@@ -1122,7 +1129,7 @@
     <tag k="name" v="St. Margaret's Road"/>
     <tag k="source:name" v="survey"/>
   </way>
-  <way id="103969631" version="8" timestamp="2024-02-22T10:16:24Z" changeset="147766146" uid="18439230" user="NTWhiteCliffs">
+  <way id="103969631" version="9" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219150"/>
     <nd ref="769220892"/>
     <nd ref="29391588"/>
@@ -1132,21 +1139,21 @@
     <tag k="highway" v="tertiary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="motor_vehicle" v="yes"/>
     <tag k="name" v="Reach Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="103969632" version="4" timestamp="2016-04-03T17:19:19Z" changeset="38271396" uid="42123" user="Ropino">
+  <way id="103969632" version="5" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="1200058037"/>
     <nd ref="769219150"/>
     <tag k="highway" v="tertiary"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Upper Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="103969634" version="4" timestamp="2025-03-18T14:20:30Z" changeset="163777589" uid="3951648" user="rskedgell">
+  <way id="103969634" version="5" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="1200058148"/>
     <nd ref="1200058128"/>
     <nd ref="1200057977"/>
@@ -1154,7 +1161,7 @@
     <tag k="designation" v="public_footpath"/>
     <tag k="foot" v="designated"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Droveway Gardens"/>
     <tag k="prow_ref" v="ER276"/>
   </way>
@@ -1169,7 +1176,7 @@
     <tag k="source:name" v="OS_OpenData_Locator"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="105696528" version="6" timestamp="2023-10-13T18:07:04Z" changeset="142534117" uid="20152636" user="HV2023">
+  <way id="105696528" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769220216"/>
     <nd ref="1181941107"/>
     <nd ref="1181940970"/>
@@ -1186,7 +1193,7 @@
     <nd ref="545848218"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Bay Hill"/>
     <tag k="source" v="survey"/>
     <tag k="surface" v="asphalt"/>
@@ -1292,7 +1299,7 @@
     <tag k="noname" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="169004647" version="2" timestamp="2012-09-09T10:11:45Z" changeset="13042617" uid="7037" user="Gregory Williams">
+  <way id="169004647" version="3" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412821"/>
     <nd ref="1801800662"/>
     <nd ref="1801800661"/>
@@ -1304,7 +1311,7 @@
     <nd ref="27412825"/>
     <tag k="highway" v="residential"/>
     <tag k="lit" v="yes"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Chapel Lane"/>
     <tag k="surface" v="asphalt"/>
   </way>
@@ -1355,7 +1362,7 @@
     <tag k="source" v="Bing"/>
     <tag k="wikidata" v="Q66226301"/>
   </way>
-  <way id="169005113" version="6" timestamp="2024-02-22T10:16:24Z" changeset="147766146" uid="18439230" user="NTWhiteCliffs">
+  <way id="169005113" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219149"/>
     <nd ref="29391590"/>
     <nd ref="769219187"/>
@@ -1371,20 +1378,20 @@
     <tag k="highway" v="tertiary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="yes"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="motor_vehicle" v="yes"/>
     <tag k="name" v="Reach Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="180218210" version="1" timestamp="2012-09-09T10:11:44Z" changeset="13042617" uid="7037" user="Gregory Williams">
+  <way id="180218210" version="2" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219139"/>
     <nd ref="1906626077"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Royston Gardens"/>
     <tag k="source" v="Bing"/>
   </way>
-  <way id="180218211" version="2" timestamp="2023-11-23T18:26:49Z" changeset="144380015" uid="19880472" user="aknight22">
+  <way id="180218211" version="3" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="769219198"/>
     <nd ref="769219139"/>
     <nd ref="1906626080"/>
@@ -1392,15 +1399,15 @@
     <nd ref="1906626083"/>
     <nd ref="769219249"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Royston Gardens"/>
     <tag k="source" v="Bing"/>
   </way>
-  <way id="181251571" version="2" timestamp="2019-06-10T21:01:44Z" changeset="71118289" uid="5229644" user="Nathan_A_RF">
+  <way id="181251571" version="3" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="281047638"/>
     <nd ref="281047656"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Bay Hill"/>
   </way>
   <way id="182410344" version="3" timestamp="2021-08-27T11:52:01Z" changeset="110338149" uid="242345" user="confusedbuffalo">
@@ -1412,12 +1419,12 @@
     <tag k="name" v="Dover Road"/>
     <tag k="oneway" v="yes"/>
   </way>
-  <way id="182410345" version="2" timestamp="2024-09-05T11:23:44Z" changeset="156226158" uid="11471297" user="Palgrave Peter">
+  <way id="182410345" version="3" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="1146894867"/>
     <nd ref="12157570112"/>
     <nd ref="27412830"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Dover Road"/>
     <tag k="oneway" v="yes"/>
   </way>
@@ -1511,7 +1518,7 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Dover Road"/>
   </way>
-  <way id="182410350" version="2" timestamp="2024-09-05T11:23:44Z" changeset="156226158" uid="11471297" user="Palgrave Peter">
+  <way id="182410350" version="3" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="12157570112"/>
     <nd ref="1927634608"/>
     <nd ref="1927634609"/>
@@ -1519,7 +1526,7 @@
     <nd ref="1927634611"/>
     <nd ref="1154174621"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Dover Road"/>
     <tag k="oneway" v="yes"/>
   </way>
@@ -1650,17 +1657,17 @@
     <tag k="source" v="survey"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="764450891" version="5" timestamp="2024-09-05T15:35:29Z" changeset="156237110" uid="11471297" user="Palgrave Peter">
+  <way id="764450891" version="6" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="12158058383"/>
     <nd ref="627854590"/>
     <nd ref="627854586"/>
     <tag k="highway" v="unclassified"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="The Droveway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="764450894" version="3" timestamp="2025-03-18T14:20:30Z" changeset="163777589" uid="3951648" user="rskedgell">
+  <way id="764450894" version="4" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="627854569"/>
     <nd ref="7204237694"/>
     <nd ref="12676714843"/>
@@ -1674,10 +1681,10 @@
     <nd ref="769220191"/>
     <nd ref="1505058257"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="The Droveway"/>
   </way>
-  <way id="764450895" version="1" timestamp="2020-01-18T20:07:46Z" changeset="79740339" uid="231477" user="SiHollett">
+  <way id="764450895" version="2" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="627854550"/>
     <nd ref="769220229"/>
     <nd ref="627854549"/>
@@ -1686,10 +1693,10 @@
     <nd ref="769220183"/>
     <nd ref="627854569"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="The Droveway"/>
   </way>
-  <way id="764450896" version="5" timestamp="2024-09-05T15:35:29Z" changeset="156237110" uid="11471297" user="Palgrave Peter">
+  <way id="764450896" version="6" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="1505058257"/>
     <nd ref="627854587"/>
     <nd ref="11073581138"/>
@@ -1700,11 +1707,11 @@
     <nd ref="12158058383"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="The Droveway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="764450897" version="3" timestamp="2025-03-18T14:20:30Z" changeset="163777589" uid="3951648" user="rskedgell">
+  <way id="764450897" version="4" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="627854572"/>
     <nd ref="627854573"/>
     <nd ref="1200057929"/>
@@ -1714,19 +1721,19 @@
     <tag k="designation" v="public_footpath"/>
     <tag k="foot" v="designated"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Droveway Gardens"/>
     <tag k="prow_ref" v="ER276"/>
   </way>
-  <way id="764450902" version="2" timestamp="2023-05-01T13:52:05Z" changeset="135574594" uid="7037" user="Gregory Williams">
+  <way id="764450902" version="3" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412830"/>
     <nd ref="1154174621"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Station Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="764450903" version="6" timestamp="2024-08-16T19:11:20Z" changeset="155343592" uid="20092260" user="Doggy77">
+  <way id="764450903" version="7" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="27412828"/>
     <nd ref="11391647887"/>
     <nd ref="11391647888"/>
@@ -1738,17 +1745,17 @@
     <nd ref="769219157"/>
     <tag k="highway" v="tertiary"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="High Street"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="764450904" version="3" timestamp="2024-09-05T11:23:44Z" changeset="156226158" uid="11471297" user="Palgrave Peter">
+  <way id="764450904" version="4" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="859222915"/>
     <nd ref="622522793"/>
     <nd ref="12157570084"/>
     <nd ref="769219265"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Well Lane"/>
     <tag k="surface" v="pebblestone"/>
   </way>
@@ -1894,14 +1901,14 @@
     <tag k="addr:street" v="The Droveway"/>
     <tag k="building" v="detached"/>
   </way>
-  <way id="1221800837" version="4" timestamp="2025-03-18T14:20:30Z" changeset="163777589" uid="3951648" user="rskedgell">
+  <way id="1221800837" version="5" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="627854550"/>
     <nd ref="769220862"/>
     <tag k="designation" v="public_footpath"/>
     <tag k="foot" v="designated"/>
     <tag k="highway" v="residential"/>
     <tag k="lane_markings" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Droveway Gardens"/>
     <tag k="prow_ref" v="ER276"/>
     <tag k="surface" v="asphalt"/>
@@ -2781,15 +2788,15 @@
     <tag k="ref" v="A258"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1278571459" version="1" timestamp="2024-04-30T17:38:05Z" changeset="150719970" uid="19880472" user="aknight22">
+  <way id="1278571459" version="2" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
     <nd ref="281047638"/>
     <nd ref="281047639"/>
     <nd ref="859228149"/>
     <tag k="highway" v="residential"/>
     <tag k="lanes" v="2"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Granville Road"/>
-    <tag k="note" v="Private Road with 20mph speed limit from the Hotel Road/Victoria Ave junction NE to the Dover Patrol Monument&#x0a;"/>
+    <tag k="note" v="Private Road with 20mph speed limit from the Hotel Road/Victoria Ave junction NE to the Dover Patrol Monument"/>
     <tag k="oneway" v="no"/>
     <tag k="surface" v="asphalt"/>
   </way>
@@ -2831,6 +2838,16 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Station Road"/>
     <tag k="prow_ref" v="ER23"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1372355315" version="1" timestamp="2025-03-28T10:03:29Z" changeset="164199801" uid="7037" user="Gregory Williams">
+    <nd ref="1154174621"/>
+    <nd ref="12157570117"/>
+    <nd ref="12707149041"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Station Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
 

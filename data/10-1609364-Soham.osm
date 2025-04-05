@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:30:43Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="13336739" lat="52.3157604" lon="0.3708653" version="6" timestamp="2019-11-18T14:44:23Z" changeset="77233717" uid="84263" user="Robert Whittaker"/>
   <node id="24972763" lat="52.3195783" lon="0.3609302" version="8" timestamp="2024-11-10T21:35:54Z" changeset="158986470" uid="11022773" user="GeoFens">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:postcode" v="CB7 5AJ"/>
@@ -17,6 +18,12 @@
     <tag k="self_service" v="yes"/>
     <tag k="website" v="https://www.esso.co.uk/en-gb/find-station/esso-soham-essomfgdownfields-100367508"/>
   </node>
+  <node id="26056818" lat="52.3283364" lon="0.2788947" version="4" timestamp="2022-02-24T08:03:04Z" changeset="117800712" uid="322785" user="BCNorwich"/>
+  <node id="26539522" lat="52.3917688" lon="0.3761051" version="1" timestamp="2007-03-14T20:55:17Z" changeset="236095" uid="4734" user="KoolKat">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="414558690" lat="52.3465688" lon="0.3807574" version="1" timestamp="2009-06-02T06:40:02Z" changeset="1400829" uid="12674" user="Peter Hibbert"/>
+  <node id="467767252" lat="52.3152098" lon="0.3717922" version="2" timestamp="2019-11-18T14:44:23Z" changeset="77233717" uid="84263" user="Robert Whittaker"/>
   <node id="473728751" lat="52.3282970" lon="0.3437831" version="3" timestamp="2020-01-05T10:34:48Z" changeset="79209165" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Ely"/>
     <tag k="addr:housenumber" v="16"/>
@@ -222,6 +229,8 @@
     <tag k="name" v="Naz"/>
     <tag k="source:addr" v="FHRS Open Data"/>
   </node>
+  <node id="1120436150" lat="52.3664687" lon="0.3029097" version="2" timestamp="2013-05-30T17:48:11Z" changeset="16354845" uid="504708" user="HillWithSmallFields"/>
+  <node id="1852825878" lat="52.4127449" lon="0.3437734" version="1" timestamp="2012-08-05T12:45:09Z" changeset="12620154" uid="322785" user="BCNorwich"/>
   <node id="1997286727" lat="52.3349535" lon="0.3280963" version="15" timestamp="2023-12-28T12:11:12Z" changeset="145616597" uid="6101984" user="Guidaccio">
     <tag k="addr:city" v="Soham"/>
     <tag k="addr:postcode" v="CB7 5DY"/>
@@ -365,6 +374,7 @@
     <tag k="cuisine" v="pizza"/>
     <tag k="name" v="PropaPizza"/>
   </node>
+  <node id="9238343082" lat="52.3106859" lon="0.3136019" version="1" timestamp="2021-11-09T15:23:41Z" changeset="113570007" uid="13262840" user="jakedowner"/>
   <node id="10166610752" lat="52.3274618" lon="0.3435241" version="2" timestamp="2024-10-04T18:27:00Z" changeset="157473527" uid="13959902" user="yojimble">
     <tag k="addr:city" v="Soham"/>
     <tag k="addr:postcode" v="CB7 5FB"/>
@@ -380,6 +390,7 @@
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="no"/>
   </node>
+  <node id="11784586583" lat="52.3130131" lon="0.3697151" version="1" timestamp="2024-04-03T20:25:24Z" changeset="149542413" uid="5229644" user="Nathan_A_RF"/>
   <way id="4196284" version="21" timestamp="2024-04-03T20:25:24Z" changeset="149542413" uid="5229644" user="Nathan_A_RF">
     <nd ref="24965882"/>
     <nd ref="24341681"/>
@@ -4763,18 +4774,20 @@
     <tag k="source" v="bing"/>
     <tag k="source:name" v="OS OpenData Locator"/>
   </way>
-  <way id="235089438" version="4" timestamp="2024-04-03T20:25:24Z" changeset="149542413" uid="5229644" user="Nathan_A_RF">
+  <way id="235089438" version="6" timestamp="2025-03-27T14:15:51Z" changeset="164166455" uid="10090920" user="Infinatum">
     <nd ref="9238343082"/>
     <nd ref="24965846"/>
     <nd ref="281434120"/>
     <nd ref="281434119"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="60 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Church Road"/>
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="237681683" version="3" timestamp="2018-10-30T22:19:31Z" changeset="64026467" uid="5173844" user="ndrw6">
     <nd ref="6025970191"/>

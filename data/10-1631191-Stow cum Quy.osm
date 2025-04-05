@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:58:16Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:11:15Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="608661" lat="52.2182745" lon="0.3122566" version="1" timestamp="2007-01-20T23:59:43Z" changeset="198894" uid="2955" user="Matthew Newton"/>
+  <node id="608662" lat="52.2180723" lon="0.3121219" version="2" timestamp="2011-12-19T22:54:21Z" changeset="10159843" uid="5926" user="c2r"/>
+  <node id="608674" lat="52.2158055" lon="0.3050866" version="4" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="608768" lat="52.2126779" lon="0.2030900" version="13" timestamp="2023-11-19T14:27:11Z" changeset="144210247" uid="16344555" user="HilaryBa"/>
+  <node id="608772" lat="52.2126398" lon="0.2083391" version="10" timestamp="2011-09-29T19:34:57Z" changeset="9429919" uid="499318" user="jpsa"/>
+  <node id="609826" lat="52.2317050" lon="0.1738349" version="10" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="Horningsea;Fen Ditton"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Fen Ditton"/>
+    <tag k="ref" v="34"/>
+  </node>
+  <node id="620866" lat="52.2310845" lon="0.1752861" version="9" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="620870" lat="52.2321857" lon="0.1717542" version="9" timestamp="2014-05-08T10:40:54Z" changeset="22206539" uid="1723158" user="ozhiker2"/>
+  <node id="5249905" lat="52.2301019" lon="0.2345656" version="2" timestamp="2008-12-22T14:07:57Z" changeset="547380" uid="74897" user="Rowland"/>
+  <node id="18352520" lat="52.2322908" lon="0.1717787" version="10" timestamp="2014-05-08T10:40:46Z" changeset="22206539" uid="1723158" user="ozhiker2"/>
+  <node id="20960179" lat="52.2049258" lon="0.2624816" version="2" timestamp="2011-08-12T16:24:18Z" changeset="8997157" uid="504708" user="HillWithSmallFields"/>
+  <node id="20960199" lat="52.2064361" lon="0.2590210" version="3" timestamp="2011-08-13T21:03:42Z" changeset="9009593" uid="504708" user="HillWithSmallFields"/>
+  <node id="20960542" lat="52.2052902" lon="0.2615997" version="3" timestamp="2024-12-31T22:56:40Z" changeset="160850000" uid="5229644" user="Nathan_A_RF"/>
+  <node id="316821837" lat="52.2125824" lon="0.2080820" version="11" timestamp="2011-09-29T19:34:59Z" changeset="9429919" uid="499318" user="jpsa"/>
+  <node id="2006582318" lat="52.2185897" lon="0.2500260" version="1" timestamp="2012-11-10T16:45:29Z" changeset="13819416" uid="6871" user="smsm1"/>
   <node id="12183568224" lat="52.2205488" lon="0.2363655" version="1" timestamp="2024-09-18T08:35:33Z" changeset="156761238" uid="21968370" user="ead114">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housename" v="Far Field House"/>
@@ -673,8 +693,9 @@
     <tag k="name" v="Station Road"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
-  <way id="4291122" version="12" timestamp="2022-12-15T15:12:02Z" changeset="130119645" uid="3582" user="davidearl">
+  <way id="4291122" version="13" timestamp="2025-04-04T19:01:22Z" changeset="164524754" uid="953779" user="Adam Edwards">
     <nd ref="5249764"/>
+    <nd ref="12729558872"/>
     <nd ref="18351967"/>
     <nd ref="1804954973"/>
     <nd ref="5249766"/>
@@ -1335,8 +1356,9 @@
     <tag k="addr:street" v="Main Street"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="1122317636" version="1" timestamp="2022-12-15T15:12:02Z" changeset="130119645" uid="3582" user="davidearl">
+  <way id="1122317636" version="2" timestamp="2025-04-04T18:44:44Z" changeset="164524201" uid="953779" user="Adam Edwards">
     <nd ref="5249803"/>
+    <nd ref="12729548532"/>
     <nd ref="25904817"/>
     <nd ref="2504095940"/>
     <nd ref="2504095704"/>

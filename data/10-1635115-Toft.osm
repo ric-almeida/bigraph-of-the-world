@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T16:13:38Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:15:13Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="25694989" lat="52.1829870" lon="-0.0168095" version="2" timestamp="2011-04-17T20:06:23Z" changeset="7891362" uid="5926" user="c2r"/>
+  <node id="29690090" lat="52.1870235" lon="0.0191096" version="6" timestamp="2016-01-07T00:20:23Z" changeset="36415921" uid="493595" user="Yorvik Prestigitator"/>
+  <node id="32533589" lat="52.2040921" lon="0.0045928" version="10" timestamp="2022-08-13T13:52:04Z" changeset="124854077" uid="742701" user="kerr smith"/>
+  <node id="60851093" lat="52.1860995" lon="0.0136301" version="2" timestamp="2024-07-21T21:56:48Z" changeset="154238281" uid="742701" user="kerr smith"/>
+  <node id="60851190" lat="52.1868154" lon="0.0165485" version="5" timestamp="2024-07-21T21:56:48Z" changeset="154238281" uid="742701" user="kerr smith"/>
   <node id="1925551190" lat="52.1849912" lon="0.0113092" version="3" timestamp="2018-12-30T22:35:11Z" changeset="65899704" uid="364" user="Edward">
     <tag k="addr:postcode" v="CB23 7DU"/>
     <tag k="addr:street" v="West Street"/>
@@ -1099,6 +1104,29 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Morris Close"/>
   </way>
+  <way id="860381934" version="4" timestamp="2025-03-29T10:49:46Z" changeset="164243816" uid="547425" user="ssb22">
+    <nd ref="9779285527"/>
+    <nd ref="8018764620"/>
+    <nd ref="8018764617"/>
+    <nd ref="8018764618"/>
+    <nd ref="8018764619"/>
+    <nd ref="9779285528"/>
+    <nd ref="9779285529"/>
+    <nd ref="8018764622"/>
+    <nd ref="8018764623"/>
+    <nd ref="8018764624"/>
+    <nd ref="8018764621"/>
+    <nd ref="9779285526"/>
+    <nd ref="9779285527"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:flats" v="2;4;6;8;10;12"/>
+    <tag k="addr:housenumber" v="2-12"/>
+    <tag k="addr:postcode" v="CB23 7FD"/>
+    <tag k="addr:street" v="Morris Close"/>
+    <tag k="addr:village" v="Comberton"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:flats" v="6"/>
+  </way>
   <way id="860381936" version="3" timestamp="2022-10-17T14:14:56Z" changeset="127675742" uid="6476359" user="NSiecw">
     <nd ref="8018764630"/>
     <nd ref="8018764627"/>
@@ -1357,6 +1385,48 @@
     <tag k="addr:street" v="Morris Close"/>
     <tag k="addr:village" v="Comberton"/>
     <tag k="building" v="yes"/>
+  </way>
+  <way id="914691221" version="4" timestamp="2025-03-29T10:51:42Z" changeset="164243865" uid="547425" user="ssb22">
+    <nd ref="8496918264"/>
+    <nd ref="8496918258"/>
+    <nd ref="8496918257"/>
+    <nd ref="8496918263"/>
+    <nd ref="8496918262"/>
+    <nd ref="8496918260"/>
+    <nd ref="8496918259"/>
+    <nd ref="8496918261"/>
+    <nd ref="8496918264"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:flats" v="26;28;30;32;34"/>
+    <tag k="addr:housenumber" v="26-34"/>
+    <tag k="addr:postcode" v="CB23 7FD"/>
+    <tag k="addr:street" v="Morris Close"/>
+    <tag k="addr:village" v="Comberton"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:flats" v="5"/>
+  </way>
+  <way id="914691222" version="4" timestamp="2025-03-29T10:49:47Z" changeset="164243816" uid="547425" user="ssb22">
+    <nd ref="9779285523"/>
+    <nd ref="8496918268"/>
+    <nd ref="8496918265"/>
+    <nd ref="8496918266"/>
+    <nd ref="8496918267"/>
+    <nd ref="9779285525"/>
+    <nd ref="9779285524"/>
+    <nd ref="8496918270"/>
+    <nd ref="8496918271"/>
+    <nd ref="8496918272"/>
+    <nd ref="8496918269"/>
+    <nd ref="9779285522"/>
+    <nd ref="9779285523"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:flats" v="14;16;18;20;22;24"/>
+    <tag k="addr:housenumber" v="14-24"/>
+    <tag k="addr:postcode" v="CB23 7FD"/>
+    <tag k="addr:street" v="Morris Close"/>
+    <tag k="addr:village" v="Comberton"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:flats" v="6"/>
   </way>
   <way id="914691224" version="3" timestamp="2023-11-18T16:00:01Z" changeset="144180359" uid="742701" user="kerr smith">
     <nd ref="8496918278"/>

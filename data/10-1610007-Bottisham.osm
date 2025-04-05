@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:31:43Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:06:00Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="214294" lat="52.2253080" lon="0.3216542" version="8" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="214933" lat="52.2208480" lon="0.3172499" version="3" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="608661" lat="52.2182745" lon="0.3122566" version="1" timestamp="2007-01-20T23:59:43Z" changeset="198894" uid="2955" user="Matthew Newton"/>
+  <node id="608662" lat="52.2180723" lon="0.3121219" version="2" timestamp="2011-12-19T22:54:21Z" changeset="10159843" uid="5926" user="c2r"/>
+  <node id="608674" lat="52.2158055" lon="0.3050866" version="4" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="608749" lat="52.2149042" lon="0.2225050" version="11" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="Cambridge;Burwell"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Quy"/>
+    <tag k="ref" v="35"/>
+  </node>
+  <node id="608760" lat="52.2150568" lon="0.2227659" version="8" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="5249893" lat="52.2351765" lon="0.2434506" version="4" timestamp="2018-12-31T17:03:31Z" changeset="65917670" uid="141442" user="CycleStreets">
+    <tag k="cyclestreets_id" v="104190"/>
+  </node>
+  <node id="5249905" lat="52.2301019" lon="0.2345656" version="2" timestamp="2008-12-22T14:07:57Z" changeset="547380" uid="74897" user="Rowland"/>
+  <node id="5249961" lat="52.2373036" lon="0.2498344" version="3" timestamp="2025-04-04T18:43:40Z" changeset="164524160" uid="953779" user="Adam Edwards">
+    <tag k="traffic_calming" v="island"/>
+  </node>
+  <node id="5250986" lat="52.2400668" lon="0.2623555" version="2" timestamp="2015-05-25T18:54:59Z" changeset="31454039" uid="669183" user="Andy_W"/>
+  <node id="20960199" lat="52.2064361" lon="0.2590210" version="3" timestamp="2011-08-13T21:03:42Z" changeset="9009593" uid="504708" user="HillWithSmallFields"/>
+  <node id="20960435" lat="52.1908941" lon="0.3008374" version="2" timestamp="2011-09-11T19:28:14Z" changeset="9273810" uid="504708" user="HillWithSmallFields"/>
+  <node id="20960496" lat="52.2191290" lon="0.2382144" version="4" timestamp="2014-10-12T08:13:34Z" changeset="26020424" uid="1700634" user="sommerluk">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="Dunsley Corner"/>
+  </node>
+  <node id="20960535" lat="52.1909195" lon="0.3006712" version="1" timestamp="2006-11-11T16:05:58Z" changeset="153008" uid="3582" user="davidearl">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="20960599" lat="52.2161960" lon="0.2979796" version="3" timestamp="2024-03-16T13:52:08Z" changeset="148732726" uid="7463" user="kesterlester"/>
+  <node id="25063365" lat="52.2368822" lon="0.2480540" version="4" timestamp="2015-07-02T12:50:54Z" changeset="32352438" uid="669183" user="Andy_W"/>
+  <node id="25905028" lat="52.2296859" lon="0.2740470" version="2" timestamp="2012-03-07T16:08:08Z" changeset="10901130" uid="504708" user="HillWithSmallFields"/>
   <node id="25905266" lat="52.2233592" lon="0.2580300" version="6" timestamp="2023-10-21T10:05:08Z" changeset="142916462" uid="6816132" user="CjMalone">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="CB25 9DA"/>
@@ -413,7 +445,7 @@
     <tag k="source:ref" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="4218017" version="12" timestamp="2023-06-05T09:49:14Z" changeset="136964331" uid="5173844" user="ndrw6">
+  <way id="4218017" version="13" timestamp="2025-03-27T13:35:56Z" changeset="164164777" uid="141442" user="CycleStreets">
     <nd ref="25905107"/>
     <nd ref="3631524788"/>
     <nd ref="25905040"/>
@@ -434,6 +466,7 @@
     <nd ref="863463658"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Lode Road"/>
     <tag k="sidewalk" v="both"/>
     <tag k="source:name" v="local knowledge"/>
@@ -1061,10 +1094,11 @@
     <tag k="old_ref" v="A45"/>
     <tag k="ref" v="A1303"/>
   </way>
-  <way id="55604550" version="5" timestamp="2025-02-27T19:44:44Z" changeset="163026559" uid="5229644" user="Nathan_A_RF">
+  <way id="55604550" version="6" timestamp="2025-04-04T18:43:40Z" changeset="164524160" uid="953779" user="Adam Edwards">
     <nd ref="5250986"/>
     <nd ref="1664515971"/>
     <nd ref="5250032"/>
+    <nd ref="12729554964"/>
     <nd ref="5249958"/>
     <nd ref="12623969121"/>
     <nd ref="5249961"/>
@@ -1100,9 +1134,7 @@
     <tag k="ref" v="A1303"/>
     <tag k="sidewalk" v="separate"/>
   </way>
-  <way id="72727366" version="2" timestamp="2015-07-02T12:58:38Z" changeset="32352438" uid="669183" user="Andy_W">
-    <nd ref="863463658"/>
-    <nd ref="25063271"/>
+  <way id="72727366" version="3" timestamp="2025-03-27T13:35:56Z" changeset="164164777" uid="141442" user="CycleStreets">
     <nd ref="25905052"/>
     <nd ref="3631526596"/>
     <nd ref="3631524773"/>
@@ -1771,6 +1803,16 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Newmarket Road"/>
     <tag k="ref" v="A1303"/>
+  </way>
+  <way id="1372048177" version="1" timestamp="2025-03-27T13:35:56Z" changeset="164164777" uid="141442" user="CycleStreets">
+    <nd ref="863463658"/>
+    <nd ref="25063271"/>
+    <nd ref="25905052"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lode Road"/>
+    <tag k="source:name" v="local knowledge"/>
   </way>
 
 </osm>

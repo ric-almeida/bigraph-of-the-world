@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:59:17Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:11:15Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="215065" lat="52.1785789" lon="0.2951772" version="2" timestamp="2025-02-24T17:31:42Z" changeset="162902392" uid="5008136" user="JayTurnr"/>
+  <node id="215073" lat="52.1711126" lon="0.2798562" version="3" timestamp="2024-01-07T20:30:28Z" changeset="146005303" uid="13341565" user="Falsernet"/>
+  <node id="216090" lat="52.1383148" lon="0.2285843" version="3" timestamp="2011-12-19T23:19:49Z" changeset="10159843" uid="5926" user="c2r"/>
+  <node id="216186" lat="52.1329222" lon="0.2256893" version="5" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Fourwentways"/>
+  </node>
+  <node id="216187" lat="52.1329311" lon="0.2254667" version="3" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr"/>
+  <node id="489782" lat="52.1951979" lon="0.1994181" version="6" timestamp="2022-01-15T21:55:50Z" changeset="116198267" uid="7463" user="kesterlester"/>
   <node id="17708621" lat="52.1833653" lon="0.2217954" version="5" timestamp="2024-11-13T00:23:52Z" changeset="159072682" uid="1102246" user="jtn20">
     <tag k="addr:city" v="Fulbourn"/>
     <tag k="addr:housenumber" v="9"/>
@@ -18,6 +27,25 @@
     <tag k="real_ale" v="6 beers (varying)"/>
     <tag k="wikidata" v="Q26457166"/>
   </node>
+  <node id="18176055" lat="52.1878603" lon="0.1838231" version="2" timestamp="2011-12-16T14:32:13Z" changeset="10131411" uid="3582" user="davidearl"/>
+  <node id="18176068" lat="52.1861646" lon="0.1807409" version="4" timestamp="2014-03-13T20:29:46Z" changeset="21088959" uid="481116" user="bigalxyz123"/>
+  <node id="18176075" lat="52.1870054" lon="0.1817492" version="2" timestamp="2012-12-02T13:43:36Z" changeset="14123701" uid="17576" user="Laverock"/>
+  <node id="18176080" lat="52.1874124" lon="0.1826135" version="5" timestamp="2012-12-02T14:22:07Z" changeset="14123701" uid="17576" user="Laverock"/>
+  <node id="18176087" lat="52.1875863" lon="0.1818547" version="3" timestamp="2011-01-05T21:01:42Z" changeset="6876245" uid="2020" user="comsomol"/>
+  <node id="18176091" lat="52.1882672" lon="0.1820596" version="3" timestamp="2011-01-05T21:01:43Z" changeset="6876245" uid="2020" user="comsomol"/>
+  <node id="20960386" lat="52.1936232" lon="0.2528184" version="3" timestamp="2011-08-27T23:01:57Z" changeset="9142545" uid="504708" user="HillWithSmallFields"/>
+  <node id="20960410" lat="52.1561218" lon="0.2501627" version="3" timestamp="2022-11-10T10:05:32Z" changeset="128725115" uid="91657" user="Pink Duck"/>
+  <node id="20960512" lat="52.1721988" lon="0.2824594" version="2" timestamp="2024-01-07T20:30:28Z" changeset="146005303" uid="13341565" user="Falsernet">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="20960609" lat="52.1617855" lon="0.2589973" version="4" timestamp="2022-11-10T10:05:32Z" changeset="128725115" uid="91657" user="Pink Duck">
+    <tag k="destination" v="Balsham;Fulbourn;Teversham"/>
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="26530856" lat="52.1705471" lon="0.1816659" version="11" timestamp="2024-03-22T16:09:12Z" changeset="149020707" uid="742701" user="kerr smith"/>
+  <node id="26530932" lat="52.1443347" lon="0.2310290" version="3" timestamp="2011-09-04T21:35:22Z" changeset="9212464" uid="504708" user="HillWithSmallFields"/>
+  <node id="26530941" lat="52.1443043" lon="0.2322438" version="5" timestamp="2025-02-24T17:18:34Z" changeset="162901902" uid="5008136" user="JayTurnr"/>
+  <node id="29710460" lat="52.1588383" lon="0.2549121" version="3" timestamp="2022-07-04T12:59:11Z" changeset="123191192" uid="7463" user="kesterlester"/>
   <node id="428843044" lat="52.1835405" lon="0.2214885" version="8" timestamp="2024-07-15T22:33:06Z" changeset="153991674" uid="21425661" user="CjMalone">
     <tag k="addr:city" v="Fulbourn"/>
     <tag k="addr:housenumber" v="11"/>
@@ -2613,6 +2641,13 @@
     <tag k="craft" v="brewery"/>
     <tag k="name" v="Cambridge Moonshine"/>
   </node>
+  <node id="1548748898" lat="52.1878972" lon="0.1856244" version="11" timestamp="2023-06-10T22:38:24Z" changeset="137187333" uid="19243622" user="cam-jpa">
+    <tag k="crossing:barrier" v="double_half"/>
+    <tag k="crossing:bell" v="yes"/>
+    <tag k="crossing:light" v="yes"/>
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="1572946410" lat="52.1833207" lon="0.1768010" version="2" timestamp="2024-07-30T12:04:17Z" changeset="154602823" uid="8061502" user="galacticism"/>
   <node id="2046120565" lat="52.1866171" lon="0.1826335" version="1" timestamp="2012-12-02T13:56:29Z" changeset="14123701" uid="17576" user="Laverock">
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:street" v="Lucerne Close"/>
@@ -3035,6 +3070,7 @@
     <tag k="addr:housenumber" v="86"/>
     <tag k="addr:street" v="Haggis Gap"/>
   </node>
+  <node id="4879056654" lat="52.1877336" lon="0.1889053" version="1" timestamp="2017-05-26T19:01:07Z" changeset="49009812" uid="1287673" user="sloerunner"/>
   <node id="5103037907" lat="52.1848258" lon="0.2128411" version="2" timestamp="2019-03-15T16:02:38Z" changeset="68180524" uid="12303" user="runningman">
     <tag k="addr:housenumber" v="61"/>
     <tag k="addr:street" v="Pierce Lane"/>
@@ -3114,6 +3150,7 @@
     <tag k="addr:housenumber" v="15a"/>
     <tag k="addr:street" v="High Street"/>
   </node>
+  <node id="12616235639" lat="52.1674366" lon="0.2707382" version="1" timestamp="2025-02-24T17:28:31Z" changeset="162902262" uid="5008136" user="JayTurnr"/>
   <way id="3576143" version="11" timestamp="2022-03-02T13:56:26Z" changeset="118020850" uid="12303" user="runningman">
     <nd ref="17708224"/>
     <nd ref="510772853"/>
@@ -3744,6 +3781,21 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Brunswick Court"/>
   </way>
+  <way id="3665586" version="8" timestamp="2025-03-31T14:54:04Z" changeset="164334619" uid="20475686" user="Dan200">
+    <nd ref="18175897"/>
+    <nd ref="685974125"/>
+    <nd ref="18175898"/>
+    <nd ref="685974124"/>
+    <nd ref="18175899"/>
+    <nd ref="685974123"/>
+    <nd ref="18175900"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="description" v="Access enforced by lift gate"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="source" v="gps survey"/>
+  </way>
   <way id="3665590" version="10" timestamp="2022-11-16T16:27:03Z" changeset="129000172" uid="3582" user="davidearl">
     <nd ref="1548763254"/>
     <nd ref="2418898822"/>
@@ -4164,6 +4216,49 @@
     <nd ref="17708538"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Swifts Corner"/>
+  </way>
+  <way id="4277034" version="15" timestamp="2025-03-31T14:54:04Z" changeset="164334619" uid="20475686" user="Dan200">
+    <nd ref="685974106"/>
+    <nd ref="18175908"/>
+    <nd ref="18175914"/>
+    <nd ref="2037134097"/>
+    <nd ref="18175916"/>
+    <nd ref="18175917"/>
+    <nd ref="2036734644"/>
+    <nd ref="18175918"/>
+    <nd ref="2037134100"/>
+    <nd ref="18175920"/>
+    <nd ref="8084150089"/>
+    <nd ref="2037134102"/>
+    <nd ref="12095433111"/>
+    <nd ref="2050715413"/>
+    <nd ref="18175921"/>
+    <nd ref="12095426886"/>
+    <nd ref="18175932"/>
+    <nd ref="12095426890"/>
+    <nd ref="12095433110"/>
+    <nd ref="1572946269"/>
+    <nd ref="2047373186"/>
+    <nd ref="1202145374"/>
+    <nd ref="15929860"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="source" v="aerials"/>
+  </way>
+  <way id="4277040" version="9" timestamp="2025-03-31T14:54:04Z" changeset="164334619" uid="20475686" user="Dan200">
+    <nd ref="18175903"/>
+    <nd ref="685974120"/>
+    <nd ref="18175904"/>
+    <nd ref="685974117"/>
+    <nd ref="685974118"/>
+    <nd ref="685974116"/>
+    <nd ref="18175933"/>
+    <nd ref="8084150102"/>
+    <nd ref="18175906"/>
+    <nd ref="685974115"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="source" v="aerials"/>
   </way>
   <way id="4277041" version="2" timestamp="2021-04-24T17:17:58Z" changeset="103546154" uid="281267" user="smb1001">
     <nd ref="17708417"/>
@@ -4859,6 +4954,34 @@
     <nd ref="534822511"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Chaplin's Close"/>
+  </way>
+  <way id="54448930" version="6" timestamp="2025-03-31T14:54:04Z" changeset="164334619" uid="20475686" user="Dan200">
+    <nd ref="685974107"/>
+    <nd ref="685974108"/>
+    <nd ref="685974109"/>
+    <nd ref="685974097"/>
+    <nd ref="685974098"/>
+    <nd ref="2707519713"/>
+    <nd ref="685974099"/>
+    <nd ref="685974110"/>
+    <nd ref="685974111"/>
+    <nd ref="685974114"/>
+    <nd ref="685974115"/>
+    <nd ref="1800459979"/>
+    <nd ref="685974100"/>
+    <nd ref="2707519721"/>
+    <nd ref="685974101"/>
+    <nd ref="685974103"/>
+    <nd ref="685974104"/>
+    <nd ref="685974105"/>
+    <nd ref="685974106"/>
+    <nd ref="685974107"/>
+    <tag k="direction" v="clockwise"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="15 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="aerials"/>
   </way>
   <way id="96747028" version="6" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
     <nd ref="20960223"/>
@@ -5640,6 +5763,19 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Lanthorn Stile"/>
     <tag k="source:name" v="local knowledge"/>
+  </way>
+  <way id="193196030" version="4" timestamp="2025-03-31T14:54:04Z" changeset="164334619" uid="20475686" user="Dan200">
+    <nd ref="18175900"/>
+    <nd ref="11051697700"/>
+    <nd ref="685974122"/>
+    <nd ref="7916612504"/>
+    <nd ref="18175901"/>
+    <nd ref="685974119"/>
+    <nd ref="18175903"/>
+    <tag k="description" v="Access enforced by rising bollards"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="psv" v="yes"/>
+    <tag k="source" v="aerials"/>
   </way>
   <way id="194099789" version="3" timestamp="2016-07-27T14:21:34Z" changeset="41063979" uid="3524812" user="SWF8">
     <nd ref="2046108057"/>

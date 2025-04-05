@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T16:02:27Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:12:14Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="26531051" lat="52.1086270" lon="0.2508680" version="5" timestamp="2019-12-04T00:50:15Z" changeset="77904276" uid="5173844" user="ndrw6"/>
+  <node id="27401572" lat="52.1171749" lon="0.2577568" version="2" timestamp="2012-05-21T19:07:40Z" changeset="11665175" uid="2020" user="comsomol"/>
+  <node id="27429116" lat="52.1228534" lon="0.3405277" version="3" timestamp="2015-08-19T14:08:14Z" changeset="33440277" uid="281267" user="smb1001"/>
+  <node id="28206783" lat="52.1183802" lon="0.2982595" version="11" timestamp="2022-06-29T23:53:39Z" changeset="123022973" uid="7463" user="kesterlester"/>
   <node id="30152962" lat="52.0956220" lon="0.2701632" version="5" timestamp="2019-02-04T10:42:15Z" changeset="66899076" uid="5173844" user="ndrw6">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housename" v="Station House"/>
@@ -38,6 +42,18 @@
     <tag k="name" v="Waggon &amp; Horses"/>
     <tag k="wikidata" v="Q26420570"/>
   </node>
+  <node id="30164701" lat="52.0830637" lon="0.3107812" version="5" timestamp="2013-06-02T21:26:14Z" changeset="16397368" uid="553735" user="Johnmb">
+    <tag k="source" v="npe"/>
+  </node>
+  <node id="30164712" lat="52.0852619" lon="0.3126600" version="2" timestamp="2007-11-03T11:11:32Z" changeset="395652" uid="3582" user="davidearl">
+    <tag k="created_by" v="POI Editor"/>
+    <tag k="source" v="npe"/>
+  </node>
+  <node id="30164728" lat="52.0959133" lon="0.3196867" version="3" timestamp="2012-06-11T19:57:39Z" changeset="11868452" uid="383983" user="Ben Wheatley"/>
+  <node id="35714621" lat="52.1001499" lon="0.3272111" version="2" timestamp="2025-02-21T17:29:08Z" changeset="162790423" uid="5229644" user="Nathan_A_RF"/>
+  <node id="96518201" lat="52.0958188" lon="0.3197618" version="2" timestamp="2012-06-11T19:57:38Z" changeset="11868452" uid="383983" user="Ben Wheatley"/>
+  <node id="96518267" lat="52.1148864" lon="0.3332832" version="4" timestamp="2021-12-28T23:29:21Z" changeset="115492563" uid="629" user="Wookey"/>
+  <node id="1430757290" lat="52.0900006" lon="0.2720377" version="2" timestamp="2012-03-30T13:20:27Z" changeset="11153968" uid="322785" user="BCNorwich"/>
   <node id="1751073095" lat="52.0934117" lon="0.2737573" version="6" timestamp="2019-03-25T06:50:03Z" changeset="68495008" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:country" v="GB"/>
@@ -1085,12 +1101,13 @@
     <tag k="name" v="Green Lane"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="4731470" version="11" timestamp="2025-01-17T18:33:09Z" changeset="161466697" uid="20475686" user="Dan200">
+  <way id="4731470" version="12" timestamp="2025-04-01T14:15:02Z" changeset="164377396" uid="20475686" user="Dan200">
     <nd ref="30152501"/>
     <nd ref="30152500"/>
     <nd ref="30152504"/>
     <nd ref="1196598043"/>
     <nd ref="30152505"/>
+    <nd ref="12718770860"/>
     <nd ref="30152513"/>
     <nd ref="7039646941"/>
     <nd ref="1751073152"/>
@@ -1395,12 +1412,11 @@
     <tag k="name" v="Station Road"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="4731517" version="7" timestamp="2020-11-13T10:00:20Z" changeset="94052276" uid="10170582" user="priymose">
+  <way id="4731517" version="8" timestamp="2025-04-01T14:15:02Z" changeset="164377396" uid="20475686" user="Dan200">
     <nd ref="30152629"/>
     <nd ref="7039647163"/>
     <nd ref="6320219117"/>
     <nd ref="30152853"/>
-    <nd ref="8114513295"/>
     <nd ref="6694550899"/>
     <nd ref="1751073113"/>
     <tag k="highway" v="residential"/>
@@ -2584,13 +2600,12 @@
     <tag k="source:name" v="dictaphone"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="753438084" version="1" timestamp="2019-12-07T00:12:28Z" changeset="78075694" uid="5173844" user="ndrw6">
-    <nd ref="7039646906"/>
-    <nd ref="7039646905"/>
+  <way id="753438084" version="2" timestamp="2025-04-01T10:02:05Z" changeset="164366948" uid="20475686" user="Dan200">
     <nd ref="7039646904"/>
     <nd ref="7039646903"/>
     <nd ref="7039646902"/>
     <tag k="highway" v="residential"/>
+    <tag k="surface" v="gravel"/>
   </way>
   <way id="753438090" version="1" timestamp="2019-12-07T00:12:28Z" changeset="78075694" uid="5173844" user="ndrw6">
     <nd ref="7039646941"/>
@@ -3051,6 +3066,23 @@
     <tag k="oneway" v="yes"/>
     <tag k="ref" v="A1307"/>
     <tag k="source" v="gps survey"/>
+  </way>
+  <way id="1373645340" version="1" timestamp="2025-04-01T10:02:05Z" changeset="164366948" uid="20475686" user="Dan200">
+    <nd ref="12718183475"/>
+    <nd ref="7039646905"/>
+    <nd ref="7039646904"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="residential"/>
+    <tag k="prow_ref" v="Linton FP 9"/>
+    <tag k="source:prow_ref" v="cambridgeshire_county_council_prow_gis_data"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="1373645341" version="1" timestamp="2025-04-01T10:02:05Z" changeset="164366948" uid="20475686" user="Dan200">
+    <nd ref="7039646906"/>
+    <nd ref="12718183475"/>
+    <tag k="highway" v="residential"/>
+    <tag k="surface" v="gravel"/>
   </way>
   <relation id="10368501" version="2" timestamp="2021-12-29T21:39:46Z" changeset="115538843" uid="14683432" user="Tawenmund">
     <member type="way" ref="752080547" role="inner"/>

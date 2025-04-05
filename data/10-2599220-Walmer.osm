@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-24T16:04:43Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:03:56Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="247229111" lat="51.2129159" lon="1.3949797" version="6" timestamp="2024-07-22T22:59:37Z" changeset="154283347" uid="5008136" user="JayTurnr"/>
+  <node id="247929788" lat="51.2197720" lon="1.4026734" version="4" timestamp="2021-04-09T00:14:42Z" changeset="102594455" uid="32394" user="AntBurnett"/>
+  <node id="247929805" lat="51.2194435" lon="1.4001365" version="4" timestamp="2024-07-22T22:50:37Z" changeset="154283199" uid="5008136" user="JayTurnr"/>
+  <node id="247929818" lat="51.2196636" lon="1.4017261" version="2" timestamp="2011-03-02T02:31:56Z" changeset="7434815" uid="359193" user="JeffH"/>
+  <node id="247929853" lat="51.2192020" lon="1.3987061" version="2" timestamp="2008-10-11T20:00:11Z" changeset="263584" uid="55004" user="IainC"/>
+  <node id="249184495" lat="51.2062788" lon="1.3860560" version="1" timestamp="2008-02-24T22:09:20Z" changeset="197987" uid="7037" user="Gregory Williams">
+    <tag k="created_by" v="JOSM"/>
+  </node>
   <node id="977975018" lat="51.2160801" lon="1.4024792" version="5" timestamp="2020-12-01T00:19:10Z" changeset="95073687" uid="10060014" user="cebab">
     <tag k="addr:city" v="Deal"/>
     <tag k="addr:housenumber" v="61"/>
@@ -29,6 +37,10 @@
     <tag k="real_ale" v="yes"/>
     <tag k="real_cider" v="yes"/>
   </node>
+  <node id="1281854725" lat="51.1950364" lon="1.3839638" version="4" timestamp="2024-07-22T22:22:44Z" changeset="154282694" uid="5008136" user="JayTurnr">
+    <tag k="crossing:island" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
   <node id="1638334010" lat="51.2159797" lon="1.4024742" version="2" timestamp="2017-11-27T21:03:14Z" changeset="54132899" uid="7037" user="Gregory Williams">
     <tag k="addr:city" v="Deal"/>
     <tag k="addr:housenumber" v="59"/>
@@ -52,10 +64,16 @@
     <tag k="fhrs:id" v="1291400"/>
     <tag k="name" v="Bengal Spice"/>
   </node>
+  <node id="1681316175" lat="51.2101116" lon="1.3916420" version="3" timestamp="2021-09-15T23:24:36Z" changeset="111264809" uid="1778799" user="SomeoneElse_Revert"/>
+  <node id="1681360963" lat="51.1881413" lon="1.4035582" version="3" timestamp="2016-02-05T07:45:17Z" changeset="37014168" uid="7037" user="Gregory Williams"/>
+  <node id="1681360981" lat="51.1902147" lon="1.4024162" version="4" timestamp="2016-02-05T07:47:28Z" changeset="37014168" uid="7037" user="Gregory Williams"/>
+  <node id="1906599072" lat="51.1890354" lon="1.3923399" version="4" timestamp="2025-01-21T08:55:16Z" changeset="161591239" uid="7037" user="Gregory Williams"/>
+  <node id="2969980857" lat="51.2025679" lon="1.3816697" version="2" timestamp="2021-09-03T14:43:45Z" changeset="110682330" uid="5229644" user="Nathan_A_RF"/>
   <node id="3577621268" lat="51.2140437" lon="1.3975237" version="1" timestamp="2015-06-06T23:02:49Z" changeset="31778933" uid="82783" user="Paul The Archivist">
     <tag k="addr:housenumber" v="87"/>
     <tag k="addr:street" v="Canada Road"/>
   </node>
+  <node id="5598877562" lat="51.1889034" lon="1.4025199" version="1" timestamp="2018-05-05T15:18:35Z" changeset="58709506" uid="8198058" user="ACarlotti"/>
   <node id="8179723105" lat="51.2194267" lon="1.4022549" version="3" timestamp="2022-07-14T23:19:36Z" changeset="123628691" uid="251543" user="ChrissW-R1">
     <tag k="addr:city" v="Deal"/>
     <tag k="addr:country" v="GB"/>
@@ -126,6 +144,7 @@
     <tag k="shop" v="car_parts"/>
     <tag k="website" v="https://www.walmerbatteries.co.uk/"/>
   </node>
+  <node id="9061349330" lat="51.2197526" lon="1.4025042" version="1" timestamp="2021-09-04T01:24:07Z" changeset="110699912" uid="5229644" user="Nathan_A_RF"/>
   <way id="22947067" version="11" timestamp="2023-08-02T07:45:50Z" changeset="139332587" uid="8774347" user="Misa_zumba">
     <nd ref="249190182"/>
     <nd ref="249190180"/>

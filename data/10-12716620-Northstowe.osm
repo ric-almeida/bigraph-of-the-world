@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-25T15:26:29Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-05T17:05:00Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="26665457" lat="52.2778118" lon="0.0492709" version="4" timestamp="2018-01-05T18:36:21Z" changeset="55194140" uid="5173844" user="ndrw6"/>
+  <node id="26665458" lat="52.2781701" lon="0.0502337" version="4" timestamp="2020-06-16T19:26:39Z" changeset="86737527" uid="5173844" user="ndrw6"/>
+  <node id="26665463" lat="52.2798299" lon="0.0531773" version="3" timestamp="2020-12-10T02:00:46Z" changeset="95581683" uid="5173844" user="ndrw6"/>
+  <node id="87077275" lat="52.2992133" lon="0.0514234" version="8" timestamp="2014-10-22T11:56:29Z" changeset="26253732" uid="669183" user="Andy_W"/>
+  <node id="343568388" lat="52.2882975" lon="0.0374684" version="3" timestamp="2014-12-29T19:37:36Z" changeset="27784668" uid="669183" user="Andy_W"/>
+  <node id="343568492" lat="52.2873194" lon="0.0463299" version="4" timestamp="2020-12-11T00:46:15Z" changeset="95647292" uid="5173844" user="ndrw6"/>
   <node id="5569979751" lat="52.2918269" lon="0.0524147" version="2" timestamp="2020-06-07T18:59:17Z" changeset="86316993" uid="5173844" user="ndrw6">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housename" v="The Sidings"/>
@@ -12,6 +18,7 @@
     <tag k="name" v="John Henry Group"/>
     <tag k="office" v="company"/>
   </node>
+  <node id="6512266808" lat="52.2645740" lon="0.0566429" version="2" timestamp="2020-12-10T02:00:46Z" changeset="95581683" uid="5173844" user="ndrw6"/>
   <node id="8219833012" lat="52.2856519" lon="0.0560220" version="1" timestamp="2020-12-11T14:21:24Z" changeset="95686478" uid="5173844" user="ndrw6">
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="14"/>
@@ -2766,6 +2773,25 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Alfred Close"/>
   </way>
+  <way id="582382640" version="6" timestamp="2025-04-03T12:42:59Z" changeset="164463285" uid="3468173" user="Hugh24">
+    <nd ref="6211929981"/>
+    <nd ref="6210234443"/>
+    <nd ref="12153324321"/>
+    <nd ref="6210234442"/>
+    <nd ref="12153324155"/>
+    <nd ref="12153324114"/>
+    <nd ref="6210234447"/>
+    <nd ref="12153324322"/>
+    <nd ref="12153324149"/>
+    <nd ref="6210234441"/>
+    <nd ref="12153324323"/>
+    <nd ref="12153324145"/>
+    <nd ref="11665307463"/>
+    <nd ref="5423422376"/>
+    <tag k="check_date" v="2020-08-10"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mallard Close"/>
+  </way>
   <way id="582382643" version="11" timestamp="2022-07-29T20:05:39Z" changeset="124246354" uid="5173844" user="ndrw6">
     <nd ref="5729255158"/>
     <nd ref="6211929980"/>
@@ -5287,6 +5313,15 @@
     <nd ref="6210234460"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Britannia Road"/>
+  </way>
+  <way id="663671755" version="3" timestamp="2025-04-03T12:42:59Z" changeset="164463285" uid="3468173" user="Hugh24">
+    <nd ref="12153324319"/>
+    <nd ref="12153324320"/>
+    <nd ref="6210234445"/>
+    <nd ref="6211929981"/>
+    <tag k="check_date" v="2020-08-10"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mallard Close"/>
   </way>
   <way id="663671758" version="7" timestamp="2024-02-26T13:51:54Z" changeset="147933064" uid="5173844" user="ndrw6">
     <nd ref="6211932587"/>
@@ -17634,6 +17669,18 @@
     <tag k="addr:street" v="Mallard Lane"/>
     <tag k="addr:town" v="Northstowe"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="1312985616" version="2" timestamp="2025-04-03T12:42:59Z" changeset="164463285" uid="3468173" user="Hugh24">
+    <nd ref="12153324155"/>
+    <nd ref="12153324154"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1312985617" version="2" timestamp="2025-04-03T12:42:59Z" changeset="164463285" uid="3468173" user="Hugh24">
+    <nd ref="12153324321"/>
+    <nd ref="12153324158"/>
+    <nd ref="12153324157"/>
+    <nd ref="12153324156"/>
+    <tag k="highway" v="residential"/>
   </way>
   <way id="1322372506" version="2" timestamp="2024-10-08T22:13:40Z" changeset="157647774" uid="19409584" user="elavram">
     <nd ref="12236473719"/>
