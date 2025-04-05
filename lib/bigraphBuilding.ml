@@ -30,15 +30,15 @@ let rec of_list_top_down f bs =
     | [], acc -> helper (List.rev acc) [] in
     helper bs [] *)
 
-let add_sites_to_right_then_comp f g =
+let add_sites_to_right_then_nest f g =
     let diff = Big.ord_of_inter (Big.inner f) - Big.ord_of_inter (Big.outer g) in
     let site = Big.split 1 in
     let rec add_sites l = function
     | 0 -> l
     | n -> add_sites (site::l) (n-1) in
     if diff>=0 
-        then    Big.comp f (of_list_top_down Big.ppar (g::(add_sites [] diff)))
-    else    Big.comp (of_list_top_down Big.ppar (f::(add_sites [] (-diff)))) g
+        then    Big.nest f (of_list_top_down Big.ppar (g::(add_sites [] diff)))
+    else    Big.nest (of_list_top_down Big.ppar (f::(add_sites [] (-diff)))) g
     
 
 (** given a parent to child string-to-string map and a string root, builds the bigraph with that root*)
@@ -126,14 +126,16 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                                                 )
                                                 (Big.par
                                                     site (* sibiling junction*)
-                                                    (let _ = 
+                                                    (* (let _ = 
                                                         Hashtbl.update junction_hash junction ~f:(function
                                                         | None -> [!site_no]
                                                         | Some l -> (!site_no)::l
                                                         ) in
                                                         let _ = site_no := !site_no +1 in
-                                                    site (* (Big.atom (Link.parse_face [junction]) Ctrl.{ s = "Junction"; p = []; i = 1 }) *)
-                                                    )
+                                                    site 
+                                                    ) *)
+                                                    (Big.atom (Link.parse_face [junction]) Ctrl.{ s = "Junction"; p = []; i = 1 })
+                                                    (* Big.id_eps *)
                                                 )
                                             )
                                         )::
@@ -169,19 +171,22 @@ let build_place_graph (root_level : string) (root_id : string) (root_name : stri
                     in
                 let _ = report_progress 1 in
                 (new_id_seen, in_out_intersections, shared_intersections, place_graph) in
-            let (_, _, _, place_graph) = helper root_string String.Set.empty String.Set.empty [] in
-            (* let g = of_list_top_down (add_sites_to_right_then_comp) place_graph in *)
-            let junction_lists = [0]::[1]::(Hashtbl.fold junction_hash ~init:[] ~f:(fun ~key:_ ~data:l acc->l::acc)) in
+            let (_, in_out_intersections, _, place_graph) = helper root_string String.Set.empty String.Set.empty [Big.ppar Big.one Big.one] in
+            let g = of_list_top_down (add_sites_to_right_then_nest) place_graph in g
+            (* let outer_names = Big.face_of_inter (Big.outer g) in
+            let names_to_close = Link.Face.diff outer_names (Link.parse_face (Set.to_list in_out_intersections)) in
+            Big.close (names_to_close) g *)
+            (* let junction_lists = [0]::[1]::(Hashtbl.fold junction_hash ~init:[] ~f:(fun ~key:_ ~data:l acc->l::acc)) in
             let shared_junction_placing = Big.placing junction_lists (!site_no) Link.Face.empty in
             let junction = Big.atom Link.Face.empty Ctrl.{ s = "Junction"; p = []; i = 0 } in
             let rec add_junction l = function
             | 0 -> l
             | n -> add_junction (junction::l) (n-1) in
             let junction_big_list = (add_junction [] (Hashtbl.length junction_hash)) in
-            let f = of_list_top_down (Big.ppar) (Big.one::Big.one::junction_big_list) in
+            let f = of_list_top_down (Big.ppar) (Big.one::Big.one::junction_big_list) in *)
             (* Big.share f shared_junction_placing g *)
             (* Big.comp g (Big.comp shared_junction_placing f) *)
-            of_list_top_down (add_sites_to_right_then_comp) (place_graph@[shared_junction_placing;f])
+            (* of_list_top_down (add_sites_to_right_then_comp) (place_graph@[shared_junction_placing;f]) *)
         )
 
 module MSSolver = Solver.Make_SAT(Solver.MS)
