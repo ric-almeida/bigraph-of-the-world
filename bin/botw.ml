@@ -1,18 +1,19 @@
-(* 10 1609601 Kennett*)
-(* dune exec bigraph_of_the_world 10 1609095 Whittlesey 92*)
-(* dune exec bigraph_of_the_world 8 295349 Fenland 2928*)
-(* dune exec bigraph_of_the_world 8 295352 "East Cambridgeshire" 9728*)
-(* dune exec bigraph_of_the_world 8 295351 Huntingdonshire 17008*)
-(* dune exec bigraph_of_the_world 8 295353 "South Cambridgeshire" 63280*)
-(* dune exec bigraph_of_the_world 8 295355 Cambridge 77164*)
-(* dune exec bigraph_of_the_world 6 180837 Cambridgeshire 170110 *)
+(* _build/default/bin/botw.exe 10 2604777 Dover Number of nodes: 2184*)
+(* _build/default/bin/botw.exe 8 1481934 Dover Number of nodes: 14954*)
+(* _build/default/bin/botw.exe 10 1628638 Tilbrook Number of nodes: 35*)
+(* _build/default/bin/botw.exe 8 295349 Fenland Number of nodes: 13480*)
+(* _build/default/bin/botw.exe 8 295352 "East Cambridgeshire" Number of nodes: 19619*)
+(* _build/default/bin/botw.exe 8 295351 Huntingdonshire Number of nodes: 37597*)
+(* _build/default/bin/botw.exe 8 295355 Cambridge Number of nodes: 62838*)
+(* _build/default/bin/botw.exe 8 295353 "South Cambridgeshire" Number of nodes: 75961*)
+(* _build/default/bin/botw.exe 6 180837 Cambridgeshire Number of nodes: 210768 *)
 
-let main (root_level : string) (root_id : string) (root_name : string) write_dot=
+let main (root_level : string) (root_id : string) (root_name : string) write_dot id_in_parameter=
     let root_string = root_level^"-"^root_id^"-"^root_name in
-    let b = Bigraph_of_the_world.BigraphBuilding.build_place_graph root_level root_id root_name in
+    let b = Bigraph_of_the_world.Bigraph_building.build_place_graph root_level root_id root_name id_in_parameter in
     let _ = print_endline ("Number of nodes: "^(string_of_int (Bigraph.Nodes.size b.n))) in
-    (* let with_agent = Bigraph_of_the_world.BigraphBuilding.add_agent_to_building_react ~bigraph:b ~agent_id:"Agent A" ~building_id:"Kentford Telephone Exchange" in
-    let _ = print_endline ("Added agent by reaction. Number of nodes: "^(string_of_int (Bigraph.Nodes.size with_agent.n))) in *)
+    (* let b = Bigraph_of_the_world.Bigraph_building.add_agent_to_building_react ~bigraph:b ~agent_id:"Agent A" ~building_name:"Tilbrook Village Hall" in
+    let _ = print_endline ("Added agent by reaction. Number of nodes: "^(string_of_int (Bigraph.Nodes.size b.n))) in *)
     let _ = if not (Lwt_main.run (Lwt_unix.file_exists "output/")) then Core_unix.mkdir_p ~perm:0o755 "output/" in
     (* let _ = Lwt_main.run (Bigraph_of_the_world__Overpass.write_to_file (Yojson.Safe.to_string (Bigraph.Big.yojson_of_t b)) ("output/"^root_string^".json")) in
     let _ = print_endline ("Bigraph saved to output/"^root_string^".json") in *)
@@ -33,8 +34,9 @@ let command =
         (let%map_open.Core.Command root_level = anon ("boundary_admin_level" %: string)
         and root_relation = anon ("boundary_relation_id" %: string) 
         and root_name = anon ("boundary_name" %: string) 
-        and write_dot = flag "-write-dot" no_arg ~doc:"export the Bigraph to a dot-file" in
-        fun () -> main root_level root_relation root_name write_dot)
+        and write_dot = flag "-write-dot" no_arg ~doc:"export the Bigraph to a dot-file"
+        and id_in_parameter = flag "-id-parameter" no_arg ~doc:"keep id in parameter instead of linking to seperate ID node" in
+        fun () -> main root_level root_relation root_name write_dot id_in_parameter)
 
 let () = 
     (* Memtrace.trace_if_requested (); *)

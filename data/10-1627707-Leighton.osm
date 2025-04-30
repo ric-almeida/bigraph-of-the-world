@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:09:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="107986390" lat="52.3907169" lon="-0.3815464" version="8" timestamp="2011-01-10T06:29:33Z" changeset="6923350" uid="223853" user="Bobious"/>
-  <node id="107986405" lat="52.3868544" lon="-0.3362835" version="5" timestamp="2011-01-10T06:28:43Z" changeset="6923350" uid="223853" user="Bobious"/>
-  <node id="312353162" lat="52.3882845" lon="-0.3480000" version="6" timestamp="2011-01-12T03:27:27Z" changeset="6943811" uid="223853" user="Bobious"/>
-  <node id="344756509" lat="52.3813159" lon="-0.3854533" version="2" timestamp="2013-03-05T20:03:30Z" changeset="15262916" uid="90142" user="andy mackey"/>
-  <node id="344756558" lat="52.3589925" lon="-0.4036353" version="3" timestamp="2011-12-18T11:17:24Z" changeset="10144810" uid="5926" user="c2r"/>
+  <node id="312353969" lat="52.3883505" lon="-0.3488826" version="4" timestamp="2011-01-12T03:27:29Z" changeset="6943811" uid="223853" user="Bobious"/>
+  <node id="344751754" lat="52.3672999" lon="-0.3691945" version="2" timestamp="2021-06-12T17:49:17Z" changeset="106261053" uid="281267" user="smb1001"/>
   <node id="344756612" lat="52.3521293" lon="-0.3765034" version="3" timestamp="2011-12-18T11:06:55Z" changeset="10144810" uid="5926" user="c2r"/>
-  <node id="344797384" lat="52.3598625" lon="-0.4063084" version="8" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
-    <tag k="exit_to" v="Kimbolton, Old Weston B660"/>
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Fox Road"/>
-    <tag k="ref" v="16"/>
-    <tag k="source" v="survey"/>
-  </node>
   <node id="534935839" lat="52.3660914" lon="-0.3323324" version="2" timestamp="2013-09-27T14:37:18Z" changeset="18062726" uid="281267" user="smb1001"/>
-  <node id="1551748941" lat="52.3468745" lon="-0.3537430" version="2" timestamp="2024-11-06T18:33:43Z" changeset="158829250" uid="84263" user="Robert Whittaker"/>
+  <node id="11170885438" lat="52.3521969" lon="-0.3760282" version="1" timestamp="2023-09-06T01:18:59Z" changeset="140872892" uid="13341565" user="Falsernet"/>
   <node id="11170885442" lat="52.3639028" lon="-0.4299278" version="1" timestamp="2023-09-06T01:18:59Z" changeset="140872892" uid="13341565" user="Falsernet"/>
   <way id="28222962" version="21" timestamp="2024-04-07T16:30:40Z" changeset="149700743" uid="5229644" user="Nathan_A_RF">
     <nd ref="107986390"/>
@@ -203,6 +194,31 @@
     <nd ref="312353985"/>
     <tag k="highway" v="unclassified"/>
   </way>
+  <way id="126228559" version="6" timestamp="2023-11-03T18:38:55Z" changeset="143587010" uid="504708" user="HillWithSmallFields">
+    <nd ref="1399869674"/>
+    <nd ref="1399869563"/>
+    <nd ref="8827997197"/>
+    <nd ref="1399869565"/>
+    <nd ref="1399869567"/>
+    <nd ref="1399869568"/>
+    <nd ref="1399869649"/>
+    <nd ref="1399869569"/>
+    <nd ref="1399869572"/>
+    <nd ref="1399869574"/>
+    <nd ref="1399869573"/>
+    <nd ref="1399869575"/>
+    <nd ref="1399869580"/>
+    <nd ref="1399869674"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Mary the Virgin"/>
+    <tag k="ref:dove" v="13462"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="http://www.leighton-bromswold.org.uk/locations/detail.asp?GetLocID=1923"/>
+    <tag k="wikidata" v="Q17527908"/>
+  </way>
   <way id="141760671" version="5" timestamp="2024-02-15T10:40:37Z" changeset="147485026" uid="14550990" user="Madi-Red">
     <nd ref="11626510274"/>
     <nd ref="344751705"/>
@@ -310,6 +326,38 @@
     <tag k="operator" v="National Highways"/>
     <tag k="operator:wikidata" v="Q5760006"/>
     <tag k="ref" v="A14"/>
+  </way>
+  <way id="232882236" version="2" timestamp="2021-06-12T17:38:47Z" changeset="106261053" uid="281267" user="smb1001">
+    <nd ref="2411918547"/>
+    <nd ref="2411918583"/>
+    <nd ref="2411918554"/>
+    <nd ref="2411918559"/>
+    <nd ref="2411918578"/>
+    <nd ref="2411918590"/>
+    <nd ref="2411918581"/>
+    <nd ref="2411918577"/>
+    <nd ref="2411918553"/>
+    <nd ref="2411918564"/>
+    <nd ref="2411918565"/>
+    <nd ref="2411918585"/>
+    <nd ref="2411918580"/>
+    <nd ref="2411918547"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Green Man"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikidata" v="Q26423197"/>
+  </way>
+  <way id="239596519" version="1" timestamp="2013-09-27T16:14:48Z" changeset="18064212" uid="281267" user="smb1001">
+    <nd ref="2473732854"/>
+    <nd ref="2473732763"/>
+    <nd ref="2473732829"/>
+    <nd ref="2473733111"/>
+    <nd ref="2473733056"/>
+    <nd ref="2473733121"/>
+    <nd ref="2473732854"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Staunch Hill"/>
   </way>
   <way id="813690969" version="2" timestamp="2021-06-30T20:10:39Z" changeset="107226897" uid="90142" user="andy mackey">
     <nd ref="7600587762"/>

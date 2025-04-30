@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="71796490" lat="52.0215982" lon="0.0508124" version="4" timestamp="2007-10-20T16:47:09Z" changeset="266131" uid="3582" user="davidearl"/>
-  <node id="71799897" lat="52.0333254" lon="0.0409061" version="8" timestamp="2024-08-17T22:22:38Z" changeset="155391780" uid="742701" user="kerr smith"/>
+  <node id="81446483" lat="52.0228225" lon="0.0543521" version="2" timestamp="2010-01-03T20:02:54Z" changeset="3531407" uid="5926" user="c2r"/>
   <node id="81446870" lat="52.0400063" lon="0.0867555" version="2" timestamp="2023-11-04T17:58:07Z" changeset="143624450" uid="84263" user="Robert Whittaker"/>
+  <node id="81447115" lat="52.0610702" lon="0.0502816" version="5" timestamp="2018-10-17T05:24:04Z" changeset="63598091" uid="1257159" user="Jean-Pierre Rondeau"/>
   <node id="417039441" lat="52.0660392" lon="0.0522973" version="3" timestamp="2013-11-12T13:36:00Z" changeset="18855074" uid="1247041" user="Essex_Boy"/>
   <node id="430891070" lat="52.0261337" lon="0.0920698" version="3" timestamp="2021-09-08T22:43:32Z" changeset="110940744" uid="90142" user="andy mackey"/>
-  <node id="738916717" lat="52.0258373" lon="0.0800067" version="4" timestamp="2021-09-21T09:31:50Z" changeset="111485422" uid="6816132" user="CjMalone">
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:postcode" v="SG8 8SH"/>
-    <tag k="addr:street" v="Hall Lane"/>
-    <tag k="fhrs:id" v="596426"/>
-    <tag k="guest_house" v="bed_and_breakfast"/>
-    <tag k="name" v="Hall Farm"/>
-    <tag k="survey:date" v="2018-03-19"/>
-    <tag k="tourism" v="guest_house"/>
-  </node>
-  <node id="1160274550" lat="52.0033079" lon="0.0870277" version="2" timestamp="2018-11-10T14:45:07Z" changeset="64353763" uid="5173844" user="ndrw6"/>
-  <node id="1254473422" lat="52.0290204" lon="0.0502386" version="1" timestamp="2011-04-21T19:49:21Z" changeset="7928688" uid="5926" user="c2r"/>
+  <node id="1254473548" lat="52.0290358" lon="0.0504398" version="1" timestamp="2011-04-21T19:49:25Z" changeset="7928688" uid="5926" user="c2r"/>
   <way id="9419568" version="17" timestamp="2022-05-20T00:05:49Z" changeset="121218044" uid="11062676" user="beatpoet">
     <nd ref="81446483"/>
     <nd ref="81446481"/>
@@ -524,6 +513,33 @@
     <tag k="source" v="GPS"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
   </way>
+  <way id="146803027" version="9" timestamp="2023-11-05T09:43:52Z" changeset="143642229" uid="504708" user="HillWithSmallFields">
+    <nd ref="1600381453"/>
+    <nd ref="1600381461"/>
+    <nd ref="1600381460"/>
+    <nd ref="1600381479"/>
+    <nd ref="1600381470"/>
+    <nd ref="1600381458"/>
+    <nd ref="1600381477"/>
+    <nd ref="1600381455"/>
+    <nd ref="1600381468"/>
+    <nd ref="1600381471"/>
+    <nd ref="1600381464"/>
+    <nd ref="1600381450"/>
+    <nd ref="1600381466"/>
+    <nd ref="1600381465"/>
+    <nd ref="1600381472"/>
+    <nd ref="1600381459"/>
+    <nd ref="1600381451"/>
+    <nd ref="1600381453"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Swithin, Great Chishill"/>
+    <tag k="ref:dove" v="15731"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550326"/>
+  </way>
   <way id="245804806" version="3" timestamp="2024-09-20T12:18:53Z" changeset="156865281" uid="5229644" user="Nathan_A_RF">
     <nd ref="417039441"/>
     <nd ref="417039444"/>
@@ -711,6 +727,52 @@
     <tag k="name" v="May Street"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
+  <way id="359144011" version="3" timestamp="2020-10-10T22:08:12Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="3639111761"/>
+    <nd ref="3639111749"/>
+    <nd ref="3639111757"/>
+    <nd ref="3639111752"/>
+    <nd ref="3639111759"/>
+    <nd ref="3639111753"/>
+    <nd ref="3639111748"/>
+    <nd ref="3639111746"/>
+    <nd ref="3639111750"/>
+    <nd ref="3639111761"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Nicholas (Little Chishill Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="gps"/>
+    <tag k="source:name" v="www.greatchishill.org/AboutGreatChishill.html"/>
+    <tag k="wikidata" v="Q17550449"/>
+  </way>
+  <way id="507417158" version="2" timestamp="2019-05-04T22:35:59Z" changeset="69891195" uid="5173844" user="ndrw6">
+    <nd ref="4969266436"/>
+    <nd ref="4969266437"/>
+    <nd ref="4969266438"/>
+    <nd ref="4969266439"/>
+    <nd ref="4969266440"/>
+    <nd ref="4969266441"/>
+    <nd ref="4969266442"/>
+    <nd ref="4969266443"/>
+    <nd ref="4969266436"/>
+    <tag k="addr:postcode" v="SG8 8SN"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="26 May Street"/>
+  </way>
+  <way id="762204197" version="3" timestamp="2022-05-11T16:41:36Z" changeset="120849781" uid="11062676" user="beatpoet">
+    <nd ref="81448376"/>
+    <nd ref="7121875547"/>
+    <nd ref="9733114552"/>
+    <nd ref="7121875509"/>
+    <nd ref="7121873175"/>
+    <nd ref="81448376"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Great Chishill Village Hall"/>
+  </way>
   <way id="829705446" version="2" timestamp="2024-11-10T20:31:01Z" changeset="158984626" uid="1782504" user="corgicity">
     <nd ref="81446973"/>
     <nd ref="7229664490"/>
@@ -733,6 +795,60 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="5 mph"/>
     <tag k="name" v="Heydon Road"/>
+  </way>
+  <way id="1022606117" version="2" timestamp="2022-05-17T21:54:50Z" changeset="121119417" uid="11062676" user="beatpoet">
+    <nd ref="9431267063"/>
+    <nd ref="9431267116"/>
+    <nd ref="9431267079"/>
+    <nd ref="9431267107"/>
+    <nd ref="9431267050"/>
+    <nd ref="9431267075"/>
+    <nd ref="9431267053"/>
+    <nd ref="9431267061"/>
+    <nd ref="9431267063"/>
+    <tag k="addr:housename" v="Hyde House"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Hyde House"/>
+  </way>
+  <way id="1022606118" version="2" timestamp="2022-05-17T21:54:50Z" changeset="121119417" uid="11062676" user="beatpoet">
+    <nd ref="9431267098"/>
+    <nd ref="9431267067"/>
+    <nd ref="9431267108"/>
+    <nd ref="9431267102"/>
+    <nd ref="9431267068"/>
+    <nd ref="9431267103"/>
+    <nd ref="9431267069"/>
+    <nd ref="9431267049"/>
+    <nd ref="9431267087"/>
+    <nd ref="9431267091"/>
+    <nd ref="9431267090"/>
+    <nd ref="9431267073"/>
+    <nd ref="9431267099"/>
+    <nd ref="9431267100"/>
+    <nd ref="9431267048"/>
+    <nd ref="9431267058"/>
+    <nd ref="9431267098"/>
+    <tag k="addr:housename" v="Little Chishill Manor"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Little Chishill Manor"/>
+  </way>
+  <way id="1162662930" version="1" timestamp="2023-04-14T23:46:00Z" changeset="134923870" uid="11062676" user="beatpoet">
+    <nd ref="10812747500"/>
+    <nd ref="10813018011"/>
+    <nd ref="10812747501"/>
+    <nd ref="10812747502"/>
+    <nd ref="10812747503"/>
+    <nd ref="10812747504"/>
+    <nd ref="10813018005"/>
+    <nd ref="10813018006"/>
+    <nd ref="10813018007"/>
+    <nd ref="10813018008"/>
+    <nd ref="10812747500"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="united_reformed"/>
+    <tag k="name" v="Great Chishill (1694) with Barley URC Church"/>
+    <tag k="religion" v="christian"/>
   </way>
 
 </osm>

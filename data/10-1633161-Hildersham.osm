@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:12:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:25:02Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="26531008" lat="52.1152712" lon="0.2402363" version="2" timestamp="2022-09-02T02:47:04Z" changeset="125677196" uid="5173844" user="ndrw6"/>
+  <node id="26531022" lat="52.1124677" lon="0.2447376" version="2" timestamp="2024-03-08T16:00:56Z" changeset="148390771" uid="5173844" user="ndrw6"/>
+  <node id="26531051" lat="52.1086270" lon="0.2508680" version="5" timestamp="2019-12-04T00:50:15Z" changeset="77904276" uid="5173844" user="ndrw6"/>
   <node id="26531064" lat="52.1099581" lon="0.2370633" version="3" timestamp="2019-12-04T00:50:15Z" changeset="77904276" uid="5173844" user="ndrw6"/>
+  <node id="27401572" lat="52.1171749" lon="0.2577568" version="2" timestamp="2012-05-21T19:07:40Z" changeset="11665175" uid="2020" user="comsomol"/>
   <node id="27401735" lat="52.1333422" lon="0.3039701" version="2" timestamp="2012-08-04T21:57:42Z" changeset="12614870" uid="84263" user="Robert Whittaker"/>
-  <node id="28206112" lat="52.1332722" lon="0.3035805" version="2" timestamp="2012-08-04T21:57:41Z" changeset="12614870" uid="84263" user="Robert Whittaker"/>
   <node id="29005356" lat="52.1210993" lon="0.2432423" version="2" timestamp="2009-09-27T19:41:11Z" changeset="2656785" uid="5926" user="c2r"/>
-  <node id="30152650" lat="52.1054582" lon="0.2583211" version="3" timestamp="2025-02-20T22:08:36Z" changeset="162758881" uid="5229644" user="Nathan_A_RF"/>
   <node id="36744840" lat="52.1182835" lon="0.2427346" version="4" timestamp="2013-08-20T04:05:06Z" changeset="17420577" uid="4951" user="PeterEastern"/>
-  <node id="7030279528" lat="52.1051387" lon="0.2731912" version="1" timestamp="2019-12-04T00:50:15Z" changeset="77904276" uid="5173844" user="ndrw6"/>
-  <node id="8863761679" lat="52.1149091" lon="0.2411793" version="2" timestamp="2024-03-08T16:00:56Z" changeset="148390771" uid="5173844" user="ndrw6"/>
   <way id="4355251" version="6" timestamp="2022-10-22T18:47:13Z" changeset="127934426" uid="1287673" user="sloerunner">
     <nd ref="26531064"/>
     <nd ref="26531063"/>
@@ -319,6 +317,64 @@
     <tag k="ref" v="A1307"/>
     <tag k="source:ref" v="local knowledge"/>
   </way>
+  <way id="249356094" version="2" timestamp="2018-05-28T10:42:22Z" changeset="59336427" uid="364" user="Edward">
+    <nd ref="2559707198"/>
+    <nd ref="2559707199"/>
+    <nd ref="2559707200"/>
+    <nd ref="2559707201"/>
+    <nd ref="2559707202"/>
+    <nd ref="2559707203"/>
+    <nd ref="2559707198"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Hildersham Hall"/>
+    <tag k="wikidata" v="Q17550421"/>
+  </way>
+  <way id="353168059" version="2" timestamp="2021-05-30T23:05:03Z" changeset="105587119" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="3589346265"/>
+    <nd ref="3589346266"/>
+    <nd ref="3589346267"/>
+    <nd ref="3589346268"/>
+    <nd ref="3589346265"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Hildersham Village hall"/>
+  </way>
+  <way id="358643807" version="3" timestamp="2018-12-30T22:35:01Z" changeset="65899704" uid="364" user="Edward">
+    <nd ref="3635444103"/>
+    <nd ref="3635444122"/>
+    <nd ref="3635444120"/>
+    <nd ref="3635444131"/>
+    <nd ref="3635444148"/>
+    <nd ref="3635444163"/>
+    <nd ref="3635444162"/>
+    <nd ref="3635444146"/>
+    <nd ref="3635444141"/>
+    <nd ref="3635444123"/>
+    <nd ref="3635444164"/>
+    <nd ref="3635444152"/>
+    <nd ref="3635444103"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Holy Trinity"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17528079"/>
+  </way>
+  <way id="448689536" version="2" timestamp="2020-01-20T21:44:23Z" changeset="79818634" uid="364" user="Edward">
+    <nd ref="4456760569"/>
+    <nd ref="4456760572"/>
+    <nd ref="4456760570"/>
+    <nd ref="4456760568"/>
+    <nd ref="4456760567"/>
+    <nd ref="4456760566"/>
+    <nd ref="4456760571"/>
+    <nd ref="4456760573"/>
+    <nd ref="4456760569"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hildersham Mill"/>
+    <tag k="wikidata" v="Q26596397"/>
+  </way>
   <way id="498305970" version="2" timestamp="2019-12-04T00:50:15Z" changeset="77904276" uid="5173844" user="ndrw6">
     <nd ref="30152258"/>
     <nd ref="7030260159"/>
@@ -326,6 +382,18 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Meadowlands"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="752080711" version="2" timestamp="2020-10-08T17:39:51Z" changeset="92189201" uid="1287673" user="sloerunner">
+    <nd ref="7030279850"/>
+    <nd ref="7030279847"/>
+    <nd ref="7030279848"/>
+    <nd ref="7030279849"/>
+    <nd ref="7030279850"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="international"/>
+    <tag k="name" v="Pear &amp; Olive Scratch Kitchen"/>
+    <tag k="website" v="https://www.pearolive.com"/>
   </way>
 
 </osm>

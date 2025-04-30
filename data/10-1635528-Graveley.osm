@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:15:13Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:28:05Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="242766527" lat="52.2467901" lon="-0.1778394" version="3" timestamp="2021-07-09T17:54:44Z" changeset="107719667" uid="5173844" user="ndrw6"/>
-  <node id="242766889" lat="52.2777784" lon="-0.2105470" version="6" timestamp="2021-08-20T18:39:22Z" changeset="110001386" uid="5173844" user="ndrw6"/>
+  <node id="242766620" lat="52.2645429" lon="-0.1767441" version="3" timestamp="2021-07-09T17:54:44Z" changeset="107719667" uid="5173844" user="ndrw6"/>
+  <node id="242766731" lat="52.2670821" lon="-0.1808762" version="2" timestamp="2016-03-24T16:46:54Z" changeset="38045141" uid="281267" user="smb1001"/>
   <node id="298540811" lat="52.2690136" lon="-0.1508019" version="2" timestamp="2011-07-07T00:01:05Z" changeset="8653382" uid="90142" user="andy mackey"/>
-  <node id="1352313557" lat="52.2604273" lon="-0.1727026" version="4" timestamp="2024-12-24T14:19:53Z" changeset="160577653" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:postcode" v="PE19 6PL"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:village" v="Graveley"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="name" v="Three Horseshoes"/>
-  </node>
   <way id="22634439" version="13" timestamp="2021-07-09T17:57:33Z" changeset="107719667" uid="5173844" user="ndrw6">
     <nd ref="242766527"/>
     <nd ref="242766530"/>
@@ -104,6 +95,84 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="High Street"/>
     <tag k="note" v="extent of 30mph limit at southern end not determined - requires survey."/>
+  </way>
+  <way id="120517014" version="5" timestamp="2023-11-03T18:38:55Z" changeset="143587010" uid="504708" user="HillWithSmallFields">
+    <nd ref="1351218805"/>
+    <nd ref="292122064"/>
+    <nd ref="1351218798"/>
+    <nd ref="1351218778"/>
+    <nd ref="1351218805"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Botolph (Graveley Parish Church)"/>
+    <tag k="ref:dove" v="13198"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="survel and bing"/>
+    <tag k="wikidata" v="Q17550649"/>
+  </way>
+  <way id="120517016" version="1" timestamp="2011-07-06T11:07:22Z" changeset="8647332" uid="90142" user="andy mackey">
+    <nd ref="1351218786"/>
+    <nd ref="1351218790"/>
+    <nd ref="1351218796"/>
+    <nd ref="1351218803"/>
+    <nd ref="1351218786"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="farm barn"/>
+  </way>
+  <way id="120647732" version="1" timestamp="2011-07-07T08:20:11Z" changeset="8655020" uid="90142" user="andy mackey">
+    <nd ref="1352299670"/>
+    <nd ref="1352299692"/>
+    <nd ref="1352299675"/>
+    <nd ref="1352299681"/>
+    <nd ref="1352299670"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="shed"/>
+  </way>
+  <way id="120647734" version="1" timestamp="2011-07-07T08:20:11Z" changeset="8655020" uid="90142" user="andy mackey">
+    <nd ref="1352299677"/>
+    <nd ref="1352299683"/>
+    <nd ref="1352299684"/>
+    <nd ref="1352299685"/>
+    <nd ref="1352299677"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="shed"/>
+  </way>
+  <way id="120647736" version="1" timestamp="2011-07-07T08:20:11Z" changeset="8655020" uid="90142" user="andy mackey">
+    <nd ref="1352299695"/>
+    <nd ref="1352299696"/>
+    <nd ref="1352299698"/>
+    <nd ref="1352299661"/>
+    <nd ref="1352299695"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="shed"/>
+  </way>
+  <way id="120647737" version="1" timestamp="2011-07-07T08:20:12Z" changeset="8655020" uid="90142" user="andy mackey">
+    <nd ref="1352299689"/>
+    <nd ref="1352299668"/>
+    <nd ref="1352299667"/>
+    <nd ref="1352299669"/>
+    <nd ref="1352299689"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="shed"/>
+  </way>
+  <way id="120647740" version="1" timestamp="2011-07-07T08:20:12Z" changeset="8655020" uid="90142" user="andy mackey">
+    <nd ref="1352299697"/>
+    <nd ref="1352299665"/>
+    <nd ref="1352299701"/>
+    <nd ref="1352299663"/>
+    <nd ref="1352299697"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="shed"/>
+  </way>
+  <way id="120647741" version="1" timestamp="2011-07-07T08:20:12Z" changeset="8655020" uid="90142" user="andy mackey">
+    <nd ref="1352299679"/>
+    <nd ref="1352299687"/>
+    <nd ref="1352299686"/>
+    <nd ref="1352299693"/>
+    <nd ref="1352299679"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="shed"/>
   </way>
   <way id="133556491" version="6" timestamp="2016-02-11T09:25:42Z" changeset="37141692" uid="1778799" user="SomeoneElse_Revert">
     <nd ref="242766620"/>
@@ -248,6 +317,23 @@
     <nd ref="8907900837"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Manor Close"/>
+  </way>
+  <way id="962992295" version="2" timestamp="2023-01-14T00:55:13Z" changeset="131249849" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="8907821185"/>
+    <nd ref="8907821183"/>
+    <nd ref="8907821184"/>
+    <nd ref="8907821182"/>
+    <nd ref="8907821181"/>
+    <nd ref="8907821178"/>
+    <nd ref="8907821179"/>
+    <nd ref="8907821180"/>
+    <nd ref="8907821177"/>
+    <nd ref="8907821185"/>
+    <tag k="addr:city" v="Graveley"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Gravely Village Hall"/>
   </way>
 
 </osm>

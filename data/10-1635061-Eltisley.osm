@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:14:15Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="620992" lat="52.2279406" lon="-0.1145259" version="7" timestamp="2011-07-20T13:16:39Z" changeset="8778512" uid="71337" user="quantumstate"/>
-  <node id="207538543" lat="52.2409270" lon="-0.1340406" version="4" timestamp="2024-09-26T09:02:43Z" changeset="157116523" uid="10420541" user="Thingummy"/>
-  <node id="207538604" lat="52.2440372" lon="-0.1296973" version="4" timestamp="2021-07-09T17:54:44Z" changeset="107719667" uid="5173844" user="ndrw6"/>
-  <node id="242766338" lat="52.2431567" lon="-0.1319246" version="4" timestamp="2014-11-26T20:58:36Z" changeset="27053706" uid="669183" user="Andy_W"/>
-  <node id="243754275" lat="52.2248543" lon="-0.1789483" version="9" timestamp="2018-02-25T18:43:56Z" changeset="56668113" uid="2032231" user="narboy"/>
-  <node id="294954920" lat="52.2243902" lon="-0.1732875" version="6" timestamp="2011-06-30T18:55:24Z" changeset="8593233" uid="3582" user="davidearl"/>
+  <node id="38704425" lat="52.2141500" lon="-0.1492632" version="6" timestamp="2024-11-27T16:17:36Z" changeset="159667578" uid="5173844" user="ndrw6"/>
+  <node id="475934426" lat="52.2219499" lon="-0.1486817" version="4" timestamp="2024-12-29T19:31:06Z" changeset="160765333" uid="5229644" user="Nathan_A_RF"/>
   <node id="1381891210" lat="52.2129388" lon="-0.1513171" version="2" timestamp="2024-11-03T16:20:59Z" changeset="158706696" uid="4910264" user="Black Tusk"/>
-  <node id="2353499544" lat="52.2063826" lon="-0.1453186" version="3" timestamp="2025-02-15T15:05:21Z" changeset="162539325" uid="742701" user="kerr smith"/>
+  <node id="3206792279" lat="52.2300931" lon="-0.1375127" version="2" timestamp="2025-04-10T09:32:16Z" changeset="164759538" uid="10420541" user="Thingummy"/>
   <node id="12201124118" lat="52.2409948" lon="-0.1340058" version="1" timestamp="2024-09-26T09:02:43Z" changeset="157116523" uid="10420541" user="Thingummy"/>
   <way id="5386386" version="10" timestamp="2025-02-15T15:05:21Z" changeset="162539325" uid="742701" user="kerr smith">
     <nd ref="38704425"/>
@@ -49,13 +46,7 @@
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="Eltisley Road"/>
   </way>
-  <way id="19847850" version="16" timestamp="2025-03-26T23:08:49Z" changeset="164141901" uid="10420541" user="Thingummy">
-    <nd ref="473828093"/>
-    <nd ref="207538481"/>
-    <nd ref="766082699"/>
-    <nd ref="766082701"/>
-    <nd ref="207538492"/>
-    <nd ref="766082703"/>
+  <way id="19847850" version="17" timestamp="2025-04-10T09:32:16Z" changeset="164759538" uid="10420541" user="Thingummy">
     <nd ref="3206792279"/>
     <nd ref="3206792290"/>
     <nd ref="473828097"/>
@@ -224,14 +215,13 @@
     <tag k="name" v="The Green"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="26741174" version="16" timestamp="2025-02-16T15:12:23Z" changeset="162574633" uid="742701" user="kerr smith">
+  <way id="26741174" version="17" timestamp="2025-04-10T10:48:51Z" changeset="164762405" uid="10420541" user="Thingummy">
     <nd ref="293297158"/>
     <nd ref="1309940967"/>
     <nd ref="1381891631"/>
     <nd ref="293297160"/>
     <nd ref="1309940927"/>
     <nd ref="12310865342"/>
-    <nd ref="293297161"/>
     <nd ref="1381891266"/>
     <nd ref="293297162"/>
     <nd ref="2353488340"/>
@@ -322,30 +312,6 @@
     <tag k="note" v="Not sure if this is part of Greenfields or a separate road.  No signs..."/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="26741189" version="4" timestamp="2024-11-23T02:03:29Z" changeset="159480850" uid="4910264" user="Black Tusk">
-    <nd ref="289031530"/>
-    <nd ref="1381891607"/>
-    <nd ref="1381891291"/>
-    <nd ref="853408889"/>
-    <nd ref="289031148"/>
-    <nd ref="289031149"/>
-    <nd ref="293297203"/>
-    <nd ref="1309940973"/>
-    <nd ref="293297204"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="name" v="Cambridge Road"/>
-    <tag k="source" v="survey"/>
-  </way>
-  <way id="30887356" version="6" timestamp="2018-02-25T18:48:50Z" changeset="56668212" uid="2032231" user="narboy">
-    <nd ref="343424811"/>
-    <nd ref="5435863400"/>
-    <nd ref="5435863401"/>
-    <nd ref="289031149"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="name" v="Cambridge Road"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
   <way id="32209354" version="6" timestamp="2025-02-10T17:35:28Z" changeset="162360776" uid="742701" user="kerr smith">
     <nd ref="12574624685"/>
     <nd ref="293297174"/>
@@ -391,43 +357,11 @@
     <tag k="ref" v="A428"/>
     <tag k="source:ref" v="survey;local knowledge"/>
   </way>
-  <way id="116075777" version="4" timestamp="2024-12-29T19:31:06Z" changeset="160765333" uid="5229644" user="Nathan_A_RF">
-    <nd ref="1309940973"/>
-    <nd ref="1309941002"/>
-    <nd ref="1309940921"/>
-    <nd ref="1309941178"/>
-    <tag k="highway" v="tertiary_link"/>
-    <tag k="oneway" v="yes"/>
-  </way>
-  <way id="116075779" version="7" timestamp="2024-12-29T19:31:06Z" changeset="160765333" uid="5229644" user="Nathan_A_RF">
-    <nd ref="12461475763"/>
-    <nd ref="12366349537"/>
-    <nd ref="1309940939"/>
-    <nd ref="1309940988"/>
-    <nd ref="1309940955"/>
-    <nd ref="1309941180"/>
-    <nd ref="766082694"/>
-    <tag k="highway" v="secondary_link"/>
-    <tag k="lanes" v="1"/>
-    <tag k="oneway" v="yes"/>
-  </way>
   <way id="116075781" version="2" timestamp="2024-11-03T20:07:05Z" changeset="158715129" uid="4910264" user="Black Tusk">
     <nd ref="1309940904"/>
     <nd ref="1309941162"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Greenfields"/>
-  </way>
-  <way id="116075785" version="5" timestamp="2024-12-29T19:31:06Z" changeset="160765333" uid="5229644" user="Nathan_A_RF">
-    <nd ref="766082694"/>
-    <nd ref="1309940956"/>
-    <nd ref="1309940951"/>
-    <nd ref="1309940970"/>
-    <nd ref="1309940954"/>
-    <nd ref="12461475764"/>
-    <tag k="destination:ref" v="A428"/>
-    <tag k="highway" v="secondary_link"/>
-    <tag k="lanes" v="1"/>
-    <tag k="oneway" v="yes"/>
   </way>
   <way id="119808886" version="11" timestamp="2024-11-23T17:34:18Z" changeset="159508954" uid="4910264" user="Black Tusk">
     <nd ref="1381891210"/>
@@ -479,6 +413,41 @@
     <tag k="name" v="St Thomas"/>
     <tag k="source" v="Bing"/>
   </way>
+  <way id="209241801" version="6" timestamp="2024-11-20T17:58:17Z" changeset="159378166" uid="4910264" user="Black Tusk">
+    <nd ref="2194680162"/>
+    <nd ref="2194680173"/>
+    <nd ref="2194680167"/>
+    <nd ref="2194680168"/>
+    <nd ref="2194680181"/>
+    <nd ref="2194680163"/>
+    <nd ref="2194680183"/>
+    <nd ref="2194680171"/>
+    <nd ref="2194680133"/>
+    <nd ref="2194680182"/>
+    <nd ref="2194680184"/>
+    <nd ref="2194680166"/>
+    <nd ref="2194680180"/>
+    <nd ref="2194680160"/>
+    <nd ref="2194680164"/>
+    <nd ref="2194680165"/>
+    <nd ref="2194680161"/>
+    <nd ref="2194680179"/>
+    <nd ref="2194680136"/>
+    <nd ref="2194680185"/>
+    <nd ref="2194680175"/>
+    <nd ref="2194680169"/>
+    <nd ref="2194680162"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="name" v="St Pandionia &amp; St John The Baptist (Eltisley Parish Church)"/>
+    <tag k="ref:GB:nhle" v="1127179"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikidata" v="Q17544330"/>
+  </way>
   <way id="209241803" version="5" timestamp="2024-11-19T05:09:59Z" changeset="159308995" uid="4910264" user="Black Tusk">
     <nd ref="2194680141"/>
     <nd ref="2194680145"/>
@@ -522,42 +491,6 @@
     <tag k="addr:street" v="The Green"/>
     <tag k="addr:village" v="Eltisley"/>
     <tag k="building" v="house"/>
-  </way>
-  <way id="402905495" version="11" timestamp="2024-11-27T16:17:36Z" changeset="159667578" uid="5173844" user="ndrw6">
-    <nd ref="12379148524"/>
-    <nd ref="4053068670"/>
-    <nd ref="4053072315"/>
-    <nd ref="4053072318"/>
-    <nd ref="4053072301"/>
-    <nd ref="853408805"/>
-    <nd ref="1381891328"/>
-    <nd ref="4053072321"/>
-    <nd ref="4053072297"/>
-    <nd ref="4053072299"/>
-    <nd ref="4053072332"/>
-    <nd ref="12379148525"/>
-    <nd ref="12379148524"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:postcode" v="PE19 6TL"/>
-    <tag k="addr:street" v="Caxton End"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="105"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Newton Primary School"/>
-    <tag k="official_name" v="The Newton Community Primary School"/>
-    <tag k="phone" v="+44 1480 880215"/>
-    <tag k="ref:GB:uprn" v="100091523180"/>
-    <tag k="ref:edubase" v="110717"/>
-    <tag k="religion" v="none"/>
-    <tag k="school:boarding" v="no"/>
-    <tag k="school:gender" v="mixed"/>
-    <tag k="school:selective" v="no"/>
-    <tag k="school:trust" v="no"/>
-    <tag k="school:type" v="community"/>
-    <tag k="website" v="https://eltisleynewton.com/"/>
-    <tag k="wikidata" v="Q67148344"/>
   </way>
   <way id="406168257" version="3" timestamp="2024-11-19T04:42:53Z" changeset="159308604" uid="4910264" user="Black Tusk">
     <nd ref="4082732904"/>
@@ -1618,6 +1551,19 @@
     <tag k="building" v="house"/>
     <tag k="name" v="Greenacres"/>
   </way>
+  <way id="670016611" version="2" timestamp="2023-01-08T11:31:46Z" changeset="131010432" uid="5173844" user="ndrw6">
+    <nd ref="473830291"/>
+    <nd ref="10314534372"/>
+    <nd ref="10314534373"/>
+    <nd ref="6274730761"/>
+    <nd ref="6274730796"/>
+    <nd ref="6274730793"/>
+    <nd ref="10314534371"/>
+    <nd ref="10314534370"/>
+    <nd ref="473830291"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Orchard Farm"/>
+  </way>
   <way id="670016615" version="5" timestamp="2024-11-19T05:36:22Z" changeset="159309415" uid="4910264" user="Black Tusk">
     <nd ref="6274730866"/>
     <nd ref="6274730958"/>
@@ -1917,43 +1863,214 @@
     <tag k="ref" v="A428"/>
     <tag k="source:ref" v="survey;local knowledge"/>
   </way>
-  <way id="1086560754" version="6" timestamp="2025-03-24T17:52:52Z" changeset="164044937" uid="10420541" user="Thingummy">
-    <nd ref="1309941058"/>
-    <nd ref="2022007265"/>
-    <nd ref="5436264554"/>
-    <nd ref="620988"/>
-    <nd ref="5436264564"/>
-    <nd ref="1309941173"/>
-    <nd ref="5436260720"/>
-    <nd ref="620987"/>
-    <nd ref="343424811"/>
-    <nd ref="293297204"/>
-    <nd ref="1309941178"/>
-    <nd ref="2022007204"/>
-    <nd ref="12461475764"/>
-    <nd ref="1309941095"/>
-    <nd ref="1309632791"/>
-    <nd ref="12366349535"/>
-    <nd ref="2022007209"/>
-    <nd ref="12461475763"/>
-    <nd ref="1309941039"/>
-    <nd ref="2022007212"/>
-    <nd ref="12366349540"/>
-    <nd ref="621001"/>
-    <nd ref="766082781"/>
+  <way id="1128202962" version="1" timestamp="2023-01-08T11:31:46Z" changeset="131010432" uid="5173844" user="ndrw6">
+    <nd ref="10314534237"/>
+    <nd ref="10314534234"/>
+    <nd ref="10314534235"/>
+    <nd ref="10314534236"/>
+    <nd ref="10314534237"/>
+    <tag k="building" v="farm"/>
+    <tag k="name" v="Papley Grove Farm, Eltisley"/>
+    <tag k="source" v="dictaphone"/>
+  </way>
+  <way id="1212118361" version="9" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
     <nd ref="441315400"/>
-    <tag k="construction" v="minor"/>
+    <nd ref="11229850366"/>
+    <nd ref="11229850378"/>
+    <nd ref="11229850380"/>
+    <nd ref="11229850367"/>
+    <nd ref="11229850379"/>
+    <nd ref="11229850368"/>
+    <nd ref="11229850369"/>
+    <nd ref="11229850370"/>
+    <nd ref="11229850371"/>
+    <nd ref="11229850377"/>
+    <nd ref="11229850372"/>
+    <nd ref="11229850373"/>
+    <nd ref="11229850376"/>
+    <nd ref="11229850375"/>
+    <nd ref="11229850374"/>
+    <tag k="access" v="yes"/>
+    <tag k="fut_ref" v="B1428"/>
     <tag k="hazard" v="roadworks"/>
     <tag k="highway" v="trunk"/>
-    <tag k="lanes" v="2"/>
-    <tag k="maxspeed" v="60 mph"/>
-    <tag k="maxspeed:type" v="GB:nsl_single"/>
-    <tag k="name" v="Cambridge Road"/>
-    <tag k="national_highways:area" v="8"/>
-    <tag k="operator" v="National Highways"/>
-    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxspeed:type" v="construction"/>
+    <tag k="opening_date" v="~2025-04-15"/>
+    <tag k="proposed" v="secondary"/>
     <tag k="ref" v="A428"/>
-    <tag k="source:ref" v="survey;local knowledge"/>
+  </way>
+  <way id="1212118363" version="6" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850374"/>
+    <nd ref="12757805102"/>
+    <nd ref="11229850397"/>
+    <nd ref="11229850398"/>
+    <nd ref="12757767497"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="opening_date" v="2027"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1212118368" version="9" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850413"/>
+    <nd ref="11229850414"/>
+    <nd ref="11237393639"/>
+    <nd ref="11229850450"/>
+    <nd ref="11229850415"/>
+    <nd ref="11229850416"/>
+    <nd ref="11237384334"/>
+    <nd ref="11229850455"/>
+    <nd ref="11237384335"/>
+    <nd ref="11229850417"/>
+    <nd ref="11229850418"/>
+    <nd ref="11229850419"/>
+    <nd ref="11237384336"/>
+    <nd ref="11229850478"/>
+    <nd ref="11229850431"/>
+    <nd ref="11229850420"/>
+    <nd ref="11229850421"/>
+    <nd ref="11237393637"/>
+    <nd ref="11229850422"/>
+    <nd ref="11229850423"/>
+    <nd ref="11237393638"/>
+    <nd ref="11229850424"/>
+    <nd ref="11229850413"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="proposed" v="secondary"/>
+  </way>
+  <way id="1212118369" version="10" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850425"/>
+    <nd ref="11229850438"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxspeed:type" v="construction"/>
+    <tag k="name" v="St Ives Road"/>
+    <tag k="opening_date" v="~2025-04-15"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1212118370" version="8" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850426"/>
+    <nd ref="11229850427"/>
+    <nd ref="11229850428"/>
+    <nd ref="11229850422"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="St Ives Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="opening_date" v="2027"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1212118371" version="8" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850420"/>
+    <nd ref="11229850429"/>
+    <nd ref="11229850430"/>
+    <nd ref="11229850426"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="St Ives Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="opening_date" v="2027"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1212118372" version="10" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850387"/>
+    <nd ref="11229850432"/>
+    <nd ref="12757805103"/>
+    <nd ref="11229850425"/>
+    <tag k="foot" v="no"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="horse" v="no"/>
+    <tag k="name" v="St Ives Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1212118375" version="5" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850444"/>
+    <nd ref="11229850445"/>
+    <nd ref="11229850446"/>
+    <nd ref="11229850447"/>
+    <nd ref="11229850448"/>
+    <nd ref="11229850449"/>
+    <nd ref="3206792279"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="St Ives Road"/>
+    <tag k="ref" v="B1040"/>
+  </way>
+  <way id="1212118376" version="4" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850450"/>
+    <nd ref="11229850451"/>
+    <nd ref="11229850452"/>
+    <nd ref="11229850444"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="St Ives Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B1040"/>
+  </way>
+  <way id="1212118377" version="4" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850444"/>
+    <nd ref="11229850453"/>
+    <nd ref="11229850454"/>
+    <nd ref="11229850455"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="St Ives Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B1040"/>
+  </way>
+  <way id="1212118379" version="9" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850466"/>
+    <nd ref="11229850467"/>
+    <nd ref="11229850468"/>
+    <nd ref="11229850469"/>
+    <nd ref="11229850475"/>
+    <nd ref="11229850470"/>
+    <nd ref="11229850471"/>
+    <nd ref="11229850474"/>
+    <nd ref="11229850473"/>
+    <nd ref="11229850472"/>
+    <nd ref="1309941058"/>
+    <tag k="access" v="yes"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="hazard" v="roadworks"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxspeed:type" v="construction"/>
+    <tag k="opening_date" v="~2025-04-15"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1212118380" version="5" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850417"/>
+    <nd ref="11229850476"/>
+    <nd ref="11229850477"/>
+    <nd ref="11229850466"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="opening_date" v="2027"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1212118381" version="6" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850466"/>
+    <nd ref="11229850480"/>
+    <nd ref="11229850481"/>
+    <nd ref="11229850479"/>
+    <nd ref="11229850478"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="opening_date" v="2027"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
   </way>
   <way id="1212919593" version="3" timestamp="2024-12-29T19:31:06Z" changeset="160765333" uid="5229644" user="Nathan_A_RF">
     <nd ref="441315400"/>
@@ -3090,19 +3207,100 @@
     <tag k="ref" v="A428"/>
     <tag k="source:ref" v="survey;local knowledge"/>
   </way>
-  <way id="1371924464" version="1" timestamp="2025-03-26T23:08:49Z" changeset="164141901" uid="10420541" user="Thingummy">
-    <nd ref="1309632791"/>
-    <nd ref="766082694"/>
-    <nd ref="3052263769"/>
-    <nd ref="207538458"/>
-    <nd ref="207538468"/>
-    <nd ref="3052263780"/>
-    <nd ref="473828093"/>
-    <tag k="embankment" v="yes"/>
-    <tag k="highway" v="secondary"/>
-    <tag k="lanes" v="2"/>
+  <way id="1371924462" version="7" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850439"/>
+    <nd ref="11229850426"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxspeed:type" v="construction"/>
     <tag k="name" v="St Ives Road"/>
-    <tag k="ref" v="B1040"/>
+    <tag k="opening_date" v="~2025-04-15"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1371924463" version="6" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850438"/>
+    <nd ref="11229850439"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="St Ives Road"/>
+    <tag k="opening_date" v="~2025-04-15"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1377815896" version="4" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="12757767487"/>
+    <nd ref="12757767488"/>
+    <nd ref="12757787909"/>
+    <nd ref="11229850391"/>
+    <nd ref="12757767489"/>
+    <nd ref="12757767490"/>
+    <nd ref="12757767491"/>
+    <nd ref="12757767492"/>
+    <nd ref="11229850412"/>
+    <nd ref="12757767493"/>
+    <nd ref="11229850382"/>
+    <nd ref="12757767494"/>
+    <nd ref="12757767495"/>
+    <nd ref="12757787905"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="proposed" v="secondary"/>
+  </way>
+  <way id="1380083642" version="2" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="12757787905"/>
+    <nd ref="12757787906"/>
+    <nd ref="12757767496"/>
+    <nd ref="12757767497"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="proposed" v="secondary"/>
+  </way>
+  <way id="1380083643" version="2" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850387"/>
+    <nd ref="12757767485"/>
+    <nd ref="12757767486"/>
+    <nd ref="12757767487"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="proposed" v="secondary"/>
+  </way>
+  <way id="1380083644" version="2" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="12757767497"/>
+    <nd ref="12757767498"/>
+    <nd ref="12757767499"/>
+    <nd ref="12757767484"/>
+    <nd ref="11229850387"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="proposed" v="secondary"/>
+  </way>
+  <way id="1380083645" version="2" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="12757787905"/>
+    <nd ref="12757787907"/>
+    <nd ref="11229850374"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
+  </way>
+  <way id="1380083646" version="2" timestamp="2025-04-24T20:36:02Z" changeset="165397534" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11229850425"/>
+    <nd ref="11229850434"/>
+    <nd ref="12754592411"/>
+    <nd ref="12757767487"/>
+    <tag k="fut_ref" v="B1428"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="name" v="St Ives Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="proposed" v="secondary"/>
+    <tag k="ref" v="A428"/>
   </way>
 
 </osm>

@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:17:55Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="36636900" lat="52.4777126" lon="0.0350011" version="12" timestamp="2021-07-10T22:11:40Z" changeset="107764093" uid="11022773" user="GeoFens"/>
   <node id="129996873" lat="52.4967107" lon="0.0603647" version="8" timestamp="2016-12-16T19:36:18Z" changeset="44455104" uid="90142" user="andy mackey"/>
-  <node id="301335220" lat="52.4974497" lon="0.0586383" version="4" timestamp="2012-10-11T13:26:47Z" changeset="13454361" uid="322785" user="BCNorwich"/>
-  <node id="301335235" lat="52.4991507" lon="0.0178208" version="4" timestamp="2021-07-25T12:22:45Z" changeset="108563354" uid="11022773" user="GeoFens"/>
-  <node id="301632345" lat="52.4742623" lon="-0.0619795" version="5" timestamp="2016-03-01T19:56:41Z" changeset="37553199" uid="1431482" user="JonOrchard"/>
-  <node id="312618678" lat="52.5234556" lon="-0.0007828" version="2" timestamp="2012-03-09T14:54:23Z" changeset="10920805" uid="504708" user="HillWithSmallFields"/>
+  <node id="301335244" lat="52.5018109" lon="-0.0022571" version="5" timestamp="2024-11-10T02:45:13Z" changeset="158954320" uid="13792107" user="LordGarySugar"/>
+  <node id="301631844" lat="52.5046760" lon="-0.0439612" version="3" timestamp="2021-11-26T07:40:00Z" changeset="114251084" uid="9902286" user="di5order"/>
+  <node id="301632340" lat="52.4830283" lon="-0.0401885" version="2" timestamp="2011-12-02T12:39:58Z" changeset="10016274" uid="504708" user="HillWithSmallFields"/>
   <node id="312620282" lat="52.4538991" lon="-0.0332954" version="6" timestamp="2011-11-16T13:28:42Z" changeset="9844704" uid="61216" user="UniEagle"/>
-  <node id="349039655" lat="52.5111099" lon="-0.0484599" version="2" timestamp="2021-11-26T07:40:00Z" changeset="114251084" uid="9902286" user="di5order"/>
-  <node id="1461417780" lat="52.4992385" lon="0.0169234" version="1" timestamp="2011-10-10T16:58:23Z" changeset="9523520" uid="504708" user="HillWithSmallFields"/>
-  <node id="1772827413" lat="52.4984442" lon="0.0538877" version="2" timestamp="2024-06-26T21:39:49Z" changeset="153221927" uid="5173844" user="ndrw6"/>
-  <node id="7719019081" lat="52.4983627" lon="0.0562215" version="2" timestamp="2024-06-26T21:39:49Z" changeset="153221927" uid="5173844" user="ndrw6"/>
+  <node id="371794490" lat="52.4731671" lon="-0.0308894" version="3" timestamp="2016-03-01T19:58:21Z" changeset="37553260" uid="1431482" user="JonOrchard"/>
+  <node id="7565162186" lat="52.5204563" lon="-0.0006419" version="2" timestamp="2024-05-23T21:42:11Z" changeset="151744380" uid="21571385" user="JeffSergeant"/>
+  <node id="11691347892" lat="52.5216723" lon="-0.0007634" version="1" timestamp="2024-03-04T16:44:34Z" changeset="148215751" uid="10420541" user="Thingummy"/>
   <way id="5214282" version="15" timestamp="2021-07-10T21:55:11Z" changeset="107763722" uid="11022773" user="GeoFens">
     <nd ref="36636900"/>
     <nd ref="3092242889"/>
@@ -51,7 +49,7 @@
     <tag k="maxspeed" v="50 mph"/>
     <tag k="name" v="Forty Foot Bank"/>
   </way>
-  <way id="27445234" version="32" timestamp="2024-11-10T02:45:14Z" changeset="158954320" uid="13792107" user="LordGarySugar">
+  <way id="27445234" version="33" timestamp="2025-04-18T07:13:58Z" changeset="165098037" uid="22685556" user="AH9999">
     <nd ref="129996873"/>
     <nd ref="1958472362"/>
     <nd ref="1958472374"/>
@@ -138,7 +136,8 @@
     <nd ref="8948640349"/>
     <nd ref="301335244"/>
     <tag k="highway" v="secondary"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Benwick Road"/>
     <tag k="ref" v="B1093"/>
     <tag k="source" v="GPS"/>
@@ -800,33 +799,6 @@
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Benwick Village Hall"/>
   </way>
-  <way id="232140557" version="6" timestamp="2024-09-17T00:39:17Z" changeset="156709567" uid="21226027" user="DorneyLake123">
-    <nd ref="2405112242"/>
-    <nd ref="2405112306"/>
-    <nd ref="2405112224"/>
-    <nd ref="2405112240"/>
-    <nd ref="2405112233"/>
-    <nd ref="2405112314"/>
-    <nd ref="2405112286"/>
-    <nd ref="2405112337"/>
-    <nd ref="2405112351"/>
-    <nd ref="2405112304"/>
-    <nd ref="2405112345"/>
-    <nd ref="2405112320"/>
-    <nd ref="2405112358"/>
-    <nd ref="2405112340"/>
-    <nd ref="2405112242"/>
-    <tag k="addr:city" v="March"/>
-    <tag k="addr:postcode" v="PE15 0XA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="140"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Benwick Primary School"/>
-    <tag k="ref:edubase" v="110627"/>
-    <tag k="wikidata" v="Q66223512"/>
-  </way>
   <way id="465222911" version="4" timestamp="2024-11-10T02:45:14Z" changeset="158954320" uid="13792107" user="LordGarySugar">
     <nd ref="301632329"/>
     <nd ref="12327837557"/>
@@ -896,6 +868,15 @@
     <tag k="name" v="Flood's Ferry Road"/>
     <tag k="source" v="GPS"/>
     <tag k="source:name" v="OS OpenData Locator"/>
+  </way>
+  <way id="963296765" version="1" timestamp="2021-07-10T21:55:11Z" changeset="107763722" uid="11022773" user="GeoFens">
+    <nd ref="8910563074"/>
+    <nd ref="8910563075"/>
+    <nd ref="8910563076"/>
+    <nd ref="8910563077"/>
+    <nd ref="8910563074"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bank Farm Cottages"/>
   </way>
   <way id="1257529568" version="1" timestamp="2024-03-04T16:44:34Z" changeset="148215751" uid="10420541" user="Thingummy">
     <nd ref="7565162186"/>

@@ -1,85 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="383439" lat="52.3868103" lon="-0.2584325" version="14" timestamp="2020-01-02T17:46:08Z" changeset="79124493" uid="5229644" user="Nathan_A_RF"/>
   <node id="24973213" lat="52.4095981" lon="-0.2280583" version="5" timestamp="2023-08-03T21:39:53Z" changeset="139414104" uid="13341565" user="Falsernet"/>
   <node id="246538022" lat="52.4046316" lon="-0.2221983" version="4" timestamp="2023-08-03T21:39:53Z" changeset="139414104" uid="13341565" user="Falsernet"/>
-  <node id="246538215" lat="52.3887662" lon="-0.2538532" version="7" timestamp="2023-08-03T21:39:53Z" changeset="139414104" uid="13341565" user="Falsernet"/>
-  <node id="246540169" lat="52.3876606" lon="-0.2578631" version="5" timestamp="2016-07-23T19:11:22Z" changeset="40977769" uid="2773866" user="kreuzschnabel"/>
+  <node id="259555955" lat="52.4199286" lon="-0.2675413" version="1" timestamp="2008-04-23T22:41:37Z" changeset="245242" uid="5538" user="Aled">
+    <tag k="created_by" v="JOSM"/>
+  </node>
   <node id="259564166" lat="52.4975087" lon="-0.2900812" version="10" timestamp="2018-09-13T18:32:36Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="259564170" lat="52.4974408" lon="-0.2903051" version="16" timestamp="2018-09-13T18:32:36Z" changeset="62561387" uid="2773866" user="kreuzschnabel">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Norman Cross"/>
-    <tag k="ref" v="16"/>
-  </node>
   <node id="312353043" lat="52.4148966" lon="-0.3254431" version="7" timestamp="2011-06-05T18:30:52Z" changeset="8352431" uid="7098" user="richardm565"/>
-  <node id="344781664" lat="52.4076617" lon="-0.2843784" version="1" timestamp="2009-02-12T21:47:32Z" changeset="374203" uid="91225" user="tms13">
-    <tag k="created_by" v="Merkaartor 0.12"/>
-  </node>
+  <node id="335387159" lat="52.4236250" lon="-0.2685128" version="2" timestamp="2018-09-13T18:32:37Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
+  <node id="335387160" lat="52.4235977" lon="-0.2687809" version="2" timestamp="2018-09-13T18:32:37Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
   <node id="971082504" lat="52.4573663" lon="-0.2996472" version="2" timestamp="2020-05-26T10:55:51Z" changeset="85763556" uid="90142" user="andy mackey"/>
-  <node id="1008994896" lat="52.4453155" lon="-0.2599260" version="2" timestamp="2020-12-22T02:33:26Z" changeset="96223993" uid="11558580" user="jaabhil"/>
-  <node id="1133629774" lat="52.4384574" lon="-0.2848395" version="6" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="PE28 5UR"/>
-    <tag k="addr:street" v="Greenways"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="fhrs:id" v="696992"/>
-    <tag k="name" v="Sawtry Mini Market"/>
-    <tag k="opening_hours" v="Mo-Fr 07:00-19:00; Sa 08:00-19:00; Su 09:00-18:00"/>
-    <tag k="ref:pol_id" v="139976"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
-    <tag k="source:name" v="FSA Food Hygiene Ratings Database"/>
-    <tag k="source:opening_hours" v="pol_branch_list_2018-02"/>
-    <tag k="source:post_office" v="pol_branch_list_2018-02"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="1133629971" lat="52.4387521" lon="-0.2850106" version="5" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE28 5UR"/>
-    <tag k="addr:street" v="Greenways"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="fish_and_chips"/>
-    <tag k="name" v="Sawtry Takeaway"/>
-    <tag k="source:addr" v="interpolation"/>
-  </node>
-  <node id="1395336862" lat="52.4385081" lon="-0.2848717" version="3" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="PE28 5UR"/>
-    <tag k="addr:street" v="Greenways"/>
-    <tag k="name" v="Rumours"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="source:addr" v="url"/>
-    <tag k="source:name" v="url"/>
-    <tag k="url" v="https://www.rumours-hair.com/"/>
-  </node>
-  <node id="1395336863" lat="52.4383973" lon="-0.2847993" version="3" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="PE28 5UR"/>
-    <tag k="addr:street" v="Greenways"/>
-    <tag k="fhrs:id" v="446578"/>
-    <tag k="name" v="Sawtry Newscabin"/>
-    <tag k="shop" v="newsagent"/>
-    <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
-    <tag k="source:name" v="FSA Food Hygiene Ratings Database"/>
-  </node>
-  <node id="1395336867" lat="52.4386103" lon="-0.2849361" version="4" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="PE28 5UR"/>
-    <tag k="addr:street" v="Greenways"/>
-    <tag k="name" v="CARESCO"/>
-    <tag k="shop" v="charity"/>
-    <tag k="source:addr" v="url"/>
-    <tag k="url" v="http://www.caresco.org.uk/?page=charityshop"/>
-  </node>
-  <node id="1551701257" lat="52.4522562" lon="-0.2782934" version="2" timestamp="2021-09-07T14:05:31Z" changeset="110862609" uid="281267" user="smb1001"/>
-  <node id="4583552274" lat="52.3953148" lon="-0.2608331" version="3" timestamp="2018-09-13T18:32:39Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
+  <node id="1008994905" lat="52.4448564" lon="-0.2665976" version="3" timestamp="2017-11-24T18:57:50Z" changeset="54057567" uid="52797" user="hofoen"/>
+  <node id="1086892322" lat="52.4097644" lon="-0.2837450" version="1" timestamp="2011-01-06T21:56:58Z" changeset="6887621" uid="90142" user="andy mackey"/>
+  <node id="1551701341" lat="52.4495511" lon="-0.2774049" version="1" timestamp="2011-12-18T10:19:04Z" changeset="10144980" uid="28024" user="dbisping"/>
   <way id="4214306" version="8" timestamp="2023-04-11T08:48:14Z" changeset="134763451" uid="3244052" user="MapperTwo">
     <nd ref="24973324"/>
     <nd ref="1551701323"/>
@@ -380,7 +317,7 @@
     <tag k="oneway" v="yes"/>
     <tag k="source:maxspeed" v="Stats19"/>
   </way>
-  <way id="4469660" version="7" timestamp="2021-08-26T13:28:05Z" changeset="110289039" uid="242345" user="confusedbuffalo">
+  <way id="4469660" version="8" timestamp="2025-04-11T17:02:25Z" changeset="164825925" uid="11022773" user="GeoFens">
     <nd ref="27397089"/>
     <nd ref="1551657577"/>
     <nd ref="1551657578"/>
@@ -396,6 +333,7 @@
     <nd ref="27397103"/>
     <nd ref="27397107"/>
     <nd ref="27397111"/>
+    <nd ref="12748220495"/>
     <nd ref="27397114"/>
     <nd ref="27397116"/>
     <nd ref="27397087"/>
@@ -1800,6 +1738,24 @@
     <tag k="name" v="Papyrus Way"/>
     <tag k="source" v="survey"/>
   </way>
+  <way id="31266546" version="4" timestamp="2024-05-23T10:18:07Z" changeset="151715337" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="347704072"/>
+    <nd ref="1389069548"/>
+    <nd ref="1389069560"/>
+    <nd ref="347704073"/>
+    <nd ref="347704074"/>
+    <nd ref="1389069557"/>
+    <nd ref="1389069554"/>
+    <nd ref="347704077"/>
+    <nd ref="347704072"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 5UR"/>
+    <tag k="addr:suburb" v="Sawtry"/>
+    <tag k="building" v="yes"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Greenways"/>
+  </way>
   <way id="31266549" version="3" timestamp="2011-08-07T02:30:01Z" changeset="8943265" uid="490349" user="Huntsab">
     <nd ref="347704078"/>
     <nd ref="347704082"/>
@@ -2652,6 +2608,35 @@
     <tag k="surface" v="asphalt"/>
     <tag k="survey" v="no"/>
   </way>
+  <way id="116812438" version="1" timestamp="2011-06-08T11:22:56Z" changeset="8378562" uid="90142" user="andy mackey">
+    <nd ref="1316052862"/>
+    <nd ref="1316052865"/>
+    <nd ref="1316052867"/>
+    <nd ref="1316052868"/>
+    <nd ref="1316052862"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="farm shed"/>
+  </way>
+  <way id="116812456" version="1" timestamp="2011-06-08T11:22:57Z" changeset="8378562" uid="90142" user="andy mackey">
+    <nd ref="1316052897"/>
+    <nd ref="1316052910"/>
+    <nd ref="1316052905"/>
+    <nd ref="1316052911"/>
+    <nd ref="1316052897"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="farm shed"/>
+  </way>
+  <way id="116812470" version="1" timestamp="2011-06-08T11:22:58Z" changeset="8378562" uid="90142" user="andy mackey">
+    <nd ref="1316052833"/>
+    <nd ref="1316052836"/>
+    <nd ref="1316052840"/>
+    <nd ref="1316052847"/>
+    <nd ref="1316052852"/>
+    <nd ref="1316052855"/>
+    <nd ref="1316052833"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="farm house"/>
+  </way>
   <way id="124652956" version="4" timestamp="2022-05-11T11:23:30Z" changeset="120833925" uid="363301" user="CarbonWriter">
     <nd ref="1386741548"/>
     <nd ref="347694910"/>
@@ -2701,6 +2686,18 @@
     <nd ref="1389046456"/>
     <tag k="highway" v="residential"/>
   </way>
+  <way id="124953464" version="1" timestamp="2011-08-07T01:58:41Z" changeset="8943265" uid="490349" user="Huntsab">
+    <nd ref="1389065843"/>
+    <nd ref="1389065852"/>
+    <nd ref="1389065860"/>
+    <nd ref="1389065876"/>
+    <nd ref="1389065871"/>
+    <nd ref="1389065855"/>
+    <nd ref="1389065868"/>
+    <nd ref="1389065843"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Working Mens' Club"/>
+  </way>
   <way id="124953466" version="2" timestamp="2024-08-28T17:59:20Z" changeset="155893675" uid="2921287" user="Taktaal">
     <nd ref="1389037095"/>
     <nd ref="1389046456"/>
@@ -2722,6 +2719,30 @@
     <tag k="name" v="Deerpark Road"/>
     <tag k="source" v="survey"/>
   </way>
+  <way id="124953467" version="5" timestamp="2024-05-23T10:18:07Z" changeset="151715337" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="1389065873"/>
+    <nd ref="1389065874"/>
+    <nd ref="1389065857"/>
+    <nd ref="1389065849"/>
+    <nd ref="1389065844"/>
+    <nd ref="1389065840"/>
+    <nd ref="1389065882"/>
+    <nd ref="1389065875"/>
+    <nd ref="1389065859"/>
+    <nd ref="1389065851"/>
+    <nd ref="1389065847"/>
+    <nd ref="1389065861"/>
+    <nd ref="1389065839"/>
+    <nd ref="1389065873"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 5ST"/>
+    <tag k="addr:suburb" v="Sawtry"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Greystones"/>
+    <tag k="wikidata" v="Q26423244"/>
+  </way>
   <way id="125676142" version="4" timestamp="2020-09-03T10:18:33Z" changeset="90354973" uid="1302721" user="Glucosamine">
     <nd ref="347807415"/>
     <nd ref="2357602701"/>
@@ -2733,6 +2754,177 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Chestnut Close"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="125691224" version="5" timestamp="2024-10-21T17:15:45Z" changeset="158180114" uid="21226027" user="DorneyLake123">
+    <nd ref="1395393343"/>
+    <nd ref="1395393332"/>
+    <nd ref="1395393364"/>
+    <nd ref="1395393351"/>
+    <nd ref="1395393368"/>
+    <nd ref="1395393337"/>
+    <nd ref="1395393371"/>
+    <nd ref="1395393375"/>
+    <nd ref="1395393327"/>
+    <nd ref="1395393350"/>
+    <nd ref="1395393354"/>
+    <nd ref="1395393329"/>
+    <nd ref="1395393377"/>
+    <nd ref="1395393331"/>
+    <nd ref="1395393365"/>
+    <nd ref="1395393326"/>
+    <nd ref="1395393373"/>
+    <nd ref="1395393370"/>
+    <nd ref="1395393334"/>
+    <nd ref="1395393348"/>
+    <nd ref="1395393353"/>
+    <nd ref="1395393336"/>
+    <nd ref="1395393356"/>
+    <nd ref="1395393322"/>
+    <nd ref="1395393343"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building" v="school"/>
+    <tag k="name" v="Sawtry County Junior School"/>
+    <tag k="ref:edubase" v="143575"/>
+  </way>
+  <way id="125691225" version="4" timestamp="2024-10-21T17:15:45Z" changeset="158180114" uid="21226027" user="DorneyLake123">
+    <nd ref="1395393358"/>
+    <nd ref="1395393344"/>
+    <nd ref="1395393335"/>
+    <nd ref="1395393323"/>
+    <nd ref="1395393376"/>
+    <nd ref="1395393321"/>
+    <nd ref="1395393369"/>
+    <nd ref="1395393333"/>
+    <nd ref="1395393330"/>
+    <nd ref="1395393352"/>
+    <nd ref="1395393342"/>
+    <nd ref="1395393345"/>
+    <nd ref="1395393328"/>
+    <nd ref="1395393339"/>
+    <nd ref="1395393338"/>
+    <nd ref="1395393340"/>
+    <nd ref="1395393341"/>
+    <nd ref="1395393325"/>
+    <nd ref="1395393346"/>
+    <nd ref="1395393367"/>
+    <nd ref="1395393378"/>
+    <nd ref="1395393349"/>
+    <nd ref="1395393355"/>
+    <nd ref="1395393359"/>
+    <nd ref="1395393360"/>
+    <nd ref="1395393363"/>
+    <nd ref="1395393324"/>
+    <nd ref="1395393347"/>
+    <nd ref="1395393374"/>
+    <nd ref="1395393366"/>
+    <nd ref="1395393362"/>
+    <nd ref="1395393357"/>
+    <nd ref="1395393361"/>
+    <nd ref="1395393358"/>
+    <tag k="amenity" v="school"/>
+    <tag k="building" v="school"/>
+    <tag k="name" v="Sawtry County Infant School"/>
+    <tag k="ref:edubase" v="110714"/>
+  </way>
+  <way id="127772873" version="1" timestamp="2011-08-26T17:44:47Z" changeset="9131256" uid="490349" user="Huntsab">
+    <nd ref="1413508997"/>
+    <nd ref="1413508963"/>
+    <nd ref="1413508981"/>
+    <nd ref="1413508957"/>
+    <nd ref="1413508959"/>
+    <nd ref="1413508983"/>
+    <nd ref="1413508973"/>
+    <nd ref="1413508982"/>
+    <nd ref="1413508997"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sawtry Bowling Club"/>
+  </way>
+  <way id="127772874" version="2" timestamp="2011-08-26T18:06:41Z" changeset="9131256" uid="490349" user="Huntsab">
+    <nd ref="1413509009"/>
+    <nd ref="1413508976"/>
+    <nd ref="1413547816"/>
+    <nd ref="1413547833"/>
+    <nd ref="1413547819"/>
+    <nd ref="1413547848"/>
+    <nd ref="1413547821"/>
+    <nd ref="1413547852"/>
+    <nd ref="1413547865"/>
+    <nd ref="1413547842"/>
+    <nd ref="1413547836"/>
+    <nd ref="1413547845"/>
+    <nd ref="1413509001"/>
+    <nd ref="1413547875"/>
+    <nd ref="1413547854"/>
+    <nd ref="1413547859"/>
+    <nd ref="1413509009"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Bell Inn"/>
+  </way>
+  <way id="127784201" version="1" timestamp="2011-08-26T18:42:37Z" changeset="9131256" uid="490349" user="Huntsab">
+    <nd ref="1413588958"/>
+    <nd ref="1413588939"/>
+    <nd ref="1413588929"/>
+    <nd ref="1413588944"/>
+    <nd ref="1413588954"/>
+    <nd ref="1413588926"/>
+    <nd ref="1413588924"/>
+    <nd ref="1413588959"/>
+    <nd ref="1413588958"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kelvin Cooper's"/>
+    <tag k="shop" v="car_repair"/>
+  </way>
+  <way id="127784203" version="5" timestamp="2023-09-07T20:26:46Z" changeset="140957277" uid="6816132" user="CjMalone">
+    <nd ref="1413588930"/>
+    <nd ref="1413600495"/>
+    <nd ref="1413588931"/>
+    <nd ref="1413588917"/>
+    <nd ref="1413588927"/>
+    <nd ref="1413588934"/>
+    <nd ref="1413588916"/>
+    <nd ref="1413588921"/>
+    <nd ref="1413588922"/>
+    <nd ref="1413588961"/>
+    <nd ref="1413588919"/>
+    <nd ref="1413588932"/>
+    <nd ref="1413588948"/>
+    <nd ref="1413588960"/>
+    <nd ref="1413588923"/>
+    <nd ref="1413588950"/>
+    <nd ref="1413588947"/>
+    <nd ref="1413588930"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Co-op Funerals"/>
+    <tag k="operator" v="Central England Co-operative"/>
+    <tag k="operator:wikidata" v="Q16986583"/>
+    <tag k="shop" v="funeral_directors"/>
+    <tag k="website" v="https://stores.centralengland.coop/cambridgeshire/huntingdon/98-green-end-road"/>
+  </way>
+  <way id="127784206" version="2" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
+    <nd ref="1413588946"/>
+    <nd ref="1413588955"/>
+    <nd ref="1413588942"/>
+    <nd ref="1413588962"/>
+    <nd ref="1413588936"/>
+    <nd ref="1413588940"/>
+    <nd ref="1413588952"/>
+    <nd ref="1413588920"/>
+    <nd ref="1413588946"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Head Bangers"/>
+    <tag k="shop" v="hairdresser"/>
+  </way>
+  <way id="127936744" version="1" timestamp="2011-08-27T14:39:09Z" changeset="9138092" uid="490349" user="Huntsab">
+    <nd ref="1414813716"/>
+    <nd ref="1414813786"/>
+    <nd ref="1414813821"/>
+    <nd ref="1414813750"/>
+    <nd ref="1414813722"/>
+    <nd ref="1414813807"/>
+    <nd ref="1414813716"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Old School Hall"/>
   </way>
   <way id="127950144" version="1" timestamp="2011-08-27T15:56:02Z" changeset="9139152" uid="490349" user="Huntsab">
     <nd ref="1414911646"/>
@@ -2780,6 +2972,23 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Newton Road"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="135349845" version="4" timestamp="2020-02-13T16:48:09Z" changeset="80967934" uid="281267" user="smb1001">
+    <nd ref="1486491817"/>
+    <nd ref="1486491777"/>
+    <nd ref="1486491781"/>
+    <nd ref="1486491778"/>
+    <nd ref="1486491786"/>
+    <nd ref="1486491802"/>
+    <nd ref="1486491789"/>
+    <nd ref="1486491817"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints Church"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q5116805"/>
+    <tag k="wikipedia" v="en:Church of All Saints, Sawtry"/>
   </way>
   <way id="139117335" version="2" timestamp="2012-01-06T13:48:45Z" changeset="10310447" uid="504708" user="HillWithSmallFields">
     <nd ref="1579413810"/>
@@ -2966,6 +3175,179 @@
     <nd ref="1671973924"/>
     <nd ref="1671973937"/>
     <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="160461653" version="2" timestamp="2023-07-04T20:44:50Z" changeset="138122466" uid="11022773" user="GeoFens">
+    <nd ref="1725188721"/>
+    <nd ref="1725188722"/>
+    <nd ref="1725188719"/>
+    <nd ref="1725188720"/>
+    <nd ref="1725188715"/>
+    <nd ref="1725188714"/>
+    <nd ref="1725188717"/>
+    <nd ref="1725188718"/>
+    <nd ref="1725188721"/>
+    <tag k="building" v="pavilion"/>
+    <tag k="name" v="Sawtry Colts Football Club"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="167523776" version="1" timestamp="2012-06-15T22:02:16Z" changeset="11909507" uid="490349" user="Huntsab">
+    <nd ref="1789132036"/>
+    <nd ref="1789132089"/>
+    <nd ref="1789132019"/>
+    <nd ref="1789132047"/>
+    <nd ref="1789132104"/>
+    <nd ref="1789132103"/>
+    <nd ref="1789132078"/>
+    <nd ref="1789132088"/>
+    <nd ref="1789132013"/>
+    <nd ref="1789132100"/>
+    <nd ref="1789132036"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="New Block"/>
+  </way>
+  <way id="167523778" version="3" timestamp="2020-08-31T22:39:46Z" changeset="90213130" uid="11022773" user="GeoFens">
+    <nd ref="1789132049"/>
+    <nd ref="1789132107"/>
+    <nd ref="1789132065"/>
+    <nd ref="1789132068"/>
+    <nd ref="1789132008"/>
+    <nd ref="1789132020"/>
+    <nd ref="1789132027"/>
+    <nd ref="1789132097"/>
+    <nd ref="1789132110"/>
+    <nd ref="1789132105"/>
+    <nd ref="1789132072"/>
+    <nd ref="1789132083"/>
+    <nd ref="1789132106"/>
+    <nd ref="1789132017"/>
+    <nd ref="1789132108"/>
+    <nd ref="1789132066"/>
+    <nd ref="1789132029"/>
+    <nd ref="1789132067"/>
+    <nd ref="1789132037"/>
+    <nd ref="1789132069"/>
+    <nd ref="1789132044"/>
+    <nd ref="1789132049"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="Lifestyles at Sawtry"/>
+  </way>
+  <way id="167523779" version="2" timestamp="2012-06-19T17:51:40Z" changeset="11950697" uid="490349" user="Huntsab">
+    <nd ref="1789132007"/>
+    <nd ref="1789132050"/>
+    <nd ref="1789132099"/>
+    <nd ref="1789132024"/>
+    <nd ref="1789132074"/>
+    <nd ref="1789132064"/>
+    <nd ref="1789132007"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Old Youth Centre"/>
+  </way>
+  <way id="167523782" version="5" timestamp="2024-05-23T10:18:07Z" changeset="151715337" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="1789132039"/>
+    <nd ref="1789132063"/>
+    <nd ref="1789132084"/>
+    <nd ref="1789132057"/>
+    <nd ref="1789132005"/>
+    <nd ref="1789132043"/>
+    <nd ref="1789132080"/>
+    <nd ref="1789132033"/>
+    <nd ref="1789132054"/>
+    <nd ref="1789132014"/>
+    <nd ref="1789132082"/>
+    <nd ref="1789132011"/>
+    <nd ref="1789132035"/>
+    <nd ref="1789132015"/>
+    <nd ref="1789132056"/>
+    <nd ref="1789132098"/>
+    <nd ref="1789132031"/>
+    <nd ref="1789132012"/>
+    <nd ref="1789132085"/>
+    <nd ref="1789132070"/>
+    <nd ref="1789132111"/>
+    <nd ref="1789132090"/>
+    <nd ref="1789132032"/>
+    <nd ref="1789132009"/>
+    <nd ref="1789132040"/>
+    <nd ref="1789132079"/>
+    <nd ref="1789132061"/>
+    <nd ref="1789132028"/>
+    <nd ref="1789132081"/>
+    <nd ref="1789132075"/>
+    <nd ref="1789132096"/>
+    <nd ref="1789132030"/>
+    <nd ref="1789132086"/>
+    <nd ref="1789132073"/>
+    <nd ref="1789132023"/>
+    <nd ref="1789132038"/>
+    <nd ref="1789132046"/>
+    <nd ref="1789132109"/>
+    <nd ref="1789132004"/>
+    <nd ref="1789132039"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 5TQ"/>
+    <tag k="addr:suburb" v="Sawtry"/>
+    <tag k="building" v="school"/>
+    <tag k="name" v="Sawtry Village College"/>
+  </way>
+  <way id="167523783" version="1" timestamp="2012-06-15T22:02:17Z" changeset="11909507" uid="490349" user="Huntsab">
+    <nd ref="1789132051"/>
+    <nd ref="1789132034"/>
+    <nd ref="1789132055"/>
+    <nd ref="1789132053"/>
+    <nd ref="1789132077"/>
+    <nd ref="1789132018"/>
+    <nd ref="1789132051"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Old Swimming Pool"/>
+  </way>
+  <way id="167523785" version="4" timestamp="2017-09-07T13:14:24Z" changeset="51812101" uid="873940" user="Mike Baggaley">
+    <nd ref="1789132062"/>
+    <nd ref="1789132006"/>
+    <nd ref="1789132026"/>
+    <nd ref="1789132048"/>
+    <nd ref="1789132062"/>
+    <tag k="building" v="college"/>
+    <tag k="name" v="Sports Hall"/>
+  </way>
+  <way id="167528989" version="1" timestamp="2012-06-15T22:47:25Z" changeset="11909507" uid="490349" user="Huntsab">
+    <nd ref="1789176999"/>
+    <nd ref="1789176981"/>
+    <nd ref="1789177004"/>
+    <nd ref="1789177014"/>
+    <nd ref="1789176999"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sawtry Day Nursery"/>
+  </way>
+  <way id="167528997" version="6" timestamp="2020-09-05T12:53:24Z" changeset="90452461" uid="1302721" user="Glucosamine">
+    <nd ref="1789177047"/>
+    <nd ref="7863096294"/>
+    <nd ref="7863096295"/>
+    <nd ref="7878358277"/>
+    <nd ref="7863096296"/>
+    <nd ref="7863096293"/>
+    <nd ref="1789176996"/>
+    <nd ref="1789177018"/>
+    <nd ref="1789177021"/>
+    <nd ref="1794754365"/>
+    <nd ref="1789177047"/>
+    <tag k="amenity" v="library"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sawtry Library"/>
+    <tag k="wikidata" v="Q55163460"/>
+  </way>
+  <way id="167528998" version="2" timestamp="2020-08-31T22:39:46Z" changeset="90213130" uid="11022773" user="GeoFens">
+    <nd ref="1789177035"/>
+    <nd ref="1789177017"/>
+    <nd ref="1789177019"/>
+    <nd ref="1789177030"/>
+    <nd ref="1789176988"/>
+    <nd ref="1789177048"/>
+    <nd ref="1789177035"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Caresco"/>
   </way>
   <way id="168213572" version="1" timestamp="2012-06-19T21:28:32Z" changeset="11953093" uid="490349" user="Huntsab">
     <nd ref="347820438"/>
@@ -3285,6 +3667,21 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="227028998" version="4" timestamp="2024-04-21T08:28:40Z" changeset="150291514" uid="6816132" user="CjMalone">
+    <nd ref="2357602644"/>
+    <nd ref="2357602603"/>
+    <nd ref="2357602569"/>
+    <nd ref="2357602576"/>
+    <nd ref="2357602644"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Boots"/>
+    <tag k="brand:wikidata" v="Q6123139"/>
+    <tag k="brand:wikipedia" v="en:Boots UK"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Boots"/>
+    <tag k="website" v="https://www.boots.com/stores/6258-sawtry-high-street-pe28-5su"/>
+  </way>
   <way id="227029000" version="1" timestamp="2013-06-23T18:46:00Z" changeset="16674054" uid="490349" user="Huntsab">
     <nd ref="347807408"/>
     <nd ref="347807411"/>
@@ -3300,6 +3697,18 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Farm Close"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="227029003" version="1" timestamp="2013-06-23T18:46:00Z" changeset="16674054" uid="490349" user="Huntsab">
+    <nd ref="2357602693"/>
+    <nd ref="2357602617"/>
+    <nd ref="2357602607"/>
+    <nd ref="2357602647"/>
+    <nd ref="2357602626"/>
+    <nd ref="2357602582"/>
+    <nd ref="2357602693"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hoskin's"/>
+    <tag k="shop" v="convenience"/>
   </way>
   <way id="227029004" version="1" timestamp="2013-06-23T18:46:00Z" changeset="16674054" uid="490349" user="Huntsab">
     <nd ref="2357602654"/>
@@ -3321,6 +3730,37 @@
     <nd ref="312353354"/>
     <tag k="highway" v="tertiary"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="227029009" version="2" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
+    <nd ref="2357602641"/>
+    <nd ref="2357602573"/>
+    <nd ref="2357602696"/>
+    <nd ref="2357602563"/>
+    <nd ref="2357602641"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="name" v="Wellside Surgery"/>
+  </way>
+  <way id="232643077" version="2" timestamp="2017-11-24T18:57:54Z" changeset="54057567" uid="52797" user="hofoen">
+    <nd ref="2409830292"/>
+    <nd ref="2409830305"/>
+    <nd ref="2409830295"/>
+    <nd ref="2409830302"/>
+    <nd ref="2409830308"/>
+    <nd ref="2409830291"/>
+    <nd ref="2409830306"/>
+    <nd ref="2409830293"/>
+    <nd ref="2409830304"/>
+    <nd ref="2409830303"/>
+    <nd ref="2409830307"/>
+    <nd ref="2409830296"/>
+    <nd ref="2409830292"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="name" v="Sawtry Methodist Church"/>
+    <tag k="religion" v="christian"/>
   </way>
   <way id="232899131" version="9" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
     <nd ref="1551701188"/>
@@ -3560,6 +4000,28 @@
     <tag k="name" v="Brookside"/>
     <tag k="source" v="survey"/>
   </way>
+  <way id="296525847" version="7" timestamp="2024-07-15T16:01:25Z" changeset="153979415" uid="21425661" user="CjMalone">
+    <nd ref="3003134483"/>
+    <nd ref="3425030832"/>
+    <nd ref="3003134484"/>
+    <nd ref="3670173076"/>
+    <nd ref="3670173077"/>
+    <nd ref="3003134485"/>
+    <nd ref="3425030827"/>
+    <nd ref="3003134487"/>
+    <nd ref="3003134483"/>
+    <tag k="brand" v="The Co-operative Food"/>
+    <tag k="brand:wikidata" v="Q107617274"/>
+    <tag k="building" v="retail"/>
+    <tag k="check_date" v="2024-07-15"/>
+    <tag k="check_date:opening_hours" v="2024-07-15"/>
+    <tag k="name" v="The Co-operative Food"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-22:00; Su 10:00-16:00"/>
+    <tag k="operator" v="Central England Co-operative"/>
+    <tag k="operator:wikidata" v="Q16986583"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://stores.centralengland.coop/cambridgeshire/huntingdon/20-glatton-road"/>
+  </way>
   <way id="357396533" version="3" timestamp="2021-01-27T11:24:23Z" changeset="98225385" uid="5173844" user="ndrw6">
     <nd ref="3626648179"/>
     <nd ref="8367173334"/>
@@ -3746,6 +4208,67 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Woollard Walk"/>
   </way>
+  <way id="527509422" version="2" timestamp="2020-10-17T22:06:04Z" changeset="92643140" uid="11022773" user="GeoFens">
+    <nd ref="5128214138"/>
+    <nd ref="5128214140"/>
+    <nd ref="5128214141"/>
+    <nd ref="5128214139"/>
+    <nd ref="5128214138"/>
+    <tag k="amenity" v="vehicle_inspection"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Weigh Bridge"/>
+    <tag k="operator" v="VOSA"/>
+  </way>
+  <way id="655469231" version="3" timestamp="2024-08-22T07:53:02Z" changeset="155591201" uid="54831" user="Mex">
+    <nd ref="6141222353"/>
+    <nd ref="6141222350"/>
+    <nd ref="6141222348"/>
+    <nd ref="6141222349"/>
+    <nd ref="6141222351"/>
+    <nd ref="6141222352"/>
+    <nd ref="6141222353"/>
+    <tag k="brand" v="Redwings Lodge"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2024-08-22"/>
+    <tag k="name" v="Redwings Lodge Sawtry"/>
+    <tag k="tourism" v="hotel"/>
+  </way>
+  <way id="655469232" version="3" timestamp="2024-11-17T01:09:17Z" changeset="159226936" uid="13341565" user="Falsernet">
+    <nd ref="6141222363"/>
+    <nd ref="6141222362"/>
+    <nd ref="6141222361"/>
+    <nd ref="6141222359"/>
+    <nd ref="6141222357"/>
+    <nd ref="6141222356"/>
+    <nd ref="6141222354"/>
+    <nd ref="6141222355"/>
+    <nd ref="6141222358"/>
+    <nd ref="6141222360"/>
+    <nd ref="6141222363"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Pace"/>
+    <tag k="brand:wikidata" v="Q122829220"/>
+    <tag k="building" v="roof"/>
+    <tag k="name" v="Pace"/>
+    <tag k="operator" v="Pace"/>
+  </way>
+  <way id="655469239" version="2" timestamp="2020-10-17T21:04:24Z" changeset="92642032" uid="11022773" user="GeoFens">
+    <nd ref="6141222395"/>
+    <nd ref="6141222394"/>
+    <nd ref="6141222391"/>
+    <nd ref="6141222390"/>
+    <nd ref="6141222393"/>
+    <nd ref="6141222389"/>
+    <nd ref="6141222388"/>
+    <nd ref="6141222392"/>
+    <nd ref="6141222386"/>
+    <nd ref="6141222387"/>
+    <nd ref="6141222395"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Spiceland"/>
+  </way>
   <way id="670993279" version="4" timestamp="2022-05-10T13:08:28Z" changeset="120792705" uid="363301" user="CarbonWriter">
     <nd ref="6283553528"/>
     <nd ref="6283553527"/>
@@ -3829,6 +4352,31 @@
     <nd ref="6283553693"/>
     <tag k="highway" v="residential"/>
   </way>
+  <way id="670993329" version="1" timestamp="2019-02-16T23:09:35Z" changeset="67265698" uid="5173844" user="ndrw6">
+    <nd ref="6283553761"/>
+    <nd ref="6283553760"/>
+    <nd ref="6283553759"/>
+    <nd ref="6283553757"/>
+    <nd ref="6283553756"/>
+    <nd ref="6283553758"/>
+    <nd ref="6283553761"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sawtry Community Fire and Rescue Station"/>
+  </way>
+  <way id="670993355" version="3" timestamp="2024-05-23T10:18:07Z" changeset="151715337" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="6283553965"/>
+    <nd ref="6283553964"/>
+    <nd ref="6283553963"/>
+    <nd ref="6283553962"/>
+    <nd ref="6283553965"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 5UJ"/>
+    <tag k="addr:suburb" v="Sawtry"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="The Old Mill"/>
+  </way>
   <way id="670993360" version="4" timestamp="2024-05-23T10:18:07Z" changeset="151715337" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="6283553986"/>
     <nd ref="8367173427"/>
@@ -3875,6 +4423,39 @@
     <nd ref="6283554033"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Chestnut Close"/>
+  </way>
+  <way id="670993381" version="3" timestamp="2024-05-23T10:18:07Z" changeset="151715337" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="6283554095"/>
+    <nd ref="6283554094"/>
+    <nd ref="6283554091"/>
+    <nd ref="6283554089"/>
+    <nd ref="6283554084"/>
+    <nd ref="6283554087"/>
+    <nd ref="6283554086"/>
+    <nd ref="6283554085"/>
+    <nd ref="6283554088"/>
+    <nd ref="6283554090"/>
+    <nd ref="6283554093"/>
+    <nd ref="6283554092"/>
+    <nd ref="6283554082"/>
+    <nd ref="6283554081"/>
+    <nd ref="6283554076"/>
+    <nd ref="6283554079"/>
+    <nd ref="6283554073"/>
+    <nd ref="6283554075"/>
+    <nd ref="6283554074"/>
+    <nd ref="6283554072"/>
+    <nd ref="6283554078"/>
+    <nd ref="6283554077"/>
+    <nd ref="6283554080"/>
+    <nd ref="6283554083"/>
+    <nd ref="6283554095"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 5SP"/>
+    <tag k="addr:suburb" v="Sawtry"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Mellors Court"/>
   </way>
   <way id="670993383" version="2" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
     <nd ref="6283554098"/>
@@ -3962,6 +4543,32 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Parrot Drive"/>
     <tag k="source" v="Maxar-Premium"/>
+  </way>
+  <way id="705708017" version="2" timestamp="2020-03-10T20:03:55Z" changeset="82021693" uid="90142" user="andy mackey">
+    <nd ref="6630935276"/>
+    <nd ref="6630935275"/>
+    <nd ref="6630935274"/>
+    <nd ref="6630935267"/>
+    <nd ref="6630935268"/>
+    <nd ref="6630935269"/>
+    <nd ref="6630935270"/>
+    <nd ref="6630935271"/>
+    <nd ref="6630935272"/>
+    <nd ref="6630935273"/>
+    <nd ref="6630935276"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sprirotech"/>
+  </way>
+  <way id="705708019" version="2" timestamp="2020-03-10T20:03:55Z" changeset="82021693" uid="90142" user="andy mackey">
+    <nd ref="6630989586"/>
+    <nd ref="6630935281"/>
+    <nd ref="6630935282"/>
+    <nd ref="6630935283"/>
+    <nd ref="6630935284"/>
+    <nd ref="6630989585"/>
+    <nd ref="6630989586"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Keveriks"/>
   </way>
   <way id="719428511" version="6" timestamp="2023-10-11T09:39:55Z" changeset="142428229" uid="9026132" user="PulisakZ">
     <nd ref="6753817259"/>
@@ -4120,6 +4727,15 @@
     <nd ref="7863096305"/>
     <tag k="highway" v="residential"/>
   </way>
+  <way id="842882585" version="1" timestamp="2020-08-31T22:39:46Z" changeset="90213130" uid="11022773" user="GeoFens">
+    <nd ref="7863096317"/>
+    <nd ref="7863096318"/>
+    <nd ref="7863096319"/>
+    <nd ref="7863096320"/>
+    <nd ref="7863096317"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Mill Cottage"/>
+  </way>
   <way id="843879523" version="1" timestamp="2020-09-03T10:00:48Z" changeset="90353778" uid="1302721" user="Glucosamine">
     <nd ref="7871992334"/>
     <nd ref="7871992335"/>
@@ -4236,6 +4852,20 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Ashdale Close"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="860237115" version="2" timestamp="2024-05-23T10:18:07Z" changeset="151715337" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="8017483692"/>
+    <nd ref="8017483693"/>
+    <nd ref="8017483694"/>
+    <nd ref="8017483695"/>
+    <nd ref="8017483692"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:suburb" v="Sawtry"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sawtry Motors"/>
+    <tag k="second_hand" v="only"/>
+    <tag k="shop" v="car"/>
   </way>
   <way id="879367793" version="3" timestamp="2022-05-10T12:37:42Z" changeset="120792106" uid="363301" user="CarbonWriter">
     <nd ref="8180405672"/>
@@ -4955,6 +5585,32 @@
     <nd ref="8375518112"/>
     <tag k="highway" v="residential"/>
   </way>
+  <way id="909182173" version="1" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
+    <nd ref="8441738646"/>
+    <nd ref="8441738645"/>
+    <nd ref="8441738644"/>
+    <nd ref="8441738643"/>
+    <nd ref="8441738647"/>
+    <nd ref="8441738648"/>
+    <nd ref="8441738646"/>
+    <tag k="amenity" v="veterinary"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cromwell Vets"/>
+    <tag k="operator" v="Cromwell Veterinary Group"/>
+  </way>
+  <way id="909182174" version="1" timestamp="2021-02-20T22:58:57Z" changeset="99663194" uid="11022773" user="GeoFens">
+    <nd ref="8441738649"/>
+    <nd ref="8441738650"/>
+    <nd ref="8441738651"/>
+    <nd ref="8441738652"/>
+    <nd ref="8441738653"/>
+    <nd ref="8441738654"/>
+    <nd ref="8441738649"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="fish_and_chips"/>
+    <tag k="name" v="Rumbles"/>
+  </way>
   <way id="914876944" version="3" timestamp="2024-09-07T22:28:48Z" changeset="156330908" uid="5173844" user="ndrw6">
     <nd ref="8498471254"/>
     <nd ref="12162603292"/>
@@ -5009,6 +5665,28 @@
     <tag k="phone" v="+44 1487 830943"/>
     <tag k="website" v="https://www.lillyviewpethotel.com"/>
   </way>
+  <way id="1113147357" version="2" timestamp="2023-10-21T18:01:06Z" changeset="142935270" uid="9451067" user="b-jazz-bot">
+    <nd ref="10184224046"/>
+    <nd ref="10184224047"/>
+    <nd ref="10184224048"/>
+    <nd ref="10184224049"/>
+    <nd ref="10184224046"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Old Farmhouse"/>
+    <tag k="tourism" v="chalet"/>
+    <tag k="website" v="https://roughsfarm.com/"/>
+  </way>
+  <way id="1113147358" version="2" timestamp="2023-10-21T18:00:47Z" changeset="142935256" uid="9451067" user="b-jazz-bot">
+    <nd ref="10184224050"/>
+    <nd ref="10184224051"/>
+    <nd ref="10184224052"/>
+    <nd ref="10184224053"/>
+    <nd ref="10184224050"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Maids Cottage"/>
+    <tag k="tourism" v="chalet"/>
+    <tag k="website" v="https://roughsfarm.com/"/>
+  </way>
   <way id="1147733538" version="3" timestamp="2024-09-07T22:28:48Z" changeset="156330908" uid="5173844" user="ndrw6">
     <nd ref="10679171152"/>
     <nd ref="12162603040"/>
@@ -5043,40 +5721,6 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Gidding Road"/>
     <tag k="source" v="survey"/>
-  </way>
-  <way id="1187426608" version="2" timestamp="2024-01-19T15:04:23Z" changeset="146447477" uid="115894" user="DaveF">
-    <nd ref="4595829500"/>
-    <nd ref="4595829501"/>
-    <nd ref="4595829502"/>
-    <nd ref="4595829503"/>
-    <nd ref="4595829504"/>
-    <nd ref="4595829505"/>
-    <nd ref="4595829506"/>
-    <nd ref="4595829507"/>
-    <nd ref="4595829508"/>
-    <nd ref="4595829509"/>
-    <nd ref="4595829520"/>
-    <nd ref="11026513396"/>
-    <nd ref="11026513397"/>
-    <nd ref="11026513398"/>
-    <nd ref="11026513399"/>
-    <nd ref="11026513400"/>
-    <nd ref="11026513401"/>
-    <nd ref="11026513402"/>
-    <nd ref="11026513403"/>
-    <nd ref="11026513404"/>
-    <nd ref="11026528805"/>
-    <nd ref="4595829500"/>
-    <tag k="addr:city" v="Sawtry"/>
-    <tag k="addr:street" v="Old Great North Road"/>
-    <tag k="area" v="yes"/>
-    <tag k="email" v="info@sawtryjuniormx.com"/>
-    <tag k="highway" v="raceway"/>
-    <tag k="landuse" v="recreation_ground"/>
-    <tag k="name" v="Sawtry Junior Motocross Club"/>
-    <tag k="phone" v="+44 7474600400"/>
-    <tag k="sport" v="motocross"/>
-    <tag k="website" v="https://www.sawtryjuniormx.com"/>
   </way>
   <way id="1194204387" version="2" timestamp="2024-09-07T22:28:48Z" changeset="156330908" uid="5173844" user="ndrw6">
     <nd ref="8498471252"/>

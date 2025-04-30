@@ -1,47 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:10:10Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:43:30Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="24978330" lat="52.2641255" lon="-0.2253161" version="3" timestamp="2021-08-21T16:39:31Z" changeset="110035043" uid="5173844" user="ndrw6"/>
   <node id="242766620" lat="52.2645429" lon="-0.1767441" version="3" timestamp="2021-07-09T17:54:44Z" changeset="107719667" uid="5173844" user="ndrw6"/>
+  <node id="242766731" lat="52.2670821" lon="-0.1808762" version="2" timestamp="2016-03-24T16:46:54Z" changeset="38045141" uid="281267" user="smb1001"/>
+  <node id="344221023" lat="52.2767080" lon="-0.2160177" version="3" timestamp="2011-10-05T21:57:22Z" changeset="9482073" uid="7098" user="richardm565"/>
   <node id="1218995162" lat="52.2891948" lon="-0.2202607" version="2" timestamp="2015-08-09T14:56:41Z" changeset="33220811" uid="90142" user="andy mackey"/>
-  <node id="1457322431" lat="52.2864519" lon="-0.2139277" version="3" timestamp="2024-04-03T12:49:58Z" changeset="149523371" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="120"/>
-    <tag k="addr:postcode" v="PE19 5RQ"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:suburb" v="Offord Cluny"/>
-    <tag k="brand" v="Budgens"/>
-    <tag k="brand:wikidata" v="Q4985016"/>
-    <tag k="name" v="Budgens"/>
-    <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="website" v="https://www.budgens.co.uk/our-stores/offord-cluny"/>
-  </node>
   <node id="3230746524" lat="52.3003134" lon="-0.2225062" version="8" timestamp="2024-01-09T10:14:12Z" changeset="146060360" uid="5229644" user="Nathan_A_RF"/>
-  <node id="3324820370" lat="52.2930737" lon="-0.1569892" version="12" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Ermine Street"/>
-    <tag k="ref" v="23"/>
-  </node>
-  <node id="3324820371" lat="52.2928520" lon="-0.1559518" version="6" timestamp="2021-01-12T16:40:53Z" changeset="97386670" uid="2773866" user="kreuzschnabel"/>
+  <node id="4584305930" lat="52.2994385" lon="-0.2094296" version="7" timestamp="2022-01-05T07:58:04Z" changeset="115784275" uid="11211647" user="wermak"/>
   <node id="4584305978" lat="52.2988289" lon="-0.2029750" version="5" timestamp="2025-03-15T17:18:09Z" changeset="163660433" uid="953779" user="Adam Edwards"/>
-  <node id="6231288230" lat="52.3001984" lon="-0.2225440" version="6" timestamp="2024-01-09T10:14:12Z" changeset="146060360" uid="5229644" user="Nathan_A_RF"/>
-  <node id="6383334032" lat="52.2815696" lon="-0.2126775" version="8" timestamp="2022-02-20T22:14:52Z" changeset="117656759" uid="242345" user="confusedbuffalo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:county" v="Cambridgeshire"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="PE19 5SY"/>
-    <tag k="addr:street" v="Grovefarm Close"/>
-    <tag k="addr:village" v="Offord Darcy"/>
-    <tag k="name" v="SE Damp Solutions"/>
-    <tag k="office" v="company"/>
-    <tag k="phone" v="+44 1480 369978"/>
-    <tag k="website" v="https://sedampsolutions.co.uk/"/>
-  </node>
+  <node id="6919874779" lat="52.2993352" lon="-0.2116549" version="3" timestamp="2024-01-09T10:14:12Z" changeset="146060360" uid="5229644" user="Nathan_A_RF"/>
   <node id="12601791678" lat="52.2918620" lon="-0.1008923" version="1" timestamp="2025-02-19T20:43:07Z" changeset="162716806" uid="10420541" user="Thingummy"/>
   <way id="22634442" version="11" timestamp="2021-08-20T18:39:22Z" changeset="110001386" uid="5173844" user="ndrw6">
     <nd ref="242766889"/>
@@ -506,6 +475,27 @@
     <tag k="name" v="Paddocks Chase"/>
     <tag k="source" v="survey"/>
   </way>
+  <way id="93864453" version="7" timestamp="2020-10-15T11:14:07Z" changeset="92519477" uid="281267" user="smb1001">
+    <nd ref="1091059595"/>
+    <nd ref="1091059572"/>
+    <nd ref="1091059567"/>
+    <nd ref="1091059611"/>
+    <nd ref="1091059583"/>
+    <nd ref="1091059549"/>
+    <nd ref="1091059585"/>
+    <nd ref="1091059564"/>
+    <nd ref="1091059540"/>
+    <nd ref="1091059592"/>
+    <nd ref="1091059588"/>
+    <nd ref="1091059613"/>
+    <nd ref="1091059595"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Parish Church of Offord D'Arcy with Cluny)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544029"/>
+  </way>
   <way id="104672092" version="1" timestamp="2011-03-18T14:40:45Z" changeset="7595992" uid="127771" user="Superglue">
     <nd ref="1207379681"/>
     <nd ref="1207379692"/>
@@ -533,6 +523,33 @@
     <tag k="highway" v="tertiary"/>
     <tag k="layer" v="2"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="106057221" version="9" timestamp="2023-08-30T11:04:12Z" changeset="140582465" uid="10420541" user="Thingummy">
+    <nd ref="1221202357"/>
+    <nd ref="9023383404"/>
+    <nd ref="9023383402"/>
+    <nd ref="9023383401"/>
+    <nd ref="9023383403"/>
+    <nd ref="1221202358"/>
+    <nd ref="11155804367"/>
+    <nd ref="11155804368"/>
+    <nd ref="11155804369"/>
+    <nd ref="11155804370"/>
+    <nd ref="1221202342"/>
+    <nd ref="1221202345"/>
+    <nd ref="1221202352"/>
+    <nd ref="1221202355"/>
+    <nd ref="1221202327"/>
+    <nd ref="1221202356"/>
+    <nd ref="1221202357"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter"/>
+    <tag k="note" v="maintained by the Redundant Churches Fund"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q7595270"/>
+    <tag k="wikipedia" v="en:St Peter's Church, Offord D'Arcy"/>
   </way>
   <way id="119106430" version="1" timestamp="2011-06-26T00:46:03Z" changeset="8547908" uid="90142" user="andy mackey">
     <nd ref="344221942"/>
@@ -683,20 +700,6 @@
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="Offord Road"/>
   </way>
-  <way id="137336233" version="3" timestamp="2024-04-04T11:13:29Z" changeset="149564952" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="1506562912"/>
-    <nd ref="1506562997"/>
-    <nd ref="1506562900"/>
-    <nd ref="1506562935"/>
-    <nd ref="1506562912"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 6PU"/>
-    <tag k="addr:street" v="Offord Road"/>
-    <tag k="addr:suburb" v="Graveley"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Cotton Farm"/>
-  </way>
   <way id="181338591" version="3" timestamp="2019-09-04T13:56:04Z" changeset="74088696" uid="10252562" user="puppalg">
     <nd ref="24978307"/>
     <nd ref="6772096404"/>
@@ -759,29 +762,6 @@
     <tag k="building:levels" v="2"/>
     <tag k="name" v="Waterloo Farm"/>
   </way>
-  <way id="299134566" version="7" timestamp="2024-12-25T17:08:42Z" changeset="160611193" uid="5173844" user="ndrw6">
-    <nd ref="12451438917"/>
-    <nd ref="12451438918"/>
-    <nd ref="12451438919"/>
-    <nd ref="3030711322"/>
-    <nd ref="3030711313"/>
-    <nd ref="3030711315"/>
-    <nd ref="3030711326"/>
-    <nd ref="3030711320"/>
-    <nd ref="3030711314"/>
-    <nd ref="5859070075"/>
-    <nd ref="12451438914"/>
-    <nd ref="12451438915"/>
-    <nd ref="12451438916"/>
-    <nd ref="12451438917"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5RJ"/>
-    <tag k="addr:street" v="New Road"/>
-    <tag k="addr:suburb" v="Orfford Cluny"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Top Farm"/>
-  </way>
   <way id="314822014" version="1" timestamp="2014-11-28T09:31:34Z" changeset="27085243" uid="2490370" user="bigmiksears">
     <nd ref="3208669202"/>
     <nd ref="3208669203"/>
@@ -837,6 +817,15 @@
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="Offord Road"/>
   </way>
+  <way id="373199178" version="1" timestamp="2015-10-01T10:32:02Z" changeset="34364593" uid="1302721" user="Glucosamine">
+    <nd ref="3767089334"/>
+    <nd ref="3767089335"/>
+    <nd ref="3767089336"/>
+    <nd ref="3767089337"/>
+    <nd ref="3767089334"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bankside"/>
+  </way>
   <way id="376814644" version="6" timestamp="2024-04-04T11:09:34Z" changeset="149564791" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="3801982518"/>
     <nd ref="3801982513"/>
@@ -872,26 +861,6 @@
     <tag k="phone" v="+44 1480 810293"/>
     <tag k="website" v="https://www.theoffordshoe.co.uk/"/>
     <tag k="wikidata" v="Q26615461"/>
-  </way>
-  <way id="433278684" version="2" timestamp="2024-04-04T11:09:34Z" changeset="149564791" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="4321190395"/>
-    <nd ref="4321190406"/>
-    <nd ref="4321190407"/>
-    <nd ref="4321190396"/>
-    <nd ref="4321190397"/>
-    <nd ref="4321190398"/>
-    <nd ref="4321190399"/>
-    <nd ref="4321190400"/>
-    <nd ref="4321190401"/>
-    <nd ref="4321190395"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5ZA"/>
-    <tag k="addr:street" v="Station Lane"/>
-    <tag k="addr:suburb" v="Orfford Cluny"/>
-    <tag k="landuse" v="commercial"/>
-    <tag k="name" v="Fu Nicha Business Centre"/>
-    <tag k="phone" v="+44 1480 819690"/>
   </way>
   <way id="463120455" version="10" timestamp="2025-03-15T17:21:59Z" changeset="163660588" uid="953779" user="Adam Edwards">
     <nd ref="4584305978"/>
@@ -1308,6 +1277,18 @@
     <tag k="name" v="Elm Drive"/>
     <tag k="source" v="survey"/>
   </way>
+  <way id="975055978" version="2" timestamp="2022-02-05T15:30:07Z" changeset="117049304" uid="281267" user="smb1001">
+    <nd ref="9023380737"/>
+    <nd ref="9023380734"/>
+    <nd ref="9023380735"/>
+    <nd ref="9023380736"/>
+    <nd ref="9023380737"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="name" v="Primitive Village Baptist Church"/>
+    <tag k="religion" v="christian"/>
+  </way>
   <way id="975056229" version="1" timestamp="2021-08-20T18:39:21Z" changeset="110001386" uid="5173844" user="ndrw6">
     <nd ref="9023381769"/>
     <nd ref="9023381768"/>
@@ -1337,23 +1318,18 @@
     <nd ref="9023383590"/>
     <tag k="highway" v="residential"/>
   </way>
-  <way id="1346193340" version="1" timestamp="2024-12-25T17:08:42Z" changeset="160611193" uid="5173844" user="ndrw6">
-    <nd ref="12451438920"/>
-    <nd ref="3030711295"/>
-    <nd ref="3030711294"/>
-    <nd ref="3030711275"/>
-    <nd ref="12451438921"/>
-    <nd ref="4321290615"/>
-    <nd ref="4321290616"/>
-    <nd ref="3313220120"/>
-    <nd ref="12451438920"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5RJ"/>
-    <tag k="addr:street" v="New Road"/>
-    <tag k="addr:suburb" v="Orfford Cluny"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Waterloo Farm"/>
+  <way id="1342562733" version="1" timestamp="2024-12-14T01:35:07Z" changeset="160266473" uid="10420541" user="Thingummy">
+    <nd ref="12421817580"/>
+    <nd ref="12421817581"/>
+    <nd ref="12421817582"/>
+    <nd ref="12421817583"/>
+    <nd ref="12421817580"/>
+    <tag k="building" v="hut"/>
+    <tag k="fishing" v="permit"/>
+    <tag k="leisure" v="fishing"/>
+    <tag k="name" v="OBAS"/>
+    <tag k="operator" v="Offord &amp; Buckden Angling Society"/>
+    <tag k="website" v="https://www.ousefishing.com/"/>
   </way>
 
 </osm>

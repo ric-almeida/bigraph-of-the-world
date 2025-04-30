@@ -1,35 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="13337296" lat="52.2194679" lon="0.3281199" version="2" timestamp="2008-05-27T18:33:44Z" changeset="533426" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="13337302" lat="52.2102402" lon="0.3373285" version="3" timestamp="2025-02-24T17:53:35Z" changeset="162903132" uid="5008136" user="JayTurnr"/>
   <node id="13337304" lat="52.2043854" lon="0.3270303" version="5" timestamp="2025-02-26T14:38:18Z" changeset="162974731" uid="5229644" user="Nathan_A_RF"/>
-  <node id="20960398" lat="52.2093341" lon="0.3357549" version="8" timestamp="2025-02-24T17:53:35Z" changeset="162903132" uid="5008136" user="JayTurnr"/>
-  <node id="248410275" lat="52.1957185" lon="0.4207013" version="5" timestamp="2024-06-11T15:25:21Z" changeset="152548810" uid="1287673" user="sloerunner"/>
   <node id="248937422" lat="52.2377421" lon="0.3987954" version="2" timestamp="2023-06-10T23:52:27Z" changeset="137188266" uid="19243622" user="cam-jpa"/>
-  <node id="251822771" lat="52.1942160" lon="0.3935241" version="7" timestamp="2021-06-14T13:23:47Z" changeset="106339816" uid="281267" user="smb1001"/>
-  <node id="264657894" lat="52.1946885" lon="0.3895781" version="3" timestamp="2018-11-26T23:45:44Z" changeset="64915489" uid="5173844" user="ndrw6"/>
-  <node id="264657916" lat="52.1945882" lon="0.3922436" version="2" timestamp="2021-06-10T17:43:19Z" changeset="106170497" uid="281267" user="smb1001"/>
-  <node id="264657917" lat="52.1947422" lon="0.3912987" version="2" timestamp="2018-11-26T23:45:44Z" changeset="64915489" uid="5173844" user="ndrw6"/>
-  <node id="264657918" lat="52.1944775" lon="0.3927288" version="2" timestamp="2021-06-14T13:23:47Z" changeset="106339816" uid="281267" user="smb1001"/>
-  <node id="264658010" lat="52.1959641" lon="0.3950893" version="3" timestamp="2022-04-14T22:05:34Z" changeset="119730975" uid="5173844" user="ndrw6"/>
   <node id="264658221" lat="52.2002258" lon="0.3775041" version="2" timestamp="2009-06-29T18:38:51Z" changeset="1680297" uid="66869" user="Simon Daw">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="264658503" lat="52.1966338" lon="0.3836963" version="1" timestamp="2008-05-15T12:53:07Z" changeset="450106" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="264658640" lat="52.1946624" lon="0.3892031" version="2" timestamp="2008-05-19T10:21:32Z" changeset="480160" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
-  </node>
+  <node id="264658612" lat="52.1974269" lon="0.3962614" version="2" timestamp="2021-06-15T09:01:59Z" changeset="106386472" uid="281267" user="smb1001"/>
+  <node id="582979173" lat="52.2272912" lon="0.3692360" version="5" timestamp="2021-10-09T00:19:51Z" changeset="112285778" uid="2400834" user="Gyrwa"/>
   <node id="963733068" lat="52.2160046" lon="0.3123003" version="1" timestamp="2010-10-24T19:08:20Z" changeset="6161251" uid="5926" user="c2r"/>
-  <node id="1635204406" lat="52.2134444" lon="0.4095703" version="5" timestamp="2017-05-08T12:53:18Z" changeset="48501337" uid="84263" user="Robert Whittaker"/>
-  <node id="4974104359" lat="52.2274998" lon="0.3696690" version="3" timestamp="2025-02-24T17:53:35Z" changeset="162903132" uid="5008136" user="JayTurnr"/>
-  <node id="12500658804" lat="52.2193276" lon="0.3273093" version="1" timestamp="2025-01-14T11:56:11Z" changeset="161342350" uid="11184620" user="kateaew"/>
+  <node id="4853606017" lat="52.1935558" lon="0.4060354" version="1" timestamp="2017-05-14T13:05:03Z" changeset="48672794" uid="84263" user="Robert Whittaker"/>
+  <node id="10968422795" lat="52.2070792" lon="0.3954508" version="1" timestamp="2023-06-10T23:52:27Z" changeset="137188266" uid="19243622" user="cam-jpa"/>
   <way id="3997322" version="16" timestamp="2025-02-27T19:55:50Z" changeset="163026871" uid="5229644" user="Nathan_A_RF">
     <nd ref="13337304"/>
     <nd ref="12164530371"/>
@@ -109,6 +92,16 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="source" v="survey"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="22616893" version="3" timestamp="2017-07-16T20:00:08Z" changeset="50333849" uid="84263" user="Robert Whittaker">
+    <nd ref="4974110966"/>
+    <nd ref="4974110936"/>
+    <nd ref="242587941"/>
+    <nd ref="4974110924"/>
+    <nd ref="4974110966"/>
+    <tag k="building" v="grandstand"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="July Grandstand"/>
   </way>
   <way id="23026953" version="6" timestamp="2025-02-27T19:55:50Z" changeset="163026871" uid="5229644" user="Nathan_A_RF">
     <nd ref="30265931"/>
@@ -630,6 +623,46 @@
     <tag k="name" v="Racehorse Statue Roundabout"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="164461533" version="4" timestamp="2018-12-18T18:27:31Z" changeset="65589365" uid="364" user="Edward">
+    <nd ref="1760980064"/>
+    <nd ref="1760980157"/>
+    <nd ref="1760980151"/>
+    <nd ref="1760980130"/>
+    <nd ref="1760980162"/>
+    <nd ref="1760980023"/>
+    <nd ref="1760980186"/>
+    <nd ref="1760980090"/>
+    <nd ref="1760980059"/>
+    <nd ref="1760980193"/>
+    <nd ref="1760980065"/>
+    <nd ref="1760980178"/>
+    <nd ref="1760980064"/>
+    <tag k="addr:postcode" v="CB8 9TN"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Stetchworth House"/>
+    <tag k="wikidata" v="Q26603958"/>
+  </way>
+  <way id="164461547" version="3" timestamp="2018-12-18T18:27:26Z" changeset="65589365" uid="364" user="Edward">
+    <nd ref="1760980132"/>
+    <nd ref="1760980187"/>
+    <nd ref="1760980066"/>
+    <nd ref="1760980027"/>
+    <nd ref="1760980209"/>
+    <nd ref="1760980102"/>
+    <nd ref="1760980215"/>
+    <nd ref="1760980191"/>
+    <nd ref="1760980035"/>
+    <nd ref="1760980182"/>
+    <nd ref="1760980219"/>
+    <nd ref="1760980112"/>
+    <nd ref="1760980132"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543648"/>
+  </way>
   <way id="171896837" version="6" timestamp="2025-02-27T19:50:41Z" changeset="163026741" uid="5229644" user="Nathan_A_RF">
     <nd ref="1828632866"/>
     <nd ref="9159674526"/>
@@ -747,12 +780,60 @@
     <tag k="ref" v="A1303"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="219005834" version="2" timestamp="2017-01-26T10:14:35Z" changeset="45507060" uid="281267" user="smb1001">
+    <nd ref="2282127830"/>
+    <nd ref="2282127817"/>
+    <nd ref="2282127870"/>
+    <nd ref="2282127822"/>
+    <nd ref="2282127830"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="united_reformed"/>
+    <tag k="name" v="Stetchworth United Reform Church"/>
+    <tag k="religion" v="christian"/>
+  </way>
+  <way id="406414194" version="2" timestamp="2016-08-20T16:35:25Z" changeset="41579063" uid="281267" user="smb1001">
+    <nd ref="264658586"/>
+    <nd ref="4084807286"/>
+    <nd ref="4084807733"/>
+    <nd ref="4084807272"/>
+    <nd ref="4084807268"/>
+    <nd ref="4084807706"/>
+    <nd ref="264658586"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Ellesmere Centre"/>
+  </way>
   <way id="493443942" version="1" timestamp="2017-05-14T12:58:03Z" changeset="48672794" uid="84263" user="Robert Whittaker">
     <nd ref="264658596"/>
     <nd ref="264658332"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="High Street"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="508014529" version="1" timestamp="2017-07-16T20:00:07Z" changeset="50333849" uid="84263" user="Robert Whittaker">
+    <nd ref="4974110962"/>
+    <nd ref="4974110965"/>
+    <nd ref="4974110963"/>
+    <nd ref="4974110929"/>
+    <nd ref="4974110962"/>
+    <tag k="building" v="grandstand"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="July Grandstand"/>
+  </way>
+  <way id="508014533" version="1" timestamp="2017-07-16T20:00:07Z" changeset="50333849" uid="84263" user="Robert Whittaker">
+    <nd ref="4974110934"/>
+    <nd ref="4974110991"/>
+    <nd ref="4974110961"/>
+    <nd ref="4974110946"/>
+    <nd ref="4974110957"/>
+    <nd ref="4974110940"/>
+    <nd ref="4974110617"/>
+    <nd ref="4974110978"/>
+    <nd ref="4974110934"/>
+    <tag k="building" v="grandstand"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="July Grandstand"/>
   </way>
   <way id="521543305" version="5" timestamp="2025-02-27T19:50:41Z" changeset="163026741" uid="5229644" user="Nathan_A_RF">
     <nd ref="16569631"/>
@@ -833,6 +914,56 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Racehorse Statue Roundabout"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1187599089" version="1" timestamp="2023-07-05T11:41:20Z" changeset="138145221" uid="1782504" user="corgicity">
+    <nd ref="11027718373"/>
+    <nd ref="11027718374"/>
+    <nd ref="11027718375"/>
+    <nd ref="11027718376"/>
+    <nd ref="11027718377"/>
+    <nd ref="11027718378"/>
+    <nd ref="11027718379"/>
+    <nd ref="11027718380"/>
+    <nd ref="11027718362"/>
+    <nd ref="11027718363"/>
+    <nd ref="11027718366"/>
+    <nd ref="11027718367"/>
+    <nd ref="11027718368"/>
+    <nd ref="11027718369"/>
+    <nd ref="11027718370"/>
+    <nd ref="11027718371"/>
+    <nd ref="11027718372"/>
+    <nd ref="11027718364"/>
+    <nd ref="11027718365"/>
+    <nd ref="11027718373"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Horse Walker"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  </way>
+  <way id="1187600177" version="1" timestamp="2023-07-05T11:44:45Z" changeset="138145353" uid="1782504" user="corgicity">
+    <nd ref="11027719815"/>
+    <nd ref="11027719816"/>
+    <nd ref="11027719817"/>
+    <nd ref="11027719818"/>
+    <nd ref="11027719819"/>
+    <nd ref="11027719820"/>
+    <nd ref="11027719821"/>
+    <nd ref="11027719822"/>
+    <nd ref="11027719823"/>
+    <nd ref="11027719824"/>
+    <nd ref="11027719825"/>
+    <nd ref="11027719826"/>
+    <nd ref="11027719827"/>
+    <nd ref="11027719828"/>
+    <nd ref="11027719829"/>
+    <nd ref="11027719830"/>
+    <nd ref="11027719831"/>
+    <nd ref="11027719832"/>
+    <nd ref="11027719833"/>
+    <nd ref="11027719815"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Horse Walker"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
   </way>
   <way id="1245875643" version="3" timestamp="2025-02-27T19:50:41Z" changeset="163026741" uid="5229644" user="Nathan_A_RF">
     <nd ref="16569625"/>

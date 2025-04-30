@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:40:28Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="26187396" lat="52.5487486" lon="-0.2283280" version="4" timestamp="2021-01-13T10:12:20Z" changeset="97431337" uid="5173844" user="ndrw6"/>
-  <node id="26187952" lat="52.5520966" lon="-0.2267123" version="2" timestamp="2014-09-17T08:01:52Z" changeset="25494895" uid="1622226" user="Wehha"/>
   <node id="568038359" lat="52.5429079" lon="-0.2145830" version="7" timestamp="2024-04-05T18:00:50Z" changeset="149627160" uid="5229644" user="Nathan_A_RF"/>
-  <node id="766017449" lat="52.5134666" lon="-0.1431625" version="3" timestamp="2018-11-03T17:06:21Z" changeset="64145557" uid="1257159" user="Jean-Pierre Rondeau"/>
-  <node id="766017455" lat="52.5124534" lon="-0.1437525" version="2" timestamp="2011-11-22T11:19:14Z" changeset="9907441" uid="504708" user="HillWithSmallFields"/>
-  <node id="988150032" lat="52.5434988" lon="-0.2361713" version="4" timestamp="2019-07-02T21:40:15Z" changeset="71838469" uid="8893201" user="JonKrato"/>
+  <node id="766017459" lat="52.5125508" lon="-0.1455994" version="1" timestamp="2010-06-06T20:20:14Z" changeset="4922245" uid="7098" user="richardm565"/>
+  <node id="766017474" lat="52.5141343" lon="-0.1474777" version="2" timestamp="2016-02-29T21:11:15Z" changeset="37530927" uid="1431482" user="JonOrchard"/>
+  <node id="988146993" lat="52.5436534" lon="-0.2287756" version="2" timestamp="2010-12-05T00:42:36Z" changeset="6545958" uid="5538" user="Aled"/>
   <node id="1195522813" lat="52.5434917" lon="-0.2355022" version="4" timestamp="2019-07-02T21:40:15Z" changeset="71838469" uid="8893201" user="JonKrato"/>
   <node id="1492900330" lat="52.5243873" lon="-0.2417094" version="2" timestamp="2022-12-28T21:59:32Z" changeset="130620147" uid="705850" user="Cebderby"/>
-  <node id="1794998784" lat="52.5269444" lon="-0.2388071" version="2" timestamp="2022-12-28T21:59:32Z" changeset="130620147" uid="705850" user="Cebderby"/>
   <node id="2330586677" lat="52.5466936" lon="-0.2011766" version="1" timestamp="2013-06-03T13:22:21Z" changeset="16406197" uid="711187" user="Broken Star"/>
-  <node id="3081370823" lat="52.5473814" lon="-0.2286873" version="2" timestamp="2021-01-13T10:12:20Z" changeset="97431337" uid="5173844" user="ndrw6"/>
-  <node id="4913586054" lat="52.5475234" lon="-0.2286586" version="2" timestamp="2021-01-13T10:12:20Z" changeset="97431337" uid="5173844" user="ndrw6"/>
-  <node id="5335888451" lat="52.5448089" lon="-0.2288195" version="2" timestamp="2022-02-28T19:05:26Z" changeset="117955783" uid="2274390" user="dzidek23"/>
-  <node id="6585201719" lat="52.5430378" lon="-0.2155752" version="1" timestamp="2019-07-02T21:40:15Z" changeset="71838469" uid="8893201" user="JonKrato"/>
-  <node id="8500702724" lat="52.5466156" lon="-0.2288567" version="2" timestamp="2022-02-28T19:05:26Z" changeset="117955783" uid="2274390" user="dzidek23"/>
+  <node id="6585201708" lat="52.5433580" lon="-0.2350540" version="1" timestamp="2019-07-02T21:40:15Z" changeset="71838469" uid="8893201" user="JonKrato"/>
   <way id="4316297" version="3" timestamp="2021-01-13T14:33:04Z" changeset="97448620" uid="5173844" user="ndrw6">
     <nd ref="26187422"/>
     <nd ref="26187438"/>
@@ -943,6 +936,20 @@
     <tag k="name" v="Stanground Bypass"/>
     <tag k="oneway" v="yes"/>
     <tag k="ref" v="A605"/>
+  </way>
+  <way id="492380065" version="2" timestamp="2020-08-12T17:12:45Z" changeset="89315705" uid="52797" user="hofoen">
+    <nd ref="196249420"/>
+    <nd ref="4844018299"/>
+    <nd ref="4844018298"/>
+    <nd ref="4844018302"/>
+    <nd ref="196249420"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="Saint Mary (Farcet Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544130"/>
   </way>
   <way id="664729931" version="2" timestamp="2024-05-23T18:06:47Z" changeset="151736795" uid="21571385" user="JeffSergeant">
     <nd ref="26187323"/>

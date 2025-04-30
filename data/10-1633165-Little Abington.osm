@@ -1,71 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:12:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:25:02Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="215065" lat="52.1785789" lon="0.2951772" version="2" timestamp="2025-02-24T17:31:42Z" changeset="162902392" uid="5008136" user="JayTurnr"/>
-  <node id="215073" lat="52.1711126" lon="0.2798562" version="3" timestamp="2024-01-07T20:30:28Z" changeset="146005303" uid="13341565" user="Falsernet"/>
-  <node id="216187" lat="52.1329311" lon="0.2254667" version="3" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr"/>
+  <node id="216186" lat="52.1329222" lon="0.2256893" version="5" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Fourwentways"/>
+  </node>
   <node id="216237" lat="52.1236000" lon="0.2176748" version="2" timestamp="2012-05-11T13:12:01Z" changeset="11567896" uid="84263" user="Robert Whittaker"/>
-  <node id="554061" lat="52.1305127" lon="0.2241571" version="3" timestamp="2023-09-05T01:34:20Z" changeset="140827653" uid="629" user="Wookey"/>
-  <node id="554069" lat="52.1290142" lon="0.2234313" version="5" timestamp="2021-10-10T15:00:56Z" changeset="112337429" uid="13341565" user="Falsernet"/>
-  <node id="20960410" lat="52.1561218" lon="0.2501627" version="3" timestamp="2022-11-10T10:05:32Z" changeset="128725115" uid="91657" user="Pink Duck"/>
-  <node id="20960512" lat="52.1721988" lon="0.2824594" version="2" timestamp="2024-01-07T20:30:28Z" changeset="146005303" uid="13341565" user="Falsernet">
+  <node id="554068" lat="52.1290694" lon="0.2236126" version="5" timestamp="2021-10-10T15:00:56Z" changeset="112337429" uid="13341565" user="Falsernet"/>
+  <node id="20087413" lat="52.1266327" lon="0.2201470" version="5" timestamp="2019-12-15T20:19:51Z" changeset="78439325" uid="67929" user="StephenRD">
     <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Fourwentways"/>
   </node>
-  <node id="20960609" lat="52.1617855" lon="0.2589973" version="4" timestamp="2022-11-10T10:05:32Z" changeset="128725115" uid="91657" user="Pink Duck">
-    <tag k="destination" v="Balsham;Fulbourn;Teversham"/>
-    <tag k="highway" v="motorway_junction"/>
-  </node>
+  <node id="20087414" lat="52.1267516" lon="0.2205403" version="2" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr"/>
   <node id="26530936" lat="52.1442304" lon="0.2313776" version="3" timestamp="2012-05-13T14:37:34Z" changeset="11586158" uid="5926" user="c2r"/>
+  <node id="26530940" lat="52.1436858" lon="0.2335931" version="8" timestamp="2022-06-30T00:02:46Z" changeset="123023068" uid="7463" user="kesterlester"/>
   <node id="26530941" lat="52.1443043" lon="0.2322438" version="5" timestamp="2025-02-24T17:18:34Z" changeset="162901902" uid="5008136" user="JayTurnr"/>
-  <node id="26530947" lat="52.1486948" lon="0.2388435" version="5" timestamp="2025-02-24T17:25:04Z" changeset="162902144" uid="5008136" user="JayTurnr">
-    <tag k="highway" v="motorway_junction"/>
-  </node>
+  <node id="26530970" lat="52.1279889" lon="0.2229126" version="5" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr"/>
   <node id="26531000" lat="52.1176347" lon="0.2390151" version="3" timestamp="2018-04-20T22:38:16Z" changeset="58278353" uid="5173844" user="ndrw6"/>
-  <node id="26531243" lat="52.1205784" lon="0.2187739" version="1" timestamp="2007-03-14T15:51:28Z" changeset="236030" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
+  <node id="26531242" lat="52.1209263" lon="0.2189361" version="3" timestamp="2025-04-11T17:16:19Z" changeset="164826417" uid="18964624" user="Exterprook58">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
   </node>
-  <node id="26531408" lat="52.1270493" lon="0.2227728" version="13" timestamp="2023-10-09T11:07:10Z" changeset="142344579" uid="8821850" user="wkdgs">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:postcode" v="CB21 6AR"/>
-    <tag k="addr:street" v="Fourwentways Services"/>
-    <tag k="addr:village" v="Little Abington"/>
-    <tag k="amenity" v="fuel"/>
-    <tag k="brand" v="Shell"/>
-    <tag k="brand:wikidata" v="Q110716465"/>
-    <tag k="compressed_air" v="yes"/>
-    <tag k="fhrs:id" v="596767"/>
-    <tag k="name" v="Shell"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="phone" v="+44 1223 837949"/>
-    <tag k="ref:navads" v="NVDS353_10019190"/>
-    <tag k="website" v="https://find.shell.com/gb/fuel/10019190-shell-four-went-ways"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="27401572" lat="52.1171749" lon="0.2577568" version="2" timestamp="2012-05-21T19:07:40Z" changeset="11665175" uid="2020" user="comsomol"/>
+  <node id="29005356" lat="52.1210993" lon="0.2432423" version="2" timestamp="2009-09-27T19:41:11Z" changeset="2656785" uid="5926" user="c2r"/>
   <node id="36743562" lat="52.1282093" lon="0.2221142" version="5" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr"/>
-  <node id="36744840" lat="52.1182835" lon="0.2427346" version="4" timestamp="2013-08-20T04:05:06Z" changeset="17420577" uid="4951" user="PeterEastern"/>
+  <node id="36744839" lat="52.1184242" lon="0.2426526" version="4" timestamp="2013-08-20T04:05:06Z" changeset="17420577" uid="4951" user="PeterEastern"/>
   <node id="420297535" lat="52.1298033" lon="0.2232805" version="5" timestamp="2021-10-10T15:00:56Z" changeset="112337429" uid="13341565" user="Falsernet"/>
-  <node id="420297536" lat="52.1290289" lon="0.2226076" version="4" timestamp="2021-10-10T15:00:56Z" changeset="112337429" uid="13341565" user="Falsernet"/>
-  <node id="4500530634" lat="52.1291691" lon="0.2217255" version="3" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr"/>
-  <node id="4500530645" lat="52.1296377" lon="0.2237780" version="3" timestamp="2023-09-05T01:34:20Z" changeset="140827653" uid="629" user="Wookey"/>
-  <node id="8807809623" lat="52.1268262" lon="0.2224722" version="5" timestamp="2023-10-19T14:52:39Z" changeset="142820318" uid="4345757" user="JassKurn">
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="A11 Four Went Ways"/>
-    <tag k="addr:postcode" v="CB21 6AP"/>
-    <tag k="addr:street" v="Newmarket Road"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="brand" v="Greggs"/>
-    <tag k="brand:wikidata" v="Q3403981"/>
-    <tag k="brand:wikipedia" v="en:Greggs"/>
-    <tag k="contact:website" v="https://www.greggs.co.uk/shop-finder?shop-code=5193"/>
-    <tag k="cuisine" v="sandwich;bakery"/>
-    <tag k="fhrs:id" v="1215954"/>
-    <tag k="name" v="Greggs"/>
-    <tag k="takeaway" v="yes"/>
-  </node>
-  <node id="12461788747" lat="52.1229560" lon="0.2175410" version="1" timestamp="2024-12-29T22:55:39Z" changeset="160770788" uid="5229644" user="Nathan_A_RF"/>
+  <node id="1554859230" lat="52.1275442" lon="0.2207953" version="2" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr"/>
   <way id="3904745" version="14" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr">
     <nd ref="216186"/>
     <nd ref="12612621632"/>
@@ -220,8 +183,10 @@
     <tag k="name" v="Church Close"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
-  <way id="4355278" version="6" timestamp="2023-09-05T01:34:20Z" changeset="140827653" uid="629" user="Wookey">
+  <way id="4355278" version="7" timestamp="2025-04-11T17:16:19Z" changeset="164826417" uid="18964624" user="Exterprook58">
     <nd ref="26530973"/>
+    <nd ref="12748265929"/>
+    <nd ref="12748265935"/>
     <nd ref="1423411250"/>
     <nd ref="1423411193"/>
     <nd ref="1423411195"/>
@@ -403,14 +368,16 @@
     <tag k="ref" v="A1307"/>
     <tag k="source:ref" v="local knowledge"/>
   </way>
-  <way id="4355327" version="3" timestamp="2022-08-16T01:37:01Z" changeset="124949692" uid="13341565" user="Falsernet">
+  <way id="4355327" version="4" timestamp="2025-04-11T17:16:19Z" changeset="164826417" uid="18964624" user="Exterprook58">
     <nd ref="26531242"/>
     <nd ref="26531243"/>
     <tag k="bridge" v="yes"/>
     <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
     <tag k="layer" v="1"/>
     <tag k="name" v="Newmarket Road"/>
     <tag k="old_ref" v="A11"/>
+    <tag k="oneway" v="alternating"/>
   </way>
   <way id="4617365" version="13" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr">
     <nd ref="20087413"/>
@@ -784,6 +751,29 @@
     <tag k="ref" v="A11"/>
     <tag k="source:ref" v="local knowledge"/>
   </way>
+  <way id="225938474" version="6" timestamp="2018-12-30T22:35:03Z" changeset="65899704" uid="364" user="Edward">
+    <nd ref="2348008128"/>
+    <nd ref="2348008112"/>
+    <nd ref="2348008106"/>
+    <nd ref="2348008117"/>
+    <nd ref="2348008152"/>
+    <nd ref="2348008132"/>
+    <nd ref="2348008142"/>
+    <nd ref="2348008136"/>
+    <nd ref="2348008148"/>
+    <nd ref="26530987"/>
+    <nd ref="2348009512"/>
+    <nd ref="2348009508"/>
+    <nd ref="2348009509"/>
+    <nd ref="2348008150"/>
+    <nd ref="2348008128"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary's Church"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550683"/>
+  </way>
   <way id="233784961" version="3" timestamp="2022-12-17T11:00:18Z" changeset="130182405" uid="1287673" user="sloerunner">
     <nd ref="2421215192"/>
     <nd ref="2421215194"/>
@@ -937,6 +927,19 @@
     <nd ref="5567793100"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Church Close"/>
+  </way>
+  <way id="582061936" version="3" timestamp="2019-05-02T08:26:20Z" changeset="69793831" uid="112239" user="henryplumb">
+    <nd ref="5567793477"/>
+    <nd ref="5567793478"/>
+    <nd ref="6442299998"/>
+    <nd ref="6442299997"/>
+    <nd ref="5567793485"/>
+    <nd ref="5567793486"/>
+    <nd ref="5567793477"/>
+    <tag k="addr:postcode" v="CB21 6BN"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Acorn Garage"/>
+    <tag k="shop" v="car_repair"/>
   </way>
   <way id="987820392" version="1" timestamp="2021-09-28T22:00:41Z" changeset="111839111" uid="12138865" user="miku archer">
     <nd ref="9130620969"/>

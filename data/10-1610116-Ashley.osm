@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="25660456" lat="52.2270309" lon="0.5184143" version="2" timestamp="2008-06-06T16:51:49Z" changeset="68801" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="30325542" lat="52.2076320" lon="0.5104046" version="4" timestamp="2015-06-23T18:00:03Z" changeset="32167402" uid="481116" user="bigalxyz123"/>
-  <node id="264671584" lat="52.2372714" lon="0.4755540" version="5" timestamp="2020-01-21T09:20:45Z" changeset="79844343" uid="84263" user="Robert Whittaker"/>
+  <node id="25370012" lat="52.2341889" lon="0.5022439" version="6" timestamp="2011-05-15T08:46:15Z" changeset="8148603" uid="17576" user="Laverock"/>
+  <node id="30325533" lat="52.2117925" lon="0.4990304" version="4" timestamp="2015-06-23T18:00:03Z" changeset="32167402" uid="481116" user="bigalxyz123"/>
   <node id="267131633" lat="52.2272385" lon="0.4679177" version="2" timestamp="2013-08-19T12:12:56Z" changeset="17410182" uid="281267" user="smb1001"/>
+  <node id="267131679" lat="52.2276467" lon="0.4938280" version="1" timestamp="2008-05-27T18:12:02Z" changeset="533426" uid="3582" user="davidearl"/>
+  <node id="267131743" lat="52.2323103" lon="0.4831504" version="2" timestamp="2011-05-15T08:03:38Z" changeset="8148603" uid="17576" user="Laverock"/>
+  <node id="267132301" lat="52.2265003" lon="0.5140410" version="4" timestamp="2025-02-27T22:31:34Z" changeset="163030818" uid="5229644" user="Nathan_A_RF"/>
   <node id="267132342" lat="52.2294137" lon="0.4671214" version="1" timestamp="2008-05-27T18:13:10Z" changeset="533426" uid="3582" user="davidearl"/>
-  <node id="267132382" lat="52.2056027" lon="0.4843718" version="1" timestamp="2008-05-27T18:13:13Z" changeset="533426" uid="3582" user="davidearl"/>
   <node id="268811414" lat="52.2463275" lon="0.4873995" version="1" timestamp="2008-06-06T16:49:54Z" changeset="68801" uid="3582" user="davidearl"/>
   <node id="534935381" lat="52.2368288" lon="0.5058822" version="3" timestamp="2012-08-13T00:17:04Z" changeset="12708268" uid="553735" user="Johnmb"/>
   <node id="2442886884" lat="52.2122009" lon="0.4751999" version="1" timestamp="2013-09-02T12:33:32Z" changeset="17634860" uid="281267" user="smb1001"/>
+  <node id="3613205626" lat="52.2137803" lon="0.4926964" version="2" timestamp="2025-02-28T15:55:05Z" changeset="163058500" uid="5229644" user="Nathan_A_RF"/>
   <way id="4752378" version="6" timestamp="2016-04-13T11:36:33Z" changeset="38522586" uid="2861565" user="DM5">
     <nd ref="30319374"/>
     <nd ref="2424027312"/>
@@ -646,6 +646,28 @@
     <tag k="ref" v="B1063"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
+  <way id="234100164" version="4" timestamp="2020-10-15T11:13:58Z" changeset="92519477" uid="281267" user="smb1001">
+    <nd ref="2424027255"/>
+    <nd ref="2424027238"/>
+    <nd ref="2424027254"/>
+    <nd ref="2424027233"/>
+    <nd ref="2424027240"/>
+    <nd ref="2424027241"/>
+    <nd ref="2424027219"/>
+    <nd ref="2424027248"/>
+    <nd ref="2424027288"/>
+    <nd ref="2424027276"/>
+    <nd ref="2424027244"/>
+    <nd ref="2424027242"/>
+    <nd ref="2424027255"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary (Ashley Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="wikidata" v="Q26456952"/>
+  </way>
   <way id="234100171" version="1" timestamp="2013-08-19T11:59:16Z" changeset="17410015" uid="281267" user="smb1001">
     <nd ref="267131706"/>
     <nd ref="2424027308"/>
@@ -682,6 +704,15 @@
     <nd ref="267131857"/>
     <nd ref="267132382"/>
     <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="931976557" version="1" timestamp="2021-04-18T13:04:15Z" changeset="103136556" uid="1782504" user="corgicity">
+    <nd ref="8639938315"/>
+    <nd ref="8639938316"/>
+    <nd ref="8639938317"/>
+    <nd ref="8639938318"/>
+    <nd ref="8639938315"/>
+    <tag k="building" v="ruins"/>
+    <tag k="name" v="Chuch Tower"/>
   </way>
 
 </osm>

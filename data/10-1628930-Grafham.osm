@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:09:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="8583421" lat="52.2906329" lon="-0.2789592" version="4" timestamp="2009-02-22T14:39:47Z" changeset="615292" uid="12674" user="Peter Hibbert"/>
   <node id="322129906" lat="52.3131282" lon="-0.2520957" version="9" timestamp="2019-07-12T06:15:09Z" changeset="72163778" uid="90142" user="andy mackey"/>
+  <node id="349120973" lat="52.3066381" lon="-0.2962801" version="9" timestamp="2019-02-17T00:43:24Z" changeset="67266772" uid="5173844" user="ndrw6"/>
   <node id="1228388052" lat="52.3133089" lon="-0.2988725" version="1" timestamp="2011-04-01T20:42:43Z" changeset="7739175" uid="90142" user="andy mackey"/>
   <way id="4988252" version="8" timestamp="2016-09-19T11:20:39Z" changeset="42267883" uid="2983218" user="LovenOutdoors">
     <nd ref="33107315"/>
@@ -349,6 +349,32 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Chestnut Close"/>
   </way>
+  <way id="116884173" version="4" timestamp="2021-09-01T21:58:42Z" changeset="110586457" uid="11022773" user="GeoFens">
+    <nd ref="1316621037"/>
+    <nd ref="1316621061"/>
+    <nd ref="1316621073"/>
+    <nd ref="1316621088"/>
+    <nd ref="1316620816"/>
+    <nd ref="1316620827"/>
+    <nd ref="1316620831"/>
+    <nd ref="1316620833"/>
+    <nd ref="1316620836"/>
+    <nd ref="1316620845"/>
+    <nd ref="1316620800"/>
+    <nd ref="1316620852"/>
+    <nd ref="1316621037"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Grafham Water Caravan and Motorhome Club"/>
+  </way>
+  <way id="116884177" version="1" timestamp="2011-06-08T22:09:51Z" changeset="8384155" uid="90142" user="andy mackey">
+    <nd ref="1316621113"/>
+    <nd ref="1316621082"/>
+    <nd ref="1316621084"/>
+    <nd ref="1316621094"/>
+    <nd ref="1316621113"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="poultry sheds"/>
+  </way>
   <way id="177368668" version="1" timestamp="2012-08-22T18:48:02Z" changeset="12824362" uid="199837" user="happy5214">
     <nd ref="349112747"/>
     <nd ref="1878125359"/>
@@ -372,27 +398,154 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="The Pightle"/>
   </way>
-  <way id="361438337" version="5" timestamp="2024-05-12T10:00:43Z" changeset="151217134" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="3659129384"/>
-    <nd ref="3659129385"/>
-    <nd ref="3659129386"/>
-    <nd ref="3659129387"/>
-    <nd ref="3659129388"/>
-    <nd ref="3659129389"/>
-    <nd ref="3659129390"/>
-    <nd ref="9161307838"/>
-    <nd ref="9161307839"/>
-    <nd ref="8395983734"/>
-    <nd ref="3659129395"/>
-    <nd ref="3659129384"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="Model Farm"/>
-    <tag k="addr:postcode" v="PE28 0BH"/>
-    <tag k="addr:street" v="Buckden Road"/>
-    <tag k="addr:suburb" v="Grafham"/>
-    <tag k="landuse" v="farmyard"/>
+  <way id="233003792" version="5" timestamp="2023-11-03T18:38:55Z" changeset="143587010" uid="504708" user="HillWithSmallFields">
+    <nd ref="2413361084"/>
+    <nd ref="2413361030"/>
+    <nd ref="2413361058"/>
+    <nd ref="2413361057"/>
+    <nd ref="90779734"/>
+    <nd ref="2413360988"/>
+    <nd ref="2413361063"/>
+    <nd ref="2413361024"/>
+    <nd ref="2413361055"/>
+    <nd ref="2413361027"/>
+    <nd ref="2413361014"/>
+    <nd ref="2413361012"/>
+    <nd ref="2413361084"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Grafham Parish Church)"/>
+    <tag k="ref:dove" v="14128"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527940"/>
+  </way>
+  <way id="233003796" version="6" timestamp="2023-03-20T01:35:37Z" changeset="133879103" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="2413361079"/>
+    <nd ref="2413361043"/>
+    <nd ref="2413361080"/>
+    <nd ref="2413361049"/>
+    <nd ref="9054649660"/>
+    <nd ref="2413361079"/>
+    <tag k="addr:city" v="Grafham"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Grafham Village Hall"/>
+  </way>
+  <way id="287865593" version="6" timestamp="2021-09-09T21:28:36Z" changeset="110995902" uid="11022773" user="GeoFens">
+    <nd ref="2914311000"/>
+    <nd ref="2914311110"/>
+    <nd ref="2914311107"/>
+    <nd ref="2914310992"/>
+    <nd ref="2914311000"/>
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Rutland Cycling Grafham"/>
+    <tag k="operator" v="Rutland Cycling"/>
+    <tag k="shop" v="bicycle"/>
+  </way>
+  <way id="287865594" version="5" timestamp="2021-02-09T16:17:20Z" changeset="98988748" uid="12452588" user="andrewwbarry">
+    <nd ref="2914310747"/>
+    <nd ref="2914310778"/>
+    <nd ref="2914310773"/>
+    <nd ref="8409088804"/>
+    <nd ref="8409088812"/>
+    <nd ref="8409088808"/>
+    <nd ref="8409088809"/>
+    <nd ref="8409088803"/>
+    <nd ref="4917420770"/>
+    <nd ref="2914310748"/>
+    <nd ref="2914310747"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Information"/>
+    <tag k="shop" v="confectionery"/>
+  </way>
+  <way id="380584953" version="1" timestamp="2015-11-16T14:29:07Z" changeset="35352216" uid="1302721" user="Glucosamine">
+    <nd ref="3839024526"/>
+    <nd ref="3839024527"/>
+    <nd ref="3839024528"/>
+    <nd ref="3839024529"/>
+    <nd ref="3839024530"/>
+    <nd ref="3839024531"/>
+    <nd ref="3839024532"/>
+    <nd ref="3839024514"/>
+    <nd ref="3839024515"/>
+    <nd ref="3839024518"/>
+    <nd ref="3839024519"/>
+    <nd ref="3839024520"/>
+    <nd ref="3839024521"/>
+    <nd ref="3839024522"/>
+    <nd ref="3839024523"/>
+    <nd ref="3839024524"/>
+    <nd ref="3839024525"/>
+    <nd ref="3839024516"/>
+    <nd ref="3839024517"/>
+    <nd ref="3839024526"/>
+    <tag k="building" v="industrial"/>
+    <tag k="name" v="Valve Tower"/>
+  </way>
+  <way id="432540733" version="2" timestamp="2021-02-09T16:00:57Z" changeset="98987946" uid="12452588" user="andrewwbarry">
+    <nd ref="4315491712"/>
+    <nd ref="4315491713"/>
+    <nd ref="4315491714"/>
+    <nd ref="4315491715"/>
+    <nd ref="4315491716"/>
+    <nd ref="4315491717"/>
+    <nd ref="4315491712"/>
+    <tag k="building" v="barn"/>
     <tag k="name" v="Model Farm"/>
+  </way>
+  <way id="432540734" version="2" timestamp="2021-02-09T16:00:57Z" changeset="98987946" uid="12452588" user="andrewwbarry">
+    <nd ref="4315491718"/>
+    <nd ref="4315491719"/>
+    <nd ref="4315491720"/>
+    <nd ref="4315491721"/>
+    <nd ref="4315491722"/>
+    <nd ref="4315491723"/>
+    <nd ref="4315491718"/>
+    <tag k="building" v="barn"/>
+    <tag k="name" v="Model Farm"/>
+  </way>
+  <way id="432540735" version="3" timestamp="2021-03-01T11:25:24Z" changeset="100200350" uid="12452588" user="andrewwbarry">
+    <nd ref="4315491724"/>
+    <nd ref="4315491725"/>
+    <nd ref="4315491726"/>
+    <nd ref="4315491727"/>
+    <nd ref="4315491724"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Model Farm"/>
+  </way>
+  <way id="432540736" version="3" timestamp="2021-03-01T11:25:24Z" changeset="100200350" uid="12452588" user="andrewwbarry">
+    <nd ref="4315491728"/>
+    <nd ref="4315491729"/>
+    <nd ref="4315491730"/>
+    <nd ref="4315491731"/>
+    <nd ref="4315491728"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Model Farm"/>
+  </way>
+  <way id="432540742" version="2" timestamp="2021-02-09T16:00:57Z" changeset="98987946" uid="12452588" user="andrewwbarry">
+    <nd ref="4315491593"/>
+    <nd ref="4315491594"/>
+    <nd ref="4315491595"/>
+    <nd ref="4315491596"/>
+    <nd ref="4315491593"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Model Farm"/>
+  </way>
+  <way id="443175759" version="3" timestamp="2021-02-09T16:00:57Z" changeset="98987946" uid="12452588" user="andrewwbarry">
+    <nd ref="4408012039"/>
+    <nd ref="4408012040"/>
+    <nd ref="4408012041"/>
+    <nd ref="4408012042"/>
+    <nd ref="4408012043"/>
+    <nd ref="4408012044"/>
+    <nd ref="4408012039"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Brick Barn Holiday Cottages"/>
+    <tag k="tourism" v="chalet"/>
   </way>
   <way id="443175760" version="4" timestamp="2024-05-12T10:00:43Z" changeset="151217134" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4408012045"/>
@@ -579,6 +732,53 @@
     <tag k="highway" v="unclassified"/>
     <tag k="width" v="3 metres"/>
   </way>
+  <way id="597414299" version="3" timestamp="2021-09-24T16:38:19Z" changeset="111656762" uid="11022773" user="GeoFens">
+    <nd ref="5688237920"/>
+    <nd ref="5688237914"/>
+    <nd ref="5688237916"/>
+    <nd ref="5688237918"/>
+    <nd ref="5688237917"/>
+    <nd ref="5688237920"/>
+    <tag k="building" v="yes"/>
+    <tag k="hide" v="yes"/>
+    <tag k="leisure" v="bird_hide"/>
+    <tag k="name" v="Savage's Hide"/>
+  </way>
+  <way id="904120723" version="5" timestamp="2021-03-01T11:41:25Z" changeset="100202026" uid="12452588" user="andrewwbarry">
+    <nd ref="8396829643"/>
+    <nd ref="8396829644"/>
+    <nd ref="8396829645"/>
+    <nd ref="8396829646"/>
+    <nd ref="8396829647"/>
+    <nd ref="8396829648"/>
+    <nd ref="8396829649"/>
+    <nd ref="8396829650"/>
+    <nd ref="8396829651"/>
+    <nd ref="8475706820"/>
+    <nd ref="8475706819"/>
+    <nd ref="8475706818"/>
+    <nd ref="8475706817"/>
+    <nd ref="8475682516"/>
+    <nd ref="8475682515"/>
+    <nd ref="8475682514"/>
+    <nd ref="8475682513"/>
+    <nd ref="8475682512"/>
+    <nd ref="8475682511"/>
+    <nd ref="8475682510"/>
+    <nd ref="8475682509"/>
+    <nd ref="8475682508"/>
+    <nd ref="8396829652"/>
+    <nd ref="8396829653"/>
+    <nd ref="8396829654"/>
+    <nd ref="8396829655"/>
+    <nd ref="8396829660"/>
+    <nd ref="8396829656"/>
+    <nd ref="8396829657"/>
+    <nd ref="8396829658"/>
+    <nd ref="8396829643"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Village Farm"/>
+  </way>
   <way id="904122759" version="4" timestamp="2024-05-12T10:00:43Z" changeset="151217134" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="8396848186"/>
     <nd ref="8396848187"/>
@@ -631,6 +831,227 @@
     <tag k="building" v="house"/>
     <tag k="name" v="Grafham Brewing Co."/>
     <tag k="website" v="https://www.grafhambrewing.co/"/>
+  </way>
+  <way id="904139226" version="3" timestamp="2021-09-01T21:58:42Z" changeset="110586457" uid="11022773" user="GeoFens">
+    <nd ref="8396985110"/>
+    <nd ref="8396985111"/>
+    <nd ref="8396985112"/>
+    <nd ref="8396985113"/>
+    <nd ref="8396985114"/>
+    <nd ref="8396985115"/>
+    <nd ref="8396985110"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Caravan &amp; Motorhome Club"/>
+  </way>
+  <way id="905037908" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896026"/>
+    <nd ref="8404896027"/>
+    <nd ref="8404896028"/>
+    <nd ref="8404896029"/>
+    <nd ref="8404896026"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037909" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896030"/>
+    <nd ref="8404896031"/>
+    <nd ref="8404896032"/>
+    <nd ref="8404896033"/>
+    <nd ref="8404896030"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037910" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896034"/>
+    <nd ref="8404896035"/>
+    <nd ref="8404896036"/>
+    <nd ref="8404896037"/>
+    <nd ref="8404896034"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037911" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896038"/>
+    <nd ref="8404896039"/>
+    <nd ref="8404896040"/>
+    <nd ref="8404896041"/>
+    <nd ref="8404896038"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037912" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896042"/>
+    <nd ref="8404896043"/>
+    <nd ref="8404896044"/>
+    <nd ref="8404896045"/>
+    <nd ref="8404896042"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037913" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896046"/>
+    <nd ref="8404896047"/>
+    <nd ref="8404896048"/>
+    <nd ref="8404896049"/>
+    <nd ref="8404896046"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037914" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896050"/>
+    <nd ref="8404896051"/>
+    <nd ref="8404896052"/>
+    <nd ref="8404896053"/>
+    <nd ref="8404896050"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037915" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896054"/>
+    <nd ref="8404896055"/>
+    <nd ref="8404896056"/>
+    <nd ref="8404896057"/>
+    <nd ref="8404896054"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037916" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896058"/>
+    <nd ref="8404896059"/>
+    <nd ref="8404896060"/>
+    <nd ref="8404896061"/>
+    <nd ref="8404896058"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037917" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896062"/>
+    <nd ref="8404896063"/>
+    <nd ref="8404896064"/>
+    <nd ref="8404896065"/>
+    <nd ref="8404896062"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037918" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896066"/>
+    <nd ref="8404896067"/>
+    <nd ref="8404896068"/>
+    <nd ref="8404896069"/>
+    <nd ref="8404896066"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037919" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896070"/>
+    <nd ref="8404896071"/>
+    <nd ref="8404896072"/>
+    <nd ref="8404896073"/>
+    <nd ref="8404896070"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037920" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896074"/>
+    <nd ref="8404896075"/>
+    <nd ref="8404896076"/>
+    <nd ref="8404896077"/>
+    <nd ref="8404896074"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037921" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896078"/>
+    <nd ref="8404896079"/>
+    <nd ref="8404896080"/>
+    <nd ref="8404896081"/>
+    <nd ref="8404896078"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037922" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896082"/>
+    <nd ref="8404896083"/>
+    <nd ref="8404896084"/>
+    <nd ref="8404896085"/>
+    <nd ref="8404896082"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037923" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896086"/>
+    <nd ref="8404896087"/>
+    <nd ref="8404896088"/>
+    <nd ref="8404896089"/>
+    <nd ref="8404896086"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037924" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896090"/>
+    <nd ref="8404896091"/>
+    <nd ref="8404896092"/>
+    <nd ref="8404896093"/>
+    <nd ref="8404896090"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037925" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896094"/>
+    <nd ref="8404896095"/>
+    <nd ref="8404896096"/>
+    <nd ref="8404896097"/>
+    <nd ref="8404896094"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037926" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896098"/>
+    <nd ref="8404896099"/>
+    <nd ref="8404896100"/>
+    <nd ref="8404896101"/>
+    <nd ref="8404896098"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037927" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896102"/>
+    <nd ref="8404896103"/>
+    <nd ref="8404896104"/>
+    <nd ref="8404896105"/>
+    <nd ref="8404896102"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="905037928" version="1" timestamp="2021-02-08T12:25:41Z" changeset="98909840" uid="12452588" user="andrewwbarry">
+    <nd ref="8404896106"/>
+    <nd ref="8404896107"/>
+    <nd ref="8404896108"/>
+    <nd ref="8404896109"/>
+    <nd ref="8404896106"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grafham Water Lodges"/>
+    <tag k="tourism" v="chalet"/>
   </way>
   <way id="912434928" version="2" timestamp="2024-05-12T10:00:43Z" changeset="151217134" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="8476164955"/>

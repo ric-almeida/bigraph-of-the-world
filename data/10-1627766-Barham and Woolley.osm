@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:09:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="107986482" lat="52.3710289" lon="-0.2817042" version="6" timestamp="2015-10-10T15:56:40Z" changeset="34551936" uid="90142" user="andy mackey"/>
-  <node id="312353965" lat="52.3744554" lon="-0.3527274" version="4" timestamp="2011-05-22T21:39:48Z" changeset="8221598" uid="7098" user="richardm565"/>
-  <node id="344748025" lat="52.3548860" lon="-0.2738084" version="4" timestamp="2024-08-29T01:19:24Z" changeset="155906221" uid="9596084" user="Alec Coates"/>
   <node id="344748031" lat="52.3509875" lon="-0.2535898" version="2" timestamp="2024-08-29T01:19:24Z" changeset="155906221" uid="9596084" user="Alec Coates"/>
-  <node id="344748154" lat="52.3529790" lon="-0.3413409" version="1" timestamp="2009-02-12T20:18:23Z" changeset="374203" uid="91225" user="tms13">
+  <node id="344748076" lat="52.3574657" lon="-0.3056537" version="1" timestamp="2009-02-12T20:18:14Z" changeset="374203" uid="91225" user="tms13">
     <tag k="created_by" v="Merkaartor 0.12"/>
   </node>
+  <node id="344748136" lat="52.3620491" lon="-0.3338509" version="2" timestamp="2013-09-27T14:37:18Z" changeset="18062726" uid="281267" user="smb1001"/>
   <node id="344779848" lat="52.3378761" lon="-0.3184854" version="1" timestamp="2009-02-12T21:33:38Z" changeset="374203" uid="91225" user="tms13">
     <tag k="created_by" v="Merkaartor 0.12"/>
   </node>
   <node id="461096167" lat="52.3748580" lon="-0.3134422" version="1" timestamp="2009-08-10T19:27:37Z" changeset="2101081" uid="66869" user="Simon Daw"/>
+  <node id="534935839" lat="52.3660914" lon="-0.3323324" version="2" timestamp="2013-09-27T14:37:18Z" changeset="18062726" uid="281267" user="smb1001"/>
   <way id="28429197" version="5" timestamp="2024-05-12T12:00:30Z" changeset="151221867" uid="486701" user="eteb3">
     <nd ref="312353949"/>
     <nd ref="11898428883"/>
@@ -205,6 +204,19 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="source" v="gps"/>
   </way>
+  <way id="103481461" version="4" timestamp="2020-10-10T22:08:02Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="1194789559"/>
+    <nd ref="1194789566"/>
+    <nd ref="1194789570"/>
+    <nd ref="1194789516"/>
+    <nd ref="1194789559"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Giles"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543956"/>
+  </way>
   <way id="114314853" version="2" timestamp="2016-10-09T12:34:03Z" changeset="42753039" uid="118021" user="maggot27">
     <nd ref="1295212123"/>
     <nd ref="1295212125"/>
@@ -229,6 +241,37 @@
     <nd ref="534935841"/>
     <tag k="highway" v="unclassified"/>
     <tag k="source" v="gps"/>
+  </way>
+  <way id="239578311" version="2" timestamp="2024-05-12T11:07:47Z" changeset="151219762" uid="486701" user="eteb3">
+    <nd ref="2473563347"/>
+    <nd ref="2473563019"/>
+    <nd ref="2473563039"/>
+    <nd ref="2473563233"/>
+    <nd ref="2473563185"/>
+    <nd ref="2473563251"/>
+    <nd ref="2473563277"/>
+    <nd ref="2473563310"/>
+    <nd ref="2473563347"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Old Rectory"/>
+  </way>
+  <way id="239578320" version="2" timestamp="2013-11-18T13:44:58Z" changeset="18972265" uid="1668556" user="Henry MAssey">
+    <nd ref="2473563354"/>
+    <nd ref="2473563099"/>
+    <nd ref="2473563187"/>
+    <nd ref="2473563231"/>
+    <nd ref="2473563354"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Torpel"/>
+  </way>
+  <way id="239578322" version="1" timestamp="2013-09-27T14:21:46Z" changeset="18062474" uid="281267" user="smb1001">
+    <nd ref="2473563399"/>
+    <nd ref="2473563324"/>
+    <nd ref="2473563037"/>
+    <nd ref="2473562999"/>
+    <nd ref="2473563399"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Manor House"/>
   </way>
   <way id="463125491" version="9" timestamp="2024-08-29T01:19:24Z" changeset="155906221" uid="9596084" user="Alec Coates">
     <nd ref="344748031"/>
@@ -322,6 +365,19 @@
     <tag k="maxspeed" v="60 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Woolley Road"/>
+  </way>
+  <way id="992583632" version="2" timestamp="2024-05-12T12:00:30Z" changeset="151221867" uid="486701" user="eteb3">
+    <nd ref="9170627657"/>
+    <nd ref="9170627658"/>
+    <nd ref="9170627659"/>
+    <nd ref="9170627660"/>
+    <nd ref="9170627661"/>
+    <nd ref="9170627662"/>
+    <nd ref="9170627663"/>
+    <nd ref="9170627664"/>
+    <nd ref="9170627657"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grange Farm House"/>
   </way>
 
 </osm>

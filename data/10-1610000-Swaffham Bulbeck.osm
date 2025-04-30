@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="214258" lat="52.2485224" lon="0.3621545" version="7" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
-  <node id="608749" lat="52.2149042" lon="0.2225050" version="11" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
-    <tag k="exit_to" v="Cambridge;Burwell"/>
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Quy"/>
-    <tag k="ref" v="35"/>
-  </node>
+  <node id="214294" lat="52.2253080" lon="0.3216542" version="8" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="214933" lat="52.2208480" lon="0.3172499" version="3" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="608662" lat="52.2180723" lon="0.3121219" version="2" timestamp="2011-12-19T22:54:21Z" changeset="10159843" uid="5926" user="c2r"/>
   <node id="608760" lat="52.2150568" lon="0.2227659" version="8" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
-  <node id="5250986" lat="52.2400668" lon="0.2623555" version="2" timestamp="2015-05-25T18:54:59Z" changeset="31454039" uid="669183" user="Andy_W"/>
-  <node id="13337302" lat="52.2102402" lon="0.3373285" version="3" timestamp="2025-02-24T17:53:35Z" changeset="162903132" uid="5008136" user="JayTurnr"/>
+  <node id="5250025" lat="52.2422236" lon="0.2703421" version="3" timestamp="2015-05-25T18:54:59Z" changeset="31454039" uid="669183" user="Andy_W"/>
   <node id="20960333" lat="52.2169740" lon="0.2686360" version="2" timestamp="2011-08-31T14:40:03Z" changeset="9176863" uid="504708" user="HillWithSmallFields"/>
-  <node id="20960435" lat="52.1908941" lon="0.3008374" version="2" timestamp="2011-09-11T19:28:14Z" changeset="9273810" uid="504708" user="HillWithSmallFields"/>
   <node id="20960535" lat="52.1909195" lon="0.3006712" version="1" timestamp="2006-11-11T16:05:58Z" changeset="153008" uid="3582" user="davidearl">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="24341853" lat="52.2257120" lon="0.3604453" version="3" timestamp="2021-10-09T00:35:32Z" changeset="112285939" uid="2400834" user="Gyrwa"/>
   <node id="26113430" lat="52.2463623" lon="0.2879203" version="1" timestamp="2007-08-31T14:19:26Z" changeset="284457" uid="12606" user="Clive Watts">
     <tag k="created_by" v="JOSM"/>
   </node>
@@ -26,14 +19,9 @@
     <tag k="highway" v="motorway_junction"/>
   </node>
   <node id="262711479" lat="52.2690622" lon="0.2631918" version="4" timestamp="2015-05-25T19:37:30Z" changeset="31454039" uid="669183" user="Andy_W"/>
-  <node id="2961509797" lat="52.2398144" lon="0.2782200" version="3" timestamp="2020-10-26T11:59:17Z" changeset="93060045" uid="7782183" user="James Hannah">
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:postcode" v="CB25 0HP"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="shop" v="convenience"/>
-  </node>
+  <node id="963733068" lat="52.2160046" lon="0.3123003" version="1" timestamp="2010-10-24T19:08:20Z" changeset="6161251" uid="5926" user="c2r"/>
   <node id="11702487361" lat="52.2296282" lon="0.2740255" version="1" timestamp="2024-03-08T00:10:34Z" changeset="148364407" uid="10420541" user="Thingummy"/>
-  <node id="12655866514" lat="52.2481592" lon="0.3611600" version="1" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
+  <node id="12500658804" lat="52.2193276" lon="0.3273093" version="1" timestamp="2025-01-14T11:56:11Z" changeset="161342350" uid="11184620" user="kateaew"/>
   <way id="3997298" version="19" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
     <nd ref="608663"/>
     <nd ref="12655866522"/>
@@ -856,39 +844,6 @@
     <tag k="name" v="Grove Cottages"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
-  <way id="4291139" version="10" timestamp="2023-08-01T20:36:50Z" changeset="139317851" uid="242345" user="confusedbuffalo">
-    <nd ref="25905300"/>
-    <nd ref="2296817156"/>
-    <nd ref="25905301"/>
-    <nd ref="2296817227"/>
-    <nd ref="25905302"/>
-    <nd ref="25905304"/>
-    <nd ref="2296817071"/>
-    <nd ref="2296817128"/>
-    <nd ref="25905300"/>
-    <tag k="addr:housenumber" v="84"/>
-    <tag k="addr:postcode" v="CB25 0LX"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="94"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="diocese" v="Diocese of Ely"/>
-    <tag k="isced:level" v="0;1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="3"/>
-    <tag k="name" v="Swaffham Bulbeck Church of England Primary School"/>
-    <tag k="phone" v="+44 1223 811595"/>
-    <tag k="ref:GB:uprn" v="10002596365"/>
-    <tag k="ref:edubase" v="146469"/>
-    <tag k="ref:edubase:group" v="2905"/>
-    <tag k="religion" v="christian"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="The Diocese of Ely Multi-Academy Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="website" v="https://www.swaffhambulbeck.cambs.sch.uk/"/>
-    <tag k="wikidata" v="Q66232778"/>
-  </way>
   <way id="4291148" version="6" timestamp="2016-05-05T22:33:09Z" changeset="39131504" uid="873940" user="Mike Baggaley">
     <nd ref="5251557"/>
     <nd ref="2296817173"/>
@@ -1232,6 +1187,51 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="ref" v="A1303"/>
   </way>
+  <way id="220571895" version="6" timestamp="2023-11-03T08:31:18Z" changeset="143562970" uid="504708" user="HillWithSmallFields">
+    <nd ref="2296817023"/>
+    <nd ref="2296817228"/>
+    <nd ref="2296817221"/>
+    <nd ref="2296817030"/>
+    <nd ref="2296817067"/>
+    <nd ref="2296817177"/>
+    <nd ref="2296817152"/>
+    <nd ref="2296817136"/>
+    <nd ref="2296817123"/>
+    <nd ref="2296817047"/>
+    <nd ref="2296817073"/>
+    <nd ref="2296817213"/>
+    <nd ref="2296817026"/>
+    <nd ref="2296817055"/>
+    <nd ref="2296817115"/>
+    <nd ref="2296817124"/>
+    <nd ref="2296817181"/>
+    <nd ref="2296816994"/>
+    <nd ref="2296816953"/>
+    <nd ref="2296817191"/>
+    <nd ref="2296817023"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Mary's (Swaffham Bulbeck Parish Church)"/>
+    <tag k="ref:dove" v="13661"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="local knowledge"/>
+    <tag k="wikidata" v="Q40110447"/>
+  </way>
+  <way id="220571902" version="2" timestamp="2018-12-18T18:27:25Z" changeset="65589365" uid="364" user="Edward">
+    <nd ref="2296817138"/>
+    <nd ref="2296817142"/>
+    <nd ref="2296817035"/>
+    <nd ref="2296817183"/>
+    <nd ref="2296817072"/>
+    <nd ref="2296816988"/>
+    <nd ref="2296817178"/>
+    <nd ref="2296817006"/>
+    <nd ref="2296817138"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Burgh Hall"/>
+    <tag k="wikidata" v="Q17543585"/>
+  </way>
   <way id="220571908" version="3" timestamp="2016-07-11T20:01:08Z" changeset="40664332" uid="242345" user="confusedbuffalo">
     <nd ref="2296817004"/>
     <nd ref="2296817015"/>
@@ -1257,6 +1257,16 @@
     <nd ref="2296904632"/>
     <tag k="highway" v="residential"/>
   </way>
+  <way id="220585031" version="5" timestamp="2021-03-25T22:29:34Z" changeset="101746091" uid="145231" user="woodpeck_repair">
+    <nd ref="2296904532"/>
+    <nd ref="2296904371"/>
+    <nd ref="2296904468"/>
+    <nd ref="2296904476"/>
+    <nd ref="2296904532"/>
+    <tag k="addr:postcode" v="CB25 0NQ"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Abbey"/>
+  </way>
   <way id="220585120" version="6" timestamp="2022-02-17T01:51:39Z" changeset="117499130" uid="11201682" user="hillanit">
     <nd ref="2296904563"/>
     <nd ref="2296904660"/>
@@ -1269,6 +1279,23 @@
     <tag k="building" v="semidetached_house"/>
     <tag k="building:levels" v="2"/>
     <tag k="roof:levels" v="1"/>
+  </way>
+  <way id="220599822" version="1" timestamp="2013-05-09T13:21:05Z" changeset="16047381" uid="281267" user="smb1001">
+    <nd ref="2297019012"/>
+    <nd ref="2297018933"/>
+    <nd ref="2297018916"/>
+    <nd ref="2297018959"/>
+    <nd ref="2297018663"/>
+    <nd ref="2297018950"/>
+    <nd ref="2297018940"/>
+    <nd ref="2297018815"/>
+    <nd ref="2297018637"/>
+    <nd ref="2297018837"/>
+    <nd ref="2297018892"/>
+    <nd ref="2297018912"/>
+    <nd ref="2297019012"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Mill House"/>
   </way>
   <way id="232893030" version="4" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
     <nd ref="1219709413"/>
@@ -1316,6 +1343,20 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Gutter Bridge"/>
     <tag k="ref" v="B1102"/>
+  </way>
+  <way id="438220793" version="2" timestamp="2017-06-22T09:53:15Z" changeset="49741969" uid="364" user="Edward">
+    <nd ref="4359512991"/>
+    <nd ref="4359512992"/>
+    <nd ref="4359512993"/>
+    <nd ref="4359512994"/>
+    <nd ref="4359512995"/>
+    <nd ref="2296905015"/>
+    <nd ref="2296905129"/>
+    <nd ref="4359512991"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="name" v="Bolebec Cottage"/>
+    <tag k="wikidata" v="Q26419971"/>
   </way>
   <way id="1206904720" version="3" timestamp="2025-02-24T17:39:35Z" changeset="162902655" uid="5008136" user="JayTurnr">
     <nd ref="1219709393"/>
@@ -1392,12 +1433,13 @@
     <tag k="sidewalk" v="separate"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
-  <way id="1374817337" version="1" timestamp="2025-04-04T18:26:58Z" changeset="164523479" uid="953779" user="Adam Edwards">
+  <way id="1374817337" version="2" timestamp="2025-04-24T15:28:00Z" changeset="165385231" uid="5229644" user="Nathan_A_RF">
     <nd ref="12729531335"/>
     <nd ref="25904935"/>
     <tag k="highway" v="secondary"/>
     <tag k="lit" v="yes"/>
     <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Station Road"/>
     <tag k="ref" v="B1102"/>
   </way>

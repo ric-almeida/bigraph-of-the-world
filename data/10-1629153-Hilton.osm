@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:10:10Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="8585509" lat="52.2815441" lon="-0.1013862" version="1" timestamp="2006-06-24T19:46:44Z" changeset="43803" uid="81" user="Simon Proven">
+    <tag k="created_by" v="JOSM"/>
+  </node>
   <node id="25720371" lat="52.2752896" lon="-0.1371759" version="3" timestamp="2021-07-09T17:54:44Z" changeset="107719667" uid="5173844" user="ndrw6"/>
-  <node id="132349971" lat="52.2622760" lon="-0.1183032" version="3" timestamp="2010-06-06T21:36:27Z" changeset="4923129" uid="5926" user="c2r"/>
   <node id="175739191" lat="52.2570269" lon="-0.1229991" version="7" timestamp="2021-07-09T17:54:44Z" changeset="107719667" uid="5173844" user="ndrw6"/>
-  <node id="178798375" lat="52.2571879" lon="-0.1222641" version="5" timestamp="2013-06-12T06:52:20Z" changeset="16519780" uid="202091" user="cliftonweather"/>
-  <node id="1572773879" lat="52.2582142" lon="-0.1245738" version="2" timestamp="2021-07-09T17:54:44Z" changeset="107719667" uid="5173844" user="ndrw6"/>
-  <node id="4584305902" lat="52.2890412" lon="-0.0883156" version="4" timestamp="2019-06-05T08:32:50Z" changeset="70947819" uid="5173844" user="ndrw6"/>
+  <node id="7198832808" lat="52.2791321" lon="-0.1252028" version="2" timestamp="2025-02-22T17:19:05Z" changeset="162825013" uid="669183" user="Andy_W"/>
   <node id="12601775153" lat="52.2878168" lon="-0.1055999" version="1" timestamp="2025-02-19T20:18:33Z" changeset="162716145" uid="10420541" user="Thingummy">
     <tag k="crossing:island" v="no"/>
     <tag k="tactile_paving" v="no"/>
@@ -580,6 +580,48 @@
     <nd ref="254318258"/>
     <tag k="highway" v="residential"/>
   </way>
+  <way id="359187151" version="6" timestamp="2025-03-17T12:25:06Z" changeset="163729801" uid="742701" user="kerr smith">
+    <nd ref="3639439020"/>
+    <nd ref="3639439015"/>
+    <nd ref="3639439016"/>
+    <nd ref="3639439007"/>
+    <nd ref="12673007735"/>
+    <nd ref="12673007733"/>
+    <nd ref="12673007732"/>
+    <nd ref="12673007734"/>
+    <nd ref="3639439008"/>
+    <nd ref="3639439018"/>
+    <nd ref="3639439013"/>
+    <nd ref="3639439010"/>
+    <nd ref="3639439009"/>
+    <nd ref="3639439014"/>
+    <nd ref="3639439011"/>
+    <nd ref="3639439005"/>
+    <nd ref="3639439020"/>
+    <tag k="alt_name" v="Hilton Parish Church"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary Magdalene"/>
+    <tag k="ref:dove" v="12439"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527792"/>
+  </way>
+  <way id="376047793" version="2" timestamp="2025-02-22T16:37:37Z" changeset="162823498" uid="669183" user="Andy_W">
+    <nd ref="254137104"/>
+    <nd ref="3793968651"/>
+    <nd ref="3793968564"/>
+    <nd ref="3793968609"/>
+    <nd ref="12610035178"/>
+    <nd ref="12610035180"/>
+    <nd ref="12610035179"/>
+    <nd ref="12610035181"/>
+    <nd ref="12610035177"/>
+    <nd ref="254137104"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hilton Village Hall"/>
+  </way>
   <way id="463120476" version="7" timestamp="2024-12-24T16:02:51Z" changeset="160581155" uid="21959662" user="cmarriott">
     <nd ref="257590255"/>
     <nd ref="10204308538"/>
@@ -967,6 +1009,21 @@
     <tag k="addr:village" v="Hilton"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="605412821" version="3" timestamp="2024-12-23T13:16:24Z" changeset="160537795" uid="5173844" user="ndrw6">
+    <nd ref="5742293457"/>
+    <nd ref="5742293454"/>
+    <nd ref="5742293455"/>
+    <nd ref="5742293456"/>
+    <nd ref="5742293457"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:village" v="Hilton"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="name" v="Hilton Methodist Church"/>
+    <tag k="religion" v="christian"/>
+  </way>
   <way id="605941502" version="3" timestamp="2024-12-23T13:16:24Z" changeset="160537795" uid="5173844" user="ndrw6">
     <nd ref="5745987421"/>
     <nd ref="5745987120"/>
@@ -1158,6 +1215,15 @@
     <tag k="addr:street" v="Pecks Close"/>
     <tag k="addr:village" v="Hilton"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="606147387" version="2" timestamp="2020-06-04T11:02:14Z" changeset="86185106" uid="11294200" user="Gehamstotter">
+    <nd ref="5747769423"/>
+    <nd ref="5747769422"/>
+    <nd ref="5747769421"/>
+    <nd ref="5747769420"/>
+    <nd ref="5747769423"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hilton Cricket Pavilion"/>
   </way>
   <way id="606150271" version="4" timestamp="2024-12-23T13:16:24Z" changeset="160537795" uid="5173844" user="ndrw6">
     <nd ref="5747796829"/>

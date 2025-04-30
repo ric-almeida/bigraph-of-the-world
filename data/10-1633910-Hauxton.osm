@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:26:02Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="328568" lat="52.1599511" lon="0.1022464" version="7" timestamp="2019-12-01T20:36:54Z" changeset="77790761" uid="2773866" user="kreuzschnabel"/>
   <node id="328569" lat="52.1595491" lon="0.1030156" version="4" timestamp="2019-12-01T20:36:54Z" changeset="77790761" uid="2773866" user="kreuzschnabel"/>
+  <node id="5245030" lat="52.1487995" lon="0.1037021" version="5" timestamp="2021-08-28T20:42:44Z" changeset="110393755" uid="493595" user="Yorvik Prestigitator"/>
   <node id="25779953" lat="52.1401870" lon="0.1103416" version="4" timestamp="2010-03-21T10:22:05Z" changeset="4188614" uid="5926" user="c2r"/>
-  <node id="25779993" lat="52.1411302" lon="0.1116395" version="5" timestamp="2023-09-21T22:40:58Z" changeset="141580193" uid="20240549" user="Sforzando9500"/>
   <node id="25779998" lat="52.1368230" lon="0.0989590" version="4" timestamp="2012-02-05T16:03:42Z" changeset="10594946" uid="3582" user="davidearl"/>
-  <node id="36743539" lat="52.1678640" lon="0.0906532" version="4" timestamp="2012-06-07T12:09:22Z" changeset="11824438" uid="24119" user="Mauls"/>
-  <node id="36744853" lat="52.1512917" lon="0.1102710" version="4" timestamp="2011-03-20T20:14:29Z" changeset="7621206" uid="4951" user="PeterEastern"/>
+  <node id="33128923" lat="52.1585738" lon="0.1000517" version="5" timestamp="2024-10-27T13:30:31Z" changeset="158413238" uid="5229644" user="Nathan_A_RF"/>
+  <node id="33129066" lat="52.1462233" lon="0.0903815" version="5" timestamp="2025-02-27T20:14:48Z" changeset="163027404" uid="5229644" user="Nathan_A_RF"/>
+  <node id="36743540" lat="52.1675276" lon="0.0911314" version="4" timestamp="2012-06-07T12:09:22Z" changeset="11824438" uid="24119" user="Mauls"/>
+  <node id="36744854" lat="52.1509469" lon="0.1103209" version="6" timestamp="2012-06-07T12:26:04Z" changeset="11824559" uid="24119" user="Mauls"/>
   <node id="370187956" lat="52.1601221" lon="0.1022390" version="2" timestamp="2019-12-01T20:36:54Z" changeset="77790761" uid="2773866" user="kreuzschnabel"/>
   <node id="370187989" lat="52.1567416" lon="0.1075885" version="7" timestamp="2024-12-29T19:44:22Z" changeset="160765712" uid="5229644" user="Nathan_A_RF">
     <tag k="exit_to" v="Cambridge South A1309, Harston A10"/>
@@ -18,9 +19,6 @@
     <tag k="ref" v="11"/>
   </node>
   <node id="566364709" lat="52.1456155" lon="0.0898925" version="4" timestamp="2025-02-27T20:14:48Z" changeset="163027404" uid="5229644" user="Nathan_A_RF"/>
-  <node id="566364712" lat="52.1455323" lon="0.0899827" version="4" timestamp="2025-02-27T20:14:48Z" changeset="163027404" uid="5229644" user="Nathan_A_RF"/>
-  <node id="708543182" lat="52.1465907" lon="0.1104891" version="3" timestamp="2018-08-05T00:09:45Z" changeset="61364168" uid="5173844" user="ndrw6"/>
-  <node id="12624039343" lat="52.1456134" lon="0.0900548" version="1" timestamp="2025-02-27T20:14:48Z" changeset="163027404" uid="5229644" user="Nathan_A_RF"/>
   <way id="4258560" version="19" timestamp="2025-02-21T15:54:12Z" changeset="162786589" uid="5008136" user="JayTurnr">
     <nd ref="370187956"/>
     <nd ref="560506379"/>
@@ -63,7 +61,7 @@
     <tag k="name" v="Shelford Road"/>
     <tag k="source:lit" v="local_knowledge (2010)"/>
   </way>
-  <way id="4331024" version="13" timestamp="2024-11-16T15:51:56Z" changeset="159213258" uid="10554793" user="dstansby">
+  <way id="4331024" version="14" timestamp="2025-04-07T13:20:33Z" changeset="164634427" uid="10554793" user="dstansby">
     <nd ref="5245030"/>
     <nd ref="7419663920"/>
     <nd ref="533796328"/>
@@ -88,6 +86,7 @@
     <tag k="maxheight:signed" v="no"/>
     <tag k="name" v="High Street"/>
     <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="4991218" version="20" timestamp="2024-10-27T13:30:31Z" changeset="158413238" uid="5229644" user="Nathan_A_RF">
     <nd ref="33128923"/>
@@ -530,6 +529,35 @@
     <tag k="source:ref" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="44106098" version="6" timestamp="2022-06-23T09:23:06Z" changeset="122749046" uid="8775772" user="LakatosVL">
+    <nd ref="560506196"/>
+    <nd ref="560506199"/>
+    <nd ref="560506185"/>
+    <nd ref="560506186"/>
+    <nd ref="560506196"/>
+    <tag k="abandoned" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="man_made" v="watermill"/>
+    <tag k="name" v="Hauxton Mill"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="signage"/>
+    <tag k="wikidata" v="Q5682994"/>
+    <tag k="wikipedia" v="en:Hauxton Mill"/>
+  </way>
+  <way id="44106099" version="4" timestamp="2020-10-10T22:07:47Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="560506062"/>
+    <nd ref="560506063"/>
+    <nd ref="560506065"/>
+    <nd ref="560506067"/>
+    <nd ref="560506062"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Edmund's (Hauxton Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17528203"/>
+  </way>
   <way id="44606527" version="11" timestamp="2025-02-27T20:14:48Z" changeset="163027404" uid="5229644" user="Nathan_A_RF">
     <nd ref="566364709"/>
     <nd ref="566364713"/>
@@ -571,28 +599,21 @@
     <tag k="source:lit" v="survey (Oct 2010)"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="45750073" version="5" timestamp="2019-08-14T11:46:08Z" changeset="73344790" uid="9310280" user="rsakunth">
-    <nd ref="582686276"/>
-    <nd ref="582686279"/>
-    <nd ref="6709839052"/>
-    <nd ref="25779996"/>
-    <nd ref="582686253"/>
-    <nd ref="586643657"/>
-    <nd ref="582686256"/>
-    <nd ref="582686259"/>
-    <nd ref="582686261"/>
-    <nd ref="586643666"/>
-    <nd ref="582686276"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housename" v="The Barn"/>
-    <tag k="addr:postcode" v="CB22 5HL"/>
-    <tag k="addr:street" v="Newton Road"/>
-    <tag k="addr:village" v="Little Shelford"/>
-    <tag k="landuse" v="commercial"/>
-    <tag k="name" v="Redback Design"/>
+  <way id="44606530" version="1" timestamp="2009-11-17T19:33:17Z" changeset="3144363" uid="21502" user="Kevin Steinhardt">
+    <nd ref="566364739"/>
+    <nd ref="566364740"/>
+    <nd ref="566364741"/>
+    <nd ref="566364742"/>
+    <nd ref="566364743"/>
+    <nd ref="566364744"/>
+    <nd ref="566364745"/>
+    <nd ref="566364746"/>
+    <nd ref="566364739"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Redfield House"/>
+    <tag k="note" v="Badly traced from Yahoo!."/>
     <tag k="source" v="yahoo"/>
-    <tag k="source:addr" v="Redback Design"/>
-    <tag k="url" v="http://www.redbackdesign.co.uk/"/>
+    <tag k="source:name" v="sign"/>
   </way>
   <way id="48750289" version="7" timestamp="2024-11-16T15:51:11Z" changeset="159213245" uid="10554793" user="dstansby">
     <nd ref="618723058"/>
@@ -627,7 +648,7 @@
     <tag k="name" v="Church Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="48750304" version="4" timestamp="2024-06-14T15:42:00Z" changeset="152686063" uid="953779" user="Adam Edwards">
+  <way id="48750304" version="5" timestamp="2025-04-07T13:20:33Z" changeset="164634427" uid="10554793" user="dstansby">
     <nd ref="21076367"/>
     <nd ref="5809622925"/>
     <nd ref="11981136065"/>
@@ -637,6 +658,7 @@
     <tag k="highway" v="tertiary"/>
     <tag k="maxspeed" v="50 mph"/>
     <tag k="name" v="Church Road"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="48750320" version="14" timestamp="2025-02-21T15:49:28Z" changeset="162786395" uid="5008136" user="JayTurnr">
     <nd ref="33128929"/>
@@ -2956,6 +2978,24 @@
     <nd ref="8643343361"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="University Barns"/>
+  </way>
+  <way id="977419973" version="1" timestamp="2021-08-28T20:42:44Z" changeset="110393755" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="9044218492"/>
+    <nd ref="9044218493"/>
+    <nd ref="9044218494"/>
+    <nd ref="9044218495"/>
+    <nd ref="9044218496"/>
+    <nd ref="9044218497"/>
+    <nd ref="9044218498"/>
+    <nd ref="9044218499"/>
+    <nd ref="9044218500"/>
+    <nd ref="9044218501"/>
+    <nd ref="9044218502"/>
+    <nd ref="9044218503"/>
+    <nd ref="9044218492"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="name" v="Hauxton Centre"/>
   </way>
   <way id="1257805273" version="2" timestamp="2025-02-21T15:43:48Z" changeset="162786177" uid="5008136" user="JayTurnr">
     <nd ref="5601746421"/>

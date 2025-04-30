@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:40:28Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="4307482" lat="52.5342574" lon="-0.3199757" version="7" timestamp="2017-05-18T16:19:19Z" changeset="48796276" uid="2773866" user="kreuzschnabel"/>
   <node id="4307507" lat="52.5334187" lon="-0.3189437" version="6" timestamp="2017-05-18T16:19:19Z" changeset="48796276" uid="2773866" user="kreuzschnabel"/>
-  <node id="4308227" lat="52.5324526" lon="-0.3164374" version="6" timestamp="2024-04-02T22:14:05Z" changeset="149500703" uid="5229644" user="Nathan_A_RF"/>
-  <node id="4308838" lat="52.5079085" lon="-0.2941904" version="15" timestamp="2018-09-13T18:32:35Z" changeset="62561387" uid="2773866" user="kreuzschnabel">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Norman Cross"/>
-    <tag k="ref" v="16"/>
-  </node>
   <node id="4317901" lat="52.5246896" lon="-0.3615190" version="2" timestamp="2013-07-29T22:59:18Z" changeset="17146064" uid="5926" user="c2r"/>
-  <node id="180765587" lat="52.5345839" lon="-0.3191861" version="8" timestamp="2017-05-18T16:19:20Z" changeset="48796276" uid="2773866" user="kreuzschnabel"/>
-  <node id="415385557" lat="52.5205036" lon="-0.3572289" version="3" timestamp="2016-11-26T20:41:41Z" changeset="43971310" uid="705850" user="Cebderby"/>
+  <node id="194597999" lat="52.5202778" lon="-0.3285098" version="3" timestamp="2011-07-23T08:10:50Z" changeset="8803974" uid="281152" user="eboshi"/>
   <node id="1822296036" lat="52.5084860" lon="-0.2945255" version="2" timestamp="2018-09-13T17:06:45Z" changeset="62558780" uid="2773866" user="kreuzschnabel"/>
-  <node id="2016486971" lat="52.5314819" lon="-0.3164939" version="2" timestamp="2018-09-13T18:32:38Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="2016486979" lat="52.5368792" lon="-0.3225798" version="2" timestamp="2018-09-13T18:32:38Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
+  <node id="2016452946" lat="52.5265343" lon="-0.3112879" version="4" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="A605 - Peterborough South;Oundle;Services"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Fletton Parkway"/>
+    <tag k="ref" v="17"/>
+  </node>
+  <node id="2016550184" lat="52.5340081" lon="-0.3203459" version="2" timestamp="2017-05-18T16:19:22Z" changeset="48796276" uid="2773866" user="kreuzschnabel"/>
+  <node id="2016553411" lat="52.5312429" lon="-0.3167044" version="3" timestamp="2024-04-02T22:14:05Z" changeset="149500703" uid="5229644" user="Nathan_A_RF"/>
   <node id="5935689016" lat="52.5243918" lon="-0.3048104" version="3" timestamp="2023-03-25T06:49:03Z" changeset="134093032" uid="2041119" user="LarsBG"/>
   <node id="11781550519" lat="52.5240516" lon="-0.3084928" version="1" timestamp="2024-04-02T22:14:05Z" changeset="149500703" uid="5229644" user="Nathan_A_RF"/>
   <way id="4272279" version="24" timestamp="2024-01-07T14:44:18Z" changeset="145994071" uid="5229644" user="Nathan_A_RF">
@@ -344,6 +344,49 @@
     <nd ref="194597999"/>
     <tag k="highway" v="unclassified"/>
   </way>
+  <way id="68750695" version="6" timestamp="2025-04-21T10:29:14Z" changeset="165231535" uid="136220" user="Numbergod">
+    <nd ref="826259797"/>
+    <nd ref="1019323250"/>
+    <nd ref="1019323196"/>
+    <nd ref="1019323309"/>
+    <nd ref="11726681437"/>
+    <nd ref="1019323291"/>
+    <nd ref="1019323380"/>
+    <nd ref="11726681435"/>
+    <nd ref="1019323348"/>
+    <nd ref="1019323171"/>
+    <nd ref="249820078"/>
+    <nd ref="11212589491"/>
+    <nd ref="11212589492"/>
+    <nd ref="11212589493"/>
+    <nd ref="11212589494"/>
+    <nd ref="11212589495"/>
+    <nd ref="826259798"/>
+    <nd ref="1019323287"/>
+    <nd ref="1019323167"/>
+    <nd ref="1019323248"/>
+    <nd ref="1019323397"/>
+    <nd ref="826259799"/>
+    <nd ref="826259800"/>
+    <nd ref="826259801"/>
+    <nd ref="11212589496"/>
+    <nd ref="11212589497"/>
+    <nd ref="826259802"/>
+    <nd ref="1019323334"/>
+    <nd ref="1019323238"/>
+    <nd ref="1019323275"/>
+    <nd ref="826259804"/>
+    <nd ref="1019323145"/>
+    <nd ref="826259797"/>
+    <tag k="brand" v="Days Inn"/>
+    <tag k="brand:wikidata" v="Q1047239"/>
+    <tag k="brand:wikipedia" v="en:Days Inn"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Days Inn"/>
+    <tag k="official_name" v="Days Inn by Wyndham"/>
+    <tag k="operator" v="Welcome Break"/>
+    <tag k="tourism" v="hotel"/>
+  </way>
   <way id="131338629" version="5" timestamp="2021-10-05T23:45:57Z" changeset="112144709" uid="1418967" user="RAC_UK">
     <nd ref="4317704"/>
     <nd ref="4317701"/>
@@ -493,6 +536,28 @@
     <nd ref="391086435"/>
     <nd ref="415385557"/>
     <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="359197646" version="4" timestamp="2023-11-03T18:38:55Z" changeset="143587010" uid="504708" user="HillWithSmallFields">
+    <nd ref="3639522641"/>
+    <nd ref="3639522655"/>
+    <nd ref="3639522656"/>
+    <nd ref="3639522650"/>
+    <nd ref="3639522649"/>
+    <nd ref="3639522657"/>
+    <nd ref="3639522654"/>
+    <nd ref="3639522645"/>
+    <nd ref="3639522643"/>
+    <nd ref="3639522653"/>
+    <nd ref="3639522652"/>
+    <nd ref="3639522651"/>
+    <nd ref="3639522641"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary's"/>
+    <tag k="ref:dove" v="17044"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544170"/>
   </way>
   <way id="494463113" version="9" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
     <nd ref="2016452946"/>
@@ -719,6 +784,83 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="overtaking" v="no"/>
     <tag k="ref" v="A605"/>
+  </way>
+  <way id="1260760795" version="1" timestamp="2024-03-11T22:09:52Z" changeset="148524897" uid="20970319" user="J3ckV">
+    <nd ref="11718365879"/>
+    <nd ref="11718365880"/>
+    <nd ref="11718365881"/>
+    <nd ref="11718365882"/>
+    <nd ref="11718365883"/>
+    <nd ref="11718365884"/>
+    <nd ref="11718365885"/>
+    <nd ref="11718365886"/>
+    <nd ref="11718365887"/>
+    <nd ref="11718365888"/>
+    <nd ref="11718365889"/>
+    <nd ref="11718365890"/>
+    <nd ref="11718365891"/>
+    <nd ref="11718365892"/>
+    <nd ref="11716906278"/>
+    <nd ref="11718365893"/>
+    <nd ref="11718365894"/>
+    <nd ref="11718365895"/>
+    <nd ref="11718365896"/>
+    <nd ref="11718365897"/>
+    <nd ref="11718365898"/>
+    <nd ref="11718365899"/>
+    <nd ref="11718365900"/>
+    <nd ref="11718365901"/>
+    <nd ref="11718365902"/>
+    <nd ref="11718365879"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Extra Peterborough Services A1(M)"/>
+  </way>
+  <way id="1260762350" version="1" timestamp="2024-03-11T22:15:45Z" changeset="148525060" uid="20970319" user="J3ckV">
+    <nd ref="11718380819"/>
+    <nd ref="11718380820"/>
+    <nd ref="11718380821"/>
+    <nd ref="11718380822"/>
+    <nd ref="11718380823"/>
+    <nd ref="11718380824"/>
+    <nd ref="11718380825"/>
+    <nd ref="11718380819"/>
+    <tag k="amenity" v="car_wash"/>
+    <tag k="brand" v="Shell"/>
+    <tag k="brand:wikidata" v="Q110716465"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Shell"/>
+    <tag k="operator" v="Shell"/>
+    <tag k="self_service" v="yes"/>
+  </way>
+  <way id="1260762351" version="2" timestamp="2024-03-25T07:50:42Z" changeset="149117318" uid="20440591" user="Anton Kasheuski">
+    <nd ref="11718380826"/>
+    <nd ref="11718380827"/>
+    <nd ref="11718380828"/>
+    <nd ref="11718380829"/>
+    <nd ref="11718380830"/>
+    <nd ref="11718380831"/>
+    <nd ref="11760375005"/>
+    <nd ref="11718380832"/>
+    <nd ref="11718380833"/>
+    <nd ref="11760375006"/>
+    <nd ref="11718380834"/>
+    <nd ref="11718380835"/>
+    <nd ref="11718380836"/>
+    <nd ref="11718380837"/>
+    <nd ref="11718380838"/>
+    <nd ref="11718380839"/>
+    <nd ref="11718380826"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Shell"/>
+    <tag k="brand:wikidata" v="Q110716465"/>
+    <tag k="building" v="commercial"/>
+    <tag k="fuel:adblue" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:petrol" v="yes"/>
+    <tag k="name" v="Shell"/>
+    <tag k="operator" v="Shell"/>
+    <tag k="self_service" v="yes"/>
   </way>
   <way id="1268493825" version="2" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
     <nd ref="2016455539"/>

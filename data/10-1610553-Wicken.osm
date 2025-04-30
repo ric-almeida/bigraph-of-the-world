@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="24965790" lat="52.3287946" lon="0.2483464" version="1" timestamp="2007-01-08T17:29:01Z" changeset="190458" uid="2955" user="Matthew Newton">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="26056822" lat="52.3500154" lon="0.2698975" version="1" timestamp="2007-02-24T01:05:25Z" changeset="222947" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="253332185" lat="52.3054728" lon="0.2536381" version="4" timestamp="2014-03-12T13:03:04Z" changeset="21062670" uid="669183" user="Andy_W"/>
-  <node id="281434119" lat="52.3097874" lon="0.3180698" version="4" timestamp="2019-11-18T14:44:23Z" changeset="77233717" uid="84263" user="Robert Whittaker"/>
+  <node id="26056818" lat="52.3283364" lon="0.2788947" version="4" timestamp="2022-02-24T08:03:04Z" changeset="117800712" uid="322785" user="BCNorwich"/>
+  <node id="1124252371" lat="52.3460416" lon="0.2584958" version="2" timestamp="2011-08-07T22:36:10Z" changeset="8952486" uid="383983" user="Ben Wheatley"/>
+  <node id="1394896499" lat="52.3057406" lon="0.2535258" version="3" timestamp="2023-03-27T16:12:37Z" changeset="134185106" uid="1287673" user="sloerunner"/>
+  <node id="9238343082" lat="52.3106859" lon="0.3136019" version="1" timestamp="2021-11-09T15:23:41Z" changeset="113570007" uid="13262840" user="jakedowner"/>
   <way id="4214201" version="10" timestamp="2021-08-26T13:28:05Z" changeset="110289039" uid="242345" user="confusedbuffalo">
     <nd ref="24965794"/>
     <nd ref="1444435161"/>
@@ -577,7 +576,7 @@
     <tag k="source:prow_ref" v="cambridgeshire_county_council_prow_gis_data"/>
     <tag k="vehicle" v="yes"/>
   </way>
-  <way id="97047167" version="3" timestamp="2021-08-04T17:42:07Z" changeset="109158639" uid="742701" user="kerr smith">
+  <way id="97047167" version="4" timestamp="2025-04-23T11:35:30Z" changeset="165328867" uid="335826" user="Strumpfe">
     <nd ref="1124252371"/>
     <nd ref="1390259140"/>
     <nd ref="1390259257"/>
@@ -592,6 +591,7 @@
     <nd ref="1124252285"/>
     <nd ref="1390258547"/>
     <nd ref="26056822"/>
+    <tag k="access" v="private"/>
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Cross Bank Drove"/>
     <tag k="source" v="OS OpenData StreetView"/>
@@ -652,6 +652,32 @@
     <tag k="highway" v="unclassified"/>
     <tag k="layer" v="1"/>
   </way>
+  <way id="147421641" version="3" timestamp="2023-11-02T20:59:52Z" changeset="143549059" uid="504708" user="HillWithSmallFields">
+    <nd ref="1606484025"/>
+    <nd ref="1606484034"/>
+    <nd ref="1606484068"/>
+    <nd ref="1606484022"/>
+    <nd ref="1606484061"/>
+    <nd ref="1606484062"/>
+    <nd ref="1606484064"/>
+    <nd ref="1606484021"/>
+    <nd ref="1606484010"/>
+    <nd ref="1606484003"/>
+    <nd ref="1606484065"/>
+    <nd ref="1606484049"/>
+    <nd ref="1606484001"/>
+    <nd ref="1606484043"/>
+    <nd ref="1606484071"/>
+    <nd ref="1606483997"/>
+    <nd ref="1606484025"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Laurence (Wicken Parish Church)"/>
+    <tag k="ref:dove" v="14544"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543568"/>
+  </way>
   <way id="172402161" version="7" timestamp="2024-07-13T15:45:20Z" changeset="153899232" uid="18006437" user="NTWickenFenPaths">
     <nd ref="1833086733"/>
     <nd ref="1833086769"/>
@@ -676,6 +702,16 @@
     <tag k="tourism" v="information"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="172402162" version="2" timestamp="2019-11-18T14:44:23Z" changeset="77233717" uid="84263" user="Robert Whittaker">
+    <nd ref="1833086759"/>
+    <nd ref="1833086745"/>
+    <nd ref="1833086734"/>
+    <nd ref="1833086732"/>
+    <nd ref="1833086759"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Learning Centre"/>
+    <tag k="source" v="Bing"/>
+  </way>
   <way id="172402163" version="6" timestamp="2024-09-30T11:49:08Z" changeset="157293429" uid="20475686" user="Dan200">
     <nd ref="1833086761"/>
     <nd ref="12211530090"/>
@@ -699,6 +735,28 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="source" v="Bing"/>
     <tag k="source:postcode" v="FHRS Open Data"/>
+  </way>
+  <way id="172404001" version="3" timestamp="2021-01-28T13:33:27Z" changeset="98299870" uid="4944916" user="Something B">
+    <nd ref="1833101991"/>
+    <nd ref="1833101995"/>
+    <nd ref="1833101990"/>
+    <nd ref="1833101989"/>
+    <nd ref="1833101991"/>
+    <tag k="amenity" v="education_centre"/>
+    <tag k="building" v="yes"/>
+    <tag k="education" v="centre"/>
+    <tag k="name" v="Dragonfly Centre"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="220589861" version="2" timestamp="2016-07-10T11:57:00Z" changeset="40629030" uid="550203" user="RoverPuppy">
+    <nd ref="2296932801"/>
+    <nd ref="2296932778"/>
+    <nd ref="2296932803"/>
+    <nd ref="2296932760"/>
+    <nd ref="2296932801"/>
+    <tag k="building" v="industrial"/>
+    <tag k="name" v="Cam Pumping Station (Waterbeach Level Internal Drainage Board)"/>
+    <tag k="source" v="survey"/>
   </way>
   <way id="220709631" version="1" timestamp="2013-05-10T09:26:08Z" changeset="16061198" uid="281267" user="smb1001">
     <nd ref="2298014385"/>
@@ -775,6 +833,18 @@
     <tag k="addr:street" v="Old School Lane"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="220711923" version="2" timestamp="2013-06-09T17:44:51Z" changeset="16485710" uid="18069" user="Claudius Henrichs">
+    <nd ref="2298034368"/>
+    <nd ref="2298034358"/>
+    <nd ref="2298034366"/>
+    <nd ref="2298034316"/>
+    <nd ref="2298034368"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="name" v="Wicken Methodist Church"/>
+    <tag k="religion" v="christian"/>
+  </way>
   <way id="235089435" version="3" timestamp="2015-03-27T12:59:48Z" changeset="29776780" uid="669183" user="Andy_W">
     <nd ref="2431870761"/>
     <nd ref="893211216"/>
@@ -804,6 +874,37 @@
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="260912239" version="7" timestamp="2025-03-27T13:42:14Z" changeset="164165082" uid="10090920" user="Infinatum">
+    <nd ref="2665112254"/>
+    <nd ref="2665112925"/>
+    <nd ref="2665112928"/>
+    <nd ref="2665112256"/>
+    <nd ref="2665112255"/>
+    <nd ref="2665111838"/>
+    <nd ref="2665111840"/>
+    <nd ref="2665112254"/>
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="bicycle_rental" v="shop"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cycle Hire"/>
+    <tag k="shop" v="rental"/>
+  </way>
+  <way id="260912299" version="4" timestamp="2025-03-27T13:42:09Z" changeset="164165076" uid="10090920" user="Infinatum">
+    <nd ref="2665113368"/>
+    <nd ref="2665113363"/>
+    <nd ref="2665113367"/>
+    <nd ref="2665113366"/>
+    <nd ref="2665113362"/>
+    <nd ref="2665113361"/>
+    <nd ref="2665113365"/>
+    <nd ref="2665113368"/>
+    <tag k="building" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="museum" v="yes"/>
+    <tag k="name" v="1930s fen dwelling"/>
+    <tag k="source" v="visit"/>
+    <tag k="tourism" v="museum"/>
   </way>
   <way id="260912531" version="3" timestamp="2021-04-12T13:05:42Z" changeset="102806079" uid="38214" user="Darkhorse">
     <nd ref="2665115433"/>
@@ -845,6 +946,32 @@
     <tag k="building:levels" v="1"/>
     <tag k="roof:levels" v="1"/>
     <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="265516398" version="5" timestamp="2019-01-18T11:39:19Z" changeset="66423665" uid="139424" user="pigsonthewing">
+    <nd ref="2711693404"/>
+    <nd ref="2711693399"/>
+    <nd ref="2711693397"/>
+    <nd ref="2711693414"/>
+    <nd ref="2711693404"/>
+    <tag k="access" v="no"/>
+    <tag k="building" v="yes"/>
+    <tag k="man_made" v="wildlife_hide"/>
+    <tag k="name" v="Tower Hide"/>
+    <tag k="note" v="Closed, as of December 2018"/>
+    <tag k="operator" v="National Trust"/>
+  </way>
+  <way id="265963018" version="4" timestamp="2019-01-18T11:39:20Z" changeset="66423665" uid="139424" user="pigsonthewing">
+    <nd ref="2715643854"/>
+    <nd ref="2715643856"/>
+    <nd ref="2715643849"/>
+    <nd ref="310133509"/>
+    <nd ref="2715643857"/>
+    <nd ref="2715643854"/>
+    <tag k="building" v="hut"/>
+    <tag k="leisure" v="bird_hide"/>
+    <tag k="name" v="Roger Clarke Hide"/>
+    <tag k="operator" v="National Trust"/>
+    <tag k="source:name" v="survey"/>
   </way>
   <way id="280477774" version="2" timestamp="2023-03-25T16:40:07Z" changeset="134110439" uid="1287673" user="sloerunner">
     <nd ref="260284828"/>
@@ -967,6 +1094,16 @@
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
   </way>
+  <way id="334822301" version="5" timestamp="2022-03-26T22:36:07Z" changeset="118964612" uid="11022773" user="GeoFens">
+    <nd ref="3419365484"/>
+    <nd ref="3419365485"/>
+    <nd ref="3419365486"/>
+    <nd ref="3419365487"/>
+    <nd ref="3419365484"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="bird_hide"/>
+    <tag k="name" v="The Mound"/>
+  </way>
   <way id="335014196" version="4" timestamp="2020-01-24T11:55:46Z" changeset="80030351" uid="10219386" user="bathines">
     <nd ref="24965819"/>
     <nd ref="7156232459"/>
@@ -1028,6 +1165,17 @@
     <nd ref="253332182"/>
     <tag k="highway" v="unclassified"/>
     <tag k="source" v="gps"/>
+  </way>
+  <way id="347068906" version="3" timestamp="2022-03-26T22:36:07Z" changeset="118964612" uid="11022773" user="GeoFens">
+    <nd ref="3534972475"/>
+    <nd ref="3534974886"/>
+    <nd ref="3534972476"/>
+    <nd ref="3534972477"/>
+    <nd ref="3534972478"/>
+    <nd ref="3534972475"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="bird_hide"/>
+    <tag k="name" v="John DeRamsey"/>
   </way>
   <way id="444282664" version="3" timestamp="2025-03-27T14:14:55Z" changeset="164166455" uid="10090920" user="Infinatum">
     <nd ref="24965831"/>
@@ -1096,6 +1244,21 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:sidewalk" v="Bing"/>
   </way>
+  <way id="591626964" version="2" timestamp="2019-02-03T22:41:00Z" changeset="66888172" uid="3432400" user="GinaroZ">
+    <nd ref="5647947056"/>
+    <nd ref="5647947058"/>
+    <nd ref="5647947035"/>
+    <nd ref="5647947047"/>
+    <nd ref="5647947059"/>
+    <nd ref="5647947034"/>
+    <nd ref="5647947036"/>
+    <nd ref="5647947040"/>
+    <nd ref="5647947056"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Wicken Village Hall"/>
+  </way>
   <way id="746662673" version="3" timestamp="2021-04-12T14:14:30Z" changeset="102810273" uid="38214" user="Darkhorse">
     <nd ref="2665115431"/>
     <nd ref="6987407426"/>
@@ -1130,6 +1293,29 @@
     <tag k="ref" v="A1123"/>
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1037433002" version="1" timestamp="2022-03-05T22:19:45Z" changeset="118142341" uid="11022773" user="GeoFens">
+    <nd ref="9556803837"/>
+    <nd ref="9556803838"/>
+    <nd ref="9556803839"/>
+    <nd ref="9556803840"/>
+    <nd ref="9556803837"/>
+    <tag k="building" v="yes"/>
+    <tag k="information" v="office"/>
+    <tag k="name" v="Kingfishers Bridge NR"/>
+    <tag k="tourism" v="information"/>
+  </way>
+  <way id="1037433010" version="1" timestamp="2022-03-05T22:19:45Z" changeset="118142341" uid="11022773" user="GeoFens">
+    <nd ref="9556803904"/>
+    <nd ref="9556803905"/>
+    <nd ref="9556803906"/>
+    <nd ref="9556803907"/>
+    <nd ref="9556803904"/>
+    <tag k="building" v="yes"/>
+    <tag k="information" v="office"/>
+    <tag k="name" v="Classroom &amp; Education Centre"/>
+    <tag k="note" v="By Appointment Only"/>
+    <tag k="tourism" v="information"/>
   </way>
   <way id="1234960269" version="1" timestamp="2023-12-28T16:48:02Z" changeset="145628525" uid="242345" user="confusedbuffalo">
     <nd ref="11463228709"/>

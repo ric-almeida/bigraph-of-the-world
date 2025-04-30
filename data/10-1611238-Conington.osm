@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="4312007" lat="52.4455592" lon="-0.2760539" version="9" timestamp="2018-09-13T18:32:35Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="27397118" lat="52.4259105" lon="-0.2692804" version="13" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Sawtry"/>
-    <tag k="ref" v="15"/>
-  </node>
-  <node id="27397136" lat="52.4342413" lon="-0.2721148" version="9" timestamp="2018-07-25T23:37:37Z" changeset="61070715" uid="8571542" user="Merzof"/>
   <node id="199341306" lat="52.4603927" lon="-0.3024394" version="13" timestamp="2010-10-30T21:28:42Z" changeset="6233545" uid="7098" user="richardm565"/>
-  <node id="199341314" lat="52.4453645" lon="-0.2886056" version="5" timestamp="2009-02-20T00:09:03Z" changeset="569901" uid="91225" user="tms13">
-    <tag k="created_by" v="Merkaartor 0.12"/>
-  </node>
   <node id="259564166" lat="52.4975087" lon="-0.2900812" version="10" timestamp="2018-09-13T18:32:36Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="259564170" lat="52.4974408" lon="-0.2903051" version="16" timestamp="2018-09-13T18:32:36Z" changeset="62561387" uid="2773866" user="kreuzschnabel">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Norman Cross"/>
-    <tag k="ref" v="16"/>
-  </node>
   <node id="335387160" lat="52.4235977" lon="-0.2687809" version="2" timestamp="2018-09-13T18:32:37Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="345852686" lat="52.4479621" lon="-0.2771957" version="6" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Sawtry"/>
-    <tag k="ref" v="15"/>
-  </node>
-  <node id="974213396" lat="52.4705667" lon="-0.2421380" version="2" timestamp="2020-12-03T19:57:12Z" changeset="95246810" uid="11022773" user="GeoFens"/>
+  <node id="411196507" lat="52.4704577" lon="-0.2421394" version="3" timestamp="2020-12-03T19:57:12Z" changeset="95246810" uid="11022773" user="GeoFens"/>
+  <node id="971082504" lat="52.4573663" lon="-0.2996472" version="2" timestamp="2020-05-26T10:55:51Z" changeset="85763556" uid="90142" user="andy mackey"/>
   <node id="1008994860" lat="52.4687265" lon="-0.2376386" version="3" timestamp="2015-05-24T15:30:36Z" changeset="31422422" uid="350549" user="f00bar"/>
   <node id="1008994905" lat="52.4448564" lon="-0.2665976" version="3" timestamp="2017-11-24T18:57:50Z" changeset="54057567" uid="52797" user="hofoen"/>
   <node id="1368777921" lat="52.4704718" lon="-0.2712540" version="1" timestamp="2011-07-21T09:19:09Z" changeset="8786476" uid="54910" user="Marcin Floryan"/>
+  <node id="1551701257" lat="52.4522562" lon="-0.2782934" version="2" timestamp="2021-09-07T14:05:31Z" changeset="110862609" uid="281267" user="smb1001"/>
   <node id="1551701341" lat="52.4495511" lon="-0.2774049" version="1" timestamp="2011-12-18T10:19:04Z" changeset="10144980" uid="28024" user="dbisping"/>
-  <node id="7889897422" lat="52.4659150" lon="-0.2819472" version="1" timestamp="2020-09-09T10:40:35Z" changeset="90639453" uid="10252545" user="sunkarab"/>
   <way id="28222937" version="8" timestamp="2020-10-09T09:33:05Z" changeset="92225507" uid="9259458" user="aepunavy">
     <nd ref="199341306"/>
     <nd ref="971082508"/>
@@ -424,6 +405,28 @@
     <nd ref="1368777867"/>
     <nd ref="1368777864"/>
     <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="144389004" version="5" timestamp="2023-11-04T11:26:39Z" changeset="143608746" uid="504708" user="HillWithSmallFields">
+    <nd ref="1579384618"/>
+    <nd ref="1579384601"/>
+    <nd ref="1579384612"/>
+    <nd ref="1579384590"/>
+    <nd ref="1579384620"/>
+    <nd ref="1579384609"/>
+    <nd ref="1579384607"/>
+    <nd ref="1579384604"/>
+    <nd ref="1579384598"/>
+    <nd ref="1579384615"/>
+    <nd ref="1579384618"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="disused:amenity" v="place_of_worship"/>
+    <tag k="name" v="Conington All Saints"/>
+    <tag k="note" v="maintained by Churches Conservation Trust"/>
+    <tag k="ref:dove" v="11709"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q4729456"/>
+    <tag k="wikipedia" v="en:All Saints Church, Conington"/>
   </way>
   <way id="163713650" version="1" timestamp="2012-05-15T14:16:04Z" changeset="11605386" uid="504708" user="HillWithSmallFields">
     <nd ref="411200656"/>

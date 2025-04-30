@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="24972959" lat="52.3682716" lon="-0.1520065" version="2" timestamp="2018-11-03T10:13:53Z" changeset="64136468" uid="1257159" user="Jean-Pierre Rondeau"/>
-  <node id="24974334" lat="52.3683639" lon="-0.1521768" version="3" timestamp="2018-11-03T10:13:53Z" changeset="64136468" uid="1257159" user="Jean-Pierre Rondeau"/>
   <node id="25720463" lat="52.3539874" lon="-0.1823776" version="4" timestamp="2024-04-09T21:43:21Z" changeset="149795831" uid="5229644" user="Nathan_A_RF"/>
+  <node id="32909951" lat="52.3835486" lon="-0.1820203" version="3" timestamp="2011-06-02T16:03:30Z" changeset="8321327" uid="90142" user="andy mackey"/>
   <node id="246538022" lat="52.4046316" lon="-0.2221983" version="4" timestamp="2023-08-03T21:39:53Z" changeset="139414104" uid="13341565" user="Falsernet"/>
-  <node id="246538215" lat="52.3887662" lon="-0.2538532" version="7" timestamp="2023-08-03T21:39:53Z" changeset="139414104" uid="13341565" user="Falsernet"/>
-  <node id="818066806" lat="52.4029525" lon="-0.1589959" version="1" timestamp="2010-07-14T23:14:48Z" changeset="5222735" uid="7098" user="richardm565"/>
-  <node id="1183499953" lat="52.3654155" lon="-0.1468174" version="4" timestamp="2025-02-01T22:43:10Z" changeset="162028493" uid="11022773" user="GeoFens"/>
+  <node id="247687111" lat="52.4003709" lon="-0.2121966" version="4" timestamp="2018-01-12T23:00:40Z" changeset="55395009" uid="90142" user="andy mackey"/>
+  <node id="259870769" lat="52.3893556" lon="-0.2043587" version="4" timestamp="2016-07-18T10:04:53Z" changeset="40814994" uid="2983218" user="LovenOutdoors"/>
+  <node id="259873489" lat="52.3790968" lon="-0.2091159" version="2" timestamp="2011-06-02T21:48:01Z" changeset="8324752" uid="90142" user="andy mackey"/>
+  <node id="818066791" lat="52.3980239" lon="-0.1803653" version="1" timestamp="2010-07-14T23:14:48Z" changeset="5222735" uid="7098" user="richardm565"/>
   <node id="3170153247" lat="52.3776651" lon="-0.1655176" version="5" timestamp="2024-05-19T09:56:26Z" changeset="151526607" uid="95856" user="john paul jones &amp; gringo">
     <tag k="addr:city" v="Huntingdon"/>
     <tag k="addr:country" v="GB"/>
@@ -803,6 +803,25 @@
     <tag k="name" v="Keeper's Lodge"/>
     <tag k="source" v="visual and bing"/>
   </way>
+  <way id="207659305" version="5" timestamp="2021-07-18T22:46:57Z" changeset="108210128" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="2179136462"/>
+    <nd ref="8931359730"/>
+    <nd ref="2179136444"/>
+    <nd ref="2179136460"/>
+    <nd ref="5333545523"/>
+    <nd ref="5333545524"/>
+    <nd ref="5333544620"/>
+    <nd ref="5334617482"/>
+    <nd ref="5333545522"/>
+    <nd ref="2179136451"/>
+    <nd ref="2179136462"/>
+    <tag k="addr:city" v="Abbots Ripton"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Abbots Ripton Village Hall"/>
+    <tag k="website" v="http://www.abbotsriptonvillagehall.co.uk/"/>
+  </way>
   <way id="207659398" version="3" timestamp="2017-04-29T16:08:33Z" changeset="48258464" uid="1778799" user="SomeoneElse_Revert">
     <nd ref="2179151220"/>
     <nd ref="2179151213"/>
@@ -827,6 +846,29 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Wennington Road"/>
     <tag k="source:maxspeed" v="filling in missing national limits"/>
+  </way>
+  <way id="231910600" version="5" timestamp="2023-11-03T18:35:20Z" changeset="143586911" uid="504708" user="HillWithSmallFields">
+    <nd ref="2402356679"/>
+    <nd ref="2402356591"/>
+    <nd ref="2402356745"/>
+    <nd ref="2402356569"/>
+    <nd ref="2402356651"/>
+    <nd ref="2402356709"/>
+    <nd ref="2402356668"/>
+    <nd ref="2402356755"/>
+    <nd ref="2402356683"/>
+    <nd ref="2402356620"/>
+    <nd ref="2402356684"/>
+    <nd ref="2402356626"/>
+    <nd ref="2402356666"/>
+    <nd ref="2402356679"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Andrews Church"/>
+    <tag k="ref:dove" v="14528"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527987"/>
   </way>
   <way id="231910604" version="8" timestamp="2024-05-04T13:27:20Z" changeset="150880061" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="2402356696"/>
@@ -894,6 +936,15 @@
     <tag k="addr:suburb" v="Abbots Ripton"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Abbots Ripton Hall"/>
+  </way>
+  <way id="300429524" version="1" timestamp="2014-08-27T08:08:17Z" changeset="25045752" uid="472018" user="DenisCarriere">
+    <nd ref="3045217630"/>
+    <nd ref="3045219137"/>
+    <nd ref="3045219138"/>
+    <nd ref="3045219133"/>
+    <nd ref="3045217630"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="British Telecom"/>
   </way>
   <way id="431208406" version="3" timestamp="2024-05-04T13:27:20Z" changeset="150880061" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4304536159"/>
@@ -1026,6 +1077,19 @@
     <tag k="addr:street" v="Hall Lane"/>
     <tag k="addr:suburb" v="Abbots Ripton"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="431218806" version="1" timestamp="2016-07-15T14:34:31Z" changeset="40761932" uid="2983218" user="LovenOutdoors">
+    <nd ref="4304627877"/>
+    <nd ref="4304627878"/>
+    <nd ref="4304627879"/>
+    <nd ref="4304627880"/>
+    <nd ref="4304627881"/>
+    <nd ref="4304627882"/>
+    <nd ref="4304627883"/>
+    <nd ref="4304627884"/>
+    <nd ref="4304627877"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hall"/>
   </way>
   <way id="431218809" version="3" timestamp="2024-05-04T13:27:20Z" changeset="150880061" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4304628200"/>
@@ -1263,19 +1327,6 @@
     <tag k="addr:suburb" v="Abbots Ripton"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="444905585" version="2" timestamp="2024-05-10T17:07:51Z" changeset="151156661" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="4423672656"/>
-    <nd ref="4019808547"/>
-    <nd ref="4423672658"/>
-    <nd ref="4423672657"/>
-    <nd ref="4423672656"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE28 2LL"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:suburb" v="Abbots Riton"/>
-    <tag k="landuse" v="farmyard;veterinary"/>
-    <tag k="name" v="Fellowes Farm Equine Clinic"/>
-  </way>
   <way id="448485263" version="2" timestamp="2024-05-04T13:27:20Z" changeset="150880061" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4454917943"/>
     <nd ref="4304536181"/>
@@ -1291,91 +1342,47 @@
     <tag k="addr:suburb" v="Abbots Ripton"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="852160205" version="2" timestamp="2024-05-26T10:59:40Z" changeset="151845777" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="7948730923"/>
-    <nd ref="7948730924"/>
-    <nd ref="7948730925"/>
-    <nd ref="7948730926"/>
-    <nd ref="7948730927"/>
-    <nd ref="7948730928"/>
-    <nd ref="7948730929"/>
-    <nd ref="7948730930"/>
-    <nd ref="7948730931"/>
-    <nd ref="903589827"/>
-    <nd ref="4308983565"/>
-    <nd ref="7948730923"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 2LH"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:suburb" v="Abbots Ripton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Park Farm"/>
+  <way id="478784339" version="2" timestamp="2023-07-21T21:42:58Z" changeset="138832335" uid="10420541" user="Thingummy">
+    <nd ref="4719834481"/>
+    <nd ref="4719834482"/>
+    <nd ref="4719834483"/>
+    <nd ref="4719834484"/>
+    <nd ref="4719834485"/>
+    <nd ref="4719834486"/>
+    <nd ref="4719834487"/>
+    <nd ref="4719834488"/>
+    <nd ref="4719834489"/>
+    <nd ref="4719834490"/>
+    <nd ref="4719834481"/>
+    <tag k="building" v="farmhouse"/>
+    <tag k="name" v="Grange Farm"/>
   </way>
-  <way id="865792678" version="2" timestamp="2024-05-04T13:27:20Z" changeset="150880061" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="4719834438"/>
-    <nd ref="8070138420"/>
-    <nd ref="8070138421"/>
-    <nd ref="8070138422"/>
-    <nd ref="8070138423"/>
-    <nd ref="8070138424"/>
-    <nd ref="8070138425"/>
-    <nd ref="8070138426"/>
-    <nd ref="8070138427"/>
-    <nd ref="8070138428"/>
-    <nd ref="8070138429"/>
-    <nd ref="8070138430"/>
-    <nd ref="8070138431"/>
-    <nd ref="8070138432"/>
-    <nd ref="8070138433"/>
-    <nd ref="8070138434"/>
-    <nd ref="4719834435"/>
-    <nd ref="4719834438"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 2PG"/>
-    <tag k="addr:street" v="Hall Lane"/>
-    <tag k="addr:suburb" v="Abbots Ripton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Hall Farm"/>
+  <way id="655469355" version="2" timestamp="2024-02-11T16:55:35Z" changeset="147335396" uid="11022773" user="GeoFens">
+    <nd ref="6141222974"/>
+    <nd ref="6141222971"/>
+    <nd ref="6141222969"/>
+    <nd ref="6141222970"/>
+    <nd ref="6141222972"/>
+    <nd ref="6141222973"/>
+    <nd ref="6141222974"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="villagestores@gmx.com"/>
+    <tag k="name" v="Abbots Ripton Village Stores"/>
+    <tag k="phone" v="+44 1487 773221"/>
   </way>
-  <way id="865792686" version="2" timestamp="2024-05-26T10:59:40Z" changeset="151845777" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="7942536534"/>
-    <nd ref="7942536533"/>
-    <nd ref="7942536518"/>
-    <nd ref="1327311758"/>
-    <nd ref="4304020152"/>
-    <nd ref="8070138464"/>
-    <nd ref="8070138465"/>
-    <nd ref="7942536534"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 2LB"/>
-    <tag k="addr:street" v="Abbots Ripton Road"/>
-    <tag k="addr:suburb" v="Abbots Ripton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Lodge Farm"/>
-  </way>
-  <way id="865792689" version="2" timestamp="2024-05-04T13:33:53Z" changeset="150880392" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="8070138478"/>
-    <nd ref="8070138479"/>
-    <nd ref="8070138480"/>
-    <nd ref="8070138481"/>
-    <nd ref="8070138482"/>
-    <nd ref="8070138483"/>
-    <nd ref="8070138484"/>
-    <nd ref="8070148085"/>
-    <nd ref="8070148086"/>
-    <nd ref="8070148087"/>
-    <nd ref="8070148088"/>
-    <nd ref="8070138478"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 2LQ"/>
-    <tag k="addr:street" v="Rectory Lane"/>
-    <tag k="addr:suburb" v="Abbots Ripton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Brooklands Farm"/>
+  <way id="1191312430" version="1" timestamp="2023-07-21T21:42:58Z" changeset="138832335" uid="10420541" user="Thingummy">
+    <nd ref="11060617001"/>
+    <nd ref="11060617002"/>
+    <nd ref="11060617003"/>
+    <nd ref="11060617004"/>
+    <nd ref="11060649205"/>
+    <nd ref="11060649206"/>
+    <nd ref="11060617001"/>
+    <tag k="building" v="farm"/>
+    <tag k="name" v="Grange Farm"/>
   </way>
   <way id="1217445200" version="1" timestamp="2023-10-22T00:19:15Z" changeset="142944214" uid="10420541" user="Thingummy">
     <nd ref="247687109"/>

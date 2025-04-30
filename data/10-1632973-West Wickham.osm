@@ -1,33 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:12:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:25:02Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="27429220" lat="52.1287152" lon="0.3245673" version="1" timestamp="2007-04-29T14:15:55Z" changeset="31799" uid="3582" user="davidearl">
+  <node id="27428310" lat="52.1221989" lon="0.3708490" version="2" timestamp="2007-11-03T11:11:35Z" changeset="395652" uid="3582" user="davidearl">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="30164728" lat="52.0959133" lon="0.3196867" version="3" timestamp="2012-06-11T19:57:39Z" changeset="11868452" uid="383983" user="Ben Wheatley"/>
+  <node id="27429116" lat="52.1228534" lon="0.3405277" version="3" timestamp="2015-08-19T14:08:14Z" changeset="33440277" uid="281267" user="smb1001"/>
+  <node id="27429117" lat="52.1230621" lon="0.3404625" version="3" timestamp="2015-08-19T14:08:14Z" changeset="33440277" uid="281267" user="smb1001"/>
   <node id="60108528" lat="52.1050453" lon="0.4037706" version="1" timestamp="2007-09-29T14:05:09Z" changeset="533374" uid="7074" user="NickF22">
     <tag k="created_by" v="JOSM"/>
   </node>
   <node id="96517473" lat="52.1373065" lon="0.3469355" version="3" timestamp="2015-08-19T13:55:47Z" changeset="33440277" uid="281267" user="smb1001"/>
-  <node id="96517538" lat="52.1035902" lon="0.3566002" version="3" timestamp="2022-07-02T11:46:39Z" changeset="123117227" uid="7463" user="kesterlester"/>
-  <node id="1783876736" lat="52.0961254" lon="0.3195501" version="2" timestamp="2022-08-16T01:37:01Z" changeset="124949692" uid="13341565" user="Falsernet"/>
-  <node id="4307282742" lat="52.1282937" lon="0.3810264" version="1" timestamp="2016-07-17T12:30:59Z" changeset="40797302" uid="499318" user="jpsa"/>
-  <node id="4307282746" lat="52.1279444" lon="0.3815161" version="1" timestamp="2016-07-17T12:30:59Z" changeset="40797302" uid="499318" user="jpsa"/>
-  <node id="6325772681" lat="52.1204372" lon="0.3601976" version="2" timestamp="2024-05-28T22:26:37Z" changeset="151965313" uid="8891552" user="Zomba">
-    <tag k="addr:city" v="West Wickham"/>
-    <tag k="addr:housename" v="West Wickham Village Hall"/>
-    <tag k="addr:postcode" v="CB21 4SB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="brand" v="Post Office"/>
-    <tag k="brand:wikidata" v="Q1783168"/>
-    <tag k="fixme" v="Does this still operate. Website no longer operational www.royalmail.com/services-near-you/post-office/west-wickham-mobile-service-cb21-4sb"/>
-    <tag k="name" v="West Wickham stop"/>
-    <tag k="opening_hours" v="Fr 13:30-14:30"/>
-    <tag k="ref:pol_id" v="110231"/>
-  </node>
+  <node id="96517530" lat="52.1063923" lon="0.3565577" version="2" timestamp="2021-05-21T14:56:09Z" changeset="105097147" uid="281267" user="smb1001"/>
   <way id="4474692" version="10" timestamp="2022-12-11T11:54:02Z" changeset="129960145" uid="1782504" user="corgicity">
     <nd ref="27428441"/>
     <nd ref="27428431"/>
@@ -435,6 +420,46 @@
     <nd ref="28206150"/>
     <nd ref="27429220"/>
     <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="150774476" version="2" timestamp="2015-08-19T10:05:40Z" changeset="33434582" uid="281267" user="smb1001">
+    <nd ref="1636570655"/>
+    <nd ref="1636570612"/>
+    <nd ref="1636570664"/>
+    <nd ref="1636570654"/>
+    <nd ref="1636570575"/>
+    <nd ref="1636570595"/>
+    <nd ref="1636570544"/>
+    <nd ref="1636570676"/>
+    <nd ref="1636570576"/>
+    <nd ref="1636570613"/>
+    <nd ref="1636570655"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Streetly Hall"/>
+  </way>
+  <way id="152712994" version="5" timestamp="2020-10-15T11:14:00Z" changeset="92519477" uid="281267" user="smb1001">
+    <nd ref="1655013805"/>
+    <nd ref="1655013794"/>
+    <nd ref="1655013924"/>
+    <nd ref="1655013872"/>
+    <nd ref="1655013877"/>
+    <nd ref="1655013856"/>
+    <nd ref="1655013851"/>
+    <nd ref="1655013853"/>
+    <nd ref="1655013810"/>
+    <nd ref="1655013865"/>
+    <nd ref="1655013906"/>
+    <nd ref="1655013934"/>
+    <nd ref="1655013858"/>
+    <nd ref="1655013812"/>
+    <nd ref="1655013931"/>
+    <nd ref="1655013902"/>
+    <nd ref="1655013805"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary, West Wickham"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550255"/>
   </way>
   <way id="675477947" version="4" timestamp="2024-05-28T22:26:37Z" changeset="151965313" uid="8891552" user="Zomba">
     <nd ref="96518522"/>

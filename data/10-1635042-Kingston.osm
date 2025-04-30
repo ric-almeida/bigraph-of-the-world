@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:14:15Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="5276331" lat="52.1839466" lon="-0.0533618" version="3" timestamp="2024-03-08T13:41:29Z" changeset="148384939" uid="10420541" user="Thingummy"/>
-  <node id="32129284" lat="52.1829722" lon="-0.0166049" version="2" timestamp="2011-04-17T20:06:21Z" changeset="7891362" uid="5926" user="c2r"/>
-  <node id="32534148" lat="52.1866779" lon="-0.0314564" version="3" timestamp="2012-08-12T21:30:19Z" changeset="12707339" uid="359193" user="JeffH"/>
+  <node id="25694989" lat="52.1829870" lon="-0.0168095" version="2" timestamp="2011-04-17T20:06:23Z" changeset="7891362" uid="5926" user="c2r"/>
   <node id="60850912" lat="52.1722182" lon="-0.0205299" version="6" timestamp="2024-02-15T12:55:23Z" changeset="147490252" uid="742701" user="kerr smith">
     <tag k="note" v="the exact spot where Tinkers Lane turns in to Kingston Road is shown here on some maps"/>
   </node>
+  <node id="111497405" lat="52.1865480" lon="-0.0313430" version="2" timestamp="2012-08-12T21:30:14Z" changeset="12707339" uid="359193" user="JeffH"/>
   <way id="4912092" version="2" timestamp="2015-05-13T13:12:14Z" changeset="31103580" uid="281267" user="smb1001">
     <nd ref="32129695"/>
     <nd ref="32129175"/>
@@ -413,6 +413,41 @@
     <tag k="ref" v="B1046"/>
     <tag k="source:ref" v="gps survey"/>
   </way>
+  <way id="344736038" version="5" timestamp="2022-03-17T15:53:04Z" changeset="118600453" uid="5173844" user="ndrw6">
+    <nd ref="3514804001"/>
+    <nd ref="5295784785"/>
+    <nd ref="5295784786"/>
+    <nd ref="3514803975"/>
+    <nd ref="3514803935"/>
+    <nd ref="3514803952"/>
+    <nd ref="3514804008"/>
+    <nd ref="3514803938"/>
+    <nd ref="9585800530"/>
+    <nd ref="9585800529"/>
+    <nd ref="9585800528"/>
+    <nd ref="9585800531"/>
+    <nd ref="3514804001"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints &amp; St Andrew (Kingston Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="wikidata" v="Q17528069"/>
+  </way>
+  <way id="371708516" version="2" timestamp="2024-02-10T13:43:08Z" changeset="147293110" uid="742701" user="kerr smith">
+    <nd ref="3752628957"/>
+    <nd ref="3752628962"/>
+    <nd ref="3752628940"/>
+    <nd ref="3752628961"/>
+    <nd ref="3752629026"/>
+    <nd ref="3752628983"/>
+    <nd ref="3752627014"/>
+    <nd ref="3752627016"/>
+    <nd ref="3752628957"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kingston Wood Farm"/>
+  </way>
   <way id="548155680" version="2" timestamp="2024-12-11T08:18:14Z" changeset="160157707" uid="10633286" user="Moorit">
     <nd ref="5295784334"/>
     <nd ref="5295784335"/>
@@ -499,6 +534,19 @@
     <tag k="addr:street" v="Rectory Lane"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="548155802" version="2" timestamp="2024-02-10T13:43:08Z" changeset="147293110" uid="742701" user="kerr smith">
+    <nd ref="5295784892"/>
+    <nd ref="5295784893"/>
+    <nd ref="5295784894"/>
+    <nd ref="5295784895"/>
+    <nd ref="5295784896"/>
+    <nd ref="5295784897"/>
+    <nd ref="5295784898"/>
+    <nd ref="5295784899"/>
+    <nd ref="5295784892"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="New Barn House"/>
+  </way>
   <way id="619868648" version="2" timestamp="2024-02-15T12:32:01Z" changeset="147489400" uid="742701" user="kerr smith">
     <nd ref="5857162279"/>
     <nd ref="5857162276"/>
@@ -534,6 +582,62 @@
     <tag k="addr:village" v="Kingston"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="1130923233" version="2" timestamp="2024-01-28T11:21:30Z" changeset="146774399" uid="742701" user="kerr smith">
+    <nd ref="10539806128"/>
+    <nd ref="10539806125"/>
+    <nd ref="10539806126"/>
+    <nd ref="10539806127"/>
+    <nd ref="10539806128"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Mare Way House"/>
+  </way>
+  <way id="1130923234" version="2" timestamp="2024-01-28T11:21:30Z" changeset="146774399" uid="742701" user="kerr smith">
+    <nd ref="10539806132"/>
+    <nd ref="10539806129"/>
+    <nd ref="10539806130"/>
+    <nd ref="10539806131"/>
+    <nd ref="10539806132"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="New Farm (Driftway holiday cottages)"/>
+    <tag k="note:retag" v="CS #48756035"/>
+  </way>
+  <way id="1130923236" version="2" timestamp="2024-01-28T11:21:30Z" changeset="146774399" uid="742701" user="kerr smith">
+    <nd ref="10539806140"/>
+    <nd ref="10539806137"/>
+    <nd ref="10539806138"/>
+    <nd ref="10539806139"/>
+    <nd ref="10539806140"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Driftway"/>
+  </way>
+  <way id="1130923245" version="2" timestamp="2024-01-28T11:31:11Z" changeset="146774637" uid="742701" user="kerr smith">
+    <nd ref="10539806178"/>
+    <nd ref="10539806177"/>
+    <nd ref="10539806176"/>
+    <nd ref="10539806175"/>
+    <nd ref="10539806178"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kingston Pastures Cottage"/>
+  </way>
+  <way id="1130923255" version="2" timestamp="2024-01-28T11:31:11Z" changeset="146774637" uid="742701" user="kerr smith">
+    <nd ref="10539809529"/>
+    <nd ref="11559479646"/>
+    <nd ref="11559479644"/>
+    <nd ref="11559479643"/>
+    <nd ref="11559479645"/>
+    <nd ref="11559479648"/>
+    <nd ref="11559479647"/>
+    <nd ref="10539809528"/>
+    <nd ref="10539809527"/>
+    <nd ref="11559479651"/>
+    <nd ref="11559479650"/>
+    <nd ref="11559479649"/>
+    <nd ref="11559479652"/>
+    <nd ref="10539809526"/>
+    <nd ref="10539809529"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Greenacre"/>
+  </way>
   <way id="1136434651" version="4" timestamp="2024-02-16T14:48:27Z" changeset="147535584" uid="742701" user="kerr smith">
     <nd ref="10593959373"/>
     <nd ref="10593959365"/>
@@ -558,6 +662,19 @@
     <tag k="addr:street" v="Kingston Road"/>
     <tag k="building" v="yes"/>
     <tag k="note" v="This house appears to be on Tinkers Lane but a local resident explained that technically this house is in the village of Kingston and so has Kingston Road as its street name"/>
+  </way>
+  <way id="1248813312" version="1" timestamp="2024-02-10T13:43:08Z" changeset="147293110" uid="742701" user="kerr smith">
+    <nd ref="11607833065"/>
+    <nd ref="11607833071"/>
+    <nd ref="11607833072"/>
+    <nd ref="11607833070"/>
+    <nd ref="11607833066"/>
+    <nd ref="11607833067"/>
+    <nd ref="11607833069"/>
+    <nd ref="11607833068"/>
+    <nd ref="11607833065"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Keeper's Cottage"/>
   </way>
   <way id="1250777492" version="2" timestamp="2024-02-16T14:48:27Z" changeset="147535584" uid="742701" user="kerr smith">
     <nd ref="60851576"/>

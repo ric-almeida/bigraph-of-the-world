@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:26:02Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="31950074" lat="52.1075050" lon="0.0181318" version="3" timestamp="2010-04-05T19:13:33Z" changeset="4337475" uid="21502" user="Kevin Steinhardt"/>
-  <node id="32041155" lat="52.1160542" lon="0.0049189" version="3" timestamp="2011-03-23T07:07:22Z" changeset="7643846" uid="90142" user="andy mackey"/>
-  <node id="275939431" lat="52.1001996" lon="-0.0172492" version="1" timestamp="2008-07-03T14:35:17Z" changeset="377944" uid="3582" user="davidearl"/>
-  <node id="1030089590" lat="52.0752608" lon="-0.0004178" version="3" timestamp="2025-02-21T14:18:32Z" changeset="162782516" uid="5008136" user="JayTurnr"/>
+  <node id="34956429" lat="52.0992233" lon="-0.0059239" version="2" timestamp="2008-07-03T14:50:09Z" changeset="377944" uid="3582" user="davidearl">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="34957234" lat="52.0947188" lon="-0.0061359" version="1" timestamp="2007-08-18T17:28:18Z" changeset="227154" uid="3582" user="davidearl">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="1030089294" lat="52.0759957" lon="0.0001178" version="3" timestamp="2025-02-21T14:18:32Z" changeset="162782516" uid="5008136" user="JayTurnr"/>
+  <node id="1214445449" lat="52.1086861" lon="0.0106470" version="2" timestamp="2018-08-28T18:07:49Z" changeset="62079986" uid="5173844" user="ndrw6"/>
   <node id="1537175161" lat="52.1002002" lon="0.0335048" version="3" timestamp="2025-02-21T14:28:57Z" changeset="162782938" uid="5008136" user="JayTurnr"/>
   <node id="1832657532" lat="52.0855594" lon="0.0132058" version="3" timestamp="2023-05-26T21:54:41Z" changeset="136606108" uid="3999" user="BarryMyles"/>
-  <node id="11981022769" lat="52.0824909" lon="-0.0335330" version="1" timestamp="2024-06-14T14:37:09Z" changeset="152682501" uid="953779" user="Adam Edwards"/>
   <way id="4004841" version="20" timestamp="2025-02-21T14:23:11Z" changeset="162782690" uid="5008136" user="JayTurnr">
     <nd ref="34956637"/>
     <nd ref="5276195"/>
@@ -295,37 +299,6 @@
     <tag k="name" v="Malton Lane"/>
     <tag k="not:name" v="Malton Road"/>
     <tag k="source" v="GPS"/>
-  </way>
-  <way id="5106735" version="7" timestamp="2023-08-09T09:38:08Z" changeset="139650282" uid="242345" user="confusedbuffalo">
-    <nd ref="34957192"/>
-    <nd ref="1831951896"/>
-    <nd ref="1831072362"/>
-    <nd ref="34957187"/>
-    <nd ref="34957186"/>
-    <nd ref="34957167"/>
-    <nd ref="1831951887"/>
-    <nd ref="34957192"/>
-    <tag k="addr:city" v="Royston"/>
-    <tag k="addr:county" v="Hertfordshire"/>
-    <tag k="addr:housename" v="Meldreth Primary School"/>
-    <tag k="addr:postcode" v="SG8 6LA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:suburb" v="Meldreth"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="210"/>
-    <tag k="email" v="office@meldreth.cambs.sch.uk"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Meldreth Primary School"/>
-    <tag k="operator" v="Cambridgeshire County Council"/>
-    <tag k="phone" v="+44 1763 260 432"/>
-    <tag k="ref:GB:uprn" v="100091611024"/>
-    <tag k="ref:edubase" v="110615"/>
-    <tag k="school:trust" v="no"/>
-    <tag k="school:type" v="community"/>
-    <tag k="website" v="http://www.meldreth.cambs.sch.uk/"/>
-    <tag k="wikidata" v="Q66223503"/>
   </way>
   <way id="5106737" version="8" timestamp="2022-05-09T19:34:48Z" changeset="120763099" uid="5173844" user="ndrw6">
     <nd ref="34956390"/>
@@ -727,6 +700,52 @@
     <tag k="source" v="Bing"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="88714146" version="2" timestamp="2021-09-12T11:48:45Z" changeset="111092491" uid="4933004" user="mappingilo">
+    <nd ref="1029824820"/>
+    <nd ref="1029825074"/>
+    <nd ref="1029825030"/>
+    <nd ref="1029824982"/>
+    <nd ref="1029824918"/>
+    <nd ref="1029824878"/>
+    <nd ref="1029824847"/>
+    <nd ref="1029824777"/>
+    <nd ref="1029824739"/>
+    <nd ref="1029824693"/>
+    <nd ref="1029824820"/>
+    <tag k="building" v="yes"/>
+    <tag k="fixme" v="Is there a cafe at Bury Lane?; survey it an make a node for it"/>
+    <tag k="fixme:name" v="OS S.V. states &quot;Bury Lane Fruit Farm&quot;;I know they changed their name a few years back ... what is it now?"/>
+    <tag k="name" v="Bury Lane Farm Shop"/>
+    <tag k="note:shop" v="I know it's not strictly a garden centre but it's mighty close"/>
+    <tag k="shop" v="garden_centre"/>
+    <tag k="source:outline" v="OS S.V."/>
+    <tag k="website" v="https://burylanefarmshop.co.uk/"/>
+  </way>
+  <way id="105432011" version="7" timestamp="2023-11-03T08:23:52Z" changeset="143562757" uid="504708" user="HillWithSmallFields">
+    <nd ref="1214445437"/>
+    <nd ref="1831953525"/>
+    <nd ref="1831953492"/>
+    <nd ref="1831953520"/>
+    <nd ref="1831953508"/>
+    <nd ref="1831953509"/>
+    <nd ref="34957280"/>
+    <nd ref="1831953488"/>
+    <nd ref="1831953470"/>
+    <nd ref="1214445453"/>
+    <nd ref="1214445464"/>
+    <nd ref="1214445369"/>
+    <nd ref="1831953469"/>
+    <nd ref="1831953504"/>
+    <nd ref="1214445437"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Holy Trinity (Meldreth Parish Church)"/>
+    <tag k="ref:dove" v="16937"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="wikidata" v="Q17528057"/>
+  </way>
   <way id="130760193" version="8" timestamp="2025-02-21T14:21:30Z" changeset="162782625" uid="5008136" user="JayTurnr">
     <nd ref="34956728"/>
     <nd ref="1029824873"/>
@@ -865,44 +884,15 @@
     <tag k="source:name" v="dictaphone"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="181362969" version="7" timestamp="2023-11-16T16:38:01Z" changeset="144103995" uid="13445" user="zorque">
-    <nd ref="1917897029"/>
-    <nd ref="1917897025"/>
-    <nd ref="1917897028"/>
-    <nd ref="1831071820"/>
-    <nd ref="1917897041"/>
-    <nd ref="1917897026"/>
-    <nd ref="1917897005"/>
-    <nd ref="1917897017"/>
-    <nd ref="1917897015"/>
-    <nd ref="1917897027"/>
-    <nd ref="1917897039"/>
-    <nd ref="1917897030"/>
-    <nd ref="1917897013"/>
-    <nd ref="1917897047"/>
-    <nd ref="1917897021"/>
-    <nd ref="1917897029"/>
-    <tag k="addr:city" v="Royston"/>
-    <tag k="addr:county" v="Hertfordshire"/>
-    <tag k="addr:housename" v="Aurora Meldreth Manor School"/>
+  <way id="181359729" version="4" timestamp="2020-04-21T23:41:34Z" changeset="83904396" uid="3735896" user="alexkemp">
+    <nd ref="1917873540"/>
+    <nd ref="1917873643"/>
+    <nd ref="1917873553"/>
+    <nd ref="1917873555"/>
+    <nd ref="1917873540"/>
     <tag k="addr:postcode" v="SG8 6LG"/>
-    <tag k="addr:street" v="Fenny Lane"/>
-    <tag k="addr:suburb" v="Meldreth"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="50"/>
-    <tag k="email" v="meldreth.manor@the-aurora-group.com"/>
-    <tag k="isced:level" v="3"/>
-    <tag k="max_age" v="19"/>
-    <tag k="min_age" v="6"/>
-    <tag k="name" v="Aurora Meldreth Manor School"/>
-    <tag k="operator" v="The Aurora Group"/>
-    <tag k="phone" v="+44 1763 268 000"/>
-    <tag k="ref:GB:uprn" v="200000848073"/>
-    <tag k="ref:edubase" v="110920"/>
-    <tag k="school:boarding" v="yes"/>
-    <tag k="school:trust" v="no"/>
-    <tag k="school:type" v="special"/>
-    <tag k="website" v="https://www.the-aurora-group.com/meldrethmanor"/>
+    <tag k="building" v="school"/>
+    <tag k="name" v="Meldreth Manor"/>
   </way>
   <way id="190294575" version="3" timestamp="2021-04-02T03:58:28Z" changeset="102157113" uid="10455645" user="viplavm">
     <nd ref="34956431"/>
@@ -1058,6 +1048,17 @@
     <tag k="name" v="Melbourn Bypass"/>
     <tag k="ref" v="A10"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="545704270" version="2" timestamp="2021-04-09T00:43:29Z" changeset="102594913" uid="13024927" user="FyreCass">
+    <nd ref="5273946146"/>
+    <nd ref="5273946147"/>
+    <nd ref="5273946148"/>
+    <nd ref="8608731410"/>
+    <nd ref="5273946149"/>
+    <nd ref="5273946150"/>
+    <nd ref="5273946146"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Former water mill"/>
   </way>
   <way id="584403047" version="2" timestamp="2025-03-16T16:25:57Z" changeset="163696609" uid="493595" user="Yorvik Prestigitator">
     <nd ref="5586312980"/>
@@ -1216,6 +1217,21 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Gables Close"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="647061601" version="1" timestamp="2018-11-20T23:31:56Z" changeset="64717295" uid="5173844" user="ndrw6">
+    <nd ref="6077720288"/>
+    <nd ref="6077720287"/>
+    <nd ref="6077720286"/>
+    <nd ref="6077720183"/>
+    <nd ref="6077720182"/>
+    <nd ref="6077720181"/>
+    <nd ref="6077720184"/>
+    <nd ref="6077720180"/>
+    <nd ref="6077720179"/>
+    <nd ref="6077720285"/>
+    <nd ref="6077720288"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Eternit Social Club"/>
   </way>
   <way id="672263059" version="1" timestamp="2019-02-22T09:52:33Z" changeset="67459753" uid="8446894" user="kararcha">
     <nd ref="6295269757"/>

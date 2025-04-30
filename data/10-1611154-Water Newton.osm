@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:40:28Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="27340146" lat="52.5329036" lon="-0.3895812" version="10" timestamp="2023-03-11T15:11:12Z" changeset="133557013" uid="486701" user="eteb3"/>
   <node id="349340585" lat="52.5657867" lon="-0.3867586" version="4" timestamp="2023-12-13T15:26:35Z" changeset="145079585" uid="9385857" user="Road5914"/>
+  <node id="1789847955" lat="52.5609673" lon="-0.3737752" version="2" timestamp="2023-12-13T15:26:35Z" changeset="145079585" uid="9385857" user="Road5914"/>
   <node id="1798052606" lat="52.5577865" lon="-0.3542069" version="1" timestamp="2012-06-22T10:25:45Z" changeset="11977384" uid="24119" user="Mauls"/>
-  <node id="1798052609" lat="52.5579062" lon="-0.3540039" version="2" timestamp="2018-07-13T22:25:37Z" changeset="60701699" uid="2773866" user="kreuzschnabel"/>
-  <node id="2203497256" lat="52.5656973" lon="-0.3868665" version="4" timestamp="2023-12-13T15:26:35Z" changeset="145079585" uid="9385857" user="Road5914"/>
+  <node id="1798052607" lat="52.5580579" lon="-0.3544784" version="2" timestamp="2018-07-13T22:25:37Z" changeset="60701699" uid="2773866" user="kreuzschnabel"/>
+  <node id="4643660099" lat="52.5467920" lon="-0.3703413" version="2" timestamp="2021-06-30T13:53:26Z" changeset="107210524" uid="486701" user="eteb3"/>
   <way id="4272416" version="27" timestamp="2023-12-31T19:39:04Z" changeset="145744865" uid="242345" user="confusedbuffalo">
     <nd ref="335391311"/>
     <nd ref="11415077183"/>
@@ -189,6 +189,36 @@
     <tag k="old_name" v="Great North Road"/>
     <tag k="old_ref" v="A1"/>
     <tag k="oneway" v="no"/>
+  </way>
+  <way id="167589699" version="7" timestamp="2024-08-10T21:05:49Z" changeset="155078653" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="1789825837"/>
+    <nd ref="1789825865"/>
+    <nd ref="1789825833"/>
+    <nd ref="1789825813"/>
+    <nd ref="1789825869"/>
+    <nd ref="1789825874"/>
+    <nd ref="1789825876"/>
+    <nd ref="1789825840"/>
+    <nd ref="1789825875"/>
+    <nd ref="1789825867"/>
+    <nd ref="1789825814"/>
+    <nd ref="1789825870"/>
+    <nd ref="1789825841"/>
+    <nd ref="1789825881"/>
+    <nd ref="1789825816"/>
+    <nd ref="1789825888"/>
+    <nd ref="1789825837"/>
+    <tag k="addr:city" v="Peterborough"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE8 6LU"/>
+    <tag k="addr:suburb" v="Water Newton"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Remigius, Water Newton"/>
+    <tag k="ref:dove" v="15487"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544163"/>
   </way>
   <way id="168559432" version="14" timestamp="2023-12-31T19:39:05Z" changeset="145744865" uid="242345" user="confusedbuffalo">
     <nd ref="1798052606"/>
@@ -377,6 +407,18 @@
     <tag k="ref" v="A1"/>
     <tag k="sidewalk" v="no"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="264221838" version="3" timestamp="2019-10-19T17:34:13Z" changeset="75935762" uid="486701" user="eteb3">
+    <nd ref="2698976609"/>
+    <nd ref="2698976085"/>
+    <nd ref="2698976035"/>
+    <nd ref="1327988935"/>
+    <nd ref="6898610761"/>
+    <nd ref="6898610762"/>
+    <nd ref="6898610765"/>
+    <nd ref="2698976609"/>
+    <tag k="building" v="terrace"/>
+    <tag k="name" v="The Mill"/>
   </way>
   <way id="727701459" version="1" timestamp="2019-09-24T09:49:19Z" changeset="74846195" uid="10221594" user="afurquan">
     <nd ref="349341030"/>

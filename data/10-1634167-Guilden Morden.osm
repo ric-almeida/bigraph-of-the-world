@@ -1,30 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="17808815" lat="52.0452032" lon="-0.1489920" version="2" timestamp="2011-03-20T17:05:05Z" changeset="7618847" uid="233042" user="CJY"/>
-  <node id="17808816" lat="52.0449976" lon="-0.1489839" version="3" timestamp="2011-03-20T17:05:05Z" changeset="7618847" uid="233042" user="CJY"/>
+  <node id="21285577" lat="52.0478454" lon="-0.1463081" version="5" timestamp="2018-06-06T17:40:32Z" changeset="59610394" uid="1882988" user="Raretrack"/>
   <node id="21309106" lat="52.0165282" lon="-0.1275776" version="9" timestamp="2022-07-05T14:26:54Z" changeset="123238247" uid="13792107" user="LordGarySugar"/>
   <node id="37221141" lat="52.1057066" lon="-0.1613315" version="4" timestamp="2012-08-09T21:17:50Z" changeset="12673952" uid="553735" user="Johnmb">
     <tag k="junction" v="totso;crossroads"/>
   </node>
-  <node id="130083294" lat="52.0877489" lon="-0.1199238" version="4" timestamp="2011-03-20T16:49:55Z" changeset="7618676" uid="233042" user="CJY"/>
   <node id="240018789" lat="52.0348522" lon="-0.1248087" version="3" timestamp="2024-09-07T15:04:41Z" changeset="156316923" uid="742701" user="kerr smith"/>
-  <node id="275940259" lat="52.0735487" lon="-0.1250888" version="1" timestamp="2008-07-03T14:36:58Z" changeset="377944" uid="3582" user="davidearl"/>
-  <node id="275940625" lat="52.0445991" lon="-0.1483914" version="2" timestamp="2011-11-27T19:42:50Z" changeset="9969764" uid="5926" user="c2r"/>
-  <node id="275940811" lat="52.0275946" lon="-0.1091739" version="6" timestamp="2022-07-08T15:03:02Z" changeset="123370599" uid="13792107" user="LordGarySugar">
-    <tag k="junction" v="yes"/>
-    <tag k="name" v="Odsey Corner"/>
-  </node>
   <node id="275942020" lat="52.0990889" lon="-0.1056269" version="3" timestamp="2025-01-31T13:43:08Z" changeset="161977795" uid="742701" user="kerr smith"/>
   <node id="275942550" lat="52.0604172" lon="-0.1287287" version="1" timestamp="2008-07-03T14:48:40Z" changeset="377944" uid="3582" user="davidearl"/>
-  <node id="392848331" lat="52.0237449" lon="-0.1150635" version="5" timestamp="2024-02-27T20:32:30Z" changeset="147989213" uid="5229644" user="Nathan_A_RF"/>
-  <node id="558043846" lat="52.0334303" lon="-0.1127723" version="3" timestamp="2024-06-14T14:04:52Z" changeset="152680799" uid="953779" user="Adam Edwards"/>
-  <node id="1534732381" lat="52.0233491" lon="-0.1156022" version="2" timestamp="2022-07-08T15:03:02Z" changeset="123370599" uid="13792107" user="LordGarySugar"/>
-  <node id="9868387112" lat="52.0213815" lon="-0.1182789" version="1" timestamp="2022-07-05T14:26:54Z" changeset="123238247" uid="13792107" user="LordGarySugar"/>
-  <node id="9868387113" lat="52.0215354" lon="-0.1180590" version="1" timestamp="2022-07-05T14:26:54Z" changeset="123238247" uid="13792107" user="LordGarySugar"/>
-  <node id="9874655771" lat="52.0274736" lon="-0.1094228" version="1" timestamp="2022-07-08T15:03:02Z" changeset="123370599" uid="13792107" user="LordGarySugar"/>
+  <node id="583385684" lat="52.0789813" lon="-0.1315329" version="2" timestamp="2011-03-20T16:49:49Z" changeset="7618676" uid="233042" user="CJY"/>
   <way id="5270007" version="17" timestamp="2017-04-22T08:22:33Z" changeset="48025594" uid="133272" user="wongataa">
     <nd ref="37221141"/>
     <nd ref="37221145"/>
@@ -529,51 +516,28 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="High Street"/>
   </way>
-  <way id="128431750" version="9" timestamp="2023-08-27T10:30:08Z" changeset="140445217" uid="242345" user="confusedbuffalo">
-    <nd ref="1419373007"/>
-    <nd ref="1419373008"/>
-    <nd ref="1419373016"/>
-    <nd ref="1419373013"/>
-    <nd ref="2279379523"/>
-    <nd ref="1419373015"/>
-    <nd ref="1419373018"/>
-    <nd ref="1419373010"/>
-    <nd ref="1419372993"/>
-    <nd ref="1419372985"/>
-    <nd ref="1419372978"/>
-    <nd ref="1419372987"/>
-    <nd ref="1419372981"/>
-    <nd ref="1419372990"/>
-    <nd ref="1419372991"/>
-    <nd ref="1419372995"/>
-    <nd ref="1419373007"/>
-    <tag k="addr:city" v="Royston"/>
-    <tag k="addr:county" v="Hertfordshire"/>
-    <tag k="addr:housename" v="Guilden Morden C of E Primary Academy"/>
-    <tag k="addr:postcode" v="SG8 0JZ"/>
-    <tag k="addr:street" v="Pound Green"/>
-    <tag k="addr:suburb" v="Guilden Morden"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="90"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="diocese" v="Diocese of Ely"/>
-    <tag k="email" v="office@guildenmorden.cambs.sch.uk"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Guilden Morden CofE Primary Academy"/>
-    <tag k="operator" v="Diocese of Ely Multi-Academy Trust"/>
-    <tag k="phone" v="+44 1763 852 318"/>
-    <tag k="ref:GB:uprn" v="10003203781"/>
-    <tag k="ref:edubase" v="142811"/>
-    <tag k="ref:edubase:group" v="2905"/>
-    <tag k="religion" v="christian"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="The Diocese of Ely Multi-Academy Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="website" v="https://guildenmorden.cambs.sch.uk/"/>
-    <tag k="wikidata" v="Q66231406"/>
+  <way id="114337259" version="1" timestamp="2011-05-21T21:30:53Z" changeset="8211009" uid="90142" user="andy mackey">
+    <nd ref="1295412298"/>
+    <nd ref="1295412297"/>
+    <nd ref="1295412299"/>
+    <nd ref="1295412295"/>
+    <nd ref="1295412287"/>
+    <nd ref="1295412290"/>
+    <nd ref="1295412302"/>
+    <nd ref="1295412300"/>
+    <nd ref="1295412288"/>
+    <nd ref="1295412286"/>
+    <nd ref="1295412293"/>
+    <nd ref="1295412301"/>
+    <nd ref="1295412303"/>
+    <nd ref="1295412289"/>
+    <nd ref="1295412292"/>
+    <nd ref="1295412291"/>
+    <nd ref="1295412294"/>
+    <nd ref="1295412296"/>
+    <nd ref="1295412298"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="old mill tower (sailess)"/>
   </way>
   <way id="200199031" version="4" timestamp="2023-09-26T08:46:09Z" changeset="141763423" uid="5173844" user="ndrw6">
     <nd ref="266778719"/>
@@ -611,6 +575,17 @@
     <tag k="amenity" v="pub"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Edward VII"/>
+  </way>
+  <way id="218710410" version="2" timestamp="2014-07-23T10:20:14Z" changeset="24308199" uid="114161" user="Polarbear">
+    <nd ref="2279379413"/>
+    <nd ref="266974532"/>
+    <nd ref="2279379446"/>
+    <nd ref="2279379449"/>
+    <nd ref="2279379400"/>
+    <nd ref="2279379413"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Eddies"/>
+    <tag k="shop" v="convenience"/>
   </way>
   <way id="218710421" version="2" timestamp="2016-04-26T13:38:04Z" changeset="38886820" uid="281267" user="smb1001">
     <nd ref="2279379440"/>
@@ -790,6 +765,17 @@
     <nd ref="11219463604"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Church Lane"/>
+  </way>
+  <way id="1210935229" version="2" timestamp="2025-01-05T14:22:04Z" changeset="161022234" uid="1287673" user="sloerunner">
+    <nd ref="11219463626"/>
+    <nd ref="11219463623"/>
+    <nd ref="11219463624"/>
+    <nd ref="11219463625"/>
+    <nd ref="11219463626"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Guilden Morden Village Hall"/>
   </way>
   <way id="1210935235" version="1" timestamp="2023-09-26T08:46:09Z" changeset="141763423" uid="5173844" user="ndrw6">
     <nd ref="11219463679"/>

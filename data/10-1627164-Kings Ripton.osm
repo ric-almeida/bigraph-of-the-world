@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="20698531" lat="52.4086559" lon="-0.1308678" version="2" timestamp="2025-01-13T18:36:35Z" changeset="161320884" uid="5229644" user="Nathan_A_RF"/>
-  <node id="24972925" lat="52.3898420" lon="-0.1424573" version="2" timestamp="2018-11-03T11:05:05Z" changeset="64137306" uid="1257159" user="Jean-Pierre Rondeau"/>
   <node id="24972949" lat="52.3605973" lon="-0.1386846" version="1" timestamp="2007-01-09T13:21:37Z" changeset="190762" uid="2955" user="Matthew Newton">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="24974374" lat="52.3518766" lon="-0.1713890" version="4" timestamp="2025-01-13T16:13:34Z" changeset="161316061" uid="5229644" user="Nathan_A_RF"/>
+  <node id="24974334" lat="52.3683639" lon="-0.1521768" version="3" timestamp="2018-11-03T10:13:53Z" changeset="64136468" uid="1257159" user="Jean-Pierre Rondeau"/>
   <node id="25720463" lat="52.3539874" lon="-0.1823776" version="4" timestamp="2024-04-09T21:43:21Z" changeset="149795831" uid="5229644" user="Nathan_A_RF"/>
   <node id="32909951" lat="52.3835486" lon="-0.1820203" version="3" timestamp="2011-06-02T16:03:30Z" changeset="8321327" uid="90142" user="andy mackey"/>
-  <node id="814181635" lat="52.3811206" lon="-0.1870093" version="2" timestamp="2011-09-01T16:59:51Z" changeset="9186261" uid="3582" user="davidearl"/>
-  <node id="814181743" lat="52.3841244" lon="-0.1895585" version="1" timestamp="2010-07-12T21:52:28Z" changeset="5203304" uid="7098" user="richardm565"/>
-  <node id="1574758788" lat="52.4097395" lon="-0.1273581" version="2" timestamp="2020-05-19T04:08:32Z" changeset="85411784" uid="5173844" user="ndrw6"/>
-  <node id="12498760062" lat="52.4085099" lon="-0.1311375" version="1" timestamp="2025-01-13T18:36:35Z" changeset="161320884" uid="5229644" user="Nathan_A_RF"/>
+  <node id="804388289" lat="52.3749014" lon="-0.1488659" version="2" timestamp="2018-11-03T11:05:06Z" changeset="64137306" uid="1257159" user="Jean-Pierre Rondeau">
+    <tag k="traffic_calming" v="choker"/>
+  </node>
   <way id="4214321" version="10" timestamp="2025-01-13T18:36:35Z" changeset="161320884" uid="5229644" user="Nathan_A_RF">
     <nd ref="804388289"/>
     <nd ref="24972974"/>
@@ -280,6 +277,26 @@
     <tag k="source" v="survey and gps (bing not recent enough)"/>
     <tag k="width" v="4 metres"/>
   </way>
+  <way id="102484117" version="4" timestamp="2024-05-19T09:48:40Z" changeset="151526312" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="1183499987"/>
+    <nd ref="1183499992"/>
+    <nd ref="1183500008"/>
+    <nd ref="1183500005"/>
+    <nd ref="1183499993"/>
+    <nd ref="1183500009"/>
+    <nd ref="1183500013"/>
+    <nd ref="1183499987"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 2NL"/>
+    <tag k="addr:suburb" v="Kings Ripton"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter (Parish Church of Kings Ripton)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544221"/>
+  </way>
   <way id="105016050" version="4" timestamp="2020-06-17T21:44:16Z" changeset="86792450" uid="11022773" user="GeoFens">
     <nd ref="1211643788"/>
     <nd ref="1210679246"/>
@@ -397,49 +414,98 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="School Lane"/>
   </way>
-  <way id="430731074" version="5" timestamp="2024-03-22T23:27:12Z" changeset="149034057" uid="12340839" user="mapboy63">
-    <nd ref="4300033734"/>
-    <nd ref="4077044069"/>
-    <nd ref="4077044039"/>
-    <nd ref="1327223023"/>
-    <nd ref="4077044035"/>
-    <nd ref="4299998624"/>
-    <nd ref="4299998625"/>
-    <nd ref="4299998626"/>
-    <nd ref="4300033734"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housename" v="Rally Karting Centre"/>
-    <tag k="addr:postcode" v="PE28 2NX"/>
-    <tag k="addr:street" v="Kings Ripton Road"/>
-    <tag k="area" v="yes"/>
-    <tag k="leisure" v="sports_centre"/>
-    <tag k="name" v="Rally Karting Centre"/>
-    <tag k="sport" v="karting"/>
-    <tag k="website" v="http://www.rallykartingcentre.co.uk/"/>
+  <way id="430732915" version="4" timestamp="2024-03-22T23:27:12Z" changeset="149034057" uid="12340839" user="mapboy63">
+    <nd ref="4300006821"/>
+    <nd ref="4300006835"/>
+    <nd ref="4300006822"/>
+    <nd ref="4300006823"/>
+    <nd ref="4300006824"/>
+    <nd ref="4300006825"/>
+    <nd ref="4300006826"/>
+    <nd ref="4300006837"/>
+    <nd ref="4300006836"/>
+    <nd ref="4300006821"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Wyton Mowers"/>
+    <tag k="shop" v="groundskeeping"/>
+    <tag k="website" v="http://www.wytonmowercentre.com/"/>
   </way>
-  <way id="430934977" version="3" timestamp="2020-11-01T00:27:53Z" changeset="93356021" uid="11022773" user="GeoFens">
-    <nd ref="4301918177"/>
-    <nd ref="4301918178"/>
-    <nd ref="4301918179"/>
-    <nd ref="4301918180"/>
-    <nd ref="8070138468"/>
-    <nd ref="4301918164"/>
-    <nd ref="4302392100"/>
-    <nd ref="8070138469"/>
-    <nd ref="8070138470"/>
-    <nd ref="4301918185"/>
-    <nd ref="4301918186"/>
-    <nd ref="4301918187"/>
-    <nd ref="4301918188"/>
-    <nd ref="4301921489"/>
-    <nd ref="4301921490"/>
-    <nd ref="4301921491"/>
-    <nd ref="4301918177"/>
+  <way id="655469361" version="3" timestamp="2024-05-19T09:48:40Z" changeset="151526312" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="6141223106"/>
+    <nd ref="6141223103"/>
+    <nd ref="6141223104"/>
+    <nd ref="6141223105"/>
+    <nd ref="6141223106"/>
     <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE28 2NU"/>
-    <tag k="addr:street" v="Kings Ripton Road"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Sapley Park Farm"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 2NJ"/>
+    <tag k="addr:suburb" v="Kings Ripton"/>
+    <tag k="building" v="terrace"/>
+    <tag k="name" v="Bridge Cottages"/>
+  </way>
+  <way id="880331180" version="3" timestamp="2020-12-03T19:12:19Z" changeset="95245183" uid="11022773" user="GeoFens">
+    <nd ref="8188263391"/>
+    <nd ref="8188263392"/>
+    <nd ref="8188263393"/>
+    <nd ref="8188263394"/>
+    <nd ref="8188263391"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Granary"/>
+  </way>
+  <way id="880331187" version="2" timestamp="2021-05-17T16:09:00Z" changeset="104837129" uid="11022773" user="GeoFens">
+    <nd ref="8188282438"/>
+    <nd ref="8188282439"/>
+    <nd ref="8188282440"/>
+    <nd ref="8188282441"/>
+    <nd ref="8188282442"/>
+    <nd ref="8188282443"/>
+    <nd ref="8188282438"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Aqua House"/>
+  </way>
+  <way id="880331190" version="2" timestamp="2021-05-20T11:16:57Z" changeset="105024157" uid="11022773" user="GeoFens">
+    <nd ref="8188282449"/>
+    <nd ref="8188282450"/>
+    <nd ref="8188282451"/>
+    <nd ref="8188282452"/>
+    <nd ref="8188282453"/>
+    <nd ref="8188282454"/>
+    <nd ref="8188282449"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="The Gables"/>
+  </way>
+  <way id="880331195" version="2" timestamp="2021-05-30T21:56:27Z" changeset="105585707" uid="11022773" user="GeoFens">
+    <nd ref="8188282469"/>
+    <nd ref="8188282470"/>
+    <nd ref="8188282471"/>
+    <nd ref="8188282472"/>
+    <nd ref="8188282473"/>
+    <nd ref="8188282474"/>
+    <nd ref="8188282469"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Honeysuckle Cottage"/>
+  </way>
+  <way id="880331197" version="3" timestamp="2021-06-12T13:15:11Z" changeset="106253131" uid="11022773" user="GeoFens">
+    <nd ref="8188282485"/>
+    <nd ref="8188282486"/>
+    <nd ref="8188282487"/>
+    <nd ref="8188282488"/>
+    <nd ref="8188282489"/>
+    <nd ref="8188282490"/>
+    <nd ref="8188282491"/>
+    <nd ref="8188282492"/>
+    <nd ref="8188282485"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Holland Wood Cottage"/>
+  </way>
+  <way id="880331202" version="2" timestamp="2021-05-17T16:09:00Z" changeset="104837129" uid="11022773" user="GeoFens">
+    <nd ref="8188282517"/>
+    <nd ref="8188282518"/>
+    <nd ref="8188282519"/>
+    <nd ref="8188282520"/>
+    <nd ref="8188282517"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Walden Farm"/>
   </way>
   <way id="880331210" version="3" timestamp="2024-05-19T09:48:40Z" changeset="151526312" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="8188282560"/>
@@ -458,6 +524,124 @@
     <tag k="operator" v="Dodson Bros Thatchers"/>
     <tag k="website" v="https://www.dodsonbrosthatchers.co.uk"/>
   </way>
+  <way id="880331213" version="2" timestamp="2021-05-20T11:16:57Z" changeset="105024157" uid="11022773" user="GeoFens">
+    <nd ref="8188282572"/>
+    <nd ref="8188282573"/>
+    <nd ref="8188282574"/>
+    <nd ref="8188282575"/>
+    <nd ref="8188282572"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="White House"/>
+  </way>
+  <way id="880331214" version="3" timestamp="2021-05-17T16:09:00Z" changeset="104837129" uid="11022773" user="GeoFens">
+    <nd ref="8188282576"/>
+    <nd ref="8188282577"/>
+    <nd ref="8188282578"/>
+    <nd ref="8188282579"/>
+    <nd ref="8188282576"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Look East"/>
+  </way>
+  <way id="880331222" version="2" timestamp="2021-05-20T11:16:57Z" changeset="105024157" uid="11022773" user="GeoFens">
+    <nd ref="8188282614"/>
+    <nd ref="8188282615"/>
+    <nd ref="8188282616"/>
+    <nd ref="8188282617"/>
+    <nd ref="8188282614"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Priory Cottage"/>
+  </way>
+  <way id="880331231" version="2" timestamp="2021-06-24T20:18:48Z" changeset="106920957" uid="11022773" user="GeoFens">
+    <nd ref="8188282649"/>
+    <nd ref="8188282650"/>
+    <nd ref="8188282651"/>
+    <nd ref="8188282652"/>
+    <nd ref="8188282653"/>
+    <nd ref="8188282654"/>
+    <nd ref="8188282655"/>
+    <nd ref="8188282656"/>
+    <nd ref="8188282657"/>
+    <nd ref="8188282658"/>
+    <nd ref="8188282649"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Brook House"/>
+  </way>
+  <way id="880346551" version="2" timestamp="2021-06-12T13:15:11Z" changeset="106253131" uid="11022773" user="GeoFens">
+    <nd ref="8188402656"/>
+    <nd ref="8188402657"/>
+    <nd ref="8188402658"/>
+    <nd ref="8188402659"/>
+    <nd ref="8188402660"/>
+    <nd ref="8188402661"/>
+    <nd ref="8188402656"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Field View"/>
+  </way>
+  <way id="880346552" version="3" timestamp="2022-04-04T10:09:21Z" changeset="119296338" uid="364" user="Edward">
+    <nd ref="8188402662"/>
+    <nd ref="8188402663"/>
+    <nd ref="8188402664"/>
+    <nd ref="8188402665"/>
+    <nd ref="8188402666"/>
+    <nd ref="8188402667"/>
+    <nd ref="8188402662"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Corn Cottage"/>
+    <tag k="wikidata" v="Q26456303"/>
+  </way>
+  <way id="880346554" version="2" timestamp="2021-06-24T20:18:48Z" changeset="106920957" uid="11022773" user="GeoFens">
+    <nd ref="8188402672"/>
+    <nd ref="8188402673"/>
+    <nd ref="8188402674"/>
+    <nd ref="8188402675"/>
+    <nd ref="8188402672"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Acorn House"/>
+  </way>
+  <way id="880346561" version="2" timestamp="2024-07-01T00:13:30Z" changeset="153389443" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="8188402700"/>
+    <nd ref="8188402701"/>
+    <nd ref="8188402702"/>
+    <nd ref="8188402703"/>
+    <nd ref="8188402704"/>
+    <nd ref="8188402705"/>
+    <nd ref="8188402700"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Kings Ripton Village Hall"/>
+  </way>
+  <way id="880346574" version="2" timestamp="2021-07-18T13:13:57Z" changeset="108192423" uid="11022773" user="GeoFens">
+    <nd ref="8188402762"/>
+    <nd ref="8188402763"/>
+    <nd ref="8188402764"/>
+    <nd ref="8188402765"/>
+    <nd ref="8188402762"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="The Willows"/>
+  </way>
+  <way id="880346575" version="2" timestamp="2021-07-18T13:13:57Z" changeset="108192423" uid="11022773" user="GeoFens">
+    <nd ref="8188402766"/>
+    <nd ref="8188402767"/>
+    <nd ref="8188402768"/>
+    <nd ref="8188402769"/>
+    <nd ref="8188402770"/>
+    <nd ref="8188402771"/>
+    <nd ref="8188402766"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Unicorn House"/>
+  </way>
+  <way id="880346577" version="2" timestamp="2021-05-20T11:16:57Z" changeset="105024157" uid="11022773" user="GeoFens">
+    <nd ref="8188402778"/>
+    <nd ref="8188402779"/>
+    <nd ref="8188402780"/>
+    <nd ref="8188402781"/>
+    <nd ref="8188402782"/>
+    <nd ref="8188402783"/>
+    <nd ref="8188402778"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Kingsmere"/>
+  </way>
   <way id="880346578" version="4" timestamp="2024-06-11T22:31:54Z" changeset="152563578" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="8188402784"/>
     <nd ref="8188402785"/>
@@ -471,6 +655,83 @@
     <tag k="addr:suburb" v="Kings Ripton"/>
     <tag k="building" v="house"/>
     <tag k="name" v="Manor Farm Cottage"/>
+  </way>
+  <way id="880346586" version="2" timestamp="2021-05-17T16:09:00Z" changeset="104837129" uid="11022773" user="GeoFens">
+    <nd ref="8188402818"/>
+    <nd ref="8188402819"/>
+    <nd ref="8188402820"/>
+    <nd ref="8188402821"/>
+    <nd ref="8188402822"/>
+    <nd ref="8188402823"/>
+    <nd ref="8188402824"/>
+    <nd ref="8188402825"/>
+    <nd ref="8188402818"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="The Hawthorns"/>
+  </way>
+  <way id="880346589" version="4" timestamp="2021-03-25T22:25:02Z" changeset="101746091" uid="145231" user="woodpeck_repair">
+    <nd ref="8188402847"/>
+    <nd ref="8188402848"/>
+    <nd ref="8188402849"/>
+    <nd ref="8188402850"/>
+    <nd ref="8188402851"/>
+    <nd ref="8188402852"/>
+    <nd ref="8188402847"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Manor Farm House"/>
+  </way>
+  <way id="880346590" version="2" timestamp="2020-12-03T19:12:19Z" changeset="95245183" uid="11022773" user="GeoFens">
+    <nd ref="8188402853"/>
+    <nd ref="8188402854"/>
+    <nd ref="8188402855"/>
+    <nd ref="8188402856"/>
+    <nd ref="8188402857"/>
+    <nd ref="8188402858"/>
+    <nd ref="8188402853"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Stables"/>
+    <tag k="tourism" v="guest_house"/>
+  </way>
+  <way id="941987791" version="4" timestamp="2022-12-30T16:29:53Z" changeset="130694456" uid="11022773" user="GeoFens">
+    <nd ref="8723201588"/>
+    <nd ref="8723201589"/>
+    <nd ref="8723201593"/>
+    <nd ref="8723201594"/>
+    <nd ref="8723201595"/>
+    <nd ref="8723201596"/>
+    <nd ref="9258566613"/>
+    <nd ref="9258566597"/>
+    <nd ref="9258566598"/>
+    <nd ref="8723201586"/>
+    <nd ref="8723201597"/>
+    <nd ref="8723201598"/>
+    <nd ref="8723201599"/>
+    <nd ref="8723201600"/>
+    <nd ref="8723201601"/>
+    <nd ref="8723201602"/>
+    <nd ref="8723201603"/>
+    <nd ref="8723201604"/>
+    <nd ref="8723201605"/>
+    <nd ref="8723201606"/>
+    <nd ref="8723201607"/>
+    <nd ref="8723201608"/>
+    <nd ref="8723201609"/>
+    <nd ref="10295355930"/>
+    <nd ref="8723201610"/>
+    <nd ref="8723201611"/>
+    <nd ref="8723201588"/>
+    <tag k="amenity" v="crematorium"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Huntingdon Crematorium"/>
+  </way>
+  <way id="1003284142" version="2" timestamp="2022-12-30T16:29:53Z" changeset="130694456" uid="11022773" user="GeoFens">
+    <nd ref="9258567532"/>
+    <nd ref="9258567533"/>
+    <nd ref="9258567534"/>
+    <nd ref="9258567535"/>
+    <nd ref="9258567532"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sapley Lodge"/>
   </way>
   <way id="1138083922" version="2" timestamp="2025-01-13T16:13:34Z" changeset="161316061" uid="5229644" user="Nathan_A_RF">
     <nd ref="10608484867"/>

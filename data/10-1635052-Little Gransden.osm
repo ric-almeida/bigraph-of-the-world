@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:14:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="5276368" lat="52.1723467" lon="-0.0892259" version="4" timestamp="2015-08-27T22:01:52Z" changeset="33631980" uid="2032231" user="narboy"/>
-  <node id="5276371" lat="52.1697275" lon="-0.0917031" version="5" timestamp="2015-08-27T22:01:52Z" changeset="33631980" uid="2032231" user="narboy"/>
-  <node id="5276406" lat="52.1597497" lon="-0.1585566" version="2" timestamp="2011-10-20T17:53:17Z" changeset="9610605" uid="504708" user="HillWithSmallFields"/>
+  <node id="5276390" lat="52.1720055" lon="-0.1408412" version="3" timestamp="2015-08-27T21:47:32Z" changeset="33631776" uid="2032231" user="narboy"/>
   <node id="38712108" lat="52.1831023" lon="-0.1455012" version="4" timestamp="2013-10-03T23:04:02Z" changeset="18170410" uid="281267" user="smb1001"/>
-  <node id="577296620" lat="52.1701157" lon="-0.0911357" version="3" timestamp="2024-02-24T12:09:44Z" changeset="147852138" uid="742701" user="kerr smith"/>
-  <node id="1268907487" lat="52.1845300" lon="-0.1378742" version="3" timestamp="2019-10-08T15:52:46Z" changeset="75421713" uid="281267" user="smb1001"/>
-  <node id="7017346004" lat="52.1597759" lon="-0.1583680" version="1" timestamp="2019-11-28T14:55:17Z" changeset="77688341" uid="281267" user="smb1001"/>
+  <node id="197715855" lat="52.1830045" lon="-0.1336391" version="3" timestamp="2018-10-30T10:53:22Z" changeset="64006338" uid="281267" user="smb1001"/>
   <way id="4801561" version="17" timestamp="2022-02-27T09:15:09Z" changeset="117900841" uid="574764" user="houbara">
     <nd ref="5276390"/>
     <nd ref="3717606058"/>
@@ -224,6 +221,28 @@
     <tag k="source:ref" v="survey"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="111354715" version="5" timestamp="2020-10-08T22:17:26Z" changeset="92198045" uid="281267" user="smb1001">
+    <nd ref="1268902880"/>
+    <nd ref="1268902886"/>
+    <nd ref="1268902893"/>
+    <nd ref="1268902826"/>
+    <nd ref="1268902899"/>
+    <nd ref="1268902913"/>
+    <nd ref="1268902856"/>
+    <nd ref="1268902878"/>
+    <nd ref="1268902884"/>
+    <nd ref="1268902891"/>
+    <nd ref="7990103607"/>
+    <nd ref="1268902897"/>
+    <nd ref="1268902908"/>
+    <nd ref="1268902880"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter and St Paul (Little Gransden Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550780"/>
+  </way>
   <way id="119788953" version="10" timestamp="2022-03-17T16:32:12Z" changeset="118602238" uid="669183" user="Andy_W">
     <nd ref="297116961"/>
     <nd ref="765938441"/>
@@ -280,75 +299,18 @@
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Little Gransden Village Hall"/>
   </way>
-  <way id="354601449" version="8" timestamp="2022-04-06T15:55:23Z" changeset="119393821" uid="669183" user="Andy_W">
-    <nd ref="3602813499"/>
-    <nd ref="6948622293"/>
-    <nd ref="6948622348"/>
-    <nd ref="3602813555"/>
-    <nd ref="3602813737"/>
-    <nd ref="9646081167"/>
-    <nd ref="3602813778"/>
-    <nd ref="3602813554"/>
-    <nd ref="6948622291"/>
-    <nd ref="9646081164"/>
-    <nd ref="9646081163"/>
-    <nd ref="3602813545"/>
-    <nd ref="9646081162"/>
-    <nd ref="3602813742"/>
-    <nd ref="3602813713"/>
-    <nd ref="3602813540"/>
-    <nd ref="3602812659"/>
-    <nd ref="9646047255"/>
-    <nd ref="9646047283"/>
-    <nd ref="3602813544"/>
-    <nd ref="9646047256"/>
-    <nd ref="9646047257"/>
-    <nd ref="9646047258"/>
-    <nd ref="3602812649"/>
-    <nd ref="3602813770"/>
-    <nd ref="9646047259"/>
-    <nd ref="9646047260"/>
-    <nd ref="9646047282"/>
-    <nd ref="3602813497"/>
-    <nd ref="9646047261"/>
-    <nd ref="9646047262"/>
-    <nd ref="3602813543"/>
-    <nd ref="9646047263"/>
-    <nd ref="3602813743"/>
-    <nd ref="9646047267"/>
-    <nd ref="3602813733"/>
-    <nd ref="9646047268"/>
-    <nd ref="9646047271"/>
-    <nd ref="9646047270"/>
-    <nd ref="3602813533"/>
-    <nd ref="3602813553"/>
-    <nd ref="3602813776"/>
-    <nd ref="9646081173"/>
-    <nd ref="3602812636"/>
-    <nd ref="9646081171"/>
-    <nd ref="9646081170"/>
-    <nd ref="6948622299"/>
-    <nd ref="3602813527"/>
-    <nd ref="6948622317"/>
-    <nd ref="3602813499"/>
-    <tag k="addr:city" v="Little Gransden"/>
-    <tag k="addr:housename" v="Gransden Lodge Airfield"/>
-    <tag k="addr:postcode" v="SG19 3EB"/>
-    <tag k="addr:street" v="Longstowe Road"/>
-    <tag k="aeroway" v="aerodrome"/>
-    <tag k="ele:ft" v="256"/>
-    <tag k="email" v="office@camgliding.uk"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="internet_access:ssid" v="CGC-Clubhouse"/>
-    <tag k="name" v="Gransden Lodge Airfield"/>
-    <tag k="operator" v="Cambridge Gliding Centre"/>
-    <tag k="phone" v="+44 1767677077"/>
-    <tag k="sport" v="gliding"/>
-    <tag k="website" v="https://www.camgliding.uk/"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q3913333"/>
-    <tag k="wikipedia" v="en:Gransden Lodge Airfield"/>
+  <way id="240447154" version="3" timestamp="2020-06-17T14:19:21Z" changeset="86778934" uid="364" user="Edward">
+    <nd ref="2481827934"/>
+    <nd ref="2481827932"/>
+    <nd ref="765938432"/>
+    <nd ref="2481827933"/>
+    <nd ref="2481827934"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="microbrewery" v="yes"/>
+    <tag k="microbrewery:name" v="Son of Sid"/>
+    <tag k="name" v="The Chequers"/>
+    <tag k="wikidata" v="Q55099461"/>
   </way>
   <way id="486604735" version="3" timestamp="2018-12-05T13:16:56Z" changeset="65203341" uid="281267" user="smb1001">
     <nd ref="4791903044"/>
@@ -1516,23 +1478,6 @@
     <tag k="addr:street" v="The Leys"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="653120577" version="1" timestamp="2018-12-06T10:57:45Z" changeset="65234025" uid="281267" user="smb1001">
-    <nd ref="6121214005"/>
-    <nd ref="6024556880"/>
-    <nd ref="6024556955"/>
-    <nd ref="6121213866"/>
-    <nd ref="6121213988"/>
-    <nd ref="6121213882"/>
-    <nd ref="6121213805"/>
-    <nd ref="6121213990"/>
-    <nd ref="6121213880"/>
-    <nd ref="6121213986"/>
-    <nd ref="6121214005"/>
-    <tag k="addr:postcode" v="SG19 3DL"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Elms Farm"/>
-  </way>
   <way id="653120583" version="3" timestamp="2022-02-27T09:15:32Z" changeset="117900841" uid="574764" user="houbara">
     <nd ref="374419997"/>
     <nd ref="3717615675"/>
@@ -1881,6 +1826,20 @@
     <nd ref="11068339778"/>
     <nd ref="11068339777"/>
     <tag k="highway" v="residential"/>
+  </way>
+  <way id="1299039644" version="1" timestamp="2024-07-04T12:45:22Z" changeset="153545584" uid="742701" user="kerr smith">
+    <nd ref="12033358006"/>
+    <nd ref="1886699538"/>
+    <nd ref="1886699548"/>
+    <nd ref="12033358005"/>
+    <nd ref="12033357996"/>
+    <nd ref="12033357995"/>
+    <nd ref="12033357994"/>
+    <nd ref="12033358006"/>
+    <tag k="building" v="roof"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Interpretation Centre"/>
+    <tag k="start_date" v="1991"/>
   </way>
 
 </osm>

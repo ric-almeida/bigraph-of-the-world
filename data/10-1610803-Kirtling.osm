@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:36:22Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="25660530" lat="52.1973735" lon="0.5125501" version="3" timestamp="2008-06-07T14:03:40Z" changeset="83921" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="248410301" lat="52.2104748" lon="0.4848740" version="2" timestamp="2008-05-27T18:14:17Z" changeset="533426" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
-  </node>
   <node id="264658513" lat="52.1965482" lon="0.4316667" version="2" timestamp="2017-05-14T07:47:15Z" changeset="48666498" uid="84263" user="Robert Whittaker"/>
   <node id="267131911" lat="52.1797182" lon="0.5049488" version="3" timestamp="2016-01-24T13:06:37Z" changeset="36774789" uid="481116" user="bigalxyz123"/>
-  <node id="267131981" lat="52.1645674" lon="0.4816462" version="2" timestamp="2008-06-07T14:03:42Z" changeset="83921" uid="3582" user="davidearl"/>
-  <node id="267132271" lat="52.2106748" lon="0.4850687" version="2" timestamp="2025-02-28T15:55:05Z" changeset="163058500" uid="5229644" user="Nathan_A_RF"/>
+  <node id="267131990" lat="52.1725730" lon="0.4785760" version="1" timestamp="2008-05-27T18:12:44Z" changeset="533426" uid="3582" user="davidearl"/>
+  <node id="267132011" lat="52.1788167" lon="0.4528512" version="3" timestamp="2025-02-27T22:02:45Z" changeset="163030094" uid="5229644" user="Nathan_A_RF"/>
+  <node id="267132371" lat="52.1968945" lon="0.4878044" version="1" timestamp="2008-05-27T18:13:12Z" changeset="533426" uid="3582" user="davidearl"/>
   <node id="267132430" lat="52.2044619" lon="0.4585076" version="1" timestamp="2008-05-27T18:13:32Z" changeset="533426" uid="3582" user="davidearl"/>
+  <node id="267132441" lat="52.1923206" lon="0.4628065" version="1" timestamp="2008-05-27T18:13:33Z" changeset="533426" uid="3582" user="davidearl">
+    <tag k="building" v="alms_houses"/>
+    <tag k="name" v="Alms Houses"/>
+  </node>
   <node id="3613205626" lat="52.2137803" lon="0.4926964" version="2" timestamp="2025-02-28T15:55:05Z" changeset="163058500" uid="5229644" user="Nathan_A_RF"/>
-  <node id="3613206144" lat="52.2134915" lon="0.4925328" version="1" timestamp="2015-06-23T17:59:59Z" changeset="32167402" uid="481116" user="bigalxyz123"/>
   <way id="24388429" version="15" timestamp="2025-02-27T22:02:45Z" changeset="163030094" uid="5229644" user="Nathan_A_RF">
     <nd ref="264658513"/>
     <nd ref="4853140122"/>
@@ -630,6 +628,19 @@
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="Cowlinge Road"/>
   </way>
+  <way id="234098701" version="2" timestamp="2016-08-20T16:44:38Z" changeset="41579210" uid="281267" user="smb1001">
+    <nd ref="2424013976"/>
+    <nd ref="2424014236"/>
+    <nd ref="2424014109"/>
+    <nd ref="2424014281"/>
+    <nd ref="2424013976"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Our Lady &amp; St Philip RC Church"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
   <way id="234098711" version="2" timestamp="2018-12-18T18:27:20Z" changeset="65589365" uid="364" user="Edward">
     <nd ref="2424013974"/>
     <nd ref="2424013938"/>
@@ -661,6 +672,35 @@
     <tag k="building" v="public"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Kirtling Village Hall"/>
+  </way>
+  <way id="234098721" version="4" timestamp="2020-10-10T22:07:23Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="2424014356"/>
+    <nd ref="2424014117"/>
+    <nd ref="2424014358"/>
+    <nd ref="2424014150"/>
+    <nd ref="2424014220"/>
+    <nd ref="2424014252"/>
+    <nd ref="2424014097"/>
+    <nd ref="2424014233"/>
+    <nd ref="2424013885"/>
+    <nd ref="2424014040"/>
+    <nd ref="2424014140"/>
+    <nd ref="2424014172"/>
+    <nd ref="2424014408"/>
+    <nd ref="2424014405"/>
+    <nd ref="2424013923"/>
+    <nd ref="2424014175"/>
+    <nd ref="2424014047"/>
+    <nd ref="2424014020"/>
+    <nd ref="2424014028"/>
+    <nd ref="2424014356"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Kirtling Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="wikidata" v="Q17527513"/>
   </way>
   <way id="294601498" version="1" timestamp="2014-07-26T23:24:48Z" changeset="24375828" uid="481116" user="bigalxyz123">
     <nd ref="2981929448"/>

@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:14:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="37225003" lat="52.1114041" lon="-0.1249590" version="3" timestamp="2023-10-08T10:39:57Z" changeset="142299025" uid="5173844" user="ndrw6"/>
-  <node id="267023764" lat="52.1349425" lon="-0.0646870" version="5" timestamp="2024-07-27T09:13:38Z" changeset="154473894" uid="742701" user="kerr smith"/>
-  <node id="267023804" lat="52.1271325" lon="-0.0833068" version="3" timestamp="2013-04-24T13:52:22Z" changeset="15849266" uid="281267" user="smb1001">
-    <tag k="addr:postcode" v="SG8 0DN"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="name" v="The Queen Adelaide"/>
-  </node>
   <node id="275939998" lat="52.1117668" lon="-0.0769372" version="1" timestamp="2008-07-03T14:36:17Z" changeset="377944" uid="3582" user="davidearl"/>
+  <node id="275941894" lat="52.1304332" lon="-0.0740526" version="1" timestamp="2008-07-03T14:48:14Z" changeset="377944" uid="3582" user="davidearl"/>
   <node id="542443014" lat="52.1396099" lon="-0.1177728" version="3" timestamp="2024-07-31T11:06:14Z" changeset="154643600" uid="742701" user="kerr smith"/>
-  <node id="1034133162" lat="52.1224709" lon="-0.0567521" version="4" timestamp="2024-12-29T19:39:56Z" changeset="160765593" uid="5229644" user="Nathan_A_RF"/>
+  <node id="1180276658" lat="52.1173093" lon="-0.0912759" version="3" timestamp="2025-01-22T12:16:21Z" changeset="161635760" uid="742701" user="kerr smith"/>
   <way id="24558467" version="8" timestamp="2025-01-25T14:34:31Z" changeset="161748664" uid="742701" user="kerr smith">
     <nd ref="267023872"/>
     <nd ref="12531752252"/>
@@ -354,6 +348,41 @@
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="Larkins Road"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="218727780" version="4" timestamp="2020-10-10T22:08:13Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="2279540546"/>
+    <nd ref="2279540812"/>
+    <nd ref="2279540510"/>
+    <nd ref="2279540838"/>
+    <nd ref="2279540806"/>
+    <nd ref="2279540468"/>
+    <nd ref="2279540706"/>
+    <nd ref="2279540554"/>
+    <nd ref="2279540643"/>
+    <nd ref="2279540472"/>
+    <nd ref="2279540538"/>
+    <nd ref="2279540473"/>
+    <nd ref="2279540546"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Croydon Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550506"/>
+  </way>
+  <way id="218727789" version="2" timestamp="2025-01-22T11:40:29Z" changeset="161634473" uid="742701" user="kerr smith">
+    <nd ref="2279540829"/>
+    <nd ref="12522697527"/>
+    <nd ref="12522697524"/>
+    <nd ref="12522697523"/>
+    <nd ref="12522697525"/>
+    <nd ref="2279540629"/>
+    <nd ref="2279540553"/>
+    <nd ref="2279540829"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="yes"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Croydon Village Hall"/>
   </way>
   <way id="1304042026" version="2" timestamp="2025-01-25T14:54:33Z" changeset="161749437" uid="742701" user="kerr smith">
     <nd ref="267023777"/>

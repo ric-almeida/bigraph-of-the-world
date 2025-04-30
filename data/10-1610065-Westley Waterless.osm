@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="13337305" lat="52.2022785" lon="0.3239377" version="6" timestamp="2025-02-26T14:38:18Z" changeset="162974731" uid="5229644" user="Nathan_A_RF"/>
-  <node id="13337308" lat="52.1900268" lon="0.3089972" version="5" timestamp="2025-02-24T17:45:27Z" changeset="162902829" uid="5008136" user="JayTurnr"/>
-  <node id="30318696" lat="52.1763697" lon="0.3831141" version="2" timestamp="2008-05-15T12:54:33Z" changeset="450106" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
+  <node id="20960397" lat="52.1949658" lon="0.3270900" version="8" timestamp="2023-06-10T23:08:04Z" changeset="137187773" uid="19243622" user="cam-jpa">
+    <tag k="crossing:activation" v="user"/>
+    <tag k="crossing:audible" v="no"/>
+    <tag k="crossing:barrier" v="full"/>
+    <tag k="crossing:gated" v="yes"/>
+    <tag k="crossing:light" v="yes"/>
+    <tag k="description" v="Manual gated level crossing"/>
+    <tag k="note:lights" v="No wig-ways;minature signals are in use here"/>
+    <tag k="railway" v="level_crossing"/>
   </node>
+  <node id="262786673" lat="52.1855782" lon="0.3587463" version="6" timestamp="2015-08-17T13:24:09Z" changeset="33390644" uid="281267" user="smb1001"/>
   <node id="264657724" lat="52.1739300" lon="0.3503860" version="2" timestamp="2011-08-31T15:26:38Z" changeset="9176863" uid="504708" user="HillWithSmallFields"/>
-  <node id="264658162" lat="52.1966033" lon="0.3708015" version="2" timestamp="2009-06-29T18:38:51Z" changeset="1680297" uid="66869" user="Simon Daw">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="264658466" lat="52.1769053" lon="0.3809724" version="2" timestamp="2021-06-07T14:28:03Z" changeset="105978689" uid="281267" user="smb1001"/>
+  <node id="264657729" lat="52.1818948" lon="0.3667514" version="2" timestamp="2021-06-07T14:28:03Z" changeset="105978689" uid="281267" user="smb1001"/>
+  <node id="1415248170" lat="52.1910856" lon="0.3102894" version="4" timestamp="2025-02-24T17:45:27Z" changeset="162902829" uid="5008136" user="JayTurnr"/>
   <node id="12624222886" lat="52.1691732" lon="0.3781631" version="1" timestamp="2025-02-27T21:48:37Z" changeset="163029758" uid="5229644" user="Nathan_A_RF"/>
+  <node id="12624222887" lat="52.1724110" lon="0.3804004" version="1" timestamp="2025-02-27T21:48:37Z" changeset="163029758" uid="5229644" user="Nathan_A_RF"/>
   <way id="3997353" version="7" timestamp="2022-04-16T19:38:55Z" changeset="119796653" uid="456597" user="4004">
     <nd ref="20960397"/>
     <nd ref="1239219202"/>
@@ -202,6 +208,69 @@
     <tag k="source:ref" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="128417224" version="4" timestamp="2020-01-22T09:39:10Z" changeset="79906160" uid="6999715" user="WillHopes">
+    <nd ref="1419299222"/>
+    <nd ref="1419299306"/>
+    <nd ref="1419299281"/>
+    <nd ref="1419299313"/>
+    <nd ref="1419299260"/>
+    <nd ref="1419299318"/>
+    <nd ref="1419299283"/>
+    <nd ref="1419299294"/>
+    <nd ref="1419299222"/>
+    <tag k="addr:housename" v="Chaucer House"/>
+    <tag k="addr:postcode" v="CB8 0UE"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Will's House"/>
+    <tag k="name:en" v="Will's House"/>
+  </way>
+  <way id="128417232" version="2" timestamp="2017-12-12T16:18:44Z" changeset="54570729" uid="7205943" user="mudkip">
+    <nd ref="1419299280"/>
+    <nd ref="1419299251"/>
+    <nd ref="1419299240"/>
+    <nd ref="1419299367"/>
+    <nd ref="1419299379"/>
+    <nd ref="1419299338"/>
+    <nd ref="1419299276"/>
+    <nd ref="1419299327"/>
+    <nd ref="1419299286"/>
+    <nd ref="1419299337"/>
+    <nd ref="1419299279"/>
+    <nd ref="1419299326"/>
+    <nd ref="1419299280"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Pumping Station"/>
+  </way>
+  <way id="128417242" version="3" timestamp="2015-09-14T08:57:24Z" changeset="34015793" uid="1345551" user="MattOldred">
+    <nd ref="1419299356"/>
+    <nd ref="1419299335"/>
+    <nd ref="1419299295"/>
+    <nd ref="1419299256"/>
+    <nd ref="1419299394"/>
+    <nd ref="1419299300"/>
+    <nd ref="1419299244"/>
+    <nd ref="1419299356"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Westley Lodge Farm House"/>
+  </way>
+  <way id="131664431" version="4" timestamp="2020-10-15T11:14:00Z" changeset="92519477" uid="281267" user="smb1001">
+    <nd ref="1448830751"/>
+    <nd ref="1448838355"/>
+    <nd ref="1448830753"/>
+    <nd ref="1448830742"/>
+    <nd ref="1448830743"/>
+    <nd ref="1448830744"/>
+    <nd ref="1448830746"/>
+    <nd ref="1448830745"/>
+    <nd ref="1448830748"/>
+    <nd ref="1448830751"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary-the-Less (Westley Waterless Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543550"/>
+  </way>
   <way id="178161863" version="4" timestamp="2025-02-24T17:45:27Z" changeset="162902829" uid="5008136" user="JayTurnr">
     <nd ref="1415248170"/>
     <nd ref="1010501429"/>
@@ -215,6 +284,16 @@
     <tag k="ref" v="A1304"/>
     <tag k="source:ref" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="282921497" version="3" timestamp="2021-06-01T02:06:08Z" changeset="105649563" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="2868585145"/>
+    <nd ref="2868585146"/>
+    <nd ref="2868585147"/>
+    <nd ref="2868585148"/>
+    <nd ref="2868585145"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="building" v="public"/>
+    <tag k="name" v="Westley Waterless Village Hall"/>
   </way>
   <way id="1285245521" version="3" timestamp="2025-02-24T17:48:16Z" changeset="162902929" uid="5008136" user="JayTurnr">
     <nd ref="13337305"/>

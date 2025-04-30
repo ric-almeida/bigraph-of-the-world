@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:11:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:24:01Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="25277942" lat="52.2909194" lon="0.0983832" version="13" timestamp="2014-10-22T12:21:03Z" changeset="26253732" uid="669183" user="Andy_W"/>
-  <node id="25277987" lat="52.3041415" lon="0.0672550" version="3" timestamp="2017-02-18T20:30:52Z" changeset="46201346" uid="669183" user="Andy_W"/>
+  <node id="25277971" lat="52.2967233" lon="0.0740743" version="4" timestamp="2017-02-18T20:41:58Z" changeset="46201346" uid="669183" user="Andy_W"/>
   <node id="148189244" lat="52.3137660" lon="0.0669354" version="3" timestamp="2019-11-02T23:06:49Z" changeset="76539793" uid="5173844" user="ndrw6"/>
+  <node id="9689789171" lat="52.2914258" lon="0.0965725" version="2" timestamp="2023-08-13T17:23:34Z" changeset="139835529" uid="185577" user="dpm">
+    <tag k="building" v="bunker"/>
+    <tag k="bunker_type" v="gun_emplacement"/>
+    <tag k="military" v="bunker"/>
+    <tag k="name" v="Site of former WW2 anti-aircraft emplacement"/>
+  </node>
   <way id="4237144" version="8" timestamp="2017-04-22T08:22:20Z" changeset="48025594" uid="133272" user="wongataa">
     <nd ref="25277943"/>
     <nd ref="25277944"/>
@@ -260,6 +266,35 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="High Street"/>
   </way>
+  <way id="122519815" version="6" timestamp="2024-05-04T09:36:37Z" changeset="150870930" uid="504708" user="HillWithSmallFields">
+    <nd ref="1368847679"/>
+    <nd ref="1368847350"/>
+    <nd ref="1368847568"/>
+    <nd ref="1368847573"/>
+    <nd ref="1368847283"/>
+    <nd ref="1368847513"/>
+    <nd ref="11878558897"/>
+    <nd ref="1368847695"/>
+    <nd ref="1368847227"/>
+    <nd ref="1368847641"/>
+    <nd ref="1368847714"/>
+    <nd ref="1368847332"/>
+    <nd ref="1368847248"/>
+    <nd ref="1368847611"/>
+    <nd ref="1368847393"/>
+    <nd ref="1368847584"/>
+    <nd ref="1368847190"/>
+    <nd ref="1368847634"/>
+    <nd ref="1368847731"/>
+    <nd ref="1368847679"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Rampton Parish Church)"/>
+    <tag k="ref:dove" v="16801"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544368"/>
+  </way>
   <way id="157862591" version="6" timestamp="2022-04-24T14:36:54Z" changeset="120126989" uid="1102246" user="jtn20">
     <nd ref="25589172"/>
     <nd ref="8267069230"/>
@@ -348,6 +383,18 @@
     <tag k="building" v="public"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Rampton Village Hall"/>
+  </way>
+  <way id="369262851" version="1" timestamp="2015-09-05T15:19:09Z" changeset="33816535" uid="1302721" user="Glucosamine">
+    <nd ref="3730680831"/>
+    <nd ref="3730680832"/>
+    <nd ref="3730680833"/>
+    <nd ref="3730680834"/>
+    <nd ref="3730680835"/>
+    <nd ref="3730680836"/>
+    <nd ref="3730680831"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Black Horse"/>
   </way>
   <way id="550953370" version="3" timestamp="2021-11-08T14:29:13Z" changeset="113525044" uid="322785" user="BCNorwich">
     <nd ref="5320951775"/>

@@ -1,39 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:11:15Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:24:01Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="608661" lat="52.2182745" lon="0.3122566" version="1" timestamp="2007-01-20T23:59:43Z" changeset="198894" uid="2955" user="Matthew Newton"/>
   <node id="608662" lat="52.2180723" lon="0.3121219" version="2" timestamp="2011-12-19T22:54:21Z" changeset="10159843" uid="5926" user="c2r"/>
-  <node id="608674" lat="52.2158055" lon="0.3050866" version="4" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
-  <node id="608768" lat="52.2126779" lon="0.2030900" version="13" timestamp="2023-11-19T14:27:11Z" changeset="144210247" uid="16344555" user="HilaryBa"/>
-  <node id="608772" lat="52.2126398" lon="0.2083391" version="10" timestamp="2011-09-29T19:34:57Z" changeset="9429919" uid="499318" user="jpsa"/>
-  <node id="609826" lat="52.2317050" lon="0.1738349" version="10" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
-    <tag k="exit_to" v="Horningsea;Fen Ditton"/>
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Fen Ditton"/>
-    <tag k="ref" v="34"/>
-  </node>
-  <node id="620866" lat="52.2310845" lon="0.1752861" version="9" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
-  <node id="620870" lat="52.2321857" lon="0.1717542" version="9" timestamp="2014-05-08T10:40:54Z" changeset="22206539" uid="1723158" user="ozhiker2"/>
+  <node id="608754" lat="52.2141780" lon="0.2161535" version="15" timestamp="2014-05-09T09:21:47Z" changeset="22226314" uid="1723158" user="ozhiker2"/>
+  <node id="608760" lat="52.2150568" lon="0.2227659" version="8" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
   <node id="5249905" lat="52.2301019" lon="0.2345656" version="2" timestamp="2008-12-22T14:07:57Z" changeset="547380" uid="74897" user="Rowland"/>
   <node id="18352520" lat="52.2322908" lon="0.1717787" version="10" timestamp="2014-05-08T10:40:46Z" changeset="22206539" uid="1723158" user="ozhiker2"/>
   <node id="20960179" lat="52.2049258" lon="0.2624816" version="2" timestamp="2011-08-12T16:24:18Z" changeset="8997157" uid="504708" user="HillWithSmallFields"/>
-  <node id="20960199" lat="52.2064361" lon="0.2590210" version="3" timestamp="2011-08-13T21:03:42Z" changeset="9009593" uid="504708" user="HillWithSmallFields"/>
-  <node id="20960542" lat="52.2052902" lon="0.2615997" version="3" timestamp="2024-12-31T22:56:40Z" changeset="160850000" uid="5229644" user="Nathan_A_RF"/>
-  <node id="316821837" lat="52.2125824" lon="0.2080820" version="11" timestamp="2011-09-29T19:34:59Z" changeset="9429919" uid="499318" user="jpsa"/>
-  <node id="2006582318" lat="52.2185897" lon="0.2500260" version="1" timestamp="2012-11-10T16:45:29Z" changeset="13819416" uid="6871" user="smsm1"/>
-  <node id="12183568224" lat="52.2205488" lon="0.2363655" version="1" timestamp="2024-09-18T08:35:33Z" changeset="156761238" uid="21968370" user="ead114">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housename" v="Far Field House"/>
-    <tag k="addr:postcode" v="CB25 9AR"/>
-    <tag k="addr:street" v="Albert Rd"/>
-    <tag k="name" v="eg technology"/>
-    <tag k="office" v="engineer"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="phone" v="01223 813184"/>
-    <tag k="website" v="https://www.egtechnology.co.uk/"/>
+  <node id="20960496" lat="52.2191290" lon="0.2382144" version="4" timestamp="2014-10-12T08:13:34Z" changeset="26020424" uid="1700634" user="sommerluk">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="Dunsley Corner"/>
   </node>
+  <node id="316821837" lat="52.2125824" lon="0.2080820" version="11" timestamp="2011-09-29T19:34:59Z" changeset="9429919" uid="499318" user="jpsa"/>
+  <node id="979773018" lat="52.2128145" lon="0.2091097" version="3" timestamp="2011-09-29T19:34:59Z" changeset="9429919" uid="499318" user="jpsa"/>
   <way id="1881406" version="34" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
     <nd ref="608754"/>
     <nd ref="620848"/>
@@ -1139,6 +1120,82 @@
     <tag k="name" v="The Missing Sock"/>
     <tag k="name:old" v="The Prince Albert"/>
   </way>
+  <way id="163512014" version="1" timestamp="2012-05-13T23:38:52Z" changeset="11591648" uid="18573" user="Stephen Paulger">
+    <nd ref="1751823423"/>
+    <nd ref="1751823411"/>
+    <nd ref="1751823409"/>
+    <nd ref="1751823390"/>
+    <nd ref="1751823423"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Station Cottage"/>
+  </way>
+  <way id="163512016" version="1" timestamp="2012-05-13T23:38:52Z" changeset="11591648" uid="18573" user="Stephen Paulger">
+    <nd ref="1751823407"/>
+    <nd ref="1751823424"/>
+    <nd ref="1751823425"/>
+    <nd ref="1751823419"/>
+    <nd ref="1751823407"/>
+    <tag k="building" v="office"/>
+    <tag k="name" v="The Old Station"/>
+  </way>
+  <way id="163512017" version="1" timestamp="2012-05-13T23:38:52Z" changeset="11591648" uid="18573" user="Stephen Paulger">
+    <nd ref="1751823395"/>
+    <nd ref="1751823416"/>
+    <nd ref="1751823420"/>
+    <nd ref="1751823418"/>
+    <nd ref="1751823395"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Station House"/>
+  </way>
+  <way id="166615971" version="7" timestamp="2013-10-08T12:36:29Z" changeset="18246535" uid="96695" user="Tim Morley">
+    <nd ref="1780525672"/>
+    <nd ref="2338700570"/>
+    <nd ref="1780525660"/>
+    <nd ref="1780525663"/>
+    <nd ref="1780525671"/>
+    <nd ref="1780525685"/>
+    <nd ref="1780525679"/>
+    <nd ref="2338691891"/>
+    <nd ref="2338700572"/>
+    <nd ref="1780525672"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="rooms 101-112"/>
+  </way>
+  <way id="166616167" version="3" timestamp="2021-12-17T21:10:10Z" changeset="115072251" uid="4806533" user="PeterPan99">
+    <nd ref="1780527659"/>
+    <nd ref="1780527662"/>
+    <nd ref="1780527665"/>
+    <nd ref="1780527709"/>
+    <nd ref="2338702107"/>
+    <nd ref="1780527659"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="rooms 201-209"/>
+  </way>
+  <way id="166616168" version="3" timestamp="2013-06-09T22:07:18Z" changeset="16488851" uid="96695" user="Tim Morley">
+    <nd ref="1780527706"/>
+    <nd ref="2338691901"/>
+    <nd ref="1780527695"/>
+    <nd ref="1780527673"/>
+    <nd ref="2338691915"/>
+    <nd ref="1780527664"/>
+    <nd ref="1780527706"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="rooms 301-306"/>
+  </way>
+  <way id="166616171" version="5" timestamp="2021-12-17T21:10:10Z" changeset="115072251" uid="4806533" user="PeterPan99">
+    <nd ref="2487998736"/>
+    <nd ref="9347411641"/>
+    <nd ref="1780527679"/>
+    <nd ref="1780527654"/>
+    <nd ref="1780527674"/>
+    <nd ref="2338691909"/>
+    <nd ref="1780527676"/>
+    <nd ref="2487998732"/>
+    <nd ref="2487998729"/>
+    <nd ref="2487998736"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Imagine Health &amp; Spa"/>
+  </way>
   <way id="169325601" version="2" timestamp="2018-09-20T10:26:16Z" changeset="62757847" uid="547425" user="ssb22">
     <nd ref="1804955144"/>
     <nd ref="1804955135"/>
@@ -1152,6 +1209,40 @@
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:street" v="Church Road"/>
     <tag k="building" v="yes"/>
+  </way>
+  <way id="169325612" version="4" timestamp="2020-10-10T22:08:14Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="1804955056"/>
+    <nd ref="1804955000"/>
+    <nd ref="1804954889"/>
+    <nd ref="1804954991"/>
+    <nd ref="1804955039"/>
+    <nd ref="1804955184"/>
+    <nd ref="1804955108"/>
+    <nd ref="1804955101"/>
+    <nd ref="1804954866"/>
+    <nd ref="1804955122"/>
+    <nd ref="1804955136"/>
+    <nd ref="1804955166"/>
+    <nd ref="1804954884"/>
+    <nd ref="1804955072"/>
+    <nd ref="1804954947"/>
+    <nd ref="1804954979"/>
+    <nd ref="1804954966"/>
+    <nd ref="1804955008"/>
+    <nd ref="1804955006"/>
+    <nd ref="1804955132"/>
+    <nd ref="1804955117"/>
+    <nd ref="1804955119"/>
+    <nd ref="1804955189"/>
+    <nd ref="1804955091"/>
+    <nd ref="1804954871"/>
+    <nd ref="1804955056"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary (Stow-cum-Quy Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550624"/>
   </way>
   <way id="190072473" version="5" timestamp="2021-09-11T15:00:32Z" changeset="111065823" uid="4527024" user="RobertSpencer">
     <nd ref="979773018"/>
@@ -1243,6 +1334,21 @@
     <tag k="name" v="Station Road"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
+  <way id="241104695" version="2" timestamp="2021-12-17T21:10:10Z" changeset="115072251" uid="4806533" user="PeterPan99">
+    <nd ref="1780527676"/>
+    <nd ref="9347411642"/>
+    <nd ref="2487998734"/>
+    <nd ref="1780527687"/>
+    <nd ref="1780527661"/>
+    <nd ref="1780527690"/>
+    <nd ref="1780527651"/>
+    <nd ref="2487998736"/>
+    <nd ref="2487998729"/>
+    <nd ref="2487998732"/>
+    <nd ref="1780527676"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="rooms 401-404"/>
+  </way>
   <way id="242971459" version="2" timestamp="2021-11-25T14:34:00Z" changeset="114225730" uid="8661831" user="Colin_Jones">
     <nd ref="2504095910"/>
     <nd ref="2504095698"/>
@@ -1303,6 +1409,32 @@
     <tag k="addr:street" v="Church Road"/>
     <tag k="addr:village" v="Stow-cum-Quy"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="242973824" version="1" timestamp="2013-10-21T16:54:51Z" changeset="18471937" uid="281267" user="smb1001">
+    <nd ref="2504114066"/>
+    <nd ref="2504114290"/>
+    <nd ref="2504114030"/>
+    <nd ref="2504113983"/>
+    <nd ref="2504114083"/>
+    <nd ref="2504114300"/>
+    <nd ref="2504114066"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="pavilion"/>
+  </way>
+  <way id="242973877" version="3" timestamp="2022-07-27T13:23:51Z" changeset="124141688" uid="8774347" user="Misa_zumba">
+    <nd ref="2504114006"/>
+    <nd ref="2504114289"/>
+    <nd ref="2504114240"/>
+    <nd ref="2504114068"/>
+    <nd ref="2504114248"/>
+    <nd ref="2504114272"/>
+    <nd ref="2504114269"/>
+    <nd ref="2504114166"/>
+    <nd ref="2504114006"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Quy Hall"/>
+    <tag k="wikidata" v="Q17550913"/>
+    <tag k="wikipedia" v="en:Quy Hall"/>
   </way>
   <way id="1006179426" version="1" timestamp="2021-11-25T14:34:00Z" changeset="114225730" uid="8661831" user="Colin_Jones">
     <nd ref="9283328847"/>

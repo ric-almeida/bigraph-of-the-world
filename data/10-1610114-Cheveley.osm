@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2024-12-31T00:49:33Z"/>
 
+  <node id="25369986" lat="52.2460364" lon="0.4133799" version="7" timestamp="2013-08-19T14:31:03Z" changeset="17412216" uid="281267" user="smb1001"/>
   <node id="248409628" lat="52.2403003" lon="0.4210053" version="3" timestamp="2020-05-03T12:29:24Z" changeset="84561852" uid="11120953" user="Douglas Hall"/>
   <node id="248409681" lat="52.2312981" lon="0.4290923" version="2" timestamp="2023-01-30T23:56:51Z" changeset="131900475" uid="11839324" user="gmar5"/>
   <node id="248409683" lat="52.2326658" lon="0.4276833" version="2" timestamp="2018-11-26T23:45:44Z" changeset="64915489" uid="5173844" user="ndrw6"/>
   <node id="248409684" lat="52.2345149" lon="0.4257539" version="2" timestamp="2015-04-24T10:09:00Z" changeset="30450291" uid="406589" user="AmyCupcake"/>
-  <node id="248410301" lat="52.2104748" lon="0.4848740" version="2" timestamp="2008-05-27T18:14:17Z" changeset="533426" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="262786653" lat="52.2186611" lon="0.4421018" version="5" timestamp="2012-09-24T21:06:47Z" changeset="13239344" uid="597914" user="lordjonny1"/>
-  <node id="264671584" lat="52.2372714" lon="0.4755540" version="5" timestamp="2020-01-21T09:20:45Z" changeset="79844343" uid="84263" user="Robert Whittaker"/>
+  <node id="248409698" lat="52.2396183" lon="0.4225167" version="2" timestamp="2013-08-22T11:08:50Z" changeset="17453802" uid="281267" user="smb1001"/>
   <node id="267131574" lat="52.2203302" lon="0.4470589" version="3" timestamp="2025-02-27T22:11:41Z" changeset="163030285" uid="5229644" user="Nathan_A_RF"/>
-  <node id="267131625" lat="52.2265540" lon="0.4728307" version="3" timestamp="2025-02-27T22:11:41Z" changeset="163030285" uid="5229644" user="Nathan_A_RF"/>
-  <node id="267132162" lat="52.2106344" lon="0.4505198" version="1" timestamp="2008-05-27T18:12:58Z" changeset="533426" uid="3582" user="davidearl"/>
-  <node id="267132278" lat="52.2106957" lon="0.4847875" version="2" timestamp="2025-02-28T15:55:05Z" changeset="163058500" uid="5229644" user="Nathan_A_RF"/>
+  <node id="267131633" lat="52.2272385" lon="0.4679177" version="2" timestamp="2013-08-19T12:12:56Z" changeset="17410182" uid="281267" user="smb1001"/>
+  <node id="267132342" lat="52.2294137" lon="0.4671214" version="1" timestamp="2008-05-27T18:13:10Z" changeset="533426" uid="3582" user="davidearl"/>
   <node id="267132500" lat="52.2069587" lon="0.4598640" version="1" timestamp="2008-05-27T18:13:37Z" changeset="533426" uid="3582" user="davidearl"/>
-  <node id="268811351" lat="52.2476319" lon="0.4454719" version="3" timestamp="2024-10-09T21:00:41Z" changeset="157689928" uid="3999" user="BarryMyles"/>
-  <node id="268811358" lat="52.2501604" lon="0.4742483" version="3" timestamp="2024-10-09T21:00:41Z" changeset="157689928" uid="3999" user="BarryMyles"/>
-  <node id="2156675113" lat="52.2461275" lon="0.4143478" version="1" timestamp="2013-02-15T22:17:47Z" changeset="15045341" uid="6871" user="smsm1"/>
+  <node id="1896150462" lat="52.2463658" lon="0.4171935" version="2" timestamp="2025-04-04T17:02:16Z" changeset="164520092" uid="953779" user="Adam Edwards"/>
+  <node id="2442886884" lat="52.2122009" lon="0.4751999" version="1" timestamp="2013-09-02T12:33:32Z" changeset="17634860" uid="281267" user="smb1001"/>
   <way id="4261233" version="7" timestamp="2016-04-11T10:46:29Z" changeset="38471993" uid="2861565" user="DM5">
     <nd ref="25553032"/>
     <nd ref="25552998"/>
@@ -762,6 +757,15 @@
     <tag k="name" v="Park Road"/>
     <tag k="source" v="gps"/>
   </way>
+  <way id="148847151" version="5" timestamp="2025-04-24T15:26:51Z" changeset="165385190" uid="5229644" user="Nathan_A_RF">
+    <nd ref="25369986"/>
+    <nd ref="2156675113"/>
+    <nd ref="1896150462"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
   <way id="163582937" version="5" timestamp="2023-10-11T07:50:06Z" changeset="142424134" uid="8774347" user="Misa_zumba">
     <nd ref="1752500374"/>
     <nd ref="6901780417"/>
@@ -845,15 +849,6 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="sidewalk" v="no"/>
   </way>
-  <way id="205693964" version="4" timestamp="2025-04-04T17:02:16Z" changeset="164520092" uid="953779" user="Adam Edwards">
-    <nd ref="2156675113"/>
-    <nd ref="1896150462"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="lit" v="yes"/>
-    <tag k="maxspeed" v="30 mph"/>
-    <tag k="maxspeed:type" v="GB:nsl_single"/>
-    <tag k="sidewalk" v="no"/>
-  </way>
   <way id="218038332" version="2" timestamp="2016-04-12T09:06:49Z" changeset="38494524" uid="2861565" user="DM5">
     <nd ref="267132310"/>
     <nd ref="267132307"/>
@@ -887,6 +882,75 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="High Street"/>
     <tag k="source" v="gps"/>
+  </way>
+  <way id="234100992" version="5" timestamp="2024-03-11T20:03:32Z" changeset="148521294" uid="931552" user="bofussing">
+    <nd ref="2424033839"/>
+    <nd ref="2424033806"/>
+    <nd ref="2424033837"/>
+    <nd ref="2424033798"/>
+    <nd ref="267132390"/>
+    <nd ref="2424033842"/>
+    <nd ref="2424033839"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Cheveley Parish Hall"/>
+    <tag k="website" v="https://www.cheveley-pc.gov.uk/cheveley-parish-hall/"/>
+  </way>
+  <way id="234100994" version="4" timestamp="2020-10-10T22:07:26Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="2424033885"/>
+    <nd ref="2424033830"/>
+    <nd ref="2424033862"/>
+    <nd ref="2424033864"/>
+    <nd ref="2424033930"/>
+    <nd ref="2424033829"/>
+    <nd ref="2424033823"/>
+    <nd ref="2424033894"/>
+    <nd ref="2424033815"/>
+    <nd ref="2424033942"/>
+    <nd ref="2424033859"/>
+    <nd ref="2424033844"/>
+    <nd ref="2424033860"/>
+    <nd ref="2424033885"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary &amp; Holy Host Of Heaven (Cheveley Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="wikidata" v="Q17527686"/>
+  </way>
+  <way id="234100995" version="1" timestamp="2013-08-19T12:12:55Z" changeset="17410182" uid="281267" user="smb1001">
+    <nd ref="2424033846"/>
+    <nd ref="2424033847"/>
+    <nd ref="2424033831"/>
+    <nd ref="2424033855"/>
+    <nd ref="2424033846"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="pavilion"/>
+  </way>
+  <way id="236236426" version="1" timestamp="2013-09-02T12:33:34Z" changeset="17634860" uid="281267" user="smb1001">
+    <nd ref="2442886869"/>
+    <nd ref="2442886878"/>
+    <nd ref="2442886965"/>
+    <nd ref="2442886979"/>
+    <nd ref="2442887005"/>
+    <nd ref="2442886949"/>
+    <nd ref="2442886904"/>
+    <nd ref="2442887032"/>
+    <nd ref="2442886910"/>
+    <nd ref="2442887036"/>
+    <nd ref="2442886955"/>
+    <nd ref="2442886931"/>
+    <nd ref="2442887007"/>
+    <nd ref="2442886887"/>
+    <nd ref="2442886916"/>
+    <nd ref="2442886952"/>
+    <nd ref="2442887020"/>
+    <nd ref="2442886991"/>
+    <nd ref="2442886869"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="White Lodge"/>
   </way>
   <way id="340257619" version="1" timestamp="2015-04-24T10:16:37Z" changeset="30450414" uid="406589" user="AmyCupcake">
     <nd ref="3474713332"/>
@@ -1180,6 +1244,19 @@
     <nd ref="11463211545"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Brook Field"/>
+  </way>
+  <way id="1259665770" version="3" timestamp="2024-03-11T16:59:33Z" changeset="148515680" uid="931552" user="bofussing">
+    <nd ref="11710993448"/>
+    <nd ref="11710993447"/>
+    <nd ref="11710993446"/>
+    <nd ref="11710993445"/>
+    <nd ref="11710993448"/>
+    <tag k="addr:housenumber" v="202"/>
+    <tag k="addr:postcode" v="CB8 9DG"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="club" v="yes"/>
+    <tag k="name" v="Cheveley Royal British Legion Branch and Club"/>
   </way>
   <way id="1260544121" version="1" timestamp="2024-03-11T10:03:45Z" changeset="148497825" uid="5173844" user="ndrw6">
     <nd ref="11716260469"/>

@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:17:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:29:06Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="5276266" lat="52.1540752" lon="0.0121895" version="3" timestamp="2018-11-01T15:29:07Z" changeset="64082872" uid="1257159" user="Jean-Pierre Rondeau"/>
-  <node id="32124149" lat="52.1747947" lon="0.0207067" version="2" timestamp="2007-10-12T19:29:19Z" changeset="126403" uid="3582" user="davidearl">
+  <node id="5276276" lat="52.1598587" lon="-0.0001301" version="1" timestamp="2007-10-06T14:37:18Z" changeset="49197" uid="3582" user="davidearl">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="60850888" lat="52.1607432" lon="-0.0016513" version="3" timestamp="2014-03-04T13:36:18Z" changeset="20910196" uid="2020" user="comsomol"/>
-  <node id="3465721418" lat="52.1615286" lon="0.0220404" version="1" timestamp="2015-04-19T17:02:24Z" changeset="30335536" uid="2020" user="comsomol"/>
-  <node id="3465721421" lat="52.1615817" lon="0.0217363" version="1" timestamp="2015-04-19T17:02:24Z" changeset="30335536" uid="2020" user="comsomol"/>
-  <node id="5480052621" lat="52.1538199" lon="0.0110438" version="6" timestamp="2019-09-05T12:31:41Z" changeset="74131712" uid="3432400" user="GinaroZ">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="CB23 1HB"/>
-    <tag k="addr:street" v="Harlton Road"/>
-    <tag k="addr:village" v="Little Eversden"/>
-    <tag k="name" v="Cambridge Caravans"/>
-    <tag k="shop" v="caravan"/>
-    <tag k="website" v="https://www.cambridgecaravans.co.uk/"/>
-  </node>
-  <node id="5561588321" lat="52.1551972" lon="0.0080684" version="4" timestamp="2023-11-10T05:59:36Z" changeset="143848233" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:postcode" v="CB23 1HB"/>
-    <tag k="addr:street" v="Harlton Road"/>
-    <tag k="addr:village" v="Little Eversden"/>
-    <tag k="amenity" v="doctors"/>
-    <tag k="name" v="Comberton &amp; Eversden Surgeries"/>
-    <tag k="website" v="https://www.combertonandeversdensurgery.nhs.uk/"/>
-  </node>
+  <node id="21076393" lat="52.1613449" lon="0.0217910" version="3" timestamp="2015-04-19T17:02:24Z" changeset="30335536" uid="2020" user="comsomol"/>
+  <node id="32129542" lat="52.1712672" lon="0.0203819" version="4" timestamp="2016-01-07T00:26:19Z" changeset="36415921" uid="493595" user="Yorvik Prestigitator"/>
+  <node id="60851463" lat="52.1745102" lon="0.0206960" version="3" timestamp="2016-01-07T00:26:19Z" changeset="36415921" uid="493595" user="Yorvik Prestigitator"/>
+  <node id="260378245" lat="52.1594631" lon="0.0009215" version="2" timestamp="2020-05-24T14:03:24Z" changeset="85683640" uid="322785" user="BCNorwich"/>
   <node id="8998692563" lat="52.1624265" lon="0.0233674" version="1" timestamp="2021-08-11T12:52:57Z" changeset="109517619" uid="742701" user="kerr smith"/>
   <way id="4917168" version="7" timestamp="2023-12-29T13:23:37Z" changeset="145661248" uid="242345" user="confusedbuffalo">
     <nd ref="21076393"/>
@@ -310,6 +291,33 @@
     <tag k="name" v="Harlton Road"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
+  <way id="134133660" version="6" timestamp="2023-11-03T08:23:52Z" changeset="143562757" uid="504708" user="HillWithSmallFields">
+    <nd ref="1475124446"/>
+    <nd ref="1475124441"/>
+    <nd ref="1475124449"/>
+    <nd ref="1475124469"/>
+    <nd ref="1475124452"/>
+    <nd ref="1475124472"/>
+    <nd ref="1475124453"/>
+    <nd ref="1475124437"/>
+    <nd ref="1475124428"/>
+    <nd ref="1475124402"/>
+    <nd ref="1475124409"/>
+    <nd ref="1475124404"/>
+    <nd ref="1475124450"/>
+    <nd ref="1475124444"/>
+    <nd ref="1475124476"/>
+    <nd ref="1475124430"/>
+    <nd ref="1475124470"/>
+    <nd ref="1475124446"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Helen's"/>
+    <tag k="ref:dove" v="15328"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550678"/>
+  </way>
   <way id="254937939" version="3" timestamp="2017-05-08T12:23:52Z" changeset="48500556" uid="493595" user="Yorvik Prestigitator">
     <nd ref="260378245"/>
     <nd ref="60850887"/>
@@ -352,6 +360,18 @@
     <tag k="addr:postcode" v="CB23 1HQ"/>
     <tag k="addr:street" v="Church Lane"/>
     <tag k="building" v="residential"/>
+  </way>
+  <way id="400654050" version="2" timestamp="2018-12-30T22:35:06Z" changeset="65899704" uid="364" user="Edward">
+    <nd ref="4031900593"/>
+    <nd ref="4031900594"/>
+    <nd ref="4031900595"/>
+    <nd ref="4031900596"/>
+    <nd ref="4031900597"/>
+    <nd ref="4031900598"/>
+    <nd ref="4031900593"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Church Farm"/>
+    <tag k="wikidata" v="Q26420483"/>
   </way>
   <way id="548260648" version="3" timestamp="2019-02-04T10:44:24Z" changeset="66899076" uid="5173844" user="ndrw6">
     <nd ref="5296696985"/>

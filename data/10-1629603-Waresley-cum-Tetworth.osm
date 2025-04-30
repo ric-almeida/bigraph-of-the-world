@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:10:10Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:43:30Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="38683988" lat="52.1668403" lon="-0.1917618" version="3" timestamp="2015-10-09T16:14:05Z" changeset="34533087" uid="207297" user="Accipiter"/>
-  <node id="38704386" lat="52.1913951" lon="-0.1704399" version="6" timestamp="2015-08-27T21:41:54Z" changeset="33631671" uid="2032231" user="narboy"/>
+  <node id="38684066" lat="52.1777622" lon="-0.1745557" version="3" timestamp="2011-04-25T19:29:09Z" changeset="7967818" uid="90142" user="andy mackey"/>
   <node id="298907105" lat="52.1617338" lon="-0.2080024" version="5" timestamp="2015-12-06T15:13:57Z" changeset="35787634" uid="233042" user="CJY"/>
-  <node id="303966300" lat="52.1660666" lon="-0.1930847" version="3" timestamp="2015-10-19T19:28:17Z" changeset="34742340" uid="207297" user="Accipiter"/>
-  <node id="303966303" lat="52.1659120" lon="-0.1930418" version="4" timestamp="2015-10-19T19:28:17Z" changeset="34742340" uid="207297" user="Accipiter"/>
+  <node id="298907204" lat="52.1838978" lon="-0.2184433" version="3" timestamp="2009-09-03T21:31:30Z" changeset="2364300" uid="2406" user="JeffB"/>
+  <node id="304375278" lat="52.1602265" lon="-0.2126044" version="3" timestamp="2015-12-06T15:13:57Z" changeset="35787634" uid="233042" user="CJY"/>
   <node id="309216046" lat="52.1922405" lon="-0.2075100" version="2" timestamp="2018-11-14T11:47:10Z" changeset="64477049" uid="281267" user="smb1001"/>
-  <node id="482697788" lat="52.1871518" lon="-0.2421146" version="2" timestamp="2011-04-10T21:08:04Z" changeset="7827682" uid="96640" user="v12mike"/>
-  <node id="482706911" lat="52.1803105" lon="-0.1634686" version="2" timestamp="2009-09-03T19:34:14Z" changeset="2362929" uid="2406" user="JeffB"/>
-  <node id="3880374829" lat="52.1617036" lon="-0.2080757" version="1" timestamp="2015-12-06T15:13:44Z" changeset="35787634" uid="233042" user="CJY"/>
-  <node id="6055228547" lat="52.1616029" lon="-0.2083843" version="1" timestamp="2018-11-12T16:14:25Z" changeset="64411812" uid="281267" user="smb1001"/>
+  <node id="482706910" lat="52.1801326" lon="-0.1637564" version="2" timestamp="2009-09-03T19:34:14Z" changeset="2362929" uid="2406" user="JeffB"/>
   <node id="9574755193" lat="52.1496971" lon="-0.2246984" version="1" timestamp="2022-03-13T10:17:34Z" changeset="118423692" uid="5173844" user="ndrw6"/>
   <way id="5385081" version="11" timestamp="2021-08-28T21:45:43Z" changeset="110395010" uid="493595" user="Yorvik Prestigitator">
     <nd ref="38684043"/>
@@ -149,6 +146,17 @@
     <nd ref="6055228535"/>
     <nd ref="309290880"/>
     <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="28158937" version="2" timestamp="2016-04-29T11:12:27Z" changeset="38978652" uid="281267" user="smb1001">
+    <nd ref="309290918"/>
+    <nd ref="4155452963"/>
+    <nd ref="309290936"/>
+    <nd ref="309290938"/>
+    <nd ref="4155453208"/>
+    <nd ref="4155453399"/>
+    <nd ref="309290918"/>
+    <tag k="building" v="stately_home"/>
+    <tag k="name" v="Tetworth Hall"/>
   </way>
   <way id="28164964" version="2" timestamp="2018-11-19T18:13:21Z" changeset="64668030" uid="281267" user="smb1001">
     <nd ref="309285789"/>
@@ -405,6 +413,31 @@
     <tag k="not:name" v="Drewels Lane"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
+  <way id="110306696" version="5" timestamp="2023-11-03T18:48:18Z" changeset="143587310" uid="504708" user="HillWithSmallFields">
+    <nd ref="1260046206"/>
+    <nd ref="7991970637"/>
+    <nd ref="7991970661"/>
+    <nd ref="7991970668"/>
+    <nd ref="7991970654"/>
+    <nd ref="7991970660"/>
+    <nd ref="7991970667"/>
+    <nd ref="7991970650"/>
+    <nd ref="1260046115"/>
+    <nd ref="1260046137"/>
+    <nd ref="1260046117"/>
+    <nd ref="1260046122"/>
+    <nd ref="1260046134"/>
+    <nd ref="1260046124"/>
+    <nd ref="1260046151"/>
+    <nd ref="1260046206"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St James (Waresley Parish Church)"/>
+    <tag k="ref:dove" v="11423"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544187"/>
+  </way>
   <way id="119813289" version="6" timestamp="2021-07-26T06:45:03Z" changeset="108597103" uid="10170570" user="girinj">
     <nd ref="298907105"/>
     <nd ref="3880374832"/>
@@ -556,29 +589,6 @@
     <tag k="addr:postcode" v="SG19 3BT"/>
     <tag k="addr:street" v="The Square"/>
     <tag k="building" v="residential"/>
-  </way>
-  <way id="639437537" version="3" timestamp="2018-11-16T17:33:07Z" changeset="64575764" uid="281267" user="smb1001">
-    <nd ref="6025251849"/>
-    <nd ref="6025251850"/>
-    <nd ref="6025251810"/>
-    <nd ref="6066749660"/>
-    <nd ref="6025251832"/>
-    <nd ref="6066749656"/>
-    <nd ref="6025251829"/>
-    <nd ref="6025251798"/>
-    <nd ref="6025251855"/>
-    <nd ref="6061033716"/>
-    <nd ref="6061033734"/>
-    <nd ref="1345024768"/>
-    <nd ref="309286182"/>
-    <nd ref="6025251815"/>
-    <nd ref="6025251849"/>
-    <tag k="addr:postcode" v="SG19 3DB"/>
-    <tag k="addr:street" v="Gamlingay Road"/>
-    <tag k="landuse" v="retail"/>
-    <tag k="name" v="Waresley Park Garden Centre"/>
-    <tag k="shop" v="garden_centre"/>
-    <tag k="website" v="https://www.waresley.co.uk/"/>
   </way>
   <way id="639439831" version="2" timestamp="2018-11-19T10:57:05Z" changeset="64650532" uid="281267" user="smb1001">
     <nd ref="6025280516"/>
@@ -938,6 +948,17 @@
     <tag k="addr:street" v="The Bank"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="639668124" version="3" timestamp="2022-07-17T13:25:23Z" changeset="123721195" uid="281267" user="smb1001">
+    <nd ref="6027095923"/>
+    <nd ref="6027096100"/>
+    <nd ref="6027096098"/>
+    <nd ref="6027095950"/>
+    <nd ref="6027095923"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="east range of former Waresley Hall"/>
+    <tag k="note" v="Waresley Hall was formerly four ranges arranged around a courtyard. Only the east range survives"/>
+    <tag k="wikidata" v="Q26578151"/>
+  </way>
   <way id="639668127" version="2" timestamp="2018-11-19T17:41:33Z" changeset="64666879" uid="281267" user="smb1001">
     <nd ref="6027095892"/>
     <nd ref="6027095957"/>
@@ -1038,20 +1059,6 @@
     <tag k="addr:postcode" v="SG19 3BZ"/>
     <tag k="addr:street" v="Manor Farm Cottages"/>
     <tag k="building" v="residential"/>
-  </way>
-  <way id="639683045" version="2" timestamp="2018-11-15T14:31:28Z" changeset="64531425" uid="281267" user="smb1001">
-    <nd ref="6027213666"/>
-    <nd ref="6027213663"/>
-    <nd ref="6027213651"/>
-    <nd ref="6063760265"/>
-    <nd ref="4151609326"/>
-    <nd ref="4151609327"/>
-    <nd ref="6027213666"/>
-    <tag k="addr:city" v="Sandy"/>
-    <tag k="addr:postcode" v="SG19 3DA"/>
-    <tag k="addr:street" v="Vicarage Road"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Wood Farm"/>
   </way>
   <way id="639733761" version="1" timestamp="2018-10-31T15:12:07Z" changeset="64048398" uid="281267" user="smb1001">
     <nd ref="309285553"/>
@@ -1244,20 +1251,6 @@
     <tag k="addr:postcode" v="SG19 3DA"/>
     <tag k="addr:street" v="Vicarage Road"/>
     <tag k="building" v="house"/>
-  </way>
-  <way id="644918723" version="2" timestamp="2018-11-19T10:57:11Z" changeset="64650532" uid="281267" user="smb1001">
-    <nd ref="309286217"/>
-    <nd ref="6025275782"/>
-    <nd ref="309286223"/>
-    <nd ref="6025280260"/>
-    <nd ref="6063745867"/>
-    <nd ref="6063746511"/>
-    <nd ref="1345024765"/>
-    <nd ref="309286217"/>
-    <tag k="addr:postcode" v="SG19 3DA"/>
-    <tag k="addr:street" v="Vicarage Road"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Chase Farm"/>
   </way>
   <way id="646324744" version="1" timestamp="2018-11-19T11:01:31Z" changeset="64650532" uid="281267" user="smb1001">
     <nd ref="6063746520"/>

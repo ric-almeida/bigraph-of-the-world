@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="84588283" lat="52.0903039" lon="-0.0811502" version="6" timestamp="2012-03-26T16:18:11Z" changeset="11107661" uid="504708" user="HillWithSmallFields"/>
-  <node id="130083294" lat="52.0877489" lon="-0.1199238" version="4" timestamp="2011-03-20T16:49:55Z" changeset="7618676" uid="233042" user="CJY"/>
-  <node id="266796527" lat="52.0849909" lon="-0.1242055" version="4" timestamp="2023-10-08T10:39:57Z" changeset="142299025" uid="5173844" user="ndrw6"/>
-  <node id="275941800" lat="52.1189037" lon="-0.0539178" version="5" timestamp="2024-07-17T09:23:34Z" changeset="154048839" uid="742701" user="kerr smith"/>
-  <node id="275941935" lat="52.1122365" lon="-0.0771527" version="1" timestamp="2008-07-03T14:48:15Z" changeset="377944" uid="3582" user="davidearl"/>
+  <node id="25720268" lat="52.1175501" lon="-0.0533577" version="7" timestamp="2024-07-17T09:23:34Z" changeset="154048839" uid="742701" user="kerr smith"/>
+  <node id="275939998" lat="52.1117668" lon="-0.0769372" version="1" timestamp="2008-07-03T14:36:17Z" changeset="377944" uid="3582" user="davidearl"/>
+  <node id="275940086" lat="52.1003287" lon="-0.0900714" version="4" timestamp="2023-10-08T10:39:57Z" changeset="142299025" uid="5173844" user="ndrw6"/>
+  <node id="275942020" lat="52.0990889" lon="-0.1056269" version="3" timestamp="2025-01-31T13:43:08Z" changeset="161977795" uid="742701" user="kerr smith"/>
   <node id="1572820994" lat="52.0978662" lon="-0.0450713" version="2" timestamp="2024-08-21T17:37:16Z" changeset="155571032" uid="742701" user="kerr smith"/>
   <way id="10217084" version="11" timestamp="2025-01-31T22:51:51Z" changeset="161995254" uid="742701" user="kerr smith">
     <nd ref="84588339"/>
@@ -285,6 +284,45 @@
     <tag k="ref" v="A1198"/>
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="156938344" version="2" timestamp="2013-04-23T12:17:43Z" changeset="15836046" uid="281267" user="smb1001">
+    <nd ref="1691778947"/>
+    <nd ref="1691778941"/>
+    <nd ref="1691779039"/>
+    <nd ref="1691778914"/>
+    <nd ref="1691778890"/>
+    <nd ref="1691779014"/>
+    <nd ref="1691778988"/>
+    <nd ref="1691778987"/>
+    <nd ref="1691778947"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Vine Farm"/>
+  </way>
+  <way id="218592757" version="5" timestamp="2024-07-27T13:39:29Z" changeset="154484953" uid="742701" user="kerr smith">
+    <nd ref="2278274644"/>
+    <nd ref="2278274503"/>
+    <nd ref="12076918866"/>
+    <nd ref="12076918865"/>
+    <nd ref="2278274476"/>
+    <nd ref="2278274620"/>
+    <nd ref="2278274644"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Shingay-cum-Wendy Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q105097096"/>
+  </way>
+  <way id="218592764" version="1" timestamp="2013-04-23T12:17:38Z" changeset="15836046" uid="281267" user="smb1001">
+    <nd ref="2278274511"/>
+    <nd ref="2278274529"/>
+    <nd ref="2278274526"/>
+    <nd ref="2278274680"/>
+    <nd ref="2278274663"/>
+    <nd ref="2278274512"/>
+    <nd ref="2278274511"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Church Farm"/>
   </way>
   <way id="1214024388" version="1" timestamp="2023-10-08T10:39:57Z" changeset="142299025" uid="5173844" user="ndrw6">
     <nd ref="11247807688"/>

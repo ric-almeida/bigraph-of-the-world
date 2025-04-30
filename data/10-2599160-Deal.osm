@@ -1,2436 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:02:56Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-26T22:37:58Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="27411764" lat="51.2382468" lon="1.3968364" version="4" timestamp="2012-08-28T19:06:41Z" changeset="12896478" uid="4559" user="RichardB"/>
-  <node id="33452624" lat="51.2186108" lon="1.4027676" version="5" timestamp="2011-03-02T02:31:55Z" changeset="7434815" uid="359193" user="JeffH"/>
+  <node id="33452624" lat="51.2186125" lon="1.4028052" version="6" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3"/>
+  <node id="247229111" lat="51.2129159" lon="1.3949797" version="6" timestamp="2024-07-22T22:59:37Z" changeset="154283347" uid="5008136" user="JayTurnr"/>
   <node id="247374834" lat="51.2151083" lon="1.3649408" version="3" timestamp="2021-03-13T21:05:33Z" changeset="100969531" uid="5008136" user="JayTurnr"/>
-  <node id="247375190" lat="51.2205402" lon="1.3753260" version="4" timestamp="2011-05-11T21:10:06Z" changeset="8116674" uid="7037" user="Gregory Williams"/>
   <node id="247375199" lat="51.2229283" lon="1.3723632" version="9" timestamp="2012-05-28T12:09:05Z" changeset="11725887" uid="7037" user="Gregory Williams"/>
-  <node id="247376323" lat="51.2216320" lon="1.3738797" version="4" timestamp="2011-05-11T21:09:54Z" changeset="8116674" uid="7037" user="Gregory Williams"/>
-  <node id="247387208" lat="51.2226667" lon="1.3866937" version="2" timestamp="2012-03-07T08:48:28Z" changeset="10897603" uid="7037" user="Gregory Williams"/>
-  <node id="247387225" lat="51.2220497" lon="1.3832715" version="1" timestamp="2008-02-12T22:32:32Z" changeset="107896" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-  </node>
+  <node id="247387131" lat="51.2212915" lon="1.3822476" version="2" timestamp="2012-03-07T08:48:27Z" changeset="10897603" uid="7037" user="Gregory Williams"/>
+  <node id="247387198" lat="51.2214180" lon="1.3824207" version="3" timestamp="2023-01-22T00:29:39Z" changeset="131557371" uid="3432400" user="GinaroZ"/>
+  <node id="247387199" lat="51.2215334" lon="1.3827329" version="2" timestamp="2012-03-07T08:48:28Z" changeset="10897603" uid="7037" user="Gregory Williams"/>
+  <node id="247387203" lat="51.2221487" lon="1.3849972" version="2" timestamp="2012-03-07T08:48:28Z" changeset="10897603" uid="7037" user="Gregory Williams"/>
+  <node id="247387204" lat="51.2222120" lon="1.3852392" version="2" timestamp="2012-03-07T08:48:28Z" changeset="10897603" uid="7037" user="Gregory Williams"/>
+  <node id="247387212" lat="51.2233814" lon="1.3879828" version="3" timestamp="2015-08-11T10:32:49Z" changeset="33262553" uid="481116" user="bigalxyz123"/>
   <node id="247387226" lat="51.2222431" lon="1.3830625" version="2" timestamp="2023-09-19T07:34:49Z" changeset="141454610" uid="9026132" user="PulisakZ"/>
-  <node id="247387235" lat="51.2227036" lon="1.3844540" version="1" timestamp="2008-02-12T22:32:33Z" changeset="107896" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="247387237" lat="51.2229630" lon="1.3838199" version="1" timestamp="2008-02-12T22:32:33Z" changeset="107896" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="247387238" lat="51.2232425" lon="1.3835404" version="1" timestamp="2008-02-12T22:32:33Z" changeset="107896" uid="7037" user="Gregory Williams">
-    <tag k="created_by" v="JOSM"/>
-  </node>
   <node id="247387282" lat="51.2232289" lon="1.3862439" version="1" timestamp="2008-02-12T22:32:38Z" changeset="107896" uid="7037" user="Gregory Williams">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="247392334" lat="51.2277173" lon="1.4034340" version="12" timestamp="2024-05-04T15:35:44Z" changeset="150884562" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="141"/>
-    <tag k="addr:postcode" v="CT14 6JZ"/>
-    <tag k="addr:street" v="Middle Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="beer_garden" v="yes"/>
-    <tag k="brewery" v="Ramsgate;Dark Star"/>
-    <tag k="camra" v="yes"/>
-    <tag k="contact:phone" v="+44 1304 372222"/>
-    <tag k="fhrs:id" v="452081"/>
-    <tag k="fhrs:local_authority_id" v="PI/000013216"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Ship Inn"/>
-    <tag k="opening_hours" v="Mo-Sa 11:00-00:00; Su 12:00-00:00"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="no"/>
-    <tag k="payment:debit_cards" v="no"/>
-    <tag k="phone" v="+44 1304 372222"/>
-    <tag k="real_ale" v="5"/>
-    <tag k="real_fire" v="yes"/>
-    <tag k="smoking" v="isolated"/>
-    <tag k="source" v="survey"/>
-    <tag k="wikidata" v="Q26552532"/>
-  </node>
-  <node id="247392343" lat="51.2285169" lon="1.4024140" version="6" timestamp="2024-05-06T07:35:16Z" changeset="150950736" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="194"/>
-    <tag k="addr:postcode" v="CT14 6BL"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="disused:shop" v="bicycle"/>
-    <tag k="name" v="Curwens Cycle Repairs"/>
-  </node>
-  <node id="247931880" lat="51.2172090" lon="1.3821900" version="4" timestamp="2017-11-27T20:48:07Z" changeset="54132502" uid="7037" user="Gregory Williams">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:postcode" v="CT14 9DB"/>
-    <tag k="addr:street" v="Manor Road"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="contact:phone" v="+44 1304 360080"/>
-    <tag k="fhrs:id" v="918721"/>
-    <tag k="name" v="The Farrier"/>
-    <tag k="old_name" v="Admiral Kepple"/>
-  </node>
-  <node id="247933935" lat="51.2127566" lon="1.3954044" version="3" timestamp="2012-03-14T08:06:29Z" changeset="10975181" uid="7037" user="Gregory Williams"/>
+  <node id="247929788" lat="51.2197871" lon="1.4026906" version="5" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3"/>
+  <node id="247929826" lat="51.2191903" lon="1.3989207" version="2" timestamp="2012-03-14T08:06:28Z" changeset="10975181" uid="7037" user="Gregory Williams"/>
   <node id="247935942" lat="51.2172087" lon="1.4002518" version="2" timestamp="2012-03-14T08:06:30Z" changeset="10975181" uid="7037" user="Gregory Williams"/>
-  <node id="247935945" lat="51.2181973" lon="1.4000462" version="2" timestamp="2012-03-14T08:06:31Z" changeset="10975181" uid="7037" user="Gregory Williams"/>
-  <node id="247935946" lat="51.2185897" lon="1.3998953" version="2" timestamp="2012-03-14T08:06:31Z" changeset="10975181" uid="7037" user="Gregory Williams"/>
-  <node id="247935955" lat="51.2189675" lon="1.4027544" version="3" timestamp="2010-08-06T13:35:56Z" changeset="5417015" uid="47487" user="IJMacD"/>
-  <node id="249153414" lat="51.2154641" lon="1.3698363" version="2" timestamp="2011-07-08T22:13:11Z" changeset="8670245" uid="7037" user="Gregory Williams"/>
-  <node id="249153416" lat="51.2152963" lon="1.3695844" version="2" timestamp="2011-07-08T22:13:12Z" changeset="8670245" uid="7037" user="Gregory Williams"/>
-  <node id="249153803" lat="51.2149512" lon="1.3706751" version="2" timestamp="2011-07-08T22:13:14Z" changeset="8670245" uid="7037" user="Gregory Williams"/>
-  <node id="249184402" lat="51.2119290" lon="1.3834699" version="2" timestamp="2019-12-28T16:48:32Z" changeset="78959905" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="CT14 9EX"/>
-    <tag k="addr:street" v="Beauchamp Avenue"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="name" v="Mill Hill Post Office"/>
-    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
-    <tag k="ref:pol_id" v="4143"/>
-  </node>
-  <node id="249193709" lat="51.2100283" lon="1.3917993" version="1" timestamp="2008-02-24T23:03:48Z" changeset="197987" uid="7037" user="Gregory Williams">
+  <node id="247939103" lat="51.2122252" lon="1.4022693" version="5" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3"/>
+  <node id="249153389" lat="51.2157795" lon="1.3708605" version="3" timestamp="2011-07-14T07:52:11Z" changeset="8719340" uid="7037" user="Gregory Williams"/>
+  <node id="249153391" lat="51.2153727" lon="1.3714121" version="3" timestamp="2011-07-14T07:52:07Z" changeset="8719340" uid="7037" user="Gregory Williams"/>
+  <node id="249184495" lat="51.2062788" lon="1.3860560" version="1" timestamp="2008-02-24T22:09:20Z" changeset="197987" uid="7037" user="Gregory Williams">
     <tag k="created_by" v="JOSM"/>
   </node>
   <node id="252631720" lat="51.2129452" lon="1.3641360" version="2" timestamp="2012-03-08T08:03:43Z" changeset="10906856" uid="7037" user="Gregory Williams"/>
-  <node id="291591372" lat="51.2355578" lon="1.4011816" version="4" timestamp="2023-07-07T12:01:26Z" changeset="138226734" uid="10599253" user="DanGlover">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="CT14 6QL"/>
-    <tag k="addr:street" v="King Edward Road"/>
-    <tag k="fhrs:id" v="444759"/>
-    <tag k="name" v="King Edward Food and Wine"/>
-    <tag k="shop" v="convenience"/>
-  </node>
-  <node id="339678783" lat="51.1921660" lon="1.3723952" version="1" timestamp="2009-02-01T14:32:18Z" changeset="27853" uid="7221" user="Crid"/>
-  <node id="559712868" lat="51.2225256" lon="1.4040904" version="12" timestamp="2023-07-23T11:20:49Z" changeset="138889131" uid="19931229" user="Linfindel">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="CT14 7AH"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="brand" v="Shepherd Neame"/>
-    <tag k="brand:wikidata" v="Q12002324"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/pages/The-Kings-Head/118324601627695"/>
-    <tag k="contact:phone" v="+44 1304 368194"/>
-    <tag k="contact:twitter" v="@KingsHeadDeal"/>
-    <tag k="contact:website" v="http://www.kingsheaddeal.co.uk/"/>
-    <tag k="fhrs:id" v="254771"/>
-    <tag k="fhrs:local_authority_id" v="PI/000005041"/>
-    <tag k="food" v="yes"/>
-    <tag k="name" v="The King's Head"/>
-    <tag k="operator" v="Shepherd Neame"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 368194"/>
-    <tag k="real_ale" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="source" v="survey"/>
-    <tag k="website" v="http://www.kingsheaddeal.co.uk/"/>
-    <tag k="wikidata" v="Q26323321"/>
-  </node>
-  <node id="559713181" lat="51.2253691" lon="1.4043606" version="8" timestamp="2020-12-01T12:23:51Z" changeset="95094752" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:postcode" v="CT14 6JD"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="brand" v="Shepherd Neame"/>
-    <tag k="contact:phone" v="+44 1304 375555"/>
-    <tag k="fhrs:id" v="429941"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="The Royal Hotel"/>
-    <tag k="source:addr" v="Business card"/>
-    <tag k="source:phone" v="Business card"/>
-    <tag k="source:website" v="Business card"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.theroyalhotel.com/"/>
-    <tag k="wikidata" v="Q26645264"/>
-  </node>
-  <node id="564618200" lat="51.2131053" lon="1.3861139" version="5" timestamp="2019-07-09T14:34:52Z" changeset="72058443" uid="10021005" user="Adrian Oliver">
-    <tag k="access" v="customers"/>
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:postcode" v="CT14 9EW"/>
-    <tag k="addr:street" v="Mill Hill"/>
-    <tag k="amenity" v="bicycle_parking"/>
-    <tag k="bicycle_parking" v="wall_loops"/>
-    <tag k="capacity" v="3"/>
-    <tag k="covered" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="operator" v="Total Fitness Mix"/>
-    <tag k="operator:type" v="private"/>
-  </node>
-  <node id="959317612" lat="51.2163159" lon="1.4026777" version="3" timestamp="2024-07-22T22:43:35Z" changeset="154283076" uid="5008136" user="JayTurnr"/>
-  <node id="1354211211" lat="51.2061274" lon="1.3863566" version="1" timestamp="2011-07-08T21:34:13Z" changeset="8669971" uid="7037" user="Gregory Williams"/>
-  <node id="1636447831" lat="51.2223910" lon="1.4035278" version="2" timestamp="2018-12-02T19:14:55Z" changeset="65103238" uid="242345" user="confusedbuffalo">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="CT14 7AW"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="name" v="Hutchings Motorcycles"/>
-    <tag k="phone" v="+44 1304 364945"/>
-    <tag k="shop" v="motorcycle"/>
-  </node>
-  <node id="1647069876" lat="51.2224607" lon="1.4043909" version="10" timestamp="2024-05-02T15:02:01Z" changeset="150798395" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="CT14 7AH"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/The-Port-Arms-Deal-107454762608332/"/>
-    <tag k="contact:phone" v="+44 1304 373598"/>
-    <tag k="contact:website" v="http://www.theportarms.com/"/>
-    <tag k="fhrs:id" v="1376309"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="The Port Arms"/>
-    <tag k="operator" v="Enterprise Inns"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 373598"/>
-    <tag k="real_ale" v="2"/>
-    <tag k="source" v="survey"/>
-    <tag k="website" v="http://www.theportarms.com/"/>
-  </node>
-  <node id="1647072685" lat="51.2239105" lon="1.4043116" version="5" timestamp="2024-05-04T15:21:33Z" changeset="150884562" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:postcode" v="CT14 6HY"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="254654"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="The Bohemian"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="real_ale" v="yes"/>
-  </node>
-  <node id="1647073847" lat="51.2180845" lon="1.3834133" version="4" timestamp="2021-06-27T09:38:14Z" changeset="107029094" uid="1712396" user="Chris_Sav">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="267"/>
-    <tag k="addr:postcode" v="CT14 9PW"/>
-    <tag k="addr:street" v="London Road"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="fhrs:id" v="915504"/>
-    <tag k="name" v="Yummi chinese takeaway"/>
-  </node>
-  <node id="1647076107" lat="51.2169555" lon="1.3697984" version="2" timestamp="2017-11-27T20:48:08Z" changeset="54132502" uid="7037" user="Gregory Williams">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="103"/>
-    <tag k="addr:place" v="Great Mongeham"/>
-    <tag k="addr:postcode" v="CT14 9PE"/>
-    <tag k="addr:street" v="Mongeham Road"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="254480"/>
-    <tag k="name" v="The Leather Bottle"/>
-  </node>
-  <node id="1768439769" lat="51.2100127" lon="1.3815153" version="6" timestamp="2022-01-21T11:50:54Z" changeset="116428014" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="136"/>
-    <tag k="addr:postcode" v="CT14 9HZ"/>
-    <tag k="addr:street" v="Mill Hill"/>
-    <tag k="brand" v="Tesco Express"/>
-    <tag k="brand:wikidata" v="Q98456772"/>
-    <tag k="contact:website" v="https://www.tesco.com/store-locator/deal/136-140-mill-hill"/>
-    <tag k="fhrs:id" v="430012"/>
-    <tag k="name" v="Tesco Express"/>
-    <tag k="shop" v="convenience"/>
-  </node>
-  <node id="1775172343" lat="51.2133215" lon="1.3864090" version="1" timestamp="2012-06-03T18:40:26Z" changeset="11789751" uid="7037" user="Gregory Williams">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="Mill Hill"/>
-    <tag k="leisure" v="sports_centre"/>
-    <tag k="name" v="The Fitness Mix Cycling Studio"/>
-    <tag k="website" v="http://www.thefitnessmix.co.uk/"/>
-  </node>
-  <node id="1993858685" lat="51.2269306" lon="1.4006823" version="3" timestamp="2017-11-27T21:36:07Z" changeset="54133724" uid="7037" user="Gregory Williams">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="CT14 6DU"/>
-    <tag k="addr:street" v="Duke Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="805690"/>
-    <tag k="food" v="yes"/>
-    <tag k="name" v="The Deal Hoy"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="real_ale" v="yes"/>
-  </node>
-  <node id="1993859252" lat="51.2261302" lon="1.4003164" version="4" timestamp="2021-07-15T09:49:52Z" changeset="108038633" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:postcode" v="CT14 6EB"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="1197081"/>
-    <tag k="name" v="The Alma"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="real_ale" v="yes"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="2015622325" lat="51.2228914" lon="1.4031102" version="4" timestamp="2021-07-17T08:29:00Z" changeset="108150369" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="15A"/>
-    <tag k="addr:postcode" v="CT14 7AF"/>
-    <tag k="addr:street" v="South Court"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="fhrs:id" v="1178682"/>
-    <tag k="name" v="Cin Cin"/>
-    <tag k="phone" v="+44 1304 239489"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="2018267198" lat="51.2233378" lon="1.4028822" version="13" timestamp="2024-05-03T13:30:40Z" changeset="150837984" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="brewery" v="yes"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/thegoodwinkent/"/>
-    <tag k="description" v="Formerly the Carpenter's Arms (1605-1829), then the New Inn (1829-2020) and now the Goodwin after a refub in 2020. Reportedly the oldest pub in Deal, founded in the time of Henry VIII"/>
-    <tag k="fhrs:id" v="1290237"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="The Goodwin"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 239002"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="2969980856" lat="51.2025054" lon="1.3818332" version="2" timestamp="2021-09-03T14:43:45Z" changeset="110682330" uid="5229644" user="Nathan_A_RF"/>
-  <node id="3484462208" lat="51.2217228" lon="1.4036634" version="2" timestamp="2017-11-27T21:36:07Z" changeset="54133724" uid="7037" user="Gregory Williams">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="CT14 7BW"/>
-    <tag k="addr:street" v="Sondes Road"/>
-    <tag k="fhrs:id" v="435286"/>
-    <tag k="name" v="Sondes Lodge"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="http://www.sondeslodge.co.uk/"/>
-  </node>
-  <node id="3577621269" lat="51.2245972" lon="1.4036111" version="14" timestamp="2022-03-01T17:15:45Z" changeset="117980733" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="CT14 6HX"/>
-    <tag k="addr:street" v="King Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="amenity_1" v="drinking_water"/>
-    <tag k="camra" v="yes"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/The-Just-Reproach-Deals-Micropub-214290775307658/"/>
-    <tag k="fhrs:id" v="254629"/>
-    <tag k="fhrs:local_authority_id" v="PI/000070067"/>
-    <tag k="name" v="Just Reproach"/>
-    <tag k="note" v="A micropub, real ale and cider only no keg beer"/>
-    <tag k="opening_hours" v="Mo 12:00-15:00,17:00-20:00; Tu-Th 12:00-14:00,17:00-21:00; Fr 12:00-14:00,17:00-23:00; Sa 12:00-23:00; Su 12:00-16:00"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="no"/>
-    <tag k="payment:debit_cards" v="no"/>
-    <tag k="pub" v="micropub"/>
-    <tag k="real_ale" v="4"/>
-    <tag k="real_cider" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="survey"/>
-    <tag k="wikidata" v="Q81047848"/>
-  </node>
-  <node id="3611209561" lat="51.2248940" lon="1.4034758" version="3" timestamp="2020-11-25T15:08:12Z" changeset="94783668" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:postcode" v="CT14 6HT"/>
-    <tag k="addr:street" v="Middle Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="indian"/>
-    <tag k="fhrs:id" v="254506"/>
-    <tag k="name" v="Milaad Tandoori"/>
-    <tag k="source" v="survey"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="survey:date" v="2015-06-21"/>
-  </node>
-  <node id="3611209562" lat="51.2290675" lon="1.4032970" version="4" timestamp="2020-11-30T15:22:52Z" changeset="95053456" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="187-189"/>
-    <tag k="addr:postcode" v="CT14 6LW"/>
-    <tag k="addr:street" v="Middle Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="brewery" v="yes"/>
-    <tag k="fhrs:id" v="466203"/>
-    <tag k="name" v="Prince Albert"/>
-    <tag k="source" v="survey"/>
-    <tag k="survey:date" v="2015-06-21"/>
-    <tag k="wikidata" v="Q26645300"/>
-  </node>
-  <node id="3611209563" lat="51.2232741" lon="1.4042523" version="2" timestamp="2017-11-27T21:36:07Z" changeset="54133724" uid="7037" user="Gregory Williams">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:postcode" v="CT14 6HY"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="fhrs:id" v="998072"/>
-    <tag k="name" v="Wellington Cafe"/>
-    <tag k="source" v="survey"/>
-    <tag k="survey:date" v="2015-06-21"/>
-  </node>
-  <node id="3785135224" lat="51.2239098" lon="1.3992960" version="2" timestamp="2024-08-17T12:24:10Z" changeset="155368532" uid="20092260" user="Doggy77">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="36-38"/>
-    <tag k="addr:postcode" v="CT14 6AH"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="check_date" v="2024-08-17"/>
-    <tag k="name" v="Sainsbury's ATM"/>
-  </node>
-  <node id="4540154302" lat="51.2223954" lon="1.4033054" version="3" timestamp="2020-12-03T14:46:15Z" changeset="95233484" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="CT14 7AW"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/The-Taphouse-Beer-Cafe-1013383548720450"/>
-    <tag k="contact:phone" v="+44 7803 437342"/>
-    <tag k="fhrs:id" v="990329"/>
-    <tag k="food" v="yes"/>
-    <tag k="name" v="The Taphouse Bar Cafe"/>
-    <tag k="old_name" v="No 5 Bar &amp; Kitchen"/>
-    <tag k="opening_hours" v="We-Sa 12:00-20:00; Su 12:00-17:00"/>
-    <tag k="operator" v="Keystone Group"/>
-    <tag k="real_ale" v="yes"/>
-    <tag k="real_cider" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="source" v="survey"/>
-  </node>
-  <node id="5169180359" lat="51.2251017" lon="1.4040361" version="5" timestamp="2024-05-02T15:07:40Z" changeset="150798395" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:postcode" v="CT14 6JB"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+44 1304 368136"/>
-    <tag k="cuisine" v="modern_european"/>
-    <tag k="fhrs:id" v="365187"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="81 Beach Street"/>
-    <tag k="opening_hours" v="Mo-Sa 12:00-15:00,18:00-22:00; Su 12:00-17:00,17:45-22:00"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="website" v="https://81beachstreet.co.uk/"/>
-    <tag k="wikidata" v="Q26645237"/>
-  </node>
-  <node id="5349548323" lat="51.2153460" lon="1.3855514" version="1" timestamp="2018-01-19T18:07:10Z" changeset="55584803" uid="6407172" user="Renáta Marton">
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:postcode" v="CT14 9BX"/>
-    <tag k="addr:street" v="Manor Road"/>
-    <tag k="amenity" v="doctors"/>
-    <tag k="name" v="Manor Rd Surgery (Dr Marianne Ford)"/>
-    <tag k="phone" v="+441304367495"/>
-  </node>
-  <node id="6467579242" lat="51.2237965" lon="1.3859695" version="3" timestamp="2025-02-09T09:44:31Z" changeset="162306691" uid="7037" user="Gregory Williams"/>
-  <node id="6467579251" lat="51.2241757" lon="1.3850171" version="2" timestamp="2023-01-22T00:29:39Z" changeset="131557371" uid="3432400" user="GinaroZ"/>
-  <node id="6550600246" lat="51.2231974" lon="1.3819947" version="2" timestamp="2025-02-09T09:44:31Z" changeset="162306691" uid="7037" user="Gregory Williams"/>
-  <node id="6550600252" lat="51.2229536" lon="1.3813522" version="2" timestamp="2023-09-19T07:34:49Z" changeset="141454610" uid="9026132" user="PulisakZ"/>
-  <node id="6585465632" lat="51.2241114" lon="1.3833383" version="2" timestamp="2025-02-09T09:44:31Z" changeset="162306691" uid="7037" user="Gregory Williams"/>
-  <node id="6600107860" lat="51.2243108" lon="1.4005290" version="3" timestamp="2023-01-24T19:45:43Z" changeset="131667106" uid="12111703" user="KyL0VV">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:postcode" v="CT14 6AD"/>
-    <tag k="addr:street" v="Stanhope Road"/>
-    <tag k="name" v="Kent MOMI"/>
-    <tag k="opening_hours" v="Fr-Su 12:00-17:00"/>
-    <tag k="operator" v="Kent MOMI"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="tourism" v="museum"/>
-    <tag k="website" v="https://www.kentmomi.org"/>
-    <tag k="wikidata" v="Q105555386"/>
-    <tag k="wikipedia" v="en:Kent Museum of the Moving Image"/>
-  </node>
-  <node id="6820210859" lat="51.2215738" lon="1.3810505" version="1" timestamp="2019-09-24T14:09:53Z" changeset="74860905" uid="10252554" user="ssrijeet"/>
-  <node id="7179474215" lat="51.2244323" lon="1.4028380" version="9" timestamp="2024-08-28T17:17:59Z" changeset="155891697" uid="21425661" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="64-66"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="Savers"/>
-    <tag k="brand:wikidata" v="Q7428189"/>
-    <tag k="brand:wikipedia" v="en:Savers (UK retailer)"/>
-    <tag k="check_date" v="2024-08-28"/>
-    <tag k="check_date:opening_hours" v="2024-08-28"/>
-    <tag k="fhrs:id" v="254430"/>
-    <tag k="name" v="Savers"/>
-    <tag k="official_name" v="Savers Health &amp; Beauty"/>
-    <tag k="opening_hours" v="Mo-Sa 09:00-17:30; Su 10:00-16:00"/>
-    <tag k="phone" v="+44 1304 364297"/>
-    <tag k="shop" v="chemist"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="7179474217" lat="51.2242983" lon="1.4026141" version="4" timestamp="2023-10-19T14:52:34Z" changeset="142820318" uid="4345757" user="JassKurn">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="63"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="bank"/>
-    <tag k="brand" v="Halifax"/>
-    <tag k="brand:wikidata" v="Q3310164"/>
-    <tag k="brand:wikipedia" v="en:Halifax (bank)"/>
-    <tag k="contact:phone" v="+44 345 720 3040"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="name" v="Halifax"/>
-  </node>
-  <node id="7179474218" lat="51.2241387" lon="1.4026110" version="8" timestamp="2024-06-15T11:47:43Z" changeset="152717477" uid="84263" user="Robert Whittaker">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:postcode" v="CT14 6EL"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="Sue Ryder"/>
-    <tag k="brand:wikidata" v="Q7634271"/>
-    <tag k="brand:wikipedia" v="en:Sue Ryder (charity)"/>
-    <tag k="name" v="Sue Ryder"/>
-    <tag k="opening_hours" v="Mo-Sa 09:30-16:30; Su 10:00-16:00"/>
-    <tag k="operator" v="Sue Ryder"/>
-    <tag k="phone" v="+44 1304 362688"/>
-    <tag k="shop" v="charity"/>
-    <tag k="website" v="https://www.sueryder.org/shop-with-us/find-a-shop/deal/"/>
-  </node>
-  <node id="7179474223" lat="51.2238800" lon="1.4026293" version="8" timestamp="2024-05-03T13:29:03Z" changeset="150837984" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:postcode" v="CT14 6EL"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="brand" v="Starbucks"/>
-    <tag k="brand:wikidata" v="Q37158"/>
-    <tag k="brand:wikipedia" v="en:Starbucks"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="fhrs:id" v="915585"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Starbucks"/>
-    <tag k="official_name" v="Starbucks Coffee"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="toilets:access" v="customers"/>
-    <tag k="website" v="https://www.starbucks.com/store-locator/store/1014290/deal-high-street-47-high-street-deal-eng-ct-14-6-el-gb"/>
-  </node>
-  <node id="7179474226" lat="51.2238981" lon="1.4028711" version="5" timestamp="2023-10-19T14:52:34Z" changeset="142820318" uid="4345757" user="JassKurn">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="46-48"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="brand" v="Costa"/>
-    <tag k="brand:wikidata" v="Q608845"/>
-    <tag k="brand:wikipedia" v="en:Costa Coffee"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="fhrs:id" v="1205251"/>
-    <tag k="name" v="Costa"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="takeaway" v="yes"/>
-  </node>
-  <node id="7179474227" lat="51.2239494" lon="1.4028676" version="3" timestamp="2021-07-17T08:21:36Z" changeset="108150142" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="fhrs:id" v="254726"/>
-    <tag k="name" v="Al's Bakery"/>
-    <tag k="shop" v="bakery"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="7179474231" lat="51.2236635" lon="1.4028748" version="5" timestamp="2023-10-19T14:52:34Z" changeset="142820318" uid="4345757" user="JassKurn">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="Holland &amp; Barrett"/>
-    <tag k="brand:wikidata" v="Q5880870"/>
-    <tag k="brand:wikipedia" v="en:Holland &amp; Barrett"/>
-    <tag k="fhrs:id" v="624160"/>
-    <tag k="name" v="Holland &amp; Barrett"/>
-    <tag k="shop" v="health_food"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="7179474232" lat="51.2234362" lon="1.4028787" version="4" timestamp="2020-12-01T13:33:01Z" changeset="95097414" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Roper Statiomers"/>
-    <tag k="operator" v="John Roper"/>
-    <tag k="phone" v="+44 1304 361404"/>
-    <tag k="shop" v="stationery"/>
-  </node>
-  <node id="7179474234" lat="51.2233595" lon="1.4026977" version="4" timestamp="2023-04-11T12:36:22Z" changeset="134772284" uid="209796" user="LudovicG">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:postcode" v="CT14 6EL"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="sandwich"/>
-    <tag k="fhrs:id" v="1067721"/>
-    <tag k="name" v="The Seagull"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 447787"/>
-  </node>
-  <node id="7179673390" lat="51.2228700" lon="1.4028094" version="6" timestamp="2021-02-18T16:25:35Z" changeset="99536959" uid="3199858" user="Mateusz Konieczny - bot account">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="18A"/>
-    <tag k="addr:postcode" v="CT14 7AE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Wards Estate Agents"/>
-    <tag k="office" v="estate_agent"/>
-    <tag k="phone" v="+44 1304 361420"/>
-    <tag k="website" v="https://www.wardsofkent.co.uk/estate-agent-in-deal/"/>
-  </node>
-  <node id="8164707006" lat="51.2254342" lon="1.4030723" version="5" timestamp="2021-07-15T09:58:28Z" changeset="108039394" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="2-3"/>
-    <tag k="addr:postcode" v="CT14 6TA"/>
-    <tag k="addr:street" v="St. George's Passage"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="fhrs:id" v="1085329"/>
-    <tag k="name" v="Victuals &amp; Co"/>
-    <tag k="phone" v="+44 1304 374389"/>
-    <tag k="website" v="https://www.victualsandco.com/"/>
-  </node>
-  <node id="8164891064" lat="51.2251036" lon="1.4033187" version="5" timestamp="2023-02-06T13:55:34Z" changeset="132158944" uid="77904" user="Kristjan ESPERANTO">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housename" v="The Dining Club"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:postcode" v="CT14 6HP"/>
-    <tag k="addr:street" v="Middle Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="diet:meat" v="yes"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="fhrs:id" v="254209"/>
-    <tag k="name" v="The Dining Club"/>
-    <tag k="phone" v="+44 1304 373569"/>
-    <tag k="website" v="https://thediningclubdeal.co.uk/"/>
-  </node>
-  <node id="8164920578" lat="51.2227619" lon="1.4028245" version="6" timestamp="2021-07-17T08:29:00Z" changeset="108150369" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="CT14 7AE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="fhrs:id" v="499223"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="PopUp Cafe"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 7929 203019"/>
-    <tag k="website" v="https://www.popupcafe.co.uk/"/>
-  </node>
-  <node id="8164956889" lat="51.2257621" lon="1.4022857" version="4" timestamp="2023-07-23T11:20:49Z" changeset="138889131" uid="19931229" user="Linfindel">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housename" v="Deal Town Hall"/>
-    <tag k="addr:postcode" v="CT14 6TR"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="police"/>
-    <tag k="name" v="Deal Town Police Station"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-13:00"/>
-    <tag k="opening_hours:covid19" v="closed"/>
-    <tag k="operator" v="Kent Police"/>
-    <tag k="operator:wikidata" v="Q3195294"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="8164972843" lat="51.2259508" lon="1.4033480" version="7" timestamp="2024-05-04T15:30:54Z" changeset="150883945" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:postcode" v="CT14 6HL"/>
-    <tag k="addr:street" v="Middle Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="fish_and_chips"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="452080"/>
-    <tag k="indoor_seating" v="no"/>
-    <tag k="name" v="Middle Street Fish Bar"/>
-    <tag k="opening_hours" v="We-Sa 17:00-20:00"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="+44 1304 364738"/>
-    <tag k="takeaway" v="only"/>
-  </node>
-  <node id="8168596436" lat="51.2247098" lon="1.4034187" version="4" timestamp="2021-07-15T09:58:28Z" changeset="108039394" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="9-11"/>
-    <tag k="addr:street" v="King Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="brewery" v="various"/>
-    <tag k="fhrs:id" v="965301"/>
-    <tag k="fixme" v="add proper tag, disentangle POI: Record shop = Vinyl"/>
-    <tag k="name" v="Smugglers Records and Bar"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="8168596437" lat="51.2247154" lon="1.4035449" version="3" timestamp="2021-07-15T09:58:28Z" changeset="108039394" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="52A"/>
-    <tag k="addr:postcode" v="CT14 6HT"/>
-    <tag k="addr:street" v="Middle Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="fhrs:id" v="1287001"/>
-    <tag k="name" v="Margheritas"/>
-    <tag k="phone" v="+44 1304768954"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="website" v="https://fb.com/margheritasofdeal"/>
-  </node>
-  <node id="8168596438" lat="51.2251671" lon="1.4027404" version="5" timestamp="2024-05-02T14:28:59Z" changeset="150796670" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="96"/>
-    <tag k="addr:postcode" v="CT14 6EQ"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="french;english"/>
-    <tag k="email" v="enquiries@frogandscot.co.uk"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Frog and Scot"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 379444"/>
-    <tag k="website" v="https://frogandscot.co.uk/"/>
-  </node>
-  <node id="8168596441" lat="51.2254315" lon="1.4028896" version="4" timestamp="2021-07-15T09:58:28Z" changeset="108039394" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="CT14 6TA"/>
-    <tag k="addr:street" v="St. George's Passage"/>
-    <tag k="fhrs:id" v="683174"/>
-    <tag k="name" v="The Black Pig"/>
-    <tag k="operator" v="Lizzie Douglas"/>
-    <tag k="phone" v="+44 1304 379686"/>
-    <tag k="shop" v="butcher"/>
-    <tag k="website" v="https://www.theblackpigbutchers.com/"/>
-  </node>
-  <node id="8168596442" lat="51.2254305" lon="1.4027124" version="8" timestamp="2025-03-16T17:42:49Z" changeset="163699718" uid="22459109" user="MainFlag0681">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="94"/>
-    <tag k="addr:postcode" v="CT14 6EE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="check_date" v="2024-05-07"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/arno_and_co/"/>
-    <tag k="fhrs:id" v="1290228"/>
-    <tag k="name" v="Arno &amp; Co"/>
-    <tag k="opening_hours" v="Tu-Sa 09:00-17:00"/>
-    <tag k="shop" v="grocery"/>
-  </node>
-  <node id="8168596443" lat="51.2259613" lon="1.4025148" version="6" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="115"/>
-    <tag k="addr:postcode" v="CT14 6BB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/pages/Peppers/139451062767070"/>
-    <tag k="name" v="Peppers Health Food"/>
-    <tag k="phone" v="+44 1304 375349"/>
-    <tag k="shop" v="health_food"/>
-  </node>
-  <node id="8168596447" lat="51.2274630" lon="1.4025838" version="6" timestamp="2024-05-02T14:20:54Z" changeset="150796670" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="160-162"/>
-    <tag k="addr:postcode" v="CT14 6BG"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="brewery" v="yes;Wine"/>
-    <tag k="fhrs:id" v="735458"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Bloody Marys"/>
-    <tag k="opening_hours" v="Th-Fr 16:00-20:00; Sa 09:00-20:00; Su 10:00-19:00"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 371305"/>
-    <tag k="website" v="https://bloodymarysdealkent.co.uk/"/>
-  </node>
-  <node id="8168596448" lat="51.2271892" lon="1.4026168" version="5" timestamp="2024-05-06T07:29:11Z" changeset="150950241" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="152"/>
-    <tag k="addr:postcode" v="CT14 6BG"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="brewery" v="yes"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="The Bar"/>
-    <tag k="opening_hours" v="Mo-Th 16:00-22:00; Fr 16:00-23:00; Sa 14:00-23:00; Su 14:00-22:00"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="phone" v="+44 1304 363306"/>
-  </node>
-  <node id="8168596451" lat="51.2254328" lon="1.4032460" version="7" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:postcode" v="CT14 6HN"/>
-    <tag k="addr:street" v="Middle Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/lavenderandblackberry"/>
-    <tag k="name" v="Lavender and Blackberry"/>
-    <tag k="operator" v="Derrick and Jennie"/>
-    <tag k="phone" v="+44 7557 785549"/>
-    <tag k="shop" v="florist"/>
-  </node>
-  <node id="8168596452" lat="51.2248292" lon="1.4025952" version="4" timestamp="2024-05-03T13:24:12Z" changeset="150837529" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="83"/>
-    <tag k="addr:postcode" v="CT14 6EH"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="H&amp;H Flooring"/>
-    <tag k="opening_hours" v="Mo-Fr 09:30-15:30; Sa 09:30-14:30"/>
-    <tag k="phone" v="+44 1304 389995"/>
-    <tag k="shop" v="flooring"/>
-    <tag k="website" v="http://www.handhflooringdeal.co.uk/"/>
-  </node>
-  <node id="8168596454" lat="51.2252355" lon="1.4025794" version="4" timestamp="2023-11-01T18:13:26Z" changeset="143489612" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="91"/>
-    <tag k="addr:postcode" v="CT14 6ED"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="bar" v="yes"/>
-    <tag k="brand" v="The Rose Hotel"/>
-    <tag k="fhrs:id" v="1278968"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="The Rose Hotel"/>
-    <tag k="phone" v="+44 1304 389127"/>
-    <tag k="restaurant" v="yes"/>
-    <tag k="rooms" v="9"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.therosedeal.com/"/>
-  </node>
-  <node id="8168596455" lat="51.2257405" lon="1.4026889" version="5" timestamp="2020-12-06T17:14:50Z" changeset="95374172" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="112"/>
-    <tag k="addr:postcode" v="CT14 6EE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Dunlin &amp; Diver"/>
-    <tag k="phone" v="+44 1304 373121"/>
-    <tag k="shop" v="gift"/>
-    <tag k="website" v="https://www.dunlindiver.co.uk"/>
-  </node>
-  <node id="8168596456" lat="51.2256999" lon="1.4026907" version="6" timestamp="2024-05-07T08:39:30Z" changeset="150997499" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:postcode" v="CT14 6EE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="fhrs:id" v="1343003"/>
-    <tag k="name" v="No Name Shop"/>
-    <tag k="opening_hours" v="Su-We 08:30-14:00; Th-Sa 08:30-16:00"/>
-    <tag k="operator" v="No Name Shop"/>
-    <tag k="phone" v="+44 1304 375100"/>
-    <tag k="shop" v="deli"/>
-    <tag k="website" v="https://www.nonameshop.co.uk"/>
-  </node>
-  <node id="8168596459" lat="51.2260369" lon="1.4026917" version="7" timestamp="2021-07-15T09:49:52Z" changeset="108038633" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:postcode" v="CT14 6BB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="fhrs:id" v="637460"/>
-    <tag k="name" v="Jenkins &amp; Son Fishmongers"/>
-    <tag k="operator" v="Jenkins &amp; Son"/>
-    <tag k="phone" v="+44 1304 364613"/>
-    <tag k="shop" v="seafood"/>
-    <tag k="website" v="https://jenkinsandsonfishandgame.co.uk/"/>
-  </node>
-  <node id="8168596460" lat="51.2258922" lon="1.4027068" version="3" timestamp="2021-07-16T20:14:15Z" changeset="108137288" uid="8556624" user="nylon_overboard">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:postcode" v="CT14 6BB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="thai"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="name" v="Bangkok Pavillion"/>
-    <tag k="opening_hours" v="Tu-Su 17:30-23:00"/>
-    <tag k="phone" v="+44 1304 367707"/>
-    <tag k="website" v="https://bangkokpavilion.co.uk/"/>
-  </node>
-  <node id="8168643021" lat="51.2261837" lon="1.4024903" version="6" timestamp="2024-05-02T14:25:56Z" changeset="150796670" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Del"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:postcode" v="CT14 6BB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Mirreti"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="phone" v="+44 1304 369165"/>
-    <tag k="website" v="https://miretti.edan.io/"/>
-  </node>
-  <node id="8168643022" lat="51.2264251" lon="1.4026671" version="8" timestamp="2024-05-04T19:47:21Z" changeset="150895841" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/people/Teresa-Hair-Fashions/100059997801799/"/>
-    <tag k="female" v="yes"/>
-    <tag k="name" v="Teresa Hair Fashions"/>
-    <tag k="phone" v="+44 1304 369118"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
-  <node id="8168646953" lat="51.2231581" lon="1.4019679" version="3" timestamp="2020-12-13T17:52:56Z" changeset="95765119" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="name" v="Lynda's"/>
-    <tag k="phone" v="+44 1304 373049"/>
-    <tag k="shop" v="hardware"/>
-  </node>
-  <node id="8168646954" lat="51.2230594" lon="1.4013394" version="8" timestamp="2023-10-19T14:52:38Z" changeset="142820318" uid="4345757" user="JassKurn">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="24-26"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="brand" v="Domino's"/>
-    <tag k="brand:wikidata" v="Q839466"/>
-    <tag k="brand:wikipedia" v="en:Domino's Pizza"/>
-    <tag k="contact:phone" v="+44 1304 380333"/>
-    <tag k="contact:website" v="https://www.dominos.co.uk/pizza-near-me/deal/24-26-queen-street"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="254336"/>
-    <tag k="name" v="Domino's"/>
-    <tag k="operator" v="Dominos"/>
-    <tag k="takeaway" v="yes"/>
-  </node>
-  <node id="8168646961" lat="51.2222703" lon="1.4025891" version="6" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/KingsCoffeeShop"/>
-    <tag k="fhrs:id" v="254231"/>
-    <tag k="name" v="Kings Coffee Shop"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 364277"/>
-  </node>
-  <node id="8168646962" lat="51.2220962" lon="1.4027840" version="3" timestamp="2021-07-17T08:29:00Z" changeset="108150369" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="CT14 7AP"/>
-    <tag k="addr:street" v="Victoria Road"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="fhrs:id" v="1063666"/>
-    <tag k="name" v="Hog and Bean"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="8179295607" lat="51.2283937" lon="1.4020996" version="2" timestamp="2020-12-07T12:01:42Z" changeset="95420000" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housename" v="Water Street GArage"/>
-    <tag k="addr:postcode" v="CT14 6DJ"/>
-    <tag k="addr:street" v="Water Street"/>
-    <tag k="name" v="M&amp;D Tyres"/>
-    <tag k="phone" v="+44 1304 380255"/>
-    <tag k="shop" v="tyres"/>
-    <tag k="website" v="https://www.deal-tyres.co.uk/"/>
-  </node>
-  <node id="8179295609" lat="51.2262682" lon="1.4024716" version="3" timestamp="2024-05-02T14:25:44Z" changeset="150796843" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="127"/>
-    <tag k="addr:postcode" v="CT14 6BB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Stilwell &amp; Singleton LLP"/>
-    <tag k="office" v="lawyer"/>
-    <tag k="opening_hours" v="Mo-Th 09:00-17:30; Fr 09:00-17:00"/>
-    <tag k="phone" v="+44 1304 362146"/>
-    <tag k="website" v="https://www.stilwellsingleton.co.uk/"/>
-  </node>
-  <node id="8179295610" lat="51.2260673" lon="1.4025002" version="6" timestamp="2024-05-12T17:16:13Z" changeset="151234881" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:postcode" v="CT14 6BB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="The Merchant Of Relish"/>
-    <tag k="shop" v="alcohol"/>
-  </node>
-  <node id="8179295614" lat="51.2265628" lon="1.4026429" version="5" timestamp="2024-05-06T07:20:56Z" changeset="150950241" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="128"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Pilgrim's Hospice Shop"/>
-    <tag k="opening_hours" v="Mo-Sa 09:00-16:30; Su 10:00-16:00"/>
-    <tag k="operator" v="Pilgrim's Hospice"/>
-    <tag k="phone" v="+44 1304 362638"/>
-    <tag k="second_hand" v="only"/>
-    <tag k="shop" v="charity"/>
-    <tag k="website" v="https://www.pilgrimshospices.org/local-shops/deal/"/>
-  </node>
-  <node id="8179295616" lat="51.2283310" lon="1.4024671" version="4" timestamp="2024-05-06T07:04:18Z" changeset="150949645" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="188"/>
-    <tag k="addr:postcode" v="CT14 6BL"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="check_date" v="2024-05-06"/>
-    <tag k="name" v="The Shop Front Deal"/>
-    <tag k="opening_hours" v="Sa"/>
-    <tag k="operator" v="Steve"/>
-    <tag k="phone" v="+44 7793 230331"/>
-    <tag k="shop" v="antiques"/>
-    <tag k="website" v="http://theshopfront.co/"/>
-  </node>
-  <node id="8179320117" lat="51.2273382" lon="1.4025951" version="5" timestamp="2024-05-06T07:31:47Z" changeset="150950241" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="156"/>
-    <tag k="addr:postcode" v="CT14 6BG"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Mileage"/>
-    <tag k="opening_hours" v="Th,Fr 11:00-16:00; Sa 10:00-16:00; Su 12:00-15:00"/>
-    <tag k="phone" v="+44 1304 363311"/>
-    <tag k="shop" v="collector"/>
-    <tag k="website" v="https://www.mileagevintage.co.uk/"/>
-  </node>
-  <node id="8179320120" lat="51.2276445" lon="1.4025798" version="3" timestamp="2024-05-06T07:35:16Z" changeset="150950736" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="168"/>
-    <tag k="addr:postcode" v="CT14 6BQ"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Deal Deli"/>
-    <tag k="shop" v="deli"/>
-  </node>
-  <node id="8179492628" lat="51.2256702" lon="1.4026976" version="3" timestamp="2020-12-02T19:15:21Z" changeset="95173926" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:postcode" v="CT14 6EE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="AllSorts"/>
-    <tag k="operator" v="AllSorts"/>
-    <tag k="phone" v="+44 7599 920415"/>
-    <tag k="shop" v="hardware"/>
-  </node>
-  <node id="8179492629" lat="51.2256309" lon="1.4026998" version="4" timestamp="2024-05-03T13:19:59Z" changeset="150837529" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="104-106"/>
-    <tag k="addr:postcode" v="CT14 6EE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Will &amp; Yates"/>
-    <tag k="opening_hours" v="We-Fr 10:30-16:00; Sa 10:00-16:30; Su 11:00-15:00"/>
-    <tag k="operator" v="Will &amp; Yates"/>
-    <tag k="phone" v="+44 7958 931411"/>
-    <tag k="shop" v="houseware"/>
-    <tag k="website" v="https://www.willandyates.com"/>
-  </node>
-  <node id="8179492630" lat="51.2255881" lon="1.4027007" version="5" timestamp="2024-05-03T13:21:14Z" changeset="150837529" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="102"/>
-    <tag k="addr:postcode" v="CT14 6EE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="fhrs:id" v="817953"/>
-    <tag k="name" v="Le Pinardier"/>
-    <tag k="opening_hours" v="We,Th 16:00-23:00; Fr 12:00-23:00; Sa 11:00-23:00; Su 12:00-19:00"/>
-    <tag k="operator" v="Frog and Scot"/>
-    <tag k="phone" v="+44 1304 372788"/>
-    <tag k="shop" v="wine"/>
-    <tag k="website" v="http://frogandscot.co.uk/lepinardier/"/>
-  </node>
-  <node id="8179492631" lat="51.2253591" lon="1.4027135" version="6" timestamp="2024-05-02T14:28:46Z" changeset="150796670" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="92A"/>
-    <tag k="addr:postcode" v="CT14 6EG"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="email" v="deal@hopeandlane.com"/>
-    <tag k="fhrs:id" v="1211275"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Hope &amp; Lane"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="website" v="https://www.hopeandlane.com/"/>
-  </node>
-  <node id="8179492632" lat="51.2252948" lon="1.4027209" version="7" timestamp="2023-12-01T22:08:46Z" changeset="144676459" uid="16586381" user="KasperSFranz">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="90"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="Mace"/>
-    <tag k="brand:wikidata" v="Q17089386"/>
-    <tag k="brand:wikipedia" v="en:Mace (shop)"/>
-    <tag k="name" v="Mace"/>
-    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
-    <tag k="operator" v="MACE"/>
-    <tag k="shop" v="convenience"/>
-  </node>
-  <node id="8179492633" lat="51.2250847" lon="1.4027437" version="6" timestamp="2024-05-07T08:44:20Z" changeset="150997499" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="82-84"/>
-    <tag k="addr:postcode" v="CT14 6EG"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/Swanstitch/"/>
-    <tag k="name" v="Swanstitch"/>
-    <tag k="opening_hours" v="Tu-Fr 10:00-16:00; Sa 10:00-15:00"/>
-    <tag k="phone" v="+44 1304 366915"/>
-    <tag k="shop" v="sewing"/>
-  </node>
-  <node id="8179492634" lat="51.2250438" lon="1.4025606" version="4" timestamp="2021-07-15T09:58:28Z" changeset="108039394" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="87B"/>
-    <tag k="addr:postcode" v="CT14 6ED"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="fhrs:id" v="1040766"/>
-    <tag k="name" v="Filbert's Foods"/>
-    <tag k="shop" v="deli"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="8179492636" lat="51.2246128" lon="1.4037057" version="5" timestamp="2023-04-23T22:03:19Z" changeset="135278846" uid="10599253" user="DanGlover">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="14A"/>
-    <tag k="addr:postcode" v="CT14 6HX"/>
-    <tag k="addr:street" v="King Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="chicken"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="988275;1356156"/>
-    <tag k="name" v="Peckish"/>
-    <tag k="phone" v="+44 1304 363736"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="website" v="https://www.peckish-deal.co.uk/"/>
-  </node>
-  <node id="8179492637" lat="51.2246070" lon="1.4041098" version="2" timestamp="2020-12-02T12:17:05Z" changeset="95155423" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:postcode" v="CT14 6HY"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="fish_and_chips"/>
-    <tag k="name" v="Seaview Fish &amp; Chips"/>
-    <tag k="phone" v="+44 1304 381060"/>
-  </node>
-  <node id="8179515118" lat="51.2242313" lon="1.4042652" version="7" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:postcode" v="CT14 6HY"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="amenity" v="ice_cream"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/people/Beach-Parlour/100063582823057/"/>
-    <tag k="description" v="1960s venue with picture windows overlooking the promenade and pier, for tea, coffee and snacks."/>
-    <tag k="fhrs:id" v="429940"/>
-    <tag k="name" v="Deal Beach Parlour"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="phone" v="+44 1304 374120"/>
-  </node>
-  <node id="8179527296" lat="51.2230717" lon="1.4036225" version="6" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="CT14 6ER"/>
-    <tag k="addr:street" v="Broad Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/simplyinkandtoner/"/>
-    <tag k="name" v="Simply Ink and Toner"/>
-    <tag k="phone" v="+44 1304 360881"/>
-    <tag k="shop" v="printer_ink"/>
-  </node>
-  <node id="8179527297" lat="51.2237683" lon="1.4043149" version="6" timestamp="2024-05-07T15:45:24Z" changeset="151017217" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housename" v="Quarterdeck"/>
-    <tag k="addr:housenumber" v="41-45"/>
-    <tag k="addr:postcode" v="CT14 6HY"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="addr:unit" v="Unit A"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="turkish"/>
-    <tag k="fhrs:id" v="1390565"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Aspendos"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="phone" v="+44 1304 365555"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="website" v="https://www.aspendosrestaurants.co.uk/"/>
-  </node>
-  <node id="8179558144" lat="51.2221877" lon="1.4031052" version="5" timestamp="2023-11-01T18:13:36Z" changeset="143489620" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="CT14 7AW"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="addr:suburb" v="South Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="chicken"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="1013545"/>
-    <tag k="name" v="Chicken King"/>
-    <tag k="phone" v="+44 1304 239982"/>
-    <tag k="website" v="https://www.chickenking-deal.co.uk/deal/"/>
-  </node>
-  <node id="8179558145" lat="51.2221927" lon="1.4033332" version="3" timestamp="2021-07-17T08:29:00Z" changeset="108150369" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="CT14 7AW"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="607327"/>
-    <tag k="name" v="The Walmer Castle"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="8179643087" lat="51.2223994" lon="1.4031266" version="3" timestamp="2021-07-17T08:29:00Z" changeset="108150369" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="CT14 7AW"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="kebab"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="291014"/>
-    <tag k="name" v="Marmaris Kebab"/>
-    <tag k="phone" v="+44 1304 389007"/>
-    <tag k="website" v="https://www.marmariskebabdeal.co.uk/"/>
-  </node>
-  <node id="8179643101" lat="51.2218534" lon="1.4038937" version="2" timestamp="2020-12-06T23:47:50Z" changeset="95384802" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Sondes Road"/>
-    <tag k="club" v="Masonic_Lodge"/>
-    <tag k="name" v="Masonic Lodge"/>
-  </node>
-  <node id="8179643104" lat="51.2218827" lon="1.4031223" version="2" timestamp="2020-11-30T22:02:49Z" changeset="95070463" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housename" v="The Old Coach House"/>
-    <tag k="addr:postcode" v="CT14 7BW"/>
-    <tag k="addr:street" v="Sondes Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="english"/>
-    <tag k="name" v="The Court Yard Bar and Restaurant"/>
-    <tag k="phone" v="+44 1304 366661"/>
-    <tag k="website" v="https://www.thecourtyarddeal.co.uk/"/>
-  </node>
-  <node id="8179643105" lat="51.2219629" lon="1.4027792" version="3" timestamp="2021-07-17T08:29:00Z" changeset="108150369" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="CT14 7AP"/>
-    <tag k="addr:street" v="Victoria Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="fhrs:id" v="664539"/>
-    <tag k="name" v="Hey Hey"/>
-    <tag k="phone" v="+44 1304 365388"/>
-    <tag k="website" v="https://www.heyheydeal.co.uk/"/>
-  </node>
-  <node id="8179643106" lat="51.2217321" lon="1.4027848" version="2" timestamp="2020-11-30T14:03:35Z" changeset="95049786" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="12-16"/>
-    <tag k="addr:postcode" v="CT14 7BN"/>
-    <tag k="addr:street" v="Victoria Road"/>
-    <tag k="name" v="Mark 1 Music"/>
-    <tag k="phone" v="+44 1304 372020"/>
-    <tag k="shop" v="music"/>
-    <tag k="website" v="https://www.mark1music.com/"/>
-  </node>
-  <node id="8179698713" lat="51.2216073" lon="1.4027686" version="3" timestamp="2021-07-17T08:29:00Z" changeset="108150369" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:postcode" v="CT14 7BN"/>
-    <tag k="addr:street" v="Victoria Road"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="fish_and_chips"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="1022077"/>
-    <tag k="name" v="The Blue Mermaid Fish Bar"/>
-    <tag k="phone" v="+44 1304 363351"/>
-  </node>
-  <node id="8179738486" lat="51.2253187" lon="1.4006749" version="2" timestamp="2022-06-18T17:55:32Z" changeset="122555719" uid="105267" user="machtwo">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:postcode" v="CT14 6BA"/>
-    <tag k="addr:street" v="St. George's Road"/>
-    <tag k="fee" v="no"/>
-    <tag k="name" v="Linden Hall Studio"/>
-    <tag k="phone" v="+44 1304 360411"/>
-    <tag k="tourism" v="gallery"/>
-    <tag k="website" v="https://lindenhallstudio.co.uk/"/>
-  </node>
-  <node id="8179738487" lat="51.2254293" lon="1.4011879" version="4" timestamp="2023-01-24T19:47:57Z" changeset="131667169" uid="12111703" user="KyL0VV">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:postcode" v="CT14 6BA"/>
-    <tag k="addr:street" v="St. George's Road"/>
-    <tag k="museum" v="history"/>
-    <tag k="name" v="Deal Maritime and Local History Museum"/>
-    <tag k="opening_hours" v="Fr-Su 13:00-16:00"/>
-    <tag k="phone" v="+44 1304 372098"/>
-    <tag k="tourism" v="museum"/>
-    <tag k="website" v="https://dealmuseum.uk/"/>
-    <tag k="wikidata" v="Q113334561"/>
-  </node>
-  <node id="8179738488" lat="51.2253134" lon="1.4004136" version="2" timestamp="2020-12-01T15:16:15Z" changeset="95101764" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:postcode" v="CT14 6EB"/>
-    <tag k="addr:street" v="West Street"/>
-    <tag k="name" v="John Corley Stained Glass Studio"/>
-    <tag k="operator" v="John Corley"/>
-    <tag k="phone" v="+44 1304 365 160"/>
-    <tag k="shop" v="gift"/>
-    <tag k="website" v="https://johncorleystainedglassstudio.co.uk"/>
-  </node>
-  <node id="8179932362" lat="51.2305103" lon="1.4019445" version="7" timestamp="2024-05-05T13:48:04Z" changeset="150921051" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:postcode" v="CT14 6DD"/>
-    <tag k="addr:street" v="College Road"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/FryerTuckDeal/"/>
-    <tag k="cuisine" v="fish_and_chips"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="254778"/>
-    <tag k="indoor_seating" v="no"/>
-    <tag k="name" v="The Fryer Tuck"/>
-    <tag k="opening_hours" v="Fr,Sa 16:30-21:00"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="phone" v="+44 1304 364221"/>
-    <tag k="takeaway" v="only"/>
-  </node>
-  <node id="8179932363" lat="51.2302617" lon="1.4022530" version="6" timestamp="2024-08-06T09:06:09Z" changeset="154883224" uid="84263" user="Robert Whittaker">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:postcode" v="CT14 6BP"/>
-    <tag k="addr:street" v="College Road"/>
-    <tag k="brand" v="Mace"/>
-    <tag k="brand:wikidata" v="Q75240338"/>
-    <tag k="fhrs:id" v="452132"/>
-    <tag k="name" v="Mace"/>
-    <tag k="shop" v="convenience"/>
-  </node>
-  <node id="8179932365" lat="51.2303994" lon="1.3989163" version="2" timestamp="2023-11-01T18:09:44Z" changeset="143489391" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:postcode" v="CT14 6PY"/>
-    <tag k="addr:street" v="Golf Road"/>
-    <tag k="name" v="Golf Road Pharmacy"/>
-    <tag k="phone" v="+44 1304 381807"/>
-    <tag k="shop" v="chemist"/>
-    <tag k="website" v="https://golfroadpharmacy.com/"/>
-  </node>
-  <node id="8179932366" lat="51.2292472" lon="1.3999543" version="2" timestamp="2021-01-18T22:58:41Z" changeset="97724788" uid="12169583" user="davidfaure_bot">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:postcode" v="CT14 6PU"/>
-    <tag k="addr:street" v="Ark Lane"/>
-    <tag k="name" v="Ark Lane Stores"/>
-    <tag k="opening_hours" v="07:00-22:00"/>
-    <tag k="shop" v="convenience"/>
-  </node>
-  <node id="8180035187" lat="51.2258303" lon="1.4033539" version="3" timestamp="2021-01-09T20:04:38Z" changeset="97227216" uid="3937" user="southglos">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:postcode" v="CT14 6HL"/>
-    <tag k="addr:street" v="Middle Street"/>
-    <tag k="name" v="Baker @ 74"/>
-    <tag k="phone" v="+44 1304 369200"/>
-    <tag k="shop" v="jewelry"/>
-  </node>
-  <node id="8180035192" lat="51.2254766" lon="1.4027106" version="2" timestamp="2020-12-05T23:26:25Z" changeset="95351519" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="96"/>
-    <tag k="addr:postcode" v="CT14 6EE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="MerryGardens"/>
-    <tag k="phone" v="+44 1304 374228"/>
-    <tag k="shop" v="florist"/>
-    <tag k="website" v="https://www.merrygardens.co.uk"/>
-  </node>
-  <node id="8180105858" lat="51.2253331" lon="1.4027157" version="3" timestamp="2020-12-07T12:52:21Z" changeset="95423209" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:postcode" v="CT14 6EG"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="clothes" v="women"/>
-    <tag k="name" v="Two's Company"/>
-    <tag k="phone" v="+44 1304 380329"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="8180105860" lat="51.2253682" lon="1.4028842" version="5" timestamp="2021-01-09T20:04:38Z" changeset="97227216" uid="3937" user="southglos">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="CT14 6TA"/>
-    <tag k="addr:street" v="St. George's Passage"/>
-    <tag k="name" v="Brooklyn Greenspa"/>
-    <tag k="operator" v="Brooklyn Greenspa"/>
-    <tag k="phone" v="+44 1304 367270"/>
-    <tag k="shop" v="beauty"/>
-    <tag k="website" v="https://www.brooklyngreenspa.co.uk/"/>
-  </node>
-  <node id="8180134589" lat="51.2248946" lon="1.4023625" version="2" timestamp="2020-12-02T16:46:40Z" changeset="95168267" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="1b"/>
-    <tag k="addr:street" v="Stanhope Road"/>
-    <tag k="name" v="Petfood Express"/>
-    <tag k="operator" v="Petfood Express"/>
-    <tag k="shop" v="pet"/>
-  </node>
-  <node id="8180134590" lat="51.2251318" lon="1.4025876" version="2" timestamp="2020-12-02T12:33:25Z" changeset="95156298" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="89A"/>
-    <tag k="addr:postcode" v="CT14 6ED"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="C J Howe"/>
-    <tag k="operator" v="J Howe"/>
-    <tag k="phone" v="+44 1304 368897"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="website" v="https://www.cjhowejeweller.co.uk/"/>
-  </node>
-  <node id="8180134592" lat="51.2248799" lon="1.4025898" version="3" timestamp="2020-12-08T00:04:25Z" changeset="95450737" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:postcode" v="CT14 6EH"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Tamarisk"/>
-    <tag k="phone" v="+44 1304 363249"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://tamariskonline.com/"/>
-  </node>
-  <node id="8180134594" lat="51.2248954" lon="1.4024225" version="2" timestamp="2020-12-02T16:46:40Z" changeset="95168267" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="1A"/>
-    <tag k="addr:street" v="Stanhope Road"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="healthcare:speciality" v="denture_repair"/>
-    <tag k="name" v="The Denture Clinic"/>
-  </node>
-  <node id="8180134595" lat="51.2246506" lon="1.4026087" version="4" timestamp="2024-05-03T13:25:42Z" changeset="150837529" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:postcode" v="CT14 6EH"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Ward &amp; Corrigan"/>
-    <tag k="opening_hours" v="Mo-Sa 09:30-16:30"/>
-    <tag k="operator" v="Ward &amp; Corrigan"/>
-    <tag k="phone" v="+44 1304 374418"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="website" v="http://wardandcorrigan.com/"/>
-  </node>
-  <node id="8180134596" lat="51.2247085" lon="1.4026083" version="6" timestamp="2024-05-03T13:25:18Z" changeset="150837529" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="75"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="Coral"/>
-    <tag k="brand:wikidata" v="Q54621344"/>
-    <tag k="brand:wikipedia" v="en:Coral (bookmaker)"/>
-    <tag k="name" v="Coral"/>
-    <tag k="opening_hours" v="Mo-Fr 08:30-21:30; Sa 08:00-21:00; Su 08:00-20:00"/>
-    <tag k="shop" v="bookmaker"/>
-  </node>
-  <node id="8180134597" lat="51.2247786" lon="1.4027494" version="4" timestamp="2024-05-07T08:45:14Z" changeset="150997499" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="healthcare" v="audiologist"/>
-    <tag k="name" v="Hearbase"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="operator" v="Hearbase Limited"/>
-    <tag k="phone" v="+44 1304 892777"/>
-    <tag k="website" v="https://hearbase.com/"/>
-  </node>
-  <node id="8180134600" lat="51.2246970" lon="1.4033156" version="5" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="CT14 6HU"/>
-    <tag k="addr:street" v="King Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/MrDapperBarbers/"/>
-    <tag k="name" v="Mr Dapper"/>
-    <tag k="phone" v="+44 7714 306180"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
-  <node id="8180134601" lat="51.2246913" lon="1.4031930" version="6" timestamp="2024-09-13T10:51:33Z" changeset="156566124" uid="84263" user="Robert Whittaker">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="5-7"/>
-    <tag k="addr:postcode" v="CT14 6HU"/>
-    <tag k="addr:street" v="King Street"/>
-    <tag k="brand" v="Barnardo's"/>
-    <tag k="brand:wikidata" v="Q2884670"/>
-    <tag k="brand:wikipedia" v="en:Barnardo's"/>
-    <tag k="name" v="Barnardo's"/>
-    <tag k="operator" v="Barnado's"/>
-    <tag k="phone" v="+44 1304 373498"/>
-    <tag k="shop" v="charity"/>
-    <tag k="website" v="https://shop.barnardos.org.uk/shop/deal"/>
-  </node>
-  <node id="8180134602" lat="51.2248250" lon="1.4031516" version="2" timestamp="2021-07-15T09:58:28Z" changeset="108039394" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:postcode" v="CT14 6HS"/>
-    <tag k="addr:street" v="Market Street"/>
-    <tag k="club" v="social"/>
-    <tag k="fhrs:id" v="509536"/>
-    <tag k="name" v="Royal British Legion Club"/>
-    <tag k="operator" v="Royal British Legion"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="8180134603" lat="51.2245337" lon="1.4028213" version="2" timestamp="2020-12-07T14:57:09Z" changeset="95429456" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Biggs"/>
-    <tag k="operator" v="Biggs"/>
-    <tag k="phone" v="+44 1304 381330"/>
-    <tag k="shop" v="optician"/>
-    <tag k="website" v="http://biggsopticians.co.uk/"/>
-  </node>
-  <node id="8180156411" lat="51.2247364" lon="1.4018454" version="4" timestamp="2023-07-23T11:20:49Z" changeset="138889131" uid="19931229" user="Linfindel">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:street" v="Stanhope Road"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="brand" v="mydentist"/>
-    <tag k="brand:wikidata" v="Q65118035"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="name" v="mydentist"/>
-    <tag k="phone" v="+44 1304 374430"/>
-  </node>
-  <node id="8180164331" lat="51.2232175" lon="1.4032219" version="2" timestamp="2020-12-08T19:53:24Z" changeset="95508838" uid="10060014" user="cebab">
-    <tag k="addr:city" v="DEal"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="CT14 6ER"/>
-    <tag k="addr:street" v="Broad Street"/>
-    <tag k="name" v="Jillys of Deal"/>
-    <tag k="phone" v="+44 1304 361543"/>
-    <tag k="shop" v="dry_cleaning"/>
-    <tag k="website" v="http://www.jillysdrycleaners.co.uk/"/>
-  </node>
-  <node id="8180164332" lat="51.2232151" lon="1.4033310" version="6" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="CT14 6ER"/>
-    <tag k="addr:street" v="Broad Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/people/Little-Harriettes-of-Deal-Tea-Rooms/100057422839120/"/>
-    <tag k="fhrs:id" v="691804"/>
-    <tag k="name" v="Little Harriets Of Deal"/>
-    <tag k="phone" v="+44 7921 366964"/>
-    <tag k="shop" v="tea"/>
-  </node>
-  <node id="8180164333" lat="51.2232364" lon="1.4030693" version="4" timestamp="2024-05-04T15:16:53Z" changeset="150884979" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="CT14 6ER"/>
-    <tag k="addr:street" v="Broad Street"/>
-    <tag k="email" v="info@dysonbrown.co.uk"/>
-    <tag k="male" v="yes"/>
-    <tag k="name" v="Dyson Brown"/>
-    <tag k="phone" v="+44 1304 362480"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="http://dysonbrown.co.uk/branches/"/>
-  </node>
-  <node id="8180164334" lat="51.2230802" lon="1.4022258" version="6" timestamp="2024-05-04T15:15:56Z" changeset="150883945" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="male" v="yes"/>
-    <tag k="name" v="Mens Cutting Roam"/>
-    <tag k="opening_hours" v="Mo-Th 09:00-17:30; Fr 09:00-18:00; Sa 08:30-17:00"/>
-    <tag k="phone" v="+44 1304 380068"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="https://mens-cutting-room.business.site/"/>
-  </node>
-  <node id="8180164335" lat="51.2230773" lon="1.4021569" version="5" timestamp="2021-07-17T08:21:36Z" changeset="108150142" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="fhrs:id" v="254380"/>
-    <tag k="name" v="The Meat'In Place"/>
-    <tag k="operator" v="The Meat'In Place"/>
-    <tag k="phone" v="+44 1304 361133"/>
-    <tag k="shop" v="butcher"/>
-  </node>
-  <node id="8180164336" lat="51.2229827" lon="1.4026243" version="3" timestamp="2021-07-17T08:29:00Z" changeset="108150369" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="fhrs:id" v="254409"/>
-    <tag k="name" v="Bartlett &amp; White"/>
-    <tag k="operator" v="Bartlett &amp; White"/>
-    <tag k="phone" v="+44 1304 369113"/>
-    <tag k="shop" v="greengrocer"/>
-  </node>
-  <node id="8180164337" lat="51.2229133" lon="1.4026258" version="5" timestamp="2024-05-07T15:41:14Z" changeset="151017072" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="male" v="yes"/>
-    <tag k="name" v="Kings Barbers"/>
-    <tag k="opening_hours" v="Mo-We 09:00-18:00; Th,Fr 09:00-19:00; Sa 08:30-18:00; Su 10:00-16:00"/>
-    <tag k="operator" v="Kings"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
-  <node id="8180164338" lat="51.2228550" lon="1.4026258" version="3" timestamp="2020-12-03T14:46:15Z" changeset="95233484" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Retro"/>
-    <tag k="phone" v="+44 1304 448934"/>
-    <tag k="shop" v="houseware"/>
-  </node>
-  <node id="8180164339" lat="51.2228124" lon="1.4028209" version="5" timestamp="2023-10-19T14:52:38Z" changeset="142820318" uid="4345757" user="JassKurn">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:postcode" v="CT14 7AE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="RSPCA"/>
-    <tag k="brand:wikidata" v="Q584819"/>
-    <tag k="brand:wikipedia" v="en:Royal Society for the Prevention of Cruelty to Animals"/>
-    <tag k="name" v="RSPCA"/>
-    <tag k="operator" v="RSPCA"/>
-    <tag k="phone" v="+44 1304 366833"/>
-    <tag k="shop" v="charity"/>
-    <tag k="website" v="https://www.rspca.org.uk/"/>
-  </node>
-  <node id="8180164340" lat="51.2229346" lon="1.4028165" version="5" timestamp="2021-01-09T20:04:38Z" changeset="97227216" uid="3937" user="southglos">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="20A"/>
-    <tag k="addr:postcode" v="CT14 7AE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="clothes" v="women"/>
-    <tag k="name" v="La de da"/>
-    <tag k="phone" v="+44 1304 372600"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://ladedaboutique.co.uk/"/>
-  </node>
-  <node id="8180164341" lat="51.2230114" lon="1.4028535" version="3" timestamp="2022-08-19T20:21:38Z" changeset="125125086" uid="3475996" user="bobbob101">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:postcode" v="CT14 7AE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="JenningsBet"/>
-    <tag k="brand:wikidata" v="Q112925339"/>
-    <tag k="name" v="JenningsBet"/>
-    <tag k="shop" v="bookmaker"/>
-    <tag k="website" v="https://www.jenningsbet.com/"/>
-  </node>
-  <node id="8180164342" lat="51.2229642" lon="1.4028904" version="4" timestamp="2021-01-09T20:04:38Z" changeset="97227216" uid="3937" user="southglos">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="CT14 7AE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Quirky Giftz"/>
-    <tag k="operator" v="Quirky Giftz"/>
-    <tag k="phone" v="+44 7974 085059"/>
-    <tag k="shop" v="gift"/>
-    <tag k="website" v="https://quirkygiftz.co.uk/"/>
-  </node>
-  <node id="8180164343" lat="51.2227152" lon="1.4028179" version="5" timestamp="2021-01-09T20:04:38Z" changeset="97227216" uid="3937" user="southglos">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="CT14 7AE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Laines"/>
-    <tag k="operator" v="Laines"/>
-    <tag k="phone" v="+44 7800 913982"/>
-    <tag k="shop" v="jewelry"/>
-  </node>
-  <node id="8180164344" lat="51.2226689" lon="1.4028210" version="5" timestamp="2021-01-09T20:04:38Z" changeset="97227216" uid="3937" user="southglos">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="CT14 7AE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Deal Antiques"/>
-    <tag k="operator" v="G&amp;B Antiques"/>
-    <tag k="phone" v="+44 7572 668905"/>
-    <tag k="shop" v="antiques"/>
-    <tag k="website" v="https://dealantiques.co.uk/"/>
-  </node>
-  <node id="8180192260" lat="51.2242467" lon="1.4028492" version="4" timestamp="2020-12-02T12:33:25Z" changeset="95156298" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="A Simmonds"/>
-    <tag k="operator" v="A Simmonds"/>
-    <tag k="phone" v="+44 1304 361108"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="website" v="https://www.asimmondsjewellers.co.uk/"/>
-  </node>
-  <node id="8180192261" lat="51.2240517" lon="1.4028648" version="7" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/theyellowgiraffedeal/"/>
-    <tag k="name" v="The Yellow Giraffe"/>
-    <tag k="operator" v="THE YELLOW GIRAFFE LIMITED"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="toilets" v="yes"/>
-  </node>
-  <node id="8180192262" lat="51.2235795" lon="1.4028759" version="3" timestamp="2023-11-01T18:12:22Z" changeset="143489548" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:postcode" v="CT14 6HE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Beach"/>
-    <tag k="operator" v="Beach"/>
-    <tag k="phone" v="+44 1304 366477"/>
-    <tag k="shop" v="furniture"/>
-    <tag k="website" v="https://www.beachofdeal.co.uk/"/>
-  </node>
-  <node id="8181167350" lat="51.2226420" lon="1.4026465" version="5" timestamp="2023-10-19T14:52:38Z" changeset="142820318" uid="4345757" user="JassKurn">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="Specsavers"/>
-    <tag k="brand:wikidata" v="Q2000610"/>
-    <tag k="brand:wikipedia" v="en:Specsavers"/>
-    <tag k="contact:website" v="https://www.specsavers.co.uk/stores/deal"/>
-    <tag k="name" v="Specsavers"/>
-    <tag k="operator" v="Specsavers"/>
-    <tag k="shop" v="optician"/>
-  </node>
-  <node id="8181167351" lat="51.2225809" lon="1.4026480" version="4" timestamp="2020-12-03T14:46:15Z" changeset="95233484" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="J J Woods News"/>
-    <tag k="operator" v="J J Woods"/>
-    <tag k="phone" v="+44 1304 375676"/>
-    <tag k="shop" v="newsagent"/>
-  </node>
-  <node id="8181167352" lat="51.2224974" lon="1.4026470" version="6" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="9A"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="beauty" v="nails"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/DealsBeautifulNails/"/>
-    <tag k="name" v="Beautiful Nails"/>
-    <tag k="phone" v="+44 1304 366989"/>
-    <tag k="shop" v="beauty"/>
-  </node>
-  <node id="8181167353" lat="51.2224352" lon="1.4026509" version="6" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="beauty" v="tanning"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/Sunhousekent/"/>
-    <tag k="name" v="The Sunhouse"/>
-    <tag k="phone" v="+44 1304 371315"/>
-    <tag k="shop" v="beauty"/>
-  </node>
-  <node id="8181167354" lat="51.2223754" lon="1.4026482" version="5" timestamp="2023-07-23T11:20:49Z" changeset="138889131" uid="19931229" user="Linfindel">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="pharmacy"/>
-    <tag k="branch" v="&amp; Travel Vaccination Clinic"/>
-    <tag k="brand" v="Clockwork Pharmacy"/>
-    <tag k="brand:wikidata" v="Q109789537"/>
-    <tag k="dispensing" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Clockwork Pharmacy"/>
-    <tag k="phone" v="+44 1304 375781"/>
-    <tag k="website" v="https://www.clockworkpharmacy.com/"/>
-  </node>
-  <node id="8181167357" lat="51.2230753" lon="1.4035187" version="3" timestamp="2021-07-17T08:21:36Z" changeset="108150142" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="CT14 6ER"/>
-    <tag k="addr:street" v="Broad Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="fhrs:id" v="254304"/>
-    <tag k="name" v="Loon Hin Chinese Restaurant and Takeaway"/>
-    <tag k="phone" v="+44 1304 368336"/>
-  </node>
-  <node id="8181167358" lat="51.2230596" lon="1.4037671" version="2" timestamp="2020-12-08T19:53:24Z" changeset="95508838" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="CT14 6ER"/>
-    <tag k="addr:street" v="Broad Street"/>
-    <tag k="name" v="Millards Insurance"/>
-    <tag k="office" v="insurance"/>
-    <tag k="phone" v="+44 1304 613209"/>
-    <tag k="website" v="https://www.greeninsurance.co.uk/millards-insurance/"/>
-  </node>
-  <node id="8181167399" lat="51.2218929" lon="1.4028736" version="1" timestamp="2020-11-30T22:02:49Z" changeset="95070463" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="CT14 7AP"/>
-    <tag k="addr:street" v="Victoria Road"/>
-    <tag k="name" v="DONT WALK WALK Gallery"/>
-    <tag k="phone" v="+44 7500 602903"/>
-    <tag k="tourism" v="gallery"/>
-    <tag k="website" v="https://www.dontwalkwalkgallery.com/"/>
-  </node>
-  <node id="8181220154" lat="51.2290138" lon="1.4029013" version="2" timestamp="2020-12-07T12:01:42Z" changeset="95420000" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="CT14 6LR"/>
-    <tag k="addr:street" v="Alfred Square"/>
-    <tag k="name" v="Quill Antiques"/>
-    <tag k="phone" v="+44 1304 375958"/>
-    <tag k="shop" v="antiques"/>
-  </node>
-  <node id="8181352402" lat="51.2241210" lon="1.4022926" version="3" timestamp="2024-05-07T16:06:29Z" changeset="151017217" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="22A"/>
-    <tag k="addr:postcode" v="CT14 6AG"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="fish_and_chips"/>
-    <tag k="fhrs:id" v="1222826"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="The Happy Fryer"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="8184040908" lat="51.2247915" lon="1.4029519" version="2" timestamp="2021-07-15T09:58:28Z" changeset="108039394" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="CT14 6HS"/>
-    <tag k="addr:street" v="Market Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="fhrs:id" v="1181518"/>
-    <tag k="name" v="Kerry's Bakehouse and Eatery"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="8184040909" lat="51.2269876" lon="1.4026327" version="3" timestamp="2024-05-06T07:27:18Z" changeset="150950241" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Rees &amp; Rees"/>
-    <tag k="opening_hours" v="We,Th 11:00-16:30; Fr 10:00-17:30; Sa 10:00-16:00"/>
-    <tag k="phone" v="+44 1304 374910"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="website" v="https://www.reesandreesjewellery.co.uk/"/>
-  </node>
-  <node id="8184040910" lat="51.2266288" lon="1.4026467" version="3" timestamp="2024-05-06T07:20:14Z" changeset="150950241" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="132"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Barkened"/>
-    <tag k="opening_hours" v="We-Fr 10:30-16:00; Sa 10:00-16:30; Su 11:00-15:00"/>
-    <tag k="operator" v="Emma and Rob"/>
-    <tag k="phone" v="+44 7977549689"/>
-    <tag k="shop" v="pet"/>
-    <tag k="website" v="https://barkened.com/"/>
-  </node>
-  <node id="8184040911" lat="51.2267475" lon="1.4026413" version="6" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="136"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/Maxteds.pet.aquatic.garden"/>
-    <tag k="description" v="Pet Aquatic and Garden"/>
-    <tag k="name" v="Maxwells"/>
-    <tag k="phone" v="+44 1304 375272"/>
-    <tag k="shop" v="pet"/>
-  </node>
-  <node id="8184040912" lat="51.2268675" lon="1.4026339" version="5" timestamp="2024-05-06T07:25:35Z" changeset="150950241" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="description" v="HOXTON STORE is a home and lifestyle store, specialising in textiles. Based on the South East coast in Deal"/>
-    <tag k="name" v="The Hoxton Store"/>
-    <tag k="opening_hours" v="Su,Mo 11:00-15:00; Th-Sa 10:00-16:00"/>
-    <tag k="operator" v="The Hoxton Store"/>
-    <tag k="phone" v="+44 1304 360203"/>
-    <tag k="shop" v="gift"/>
-    <tag k="website" v="https://hoxtonstore.com/"/>
-  </node>
-  <node id="8184040913" lat="51.2266949" lon="1.4026470" version="5" timestamp="2024-05-06T07:21:25Z" changeset="150950241" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="134"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="artist_name" v="Joanne Harman"/>
-    <tag k="artwork_type" v="paintings_and_Gifts"/>
-    <tag k="fee" v="no"/>
-    <tag k="name" v="Joanne Harmer Gallery"/>
-    <tag k="opening_hours" v="Tu-Sa 09:00-13:00"/>
-    <tag k="operator" v="Joanne Harman"/>
-    <tag k="phone" v="+44 1304 373656"/>
-    <tag k="tourism" v="gallery"/>
-    <tag k="website" v="https://www.joanneharmergallery.com"/>
-  </node>
-  <node id="8184040914" lat="51.2236525" lon="1.4043332" version="5" timestamp="2023-04-23T22:06:10Z" changeset="135278880" uid="10599253" user="DanGlover">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housename" v="Quarterdeck"/>
-    <tag k="addr:housenumber" v="37-39"/>
-    <tag k="addr:postcode" v="CT14 6HY"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="addr:unit" v="Unit B"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian;pizza"/>
-    <tag k="fhrs:id" v="1013544"/>
-    <tag k="name" v="Salentino's"/>
-    <tag k="phone" v="+44 1304 721836"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="toilets:access" v="customers"/>
-    <tag k="website" v="https://www.salentinos.com/"/>
-  </node>
-  <node id="8184040915" lat="51.2240604" lon="1.4042957" version="4" timestamp="2021-07-17T08:21:36Z" changeset="108150142" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="51-55"/>
-    <tag k="addr:postcode" v="CT14 6HY"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="fhrs:id" v="799984"/>
-    <tag k="name" v="Clarendon Hotel"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="tourism" v="hotel"/>
-  </node>
-  <node id="8184049018" lat="51.2258385" lon="1.4027065" version="3" timestamp="2024-08-17T11:49:33Z" changeset="155367209" uid="20092260" user="Doggy77">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:postcode" v="CT14 6EE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="fee" v="no"/>
-    <tag k="name" v="Taylor Jones &amp; Son"/>
-    <tag k="phone" v="+44 1304 362671"/>
-    <tag k="tourism" v="gallery"/>
-    <tag k="website" v="https://www.taylorjonesandson.co.uk/"/>
-  </node>
-  <node id="8184187619" lat="51.2230400" lon="1.4026404" version="3" timestamp="2024-05-03T13:31:14Z" changeset="150837984" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="21A"/>
-    <tag k="addr:postcode" v="CT14 7AA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="fhrs:id" v="254520"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Starburger"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="8184187620" lat="51.2227729" lon="1.4007253" version="3" timestamp="2020-12-13T17:52:56Z" changeset="95765119" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:postcode" v="CT14 6EY"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="name" v="The Cutting Room"/>
-    <tag k="phone" v="+44 1304 360632"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="https://thecuttingroomsalon.wixsite.com/thecuttingroom"/>
-  </node>
-  <node id="8184187627" lat="51.2230769" lon="1.4014361" version="4" timestamp="2021-07-17T08:21:36Z" changeset="108150142" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="fhrs:id" v="1063668"/>
-    <tag k="name" v="The Lane Bakery"/>
-    <tag k="phone" v="+44 1304 447877"/>
-    <tag k="shop" v="bakery"/>
-    <tag k="website" v="https://www.thelanebakery.co.uk/"/>
-  </node>
-  <node id="8184187632" lat="51.2231828" lon="1.4020680" version="2" timestamp="2020-12-13T17:52:56Z" changeset="95765119" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="name" v="Bonne Bombe"/>
-    <tag k="operator" v="Bonne Bombe"/>
-    <tag k="phone" v="+44 1304 364496"/>
-    <tag k="shop" v="cosmetics"/>
-    <tag k="website" v="https://www.bonnebombe.co.uk/"/>
-  </node>
-  <node id="8184187633" lat="51.2231458" lon="1.4018454" version="4" timestamp="2021-01-28T23:23:21Z" changeset="98324046" uid="5008136" user="JayTurnr">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="12-14"/>
-    <tag k="addr:postcode" v="CT14 6EU"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="name" v="Williamson &amp; Barnes"/>
-    <tag k="office" v="lawyer"/>
-    <tag k="opening_hours:covid19" v="closed"/>
-    <tag k="phone" v="+44 1304 373154"/>
-    <tag k="website" v="https://www.williamson-barnes.co.uk/"/>
-  </node>
-  <node id="8184187635" lat="51.2228854" lon="1.4029639" version="3" timestamp="2021-07-17T08:29:00Z" changeset="108150369" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:postcode" v="CT14 7AF"/>
-    <tag k="addr:street" v="South Court"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="fhrs:id" v="683166"/>
-    <tag k="name" v="The Lane"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 448283"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="website" v="https://www.thelanedeal.co.uk"/>
-  </node>
-  <node id="8184187640" lat="51.2229980" lon="1.4017193" version="4" timestamp="2021-01-28T23:23:21Z" changeset="98324046" uid="5008136" user="JayTurnr">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="disused:office" v="newspaper"/>
-    <tag k="name" v="East Kent Gazette Offices"/>
-  </node>
-  <node id="8184187641" lat="51.2230501" lon="1.4019982" version="4" timestamp="2024-05-04T15:14:21Z" changeset="150883945" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="clothes" v="children"/>
-    <tag k="name" v="Whippersnappers"/>
-    <tag k="opening_hours" v="We 10:00-14:00; Th-Sa 10:00-16:00"/>
-    <tag k="phone" v="+44 304 369780"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.whippersnappersonline.com/"/>
-  </node>
-  <node id="8184187642" lat="51.2229761" lon="1.4016361" version="7" timestamp="2023-10-19T14:52:38Z" changeset="142820318" uid="4345757" user="JassKurn">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="brand" v="The Co-operative Funeralcare"/>
-    <tag k="brand:wikidata" v="Q7726521"/>
-    <tag k="brand:wikipedia" v="en:Co-op Funeralcare"/>
-    <tag k="name" v="The Co-operative Funeralcare"/>
-    <tag k="phone" v="+44 1304 375701"/>
-    <tag k="shop" v="funeral_directors"/>
-    <tag k="website" v="https://www.coop.co.uk/funeralcare/funeral-directors/deal/CT14-6ET/15-queen-street"/>
-  </node>
-  <node id="8184187643" lat="51.2230316" lon="1.4018964" version="3" timestamp="2020-12-13T17:52:56Z" changeset="95765119" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="9-11"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="email" v="info@appliancesforyou.ltd"/>
-    <tag k="name" v="Appliances for you"/>
-    <tag k="phone" v="+44 1304 368170"/>
-    <tag k="shop" v="electrical"/>
-    <tag k="website" v="https://appliancesforyou.ltd"/>
-  </node>
-  <node id="8184187644" lat="51.2230232" lon="1.4011668" version="2" timestamp="2020-12-13T17:52:56Z" changeset="95765119" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="name" v="Miles &amp; Barr"/>
-    <tag k="office" v="estate_agent"/>
-    <tag k="phone" v="+44 1304 800555"/>
-    <tag k="website" v="https://www.milesandbarr.co.uk/contact-us"/>
-  </node>
-  <node id="8184187645" lat="51.2230416" lon="1.4012392" version="3" timestamp="2020-12-13T17:52:56Z" changeset="95765119" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="name" v="Deal Mobility"/>
-    <tag k="operator" v="Deal Mobility"/>
-    <tag k="phone" v="+44 1304 369184"/>
-    <tag k="shop" v="Mobility_Aids"/>
-    <tag k="website" v="https://dealmobility.co.uk/"/>
-  </node>
-  <node id="8184187646" lat="51.2229594" lon="1.4015423" version="2" timestamp="2020-12-13T17:52:56Z" changeset="95765119" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="amenity" v="pharmacy"/>
-    <tag k="dispensing" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Paydens"/>
-    <tag k="operator" v="Paydens"/>
-    <tag k="phone" v="+44 1304 374143"/>
-    <tag k="website" v="https://www.paydens.com/"/>
-  </node>
-  <node id="8184187647" lat="51.2229426" lon="1.4014457" version="3" timestamp="2023-03-17T08:53:01Z" changeset="133778971" uid="84263" user="Robert Whittaker">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="name" v="Deal Post Office"/>
-    <tag k="phone" v="+44 1304 374216"/>
-    <tag k="ref:pol_id" v="22677"/>
-    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/1679090/deal"/>
-  </node>
-  <node id="8184187652" lat="51.2221885" lon="1.4029475" version="2" timestamp="2020-12-03T14:46:15Z" changeset="95233484" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="2d"/>
-    <tag k="addr:postcode" v="CT14 7AW"/>
-    <tag k="addr:street" v="South Street"/>
-    <tag k="name" v="Vaparettes"/>
-    <tag k="operator" v="UK VAPARETTES LTD"/>
-    <tag k="shop" v="e-cigarette"/>
-    <tag k="website" v="https://www.vaparettes.co.uk/our-shops/deal/"/>
-  </node>
-  <node id="8184303634" lat="51.2229333" lon="1.4002252" version="7" timestamp="2024-08-17T11:51:08Z" changeset="155367279" uid="2607" user="ashirley">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:postcode" v="CT14 6EY"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="1014270"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="The Queen Street Tap"/>
-    <tag k="operator" v="Stonegate"/>
-    <tag k="operator:wikidata" v="Q7619176"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 803644"/>
-    <tag k="website" v="https://www.crafted-social.co.uk/queen-street-tap-deal"/>
-  </node>
-  <node id="8184303635" lat="51.2228476" lon="1.3998121" version="3" timestamp="2021-08-18T18:15:13Z" changeset="109890753" uid="5008136" user="JayTurnr">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:postcode" v="CT14 6HD"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="name" v="Deal Garden Centre"/>
-    <tag k="opening_hours" v="We 09:00-16:30; Th-Sa 08:30-16:30; Su 10:00-16:00; Mo,Tu off"/>
-    <tag k="operator" v="Young's Nurseries"/>
-    <tag k="phone" v="+44 1304 373069"/>
-    <tag k="shop" v="garden_centre"/>
-    <tag k="website" v="https://www.youngsnurseries.co.uk/"/>
-  </node>
-  <node id="8184441709" lat="51.2230673" lon="1.4020797" version="3" timestamp="2024-05-04T15:14:51Z" changeset="150883945" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="name" v="Angels Launderama"/>
-    <tag k="opening_hours" v="Mo-Su 07:00-17:00"/>
-    <tag k="phone" v="+44 1304 360926"/>
-    <tag k="self_service" v="yes"/>
-    <tag k="shop" v="laundry"/>
-    <tag k="website" v="http://www.ironingangels.net/"/>
-  </node>
-  <node id="8185661922" lat="51.2253692" lon="1.4029561" version="4" timestamp="2021-01-09T20:04:38Z" changeset="97227216" uid="3937" user="southglos">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="CT14 6TA"/>
-    <tag k="addr:street" v="St. George's Passage"/>
-    <tag k="clothes" v="women;hats;hire"/>
-    <tag k="name" v="Castaways"/>
-    <tag k="phone" v="+44 1304 381800"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="8187087546" lat="51.2248117" lon="1.4045155" version="2" timestamp="2024-05-02T15:07:04Z" changeset="150798395" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:postcode" v="CT14 6HZ"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="ARouteOne On The Prom"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+44 1304 369136"/>
-  </node>
-  <node id="8187929388" lat="51.2250155" lon="1.4024325" version="3" timestamp="2024-05-07T16:56:42Z" changeset="151019994" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="CT14 6AB"/>
-    <tag k="addr:street" v="Stanhope Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="The Scicilian"/>
-    <tag k="opening_hours" v="Mo-Th 09:30-17:00; Fr,Sa 09:30-21:00"/>
-    <tag k="outdoor_seating" v="yes"/>
-  </node>
-  <node id="8188047554" lat="51.2269289" lon="1.4026339" version="6" timestamp="2024-05-06T07:26:07Z" changeset="150950446" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="146"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Le Tabac"/>
-    <tag k="outdoor_seating" v="no"/>
-  </node>
-  <node id="8188047555" lat="51.2269009" lon="1.4026339" version="3" timestamp="2024-05-06T07:26:10Z" changeset="150950446" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="144"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="254704"/>
-    <tag k="indoor_seating" v="no"/>
-    <tag k="name" v="Deal Grill"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="phone" v="+44 1304 375899"/>
-    <tag k="takeaway" v="only"/>
-    <tag k="website" v="https://dealgrillonline.co.uk/"/>
-  </node>
-  <node id="8188047556" lat="51.2267851" lon="1.4026384" version="2" timestamp="2024-05-06T07:35:16Z" changeset="150950736" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="138"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Mrs Lang"/>
-    <tag k="opening_hours" v="Th-Fr 11:00-16:00; Sa 10:00-16:30"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="8188047557" lat="51.2268197" lon="1.4026369" version="3" timestamp="2024-05-02T14:23:38Z" changeset="150796784" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:postcode" v="CT14 6BE"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Beautiful Homes"/>
-    <tag k="phone" v="+44 1304 249884"/>
-    <tag k="shop" v="kitchen"/>
-    <tag k="website" v="https://www.beautifulhomesuk.co.uk/"/>
-  </node>
-  <node id="8188047558" lat="51.2272624" lon="1.4025981" version="6" timestamp="2024-05-07T09:57:17Z" changeset="151001763" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="154"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/preloveddeal"/>
-    <tag k="name" v="Preloved@154"/>
-    <tag k="opening_hours" v="Sa 10:00-15:00"/>
-    <tag k="phone" v="+44 7740 418565"/>
-    <tag k="shop" v="leather"/>
-  </node>
-  <node id="8188350675" lat="51.2260000" lon="1.4026953" version="3" timestamp="2021-07-15T09:49:52Z" changeset="108038633" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:postcode" v="CT14 6BB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="486216"/>
-    <tag k="name" v="Dial a Pizza"/>
-    <tag k="phone" v="+44 1304 366339"/>
-    <tag k="website" v="https://dial-a-pizzaonline.co.uk/"/>
-  </node>
-  <node id="8188350676" lat="51.2261374" lon="1.4024902" version="3" timestamp="2024-05-07T08:31:16Z" changeset="150997499" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="123"/>
-    <tag k="addr:postcode" v="CT14 6BB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="123 High Street"/>
-    <tag k="opening_hours" v="Th,Fr 10:30-16:00; Sa 10:00-16:00"/>
-    <tag k="operator" v="123 High Street"/>
-    <tag k="shop" v="gift"/>
-  </node>
-  <node id="8191077419" lat="51.2221966" lon="1.4031852" version="1" timestamp="2020-12-03T14:46:15Z" changeset="95233484" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="CT14 7AW"/>
-    <tag k="addr:street" v="South Court"/>
-    <tag k="name" v="Blowdry Bar"/>
-    <tag k="operator" v="JLR Blowdry Bar"/>
-    <tag k="phone" v="+44 1304 374866"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="https://www.jlrbrowbar.co.uk/jlr-blowdry-bar"/>
-  </node>
-  <node id="8198670176" lat="51.2241468" lon="1.4040240" version="2" timestamp="2021-07-17T08:21:36Z" changeset="108150142" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="51-53"/>
-    <tag k="addr:postcode" v="CT14 6HY"/>
-    <tag k="addr:street" v="Beach Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="fhrs:id" v="841931"/>
-    <tag k="name" v="Dine India"/>
-    <tag k="phone" v="+44 1304 379439"/>
-    <tag k="source:addr" v="FHRS Open Data;website"/>
-    <tag k="website" v="http://dineindiadeal.com"/>
-  </node>
-  <node id="8199623725" lat="51.2217422" lon="1.4030967" version="4" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:postcode" v="CT14 7BW"/>
-    <tag k="addr:street" v="Sondes Road"/>
-    <tag k="amenity" v="marketplace"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/thevillagecommunitymarket/"/>
-    <tag k="name" v="The Village Community Market"/>
-  </node>
-  <node id="8200178413" lat="51.2244826" lon="1.4026335" version="3" timestamp="2020-12-08T00:04:25Z" changeset="95450737" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="69A"/>
-    <tag k="addr:postcode" v="CT14 6EH"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Longshore"/>
-    <tag k="operator" v="Graystones of Tankerton"/>
-    <tag k="phone" v="+44 1304 448360"/>
-    <tag k="shop" v="locksmith"/>
-    <tag k="website" v="https://www.graystonesoftankerton.com/"/>
-  </node>
-  <node id="8200178414" lat="51.2244540" lon="1.4026349" version="3" timestamp="2024-05-07T08:46:41Z" changeset="150998234" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="69"/>
-    <tag k="addr:postcode" v="CT14 6EH"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="male" v="yes"/>
-    <tag k="name" v="Men's Style by Aaron"/>
-    <tag k="phone" v="+44 1304 373202"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="https://stylebyaaron.nearcut.com/"/>
-  </node>
-  <node id="8200178415" lat="51.2244087" lon="1.4026469" version="2" timestamp="2020-12-07T14:57:09Z" changeset="95429456" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:postcode" v="CT14 6EH"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Urban Chic"/>
-    <tag k="phone" v="+44 1304 448940"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="http://www.urbanchicltd.co.uk/"/>
-  </node>
-  <node id="8200178416" lat="51.2243717" lon="1.4026496" version="2" timestamp="2020-12-08T00:04:25Z" changeset="95450737" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:postcode" v="CT14 6EH"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="J Cosmo"/>
-    <tag k="opening_hours:covid19" v="closed"/>
-    <tag k="phone" v="+44 1304 375236"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.jcosmo.co.uk/"/>
-  </node>
-  <node id="8200190817" lat="51.2247312" lon="1.4037815" version="2" timestamp="2021-07-15T09:58:28Z" changeset="108039394" uid="608760" user="gregrs">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:postcode" v="CT14 6HX"/>
-    <tag k="addr:street" v="King Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="indian"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="365191"/>
-    <tag k="name" v="The Star of India"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
-  <node id="8202276821" lat="51.2230803" lon="1.4014987" version="6" timestamp="2023-04-11T19:07:35Z" changeset="134787439" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="CT14 6ET"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/dealhomecare.cleaning"/>
-    <tag k="craft" v="cleaning"/>
-    <tag k="name" v="Deal Home Care"/>
-    <tag k="operator" v="Noneywise Services"/>
-    <tag k="phone" v="+44 1304 363889"/>
-  </node>
-  <node id="8225027203" lat="51.2232341" lon="1.4031371" version="3" timestamp="2024-05-04T15:17:06Z" changeset="150884562" uid="118262" user="Wynndale">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="CT14 6ER"/>
-    <tag k="addr:street" v="Broad Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="254530"/>
-    <tag k="indoor_seating" v="no"/>
-    <tag k="name" v="Luscious Takeaway"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="phone" v="+44 1304 375151"/>
-    <tag k="takeaway" v="only"/>
-  </node>
-  <node id="8238122269" lat="51.2206620" lon="1.3980318" version="1" timestamp="2020-12-17T17:41:45Z" changeset="96021078" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:postcode" v="CT14 9AE"/>
-    <tag k="addr:street" v="The Drive"/>
-    <tag k="club" v="sport"/>
-    <tag k="lit" v="no"/>
-    <tag k="name" v="Deal Bowling Club"/>
-    <tag k="operator" v="D"/>
-    <tag k="phone" v="+44 1304 374701"/>
-    <tag k="sport" v="bowls;bowling"/>
-    <tag k="surface" v="grass"/>
-    <tag k="website" v="https://deal.bowlsclub.net/"/>
-  </node>
-  <node id="8238122270" lat="51.2209803" lon="1.3959799" version="1" timestamp="2020-12-17T17:41:45Z" changeset="96021078" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:postcode" v="CT14 9AE"/>
-    <tag k="addr:street" v="The Drive"/>
-    <tag k="club" v="sport"/>
-    <tag k="lit" v="no"/>
-    <tag k="name" v="Deal Bowling Club and Social Club"/>
-    <tag k="operator" v="D"/>
-    <tag k="phone" v="+44 1304 374701"/>
-    <tag k="sport" v="bowls;bowling"/>
-    <tag k="surface" v="grass"/>
-    <tag k="website" v="https://deal.bowlsclub.net/"/>
-  </node>
-  <node id="8664353162" lat="51.2217191" lon="1.4030667" version="1" timestamp="2021-04-25T11:47:33Z" changeset="103570731" uid="10060014" user="cebab">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:postcode" v="CT14 7BW"/>
-    <tag k="addr:street" v="Sondes Road"/>
-    <tag k="email" v="shop@yourlittlegreenshop.com"/>
-    <tag k="name" v="Your Little Green Shop"/>
-    <tag k="shop" v="general"/>
-    <tag k="website" v="https://www.yourlittlegreenshop.com/"/>
-  </node>
-  <node id="11032200759" lat="51.2355259" lon="1.4011780" version="2" timestamp="2023-10-23T16:19:23Z" changeset="143025779" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="CT14 6QL"/>
-    <tag k="addr:street" v="King Edward Road"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="brand" v="Post Office"/>
-    <tag k="brand:wikidata" v="Q1783168"/>
-    <tag k="name" v="King Edward Road Post Office"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-17:30"/>
-    <tag k="ref:pol_id" v="168210"/>
-    <tag k="source" v="pol_branch_list_2022‑05‑27;survey"/>
-    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/2839091/king-edward-road"/>
-  </node>
-  <node id="11136320770" lat="51.2218477" lon="1.3951161" version="2" timestamp="2024-04-22T22:51:38Z" changeset="150369039" uid="6816132" user="CjMalone">
-    <tag k="addr:housenumber" v="47-51"/>
-    <tag k="addr:postcode" v="CT14 9TF"/>
-    <tag k="addr:street" v="London Road"/>
-    <tag k="brand" v="Budgens"/>
-    <tag k="brand:wikidata" v="Q4985016"/>
-    <tag k="name" v="Budgens"/>
-    <tag k="opening_hours" v="Mo-Su 06:30-23:00"/>
-    <tag k="operator" v="Motor Fuel Group"/>
-    <tag k="operator:website" v="https://www.motorfuelgroup.com/locations/deal-service-station-ps1030/"/>
-    <tag k="operator:wikidata" v="Q107271358"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="website" v="https://www.budgens.co.uk/our-stores/deal"/>
-  </node>
+  <node id="252633474" lat="51.2032142" lon="1.3787493" version="1" timestamp="2008-03-17T20:04:52Z" changeset="340851" uid="7037" user="Gregory Williams">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="1681316175" lat="51.2101116" lon="1.3916420" version="3" timestamp="2021-09-15T23:24:36Z" changeset="111264809" uid="1778799" user="SomeoneElse_Revert"/>
+  <node id="2969980857" lat="51.2025679" lon="1.3816697" version="2" timestamp="2021-09-03T14:43:45Z" changeset="110682330" uid="5229644" user="Nathan_A_RF"/>
+  <node id="6585465639" lat="51.2239668" lon="1.3822851" version="1" timestamp="2019-07-03T01:04:18Z" changeset="71841283" uid="9196092" user="kirthia"/>
   <way id="4471741" version="14" timestamp="2024-06-10T10:09:57Z" changeset="152490019" uid="11471297" user="Palgrave Peter">
     <nd ref="27411764"/>
     <nd ref="11968663061"/>
@@ -5081,9 +2684,13 @@
     <tag k="name" v="Victoria Road"/>
     <tag k="oneway" v="yes"/>
   </way>
-  <way id="22997600" version="9" timestamp="2021-08-18T18:27:17Z" changeset="109890691" uid="5008136" user="JayTurnr">
+  <way id="22997600" version="10" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3">
     <nd ref="33452622"/>
+    <nd ref="12766626292"/>
+    <nd ref="12766626291"/>
     <nd ref="8608714292"/>
+    <nd ref="12766626290"/>
+    <nd ref="12766626289"/>
     <nd ref="247929786"/>
     <nd ref="247929788"/>
     <tag k="cycleway:left" v="no"/>
@@ -5128,9 +2735,18 @@
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="22997603" version="9" timestamp="2021-08-18T18:27:22Z" changeset="109890691" uid="5008136" user="JayTurnr">
+  <way id="22997603" version="10" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3">
     <nd ref="33452622"/>
+    <nd ref="12766636104"/>
+    <nd ref="12766636103"/>
     <nd ref="8608714291"/>
+    <nd ref="12766636102"/>
+    <nd ref="12766636101"/>
+    <nd ref="12766626300"/>
+    <nd ref="12766626299"/>
+    <nd ref="12766626298"/>
+    <nd ref="12766626297"/>
+    <nd ref="12766626296"/>
     <nd ref="247929784"/>
     <nd ref="247929785"/>
     <tag k="cycleway:left" v="no"/>
@@ -5155,8 +2771,9 @@
     <tag k="name" v="Victoria Road"/>
     <tag k="oneway" v="no"/>
   </way>
-  <way id="22997605" version="6" timestamp="2021-08-18T18:27:43Z" changeset="109890681" uid="5008136" user="JayTurnr">
+  <way id="22997605" version="7" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3">
     <nd ref="247929785"/>
+    <nd ref="12766626293"/>
     <nd ref="247929789"/>
     <nd ref="247929790"/>
     <tag k="cycleway:left" v="no"/>
@@ -5819,6 +3436,21 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Blenheim Road"/>
     <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="22998301" version="4" timestamp="2021-09-04T01:24:07Z" changeset="110699912" uid="5229644" user="Nathan_A_RF">
+    <nd ref="247935942"/>
+    <nd ref="247935953"/>
+    <nd ref="247935951"/>
+    <nd ref="247935952"/>
+    <nd ref="247935954"/>
+    <nd ref="247935955"/>
+    <tag k="hgv" v="discouraged"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Gladstone Road"/>
+    <tag k="sidewalk" v="left"/>
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="22998575" version="9" timestamp="2021-09-12T14:28:20Z" changeset="111098972" uid="1867429" user="James_Griffiths">
@@ -6858,7 +4490,7 @@
     <tag k="name" v="Clifford Gardens"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="23085396" version="12" timestamp="2025-03-29T10:58:10Z" changeset="164244094" uid="8935227" user="nature-saddling">
+  <way id="23085396" version="13" timestamp="2025-04-20T09:58:16Z" changeset="165185459" uid="7037" user="Gregory Williams">
     <nd ref="249153395"/>
     <nd ref="249153396"/>
     <nd ref="249153397"/>
@@ -6875,6 +4507,7 @@
     <nd ref="1768342169"/>
     <nd ref="12141744301"/>
     <nd ref="12141744302"/>
+    <nd ref="12770073251"/>
     <nd ref="12141703600"/>
     <nd ref="249153406"/>
     <nd ref="249153405"/>
@@ -7700,26 +5333,71 @@
     <tag k="not:name" v="South Wall"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="93709805" version="8" timestamp="2024-07-22T23:02:47Z" changeset="154283421" uid="5008136" user="JayTurnr">
-    <nd ref="3481801756"/>
-    <nd ref="1088159397"/>
-    <nd ref="1088159328"/>
-    <nd ref="8050892097"/>
-    <nd ref="8050892103"/>
-    <nd ref="1088159153"/>
-    <nd ref="1088159367"/>
-    <nd ref="8050892108"/>
-    <nd ref="3577605138"/>
-    <nd ref="3481801754"/>
-    <nd ref="1088159343"/>
-    <nd ref="1088159237"/>
-    <nd ref="3481801756"/>
-    <tag k="addr:street" v="Hamilton Road"/>
-    <tag k="landuse" v="cemetery"/>
-    <tag k="name" v="Hamilton Road Cemetery"/>
-    <tag k="name:en" v="Hamilton Road Cemetery"/>
-    <tag k="source" v="Bing"/>
-    <tag k="wikidata" v="Q5645122"/>
+  <way id="87192950" version="5" timestamp="2024-08-17T11:50:54Z" changeset="155367269" uid="20092260" user="Doggy77">
+    <nd ref="1013857461"/>
+    <nd ref="8184441715"/>
+    <nd ref="1013857465"/>
+    <nd ref="1013857434"/>
+    <nd ref="1013857413"/>
+    <nd ref="1013857497"/>
+    <nd ref="1013857439"/>
+    <nd ref="1013857380"/>
+    <nd ref="1013857488"/>
+    <nd ref="1013857383"/>
+    <nd ref="1013857459"/>
+    <nd ref="1013857397"/>
+    <nd ref="1013857470"/>
+    <nd ref="1013857461"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2024-08-17"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St George's"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17557805"/>
+  </way>
+  <way id="98102542" version="10" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3">
+    <nd ref="247939103"/>
+    <nd ref="12766636113"/>
+    <nd ref="33452628"/>
+    <nd ref="12766636112"/>
+    <nd ref="1281854715"/>
+    <nd ref="1281854774"/>
+    <nd ref="10773289549"/>
+    <nd ref="12766636111"/>
+    <nd ref="10773289550"/>
+    <nd ref="1181940320"/>
+    <nd ref="12766636110"/>
+    <nd ref="1181940191"/>
+    <nd ref="252691868"/>
+    <nd ref="10774102093"/>
+    <nd ref="12068938606"/>
+    <nd ref="33452626"/>
+    <nd ref="12068938607"/>
+    <nd ref="252690447"/>
+    <nd ref="12068938608"/>
+    <nd ref="12766636109"/>
+    <nd ref="12068938609"/>
+    <nd ref="252691872"/>
+    <nd ref="247939077"/>
+    <nd ref="12068938610"/>
+    <nd ref="1281854805"/>
+    <nd ref="959317612"/>
+    <nd ref="247939037"/>
+    <nd ref="12766636108"/>
+    <nd ref="33452625"/>
+    <nd ref="12766636105"/>
+    <nd ref="12766636106"/>
+    <nd ref="1181940792"/>
+    <nd ref="12766636107"/>
+    <nd ref="33452624"/>
+    <nd ref="1407604878"/>
+    <nd ref="247935955"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Strand"/>
+    <tag k="ref" v="A258"/>
+    <tag k="source" v="survey"/>
   </way>
   <way id="98875251" version="2" timestamp="2012-03-06T10:30:45Z" changeset="10888552" uid="7037" user="Gregory Williams">
     <nd ref="1143847153"/>
@@ -7778,43 +5456,6 @@
     <tag k="not:name" v="St. Richards Road"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="121654598" version="8" timestamp="2024-09-08T17:28:41Z" changeset="156362490" uid="11471297" user="Palgrave Peter">
-    <nd ref="1361176924"/>
-    <nd ref="12164068022"/>
-    <nd ref="12164068021"/>
-    <nd ref="12164068020"/>
-    <nd ref="12164068019"/>
-    <nd ref="1361176927"/>
-    <nd ref="1361176900"/>
-    <nd ref="1361176922"/>
-    <nd ref="1361176896"/>
-    <nd ref="12164068023"/>
-    <nd ref="1361176935"/>
-    <nd ref="1361176910"/>
-    <nd ref="1361176924"/>
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:place" v="Great Mongeham"/>
-    <tag k="addr:postcode" v="CT14 9PQ"/>
-    <tag k="addr:street" v="Mongeham Road"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="240"/>
-    <tag k="contact:phone" v="+44 1304 374033"/>
-    <tag k="contact:website" v="http://www.hornbeam.kent.sch.uk"/>
-    <tag k="fhrs:id" v="254751"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Hornbeam Primary School"/>
-    <tag k="ref:GB:uprn" v="100062287063"/>
-    <tag k="ref:edubase" v="147054"/>
-    <tag k="ref:edubase:group" v="17199"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="Deal Education Alliance For Learning Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="wikidata" v="Q66232919"/>
-  </way>
   <way id="135646290" version="2" timestamp="2012-09-22T16:23:42Z" changeset="13209388" uid="7037" user="Gregory Williams">
     <nd ref="1489486896"/>
     <nd ref="1489486892"/>
@@ -7834,64 +5475,6 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Bevan Close"/>
-  </way>
-  <way id="153756047" version="4" timestamp="2017-11-27T21:36:08Z" changeset="54133724" uid="7037" user="Gregory Williams">
-    <nd ref="1664025215"/>
-    <nd ref="1664025211"/>
-    <nd ref="1664025684"/>
-    <nd ref="1664025190"/>
-    <nd ref="1664025200"/>
-    <nd ref="1664025204"/>
-    <nd ref="1664025213"/>
-    <nd ref="1664025209"/>
-    <nd ref="1664025215"/>
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:housenumber" v="43-45"/>
-    <tag k="addr:postcode" v="CT14 6RX"/>
-    <tag k="addr:street" v="Western Road"/>
-    <tag k="amenity" v="kindergarten"/>
-    <tag k="fhrs:id" v="254208"/>
-    <tag k="name" v="New Century Nursery"/>
-  </way>
-  <way id="153756628" version="10" timestamp="2023-07-30T09:58:41Z" changeset="139202563" uid="242345" user="confusedbuffalo">
-    <nd ref="1664028917"/>
-    <nd ref="1664028916"/>
-    <nd ref="1664028914"/>
-    <nd ref="1664028906"/>
-    <nd ref="1664028902"/>
-    <nd ref="1664028904"/>
-    <nd ref="1664028903"/>
-    <nd ref="1664028905"/>
-    <nd ref="1664028907"/>
-    <nd ref="1664028908"/>
-    <nd ref="1664028909"/>
-    <nd ref="1664028910"/>
-    <nd ref="1664028911"/>
-    <nd ref="1664028912"/>
-    <nd ref="1664029394"/>
-    <nd ref="1664028913"/>
-    <nd ref="1664028915"/>
-    <nd ref="1664028917"/>
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:postcode" v="CT14 6PY"/>
-    <tag k="addr:street" v="Golf Road"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="420"/>
-    <tag k="contact:phone" v="+44 1304 374951"/>
-    <tag k="contact:website" v="http://www.sandown.kent.sch.uk/"/>
-    <tag k="fhrs:id" v="254154;619450"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Sandown School"/>
-    <tag k="ref:GB:uprn" v="100062285576"/>
-    <tag k="ref:edubase" v="147056"/>
-    <tag k="ref:edubase:group" v="17199"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="Deal Education Alliance For Learning Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="wikidata" v="Q67082928"/>
   </way>
   <way id="153760304" version="11" timestamp="2024-05-03T13:22:13Z" changeset="150837286" uid="118262" user="Wynndale">
     <nd ref="247392276"/>
@@ -8099,42 +5682,6 @@
     <tag k="name" v="Boots"/>
     <tag k="website" v="https://www.boots.com/stores/964-deal-high-street-ct14-6el"/>
   </way>
-  <way id="165277903" version="8" timestamp="2024-08-28T09:30:22Z" changeset="155870193" uid="11471297" user="Palgrave Peter">
-    <nd ref="1768345207"/>
-    <nd ref="1768345202"/>
-    <nd ref="249153404"/>
-    <nd ref="249277132"/>
-    <nd ref="1768345193"/>
-    <nd ref="12141703551"/>
-    <nd ref="12141703541"/>
-    <nd ref="1768345207"/>
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:postcode" v="CT14 9LF"/>
-    <tag k="addr:street" v="St. Richard's Road"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="210"/>
-    <tag k="contact:phone" v="+44 1304 375046"/>
-    <tag k="contact:website" v="https://www.stmarysdeal.co.uk/"/>
-    <tag k="denomination" v="roman_catholic"/>
-    <tag k="diocese" v="Archdiocese of Southwark"/>
-    <tag k="fhrs:id" v="254237"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="5"/>
-    <tag k="name" v="St Mary's Catholic Primary School"/>
-    <tag k="ref:GB:uprn" v="200001851337"/>
-    <tag k="ref:edubase" v="141065"/>
-    <tag k="ref:edubase:group" v="3594"/>
-    <tag k="religion" v="christian"/>
-    <tag k="school:boarding" v="no"/>
-    <tag k="school:gender" v="mixed"/>
-    <tag k="school:selective" v="no"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="Kent Catholic Schools' Partnership"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="wikidata" v="Q67147342"/>
-  </way>
   <way id="165287550" version="2" timestamp="2012-09-22T16:26:36Z" changeset="13209428" uid="7037" user="Gregory Williams">
     <nd ref="1768453967"/>
     <nd ref="1768453964"/>
@@ -8142,6 +5689,23 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Mill Hill Court"/>
+  </way>
+  <way id="165289406" version="3" timestamp="2020-12-17T10:42:33Z" changeset="95998620" uid="8808716" user="20180911">
+    <nd ref="1768480577"/>
+    <nd ref="1768480527"/>
+    <nd ref="1768480529"/>
+    <nd ref="1768480525"/>
+    <nd ref="1768480523"/>
+    <nd ref="1768480521"/>
+    <nd ref="1768480517"/>
+    <nd ref="8237149516"/>
+    <nd ref="1768480539"/>
+    <nd ref="1768480577"/>
+    <tag k="building" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="Tides Leisure Centre"/>
+    <tag k="sport" v="swimming"/>
   </way>
   <way id="165293706" version="4" timestamp="2024-05-02T14:19:22Z" changeset="150796483" uid="118262" user="Wynndale">
     <nd ref="1768531307"/>
@@ -8228,7 +5792,8 @@
     <tag k="smoothness" v="excellent"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="166029604" version="1" timestamp="2012-06-03T18:35:23Z" changeset="11789706" uid="7037" user="Gregory Williams">
+  <way id="166029604" version="2" timestamp="2025-04-20T09:53:11Z" changeset="165185197" uid="7037" user="Gregory Williams">
+    <nd ref="8002457010"/>
     <nd ref="1775166877"/>
     <nd ref="1775166881"/>
     <tag k="highway" v="residential"/>
@@ -8236,9 +5801,9 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="St. James Close"/>
     <tag k="source" v="survey"/>
-    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="source:name" v="survey"/>
   </way>
-  <way id="166029605" version="1" timestamp="2012-06-03T18:35:23Z" changeset="11789706" uid="7037" user="Gregory Williams">
+  <way id="166029605" version="2" timestamp="2025-04-20T09:53:11Z" changeset="165185197" uid="7037" user="Gregory Williams">
     <nd ref="249184419"/>
     <nd ref="1775166881"/>
     <nd ref="1775166883"/>
@@ -8247,7 +5812,7 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="St. James Close"/>
     <tag k="source" v="survey"/>
-    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="source:name" v="survey"/>
   </way>
   <way id="168962588" version="4" timestamp="2024-05-03T16:51:03Z" changeset="150847274" uid="4833194" user="motogs">
     <nd ref="247392437"/>
@@ -8340,13 +5905,16 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Out Downs"/>
   </way>
-  <way id="186736097" version="1" timestamp="2012-10-20T08:15:25Z" changeset="13564826" uid="7037" user="Gregory Williams">
+  <way id="186736097" version="2" timestamp="2025-04-23T07:39:43Z" changeset="165317916" uid="7037" user="Gregory Williams">
     <nd ref="1974803484"/>
+    <nd ref="12777937214"/>
     <nd ref="1974803478"/>
     <nd ref="1974803480"/>
+    <nd ref="12777937213"/>
     <nd ref="1974803482"/>
-    <nd ref="1974803476"/>
-    <nd ref="1974803471"/>
+    <nd ref="12777937212"/>
+    <nd ref="5464857500"/>
+    <nd ref="5464857501"/>
     <tag k="alt_name" v="Outdowns"/>
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="30 mph"/>
@@ -8408,51 +5976,6 @@
     <tag k="operator" v="Aldi"/>
     <tag k="shop" v="supermarket"/>
   </way>
-  <way id="212808663" version="16" timestamp="2024-07-22T23:02:47Z" changeset="154283421" uid="5008136" user="JayTurnr">
-    <nd ref="2226159499"/>
-    <nd ref="2226159595"/>
-    <nd ref="2226159699"/>
-    <nd ref="2226168559"/>
-    <nd ref="1088159324"/>
-    <nd ref="2226159652"/>
-    <nd ref="2226159693"/>
-    <nd ref="2226159542"/>
-    <nd ref="2226159727"/>
-    <nd ref="2226159573"/>
-    <nd ref="2226159689"/>
-    <nd ref="2226159616"/>
-    <nd ref="1088159232"/>
-    <nd ref="2226159721"/>
-    <nd ref="8050892102"/>
-    <nd ref="8050892141"/>
-    <nd ref="2226159606"/>
-    <nd ref="2226159610"/>
-    <nd ref="2226159536"/>
-    <nd ref="2226159499"/>
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:postcode" v="CT14 9BD"/>
-    <tag k="addr:street" v="Mill Road"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="1150"/>
-    <tag k="contact:phone" v="+44 3333602210"/>
-    <tag k="contact:website" v="http://www.castle.kent.sch.uk/"/>
-    <tag k="fhrs:id" v="1178681"/>
-    <tag k="isced:level" v="2;3"/>
-    <tag k="max_age" v="18"/>
-    <tag k="min_age" v="11"/>
-    <tag k="name" v="Goodwin Academy"/>
-    <tag k="ref:GB:uprn" v="100062286680"/>
-    <tag k="ref:edubase" v="146624"/>
-    <tag k="ref:edubase:group" v="5049"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="The Thinking Schools Academy Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="wikidata" v="Q16858384"/>
-    <tag k="wikipedia" v="en:Goodwin Academy"/>
-  </way>
   <way id="212813346" version="5" timestamp="2024-07-15T22:33:09Z" changeset="153991674" uid="21425661" user="CjMalone">
     <nd ref="2226204867"/>
     <nd ref="2226204859"/>
@@ -8500,6 +6023,21 @@
     <tag k="fhrs:id" v="664512"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Superdrug"/>
+  </way>
+  <way id="224262095" version="3" timestamp="2025-02-02T23:28:43Z" changeset="162066337" uid="21226027" user="DorneyLake123">
+    <nd ref="2330803491"/>
+    <nd ref="2330803493"/>
+    <nd ref="2330803487"/>
+    <nd ref="2330803495"/>
+    <nd ref="8184487449"/>
+    <nd ref="2330803472"/>
+    <nd ref="2330803483"/>
+    <nd ref="2330803491"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="name" v="Victoria Baptist Church"/>
+    <tag k="religion" v="christian"/>
   </way>
   <way id="224262096" version="3" timestamp="2021-01-28T23:23:21Z" changeset="98324046" uid="5008136" user="JayTurnr">
     <nd ref="8199623727"/>
@@ -10288,76 +7826,6 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Gilford Road"/>
   </way>
-  <way id="389834224" version="6" timestamp="2024-09-08T17:28:41Z" changeset="156362490" uid="11471297" user="Palgrave Peter">
-    <nd ref="3929928798"/>
-    <nd ref="3929928795"/>
-    <nd ref="3929928793"/>
-    <nd ref="3929928779"/>
-    <nd ref="3929928761"/>
-    <nd ref="3929928755"/>
-    <nd ref="3929928754"/>
-    <nd ref="3929928752"/>
-    <nd ref="1065506242"/>
-    <nd ref="1065506317"/>
-    <nd ref="1065506145"/>
-    <nd ref="1065506203"/>
-    <nd ref="1065506488"/>
-    <nd ref="1065506103"/>
-    <nd ref="1065506402"/>
-    <nd ref="1065506136"/>
-    <nd ref="1065506153"/>
-    <nd ref="1065506449"/>
-    <nd ref="3929928798"/>
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="CT14 9SF"/>
-    <tag k="addr:street" v="Birdwood Avenue"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="420"/>
-    <tag k="contact:phone" v="+44 1304 375040"/>
-    <tag k="contact:website" v="http://www.warden-house.kent.sch.uk/"/>
-    <tag k="fhrs:id" v="254500"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="5"/>
-    <tag k="name" v="Warden House Primary School"/>
-    <tag k="ref:GB:uprn" v="100062287038"/>
-    <tag k="ref:edubase" v="139186"/>
-    <tag k="ref:edubase:group" v="15750"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="Veritas Multi Academy Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="wikidata" v="Q66229827"/>
-  </way>
-  <way id="393180216" version="5" timestamp="2023-07-30T09:56:49Z" changeset="139202510" uid="242345" user="confusedbuffalo">
-    <nd ref="3963971294"/>
-    <nd ref="3963971299"/>
-    <nd ref="3963971283"/>
-    <nd ref="3963971279"/>
-    <nd ref="3963971294"/>
-    <tag k="addr:city" v="Deal"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:county" v="Kent"/>
-    <tag k="addr:housename" v="Brewood"/>
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:postcode" v="CT14 9TR"/>
-    <tag k="addr:street" v="London Road"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="45"/>
-    <tag k="contact:phone" v="+44 1304 363000"/>
-    <tag k="contact:website" v="http://www.brewoodschool.co.uk/"/>
-    <tag k="fhrs:id" v="931543"/>
-    <tag k="isced:level" v="2;3"/>
-    <tag k="max_age" v="18"/>
-    <tag k="min_age" v="11"/>
-    <tag k="name" v="Brewood Secondary School"/>
-    <tag k="ref:GB:uprn" v="100060892897"/>
-    <tag k="ref:edubase" v="119021"/>
-    <tag k="school:trust" v="no"/>
-    <tag k="school:type" v="special"/>
-    <tag k="wikidata" v="Q66226653"/>
-  </way>
   <way id="393180217" version="1" timestamp="2016-01-24T11:04:04Z" changeset="36773608" uid="7037" user="Gregory Williams">
     <nd ref="3963971297"/>
     <nd ref="3963971296"/>
@@ -10385,13 +7853,6 @@
     <tag k="addr:street" v="London Road"/>
     <tag k="building" v="school"/>
   </way>
-  <way id="567870632" version="2" timestamp="2018-03-08T15:50:15Z" changeset="57004914" uid="7726041" user="Jay Dear">
-    <nd ref="1974803482"/>
-    <nd ref="5464857500"/>
-    <nd ref="5464857501"/>
-    <tag k="highway" v="residential"/>
-    <tag k="name" v="Out Downs"/>
-  </way>
   <way id="568075177" version="3" timestamp="2023-03-17T08:53:01Z" changeset="133778971" uid="84263" user="Robert Whittaker">
     <nd ref="5466245581"/>
     <nd ref="5466245580"/>
@@ -10406,12 +7867,14 @@
     <tag k="name" v="Paydens Ltd &amp; PO"/>
     <tag k="shop" v="chemist"/>
   </way>
-  <way id="673883502" version="1" timestamp="2019-03-01T13:32:33Z" changeset="67686290" uid="8407155" user="addatla">
+  <way id="673883502" version="2" timestamp="2025-04-20T09:50:08Z" changeset="165185068" uid="7037" user="Gregory Williams">
     <nd ref="6310869369"/>
     <nd ref="6310869370"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Scholars Close"/>
   </way>
-  <way id="673883503" version="1" timestamp="2019-03-01T13:32:33Z" changeset="67686290" uid="8407155" user="addatla">
+  <way id="673883503" version="2" timestamp="2025-04-20T09:50:08Z" changeset="165185068" uid="7037" user="Gregory Williams">
     <nd ref="6310869371"/>
     <nd ref="6310869370"/>
     <nd ref="6310869372"/>
@@ -10421,6 +7884,8 @@
     <nd ref="6310869376"/>
     <nd ref="6310869377"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Scholars Close"/>
   </way>
   <way id="697517605" version="5" timestamp="2025-02-09T09:44:31Z" changeset="162306691" uid="7037" user="Gregory Williams">
     <nd ref="247387198"/>
@@ -10429,12 +7894,6 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Garden Close"/>
-  </way>
-  <way id="700113892" version="2" timestamp="2023-09-19T07:35:55Z" changeset="141454645" uid="9026132" user="PulisakZ">
-    <nd ref="6574587977"/>
-    <nd ref="6574587978"/>
-    <nd ref="6574587979"/>
-    <tag k="highway" v="residential"/>
   </way>
   <way id="701209935" version="5" timestamp="2025-02-09T09:44:31Z" changeset="162306691" uid="7037" user="Gregory Williams">
     <nd ref="6585465639"/>
@@ -10471,16 +7930,73 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Cornfield Row"/>
   </way>
-  <way id="737950707" version="1" timestamp="2019-10-23T16:28:22Z" changeset="76114935" uid="9310280" user="rsakunth">
+  <way id="737950707" version="2" timestamp="2025-04-20T09:44:47Z" changeset="165184847" uid="7037" user="Gregory Williams">
     <nd ref="247387360"/>
     <nd ref="6909806394"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="William Pitt Avenue"/>
   </way>
-  <way id="858417170" version="1" timestamp="2020-10-13T07:52:34Z" changeset="92397308" uid="10173453" user="sanganh">
-    <nd ref="8002457010"/>
-    <nd ref="1775166877"/>
-    <tag k="highway" v="residential"/>
-    <tag k="source" v="maxar"/>
+  <way id="766204794" version="2" timestamp="2024-05-06T07:13:27Z" changeset="150949645" uid="118262" user="Wynndale">
+    <nd ref="247392221"/>
+    <nd ref="7156172714"/>
+    <nd ref="7156172713"/>
+    <nd ref="7156172715"/>
+    <nd ref="247392221"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="check_date" v="2024-05-06"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St. Andrew's"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q26562263"/>
+  </way>
+  <way id="798069927" version="3" timestamp="2021-02-03T16:22:05Z" changeset="98655765" uid="281267" user="smb1001">
+    <nd ref="7464262397"/>
+    <nd ref="7464262406"/>
+    <nd ref="7464262405"/>
+    <nd ref="7464262402"/>
+    <nd ref="7464262400"/>
+    <nd ref="7464262398"/>
+    <nd ref="7464262399"/>
+    <nd ref="7464262407"/>
+    <nd ref="7464262397"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Richard"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q105092517"/>
+  </way>
+  <way id="798069928" version="1" timestamp="2020-04-29T16:52:28Z" changeset="84353213" uid="281267" user="smb1001">
+    <nd ref="7464262401"/>
+    <nd ref="7464262404"/>
+    <nd ref="7464262403"/>
+    <nd ref="7464262408"/>
+    <nd ref="7464262401"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="spiritualist"/>
+    <tag k="name" v="Deal Spiritualist Centre"/>
+    <tag k="religion" v="christian"/>
+  </way>
+  <way id="870825575" version="2" timestamp="2023-11-04T17:39:53Z" changeset="143623910" uid="504708" user="HillWithSmallFields">
+    <nd ref="249176179"/>
+    <nd ref="8111983592"/>
+    <nd ref="8111983603"/>
+    <nd ref="8111983591"/>
+    <nd ref="8111983594"/>
+    <nd ref="8111983599"/>
+    <nd ref="8111983601"/>
+    <nd ref="8111983593"/>
+    <nd ref="249176179"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Deal Parish Church of St. Leonard's"/>
+    <tag k="ref:dove" v="14389"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17557862"/>
   </way>
   <way id="879249777" version="5" timestamp="2024-07-22T22:48:49Z" changeset="154283175" uid="5008136" user="JayTurnr">
     <nd ref="1181940105"/>
@@ -10494,6 +8010,35 @@
     <tag k="name" v="Middle Street"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="879253723" version="3" timestamp="2021-03-25T21:41:14Z" changeset="101746091" uid="145231" user="woodpeck_repair">
+    <nd ref="8179527287"/>
+    <nd ref="8179527288"/>
+    <nd ref="8179527295"/>
+    <nd ref="8179527294"/>
+    <nd ref="8179527293"/>
+    <nd ref="8179527292"/>
+    <nd ref="8179527291"/>
+    <nd ref="8179527289"/>
+    <nd ref="8179527290"/>
+    <nd ref="8179527287"/>
+    <tag k="amenity" v="library"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Deal Library"/>
+    <tag k="operator" v="Kent Libraries"/>
+    <tag k="operator:type" v="public"/>
+  </way>
+  <way id="879316869" version="2" timestamp="2022-07-13T20:22:22Z" changeset="123579921" uid="1418967" user="RAC_UK">
+    <nd ref="8180003630"/>
+    <nd ref="8180003631"/>
+    <nd ref="8180003632"/>
+    <nd ref="8180003633"/>
+    <nd ref="8180003630"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="united_methodist"/>
+    <tag k="name" v="Trinity Church Deal"/>
+    <tag k="religion" v="christian"/>
   </way>
   <way id="879327183" version="3" timestamp="2021-07-15T09:58:28Z" changeset="108039394" uid="608760" user="gregrs">
     <nd ref="8168596439"/>
@@ -10690,6 +8235,25 @@
     <tag k="shop" v="variety_store"/>
     <tag k="website" v="https://www.poundstretcher.co.uk/deal-616"/>
   </way>
+  <way id="879792801" version="1" timestamp="2020-12-01T13:33:01Z" changeset="95097414" uid="10060014" user="cebab">
+    <nd ref="8184187648"/>
+    <nd ref="8184187649"/>
+    <nd ref="8184187650"/>
+    <nd ref="8184187651"/>
+    <nd ref="8184187648"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Managed Offices Rentable space"/>
+  </way>
+  <way id="879805380" version="1" timestamp="2020-12-01T14:16:40Z" changeset="95099181" uid="10060014" user="cebab">
+    <nd ref="8184303637"/>
+    <nd ref="8184303638"/>
+    <nd ref="8184303639"/>
+    <nd ref="8184303640"/>
+    <nd ref="8184303637"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Deal Signal Box"/>
+  </way>
   <way id="879821023" version="2" timestamp="2023-11-07T21:06:24Z" changeset="143754625" uid="1418967" user="RAC_UK">
     <nd ref="8184441711"/>
     <nd ref="8184441712"/>
@@ -10797,6 +8361,33 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Deal Coasguard Station"/>
   </way>
+  <way id="881977799" version="1" timestamp="2020-12-07T14:57:09Z" changeset="95429456" uid="10060014" user="cebab">
+    <nd ref="8202195359"/>
+    <nd ref="8202195360"/>
+    <nd ref="8202195361"/>
+    <nd ref="8202195362"/>
+    <nd ref="8202195359"/>
+    <tag k="building" v="yes"/>
+    <tag k="dance:teaching" v="yes"/>
+    <tag k="leisure" v="dance"/>
+    <tag k="name" v="Deal Dance Studio"/>
+  </way>
+  <way id="881977800" version="2" timestamp="2021-01-28T23:23:21Z" changeset="98324046" uid="5008136" user="JayTurnr">
+    <nd ref="8164891063"/>
+    <nd ref="8202195364"/>
+    <nd ref="8202195365"/>
+    <nd ref="8202195366"/>
+    <nd ref="8202195367"/>
+    <nd ref="8202195368"/>
+    <nd ref="8202195369"/>
+    <nd ref="8202195370"/>
+    <nd ref="8164891063"/>
+    <tag k="amenity" v="social_centre"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="St Georges Church Hall"/>
+    <tag k="operator" v="St George's Church"/>
+    <tag k="operator:type" v="religious"/>
+  </way>
   <way id="881983456" version="3" timestamp="2021-05-20T07:36:16Z" changeset="105007623" uid="6816132" user="CjMalone">
     <nd ref="8179558142"/>
     <nd ref="8202228760"/>
@@ -10886,9 +8477,11 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Court Close"/>
   </way>
-  <way id="974421802" version="5" timestamp="2021-09-04T01:24:07Z" changeset="110699912" uid="5229644" user="Nathan_A_RF">
+  <way id="974421802" version="6" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3">
     <nd ref="247929788"/>
+    <nd ref="12766626295"/>
     <nd ref="9061349332"/>
+    <nd ref="12766626294"/>
     <nd ref="247929785"/>
     <tag k="cycleway:left" v="no"/>
     <tag k="highway" v="primary"/>
@@ -10933,21 +8526,23 @@
     <tag k="name" v="Forelands Square"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="1133793784" version="3" timestamp="2024-09-25T13:59:09Z" changeset="157084741" uid="21995793" user="harrygt">
+  <way id="1133793784" version="4" timestamp="2025-04-20T09:35:41Z" changeset="165184458" uid="7037" user="Gregory Williams">
     <nd ref="10570292907"/>
     <nd ref="10570292892"/>
     <nd ref="10570292891"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Lydden Close"/>
   </way>
-  <way id="1133793786" version="3" timestamp="2024-09-25T13:59:09Z" changeset="157084741" uid="21995793" user="harrygt">
+  <way id="1133793786" version="4" timestamp="2025-04-20T09:35:41Z" changeset="165184458" uid="7037" user="Gregory Williams">
     <nd ref="10570292900"/>
     <nd ref="10570292898"/>
     <nd ref="10570292899"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Poplar Drive"/>
   </way>
-  <way id="1133793787" version="3" timestamp="2024-09-25T13:59:09Z" changeset="157084741" uid="21995793" user="harrygt">
+  <way id="1133793787" version="4" timestamp="2025-04-20T09:35:41Z" changeset="165184458" uid="7037" user="Gregory Williams">
     <nd ref="245944424"/>
     <nd ref="10570292907"/>
     <nd ref="10570292893"/>
@@ -10966,6 +8561,7 @@
     <nd ref="10570292901"/>
     <nd ref="6542473547"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Court Marsh Road"/>
   </way>
   <way id="1134051234" version="1" timestamp="2023-01-21T15:14:53Z" changeset="131544539" uid="11611908" user="devasen">
@@ -11019,28 +8615,6 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Wyse Close"/>
-  </way>
-  <way id="1190975884" version="5" timestamp="2024-05-05T13:25:48Z" changeset="150919944" uid="118262" user="Wynndale">
-    <nd ref="11058107558"/>
-    <nd ref="11058107557"/>
-    <nd ref="11058107554"/>
-    <nd ref="11058107556"/>
-    <nd ref="11058107553"/>
-    <nd ref="11058107555"/>
-    <nd ref="11058107550"/>
-    <nd ref="11058107552"/>
-    <nd ref="11058107549"/>
-    <nd ref="11058107551"/>
-    <tag k="highway" v="residential"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-  <way id="1208992467" version="1" timestamp="2023-09-19T07:35:55Z" changeset="141454645" uid="9026132" user="PulisakZ">
-    <nd ref="6574587974"/>
-    <nd ref="6574587975"/>
-    <nd ref="6574587976"/>
-    <nd ref="6574587977"/>
-    <tag k="highway" v="residential"/>
-    <tag k="name" v="Alexandra Drive"/>
   </way>
   <way id="1268435025" version="1" timestamp="2024-04-02T17:58:27Z" changeset="149493233" uid="20103" user="I like cats">
     <nd ref="11780936479"/>
@@ -11110,9 +8684,8 @@
     <tag k="name" v="London Road"/>
     <tag k="ref" v="A258"/>
   </way>
-  <way id="1274661039" version="4" timestamp="2024-05-02T15:03:24Z" changeset="150798030" uid="118262" user="Wynndale">
+  <way id="1274661039" version="5" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3">
     <nd ref="247392283"/>
-    <nd ref="1182555840"/>
     <nd ref="247392284"/>
     <nd ref="247929754"/>
     <nd ref="1182555828"/>
@@ -11128,10 +8701,21 @@
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1274661040" version="3" timestamp="2024-05-02T15:02:30Z" changeset="150798030" uid="118262" user="Wynndale">
+  <way id="1274661040" version="4" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3">
     <nd ref="247392283"/>
     <nd ref="1181939986"/>
+    <nd ref="12766626287"/>
+    <nd ref="12766626286"/>
+    <nd ref="12766626285"/>
+    <nd ref="12766626284"/>
+    <nd ref="12766626283"/>
+    <nd ref="12766626282"/>
+    <nd ref="12766626281"/>
     <nd ref="33452617"/>
+    <nd ref="12766626280"/>
+    <nd ref="12766626279"/>
+    <nd ref="12766626278"/>
+    <nd ref="12766626277"/>
     <nd ref="247929779"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
@@ -11141,8 +8725,9 @@
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1274661041" version="4" timestamp="2024-05-02T15:01:50Z" changeset="150798030" uid="118262" user="Wynndale">
+  <way id="1274661041" version="5" timestamp="2025-04-18T18:28:48Z" changeset="165126020" uid="22365775" user="jajanja3">
     <nd ref="247929779"/>
+    <nd ref="12766626288"/>
     <nd ref="33452618"/>
     <tag k="cycleway:both" v="no"/>
     <tag k="highway" v="primary"/>
@@ -11259,7 +8844,7 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Western Road"/>
   </way>
-  <way id="1279900550" version="2" timestamp="2024-05-05T13:26:04Z" changeset="150919944" uid="118262" user="Wynndale">
+  <way id="1279900550" version="3" timestamp="2025-04-23T07:43:48Z" changeset="165318112" uid="7037" user="Gregory Williams">
     <nd ref="11058107551"/>
     <nd ref="11058107547"/>
     <nd ref="11058107548"/>
@@ -11267,6 +8852,7 @@
     <nd ref="11058107546"/>
     <nd ref="247392444"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Canute Walk"/>
     <tag k="surface" v="asphalt"/>
   </way>
@@ -11296,18 +8882,27 @@
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1318119536" version="1" timestamp="2024-09-25T13:59:09Z" changeset="157084741" uid="21995793" user="harrygt">
+  <way id="1318119535" version="2" timestamp="2025-04-20T09:35:41Z" changeset="165184458" uid="7037" user="Gregory Williams">
+    <nd ref="10570292898"/>
+    <nd ref="12199116038"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Droveway"/>
+  </way>
+  <way id="1318119536" version="2" timestamp="2025-04-20T09:35:41Z" changeset="165184458" uid="7037" user="Gregory Williams">
     <nd ref="12199116039"/>
     <nd ref="12199116045"/>
     <nd ref="12199116040"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Wallers Road"/>
   </way>
-  <way id="1318119539" version="1" timestamp="2024-09-25T13:59:09Z" changeset="157084741" uid="21995793" user="harrygt">
+  <way id="1318119539" version="2" timestamp="2025-04-20T09:35:41Z" changeset="165184458" uid="7037" user="Gregory Williams">
     <nd ref="12199116046"/>
     <nd ref="12199116047"/>
     <nd ref="12199116048"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Quinn Close"/>
   </way>
   <way id="1358301941" version="1" timestamp="2025-02-09T09:44:31Z" changeset="162306691" uid="7037" user="Gregory Williams">
@@ -11319,6 +8914,105 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Court Close"/>
+  </way>
+  <way id="1379080995" version="1" timestamp="2025-04-20T09:53:11Z" changeset="165185197" uid="7037" user="Gregory Williams">
+    <nd ref="1775166877"/>
+    <nd ref="12770041765"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="St. James Close"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="1379081780" version="1" timestamp="2025-04-20T09:58:16Z" changeset="165185459" uid="7037" user="Gregory Williams">
+    <nd ref="12770073241"/>
+    <nd ref="12770073227"/>
+    <nd ref="12770073226"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Jute Fields"/>
+  </way>
+  <way id="1379081781" version="1" timestamp="2025-04-20T09:58:16Z" changeset="165185459" uid="7037" user="Gregory Williams">
+    <nd ref="12770073229"/>
+    <nd ref="12770073228"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Jute Fields"/>
+  </way>
+  <way id="1379081782" version="1" timestamp="2025-04-20T09:58:16Z" changeset="165185459" uid="7037" user="Gregory Williams">
+    <nd ref="12770073231"/>
+    <nd ref="12770073230"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Jute Fields"/>
+  </way>
+  <way id="1379081783" version="1" timestamp="2025-04-20T09:58:16Z" changeset="165185459" uid="7037" user="Gregory Williams">
+    <nd ref="12770073251"/>
+    <nd ref="12770073250"/>
+    <nd ref="12770073249"/>
+    <nd ref="12770073248"/>
+    <nd ref="12770073247"/>
+    <nd ref="12770073246"/>
+    <nd ref="12770073245"/>
+    <nd ref="12770073244"/>
+    <nd ref="12770073243"/>
+    <nd ref="12770073242"/>
+    <nd ref="12770073241"/>
+    <nd ref="12770073240"/>
+    <nd ref="12770073239"/>
+    <nd ref="12770073238"/>
+    <nd ref="12770073237"/>
+    <nd ref="12770073231"/>
+    <nd ref="12770073236"/>
+    <nd ref="12770073228"/>
+    <nd ref="12770073235"/>
+    <nd ref="12770073234"/>
+    <nd ref="12770073233"/>
+    <nd ref="12770073232"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Jute Fields"/>
+  </way>
+  <way id="1379084727" version="1" timestamp="2025-04-20T10:10:14Z" changeset="165186025" uid="7037" user="Gregory Williams">
+    <nd ref="12770097314"/>
+    <nd ref="12770097313"/>
+    <nd ref="12770097312"/>
+    <nd ref="12770097311"/>
+    <nd ref="12770097310"/>
+    <nd ref="12770097309"/>
+    <nd ref="12770097308"/>
+    <nd ref="12770097307"/>
+    <nd ref="12770097306"/>
+    <nd ref="12770097305"/>
+    <nd ref="12770097304"/>
+    <nd ref="12770097303"/>
+    <nd ref="12770097302"/>
+    <nd ref="12770097301"/>
+    <nd ref="12770095900"/>
+    <nd ref="12770095899"/>
+    <nd ref="12770095898"/>
+    <nd ref="12770095897"/>
+    <nd ref="12770095896"/>
+    <nd ref="12770095895"/>
+    <nd ref="12770097314"/>
+    <tag k="addr:city" v="Deal"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="227"/>
+    <tag k="addr:postcode" v="CT14 9LF"/>
+    <tag k="addr:street" v="St. Richard's Road"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="St. Richard's Road Surgery"/>
+    <tag k="website" v="https://www.strichardsroadsurgery.nhs.uk/"/>
+  </way>
+  <way id="1380200968" version="1" timestamp="2025-04-23T07:39:43Z" changeset="165317916" uid="7037" user="Gregory Williams">
+    <nd ref="1974803482"/>
+    <nd ref="1974803471"/>
+    <tag k="alt_name" v="Outdowns"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Out Downs"/>
   </way>
 
 </osm>

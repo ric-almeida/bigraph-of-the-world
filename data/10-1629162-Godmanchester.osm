@@ -1,430 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:10:10Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:43:30Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="215660" lat="52.3114608" lon="-0.1274696" version="4" timestamp="2021-08-20T16:58:19Z" changeset="109997662" uid="84263" user="Robert Whittaker">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="layer" v="3"/>
-    <tag k="old_ref" v="25"/>
-  </node>
-  <node id="20938820" lat="52.3032658" lon="-0.0939350" version="7" timestamp="2023-11-02T15:29:44Z" changeset="143535804" uid="2773866" user="kreuzschnabel"/>
+  <node id="2759918" lat="52.3163167" lon="-0.1499360" version="4" timestamp="2011-12-28T17:29:57Z" changeset="10228223" uid="28024" user="dbisping"/>
   <node id="24978054" lat="52.3275001" lon="-0.1779404" version="6" timestamp="2023-10-13T09:12:16Z" changeset="142513455" uid="10420541" user="Thingummy"/>
-  <node id="24978254" lat="52.2931462" lon="-0.2104132" version="5" timestamp="2024-12-31T15:47:10Z" changeset="160838692" uid="5229644" user="Nathan_A_RF">
-    <tag k="traffic_calming" v="chicane"/>
-  </node>
-  <node id="60751236" lat="52.3107802" lon="-0.1234850" version="8" timestamp="2025-01-13T12:40:12Z" changeset="161308188" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="layer" v="3"/>
-    <tag k="old_ref" v="25"/>
-  </node>
-  <node id="243493657" lat="52.3025425" lon="-0.0906100" version="7" timestamp="2023-11-02T15:29:44Z" changeset="143535804" uid="2773866" user="kreuzschnabel">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="layer" v="3"/>
-    <tag k="old_ref" v="26"/>
-  </node>
+  <node id="306474295" lat="52.3262332" lon="-0.1786901" version="2" timestamp="2017-01-23T21:32:06Z" changeset="45413653" uid="2773866" user="kreuzschnabel"/>
   <node id="306474297" lat="52.3265717" lon="-0.1801083" version="6" timestamp="2023-09-09T08:59:59Z" changeset="141015442" uid="10420541" user="Thingummy"/>
-  <node id="306474299" lat="52.3264820" lon="-0.1802267" version="4" timestamp="2023-09-09T08:59:59Z" changeset="141015442" uid="10420541" user="Thingummy"/>
-  <node id="313724588" lat="52.3123019" lon="-0.1327439" version="3" timestamp="2017-01-23T21:32:07Z" changeset="45413653" uid="2773866" user="kreuzschnabel"/>
-  <node id="339681409" lat="52.3172980" lon="-0.1746590" version="8" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housename" v="Surgery"/>
-    <tag k="addr:housenumber" v="1a"/>
-    <tag k="addr:postcode" v="PE29 2JH"/>
-    <tag k="addr:street" v="Pinfold Lane"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="doctors"/>
-    <tag k="healthcare" v="doctor"/>
-    <tag k="healthcare:speciality" v="general"/>
-    <tag k="name" v="Roman Gate Surgery"/>
-    <tag k="opening_hours" v="Mo-Fr 08:30-13:00,14:00-18:00"/>
-    <tag k="operator" v="The Hicks Group"/>
-    <tag k="phone" v="+441480 455331"/>
-    <tag k="website" v="https://www.charleshicksmedicalcentre.nhs.uk/"/>
-  </node>
-  <node id="339681420" lat="52.3190562" lon="-0.1733906" version="5" timestamp="2024-01-17T12:04:01Z" changeset="146361124" uid="10420541" user="Thingummy">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:postcode" v="PE29 2AY"/>
-    <tag k="addr:street" v="Cambridge Street"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="418696"/>
-    <tag k="name" v="The Comrades Club"/>
-  </node>
-  <node id="339681422" lat="52.3186614" lon="-0.1750436" version="5" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="PE29 2HA"/>
-    <tag k="addr:street" v="The Causeway"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="340955"/>
-    <tag k="name" v="The Royal Oak"/>
-    <tag k="wikidata" v="Q26455145"/>
-  </node>
-  <node id="339681424" lat="52.3185818" lon="-0.1750093" version="7" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="PE29 2HA"/>
-    <tag k="addr:street" v="The Causeway"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="burger;fish_and_chips;kebab"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="fhrs:id" v="1297410"/>
-    <tag k="name" v="Riverside Fish &amp; Chips"/>
-    <tag k="post:city" v="Huntingdon"/>
-    <tag k="takeaway" v="yes"/>
-  </node>
-  <node id="339681425" lat="52.3178606" lon="-0.1749064" version="6" timestamp="2024-09-16T18:43:36Z" changeset="156701170" uid="21425661" user="CjMalone">
-    <tag k="addr:district" v="Huntingdon"/>
-    <tag k="addr:street" v="Causeway"/>
-    <tag k="addr:town" v="Godmanchester"/>
-    <tag k="brand" v="One Stop"/>
-    <tag k="brand:wikidata" v="Q65954217"/>
-    <tag k="check_date" v="2023-05-30"/>
-    <tag k="name" v="One Stop"/>
-    <tag k="old_addr:street" v="The Causeway"/>
-    <tag k="post:city" v="Huntingdon"/>
-    <tag k="shop" v="convenience"/>
-  </node>
-  <node id="339681578" lat="52.3203197" lon="-0.1757626" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="PE29 2BA"/>
-    <tag k="addr:street" v="Post Street"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="fhrs:id" v="341234"/>
-    <tag k="name" v="Cinta"/>
-  </node>
-  <node id="1001131070" lat="52.3071424" lon="-0.1103526" version="2" timestamp="2017-01-23T21:32:08Z" changeset="45413653" uid="2773866" user="kreuzschnabel"/>
-  <node id="1223167428" lat="52.3062043" lon="-0.1062873" version="4" timestamp="2022-02-11T10:51:22Z" changeset="117282530" uid="669183" user="Andy_W"/>
-  <node id="2390127724" lat="52.3195300" lon="-0.1732571" version="3" timestamp="2021-10-12T17:48:30Z" changeset="112428667" uid="10633286" user="Moorit">
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Orchard Way"/>
-    <tag k="entrance" v="yes"/>
+  <node id="3324820370" lat="52.2930737" lon="-0.1569892" version="12" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Ermine Street"/>
+    <tag k="ref" v="23"/>
   </node>
   <node id="3786122854" lat="52.3000562" lon="-0.0796684" version="1" timestamp="2015-10-14T13:35:17Z" changeset="34633336" uid="281267" user="smb1001"/>
-  <node id="4319288072" lat="52.3006448" lon="-0.1864042" version="2" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2LD"/>
-    <tag k="addr:street" v="Offord Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="name" v="Wyboston Farm"/>
-    <tag k="place" v="farm"/>
-  </node>
-  <node id="4323280393" lat="52.2942265" lon="-0.1562897" version="2" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2LJ"/>
-    <tag k="addr:street" v="London Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="name" v="Depden Farm"/>
-    <tag k="place" v="farm"/>
-  </node>
-  <node id="4324894668" lat="52.2882615" lon="-0.1518664" version="2" timestamp="2024-04-28T17:22:06Z" changeset="150628902" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 9PA"/>
-    <tag k="addr:street" v="Ermine Street"/>
-    <tag k="name" v="Depden Lodge Farm"/>
-    <tag k="place" v="farm"/>
-  </node>
+  <node id="4584305908" lat="52.2897759" lon="-0.1475893" version="4" timestamp="2021-07-09T17:57:33Z" changeset="107719667" uid="5173844" user="ndrw6"/>
   <node id="4584305930" lat="52.2994385" lon="-0.2094296" version="7" timestamp="2022-01-05T07:58:04Z" changeset="115784275" uid="11211647" user="wermak"/>
-  <node id="4584305934" lat="52.2993045" lon="-0.2094725" version="8" timestamp="2024-01-09T10:14:12Z" changeset="146060360" uid="5229644" user="Nathan_A_RF"/>
-  <node id="4751235422" lat="52.2830253" lon="-0.1426084" version="2" timestamp="2021-07-09T17:57:33Z" changeset="107719667" uid="5173844" user="ndrw6"/>
-  <node id="6211196143" lat="52.3122618" lon="-0.1632954" version="9" timestamp="2024-04-09T08:47:50Z" changeset="149765403" uid="10420541" user="Thingummy">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:county" v="Cambridgeshire"/>
-    <tag k="addr:housename" v="King James Retail Centre"/>
-    <tag k="addr:postcode" v="PE29 2PA"/>
-    <tag k="addr:street" v="Ermine Street"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="addr:unit" v="4"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="fish_and_chips"/>
-    <tag k="fhrs:id" v="1060902"/>
-    <tag k="name" v="Rumbles Fish Bar"/>
-  </node>
-  <node id="10062599039" lat="52.3136338" lon="-0.1549245" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:postcode" v="PE29 2PB"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="10062599040" lat="52.3135843" lon="-0.1549604" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:postcode" v="PE29 2PB"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="10062599043" lat="52.3135756" lon="-0.1550312" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:postcode" v="PE29 2PB"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="entrance" v="yes"/>
-  </node>
-  <node id="10075678792" lat="52.3124273" lon="-0.1564507" version="2" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:village" v="Godmanchester"/>
-  </node>
-  <node id="10075678793" lat="52.3124420" lon="-0.1563380" version="2" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:village" v="Godmanchester"/>
-  </node>
-  <node id="10075678794" lat="52.3127837" lon="-0.1561239" version="2" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:village" v="Godmanchester"/>
-  </node>
-  <node id="10075678795" lat="52.3127545" lon="-0.1561471" version="2" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:village" v="Godmanchester"/>
-  </node>
-  <node id="10075678797" lat="52.3126891" lon="-0.1561764" version="2" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:village" v="Godmanchester"/>
-    <tag k="entrance" v="yes"/>
-  </node>
-  <node id="10075678798" lat="52.3129583" lon="-0.1561326" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="PE29 2BE"/>
-    <tag k="addr:street" v="Reeve Way"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="10075678799" lat="52.3129428" lon="-0.1560900" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="PE29 2BE"/>
-    <tag k="addr:street" v="Reeve Way"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="10075678800" lat="52.3129608" lon="-0.1561888" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="PE29 2BE"/>
-    <tag k="addr:street" v="Reeve Way"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="entrance" v="yes"/>
-  </node>
-  <node id="10075678802" lat="52.3129113" lon="-0.1560568" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="PE29 2BE"/>
-    <tag k="addr:street" v="Reeve Way"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="entrance" v="yes"/>
-  </node>
-  <node id="10075678803" lat="52.3129479" lon="-0.1559652" version="2" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="65"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:village" v="Godmanchester"/>
-  </node>
-  <node id="10075678804" lat="52.3129205" lon="-0.1559920" version="2" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:village" v="Godmanchester"/>
-  </node>
-  <node id="10075678806" lat="52.3130010" lon="-0.1558760" version="2" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="67"/>
-    <tag k="addr:street" v="Doherty Road"/>
-    <tag k="addr:village" v="Godmanchester"/>
-    <tag k="entrance" v="yes"/>
-  </node>
-  <node id="10940545744" lat="52.3178687" lon="-0.1748291" version="4" timestamp="2024-08-28T13:04:31Z" changeset="155879632" uid="21425661" user="CjMalone">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2HA"/>
-    <tag k="addr:street" v="Causeway"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="brand" v="Post Office"/>
-    <tag k="brand:wikidata" v="Q1783168"/>
-    <tag k="check_date" v="2013-07-14"/>
-    <tag k="name" v="Godmanchester Post Office"/>
-    <tag k="operator" v="One Stop"/>
-    <tag k="operator:wikidata" v="Q65954217"/>
-    <tag k="ref:pol_id" v="11477"/>
-    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/2862301/godmanchester"/>
-  </node>
-  <node id="11055550531" lat="52.3167435" lon="-0.1609696" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="PE29 2FF"/>
-    <tag k="addr:street" v="Russet Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055550533" lat="52.3171614" lon="-0.1606937" version="2" timestamp="2023-07-19T21:53:39Z" changeset="138736657" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Ermine Street"/>
-  </node>
-  <node id="11055550534" lat="52.3169086" lon="-0.1608912" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:postcode" v="PE29 2FE"/>
-    <tag k="addr:street" v="Ermine Street"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055550537" lat="52.3175326" lon="-0.1606643" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="PE29 2FF"/>
-    <tag k="addr:street" v="Russet Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055652894" lat="52.3143840" lon="-0.1628684" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="PE29 2FE"/>
-    <tag k="addr:street" v="Ermine Street"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055652895" lat="52.3137179" lon="-0.1633920" version="2" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:postcode" v="PE29 2FE"/>
-    <tag k="addr:street" v="Ermine Street"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055652896" lat="52.3147943" lon="-0.1625285" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="PE29 2FG"/>
-    <tag k="addr:street" v="Pippin Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055652898" lat="52.3148733" lon="-0.1628269" version="5" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:postcode" v="PE29 2FG"/>
-    <tag k="addr:street" v="Pippin Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055652899" lat="52.3135750" lon="-0.1635041" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="PE29 2FG"/>
-    <tag k="addr:street" v="Pippin Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055652901" lat="52.3136073" lon="-0.1636260" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="PE29 2FG"/>
-    <tag k="addr:street" v="Pippin Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055652902" lat="52.3174475" lon="-0.1603743" version="2" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="PE29 2FF"/>
-    <tag k="addr:street" v="Russet Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11055652903" lat="52.3168144" lon="-0.1612212" version="2" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="PE29 2FF"/>
-    <tag k="addr:street" v="Russet Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11057304994" lat="52.3145210" lon="-0.1627014" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="PE29 2FG"/>
-    <tag k="addr:street" v="Russett Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11057304996" lat="52.3145789" lon="-0.1629000" version="5" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="PE29 2FG"/>
-    <tag k="addr:street" v="Pippin Close"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-  </node>
-  <node id="11094191014" lat="52.3189531" lon="-0.1698283" version="1" timestamp="2023-08-06T20:10:22Z" changeset="139531184" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Cambridge Street"/>
-  </node>
-  <node id="11094191015" lat="52.3190066" lon="-0.1686395" version="1" timestamp="2023-08-06T20:10:22Z" changeset="139531184" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Cambridge Road"/>
-  </node>
-  <node id="11094191021" lat="52.3190696" lon="-0.1713985" version="1" timestamp="2023-08-06T20:10:22Z" changeset="139531184" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Cambridge Street"/>
-  </node>
+  <node id="4584305940" lat="52.2909858" lon="-0.1479471" version="4" timestamp="2024-09-29T15:46:03Z" changeset="157260374" uid="2773866" user="kreuzschnabel"/>
+  <node id="4584305978" lat="52.2988289" lon="-0.2029750" version="5" timestamp="2025-03-15T17:18:09Z" changeset="163660433" uid="953779" user="Adam Edwards"/>
   <node id="11094191022" lat="52.3190978" lon="-0.1749896" version="3" timestamp="2024-05-22T08:25:04Z" changeset="151662514" uid="21226027" user="DorneyLake123">
     <tag k="addr:housenumber" v="4a"/>
     <tag k="addr:street" v="Causeway"/>
     <tag k="building" v="terrace"/>
-  </node>
-  <node id="11094191023" lat="52.3190618" lon="-0.1749896" version="2" timestamp="2023-08-08T09:45:28Z" changeset="139604246" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Causeway"/>
-    <tag k="shop" v="kitchen"/>
-  </node>
-  <node id="11094191026" lat="52.3191434" lon="-0.1749943" version="1" timestamp="2023-08-06T20:10:22Z" changeset="139531184" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Causeway"/>
-    <tag k="disused:shop" v="yes"/>
-  </node>
-  <node id="11097273586" lat="52.3084029" lon="-0.1620945" version="1" timestamp="2023-08-07T15:35:23Z" changeset="139571337" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Dexter Ckose"/>
-  </node>
-  <node id="11097273587" lat="52.3080723" lon="-0.1611142" version="1" timestamp="2023-08-07T15:35:23Z" changeset="139571337" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Dexter Close"/>
-  </node>
-  <node id="11151942866" lat="52.3195461" lon="-0.1745944" version="1" timestamp="2023-08-28T23:30:59Z" changeset="140516031" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Chadley Lane"/>
-  </node>
-  <node id="11151942867" lat="52.3198607" lon="-0.1744376" version="1" timestamp="2023-08-28T23:30:59Z" changeset="140516031" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Chadley Lane"/>
-  </node>
-  <node id="11191399415" lat="52.3118867" lon="-0.1699301" version="2" timestamp="2023-09-14T18:55:44Z" changeset="141272229" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="Buttermel Close"/>
-  </node>
-  <node id="11191399418" lat="52.3119582" lon="-0.1704479" version="1" timestamp="2023-09-14T18:32:44Z" changeset="141271484" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:street" v="Buttermel Close"/>
-  </node>
-  <node id="11191399420" lat="52.3115882" lon="-0.1691655" version="1" timestamp="2023-09-14T18:32:44Z" changeset="141271484" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Brick Kilns"/>
-  </node>
-  <node id="11191399423" lat="52.3114427" lon="-0.1700175" version="1" timestamp="2023-09-14T18:32:44Z" changeset="141271484" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="Brick Kilns"/>
-  </node>
-  <node id="11274148576" lat="52.3179660" lon="-0.1717200" version="1" timestamp="2023-10-19T10:06:18Z" changeset="142805976" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:street" v="New Street"/>
-  </node>
-  <node id="11274148577" lat="52.3182313" lon="-0.1714831" version="1" timestamp="2023-10-19T10:06:18Z" changeset="142805976" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:street" v="New Street"/>
   </node>
   <node id="11318382188" lat="52.3139343" lon="-0.1614987" version="2" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
     <tag k="addr:city" v="Huntingdon"/>
@@ -436,7 +32,6 @@
     <tag k="building:material" v="brick"/>
     <tag k="house" v="semi-detached"/>
   </node>
-  <node id="12601791677" lat="52.2919837" lon="-0.1006546" version="1" timestamp="2025-02-19T20:43:07Z" changeset="162716806" uid="10420541" user="Thingummy"/>
   <node id="12601791678" lat="52.2918620" lon="-0.1008923" version="1" timestamp="2025-02-19T20:43:07Z" changeset="162716806" uid="10420541" user="Thingummy"/>
   <way id="4214690" version="24" timestamp="2025-01-08T23:45:49Z" changeset="161151742" uid="10420541" user="Thingummy">
     <nd ref="1863997321"/>
@@ -684,37 +279,35 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="11278128" version="20" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="11278128" version="21" timestamp="2025-04-23T10:56:53Z" changeset="165327190" uid="22685556" user="AH9999">
     <nd ref="100131886"/>
     <nd ref="20938803"/>
     <tag k="bridge" v="yes"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="11278129" version="29" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="11278129" version="30" timestamp="2025-04-23T10:56:53Z" changeset="165327190" uid="22685556" user="AH9999">
     <nd ref="100131889"/>
     <nd ref="11170918545"/>
     <tag k="alt_name" v="Cambridge Road"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
@@ -741,19 +334,18 @@
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="11278133" version="22" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="11278133" version="23" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="100131888"/>
     <nd ref="1565616274"/>
     <nd ref="242767179"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
@@ -833,64 +425,61 @@
     <tag k="maxspeed:type" v="sign"/>
     <tag k="oneway" v="yes"/>
   </way>
-  <way id="22634451" version="17" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="22634451" version="18" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="242767179"/>
     <nd ref="215654"/>
     <tag k="bridge" v="yes"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="22634452" version="23" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="22634452" version="24" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="250547876"/>
     <nd ref="1565616172"/>
     <nd ref="100131886"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="22634453" version="17" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="22634453" version="18" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="2760029"/>
     <nd ref="242767176"/>
     <tag k="bridge" v="yes"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="22634454" version="25" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="22634454" version="26" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="215654"/>
     <nd ref="4626751486"/>
     <nd ref="2146289746"/>
@@ -902,14 +491,13 @@
     <nd ref="215635"/>
     <nd ref="1035266788"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
@@ -1012,21 +600,21 @@
     <tag k="oneway" v="yes"/>
     <tag k="sidewalk" v="no"/>
   </way>
-  <way id="27919013" version="22" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="27919013" version="23" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="306474295"/>
     <nd ref="4626749857"/>
     <nd ref="4626749860"/>
     <nd ref="306474299"/>
     <tag k="bridge" v="yes"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="maxweight:signed" v="no"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
@@ -1034,42 +622,41 @@
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="27919015" version="19" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="27919015" version="20" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="306474297"/>
     <nd ref="4626749859"/>
     <nd ref="4626749858"/>
     <nd ref="306474296"/>
     <tag k="bridge" v="yes"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="27919016" version="24" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="27919016" version="25" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="306474296"/>
     <nd ref="1565653519"/>
     <nd ref="9609904854"/>
     <nd ref="9609904855"/>
     <nd ref="2760034"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
@@ -1138,7 +725,7 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="27928966" version="25" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="27928966" version="26" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="2760034"/>
     <nd ref="1565653500"/>
     <nd ref="306561924"/>
@@ -1146,22 +733,21 @@
     <nd ref="306561923"/>
     <tag k="bridge" v="viaduct"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="27928967" version="21" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="27928967" version="22" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="306561923"/>
     <nd ref="1565653488"/>
     <nd ref="1565653515"/>
@@ -1172,21 +758,20 @@
     <nd ref="25318481"/>
     <nd ref="1035266825"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="27928968" version="26" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="27928968" version="27" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="306561922"/>
     <nd ref="1565653474"/>
     <nd ref="306561921"/>
@@ -1194,15 +779,14 @@
     <nd ref="215634"/>
     <tag k="bridge" v="viaduct"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="maxweight:signed" v="no"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
@@ -1806,7 +1390,7 @@
     <tag k="name" v="Cambridge Villas"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="28560765" version="7" timestamp="2024-12-27T21:08:40Z" changeset="160692793" uid="12667551" user="Neil James Tarrant">
+  <way id="28560765" version="8" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="313751614"/>
     <nd ref="8868226180"/>
     <nd ref="313751950"/>
@@ -1819,16 +1403,18 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Cardinal Way"/>
     <tag k="source:name" v="dictaphone"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="28560767" version="4" timestamp="2024-05-19T15:43:30Z" changeset="151540248" uid="10420541" user="Thingummy">
+  <way id="28560767" version="5" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="313751616"/>
     <nd ref="313751621"/>
     <nd ref="313751623"/>
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Chester Way"/>
     <tag k="source:name" v="dictaphone"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="28560768" version="5" timestamp="2024-04-09T21:37:09Z" changeset="149795669" uid="5229644" user="Nathan_A_RF">
+  <way id="28560768" version="6" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="313751637"/>
     <nd ref="8868226183"/>
     <nd ref="313751636"/>
@@ -1843,6 +1429,7 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Centurion Way"/>
     <tag k="source:name" v="dictaphone"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="28560776" version="5" timestamp="2025-01-08T23:45:49Z" changeset="161151742" uid="10420541" user="Thingummy">
     <nd ref="313751673"/>
@@ -2294,27 +1881,6 @@
     <tag k="name" v="Bayliss"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="28560854" version="13" timestamp="2024-12-29T23:41:26Z" changeset="160771676" uid="10420541" user="Thingummy">
-    <nd ref="313751998"/>
-    <nd ref="313752007"/>
-    <nd ref="313751999"/>
-    <nd ref="313752000"/>
-    <nd ref="313752002"/>
-    <nd ref="313752003"/>
-    <nd ref="10827041184"/>
-    <nd ref="313752005"/>
-    <nd ref="313751998"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2WW"/>
-    <tag k="addr:street" v="London Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="school"/>
-    <tag k="fhrs:id" v="1083862"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="name" v="St Anne's Church of England Primary School"/>
-    <tag k="ref:edubase" v="131238"/>
-    <tag k="wikidata" v="Q67149306"/>
-  </way>
   <way id="28560858" version="26" timestamp="2024-12-30T12:46:59Z" changeset="160790598" uid="10420541" user="Thingummy">
     <nd ref="339681385"/>
     <nd ref="339680585"/>
@@ -2444,21 +2010,20 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="28560867" version="23" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="28560867" version="24" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="215634"/>
     <nd ref="9609904857"/>
     <nd ref="9609904856"/>
     <nd ref="1565653502"/>
     <nd ref="306474295"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
@@ -3251,26 +2816,25 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="89200689" version="18" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="89200689" version="19" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="1035266788"/>
     <nd ref="1035266827"/>
     <tag k="bridge" v="yes"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="89200690" version="19" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="89200690" version="20" timestamp="2025-04-23T10:56:53Z" changeset="165327190" uid="22685556" user="AH9999">
     <nd ref="1035266672"/>
     <nd ref="100131889"/>
     <tag k="bridge" v="yes"/>
@@ -3281,51 +2845,49 @@
     <tag k="lanes" v="2"/>
     <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="89200691" version="19" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="89200691" version="20" timestamp="2025-04-23T10:56:53Z" changeset="165327190" uid="22685556" user="AH9999">
     <nd ref="20938803"/>
     <nd ref="1035266672"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="89200693" version="19" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="89200693" version="20" timestamp="2025-04-23T10:56:53Z" changeset="165327190" uid="22685556" user="AH9999">
     <nd ref="20938804"/>
     <nd ref="100131888"/>
     <tag k="bridge" v="yes"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="89200694" version="20" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="89200694" version="21" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="1035266827"/>
     <nd ref="25318480"/>
     <nd ref="4626749853"/>
@@ -3336,14 +2898,13 @@
     <nd ref="1035266670"/>
     <nd ref="306561922"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
@@ -3351,36 +2912,34 @@
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="89200695" version="18" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="89200695" version="19" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="1035266825"/>
     <nd ref="1035266676"/>
     <tag k="bridge" v="yes"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="89200696" version="21" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="89200696" version="22" timestamp="2025-04-23T10:56:53Z" changeset="165327190" uid="22685556" user="AH9999">
     <nd ref="1035266763"/>
     <nd ref="20938804"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
@@ -3417,7 +2976,7 @@
     <tag k="oneway" v="yes"/>
     <tag k="ref" v="A1198"/>
   </way>
-  <way id="89200701" version="20" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="89200701" version="21" timestamp="2025-04-23T10:54:13Z" changeset="165327067" uid="22685556" user="AH9999">
     <nd ref="1035266676"/>
     <nd ref="2760033"/>
     <nd ref="4626749850"/>
@@ -3429,35 +2988,60 @@
     <nd ref="4626751485"/>
     <nd ref="2760029"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="foot" v="no"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
     <tag k="ref" v="A1307"/>
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
   </way>
-  <way id="98352312" version="6" timestamp="2016-08-08T14:13:14Z" changeset="41325453" uid="2983218" user="LovenOutdoors">
-    <nd ref="1137853403"/>
-    <nd ref="1137853405"/>
-    <nd ref="1137853393"/>
-    <nd ref="1137853409"/>
-    <nd ref="1137853419"/>
-    <nd ref="1137853411"/>
-    <nd ref="1137853414"/>
-    <nd ref="1137853415"/>
-    <nd ref="1137853403"/>
-    <tag k="addr:city" v="Godmanchester"/>
-    <tag k="addr:street" v="Cow Lane"/>
-    <tag k="man_made" v="wastewater_plant"/>
-    <tag k="name" v="Waste Water Works"/>
-    <tag k="source" v="Bing local knowledge"/>
+  <way id="98353866" version="10" timestamp="2025-02-08T15:15:22Z" changeset="162283509" uid="10420541" user="Thingummy">
+    <nd ref="1137874973"/>
+    <nd ref="1887115895"/>
+    <nd ref="1887115888"/>
+    <nd ref="1887115903"/>
+    <nd ref="1887115892"/>
+    <nd ref="1887115901"/>
+    <nd ref="1887115885"/>
+    <nd ref="1887115898"/>
+    <nd ref="1887115883"/>
+    <nd ref="1137874958"/>
+    <nd ref="1137874936"/>
+    <nd ref="1887115881"/>
+    <nd ref="1887115871"/>
+    <nd ref="1887115873"/>
+    <nd ref="1887115869"/>
+    <nd ref="1887115867"/>
+    <nd ref="1887115865"/>
+    <nd ref="306562155"/>
+    <nd ref="1887115855"/>
+    <nd ref="1887115853"/>
+    <nd ref="1887115859"/>
+    <nd ref="1137874962"/>
+    <nd ref="1137874952"/>
+    <nd ref="1137874944"/>
+    <nd ref="1420914921"/>
+    <nd ref="1137874941"/>
+    <nd ref="1137874961"/>
+    <nd ref="1137874973"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="heritage:operator" v="he"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="St Mary The Virgin (Godmanchester Parish Church)"/>
+    <tag k="ref:GB:nhle" v="1128664"/>
+    <tag k="ref:dove" v="13769"/>
+    <tag k="religion" v="christian"/>
+    <tag k="start_date" v="before C13"/>
+    <tag k="wikidata" v="Q17527812"/>
   </way>
   <way id="98780125" version="5" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
     <nd ref="1142792081"/>
@@ -3484,33 +3068,22 @@
     <tag k="name" v="The College of Animal Welfare"/>
     <tag k="office" v="educational_institution"/>
   </way>
-  <way id="98780129" version="9" timestamp="2024-01-15T21:04:46Z" changeset="146298083" uid="16586381" user="KasperSFranz">
-    <nd ref="1142792074"/>
-    <nd ref="1142792112"/>
-    <nd ref="1142792091"/>
-    <nd ref="1142792099"/>
-    <nd ref="1142792094"/>
-    <nd ref="1507321019"/>
-    <nd ref="1142792046"/>
-    <nd ref="1142792056"/>
-    <nd ref="10958497966"/>
-    <nd ref="1142792108"/>
-    <nd ref="1142792074"/>
+  <way id="98780127" version="7" timestamp="2023-04-13T10:46:14Z" changeset="134856983" uid="10420541" user="Thingummy">
+    <nd ref="1142792047"/>
+    <nd ref="1142792086"/>
+    <nd ref="1142792096"/>
+    <nd ref="1142792085"/>
+    <nd ref="4323215441"/>
+    <nd ref="4323215442"/>
+    <nd ref="4323215440"/>
+    <nd ref="4323215439"/>
+    <nd ref="1142792047"/>
     <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housename" v="King's Bush Farm"/>
     <tag k="addr:postcode" v="PE29 2NH"/>
-    <tag k="addr:street" v="London Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="animal_shelter"/>
-    <tag k="animal_shelter" v="dog:cat;wildlife"/>
-    <tag k="animal_shelter:adoption" v="yes"/>
-    <tag k="animal_shelter:sanctuary" v="yes"/>
-    <tag k="name" v="Wood Green Animal Shelter"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="King's Bush Farm"/>
+    <tag k="operator" v="woodgreen animal shelter"/>
     <tag k="operator:type" v="charitable"/>
-    <tag k="phone" v="+44 300 303 9333"/>
-    <tag k="website" v="https://www.woodgreen.org.uk/about/visit_us/godmanchester"/>
-    <tag k="wikidata" v="Q8032207"/>
-    <tag k="wikipedia" v="en:Woodgreen Pets Charity"/>
   </way>
   <way id="100005418" version="1" timestamp="2011-02-16T11:55:32Z" changeset="7303117" uid="38828" user="Shane28R">
     <nd ref="1156258167"/>
@@ -3533,6 +3106,67 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Cohort Way"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="100158018" version="5" timestamp="2023-08-16T13:13:56Z" changeset="139964435" uid="10420541" user="Thingummy">
+    <nd ref="1157731918"/>
+    <nd ref="1157731912"/>
+    <nd ref="1157731903"/>
+    <nd ref="1157731916"/>
+    <nd ref="1157731918"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="Godmanchester Cricket Pavillion"/>
+    <tag k="operator" v="Godmanchester Town Cricket club"/>
+  </way>
+  <way id="100159234" version="9" timestamp="2023-09-11T23:19:02Z" changeset="141136563" uid="10420541" user="Thingummy">
+    <nd ref="1157753399"/>
+    <nd ref="11184591039"/>
+    <nd ref="1157753427"/>
+    <nd ref="1157753403"/>
+    <nd ref="1157753430"/>
+    <nd ref="1157753443"/>
+    <nd ref="1157753479"/>
+    <nd ref="11184591041"/>
+    <nd ref="11184591043"/>
+    <nd ref="11184591042"/>
+    <nd ref="11184591040"/>
+    <nd ref="1157753399"/>
+    <tag k="access" v="customers"/>
+    <tag k="alt_name" v="Godmanchester Community Swimming Pool"/>
+    <tag k="building" v="civic"/>
+    <tag k="contact:website" v="https://www.firststrokes.com/locations/godmanchester/"/>
+    <tag k="fee" v="yes"/>
+    <tag k="leisure" v="swimming_pool"/>
+    <tag k="location" v="indoor"/>
+    <tag k="name" v="First Strokes Swimming Pool"/>
+    <tag k="operator" v="First Strokes"/>
+    <tag k="sport" v="swimming"/>
+    <tag k="swimming_pool" v="inground"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="104980702" version="3" timestamp="2024-01-17T12:04:01Z" changeset="146361124" uid="10420541" user="Thingummy">
+    <nd ref="1210361076"/>
+    <nd ref="11524640342"/>
+    <nd ref="11524640324"/>
+    <nd ref="11524640364"/>
+    <nd ref="11524640329"/>
+    <nd ref="11524640328"/>
+    <nd ref="11524640327"/>
+    <nd ref="11524640360"/>
+    <nd ref="11524640326"/>
+    <nd ref="11524640325"/>
+    <nd ref="2384421536"/>
+    <nd ref="1210361097"/>
+    <nd ref="11524640330"/>
+    <nd ref="1210361167"/>
+    <nd ref="11524640331"/>
+    <nd ref="11524640332"/>
+    <nd ref="11524640333"/>
+    <nd ref="1210360892"/>
+    <nd ref="1210361076"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Comrades Club"/>
   </way>
   <way id="104980718" version="14" timestamp="2025-01-08T23:45:49Z" changeset="161151742" uid="10420541" user="Thingummy">
     <nd ref="2384408631"/>
@@ -3618,6 +3252,23 @@
     <tag k="post:city" v="Huntingdon"/>
     <tag k="shop" v="chemist"/>
   </way>
+  <way id="115153474" version="3" timestamp="2023-11-17T20:28:37Z" changeset="144153738" uid="10420541" user="Thingummy">
+    <nd ref="1302270550"/>
+    <nd ref="11359055735"/>
+    <nd ref="11359055736"/>
+    <nd ref="1302270477"/>
+    <nd ref="2384450547"/>
+    <nd ref="11359055709"/>
+    <nd ref="11359055708"/>
+    <nd ref="11359055711"/>
+    <nd ref="11359055710"/>
+    <nd ref="1302270495"/>
+    <nd ref="11359055737"/>
+    <nd ref="1302270430"/>
+    <nd ref="1302270550"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Royal Oak Pub"/>
+  </way>
   <way id="115249714" version="12" timestamp="2024-03-27T11:37:44Z" changeset="149220788" uid="10420541" user="Thingummy">
     <nd ref="1302954730"/>
     <nd ref="1302954728"/>
@@ -3643,6 +3294,25 @@
     <tag k="ref:GB:nhle" v="1128580"/>
     <tag k="wikidata" v="Q17543885"/>
     <tag k="wikipedia" v="en:Operation Epsilon"/>
+  </way>
+  <way id="115250684" version="2" timestamp="2022-12-30T22:20:49Z" changeset="130704511" uid="10420541" user="Thingummy">
+    <nd ref="1302958790"/>
+    <nd ref="1302958878"/>
+    <nd ref="1302958794"/>
+    <nd ref="1302958824"/>
+    <nd ref="1302958790"/>
+    <tag k="building" v="barn"/>
+    <tag k="name" v="farm barn"/>
+  </way>
+  <way id="115250696" version="3" timestamp="2022-12-30T22:20:49Z" changeset="130704511" uid="10420541" user="Thingummy">
+    <nd ref="1302958831"/>
+    <nd ref="1302958829"/>
+    <nd ref="5486655609"/>
+    <nd ref="1302958882"/>
+    <nd ref="1302958820"/>
+    <nd ref="1302958831"/>
+    <tag k="building" v="farm_auxiliary"/>
+    <tag k="name" v="farm shed"/>
   </way>
   <way id="115768702" version="11" timestamp="2023-09-12T10:30:44Z" changeset="141156580" uid="10420541" user="Thingummy">
     <nd ref="1307013299"/>
@@ -3686,6 +3356,27 @@
     <tag k="addr:street" v="The Avenue"/>
     <tag k="building" v="terrace"/>
     <tag k="name" v="bridge terrace"/>
+  </way>
+  <way id="128494593" version="5" timestamp="2024-02-25T03:42:39Z" changeset="147876975" uid="10420541" user="Thingummy">
+    <nd ref="1419936737"/>
+    <nd ref="11661936702"/>
+    <nd ref="11661936705"/>
+    <nd ref="6755547321"/>
+    <nd ref="11661936704"/>
+    <nd ref="11661936703"/>
+    <nd ref="1419936739"/>
+    <nd ref="1419936738"/>
+    <nd ref="1419936734"/>
+    <nd ref="1419936736"/>
+    <nd ref="1419936735"/>
+    <nd ref="1419936737"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2XJ"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Comtec"/>
+    <tag k="source" v="Bing;survey"/>
+    <tag k="website" v="https://www.comtecdirect.co.uk/"/>
   </way>
   <way id="129520771" version="10" timestamp="2025-01-08T23:45:49Z" changeset="161151742" uid="10420541" user="Thingummy">
     <nd ref="1302270469"/>
@@ -3745,24 +3436,6 @@
     <tag k="name" v="Post Street"/>
     <tag k="ref" v="B1044"/>
     <tag k="source:name" v="dictaphone"/>
-  </way>
-  <way id="137338565" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <nd ref="1506587927"/>
-    <nd ref="1506587922"/>
-    <nd ref="1506587925"/>
-    <nd ref="1506587928"/>
-    <nd ref="1506587921"/>
-    <nd ref="1506587926"/>
-    <nd ref="1506587924"/>
-    <nd ref="1506587919"/>
-    <nd ref="1506587927"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2LD"/>
-    <tag k="addr:street" v="Offord Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Corpus Christi Farm"/>
-    <tag k="source" v="bing"/>
   </way>
   <way id="143724228" version="7" timestamp="2024-12-27T21:21:01Z" changeset="160693209" uid="12667551" user="Neil James Tarrant">
     <nd ref="1572766542"/>
@@ -3955,35 +3628,6 @@
     <tag k="maxweight" v="7.5"/>
     <tag k="name" v="Roman Way"/>
     <tag k="source:name" v="dictaphone"/>
-  </way>
-  <way id="162580115" version="5" timestamp="2024-11-02T22:54:34Z" changeset="158679950" uid="10420541" user="Thingummy">
-    <nd ref="1744416851"/>
-    <nd ref="9241440546"/>
-    <nd ref="1744416835"/>
-    <nd ref="7477140837"/>
-    <nd ref="7477140836"/>
-    <nd ref="7477140831"/>
-    <nd ref="7477140833"/>
-    <nd ref="7477140841"/>
-    <nd ref="12308310487"/>
-    <nd ref="12308310486"/>
-    <nd ref="6650384988"/>
-    <nd ref="7477140843"/>
-    <nd ref="7477140842"/>
-    <nd ref="9241440538"/>
-    <nd ref="1744416853"/>
-    <nd ref="6650375461"/>
-    <nd ref="9241440537"/>
-    <nd ref="6650384990"/>
-    <nd ref="6650384991"/>
-    <nd ref="1744416851"/>
-    <tag k="addr:city" v="Godmanchester Huntingdon"/>
-    <tag k="addr:street" v="Betts Close"/>
-    <tag k="landuse" v="grass"/>
-    <tag k="leisure" v="park"/>
-    <tag k="name" v="Buttermel Meadow"/>
-    <tag k="operator" v="Godmanchester Town Council"/>
-    <tag k="operator:type" v="council"/>
   </way>
   <way id="162580116" version="1" timestamp="2012-05-07T15:30:02Z" changeset="11530189" uid="90142" user="andy mackey">
     <nd ref="1744416849"/>
@@ -4279,6 +3923,23 @@
     <tag k="building" v="residential"/>
     <tag k="name" v="Tudor Court"/>
   </way>
+  <way id="229904912" version="4" timestamp="2024-04-08T18:59:48Z" changeset="149748800" uid="10420541" user="Thingummy">
+    <nd ref="2384408890"/>
+    <nd ref="2384408968"/>
+    <nd ref="2384408836"/>
+    <nd ref="2384408900"/>
+    <nd ref="2384408909"/>
+    <nd ref="2384408687"/>
+    <nd ref="2384408890"/>
+    <tag k="amenity" v="childcare"/>
+    <tag k="building" v="kindergarten"/>
+    <tag k="name" v="St Mary's Church Hall"/>
+    <tag k="note" v="associate with 19 Causeway Godmanchester"/>
+    <tag k="operator" v="Clarence House Pre-School"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="owner" v="St Marys Church"/>
+    <tag k="preschool" v="yes"/>
+  </way>
   <way id="229904914" version="2" timestamp="2020-08-18T08:20:45Z" changeset="89560461" uid="52797" user="hofoen">
     <nd ref="2384408912"/>
     <nd ref="2384408915"/>
@@ -4339,6 +4000,22 @@
     <tag k="addr:street" v="Post Street"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="229904923" version="3" timestamp="2023-01-30T09:29:20Z" changeset="131871072" uid="84263" user="Robert Whittaker">
+    <nd ref="2384408975"/>
+    <nd ref="2384408825"/>
+    <nd ref="2384408761"/>
+    <nd ref="2384408983"/>
+    <nd ref="2384408879"/>
+    <nd ref="2384409000"/>
+    <nd ref="2384408978"/>
+    <nd ref="2384408672"/>
+    <nd ref="2384408975"/>
+    <tag k="brand" v="Costcutter"/>
+    <tag k="brand:wikidata" v="Q5175072"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Costcutter"/>
+    <tag k="shop" v="convenience"/>
+  </way>
   <way id="229904926" version="3" timestamp="2023-09-12T10:30:44Z" changeset="141156580" uid="10420541" user="Thingummy">
     <nd ref="2384408942"/>
     <nd ref="2384408659"/>
@@ -4373,6 +4050,33 @@
     <tag k="historic:period" v="tudor"/>
     <tag k="start_date" v="1611"/>
   </way>
+  <way id="229908714" version="3" timestamp="2024-12-07T11:08:05Z" changeset="160022954" uid="10420541" user="Thingummy">
+    <nd ref="2384442481"/>
+    <nd ref="2384442511"/>
+    <nd ref="2384442448"/>
+    <nd ref="12401801778"/>
+    <nd ref="2384442391"/>
+    <nd ref="12401801790"/>
+    <nd ref="12401801789"/>
+    <nd ref="12401801788"/>
+    <nd ref="2384442481"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Salon 41"/>
+    <tag k="shop" v="beauty"/>
+  </way>
+  <way id="229908718" version="3" timestamp="2024-12-07T11:08:05Z" changeset="160022954" uid="10420541" user="Thingummy">
+    <nd ref="2384442455"/>
+    <nd ref="2384442517"/>
+    <nd ref="2384442527"/>
+    <nd ref="2384442528"/>
+    <nd ref="12401801784"/>
+    <nd ref="2384442443"/>
+    <nd ref="2384442545"/>
+    <nd ref="2384442455"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Thelma's Flowers"/>
+    <tag k="shop" v="florist"/>
+  </way>
   <way id="229908723" version="2" timestamp="2023-08-06T20:10:22Z" changeset="139531184" uid="10420541" user="Thingummy">
     <nd ref="2384442474"/>
     <nd ref="2384442414"/>
@@ -4384,6 +4088,19 @@
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Cambridge Street."/>
     <tag k="building" v="yes"/>
+  </way>
+  <way id="229908735" version="2" timestamp="2023-08-06T20:10:22Z" changeset="139531184" uid="10420541" user="Thingummy">
+    <nd ref="2384442388"/>
+    <nd ref="2384442458"/>
+    <nd ref="2384442460"/>
+    <nd ref="2384442374"/>
+    <nd ref="2384442533"/>
+    <nd ref="2384442365"/>
+    <nd ref="2384442442"/>
+    <nd ref="2384442388"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="cafe"/>
+    <tag k="name" v="The Grand Piano"/>
   </way>
   <way id="229908743" version="5" timestamp="2024-05-14T23:47:03Z" changeset="151335840" uid="10420541" user="Thingummy">
     <nd ref="2384442364"/>
@@ -4643,6 +4360,34 @@
     <tag k="addr:street" v="Post Street"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="230064698" version="5" timestamp="2022-12-30T22:20:49Z" changeset="130704511" uid="10420541" user="Thingummy">
+    <nd ref="2385898665"/>
+    <nd ref="2385898701"/>
+    <nd ref="2385898714"/>
+    <nd ref="2385898614"/>
+    <nd ref="2385898523"/>
+    <nd ref="2385898548"/>
+    <nd ref="2385898666"/>
+    <nd ref="2385898668"/>
+    <nd ref="2385898626"/>
+    <nd ref="2385898698"/>
+    <nd ref="2385898655"/>
+    <nd ref="2385898570"/>
+    <nd ref="2385898712"/>
+    <nd ref="2385898510"/>
+    <nd ref="2385898530"/>
+    <nd ref="2385898540"/>
+    <nd ref="2385898539"/>
+    <nd ref="2385898633"/>
+    <nd ref="2385898524"/>
+    <nd ref="2385898667"/>
+    <nd ref="2385898665"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LL"/>
+    <tag k="amenity" v="retirement_home"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="The Chestnuts"/>
+  </way>
   <way id="230064705" version="2" timestamp="2023-09-11T22:30:39Z" changeset="141135651" uid="10420541" user="Thingummy">
     <nd ref="2385898638"/>
     <nd ref="2385898490"/>
@@ -4703,6 +4448,54 @@
     <tag k="addr:street" v="The Avenue"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="230064718" version="3" timestamp="2022-07-16T16:11:59Z" changeset="123694741" uid="242345" user="confusedbuffalo">
+    <nd ref="2385898594"/>
+    <nd ref="2385898519"/>
+    <nd ref="2385898549"/>
+    <nd ref="2385898586"/>
+    <nd ref="2385898580"/>
+    <nd ref="2385898646"/>
+    <nd ref="2385898612"/>
+    <nd ref="2385898601"/>
+    <nd ref="2385898589"/>
+    <nd ref="2385898562"/>
+    <nd ref="2385898658"/>
+    <nd ref="2385898683"/>
+    <nd ref="2385898529"/>
+    <nd ref="2385898566"/>
+    <nd ref="2385898634"/>
+    <nd ref="2385898694"/>
+    <nd ref="2385898645"/>
+    <nd ref="2385898595"/>
+    <nd ref="2385898650"/>
+    <nd ref="2385898596"/>
+    <nd ref="2385898692"/>
+    <nd ref="2385898496"/>
+    <nd ref="2385898675"/>
+    <nd ref="2385898594"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2LZ"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Oak Tree Court"/>
+  </way>
+  <way id="230064722" version="2" timestamp="2022-09-20T22:48:07Z" changeset="126441407" uid="10420541" user="Thingummy">
+    <nd ref="2385898514"/>
+    <nd ref="2385898674"/>
+    <nd ref="2385898528"/>
+    <nd ref="2385898572"/>
+    <nd ref="2385898494"/>
+    <nd ref="2385898670"/>
+    <nd ref="2385898547"/>
+    <nd ref="2385898561"/>
+    <nd ref="2385898606"/>
+    <nd ref="2385898713"/>
+    <nd ref="2385898647"/>
+    <nd ref="2385898493"/>
+    <nd ref="2385898514"/>
+    <tag k="building" v="residential"/>
+    <tag k="building:use" v="apartments"/>
+    <tag k="name" v="The Beeches"/>
+  </way>
   <way id="230277117" version="2" timestamp="2023-09-11T00:26:20Z" changeset="141085535" uid="10420541" user="Thingummy">
     <nd ref="2387992749"/>
     <nd ref="2387992692"/>
@@ -4737,28 +4530,6 @@
     <nd ref="306561930"/>
     <tag k="access" v="private"/>
     <tag k="highway" v="residential"/>
-  </way>
-  <way id="230277127" version="3" timestamp="2023-09-11T00:26:20Z" changeset="141085535" uid="10420541" user="Thingummy">
-    <nd ref="2387992755"/>
-    <nd ref="306561930"/>
-    <nd ref="2387992689"/>
-    <nd ref="2387992712"/>
-    <nd ref="2387992765"/>
-    <nd ref="1149035665"/>
-    <nd ref="2387992758"/>
-    <nd ref="2387992726"/>
-    <nd ref="2387992702"/>
-    <nd ref="2387992754"/>
-    <nd ref="2387992799"/>
-    <nd ref="2387992747"/>
-    <nd ref="2387992755"/>
-    <tag k="addr:city" v="Godmanchester"/>
-    <tag k="addr:parentstreet" v="The Avenue"/>
-    <tag k="addr:street" v="Park Lane"/>
-    <tag k="barrier" v="fence"/>
-    <tag k="landuse" v="residential"/>
-    <tag k="name" v="Park Lane Meadows"/>
-    <tag k="residential" v="trailer_park"/>
   </way>
   <way id="230277132" version="2" timestamp="2023-09-11T00:26:20Z" changeset="141085535" uid="10420541" user="Thingummy">
     <nd ref="2387992698"/>
@@ -4807,6 +4578,16 @@
     <nd ref="2390127693"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:street" v="Linden Grove"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="230610602" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="2390974420"/>
+    <nd ref="2390974376"/>
+    <nd ref="2390974400"/>
+    <nd ref="2390974388"/>
+    <nd ref="2390974420"/>
+    <tag k="addr:housenumber" v="8 - 10"/>
+    <tag k="addr:street" v="East Chadley Lane"/>
     <tag k="building" v="yes"/>
   </way>
   <way id="230610605" version="4" timestamp="2024-04-08T11:02:07Z" changeset="149729574" uid="10420541" user="Thingummy">
@@ -5129,6 +4910,33 @@
     <tag k="building" v="cottage"/>
     <tag k="building:levels" v="1"/>
     <tag k="wikidata" v="Q26615676"/>
+  </way>
+  <way id="230961021" version="2" timestamp="2022-09-20T23:06:30Z" changeset="126441653" uid="10420541" user="Thingummy">
+    <nd ref="2393844721"/>
+    <nd ref="2393845140"/>
+    <nd ref="2393845024"/>
+    <nd ref="2393844795"/>
+    <nd ref="2393844789"/>
+    <nd ref="2393844872"/>
+    <nd ref="2393844841"/>
+    <nd ref="2393844920"/>
+    <nd ref="2393844721"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="The Crystals"/>
+  </way>
+  <way id="230961023" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="2393844948"/>
+    <nd ref="2393844888"/>
+    <nd ref="2393845095"/>
+    <nd ref="2393845008"/>
+    <nd ref="2393844654"/>
+    <nd ref="2393844633"/>
+    <nd ref="2393844948"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="PE29 2HQ"/>
+    <tag k="addr:street" v="West Street"/>
+    <tag k="building" v="yes"/>
   </way>
   <way id="230961032" version="4" timestamp="2022-09-20T22:48:07Z" changeset="126441407" uid="10420541" user="Thingummy">
     <nd ref="2393845158"/>
@@ -5674,6 +5482,26 @@
     <tag k="name" v="Cambridge Road"/>
     <tag k="ref" v="B1044"/>
   </way>
+  <way id="244181702" version="4" timestamp="2024-04-15T09:33:36Z" changeset="150027206" uid="10420541" user="Thingummy">
+    <nd ref="2515281195"/>
+    <nd ref="2515281174"/>
+    <nd ref="2515281178"/>
+    <nd ref="2515281194"/>
+    <nd ref="2515281179"/>
+    <nd ref="2515281148"/>
+    <nd ref="2515281165"/>
+    <nd ref="2515281152"/>
+    <nd ref="2515281188"/>
+    <nd ref="2515281173"/>
+    <nd ref="2515281146"/>
+    <nd ref="2515281171"/>
+    <nd ref="2515281195"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2XR"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="DHL"/>
+    <tag k="source" v="Bing"/>
+  </way>
   <way id="244181704" version="2" timestamp="2024-04-15T09:33:36Z" changeset="150027206" uid="10420541" user="Thingummy">
     <nd ref="2515281199"/>
     <nd ref="2515281159"/>
@@ -5897,41 +5725,43 @@
     <tag k="shoulder" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="337346200" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <nd ref="3444437030"/>
-    <nd ref="3444437031"/>
-    <nd ref="3444437032"/>
-    <nd ref="3444437033"/>
-    <nd ref="3444437059"/>
-    <nd ref="3444437060"/>
-    <nd ref="3444437034"/>
-    <nd ref="3444437030"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2EL"/>
-    <tag k="addr:street" v="Cambridge Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Harcourt Farm"/>
+  <way id="337350724" version="4" timestamp="2024-04-30T16:01:19Z" changeset="150715516" uid="9451067" user="b-jazz-bot">
+    <nd ref="3444472337"/>
+    <nd ref="3444472338"/>
+    <nd ref="3444472339"/>
+    <nd ref="3444472340"/>
+    <nd ref="3444472341"/>
+    <nd ref="11694719561"/>
+    <nd ref="11694719562"/>
+    <nd ref="3444472342"/>
+    <nd ref="3444472343"/>
+    <nd ref="3444472344"/>
+    <nd ref="11694729188"/>
+    <nd ref="11694729187"/>
+    <nd ref="11694729185"/>
+    <nd ref="11694729186"/>
+    <nd ref="3444472337"/>
+    <tag k="amenity" v="events_venue"/>
+    <tag k="bar" v="yes"/>
+    <tag k="building" v="clubhouse"/>
+    <tag k="name" v="Godmanchester Rovers F.C."/>
+    <tag k="website" v="https://www.godmanchesterroversfc.co.uk/"/>
   </way>
-  <way id="337350780" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <nd ref="3444472811"/>
-    <nd ref="3507098253"/>
-    <nd ref="3444472812"/>
-    <nd ref="4321317834"/>
-    <nd ref="4321317844"/>
-    <nd ref="3444472813"/>
-    <nd ref="3444472814"/>
-    <nd ref="3444472815"/>
-    <nd ref="3444472816"/>
-    <nd ref="4321317847"/>
-    <nd ref="4321317848"/>
-    <nd ref="3444472811"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2LH"/>
-    <tag k="addr:street" v="London Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Bleakley Farm"/>
+  <way id="337538008" version="5" timestamp="2025-02-06T20:31:44Z" changeset="162222233" uid="13750939" user="FortQuake">
+    <nd ref="3446119480"/>
+    <nd ref="10117593767"/>
+    <nd ref="3446119481"/>
+    <nd ref="3446119482"/>
+    <nd ref="3446119483"/>
+    <nd ref="12563742618"/>
+    <nd ref="3446119480"/>
+    <tag k="building" v="terrace"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="he"/>
+    <tag k="heritage:ref" v="1330664"/>
+    <tag k="name" v="3-5 Bridge Place"/>
+    <tag k="start_date" v="1801"/>
+    <tag k="wikidata" v="Q26615637"/>
   </way>
   <way id="337538164" version="9" timestamp="2024-06-17T13:47:54Z" changeset="152804496" uid="10420541" user="Thingummy">
     <nd ref="3446120937"/>
@@ -5989,73 +5819,6 @@
     <tag k="motor_vehicle" v="private"/>
     <tag k="source" v="npe"/>
   </way>
-  <way id="343922908" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <nd ref="4319288034"/>
-    <nd ref="4319288033"/>
-    <nd ref="3507077958"/>
-    <nd ref="3507077959"/>
-    <nd ref="9140678092"/>
-    <nd ref="9140678093"/>
-    <nd ref="4319288032"/>
-    <nd ref="4319288034"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2LD"/>
-    <tag k="addr:street" v="Offord Hill"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Offord Hill Farm"/>
-  </way>
-  <way id="343924743" version="4" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <nd ref="3507093284"/>
-    <nd ref="3507094876"/>
-    <nd ref="3507093285"/>
-    <nd ref="3507093286"/>
-    <nd ref="3507093287"/>
-    <nd ref="3507093284"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2LG"/>
-    <tag k="addr:street" v="Silver Street"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Lower Debden Farm"/>
-  </way>
-  <way id="343926438" version="3" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
-    <nd ref="3507096448"/>
-    <nd ref="3507096449"/>
-    <nd ref="3507096450"/>
-    <nd ref="3507096451"/>
-    <nd ref="3507096448"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2LJ"/>
-    <tag k="addr:street" v="London Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Beaconfield Equine Centre"/>
-  </way>
-  <way id="343927319" version="5" timestamp="2024-12-25T17:08:42Z" changeset="160611193" uid="5173844" user="ndrw6">
-    <nd ref="12451438942"/>
-    <nd ref="12451439026"/>
-    <nd ref="3507109538"/>
-    <nd ref="3507109539"/>
-    <nd ref="8901513346"/>
-    <nd ref="3507109548"/>
-    <nd ref="8901513344"/>
-    <nd ref="3507109540"/>
-    <nd ref="3507109541"/>
-    <nd ref="8901513335"/>
-    <nd ref="8901513336"/>
-    <nd ref="8901513337"/>
-    <nd ref="8901513338"/>
-    <nd ref="12451438938"/>
-    <nd ref="12451438937"/>
-    <nd ref="12451438942"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2LG"/>
-    <tag k="addr:street" v="Silver Street"/>
-    <tag k="addr:village" v="Godmanchester"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Debden Top Farm"/>
-  </way>
   <way id="392330670" version="6" timestamp="2024-04-09T21:37:09Z" changeset="149795669" uid="5229644" user="Nathan_A_RF">
     <nd ref="313751671"/>
     <nd ref="313751672"/>
@@ -6069,7 +5832,7 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="392330671" version="15" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
+  <way id="392330671" version="16" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="6960066165"/>
     <nd ref="4396202035"/>
     <nd ref="5324639627"/>
@@ -6102,6 +5865,7 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Gumcester Way"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="392330672" version="9" timestamp="2024-06-04T16:45:39Z" changeset="152252449" uid="13341565" user="Falsernet">
     <nd ref="3955641224"/>
@@ -6137,6 +5901,17 @@
     <tag k="maxspeed:type" v="GB:nsl_restricted"/>
     <tag k="ref" v="A1198"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="402390800" version="2" timestamp="2025-04-22T09:27:14Z" changeset="165274962" uid="20475686" user="Dan200">
+    <nd ref="4047985959"/>
+    <nd ref="4047985960"/>
+    <nd ref="4047985963"/>
+    <nd ref="12774934226"/>
+    <nd ref="4047985961"/>
+    <nd ref="4047985962"/>
+    <nd ref="4047985959"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hide"/>
   </way>
   <way id="433006505" version="2" timestamp="2023-12-07T10:45:26Z" changeset="144861966" uid="1802093" user="Paul Berry">
     <nd ref="4319287757"/>
@@ -6222,31 +5997,6 @@
     <tag k="addr:street" v="Offord Road"/>
     <tag k="addr:suburb" v="Godmanchester"/>
     <tag k="building" v="house"/>
-  </way>
-  <way id="433294951" version="7" timestamp="2024-09-03T18:12:04Z" changeset="156154279" uid="10420541" user="Thingummy">
-    <nd ref="10958503352"/>
-    <nd ref="10958503353"/>
-    <nd ref="10958503355"/>
-    <nd ref="10958505218"/>
-    <nd ref="10958505221"/>
-    <nd ref="10958505222"/>
-    <nd ref="10958505220"/>
-    <nd ref="10958503354"/>
-    <nd ref="4321317132"/>
-    <nd ref="4321317134"/>
-    <nd ref="4321317135"/>
-    <nd ref="4321317136"/>
-    <nd ref="4321317137"/>
-    <nd ref="5486462354"/>
-    <nd ref="4321317139"/>
-    <nd ref="5486462355"/>
-    <nd ref="10958503352"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2LF"/>
-    <tag k="addr:street" v="Silver Street"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Clyde Farm"/>
   </way>
   <way id="441930990" version="11" timestamp="2024-09-02T16:14:16Z" changeset="156106284" uid="10420541" user="Thingummy">
     <nd ref="4396202039"/>
@@ -6560,7 +6310,7 @@
     <tag k="ref" v="A1198"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="551342181" version="4" timestamp="2019-01-15T17:05:50Z" changeset="66337491" uid="90142" user="andy mackey">
+  <way id="551342181" version="5" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="5324639320"/>
     <nd ref="5433856546"/>
     <nd ref="5433856530"/>
@@ -6571,8 +6321,9 @@
     <tag k="construction" v="residential"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Norris Drive"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="551342182" version="5" timestamp="2020-06-26T17:14:23Z" changeset="87205867" uid="5173844" user="ndrw6">
+  <way id="551342182" version="6" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="4396202035"/>
     <nd ref="6514070437"/>
     <nd ref="6514070438"/>
@@ -6581,8 +6332,9 @@
     <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Brewer Avenue"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="551342183" version="6" timestamp="2022-11-17T19:19:23Z" changeset="129056632" uid="10420541" user="Thingummy">
+  <way id="551342183" version="7" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="5324639627"/>
     <nd ref="7877334153"/>
     <nd ref="5324639628"/>
@@ -6590,8 +6342,9 @@
     <nd ref="8496917949"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Cobbler Drive"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="551342184" version="5" timestamp="2020-05-13T15:03:59Z" changeset="85152195" uid="11173975" user="C V Raman">
+  <way id="551342184" version="6" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="5324639629"/>
     <nd ref="6514070440"/>
     <nd ref="6514070441"/>
@@ -6600,8 +6353,9 @@
     <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Innkeeper Way"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="551342185" version="6" timestamp="2024-09-02T15:56:27Z" changeset="156105564" uid="10420541" user="Thingummy">
+  <way id="551342185" version="7" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="5324639639"/>
     <nd ref="11405287801"/>
     <nd ref="5324639640"/>
@@ -6620,6 +6374,7 @@
     <nd ref="5324639636"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Foren Crescent"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="551342186" version="5" timestamp="2024-09-02T11:21:24Z" changeset="156093368" uid="10420541" user="Thingummy">
     <nd ref="5324639316"/>
@@ -6638,7 +6393,7 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Baumgartner"/>
   </way>
-  <way id="551342187" version="8" timestamp="2024-09-12T10:33:33Z" changeset="156521591" uid="10420541" user="Thingummy">
+  <way id="551342187" version="9" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="5324639648"/>
     <nd ref="12151452823"/>
     <nd ref="12171947716"/>
@@ -6649,6 +6404,7 @@
     <nd ref="5324639651"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Chandlers Square"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="551342189" version="6" timestamp="2024-09-05T17:44:28Z" changeset="156242293" uid="10420541" user="Thingummy">
     <nd ref="5324639665"/>
@@ -7059,6 +6815,71 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Brudenell"/>
   </way>
+  <way id="554445055" version="2" timestamp="2024-03-12T15:58:16Z" changeset="148556500" uid="10420541" user="Thingummy">
+    <nd ref="5350633786"/>
+    <nd ref="5350633787"/>
+    <nd ref="5350633788"/>
+    <nd ref="5350633789"/>
+    <nd ref="5350633790"/>
+    <nd ref="5350633791"/>
+    <nd ref="5350633792"/>
+    <nd ref="5350633793"/>
+    <nd ref="5350633786"/>
+    <tag k="building" v="education"/>
+    <tag k="name" v="College of Animal Welfare"/>
+    <tag k="office" v="educational_institution"/>
+    <tag k="website" v="https://www.caw.ac.uk/about-us/centres/huntingdon/"/>
+  </way>
+  <way id="554445056" version="2" timestamp="2018-02-20T21:45:56Z" changeset="56533299" uid="5173844" user="ndrw6">
+    <nd ref="5350633794"/>
+    <nd ref="5350633795"/>
+    <nd ref="5350633796"/>
+    <nd ref="5350633797"/>
+    <nd ref="5350633794"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="E"/>
+  </way>
+  <way id="554445057" version="2" timestamp="2018-02-20T21:45:56Z" changeset="56533299" uid="5173844" user="ndrw6">
+    <nd ref="5350633798"/>
+    <nd ref="5350633799"/>
+    <nd ref="5350633800"/>
+    <nd ref="5350633801"/>
+    <nd ref="5350633798"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="D"/>
+  </way>
+  <way id="554445058" version="4" timestamp="2022-07-16T16:11:59Z" changeset="123694741" uid="242345" user="confusedbuffalo">
+    <nd ref="5350633802"/>
+    <nd ref="5350633803"/>
+    <nd ref="5350633804"/>
+    <nd ref="5350633805"/>
+    <nd ref="5350633802"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:postcode" v="PE29 2BQ"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="C"/>
+  </way>
+  <way id="554445059" version="2" timestamp="2018-02-20T21:45:56Z" changeset="56533299" uid="5173844" user="ndrw6">
+    <nd ref="5350633806"/>
+    <nd ref="5350633807"/>
+    <nd ref="5350633808"/>
+    <nd ref="5350633809"/>
+    <nd ref="5350633810"/>
+    <nd ref="5350633811"/>
+    <nd ref="5350633812"/>
+    <nd ref="5350633806"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="B"/>
+  </way>
+  <way id="554445060" version="2" timestamp="2018-02-20T21:45:56Z" changeset="56533299" uid="5173844" user="ndrw6">
+    <nd ref="5350633813"/>
+    <nd ref="5350633814"/>
+    <nd ref="5350633815"/>
+    <nd ref="5350633816"/>
+    <nd ref="5350633813"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="A"/>
+  </way>
   <way id="562887703" version="4" timestamp="2021-06-26T15:16:17Z" changeset="107007257" uid="10420541" user="Thingummy">
     <nd ref="5425470538"/>
     <nd ref="8868194894"/>
@@ -7066,7 +6887,7 @@
     <nd ref="5425470539"/>
     <tag k="highway" v="unclassified"/>
   </way>
-  <way id="562887710" version="6" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
+  <way id="562887710" version="7" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="5433856531"/>
     <nd ref="5324639625"/>
     <nd ref="5425470555"/>
@@ -7083,6 +6904,7 @@
     <nd ref="5433856531"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Brudenell"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="562887711" version="8" timestamp="2024-09-05T11:07:35Z" changeset="156225505" uid="10420541" user="Thingummy">
     <nd ref="5425470559"/>
@@ -7104,7 +6926,7 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Butcher Drive"/>
   </way>
-  <way id="562887721" version="6" timestamp="2024-09-02T11:21:24Z" changeset="156093368" uid="10420541" user="Thingummy">
+  <way id="562887721" version="7" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="5324639651"/>
     <nd ref="5324639652"/>
     <nd ref="11405343251"/>
@@ -7121,6 +6943,7 @@
     <nd ref="5324639649"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Chandlers Square"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="562887724" version="4" timestamp="2024-09-06T12:54:33Z" changeset="156273801" uid="10420541" user="Thingummy">
     <nd ref="5425470571"/>
@@ -7135,38 +6958,33 @@
     <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>
   </way>
-  <way id="562887729" version="15" timestamp="2024-09-17T00:36:07Z" changeset="156709536" uid="21226027" user="DorneyLake123">
-    <nd ref="5425470579"/>
-    <nd ref="9553066893"/>
-    <nd ref="9553066895"/>
-    <nd ref="9553066894"/>
-    <nd ref="12151927777"/>
-    <nd ref="12151927779"/>
-    <nd ref="6213930256"/>
-    <nd ref="12151927784"/>
-    <nd ref="6514070895"/>
-    <nd ref="5425470582"/>
-    <nd ref="12151927790"/>
-    <nd ref="12151927791"/>
-    <nd ref="12151927792"/>
-    <nd ref="12151927793"/>
-    <nd ref="12151927794"/>
-    <nd ref="5425470579"/>
+  <way id="562887727" version="13" timestamp="2024-09-02T17:05:48Z" changeset="156108566" uid="10420541" user="Thingummy">
+    <nd ref="5425470575"/>
+    <nd ref="12151911722"/>
+    <nd ref="12151911723"/>
+    <nd ref="12151911725"/>
+    <nd ref="12151911724"/>
+    <nd ref="5425470576"/>
+    <nd ref="6213930254"/>
+    <nd ref="9551881633"/>
+    <nd ref="6213930257"/>
+    <nd ref="9551881625"/>
+    <nd ref="12151911726"/>
+    <nd ref="5425470577"/>
+    <nd ref="9553066892"/>
+    <nd ref="11124988218"/>
+    <nd ref="11124988217"/>
+    <nd ref="9551728353"/>
+    <nd ref="5425470578"/>
+    <nd ref="11124900899"/>
+    <nd ref="11124988267"/>
+    <nd ref="5425470575"/>
     <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="PE29 2NL"/>
-    <tag k="addr:street" v="Butcher Drive"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="315"/>
-    <tag k="fhrs:id" v="1022668"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
+    <tag k="building" v="school"/>
+    <tag k="layer" v="1"/>
     <tag k="name" v="Godmanchester Bridge Academy"/>
-    <tag k="ref:edubase" v="141690"/>
-    <tag k="website" v="https://www.godmanchesterbridge.co.uk"/>
-    <tag k="wikidata" v="Q66230971"/>
+    <tag k="start_date" v="2017-09"/>
   </way>
   <way id="563684903" version="8" timestamp="2024-09-02T17:00:00Z" changeset="156108280" uid="10420541" user="Thingummy">
     <nd ref="5431797250"/>
@@ -7186,7 +7004,7 @@
     <tag k="phone" v="+44 1954231751"/>
     <tag k="website" v="www.pre-school.org.uk/cambridgeshire-peterborough"/>
   </way>
-  <way id="563913574" version="6" timestamp="2020-06-26T17:14:23Z" changeset="87205867" uid="5173844" user="ndrw6">
+  <way id="563913574" version="7" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="5433856531"/>
     <nd ref="5433856543"/>
     <nd ref="5433856544"/>
@@ -7201,6 +7019,7 @@
     <nd ref="5433856532"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Hendrey Place"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="569375432" version="7" timestamp="2024-09-03T18:12:04Z" changeset="156154279" uid="10420541" user="Thingummy">
     <nd ref="8315800961"/>
@@ -8022,6 +7841,54 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Kisby Avenue"/>
   </way>
+  <way id="569773866" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069019"/>
+    <nd ref="5479069020"/>
+    <nd ref="5479069021"/>
+    <nd ref="5479069022"/>
+    <nd ref="5479069019"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="PE29 2DN"/>
+    <tag k="addr:street" v="Kisby Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773867" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069023"/>
+    <nd ref="5479069019"/>
+    <nd ref="5479069022"/>
+    <nd ref="5479069024"/>
+    <nd ref="5479069023"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="PE29 2DN"/>
+    <tag k="addr:street" v="Kisby Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773868" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069025"/>
+    <nd ref="5479069026"/>
+    <nd ref="5479069027"/>
+    <nd ref="5479069028"/>
+    <nd ref="5479069025"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="PE29 2DN"/>
+    <tag k="addr:street" v="Kisby Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773869" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069029"/>
+    <nd ref="5479069025"/>
+    <nd ref="5479069028"/>
+    <nd ref="5479069030"/>
+    <nd ref="5479069029"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="PE29 2DN"/>
+    <tag k="addr:street" v="Kisby Avenue"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="569773893" version="2" timestamp="2021-04-29T18:40:56Z" changeset="103864319" uid="10633286" user="Moorit">
     <nd ref="5479069098"/>
     <nd ref="5479069101"/>
@@ -8184,6 +8051,18 @@
     <nd ref="5479069152"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="pettit road"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773912" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069163"/>
+    <nd ref="5479069164"/>
+    <nd ref="5479069165"/>
+    <nd ref="5479069166"/>
+    <nd ref="5479069163"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="PE29 2DN"/>
+    <tag k="addr:street" v="White Hart Lane"/>
     <tag k="building" v="house"/>
   </way>
   <way id="569773916" version="2" timestamp="2025-02-16T21:48:09Z" changeset="162588265" uid="10633286" user="Moorit">
@@ -8506,23 +8385,120 @@
     <tag k="addr:street" v="Windsor Road"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="569773976" version="2" timestamp="2023-10-13T00:05:50Z" changeset="142500403" uid="10420541" user="Thingummy">
+  <way id="569773968" version="4" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069335"/>
+    <nd ref="5479069336"/>
+    <nd ref="5479069337"/>
+    <nd ref="5479069338"/>
+    <nd ref="5479069335"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773969" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069336"/>
+    <nd ref="5479069339"/>
+    <nd ref="5479069340"/>
+    <nd ref="5479069337"/>
+    <nd ref="5479069336"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773970" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069341"/>
+    <nd ref="5479069342"/>
+    <nd ref="5479069343"/>
+    <nd ref="5479069344"/>
+    <nd ref="5479069341"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773971" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069342"/>
+    <nd ref="5479069345"/>
+    <nd ref="5479069346"/>
+    <nd ref="5479069343"/>
+    <nd ref="5479069342"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773972" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069347"/>
+    <nd ref="5479069348"/>
+    <nd ref="5479069349"/>
+    <nd ref="5479069350"/>
+    <nd ref="5479069347"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773973" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069348"/>
+    <nd ref="5479069351"/>
+    <nd ref="5479069352"/>
+    <nd ref="5479069349"/>
+    <nd ref="5479069348"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773974" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069353"/>
+    <nd ref="5479069354"/>
+    <nd ref="5479069355"/>
+    <nd ref="5479069356"/>
+    <nd ref="5479069353"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773975" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5479069354"/>
+    <nd ref="5479069357"/>
+    <nd ref="5479069358"/>
+    <nd ref="5479069355"/>
+    <nd ref="5479069354"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="569773976" version="3" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
     <nd ref="5479069359"/>
     <nd ref="5479069360"/>
     <nd ref="5479069361"/>
     <nd ref="5479069362"/>
+    <nd ref="12735037662"/>
     <nd ref="5479069359"/>
-    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
     <tag k="addr:street" v="Ravenshoe"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="569773977" version="2" timestamp="2023-10-13T00:05:50Z" changeset="142500403" uid="10420541" user="Thingummy">
+  <way id="569773977" version="3" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
     <nd ref="5479069360"/>
     <nd ref="5479069363"/>
     <nd ref="5479069364"/>
     <nd ref="5479069361"/>
     <nd ref="5479069360"/>
-    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Ravenshoe"/>
     <tag k="building" v="house"/>
   </way>
@@ -8642,7 +8618,7 @@
     <tag k="building" v="apartments"/>
     <tag k="name" v="Danescroft"/>
   </way>
-  <way id="570468753" version="4" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
+  <way id="570468753" version="5" timestamp="2025-04-08T13:10:24Z" changeset="164679086" uid="84263" user="Robert Whittaker">
     <nd ref="5484533346"/>
     <nd ref="5484533347"/>
     <nd ref="5484533348"/>
@@ -8678,6 +8654,7 @@
     <tag k="addr:postcode" v="PE29 2NJ"/>
     <tag k="addr:street" v="Mowlands"/>
     <tag k="addr:suburb" v="Godmanchester"/>
+    <tag k="amenity" v="social_facility"/>
     <tag k="building" v="apartments"/>
     <tag k="building:levels" v="2"/>
     <tag k="name" v="McCartney House"/>
@@ -8750,6 +8727,30 @@
     <tag k="addr:street" v="Bascraft Way"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="570468804" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5484533990"/>
+    <nd ref="5484533991"/>
+    <nd ref="5484533992"/>
+    <nd ref="5484533993"/>
+    <nd ref="5484533990"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="570468805" version="2" timestamp="2025-04-06T19:26:50Z" changeset="164606231" uid="10633286" user="Moorit">
+    <nd ref="5484533994"/>
+    <nd ref="5484533990"/>
+    <nd ref="5484533993"/>
+    <nd ref="5484533995"/>
+    <nd ref="5484533994"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="PE29 2DE"/>
+    <tag k="addr:street" v="Ravenshoe"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="570491516" version="3" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
     <nd ref="11088420967"/>
     <nd ref="5484807758"/>
@@ -8805,6 +8806,27 @@
     <tag k="addr:housenumber" v="90-91-92-93"/>
     <tag k="addr:street" v="Roman Way"/>
     <tag k="building" v="residential"/>
+  </way>
+  <way id="570491534" version="2" timestamp="2025-04-14T20:53:33Z" changeset="164957410" uid="10633286" user="Moorit">
+    <nd ref="5484807842"/>
+    <nd ref="5484807843"/>
+    <nd ref="5484807844"/>
+    <nd ref="5484807845"/>
+    <nd ref="5484807842"/>
+    <tag k="addr:housenumber" v="27 - 29"/>
+    <tag k="addr:street" v="Dovehouse Close"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="570491539" version="2" timestamp="2025-04-14T20:53:33Z" changeset="164957410" uid="10633286" user="Moorit">
+    <nd ref="5484807862"/>
+    <nd ref="5484807863"/>
+    <nd ref="5484807864"/>
+    <nd ref="5484807865"/>
+    <nd ref="5484807866"/>
+    <nd ref="5484807862"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Lions Cross"/>
+    <tag k="building" v="house"/>
   </way>
   <way id="570491581" version="1" timestamp="2018-03-17T15:58:27Z" changeset="57270093" uid="5173844" user="ndrw6">
     <nd ref="5484808148"/>
@@ -10098,6 +10120,28 @@
     <tag k="addr:street" v="Bayliss"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="570679261" version="2" timestamp="2025-04-11T18:10:02Z" changeset="164828417" uid="10633286" user="Moorit">
+    <nd ref="5486461735"/>
+    <nd ref="5486461736"/>
+    <nd ref="5486461737"/>
+    <nd ref="5486461738"/>
+    <nd ref="5486461739"/>
+    <nd ref="5486461740"/>
+    <nd ref="5486461735"/>
+    <tag k="addr:housenumber" v="51A"/>
+    <tag k="addr:street" v="Stokes Drive"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="570679267" version="2" timestamp="2025-04-11T18:10:02Z" changeset="164828417" uid="10633286" user="Moorit">
+    <nd ref="5486461771"/>
+    <nd ref="5486461772"/>
+    <nd ref="5486461773"/>
+    <nd ref="5486461774"/>
+    <nd ref="5486461771"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Stokes Drive"/>
+    <tag k="building" v="house"/>
+  </way>
   <way id="570679284" version="2" timestamp="2023-05-14T18:18:31Z" changeset="136096315" uid="10633286" user="Moorit">
     <nd ref="5486461942"/>
     <nd ref="5486461943"/>
@@ -10240,7 +10284,7 @@
     <tag k="addr:street" v="The Avenue"/>
     <tag k="building" v="terrace"/>
   </way>
-  <way id="663552590" version="12" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
+  <way id="663552590" version="13" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="7694635635"/>
     <nd ref="9188691305"/>
     <nd ref="9188691302"/>
@@ -10259,6 +10303,7 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Reeve Way"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="663552593" version="8" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
     <nd ref="6210796702"/>
@@ -11337,7 +11382,7 @@
     <tag k="building" v="house"/>
     <tag k="building:levels" v="3"/>
   </way>
-  <way id="693810093" version="4" timestamp="2020-06-27T14:04:57Z" changeset="87227432" uid="90142" user="andy mackey">
+  <way id="693810093" version="5" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="6210796719"/>
     <nd ref="6514070445"/>
     <nd ref="6514070444"/>
@@ -11347,13 +11392,15 @@
     <nd ref="6514070439"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Tanner Drive"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="693810094" version="2" timestamp="2020-06-27T14:04:57Z" changeset="87227432" uid="90142" user="andy mackey">
+  <way id="693810094" version="3" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="6210796705"/>
     <nd ref="6210796718"/>
     <nd ref="6210796719"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Tanner Drive"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="693810095" version="4" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
     <nd ref="6514070464"/>
@@ -11743,7 +11790,7 @@
     <tag k="source" v="drive through and jpeg"/>
     <tag k="surface" v="block_paving"/>
   </way>
-  <way id="693810128" version="3" timestamp="2020-07-08T09:59:10Z" changeset="87702281" uid="5173844" user="ndrw6">
+  <way id="693810128" version="4" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="5324639319"/>
     <nd ref="5324639624"/>
     <nd ref="7694635669"/>
@@ -11758,6 +11805,7 @@
     <nd ref="6514070615"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Doherty Road"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="693810129" version="4" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
     <nd ref="6514070626"/>
@@ -12581,7 +12629,7 @@
     <tag k="ref" v="A14"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="743649291" version="4" timestamp="2023-03-02T17:47:16Z" changeset="133222141" uid="10420541" user="Thingummy">
+  <way id="743649291" version="5" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="6960066165"/>
     <nd ref="6960066164"/>
     <nd ref="6960066163"/>
@@ -12591,6 +12639,7 @@
     <nd ref="6960066160"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Cordwainer Road"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="743649292" version="5" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
     <nd ref="7656697644"/>
@@ -13154,19 +13203,18 @@
     <tag k="source:lit" v="trave/photos 2011/08/31"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="753761727" version="8" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
+  <way id="753761727" version="9" timestamp="2025-04-23T10:56:53Z" changeset="165327190" uid="22685556" user="AH9999">
     <nd ref="215655"/>
     <nd ref="1565616186"/>
     <nd ref="100131890"/>
     <tag k="alt_name" v="Huntingdon Road"/>
     <tag k="dual_carriageway" v="yes"/>
-    <tag k="enforcement:maxspeed" v="average"/>
     <tag k="expressway" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="40 mph"/>
-    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
     <tag k="old_ref" v="A14"/>
     <tag k="oneway" v="yes"/>
     <tag k="operator" v="Cambridgeshire County Council"/>
@@ -15196,12 +15244,13 @@
     <tag k="addr:village" v="Godmanchester"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="819909512" version="2" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
+  <way id="819909512" version="3" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="4396202040"/>
     <nd ref="5425470534"/>
     <nd ref="4396260061"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Gumcester Way"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="820174617" version="3" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
     <nd ref="7658566692"/>
@@ -15570,7 +15619,7 @@
     <tag k="addr:suburb" v="Godmanchester"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="844468538" version="5" timestamp="2024-04-10T10:11:46Z" changeset="149812292" uid="10420541" user="Thingummy">
+  <way id="844468538" version="6" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="7877334119"/>
     <nd ref="7877334117"/>
     <nd ref="11806844337"/>
@@ -15581,6 +15630,7 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Fisherman Way"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="844468547" version="2" timestamp="2023-11-25T18:48:00Z" changeset="144450431" uid="13445" user="zorque">
     <nd ref="7877334164"/>
@@ -15608,7 +15658,7 @@
     <tag k="addr:suburb" v="Godmanchester"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="844468551" version="7" timestamp="2023-09-14T20:07:10Z" changeset="141274775" uid="10420541" user="Thingummy">
+  <way id="844468551" version="8" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="11191548416"/>
     <nd ref="1572767007"/>
     <nd ref="9645242712"/>
@@ -15618,8 +15668,9 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Gumcester Way"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="914691149" version="7" timestamp="2024-04-10T10:11:46Z" changeset="149812292" uid="10420541" user="Thingummy">
+  <way id="914691149" version="8" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="6960066160"/>
     <nd ref="11806844335"/>
     <nd ref="9530892049"/>
@@ -15634,6 +15685,7 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Cordwainer Road"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="914691150" version="2" timestamp="2021-10-21T00:42:52Z" changeset="112767354" uid="5173844" user="ndrw6">
     <nd ref="8496917957"/>
@@ -15642,7 +15694,7 @@
     <tag k="construction" v="residential"/>
     <tag k="highway" v="residential"/>
   </way>
-  <way id="914691151" version="4" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
+  <way id="914691151" version="5" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="8496917959"/>
     <nd ref="8496917958"/>
     <nd ref="11088421107"/>
@@ -15652,6 +15704,7 @@
     <nd ref="9530892048"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Cordwainer Road"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="914691158" version="2" timestamp="2022-10-04T18:57:29Z" changeset="127011115" uid="6476359" user="NSiecw">
     <nd ref="8496917991"/>
@@ -15755,6 +15808,18 @@
     <tag k="oneway" v="no"/>
     <tag k="source" v="gpx"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="980723508" version="2" timestamp="2024-09-07T15:04:04Z" changeset="156316893" uid="10420541" user="Thingummy">
+    <nd ref="9072065924"/>
+    <nd ref="9072065947"/>
+    <nd ref="9072065941"/>
+    <nd ref="9072065936"/>
+    <nd ref="9072065924"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Muddy Trowel Cafe"/>
+    <tag k="outdoor_seating" v="yes"/>
   </way>
   <way id="988957461" version="7" timestamp="2024-01-09T11:59:43Z" changeset="146064087" uid="5229644" user="Nathan_A_RF">
     <nd ref="5263954362"/>
@@ -16055,7 +16120,7 @@
     <nd ref="9188691558"/>
     <tag k="highway" v="residential"/>
   </way>
-  <way id="995064015" version="5" timestamp="2024-04-17T11:46:34Z" changeset="150125264" uid="10420541" user="Thingummy">
+  <way id="995064015" version="6" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="6960124379"/>
     <nd ref="11824576012"/>
     <nd ref="10062599033"/>
@@ -16065,14 +16130,16 @@
     <nd ref="9188691581"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Chambers Way"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="995064017" version="4" timestamp="2023-09-20T10:02:12Z" changeset="141505289" uid="10420541" user="Thingummy">
+  <way id="995064017" version="5" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="9188691579"/>
     <nd ref="10601631660"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="SoutheyDrive"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="995064019" version="5" timestamp="2024-04-17T11:46:34Z" changeset="150125264" uid="10420541" user="Thingummy">
+  <way id="995064019" version="6" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="9188691582"/>
     <nd ref="11824576006"/>
     <nd ref="10601631656"/>
@@ -16080,6 +16147,7 @@
     <nd ref="9188691579"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Wilson Drive"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="995064020" version="2" timestamp="2024-12-30T14:25:49Z" changeset="160794546" uid="10420541" user="Thingummy">
     <nd ref="9188691586"/>
@@ -16159,7 +16227,7 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Gornall Way"/>
   </way>
-  <way id="995064067" version="5" timestamp="2024-12-31T17:28:52Z" changeset="160842481" uid="12667551" user="Neil James Tarrant">
+  <way id="995064067" version="6" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="10195710139"/>
     <nd ref="11824576013"/>
     <nd ref="9188691760"/>
@@ -16168,6 +16236,7 @@
     <nd ref="9188691764"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Jordan Close"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="995064069" version="2" timestamp="2022-10-04T18:57:29Z" changeset="127011115" uid="6476359" user="NSiecw">
     <nd ref="9188691772"/>
@@ -16289,28 +16358,7 @@
     <tag k="addr:village" v="Godmanchester"/>
     <tag k="building" v="detached"/>
   </way>
-  <way id="995647765" version="7" timestamp="2024-09-07T15:17:47Z" changeset="156317464" uid="10420541" user="Thingummy">
-    <nd ref="2384421577"/>
-    <nd ref="12162016711"/>
-    <nd ref="12162016714"/>
-    <nd ref="6650500452"/>
-    <nd ref="6650500435"/>
-    <nd ref="6650500433"/>
-    <nd ref="9571926574"/>
-    <nd ref="9571926573"/>
-    <nd ref="12162016715"/>
-    <nd ref="2384421577"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE29 2AG"/>
-    <tag k="addr:street" v="Park Lane"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="alt_name" v="Huntingdonshire community plant and tree nursery"/>
-    <tag k="landuse" v="plant_nursery"/>
-    <tag k="name" v="Godmanchester Community Pant Nursery"/>
-    <tag k="operator" v="Godmanchester Town Council"/>
-    <tag k="shop" v="yes"/>
-  </way>
-  <way id="1010821061" version="6" timestamp="2023-07-19T20:07:23Z" changeset="138733935" uid="10420541" user="Thingummy">
+  <way id="1010821061" version="7" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="4396202030"/>
     <nd ref="9391922038"/>
     <nd ref="10788524171"/>
@@ -16320,6 +16368,7 @@
     <tag k="name" v="Russet Close"/>
     <tag k="oneway" v="no"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="1017215538" version="1" timestamp="2021-12-31T19:11:35Z" changeset="115620255" uid="10420541" user="Thingummy">
     <nd ref="9382469409"/>
@@ -16327,7 +16376,7 @@
     <tag k="access" v="yes"/>
     <tag k="highway" v="residential"/>
   </way>
-  <way id="1034934051" version="13" timestamp="2024-12-31T17:28:52Z" changeset="160842481" uid="12667551" user="Neil James Tarrant">
+  <way id="1034934051" version="14" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="11088421476"/>
     <nd ref="11088421475"/>
     <nd ref="11088421474"/>
@@ -16342,6 +16391,7 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Stirling Square"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="1036597026" version="3" timestamp="2023-08-04T03:12:04Z" changeset="139419848" uid="5173844" user="ndrw6">
     <nd ref="6245128653"/>
@@ -17488,7 +17538,7 @@
     <tag k="name" v="Kisby Avenue"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="1204259647" version="3" timestamp="2024-04-17T11:46:34Z" changeset="150125264" uid="10420541" user="Thingummy">
+  <way id="1204259647" version="4" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="7694635635"/>
     <nd ref="6960124378"/>
     <nd ref="10062599028"/>
@@ -17499,8 +17549,9 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Doherty Road"/>
+    <tag k="unadopted" v="yes"/>
   </way>
-  <way id="1204259648" version="4" timestamp="2024-02-24T18:49:18Z" changeset="147867089" uid="10420541" user="Thingummy">
+  <way id="1204259648" version="5" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="10601631622"/>
     <nd ref="11088421480"/>
     <nd ref="11088421479"/>
@@ -17511,7 +17562,7 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Stirling Square"/>
-    <tag k="oneway" v="no"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="1205370751" version="3" timestamp="2025-03-15T14:14:58Z" changeset="163652595" uid="5229644" user="Nathan_A_RF">
     <nd ref="11170918544"/>
@@ -17744,24 +17795,17 @@
     <tag k="addr:street" v="St. Ann's Lane"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="1221984643" version="4" timestamp="2024-02-16T21:57:40Z" changeset="147550423" uid="10420541" user="Thingummy">
-    <nd ref="5486678903"/>
-    <nd ref="5486678904"/>
-    <nd ref="5486678905"/>
-    <nd ref="5486678906"/>
-    <nd ref="5486678901"/>
-    <nd ref="5486678902"/>
-    <nd ref="5486678903"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housenumber" v="Jundith's Field Hall"/>
-    <tag k="addr:postcode" v="PE29 2WB"/>
-    <tag k="addr:street" v="London Road"/>
-    <tag k="addr:suburb" v="Godmanchester"/>
-    <tag k="amenity" v="events_venue"/>
-    <tag k="building:material" v="brick"/>
-    <tag k="name" v="Judith's Field Hall"/>
-    <tag k="operator" v="Godmanchester Town Council"/>
-    <tag k="website" v="https://gmccouncil.com/council-services/hall-hire/"/>
+  <way id="1220537610" version="2" timestamp="2023-11-03T14:40:02Z" changeset="143577970" uid="10420541" user="Thingummy">
+    <nd ref="11309890125"/>
+    <nd ref="11309890126"/>
+    <nd ref="11309890128"/>
+    <nd ref="11309890124"/>
+    <nd ref="11309890125"/>
+    <tag k="access:conditional" v="Key exibits from window; entry certain days"/>
+    <tag k="building" v="podium"/>
+    <tag k="historic" v="exhibit"/>
+    <tag k="historic:period" v="Roman"/>
+    <tag k="name" v="Porch Museum"/>
   </way>
   <way id="1222619679" version="1" timestamp="2023-11-10T23:12:36Z" changeset="143882482" uid="10420541" user="Thingummy">
     <nd ref="11339652887"/>
@@ -17868,6 +17912,18 @@
     <tag k="amenity" v="childcare"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Clarence House"/>
+  </way>
+  <way id="1224873955" version="1" timestamp="2023-11-17T20:28:37Z" changeset="144153738" uid="10420541" user="Thingummy">
+    <nd ref="11359055704"/>
+    <nd ref="2384450181"/>
+    <nd ref="2384450555"/>
+    <nd ref="11359055705"/>
+    <nd ref="11359055704"/>
+    <tag k="building" v="yes"/>
+    <tag k="hairdresser" v="barber"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="King Barbers"/>
+    <tag k="shop" v="hairdresser"/>
   </way>
   <way id="1224873956" version="1" timestamp="2023-11-17T20:28:37Z" changeset="144153738" uid="10420541" user="Thingummy">
     <nd ref="11359055712"/>
@@ -18223,6 +18279,18 @@
     <tag k="addr:street" v="Stirling Square"/>
     <tag k="building" v="semidetached_house"/>
   </way>
+  <way id="1270972389" version="2" timestamp="2024-04-08T19:33:50Z" changeset="149749967" uid="10420541" user="Thingummy">
+    <nd ref="2384408784"/>
+    <nd ref="11802797142"/>
+    <nd ref="11802797143"/>
+    <nd ref="11802730248"/>
+    <nd ref="11802730249"/>
+    <nd ref="11802730250"/>
+    <nd ref="2384408784"/>
+    <tag k="amenity" v="childcare"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Jigsaw"/>
+  </way>
   <way id="1271289696" version="1" timestamp="2024-04-09T21:37:09Z" changeset="149795669" uid="5229644" user="Nathan_A_RF">
     <nd ref="11805876760"/>
     <nd ref="11191548413"/>
@@ -18262,7 +18330,7 @@
     <tag k="old_ref" v="A14"/>
     <tag k="ref" v="A1198"/>
   </way>
-  <way id="1273336822" version="1" timestamp="2024-04-17T11:46:34Z" changeset="150125264" uid="10420541" user="Thingummy">
+  <way id="1273336822" version="2" timestamp="2025-04-26T10:56:43Z" changeset="165459607" uid="10420541" user="Thingummy">
     <nd ref="6514070615"/>
     <nd ref="9550041707"/>
     <nd ref="10195710148"/>
@@ -18275,6 +18343,7 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Doherty Road"/>
+    <tag k="unadopted" v="yes"/>
   </way>
   <way id="1312519852" version="2" timestamp="2024-09-02T10:51:02Z" changeset="156092092" uid="10420541" user="Thingummy">
     <nd ref="12148790661"/>
@@ -18391,23 +18460,6 @@
     <tag k="layer" v="1"/>
     <tag k="lcn" v="CambsCC-Huntingdon-StIves"/>
     <tag k="name" v="Cow Lane"/>
-  </way>
-  <way id="1346193338" version="1" timestamp="2024-12-25T17:08:42Z" changeset="160611193" uid="5173844" user="ndrw6">
-    <nd ref="12451368396"/>
-    <nd ref="12451438901"/>
-    <nd ref="12451368400"/>
-    <nd ref="12451368399"/>
-    <nd ref="12451438905"/>
-    <nd ref="12451438904"/>
-    <nd ref="12451438903"/>
-    <nd ref="12451368397"/>
-    <nd ref="12451368396"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 9PA"/>
-    <tag k="addr:street" v="Ermine Street"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Depden Lodge Farm"/>
   </way>
   <way id="1346731723" version="1" timestamp="2024-12-27T21:08:40Z" changeset="160692793" uid="12667551" user="Neil James Tarrant">
     <nd ref="9486120042"/>

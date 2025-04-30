@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="312350683" lat="52.4400994" lon="-0.3764695" version="2" timestamp="2010-12-27T22:21:25Z" changeset="6782961" uid="4951" user="PeterEastern"/>
-  <node id="312350810" lat="52.4727388" lon="-0.3650243" version="3" timestamp="2009-08-10T19:28:23Z" changeset="2101081" uid="66869" user="Simon Daw"/>
+  <node id="309980352" lat="52.4403014" lon="-0.3510214" version="7" timestamp="2011-06-04T21:28:07Z" changeset="8343419" uid="7098" user="richardm565"/>
   <node id="312353043" lat="52.4148966" lon="-0.3254431" version="7" timestamp="2011-06-05T18:30:52Z" changeset="8352431" uid="7098" user="richardm565"/>
   <node id="322090898" lat="52.4706842" lon="-0.3413068" version="1" timestamp="2008-12-27T19:01:33Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="322091333" lat="52.4614879" lon="-0.3382742" version="1" timestamp="2008-12-27T19:04:14Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="322093506" lat="52.4521814" lon="-0.3328796" version="3" timestamp="2020-10-11T10:40:14Z" changeset="92297687" uid="281267" user="smb1001"/>
-  <node id="322101567" lat="52.4245959" lon="-0.3383075" version="1" timestamp="2008-12-27T19:42:45Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="347794385" lat="52.4191187" lon="-0.3303140" version="1" timestamp="2009-02-19T23:57:28Z" changeset="569901" uid="91225" user="tms13">
-    <tag k="created_by" v="Merkaartor 0.12"/>
-  </node>
-  <node id="347797806" lat="52.4383576" lon="-0.3726896" version="3" timestamp="2012-03-17T00:16:59Z" changeset="11003796" uid="553735" user="Johnmb"/>
+  <node id="322093480" lat="52.4571426" lon="-0.3408446" version="3" timestamp="2020-10-11T10:40:14Z" changeset="92297687" uid="281267" user="smb1001"/>
+  <node id="322093507" lat="52.4520659" lon="-0.3329431" version="1" timestamp="2008-12-27T19:13:58Z" changeset="630646" uid="7037" user="Gregory Williams"/>
+  <node id="347797799" lat="52.4338543" lon="-0.3598363" version="4" timestamp="2020-04-26T20:45:23Z" changeset="84158163" uid="90142" user="andy mackey"/>
   <node id="540975168" lat="52.4153183" lon="-0.3752214" version="1" timestamp="2009-10-26T20:18:11Z" changeset="2959872" uid="28864" user="Hook"/>
+  <node id="4019746111" lat="52.4545960" lon="-0.3444814" version="2" timestamp="2017-04-11T10:42:34Z" changeset="47653032" uid="281267" user="smb1001">
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Flittermere Farm"/>
+  </node>
   <way id="28428929" version="6" timestamp="2020-04-26T20:45:23Z" changeset="84158163" uid="90142" user="andy mackey">
     <nd ref="309980347"/>
     <nd ref="7450069721"/>
@@ -491,6 +490,18 @@
     <tag k="name" v="Chapel End"/>
     <tag k="source" v="survey"/>
   </way>
+  <way id="116407746" version="2" timestamp="2023-02-25T01:18:52Z" changeset="132990156" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="1312358621"/>
+    <nd ref="1312358623"/>
+    <nd ref="1312358637"/>
+    <nd ref="1312358646"/>
+    <nd ref="10692190712"/>
+    <nd ref="1312358621"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Great Gidding Village Hall"/>
+  </way>
   <way id="122732717" version="7" timestamp="2021-08-30T10:35:34Z" changeset="110452879" uid="11734032" user="daitv">
     <nd ref="322093542"/>
     <nd ref="322093543"/>
@@ -515,6 +526,69 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Milking Slade Lane"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="232644302" version="2" timestamp="2024-05-23T10:42:11Z" changeset="151716736" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="2409844828"/>
+    <nd ref="2409844838"/>
+    <nd ref="2409844808"/>
+    <nd ref="2409844854"/>
+    <nd ref="2409844908"/>
+    <nd ref="2409844951"/>
+    <nd ref="2409844893"/>
+    <nd ref="2409844905"/>
+    <nd ref="2409844828"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="The Old Chapel"/>
+    <tag k="addr:postcode" v="PE28 5NU"/>
+    <tag k="addr:suburb" v="Great Gidding"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Catalyst Design"/>
+  </way>
+  <way id="232644303" version="7" timestamp="2024-05-23T10:42:11Z" changeset="151716736" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="2409844851"/>
+    <nd ref="2409844862"/>
+    <nd ref="2409844795"/>
+    <nd ref="2409844940"/>
+    <nd ref="2409844812"/>
+    <nd ref="2409844840"/>
+    <nd ref="2409844934"/>
+    <nd ref="2409844805"/>
+    <nd ref="2409844946"/>
+    <nd ref="2409844911"/>
+    <nd ref="2409844933"/>
+    <nd ref="2409844952"/>
+    <nd ref="2409844851"/>
+    <tag k="HE_ref" v="1130104"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 5NX"/>
+    <tag k="addr:suburb" v="Great Gidding"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="name" v="Saint Michael (Great Gidding Parish Church)"/>
+    <tag k="ref:dove" v="16711"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543942"/>
+  </way>
+  <way id="232644312" version="3" timestamp="2024-01-13T12:02:45Z" changeset="146211897" uid="1713634" user="b-unicycling">
+    <nd ref="2409844806"/>
+    <nd ref="2409844942"/>
+    <nd ref="2409844884"/>
+    <nd ref="2409844855"/>
+    <nd ref="2409844796"/>
+    <nd ref="2409844860"/>
+    <nd ref="2409844806"/>
+    <tag k="HE_ref" v="1222773"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="heritage" v="2"/>
+    <tag k="name" v="Great Gidding Baptist Church"/>
+    <tag k="religion" v="christian"/>
   </way>
   <way id="486077120" version="2" timestamp="2019-07-25T09:50:43Z" changeset="72635811" uid="1352486" user="vmeads">
     <nd ref="347798599"/>

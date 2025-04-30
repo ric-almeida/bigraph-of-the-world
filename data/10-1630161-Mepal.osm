@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:10:10Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:36:22Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="14570868" lat="52.4298220" lon="0.0878513" version="6" timestamp="2024-04-04T14:58:25Z" changeset="149574652" uid="5229644" user="Nathan_A_RF"/>
   <node id="14570873" lat="52.4299370" lon="0.0881501" version="6" timestamp="2024-04-04T14:58:25Z" changeset="149574652" uid="5229644" user="Nathan_A_RF"/>
+  <node id="14570874" lat="52.4294805" lon="0.0882172" version="4" timestamp="2024-04-04T14:58:25Z" changeset="149574652" uid="5229644" user="Nathan_A_RF"/>
   <node id="267181171" lat="52.4019108" lon="0.1464691" version="3" timestamp="2015-07-31T20:00:45Z" changeset="33016554" uid="669183" user="Andy_W"/>
+  <node id="507101743" lat="52.4034710" lon="0.1193086" version="2" timestamp="2020-06-19T16:56:07Z" changeset="86886941" uid="5173844" user="ndrw6"/>
+  <node id="507101929" lat="52.4078298" lon="0.1125100" version="2" timestamp="2010-06-15T21:30:56Z" changeset="4995978" uid="7098" user="richardm565"/>
   <node id="507102100" lat="52.4022366" lon="0.1169285" version="2" timestamp="2012-01-14T14:43:41Z" changeset="10388341" uid="7098" user="richardm565"/>
-  <node id="507102111" lat="52.4065494" lon="0.1192679" version="4" timestamp="2025-02-23T13:34:39Z" changeset="162852140" uid="22551827" user="Swarming00">
-    <tag k="addr:city" v="Mepal"/>
-    <tag k="addr:housenumber" v="7A"/>
-    <tag k="addr:postcode" v="CB6 2AW"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="brand" v="Post Office"/>
-    <tag k="brand:wikidata" v="Q1783168"/>
-    <tag k="name" v="Mepal Stores and Post Office"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-19:00; Su 08:00-13:00"/>
-    <tag k="phone" v="+44 (0)1353 778275"/>
-    <tag k="website" v="https://www.facebook.com/p/Mepal-Post-Office-Stores-100057649651304/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="1592870802" lat="52.4301122" lon="0.0886305" version="2" timestamp="2024-04-04T14:58:25Z" changeset="149574652" uid="5229644" user="Nathan_A_RF"/>
+  <node id="12372650127" lat="52.4145718" lon="0.1232952" version="2" timestamp="2024-11-25T23:24:45Z" changeset="159593467" uid="10420541" user="Thingummy">
+    <tag k="building" v="yes"/>
+    <tag k="man_made" v="pumping_station"/>
+    <tag k="name" v="Tidal Outfall"/>
+    <tag k="note" v="Passive Outfall, Intake usage unknown"/>
+    <tag k="operator" v="Littleport and Downham Internal Drainage Board"/>
+  </node>
   <way id="4245675" version="6" timestamp="2024-04-04T14:58:25Z" changeset="149574652" uid="5229644" user="Nathan_A_RF">
     <nd ref="14570873"/>
     <nd ref="1589631097"/>
@@ -656,36 +651,6 @@
     <tag k="name" v="River Close"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="41458851" version="10" timestamp="2023-11-02T09:58:58Z" changeset="143520790" uid="37791" user="Fradeve11">
-    <nd ref="507102171"/>
-    <nd ref="507102173"/>
-    <nd ref="7636033950"/>
-    <nd ref="7636033951"/>
-    <nd ref="507102175"/>
-    <nd ref="507102172"/>
-    <nd ref="507102171"/>
-    <tag k="addr:postcode" v="CB6 2AL"/>
-    <tag k="addr:street" v="Brangehill Road"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="105"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="diocese" v="Diocese of Ely"/>
-    <tag k="isced:level" v="0;1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="2"/>
-    <tag k="name" v="Mepal and Witcham Church of England Primary School"/>
-    <tag k="phone" v="+44 1353 778300"/>
-    <tag k="ref:GB:uprn" v="10002596766"/>
-    <tag k="ref:edubase" v="141212"/>
-    <tag k="ref:edubase:group" v="2905"/>
-    <tag k="religion" v="christian"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="The Diocese of Ely Multi-Academy Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="website" v="https://www.mepalwitcham.cambs.sch.uk/"/>
-    <tag k="wikidata" v="Q66230783"/>
-  </way>
   <way id="62041294" version="7" timestamp="2021-08-26T13:28:05Z" changeset="110289039" uid="242345" user="confusedbuffalo">
     <nd ref="773312564"/>
     <nd ref="1589631092"/>
@@ -793,6 +758,39 @@
     <tag k="highway" v="tertiary"/>
     <tag k="maxspeed" v="40 mph"/>
     <tag k="name" v="Witcham Road"/>
+  </way>
+  <way id="359178703" version="5" timestamp="2025-02-23T13:37:18Z" changeset="162852265" uid="22551827" user="Swarming00">
+    <nd ref="3639361291"/>
+    <nd ref="3639361290"/>
+    <nd ref="10054533052"/>
+    <nd ref="10054533053"/>
+    <nd ref="3639361292"/>
+    <nd ref="3639361289"/>
+    <nd ref="3639361894"/>
+    <nd ref="10054533054"/>
+    <nd ref="10054533055"/>
+    <nd ref="3639361291"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary (Mepal Parish Church)"/>
+    <tag k="phone" v="+44 (0)1353 778129"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="https://www.achurchnearyou.com/church/13961/"/>
+    <tag k="wikidata" v="Q17543575"/>
+  </way>
+  <way id="468726164" version="1" timestamp="2017-01-25T12:38:40Z" changeset="45474059" uid="281267" user="smb1001">
+    <nd ref="507101776"/>
+    <nd ref="4632019230"/>
+    <nd ref="4632019226"/>
+    <nd ref="4632019229"/>
+    <nd ref="4632019227"/>
+    <nd ref="4632019228"/>
+    <nd ref="507101776"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Mepal Community Pavilion"/>
   </way>
   <way id="696672263" version="1" timestamp="2019-06-12T13:03:18Z" changeset="71179882" uid="9196095" user="mhdrahm">
     <nd ref="6542423175"/>

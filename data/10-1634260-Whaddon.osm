@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="25720261" lat="52.0853168" lon="-0.0397406" version="3" timestamp="2011-12-13T23:00:04Z" changeset="10112063" uid="5926" user="c2r"/>
+  <node id="25720268" lat="52.1175501" lon="-0.0533577" version="7" timestamp="2024-07-17T09:23:34Z" changeset="154048839" uid="742701" user="kerr smith"/>
   <node id="34956429" lat="52.0992233" lon="-0.0059239" version="2" timestamp="2008-07-03T14:50:09Z" changeset="377944" uid="3582" user="davidearl">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="275939747" lat="52.0944351" lon="-0.0442406" version="1" timestamp="2008-07-03T14:36:00Z" changeset="377944" uid="3582" user="davidearl"/>
+  <node id="275939752" lat="52.0945512" lon="-0.0435890" version="3" timestamp="2024-08-21T17:37:16Z" changeset="155571032" uid="742701" user="kerr smith"/>
   <node id="275939769" lat="52.0946114" lon="-0.0442698" version="1" timestamp="2008-07-03T14:36:01Z" changeset="377944" uid="3582" user="davidearl"/>
-  <node id="275941799" lat="52.1190704" lon="-0.0539918" version="6" timestamp="2024-07-17T09:23:34Z" changeset="154048839" uid="742701" user="kerr smith"/>
-  <node id="275941907" lat="52.1123708" lon="-0.0648097" version="1" timestamp="2008-07-03T14:48:14Z" changeset="377944" uid="3582" user="davidearl"/>
+  <node id="275941800" lat="52.1189037" lon="-0.0539178" version="5" timestamp="2024-07-17T09:23:34Z" changeset="154048839" uid="742701" user="kerr smith"/>
+  <node id="355596358" lat="52.0913460" lon="-0.0305542" version="2" timestamp="2011-01-16T17:56:47Z" changeset="6991153" uid="5926" user="c2r"/>
+  <node id="1572820994" lat="52.0978662" lon="-0.0450713" version="2" timestamp="2024-08-21T17:37:16Z" changeset="155571032" uid="742701" user="kerr smith"/>
+  <node id="4153793541" lat="52.0936958" lon="-0.0426194" version="1" timestamp="2016-04-28T15:39:33Z" changeset="38955195" uid="281267" user="smb1001"/>
   <way id="5106716" version="4" timestamp="2012-10-19T14:46:37Z" changeset="13557814" uid="322785" user="BCNorwich">
     <nd ref="34956429"/>
     <nd ref="34956443"/>
@@ -381,6 +384,33 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="148844699" version="4" timestamp="2024-08-21T11:50:07Z" changeset="155553707" uid="742701" user="kerr smith">
+    <nd ref="1619065372"/>
+    <nd ref="1619065369"/>
+    <nd ref="1619065376"/>
+    <nd ref="12124293525"/>
+    <nd ref="1619065373"/>
+    <nd ref="1619065371"/>
+    <nd ref="1619065370"/>
+    <nd ref="1619065365"/>
+    <nd ref="1619065366"/>
+    <nd ref="1619065363"/>
+    <nd ref="12124293554"/>
+    <nd ref="12124293553"/>
+    <nd ref="12124293524"/>
+    <nd ref="12124293552"/>
+    <nd ref="12124293555"/>
+    <nd ref="1619065364"/>
+    <nd ref="1619065367"/>
+    <nd ref="1619065368"/>
+    <nd ref="1619065372"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary (Whaddon Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17528198"/>
+  </way>
   <way id="245524146" version="1" timestamp="2013-11-10T20:48:32Z" changeset="18823494" uid="1247041" user="Essex_Boy">
     <nd ref="275939563"/>
     <nd ref="275939562"/>
@@ -466,6 +496,30 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Cardiff Place"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="523633505" version="3" timestamp="2024-08-21T11:50:07Z" changeset="155553707" uid="742701" user="kerr smith">
+    <nd ref="5097257892"/>
+    <nd ref="12124293598"/>
+    <nd ref="12124293587"/>
+    <nd ref="12124293588"/>
+    <nd ref="5097257888"/>
+    <nd ref="12124293582"/>
+    <nd ref="12124293585"/>
+    <nd ref="12124293580"/>
+    <nd ref="12124293579"/>
+    <nd ref="12124293581"/>
+    <nd ref="5097257890"/>
+    <nd ref="5097257891"/>
+    <nd ref="5097257889"/>
+    <nd ref="12124293569"/>
+    <nd ref="12124293567"/>
+    <nd ref="5097257893"/>
+    <nd ref="12124293568"/>
+    <nd ref="5097257892"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Whaddon Village Hall"/>
   </way>
   <way id="647529573" version="2" timestamp="2021-11-16T17:45:04Z" changeset="113862329" uid="61942" user="SomeoneElse">
     <nd ref="275939470"/>

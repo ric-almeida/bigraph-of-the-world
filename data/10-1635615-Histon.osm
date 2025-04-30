@@ -1,131 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:16:13Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:28:05Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="20106604" lat="52.2412896" lon="0.1106492" version="5" timestamp="2024-08-08T12:56:33Z" changeset="154977988" uid="8061502" user="galacticism"/>
-  <node id="20106667" lat="52.2386415" lon="0.1100716" version="10" timestamp="2024-08-08T13:02:18Z" changeset="154978286" uid="8061502" user="galacticism"/>
-  <node id="20106684" lat="52.2366892" lon="0.1111832" version="3" timestamp="2011-01-20T09:48:26Z" changeset="7028478" uid="383983" user="Ben Wheatley"/>
-  <node id="21337362" lat="52.2707806" lon="0.1138116" version="6" timestamp="2024-03-28T09:28:18Z" changeset="149258385" uid="5173844" user="ndrw6"/>
-  <node id="25277833" lat="52.2524149" lon="0.0838909" version="2" timestamp="2024-08-08T12:19:36Z" changeset="154976241" uid="8061502" user="galacticism"/>
-  <node id="25612010" lat="52.2414022" lon="0.1106529" version="6" timestamp="2024-08-08T12:56:33Z" changeset="154977988" uid="8061502" user="galacticism"/>
-  <node id="25612018" lat="52.2464412" lon="0.1101247" version="2" timestamp="2011-01-04T16:11:33Z" changeset="6862376" uid="383983" user="Ben Wheatley"/>
-  <node id="25612057" lat="52.2549151" lon="0.1041496" version="6" timestamp="2022-09-20T19:37:09Z" changeset="126436903" uid="6476359" user="NSiecw">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="CB24 9EP"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:village" v="Histon"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="name" v="King William IV"/>
-    <tag k="wikidata" v="Q26420307"/>
+  <node id="20103126" lat="52.2511485" lon="0.1086345" version="7" timestamp="2024-09-14T19:48:54Z" changeset="156625771" uid="5173844" user="ndrw6"/>
+  <node id="20106537" lat="52.2479872" lon="0.1091471" version="2" timestamp="2011-01-04T16:11:28Z" changeset="6862376" uid="383983" user="Ben Wheatley"/>
+  <node id="20106568" lat="52.2464120" lon="0.1090675" version="3" timestamp="2016-06-17T12:05:56Z" changeset="40090606" uid="669183" user="Andy_W"/>
+  <node id="21337051" lat="52.2513864" lon="0.1087587" version="5" timestamp="2016-06-17T12:01:25Z" changeset="40090606" uid="669183" user="Andy_W"/>
+  <node id="21337075" lat="52.2527144" lon="0.1100835" version="5" timestamp="2016-06-17T11:58:39Z" changeset="40090606" uid="669183" user="Andy_W"/>
+  <node id="21337084" lat="52.2530040" lon="0.1102539" version="5" timestamp="2016-06-17T11:58:39Z" changeset="40090606" uid="669183" user="Andy_W"/>
+  <node id="25612151" lat="52.2542415" lon="0.1129109" version="3" timestamp="2011-01-20T14:04:18Z" changeset="7030837" uid="383983" user="Ben Wheatley"/>
+  <node id="25612155" lat="52.2455758" lon="0.1096125" version="4" timestamp="2016-06-17T12:05:56Z" changeset="40090606" uid="669183" user="Andy_W"/>
+  <node id="25612184" lat="52.2462139" lon="0.1092052" version="4" timestamp="2016-06-17T12:05:56Z" changeset="40090606" uid="669183" user="Andy_W"/>
+  <node id="25612361" lat="52.2530088" lon="0.1109983" version="3" timestamp="2011-01-20T14:04:11Z" changeset="7030837" uid="383983" user="Ben Wheatley"/>
+  <node id="25612374" lat="52.2421703" lon="0.1106787" version="10" timestamp="2024-08-08T12:56:33Z" changeset="154977988" uid="8061502" user="galacticism">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="toucan"/>
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="note" v="Traffic signals (owing to busway) + toucan crossing, over busway and road"/>
+    <tag k="traffic_signals:direction" v="both"/>
   </node>
-  <node id="25612058" lat="52.2453197" lon="0.1108100" version="4" timestamp="2011-07-20T17:50:37Z" changeset="8780939" uid="383983" user="Ben Wheatley">
-    <tag k="cycleway" v="asl"/>
-    <tag k="note:cycleway" v="ASLs on all three approaches"/>
-  </node>
-  <node id="25612087" lat="52.2502687" lon="0.1120125" version="2" timestamp="2011-01-04T16:11:34Z" changeset="6862376" uid="383983" user="Ben Wheatley"/>
-  <node id="25612174" lat="52.2514410" lon="0.1082285" version="4" timestamp="2024-05-10T12:54:35Z" changeset="151145102" uid="104519" user="Rupert Swarbrick">
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="The Green"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="international"/>
-    <tag k="name" v="Tawa Lounge"/>
-    <tag k="opening_hours" v="We,Th 08:45-22:30; Fr 08:45-23:00; Sa 09:00-23:00; Su 10:00-16:00"/>
-  </node>
-  <node id="25612197" lat="52.2526697" lon="0.1118238" version="2" timestamp="2011-01-20T14:04:19Z" changeset="7030837" uid="383983" user="Ben Wheatley"/>
-  <node id="25612364" lat="52.2416215" lon="0.1106601" version="6" timestamp="2024-08-08T12:56:33Z" changeset="154977988" uid="8061502" user="galacticism"/>
   <node id="25612387" lat="52.2451411" lon="0.1098387" version="4" timestamp="2016-06-17T12:05:56Z" changeset="40090606" uid="669183" user="Andy_W"/>
-  <node id="25612453" lat="52.2477047" lon="0.1094023" version="3" timestamp="2016-06-17T12:05:56Z" changeset="40090606" uid="669183" user="Andy_W"/>
-  <node id="414244869" lat="52.2501673" lon="0.1124471" version="3" timestamp="2011-10-11T11:20:34Z" changeset="9529845" uid="4663" user="G3YAC"/>
-  <node id="480352241" lat="52.2381528" lon="0.1101360" version="5" timestamp="2024-08-08T13:02:18Z" changeset="154978286" uid="8061502" user="galacticism"/>
-  <node id="480352251" lat="52.2398496" lon="0.1103483" version="7" timestamp="2024-08-08T13:02:18Z" changeset="154978286" uid="8061502" user="galacticism"/>
-  <node id="568437482" lat="52.2517442" lon="0.1068659" version="3" timestamp="2024-05-10T18:50:41Z" changeset="151160394" uid="9088405" user="TheUKHighStreet">
-    <tag k="addr:city" v="Histon"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="CB24 9JD"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="amenity" v="pharmacy"/>
-    <tag k="brand" v="Well Pharmacy"/>
-    <tag k="brand:wikidata" v="Q7726524"/>
-    <tag k="dispensing" v="yes"/>
-    <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Well Pharmacy"/>
-    <tag k="website" v="https://www.nhs.uk/services/pharmacy/WELL/FT890"/>
+  <node id="25612478" lat="52.2554070" lon="0.1149661" version="3" timestamp="2011-01-20T14:04:12Z" changeset="7030837" uid="383983" user="Ben Wheatley"/>
+  <node id="25612592" lat="52.2422763" lon="0.1106859" version="6" timestamp="2024-08-08T12:56:33Z" changeset="154977988" uid="8061502" user="galacticism">
+    <tag k="highway" v="traffic_signals"/>
   </node>
-  <node id="1024788591" lat="52.2486632" lon="0.1167478" version="3" timestamp="2024-09-14T19:48:54Z" changeset="156625771" uid="5173844" user="ndrw6"/>
+  <node id="870380991" lat="52.2652899" lon="0.1108517" version="3" timestamp="2018-05-04T21:33:33Z" changeset="58692159" uid="5173844" user="ndrw6">
+    <tag k="traffic_sign" v="city_limit"/>
+  </node>
   <node id="1082350526" lat="52.2460874" lon="0.1102896" version="2" timestamp="2016-06-17T12:05:56Z" changeset="40090606" uid="669183" user="Andy_W"/>
-  <node id="1111414161" lat="52.2367547" lon="0.1106198" version="2" timestamp="2022-03-24T09:44:23Z" changeset="118855947" uid="5173844" user="ndrw6"/>
-  <node id="1111639244" lat="52.2547926" lon="0.1158719" version="1" timestamp="2011-01-20T14:03:02Z" changeset="7030837" uid="383983" user="Ben Wheatley"/>
-  <node id="1111640182" lat="52.2524363" lon="0.1114021" version="2" timestamp="2012-12-15T21:49:27Z" changeset="14286576" uid="38588" user="mentor"/>
-  <node id="1122619166" lat="52.2520504" lon="0.1059969" version="7" timestamp="2023-09-11T12:46:18Z" changeset="141111051" uid="64091" user="jong">
-    <tag k="addr:city" v="Histon"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="CB24 9JD"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="fhrs:id" v="596479"/>
-    <tag k="name" v="Barkers Bakery"/>
-    <tag k="opening_hours" v="Mo-Fr 07:00-14:00; Sa 07:30-13:00"/>
-    <tag k="shop" v="bakery"/>
-  </node>
-  <node id="1122619217" lat="52.2523638" lon="0.1054255" version="6" timestamp="2019-01-31T17:27:59Z" changeset="66809106" uid="346039" user="fitzsimons">
-    <tag k="addr:city" v="Histon"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:postcode" v="CB24 9JD"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Thomson Webb and Corfield"/>
-  </node>
-  <node id="2866887651" lat="52.2437979" lon="0.1066769" version="2" timestamp="2017-12-17T21:19:36Z" changeset="54714419" uid="5173844" user="ndrw6"/>
-  <node id="3231597473" lat="52.2448163" lon="0.1096443" version="1" timestamp="2014-12-12T16:40:47Z" changeset="27424878" uid="281267" user="smb1001">
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Station Road"/>
-  </node>
-  <node id="3231597476" lat="52.2447687" lon="0.1096604" version="1" timestamp="2014-12-12T16:40:47Z" changeset="27424878" uid="281267" user="smb1001">
-    <tag k="addr:housenumber" v="92"/>
-    <tag k="addr:street" v="Station Road"/>
-  </node>
-  <node id="3231597478" lat="52.2449444" lon="0.1095960" version="1" timestamp="2014-12-12T16:40:48Z" changeset="27424878" uid="281267" user="smb1001">
-    <tag k="addr:housenumber" v="82"/>
-    <tag k="addr:street" v="Station Road"/>
-  </node>
-  <node id="3231597483" lat="52.2448903" lon="0.1096148" version="1" timestamp="2014-12-12T16:40:48Z" changeset="27424878" uid="281267" user="smb1001">
-    <tag k="addr:housenumber" v="84"/>
-    <tag k="addr:street" v="Station Road"/>
-  </node>
-  <node id="3428303161" lat="52.2452536" lon="0.1053768" version="4" timestamp="2019-03-25T06:53:22Z" changeset="68495059" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housename" v="The Workspace"/>
-    <tag k="addr:postcode" v="CB24 9PT"/>
-    <tag k="addr:street" v="Pioneer Court, Vision Park, Histon"/>
-    <tag k="name" v="Pure Resourcing Solutions"/>
-    <tag k="office" v="company"/>
-    <tag k="phone" v="+44 1223 209888"/>
-    <tag k="website" v="https://www.prs.uk.com/contact-us/get-in-touch?office=cambridge"/>
-  </node>
-  <node id="5081135951" lat="52.2518763" lon="0.1065519" version="3" timestamp="2019-05-19T18:28:27Z" changeset="70417713" uid="8662577" user="Nuka_z_lego">
-    <tag k="addr:city" v="Histon"/>
-    <tag k="addr:housenumber" v="2A"/>
-    <tag k="addr:postcode" v="CB24 9JD"/>
-    <tag k="addr:street" v="High Street"/>
-  </node>
-  <node id="5081135952" lat="52.2518943" lon="0.1064821" version="2" timestamp="2019-01-31T17:27:59Z" changeset="66809106" uid="346039" user="fitzsimons">
-    <tag k="addr:city" v="Histon"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="CB24 9JD"/>
-    <tag k="addr:street" v="High Street"/>
-  </node>
-  <node id="5081135955" lat="52.2523459" lon="0.1054791" version="5" timestamp="2023-10-19T14:38:25Z" changeset="142819514" uid="4345757" user="JassKurn">
-    <tag k="addr:city" v="Histon"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:postcode" v="CB24 9JD"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="Coral"/>
-    <tag k="brand:wikidata" v="Q54621344"/>
-    <tag k="brand:wikipedia" v="en:Coral (bookmaker)"/>
-    <tag k="name" v="Coral"/>
-    <tag k="shop" v="bookmaker"/>
-  </node>
-  <node id="8840160341" lat="52.2392978" lon="0.1101816" version="2" timestamp="2024-08-08T13:02:18Z" changeset="154978286" uid="8061502" user="galacticism"/>
+  <node id="2866887658" lat="52.2436481" lon="0.1065704" version="2" timestamp="2017-12-17T21:19:36Z" changeset="54714419" uid="5173844" user="ndrw6"/>
   <node id="9027165010" lat="52.2519280" lon="0.1067682" version="1" timestamp="2021-08-22T23:09:04Z" changeset="110081683" uid="64091" user="jong">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="CB24 9JD"/>
@@ -139,74 +43,7 @@
     <tag k="unisex" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9050812746" lat="52.2520528" lon="0.1054650" version="1" timestamp="2021-08-31T11:59:12Z" changeset="110511023" uid="64091" user="jong">
-    <tag k="addr:city" v="Histon"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="CB24 9JD"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Gin House Flowers"/>
-    <tag k="shop" v="florist"/>
-  </node>
-  <node id="9697348662" lat="52.2499330" lon="0.1133307" version="1" timestamp="2022-04-27T10:57:45Z" changeset="120253488" uid="64091" user="jong"/>
-  <node id="10034738294" lat="52.2582807" lon="0.1060894" version="1" timestamp="2022-09-18T18:57:35Z" changeset="126342856" uid="6476359" user="NSiecw">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:postcode" v="CB24 9YD"/>
-    <tag k="addr:street" v="Greenleas"/>
-    <tag k="addr:village" v="Histon"/>
-  </node>
-  <node id="10034738295" lat="52.2582339" lon="0.1060425" version="1" timestamp="2022-09-18T18:57:35Z" changeset="126342856" uid="6476359" user="NSiecw">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:postcode" v="CB24 9YD"/>
-    <tag k="addr:street" v="Greenleas"/>
-    <tag k="addr:village" v="Histon"/>
-  </node>
-  <node id="10034864102" lat="52.2571105" lon="0.1104116" version="1" timestamp="2022-09-18T19:39:52Z" changeset="126343944" uid="6476359" user="NSiecw">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="2a"/>
-    <tag k="addr:postcode" v="CB24 9HH"/>
-    <tag k="addr:street" v="Garden Walk"/>
-    <tag k="addr:village" v="Histon"/>
-  </node>
-  <node id="10034864109" lat="52.2571198" lon="0.1102601" version="1" timestamp="2022-09-18T19:39:52Z" changeset="126343944" uid="6476359" user="NSiecw">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="CB24 9HH"/>
-    <tag k="addr:street" v="Garden Walk"/>
-    <tag k="addr:village" v="Histon"/>
-  </node>
-  <node id="10040307260" lat="52.2539708" lon="0.1050702" version="1" timestamp="2022-09-20T19:37:09Z" changeset="126436903" uid="6476359" user="NSiecw">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="94"/>
-    <tag k="addr:postcode" v="CB24 9JF"/>
-    <tag k="addr:street" v="Windmill Lane"/>
-    <tag k="addr:village" v="Histon"/>
-  </node>
-  <node id="10040307261" lat="52.2538066" lon="0.1049790" version="1" timestamp="2022-09-20T19:37:09Z" changeset="126436903" uid="6476359" user="NSiecw">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="CB24 9JF"/>
-    <tag k="addr:street" v="Windmill Lane"/>
-    <tag k="addr:village" v="Histon"/>
-  </node>
-  <node id="10040707122" lat="52.2510602" lon="0.1011128" version="1" timestamp="2022-09-20T21:59:12Z" changeset="126440658" uid="6476359" user="NSiecw">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="CB24 9JR"/>
-    <tag k="addr:street" v="Shirley Road"/>
-    <tag k="addr:village" v="Histon"/>
-    <tag k="entrance" v="yes"/>
-  </node>
-  <node id="10040707123" lat="52.2510708" lon="0.1011165" version="1" timestamp="2022-09-20T21:59:12Z" changeset="126440658" uid="6476359" user="NSiecw">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="17a"/>
-    <tag k="addr:postcode" v="CB24 9JR"/>
-    <tag k="addr:street" v="Shirley Road"/>
-    <tag k="addr:village" v="Histon"/>
-    <tag k="entrance" v="yes"/>
-  </node>
-  <node id="12098809576" lat="52.2423787" lon="0.1109571" version="1" timestamp="2024-08-08T12:56:33Z" changeset="154977988" uid="8061502" user="galacticism"/>
+  <node id="12098753565" lat="52.2524722" lon="0.0840752" version="1" timestamp="2024-08-08T12:19:36Z" changeset="154976241" uid="8061502" user="galacticism"/>
   <way id="3906108" version="18" timestamp="2024-09-14T19:48:54Z" changeset="156625771" uid="5173844" user="ndrw6">
     <nd ref="20103126"/>
     <nd ref="1104606675"/>
@@ -507,6 +344,17 @@
     <tag k="name" v="Cottenham Road"/>
     <tag k="source:name" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4266214" version="2" timestamp="2025-04-20T19:41:23Z" changeset="165210047" uid="2406" user="JeffB">
+    <nd ref="25612380"/>
+    <nd ref="12177294818"/>
+    <nd ref="25612011"/>
+    <nd ref="25611871"/>
+    <nd ref="25612509"/>
+    <nd ref="12770898115"/>
+    <nd ref="12770898116"/>
+    <tag k="abutters" v="residential"/>
+    <tag k="highway" v="unclassified"/>
   </way>
   <way id="4266216" version="3" timestamp="2024-02-16T18:34:59Z" changeset="147544292" uid="64091" user="jong">
     <nd ref="25612222"/>
@@ -857,13 +705,6 @@
     <tag k="maxspeed" v="20 mph"/>
     <tag k="name" v="Winders Lane"/>
     <tag k="source:name" v="local knowledge"/>
-  </way>
-  <way id="4266306" version="2" timestamp="2024-09-14T19:48:54Z" changeset="156625771" uid="5173844" user="ndrw6">
-    <nd ref="25612380"/>
-    <nd ref="12177294818"/>
-    <nd ref="25612011"/>
-    <tag k="abutters" v="residential"/>
-    <tag k="highway" v="unclassified"/>
   </way>
   <way id="4266309" version="4" timestamp="2024-02-16T18:34:59Z" changeset="147544292" uid="64091" user="jong">
     <nd ref="25611878"/>
@@ -1357,53 +1198,6 @@
     <tag k="name" v="Oak Tree Way"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
-  <way id="4266453" version="11" timestamp="2023-08-12T16:48:10Z" changeset="139795223" uid="242345" user="confusedbuffalo">
-    <nd ref="25611931"/>
-    <nd ref="4248294385"/>
-    <nd ref="4248294388"/>
-    <nd ref="25611840"/>
-    <nd ref="4248294381"/>
-    <nd ref="4248294379"/>
-    <nd ref="4248294387"/>
-    <nd ref="4248294382"/>
-    <nd ref="25612438"/>
-    <nd ref="4248294383"/>
-    <nd ref="4248294380"/>
-    <nd ref="25612480"/>
-    <nd ref="1160400425"/>
-    <nd ref="1160400426"/>
-    <nd ref="25612555"/>
-    <nd ref="1160400428"/>
-    <nd ref="4248299025"/>
-    <nd ref="4248299029"/>
-    <nd ref="4248299027"/>
-    <nd ref="4248299028"/>
-    <nd ref="25632713"/>
-    <nd ref="25632712"/>
-    <nd ref="25612017"/>
-    <nd ref="4248294386"/>
-    <nd ref="25611931"/>
-    <tag k="addr:postcode" v="CB24 9JA"/>
-    <tag k="addr:street" v="The Green"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="630"/>
-    <tag k="email" v="office@histonimpington-jun.cambs.sch.uk"/>
-    <tag k="fax" v="+44 1223 712193"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Histon and Impington Brook Primary School"/>
-    <tag k="phone" v="+44 1223 712192"/>
-    <tag k="ref:GB:uprn" v="100091421589"/>
-    <tag k="ref:edubase" v="139087"/>
-    <tag k="ref:edubase:group" v="2526"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="Meridian Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="website" v="http://www.histonimpington-jun.cambs.sch.uk/"/>
-    <tag k="wikidata" v="Q66229804"/>
-  </way>
   <way id="4266455" version="4" timestamp="2024-02-16T18:34:59Z" changeset="147544292" uid="64091" user="jong">
     <nd ref="25611857"/>
     <nd ref="25612158"/>
@@ -1766,6 +1560,34 @@
     <tag k="addr:street" v="Station Road"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="93084109" version="8" timestamp="2024-07-15T22:33:06Z" changeset="153991674" uid="21425661" user="CjMalone">
+    <nd ref="1078975262"/>
+    <nd ref="1078975476"/>
+    <nd ref="1078975570"/>
+    <nd ref="1078975337"/>
+    <nd ref="1078975552"/>
+    <nd ref="1078975228"/>
+    <nd ref="1078975498"/>
+    <nd ref="1078975388"/>
+    <nd ref="1078975676"/>
+    <nd ref="1078975307"/>
+    <nd ref="1161715207"/>
+    <nd ref="1161714833"/>
+    <nd ref="1078975378"/>
+    <nd ref="1078975262"/>
+    <tag k="brand" v="The Co-operative Food"/>
+    <tag k="brand:wikidata" v="Q3277439"/>
+    <tag k="brand:wikipedia" v="en:Co-op Food"/>
+    <tag k="building" v="retail"/>
+    <tag k="check_date" v="2024-07-15"/>
+    <tag k="check_date:opening_hours" v="2024-07-15"/>
+    <tag k="name" v="The Co-operative Food"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="The Co-operative Group"/>
+    <tag k="operator:wikidata" v="Q117202"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.coop.co.uk/store-finder/CB24-9LQ/station-road"/>
+  </way>
   <way id="93345925" version="5" timestamp="2024-12-06T11:55:28Z" changeset="159991031" uid="104519" user="Rupert Swarbrick">
     <nd ref="21337043"/>
     <nd ref="1024788701"/>
@@ -1825,6 +1647,45 @@
     <tag k="source:ref" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="93345991" version="9" timestamp="2024-12-06T11:59:37Z" changeset="159991316" uid="104519" user="Rupert Swarbrick">
+    <nd ref="1082350593"/>
+    <nd ref="1082351447"/>
+    <nd ref="1082350102"/>
+    <nd ref="1082351503"/>
+    <nd ref="1082349741"/>
+    <nd ref="1082351629"/>
+    <nd ref="1082349918"/>
+    <nd ref="1082351326"/>
+    <nd ref="1082349740"/>
+    <nd ref="1082350660"/>
+    <nd ref="1082349587"/>
+    <nd ref="1082351707"/>
+    <nd ref="1082350174"/>
+    <nd ref="1082351523"/>
+    <nd ref="1082351133"/>
+    <nd ref="1082351618"/>
+    <nd ref="1082349435"/>
+    <nd ref="1082349429"/>
+    <nd ref="1082350839"/>
+    <nd ref="132937517"/>
+    <nd ref="1082350311"/>
+    <nd ref="1082351078"/>
+    <nd ref="1082349806"/>
+    <nd ref="1082351308"/>
+    <nd ref="1082350042"/>
+    <nd ref="1082351218"/>
+    <nd ref="1082350593"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2024-12-06"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="name" v="Histon Baptist Church"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="local knowledge"/>
+    <tag k="website" v="https://www.histonbaptist.org.uk/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q26670571"/>
+  </way>
   <way id="95224355" version="12" timestamp="2023-09-11T12:44:05Z" changeset="141111051" uid="64091" user="jong">
     <nd ref="1104606557"/>
     <nd ref="25612566"/>
@@ -1859,6 +1720,33 @@
     <tag k="sidewalk" v="none"/>
     <tag k="source:name" v="bing"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="95920863" version="5" timestamp="2018-11-13T17:21:16Z" changeset="64451018" uid="1708460" user="Treebie">
+    <nd ref="1111414242"/>
+    <nd ref="1111414104"/>
+    <nd ref="1111414194"/>
+    <nd ref="1111414206"/>
+    <nd ref="1111414145"/>
+    <nd ref="1111414246"/>
+    <nd ref="1111414110"/>
+    <nd ref="1111414198"/>
+    <nd ref="1111414292"/>
+    <nd ref="1111414200"/>
+    <nd ref="1111414183"/>
+    <nd ref="1111414093"/>
+    <nd ref="1111414287"/>
+    <nd ref="1111414092"/>
+    <nd ref="1111414242"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Sovereign House"/>
+    <tag k="addr:place" v="Vision Park"/>
+    <tag k="addr:postcode" v="CB24 9BZ"/>
+    <tag k="addr:village" v="Histon"/>
+    <tag k="building" v="office"/>
+    <tag k="fixme" v="Code-Point Open postcode is CB24 9BZ"/>
+    <tag k="name" v="Sovereign House"/>
+    <tag k="source" v="bing"/>
   </way>
   <way id="95941893" version="3" timestamp="2020-01-02T21:27:06Z" changeset="79131168" uid="4948143" user="doublah">
     <nd ref="1111639170"/>
@@ -2741,6 +2629,16 @@
     <tag k="addr:street" v="The Green"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="100319358" version="2" timestamp="2017-09-05T10:17:32Z" changeset="51744646" uid="281267" user="smb1001">
+    <nd ref="1159798288"/>
+    <nd ref="1159798310"/>
+    <nd ref="1159798394"/>
+    <nd ref="1159797560"/>
+    <nd ref="1159798288"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="church hall"/>
+    <tag k="note" v="part of Histon Methodist Church"/>
+  </way>
   <way id="100319359" version="4" timestamp="2021-11-19T11:33:04Z" changeset="113986995" uid="364" user="Edward">
     <nd ref="1159798348"/>
     <nd ref="1159797881"/>
@@ -2822,6 +2720,24 @@
     <tag k="ref:pol_id" v="1262"/>
     <tag k="source:opening_hours" v="pol_branch_list_2018-02"/>
     <tag k="website" v="https://www.postoffice.co.uk/branch-finder/1011138/histon"/>
+  </way>
+  <way id="100319384" version="3" timestamp="2021-02-02T09:10:39Z" changeset="98564632" uid="64091" user="jong">
+    <nd ref="1159798139"/>
+    <nd ref="1111639824"/>
+    <nd ref="1111639929"/>
+    <nd ref="1111640474"/>
+    <nd ref="1111640306"/>
+    <nd ref="1111639811"/>
+    <nd ref="1111639071"/>
+    <nd ref="1111639045"/>
+    <nd ref="1111639528"/>
+    <nd ref="1111639817"/>
+    <nd ref="1159797905"/>
+    <nd ref="1159798109"/>
+    <nd ref="1159798346"/>
+    <nd ref="1159798139"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Print-Out"/>
   </way>
   <way id="100319388" version="7" timestamp="2021-05-12T04:14:00Z" changeset="104542539" uid="5173844" user="ndrw6">
     <nd ref="1159797963"/>
@@ -2909,6 +2825,28 @@
     <tag k="addr:street" v="The Green"/>
     <tag k="building" v="detached"/>
   </way>
+  <way id="122313050" version="3" timestamp="2014-12-07T17:16:20Z" changeset="27315427" uid="281267" user="smb1001">
+    <nd ref="1367185497"/>
+    <nd ref="1367185445"/>
+    <nd ref="2074630780"/>
+    <nd ref="1367185426"/>
+    <nd ref="1367185451"/>
+    <nd ref="2074631221"/>
+    <nd ref="1367185497"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Enterprise House"/>
+  </way>
+  <way id="122313051" version="3" timestamp="2014-12-07T17:16:20Z" changeset="27315427" uid="281267" user="smb1001">
+    <nd ref="1367185410"/>
+    <nd ref="1367185495"/>
+    <nd ref="2074631111"/>
+    <nd ref="1367185382"/>
+    <nd ref="1367185407"/>
+    <nd ref="2074630848"/>
+    <nd ref="1367185410"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Conqueror House"/>
+  </way>
   <way id="122313068" version="3" timestamp="2021-08-26T21:01:39Z" changeset="110307768" uid="14001099" user="richardman">
     <nd ref="1367185399"/>
     <nd ref="1367185471"/>
@@ -2921,6 +2859,21 @@
     <tag k="addr:street" v="Chivers Way"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Pioneer House"/>
+  </way>
+  <way id="122423117" version="2" timestamp="2025-04-18T10:48:15Z" changeset="165105701" uid="4136493" user="mlucensis">
+    <nd ref="1368104542"/>
+    <nd ref="1368104864"/>
+    <nd ref="1368104688"/>
+    <nd ref="1368104740"/>
+    <nd ref="1368104418"/>
+    <nd ref="1368104640"/>
+    <nd ref="1368104542"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="CB24 9LQ"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="addr:village" v="Histon"/>
+    <tag k="building" v="yes"/>
   </way>
   <way id="123947495" version="8" timestamp="2022-09-20T21:59:12Z" changeset="126440658" uid="6476359" user="NSiecw">
     <nd ref="1380762706"/>
@@ -2975,6 +2928,79 @@
     <tag k="roof:shape" v="gabled"/>
     <tag k="source" v="Bing"/>
   </way>
+  <way id="141799841" version="2" timestamp="2015-12-02T13:20:56Z" changeset="35705981" uid="3428386" user="Duncan MacGregor">
+    <nd ref="1552088095"/>
+    <nd ref="1552088283"/>
+    <nd ref="1552088328"/>
+    <nd ref="1552088172"/>
+    <nd ref="1552088334"/>
+    <nd ref="1552088170"/>
+    <nd ref="1552088157"/>
+    <nd ref="1552088056"/>
+    <nd ref="1552088095"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Endeavour House"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="141799846" version="4" timestamp="2018-10-20T19:30:42Z" changeset="63712657" uid="5173844" user="ndrw6">
+    <nd ref="1552088311"/>
+    <nd ref="1552088229"/>
+    <nd ref="1552088072"/>
+    <nd ref="1552088174"/>
+    <nd ref="1552088290"/>
+    <nd ref="1552088099"/>
+    <nd ref="1552088162"/>
+    <nd ref="2074630587"/>
+    <nd ref="1552088152"/>
+    <nd ref="1552088380"/>
+    <nd ref="1552088324"/>
+    <nd ref="1552088073"/>
+    <nd ref="1552088361"/>
+    <nd ref="1552088311"/>
+    <tag k="addr:postcode" v="CB24 9ZR"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Discovery House"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="141799847" version="2" timestamp="2014-12-07T17:16:19Z" changeset="27315427" uid="281267" user="smb1001">
+    <nd ref="1552088078"/>
+    <nd ref="1552088123"/>
+    <nd ref="1552088114"/>
+    <nd ref="1552088127"/>
+    <nd ref="1552088136"/>
+    <nd ref="1552088230"/>
+    <nd ref="1552088349"/>
+    <nd ref="1552088286"/>
+    <nd ref="1552088335"/>
+    <nd ref="1552088333"/>
+    <nd ref="1552088341"/>
+    <nd ref="1552088053"/>
+    <nd ref="1552088426"/>
+    <nd ref="1552088316"/>
+    <nd ref="1552088293"/>
+    <nd ref="1552088197"/>
+    <nd ref="1552088078"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Endurance House"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="141799850" version="3" timestamp="2018-10-20T19:30:42Z" changeset="63712657" uid="5173844" user="ndrw6">
+    <nd ref="1552088107"/>
+    <nd ref="1552088228"/>
+    <nd ref="1552088059"/>
+    <nd ref="1552088074"/>
+    <nd ref="1552088176"/>
+    <nd ref="1552088408"/>
+    <nd ref="1552088306"/>
+    <nd ref="1552088284"/>
+    <nd ref="1552088240"/>
+    <nd ref="1552088142"/>
+    <nd ref="1552088107"/>
+    <tag k="addr:postcode" v="CB24 9PW"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Trust Court"/>
+    <tag k="source" v="Bing"/>
+  </way>
   <way id="148817623" version="3" timestamp="2024-02-16T18:34:59Z" changeset="147544292" uid="64091" user="jong">
     <nd ref="25612089"/>
     <nd ref="1111639809"/>
@@ -2995,81 +3021,30 @@
     <nd ref="1658062264"/>
     <tag k="highway" v="residential"/>
   </way>
-  <way id="191216418" version="2" timestamp="2022-09-19T12:55:31Z" changeset="126371832" uid="6476359" user="NSiecw">
-    <nd ref="2018168012"/>
-    <nd ref="2018168188"/>
-    <nd ref="2018167807"/>
-    <nd ref="2018168969"/>
-    <nd ref="2018167528"/>
-    <nd ref="2018167507"/>
-    <nd ref="2018168773"/>
-    <nd ref="2018168777"/>
-    <nd ref="2018167765"/>
-    <nd ref="2018167755"/>
-    <nd ref="2018168223"/>
-    <nd ref="2018168115"/>
-    <nd ref="2018168012"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="CB24 9YW"/>
-    <tag k="addr:street" v="Paddock Close"/>
-    <tag k="addr:village" v="Impington"/>
+  <way id="188821832" version="2" timestamp="2014-12-07T17:16:18Z" changeset="27315427" uid="281267" user="smb1001">
+    <nd ref="1994431947"/>
+    <nd ref="1994431867"/>
+    <nd ref="1994431996"/>
+    <nd ref="1994432172"/>
+    <nd ref="1994432060"/>
+    <nd ref="1994431938"/>
+    <nd ref="1994431928"/>
+    <nd ref="1994432306"/>
+    <nd ref="1994432299"/>
+    <nd ref="1994432047"/>
+    <nd ref="1994432018"/>
+    <nd ref="1994431966"/>
+    <nd ref="1994432010"/>
+    <nd ref="1994432117"/>
+    <nd ref="1994431926"/>
+    <nd ref="1994432109"/>
+    <nd ref="1994432126"/>
+    <nd ref="1994432119"/>
+    <nd ref="1994432296"/>
+    <nd ref="1994432285"/>
+    <nd ref="1994431947"/>
     <tag k="building" v="yes"/>
-    <tag k="source" v="Bing"/>
-  </way>
-  <way id="191216471" version="2" timestamp="2022-09-19T12:55:31Z" changeset="126371832" uid="6476359" user="NSiecw">
-    <nd ref="2018168185"/>
-    <nd ref="2018169093"/>
-    <nd ref="2018167935"/>
-    <nd ref="2018167943"/>
-    <nd ref="2018168006"/>
-    <nd ref="2018168911"/>
-    <nd ref="2018168311"/>
-    <nd ref="2018168063"/>
-    <nd ref="2018168185"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="62"/>
-    <tag k="addr:postcode" v="CB24 9HS"/>
-    <tag k="addr:street" v="Mill Lane"/>
-    <tag k="addr:village" v="Impington"/>
-    <tag k="building" v="yes"/>
-    <tag k="source" v="Bing"/>
-  </way>
-  <way id="191216488" version="2" timestamp="2022-09-19T12:55:31Z" changeset="126371832" uid="6476359" user="NSiecw">
-    <nd ref="2018168271"/>
-    <nd ref="2018168698"/>
-    <nd ref="2018168571"/>
-    <nd ref="2018167532"/>
-    <nd ref="2018168603"/>
-    <nd ref="2018168673"/>
-    <nd ref="2018168271"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:postcode" v="CB24 9XN"/>
-    <tag k="addr:street" v="Mill Lane"/>
-    <tag k="addr:village" v="Impington"/>
-    <tag k="building" v="yes"/>
-    <tag k="source" v="Bing"/>
-  </way>
-  <way id="191216506" version="2" timestamp="2022-09-19T12:55:31Z" changeset="126371832" uid="6476359" user="NSiecw">
-    <nd ref="2018169127"/>
-    <nd ref="2018168026"/>
-    <nd ref="2018167999"/>
-    <nd ref="2018167590"/>
-    <nd ref="2018167983"/>
-    <nd ref="2018168989"/>
-    <nd ref="2018168956"/>
-    <nd ref="2018167604"/>
-    <nd ref="2018169127"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:postcode" v="CB24 9XN"/>
-    <tag k="addr:street" v="Mill Lane"/>
-    <tag k="addr:village" v="Impington"/>
-    <tag k="building" v="yes"/>
+    <tag k="name" v="The Business Centre"/>
     <tag k="source" v="Bing"/>
   </way>
   <way id="194976092" version="2" timestamp="2022-09-20T21:59:12Z" changeset="126440658" uid="6476359" user="NSiecw">
@@ -3402,6 +3377,29 @@
     <tag k="addr:village" v="Histon"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="194976139" version="6" timestamp="2024-07-17T17:55:55Z" changeset="154069628" uid="9451067" user="b-jazz-bot">
+    <nd ref="2054854289"/>
+    <nd ref="2054854470"/>
+    <nd ref="2054854477"/>
+    <nd ref="2054854473"/>
+    <nd ref="2054854227"/>
+    <nd ref="2054854223"/>
+    <nd ref="2054854261"/>
+    <nd ref="2054854352"/>
+    <nd ref="2054854459"/>
+    <nd ref="2054854465"/>
+    <nd ref="2054853995"/>
+    <nd ref="2054854155"/>
+    <nd ref="2054854289"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Andrew (Histon Parish Church)"/>
+    <tag k="ref:dove" v="15629"/>
+    <tag k="religion" v="christian"/>
+    <tag k="website" v="https://www.standrewshiston.org/"/>
+    <tag k="wikidata" v="Q17528045"/>
+  </way>
   <way id="194976140" version="2" timestamp="2022-09-20T19:37:09Z" changeset="126436903" uid="6476359" user="NSiecw">
     <nd ref="2054854127"/>
     <nd ref="2054854580"/>
@@ -3601,6 +3599,18 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Histon Manor"/>
     <tag k="wikidata" v="Q26589612"/>
+  </way>
+  <way id="194976161" version="3" timestamp="2021-08-31T11:59:12Z" changeset="110511023" uid="64091" user="jong">
+    <nd ref="2054854382"/>
+    <nd ref="2054854319"/>
+    <nd ref="2054854249"/>
+    <nd ref="2054854128"/>
+    <nd ref="1111640174"/>
+    <nd ref="1111640249"/>
+    <nd ref="2054854382"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Tylers"/>
+    <tag k="office" v="estate_agent"/>
   </way>
   <way id="194976163" version="3" timestamp="2022-09-19T19:27:44Z" changeset="126394388" uid="6476359" user="NSiecw">
     <nd ref="8724996282"/>
@@ -4519,6 +4529,15 @@
     <tag k="addr:street" v="Dwyer-Joyce Close"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="195548477" version="1" timestamp="2012-12-10T12:10:50Z" changeset="14225303" uid="281267" user="smb1001">
+    <nd ref="2059725085"/>
+    <nd ref="2059725438"/>
+    <nd ref="2059725421"/>
+    <nd ref="2059725402"/>
+    <nd ref="2059725085"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Park Farm"/>
+  </way>
   <way id="195548481" version="2" timestamp="2019-10-03T10:05:46Z" changeset="75222523" uid="281267" user="smb1001">
     <nd ref="2059724983"/>
     <nd ref="2059725390"/>
@@ -4997,6 +5016,19 @@
     <tag k="addr:street" v="Loves Close"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="197177442" version="2" timestamp="2014-12-07T17:16:18Z" changeset="27315427" uid="281267" user="smb1001">
+    <nd ref="2074631040"/>
+    <nd ref="2074630683"/>
+    <nd ref="2074630470"/>
+    <nd ref="2074631237"/>
+    <nd ref="2074631091"/>
+    <nd ref="2074631073"/>
+    <nd ref="2074631042"/>
+    <nd ref="2074630829"/>
+    <nd ref="2074631040"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Victory House"/>
+  </way>
   <way id="197177448" version="5" timestamp="2024-09-14T19:48:54Z" changeset="156625771" uid="5173844" user="ndrw6">
     <nd ref="2074630593"/>
     <nd ref="1368104388"/>
@@ -5017,6 +5049,26 @@
     <tag k="healthcare" v="dentist"/>
     <tag k="name" v="Histon Dental Surgery"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-12:45,13:30-17:00"/>
+  </way>
+  <way id="197177451" version="3" timestamp="2024-02-21T16:19:49Z" changeset="147739974" uid="2406" user="JeffB">
+    <nd ref="2074630663"/>
+    <nd ref="2074630832"/>
+    <nd ref="2074631137"/>
+    <nd ref="2074631141"/>
+    <nd ref="2074630441"/>
+    <nd ref="2074631051"/>
+    <nd ref="2074631239"/>
+    <nd ref="2074630647"/>
+    <nd ref="2074630663"/>
+    <tag k="addr:postcode" v="CB24 9AH"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bramley Court"/>
+    <tag k="operator" v="Carebase"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="wheelchair" v="yes"/>
   </way>
   <way id="197177476" version="2" timestamp="2022-11-02T23:30:37Z" changeset="128413915" uid="17565202" user="Phillammon">
     <nd ref="2074630735"/>
@@ -5217,6 +5269,23 @@
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="New School Road"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="197525320" version="2" timestamp="2017-12-21T21:54:19Z" changeset="54827124" uid="33708" user="Ruan">
+    <nd ref="2077496008"/>
+    <nd ref="2077495824"/>
+    <nd ref="2077496113"/>
+    <nd ref="2077495870"/>
+    <nd ref="2077495988"/>
+    <nd ref="2077495776"/>
+    <nd ref="2077495852"/>
+    <nd ref="2077495856"/>
+    <nd ref="2077495831"/>
+    <nd ref="2077495863"/>
+    <nd ref="2077495747"/>
+    <nd ref="2077495901"/>
+    <nd ref="2077496008"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Burdett House"/>
   </way>
   <way id="197525321" version="2" timestamp="2019-08-14T18:13:22Z" changeset="73360455" uid="8662577" user="Nuka_z_lego">
     <nd ref="2077495935"/>
@@ -12085,6 +12154,15 @@
     <tag k="addr:village" v="Histon"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="242128576" version="1" timestamp="2013-10-14T20:02:38Z" changeset="18357692" uid="1704075" user="johnsidi">
+    <nd ref="2496678409"/>
+    <nd ref="2496678408"/>
+    <nd ref="2496678410"/>
+    <nd ref="2496678407"/>
+    <nd ref="2496678409"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Buffers"/>
+  </way>
   <way id="250988750" version="2" timestamp="2019-06-26T15:47:49Z" changeset="71642649" uid="8662577" user="Nuka_z_lego">
     <nd ref="2573030400"/>
     <nd ref="2573030395"/>
@@ -17053,47 +17131,6 @@
     <tag k="name" v="Muncey Walk"/>
     <tag k="source:name" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
-  </way>
-  <way id="760391987" version="5" timestamp="2023-11-16T17:49:35Z" changeset="144106297" uid="242345" user="confusedbuffalo">
-    <nd ref="7103163996"/>
-    <nd ref="459118541"/>
-    <nd ref="10037652331"/>
-    <nd ref="10037652330"/>
-    <nd ref="10037652362"/>
-    <nd ref="10037652361"/>
-    <nd ref="10037652367"/>
-    <nd ref="10037652363"/>
-    <nd ref="10037652366"/>
-    <nd ref="7103163995"/>
-    <nd ref="10037652339"/>
-    <nd ref="10037652348"/>
-    <nd ref="7103163996"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:postcode" v="CB24 9AQ"/>
-    <tag k="addr:street" v="Glebe Way"/>
-    <tag k="addr:suburb" v="Histon"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="420"/>
-    <tag k="email" v="office@histonimpington-inf.cambs.sch.uk"/>
-    <tag k="fax" v="+44 1223 568827"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Histon and Impington Park Primary School"/>
-    <tag k="phone" v="+44 1223 568826"/>
-    <tag k="ref:GB:uprn" v="10094259106"/>
-    <tag k="ref:edubase" v="139086"/>
-    <tag k="ref:edubase:group" v="2526"/>
-    <tag k="religion" v="none"/>
-    <tag k="school:boarding" v="no"/>
-    <tag k="school:gender" v="mixed"/>
-    <tag k="school:selective" v="no"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="Meridian Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="website" v="https://www.parkprimary.co.uk/"/>
-    <tag k="wikidata" v="Q66229802"/>
   </way>
   <way id="845719097" version="3" timestamp="2022-09-19T12:55:31Z" changeset="126371832" uid="6476359" user="NSiecw">
     <nd ref="7890292504"/>
@@ -23641,6 +23678,19 @@
     <tag k="addr:village" v="Histon"/>
     <tag k="building" v="residential"/>
   </way>
+  <way id="963497843" version="1" timestamp="2021-07-11T23:16:05Z" changeset="107800328" uid="1102246" user="jtn20">
+    <nd ref="8912395895"/>
+    <nd ref="8912395897"/>
+    <nd ref="8912395898"/>
+    <nd ref="8912395896"/>
+    <nd ref="8912395895"/>
+    <tag k="building" v="service"/>
+    <tag k="name" v="Park Avenue"/>
+    <tag k="operator" v="UK Power Networks"/>
+    <tag k="power" v="substation"/>
+    <tag k="ref" v="L43486373Q"/>
+    <tag k="substation" v="minor_distribution"/>
+  </way>
   <way id="978128530" version="3" timestamp="2022-09-20T21:59:12Z" changeset="126440658" uid="6476359" user="NSiecw">
     <nd ref="10040707145"/>
     <nd ref="10040707142"/>
@@ -25632,5 +25682,13 @@
     <tag k="addr:street" v="Poplar Road"/>
     <tag k="building" v="yes"/>
   </way>
+  <relation id="1820703" version="3" timestamp="2018-10-20T19:30:51Z" changeset="63712657" uid="5173844" user="ndrw6">
+    <member type="way" ref="135251415" role="outer"/>
+    <member type="way" ref="93722558" role="inner"/>
+    <tag k="addr:postcode" v="CB24 9AD"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Compass House"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
 
 </osm>

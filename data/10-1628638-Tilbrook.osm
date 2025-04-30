@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:09:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="8583307" lat="52.3121737" lon="-0.4418189" version="7" timestamp="2011-07-07T20:27:56Z" changeset="8660969" uid="71337" user="quantumstate"/>
   <node id="309980031" lat="52.3172304" lon="-0.4080973" version="5" timestamp="2021-11-22T14:01:58Z" changeset="114099876" uid="5619343" user="NorthIsland"/>
-  <node id="346389758" lat="52.3181696" lon="-0.4533843" version="4" timestamp="2021-11-12T14:08:34Z" changeset="113698263" uid="5619343" user="NorthIsland"/>
+  <node id="346389714" lat="52.3290913" lon="-0.4040591" version="4" timestamp="2021-11-22T18:51:57Z" changeset="114110725" uid="5619343" user="NorthIsland"/>
+  <node id="528869309" lat="52.3092334" lon="-0.4221894" version="1" timestamp="2009-10-11T15:12:58Z" changeset="2814892" uid="3582" user="davidearl"/>
   <node id="528869403" lat="52.3064500" lon="-0.4135875" version="3" timestamp="2022-05-03T16:06:11Z" changeset="120506328" uid="281267" user="smb1001"/>
-  <node id="1484936649" lat="52.3252882" lon="-0.4282984" version="1" timestamp="2011-10-29T19:03:44Z" changeset="9687569" uid="90142" user="andy mackey"/>
-  <node id="1917584626" lat="52.3334214" lon="-0.4048721" version="2" timestamp="2014-10-09T15:51:30Z" changeset="25963759" uid="90142" user="andy mackey"/>
+  <node id="540580564" lat="52.3316697" lon="-0.4035581" version="3" timestamp="2014-10-09T15:51:30Z" changeset="25963759" uid="90142" user="andy mackey"/>
   <way id="31144323" version="9" timestamp="2023-01-04T20:39:15Z" changeset="130881799" uid="123091" user="ianc">
     <nd ref="346389714"/>
     <nd ref="346389719"/>
@@ -300,6 +299,25 @@
     <nd ref="346389714"/>
     <tag k="highway" v="secondary"/>
     <tag k="ref" v="B660"/>
+  </way>
+  <way id="359198784" version="3" timestamp="2020-10-10T22:07:30Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="3639521147"/>
+    <nd ref="3639521154"/>
+    <nd ref="3639521156"/>
+    <nd ref="3639521145"/>
+    <nd ref="3639521146"/>
+    <nd ref="3639521149"/>
+    <nd ref="3639521150"/>
+    <nd ref="3639521144"/>
+    <nd ref="3639521155"/>
+    <nd ref="3639521147"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Tilbrook Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q17527894"/>
   </way>
   <way id="1056910368" version="2" timestamp="2025-02-14T23:22:47Z" changeset="162521829" uid="493595" user="Yorvik Prestigitator">
     <nd ref="528869316"/>

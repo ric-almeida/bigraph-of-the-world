@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:40:28Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="4308838" lat="52.5079085" lon="-0.2941904" version="15" timestamp="2018-09-13T18:32:35Z" changeset="62561387" uid="2773866" user="kreuzschnabel">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Norman Cross"/>
-    <tag k="ref" v="16"/>
-  </node>
-  <node id="194600740" lat="52.5218652" lon="-0.3056124" version="2" timestamp="2010-02-09T19:20:48Z" changeset="3835077" uid="91657" user="Pink Duck"/>
   <node id="194603563" lat="52.5039398" lon="-0.2932091" version="4" timestamp="2011-12-18T11:13:41Z" changeset="10145044" uid="28024" user="dbisping"/>
   <node id="251375923" lat="52.4998926" lon="-0.3128752" version="1" timestamp="2008-03-09T18:04:34Z" changeset="294366" uid="5538" user="Aled">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="260030950" lat="52.4818412" lon="-0.3453625" version="4" timestamp="2012-03-12T13:24:26Z" changeset="10954687" uid="504708" user="HillWithSmallFields"/>
-  <node id="322090898" lat="52.4706842" lon="-0.3413068" version="1" timestamp="2008-12-27T19:01:33Z" changeset="630646" uid="7037" user="Gregory Williams"/>
   <node id="391086436" lat="52.5068722" lon="-0.3543085" version="2" timestamp="2023-09-23T19:44:17Z" changeset="141659086" uid="486701" user="eteb3"/>
   <node id="1822296036" lat="52.5084860" lon="-0.2945255" version="2" timestamp="2018-09-13T17:06:45Z" changeset="62558780" uid="2773866" user="kreuzschnabel"/>
   <node id="11781550519" lat="52.5240516" lon="-0.3084928" version="1" timestamp="2024-04-02T22:14:05Z" changeset="149500703" uid="5229644" user="Nathan_A_RF"/>
-  <node id="11781550520" lat="52.5240232" lon="-0.3087295" version="1" timestamp="2024-04-02T22:14:05Z" changeset="149500703" uid="5229644" user="Nathan_A_RF"/>
-  <node id="12104168327" lat="52.5099886" lon="-0.3210469" version="1" timestamp="2024-08-11T12:00:33Z" changeset="155098945" uid="486701" user="eteb3">
-    <tag k="addr:city" v="Morborne"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="The Green"/>
-  </node>
-  <node id="12104168328" lat="52.5100343" lon="-0.3212615" version="1" timestamp="2024-08-11T12:00:33Z" changeset="155098945" uid="486701" user="eteb3">
-    <tag k="addr:city" v="Morborne"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="The Green"/>
-  </node>
   <way id="23234587" version="2" timestamp="2024-08-11T12:00:33Z" changeset="155098945" uid="486701" user="eteb3">
     <nd ref="251375975"/>
     <nd ref="251375979"/>
@@ -325,6 +306,18 @@
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="New Road"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1307022910" version="1" timestamp="2024-08-11T12:00:33Z" changeset="155098945" uid="486701" user="eteb3">
+    <nd ref="12104168375"/>
+    <nd ref="12104168376"/>
+    <nd ref="12104168377"/>
+    <nd ref="12104168378"/>
+    <nd ref="12104168379"/>
+    <nd ref="12104168380"/>
+    <nd ref="12104168375"/>
+    <tag k="building" v="farm"/>
+    <tag k="name" v="Manor Farmhouse"/>
+    <tag k="note" v="Grade II listed, ref 1222031, https://historicengland.org.uk/listing/the-list/list-entry/1222031"/>
   </way>
   <way id="1307022917" version="1" timestamp="2024-08-11T12:00:33Z" changeset="155098945" uid="486701" user="eteb3">
     <nd ref="12104168417"/>

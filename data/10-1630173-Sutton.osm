@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:10:10Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:36:22Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="267181178" lat="52.4035088" lon="0.1189677" version="4" timestamp="2020-06-19T16:56:07Z" changeset="86886941" uid="5173844" user="ndrw6"/>
-  <node id="267181364" lat="52.4039343" lon="0.1189590" version="4" timestamp="2020-06-19T16:56:07Z" changeset="86886941" uid="5173844" user="ndrw6"/>
+  <node id="380348554" lat="52.3789936" lon="0.0789216" version="1" timestamp="2009-04-22T08:57:10Z" changeset="894434" uid="116972" user="bono2804"/>
   <node id="507101743" lat="52.4034710" lon="0.1193086" version="2" timestamp="2020-06-19T16:56:07Z" changeset="86886941" uid="5173844" user="ndrw6"/>
   <node id="507101929" lat="52.4078298" lon="0.1125100" version="2" timestamp="2010-06-15T21:30:56Z" changeset="4995978" uid="7098" user="richardm565"/>
-  <node id="1064664199" lat="52.3889787" lon="0.1241053" version="4" timestamp="2025-02-23T15:27:09Z" changeset="162857123" uid="22551827" user="Swarming00">
-    <tag k="addr:city" v="Sutton"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="CB6 2RB"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="brand" v="Post Office"/>
-    <tag k="brand:wikidata" v="Q1783168"/>
-    <tag k="contact:website" v="https://www.postoffice.co.uk/branch-finder/1781138/sutton"/>
-    <tag k="name" v="Sutton One Stop"/>
-    <tag k="opening_hours" v="Mo-Su 06:00-22:00"/>
-    <tag k="phone" v="+44 (0)1353 777108"/>
-    <tag k="ref:pol_id" v="5113"/>
-    <tag k="toilets" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2430672609" lat="52.3905156" lon="0.1467613" version="2" timestamp="2020-01-19T20:48:49Z" changeset="79765029" uid="669183" user="Andy_W"/>
-  <node id="12146284721" lat="52.4153044" lon="0.0579090" version="1" timestamp="2024-08-30T14:38:03Z" changeset="155977552" uid="10420541" user="Thingummy"/>
-  <node id="12498067014" lat="52.3540885" lon="0.0466070" version="1" timestamp="2025-01-13T12:55:06Z" changeset="161308670" uid="5229644" user="Nathan_A_RF"/>
+  <node id="507102100" lat="52.4022366" lon="0.1169285" version="2" timestamp="2012-01-14T14:43:41Z" changeset="10388341" uid="7098" user="richardm565"/>
+  <node id="1120502767" lat="52.3906105" lon="0.1438776" version="3" timestamp="2024-05-18T22:31:21Z" changeset="151513900" uid="5173844" user="ndrw6"/>
+  <node id="12146284722" lat="52.4152217" lon="0.0579109" version="1" timestamp="2024-08-30T14:38:03Z" changeset="155977552" uid="10420541" user="Thingummy"/>
   <way id="4245677" version="8" timestamp="2024-04-04T14:58:25Z" changeset="149574652" uid="5229644" user="Nathan_A_RF">
     <nd ref="25389571"/>
     <nd ref="1311557543"/>
@@ -1726,6 +1708,16 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Long North Fen Drove"/>
   </way>
+  <way id="146345959" version="3" timestamp="2018-10-25T13:16:18Z" changeset="63867127" uid="5173844" user="ndrw6">
+    <nd ref="1596089895"/>
+    <nd ref="1596089850"/>
+    <nd ref="1596089844"/>
+    <nd ref="1596089862"/>
+    <nd ref="1596089895"/>
+    <tag k="addr:postcode" v="CB6 2BG"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Potato Washing Plant"/>
+  </way>
   <way id="192246443" version="2" timestamp="2016-07-29T06:17:20Z" changeset="41100611" uid="322785" user="BCNorwich">
     <nd ref="5271917"/>
     <nd ref="2028042653"/>
@@ -1844,6 +1836,56 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="The Gault"/>
   </way>
+  <way id="254845436" version="4" timestamp="2023-11-02T20:59:52Z" changeset="143549059" uid="504708" user="HillWithSmallFields">
+    <nd ref="2606374774"/>
+    <nd ref="2606374777"/>
+    <nd ref="2606374778"/>
+    <nd ref="2606374779"/>
+    <nd ref="2606374780"/>
+    <nd ref="2606374781"/>
+    <nd ref="2606374782"/>
+    <nd ref="2606374783"/>
+    <nd ref="2606374784"/>
+    <nd ref="2606374785"/>
+    <nd ref="7951261863"/>
+    <nd ref="7951261856"/>
+    <nd ref="7951261865"/>
+    <nd ref="7951261861"/>
+    <nd ref="2606374786"/>
+    <nd ref="2606374787"/>
+    <nd ref="2606374774"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="area" v="yes"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Andrew (Parish Church of Sutton-In-The-Isle)"/>
+    <tag k="ref:dove" v="14712"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527704"/>
+  </way>
+  <way id="257338656" version="1" timestamp="2014-01-19T19:15:25Z" changeset="20091194" uid="1864634" user="Alex Chamberlain">
+    <nd ref="2628992253"/>
+    <nd ref="2628992254"/>
+    <nd ref="2628992262"/>
+    <nd ref="2628992255"/>
+    <nd ref="2628992256"/>
+    <nd ref="2628992253"/>
+    <tag k="amenity" v="scout_hut"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="1st Sutton Scout Group"/>
+  </way>
+  <way id="342553335" version="1" timestamp="2015-05-03T16:11:44Z" changeset="30752467" uid="2887174" user="agile_geek">
+    <nd ref="3495293516"/>
+    <nd ref="3495293517"/>
+    <nd ref="3495293518"/>
+    <nd ref="3495293519"/>
+    <nd ref="3495293516"/>
+    <tag k="addr:city" v="Sutton Gault"/>
+    <tag k="addr:housename" v="Blockmoor Farm"/>
+    <tag k="addr:postcode" v="CB6 2BG"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Blockmoor Farm"/>
+  </way>
   <way id="372606825" version="6" timestamp="2024-10-23T23:08:11Z" changeset="158274208" uid="10420541" user="Thingummy">
     <nd ref="3761610834"/>
     <nd ref="8345372476"/>
@@ -1892,6 +1934,19 @@
     <nd ref="6012775527"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Yew Tree Gardens"/>
+  </way>
+  <way id="637877013" version="1" timestamp="2018-10-25T13:16:00Z" changeset="63867127" uid="5173844" user="ndrw6">
+    <nd ref="6012775761"/>
+    <nd ref="6012775760"/>
+    <nd ref="6012775759"/>
+    <nd ref="6012775758"/>
+    <nd ref="6012775761"/>
+    <tag k="addr:postcode" v="CB6 2RA"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="name" v="Sutton Methodist Church"/>
+    <tag k="religion" v="christian"/>
   </way>
   <way id="688353637" version="1" timestamp="2019-05-07T10:33:02Z" changeset="69969602" uid="8446889" user="nimmalab">
     <nd ref="6454514187"/>
@@ -2200,6 +2255,29 @@
     <nd ref="7697433131"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Stimpson Street"/>
+  </way>
+  <way id="909172777" version="6" timestamp="2024-07-15T16:01:25Z" changeset="153979415" uid="21425661" user="CjMalone">
+    <nd ref="8441639778"/>
+    <nd ref="8441639779"/>
+    <nd ref="8441639784"/>
+    <nd ref="8441639780"/>
+    <nd ref="9917876820"/>
+    <nd ref="9917876819"/>
+    <nd ref="8441639781"/>
+    <nd ref="8441639778"/>
+    <tag k="brand" v="Co-op Food"/>
+    <tag k="brand:wikidata" v="Q3277439"/>
+    <tag k="brand:wikipedia" v="en:Co-op Food"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2024-07-15"/>
+    <tag k="check_date:opening_hours" v="2024-07-15"/>
+    <tag k="name" v="Co-op Food"/>
+    <tag k="note" v="approx location based on site plan and drive past - needs site survey or checking when imagery updates"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Central England Co-operative"/>
+    <tag k="operator:wikidata" v="Q16986583"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://stores.centralengland.coop/cambridgeshire/sutton/20-ely-road"/>
   </way>
   <way id="909172778" version="2" timestamp="2022-03-20T15:06:24Z" changeset="118699465" uid="11022773" user="GeoFens">
     <nd ref="8441639780"/>

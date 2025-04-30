@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:14:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="32632379" lat="52.2152672" lon="-0.0870073" version="4" timestamp="2024-04-02T12:15:10Z" changeset="149477758" uid="5229644" user="Nathan_A_RF"/>
-  <node id="32632381" lat="52.2152801" lon="-0.0867103" version="5" timestamp="2024-04-02T12:15:10Z" changeset="149477758" uid="5229644" user="Nathan_A_RF"/>
-  <node id="32632390" lat="52.2153846" lon="-0.0874560" version="3" timestamp="2011-09-06T11:50:32Z" changeset="9226558" uid="383983" user="Ben Wheatley"/>
+  <node id="620992" lat="52.2279406" lon="-0.1145259" version="7" timestamp="2011-07-20T13:16:39Z" changeset="8778512" uid="71337" user="quantumstate"/>
+  <node id="32632388" lat="52.2151594" lon="-0.0870789" version="4" timestamp="2024-04-02T12:15:10Z" changeset="149477758" uid="5229644" user="Nathan_A_RF"/>
   <node id="32632391" lat="52.2153584" lon="-0.0863723" version="4" timestamp="2011-02-03T02:15:49Z" changeset="7170533" uid="96695" user="Tim Morley"/>
   <node id="32632392" lat="52.2155451" lon="-0.0857924" version="3" timestamp="2025-02-16T15:02:27Z" changeset="162574235" uid="742701" user="kerr smith"/>
-  <node id="111497196" lat="52.1919191" lon="-0.1298948" version="13" timestamp="2024-08-29T11:18:34Z" changeset="155923193" uid="742701" user="kerr smith"/>
+  <node id="111497039" lat="52.2025361" lon="-0.1010495" version="8" timestamp="2019-10-03T15:06:51Z" changeset="75240811" uid="281267" user="smb1001"/>
   <node id="428876453" lat="52.2038656" lon="-0.0820391" version="6" timestamp="2024-08-30T12:45:16Z" changeset="155972413" uid="742701" user="kerr smith"/>
-  <node id="1309941058" lat="52.2274705" lon="-0.1283646" version="4" timestamp="2018-02-25T22:53:09Z" changeset="56672894" uid="2032231" user="narboy"/>
+  <node id="571122038" lat="52.1931917" lon="-0.0866563" version="4" timestamp="2024-08-28T10:01:55Z" changeset="155871499" uid="742701" user="kerr smith"/>
+  <node id="1034133135" lat="52.2173175" lon="-0.0977202" version="4" timestamp="2021-04-26T10:17:56Z" changeset="103627599" uid="13178647" user="Abraham Martin"/>
   <node id="1515168720" lat="52.2147290" lon="-0.0960600" version="3" timestamp="2011-11-28T00:07:52Z" changeset="9973433" uid="96695" user="Tim Morley">
     <tag k="addr:housename" v="Cambridge Depot"/>
     <tag k="addr:housenumber" v="180A"/>
@@ -21,12 +21,10 @@
     <tag k="name" v="H E Services Plant Hire Ltd"/>
     <tag k="source" v="OWNER"/>
   </node>
-  <node id="1572788093" lat="52.2264303" lon="-0.1018866" version="2" timestamp="2014-11-26T21:24:53Z" changeset="27053706" uid="669183" user="Andy_W"/>
   <node id="5436257492" lat="52.2287170" lon="-0.1044254" version="1" timestamp="2018-02-25T22:45:09Z" changeset="56672782" uid="2032231" user="narboy"/>
-  <node id="6847934603" lat="52.1912441" lon="-0.1341433" version="2" timestamp="2024-08-29T11:18:34Z" changeset="155923193" uid="742701" user="kerr smith"/>
   <node id="8668051522" lat="52.2205177" lon="-0.0990217" version="4" timestamp="2021-10-10T17:56:55Z" changeset="112343610" uid="11062676" user="beatpoet"/>
-  <node id="8668051527" lat="52.2185098" lon="-0.0978523" version="3" timestamp="2021-10-10T17:56:55Z" changeset="112343610" uid="11062676" user="beatpoet"/>
   <node id="9156390200" lat="52.1832861" lon="-0.0824588" version="1" timestamp="2021-10-07T21:33:59Z" changeset="112236248" uid="3432400" user="GinaroZ"/>
+  <node id="11780321419" lat="52.2152191" lon="-0.0866311" version="1" timestamp="2024-04-02T12:15:10Z" changeset="149477758" uid="5229644" user="Nathan_A_RF"/>
   <way id="4266025" version="10" timestamp="2024-04-02T12:15:10Z" changeset="149477758" uid="5229644" user="Nathan_A_RF">
     <nd ref="25720285"/>
     <nd ref="111496825"/>
@@ -805,6 +803,27 @@
     <tag k="ref" v="A428"/>
     <tag k="source:ref" v="survey;local knowledge"/>
   </way>
+  <way id="116050609" version="1" timestamp="2011-06-03T00:06:07Z" changeset="8325309" uid="96695" user="Tim Morley">
+    <nd ref="1309642740"/>
+    <nd ref="1309642682"/>
+    <nd ref="1309642671"/>
+    <nd ref="1309642714"/>
+    <nd ref="1309642735"/>
+    <nd ref="1309642740"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Bungalow"/>
+  </way>
+  <way id="116050622" version="1" timestamp="2011-06-03T00:06:09Z" changeset="8325309" uid="96695" user="Tim Morley">
+    <nd ref="1309642685"/>
+    <nd ref="1309642711"/>
+    <nd ref="1309642757"/>
+    <nd ref="1309642679"/>
+    <nd ref="1309642743"/>
+    <nd ref="1309642705"/>
+    <nd ref="1309642685"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Dovecote"/>
+  </way>
   <way id="129107862" version="1" timestamp="2011-09-06T11:50:14Z" changeset="9226558" uid="383983" user="Ben Wheatley">
     <nd ref="1425091827"/>
     <nd ref="111496931"/>
@@ -844,6 +863,28 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Tates Field"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="137323830" version="7" timestamp="2023-11-03T08:23:52Z" changeset="143562757" uid="504708" user="HillWithSmallFields">
+    <nd ref="1506408982"/>
+    <nd ref="1506409151"/>
+    <nd ref="1506409067"/>
+    <nd ref="1506409117"/>
+    <nd ref="1506408987"/>
+    <nd ref="1506409069"/>
+    <nd ref="111498176"/>
+    <nd ref="1506409146"/>
+    <nd ref="1506409016"/>
+    <nd ref="1506409062"/>
+    <nd ref="1506409021"/>
+    <nd ref="1506409119"/>
+    <nd ref="1506408982"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Andrew (Caxton Parish Church)"/>
+    <tag k="ref:dove" v="16000"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544337"/>
   </way>
   <way id="143725737" version="4" timestamp="2021-08-26T13:28:05Z" changeset="110289039" uid="242345" user="confusedbuffalo">
     <nd ref="1572796499"/>

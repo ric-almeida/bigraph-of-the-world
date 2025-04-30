@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="3871014" lat="52.3607692" lon="0.2327393" version="2" timestamp="2010-07-07T20:02:38Z" changeset="5161261" uid="5926" user="c2r"/>
-  <node id="8094387147" lat="52.3725534" lon="0.2444190" version="2" timestamp="2025-02-22T22:10:54Z" changeset="162833316" uid="5008136" user="JayTurnr"/>
-  <node id="12372616484" lat="52.3661138" lon="0.2365569" version="1" timestamp="2024-11-25T00:05:43Z" changeset="159553470" uid="10420541" user="Thingummy"/>
+  <node id="30745829" lat="52.3659047" lon="0.2408497" version="4" timestamp="2025-02-22T22:07:08Z" changeset="162833218" uid="5008136" user="JayTurnr"/>
+  <node id="674203142" lat="52.3706526" lon="0.2438704" version="4" timestamp="2025-02-22T22:10:15Z" changeset="162833298" uid="5008136" user="JayTurnr"/>
   <way id="23055364" version="8" timestamp="2020-11-07T13:07:33Z" changeset="93706578" uid="5173844" user="ndrw6">
     <nd ref="8090817782"/>
     <nd ref="262711346"/>
@@ -321,55 +321,60 @@
     <tag k="name" v="Main Street"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="227391925" version="12" timestamp="2024-09-06T12:05:20Z" changeset="156271763" uid="84263" user="Robert Whittaker">
-    <nd ref="2360801581"/>
-    <nd ref="2360801636"/>
-    <nd ref="2360801545"/>
-    <nd ref="2360801635"/>
-    <nd ref="8090811513"/>
-    <nd ref="8090811510"/>
-    <nd ref="2360801744"/>
-    <nd ref="2360801568"/>
-    <nd ref="2360801595"/>
-    <nd ref="2360801731"/>
-    <nd ref="8090811488"/>
-    <nd ref="2360801687"/>
-    <nd ref="2360801564"/>
-    <nd ref="2360801619"/>
-    <nd ref="2360801581"/>
-    <tag k="addr:city" v="Ely"/>
-    <tag k="addr:postcode" v="CB6 3HD"/>
-    <tag k="addr:street" v="Green Hill"/>
-    <tag k="addr:village" v="Little Thetford"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="105"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="diocese" v="Diocese of Ely"/>
-    <tag k="fhrs:id" v="1149670"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Little Thetford CofE Primary School"/>
-    <tag k="phone" v="+44 1353 649260"/>
-    <tag k="ref:GB:uprn" v="10002596781"/>
-    <tag k="ref:edubase" v="149958"/>
-    <tag k="religion" v="christian"/>
-    <tag k="school:trust" v="no"/>
-    <tag k="school:type" v="voluntary_controlled"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="website" v="https://www.littlethetfordprimaryschool.org/web"/>
-    <tag k="wikidata" v="Q66223624"/>
-  </way>
   <way id="227391928" version="1" timestamp="2013-06-25T19:19:34Z" changeset="16704001" uid="57380" user="JennyH">
     <nd ref="2360801486"/>
     <nd ref="2360801733"/>
     <tag k="highway" v="residential"/>
+  </way>
+  <way id="227391939" version="5" timestamp="2022-08-02T12:23:31Z" changeset="124389926" uid="7436199" user="aleksaJov">
+    <nd ref="2360801494"/>
+    <nd ref="2360801534"/>
+    <nd ref="2360801528"/>
+    <nd ref="2360801583"/>
+    <nd ref="2360801590"/>
+    <nd ref="2360801538"/>
+    <nd ref="2360801571"/>
+    <nd ref="2360801509"/>
+    <nd ref="2360801570"/>
+    <nd ref="2360801600"/>
+    <nd ref="2360801531"/>
+    <nd ref="2360801603"/>
+    <nd ref="2360801617"/>
+    <nd ref="2360801761"/>
+    <nd ref="2360801609"/>
+    <nd ref="2360801699"/>
+    <nd ref="2360801494"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St George (Little Thetford Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="node from davidearl"/>
+    <tag k="wikidata" v="Q7593141"/>
+    <tag k="wikipedia" v="en:St George's Church, Little Thetford"/>
   </way>
   <way id="415797152" version="1" timestamp="2016-05-05T13:15:44Z" changeset="39120410" uid="281267" user="smb1001">
     <nd ref="4167557089"/>
     <nd ref="4167557094"/>
     <nd ref="262711390"/>
     <tag k="highway" v="residential"/>
+  </way>
+  <way id="637815731" version="2" timestamp="2023-12-29T00:20:15Z" changeset="145641356" uid="242345" user="confusedbuffalo">
+    <nd ref="6012354314"/>
+    <nd ref="6012354311"/>
+    <nd ref="6012354312"/>
+    <nd ref="6012354310"/>
+    <nd ref="6012354308"/>
+    <nd ref="6012354307"/>
+    <nd ref="6012354309"/>
+    <nd ref="6012354313"/>
+    <nd ref="6012354314"/>
+    <tag k="addr:postcode" v="CB6 3HA"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="chapel"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="name" v="Little Thetford Baptist Chapel"/>
+    <tag k="religion" v="christian"/>
   </way>
   <way id="637815734" version="2" timestamp="2023-11-11T22:03:59Z" changeset="143916436" uid="14387773" user="arienne">
     <nd ref="6012354330"/>

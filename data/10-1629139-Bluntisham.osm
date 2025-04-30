@@ -1,65 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:09:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="24971054" lat="52.3535197" lon="0.0238847" version="7" timestamp="2025-01-13T12:49:14Z" changeset="161308489" uid="5229644" user="Nathan_A_RF"/>
   <node id="24972765" lat="52.3594506" lon="-0.0426567" version="5" timestamp="2020-06-01T18:00:04Z" changeset="86057866" uid="5173844" user="ndrw6"/>
-  <node id="347838957" lat="52.3389696" lon="-0.0219338" version="2" timestamp="2016-05-02T16:14:06Z" changeset="39043506" uid="669183" user="Andy_W"/>
-  <node id="347839395" lat="52.3496191" lon="0.0036569" version="7" timestamp="2024-05-21T12:20:34Z" changeset="151625764" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3PA"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="amenity" v="fuel"/>
-    <tag k="brand" v="BP"/>
-    <tag k="brand:wikidata" v="Q152057"/>
-    <tag k="compressed_air" v="no"/>
-    <tag k="name" v="BP"/>
-    <tag k="website" v="https://map.bp.com/en-GB/GB/petrol-station/bluntisham/karan-bluntisham-service-station/3661"/>
-  </node>
+  <node id="265832522" lat="52.3509897" lon="0.0160905" version="3" timestamp="2025-01-13T12:49:14Z" changeset="161308489" uid="5229644" user="Nathan_A_RF"/>
   <node id="616876304" lat="52.3607827" lon="0.0120612" version="2" timestamp="2014-05-16T10:44:02Z" changeset="22369061" uid="1876487" user="Jordan Mann"/>
-  <node id="631172460" lat="52.3390500" lon="-0.0216098" version="2" timestamp="2016-05-02T16:14:06Z" changeset="39043506" uid="669183" user="Andy_W"/>
-  <node id="635403888" lat="52.3353531" lon="-0.0359003" version="2" timestamp="2013-08-03T20:38:18Z" changeset="17208361" uid="1703953" user="BlueDonkey"/>
-  <node id="1305922461" lat="52.3412447" lon="-0.0614279" version="2" timestamp="2014-04-23T07:38:24Z" changeset="21879689" uid="1876487" user="Jordan Mann"/>
-  <node id="1500999252" lat="52.3495939" lon="0.0034118" version="3" timestamp="2024-05-21T12:20:34Z" changeset="151625764" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3PA"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="name" v="Benetton's Hair &amp; Beauty"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
-  <node id="1500999254" lat="52.3495131" lon="0.0034811" version="3" timestamp="2024-05-21T12:20:34Z" changeset="151625764" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3PA"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="name" v="The Lounge"/>
-  </node>
-  <node id="1500999255" lat="52.3494284" lon="0.0035463" version="3" timestamp="2024-05-21T12:20:34Z" changeset="151625764" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3PA"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="name" v="Village Barbers"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
   <node id="3439587094" lat="52.3335102" lon="-0.0429486" version="1" timestamp="2015-04-05T17:26:32Z" changeset="29996889" uid="2675" user="Eckhart Wörner"/>
-  <node id="4350859026" lat="52.3462451" lon="-0.0015730" version="2" timestamp="2024-05-21T12:31:19Z" changeset="151626237" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3RJ"/>
-    <tag k="addr:street" v="Needingworth Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="name" v="Priors Hill Farm"/>
-    <tag k="place" v="farm"/>
-  </node>
   <way id="4215038" version="23" timestamp="2022-02-06T15:25:03Z" changeset="117083207" uid="11022773" user="GeoFens">
     <nd ref="24972765"/>
     <nd ref="1507202237"/>
@@ -512,26 +459,6 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="The Fairway"/>
   </way>
-  <way id="48564210" version="10" timestamp="2024-09-27T03:18:49Z" changeset="157152287" uid="21226027" user="DorneyLake123">
-    <nd ref="616876132"/>
-    <nd ref="616876105"/>
-    <nd ref="616876117"/>
-    <nd ref="616876261"/>
-    <nd ref="616876301"/>
-    <nd ref="2861666751"/>
-    <nd ref="616876132"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3NY"/>
-    <tag k="addr:street" v="Colne Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="amenity" v="school"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="name" v="St Helens Primary School"/>
-    <tag k="ref:edubase" v="110888"/>
-    <tag k="website" v="www.st-helens.cambs.sch.uk"/>
-    <tag k="wikidata" v="Q67148361"/>
-  </way>
   <way id="48564211" version="4" timestamp="2017-02-06T23:08:46Z" changeset="45869506" uid="3178375" user="LeTopographeFou">
     <nd ref="243754318"/>
     <nd ref="2861774163"/>
@@ -628,6 +555,32 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Laxton Grange"/>
   </way>
+  <way id="48564235" version="7" timestamp="2025-01-27T02:02:17Z" changeset="161801216" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="616876252"/>
+    <nd ref="2862138646"/>
+    <nd ref="2862138645"/>
+    <nd ref="2862138644"/>
+    <nd ref="2862138643"/>
+    <nd ref="2862138642"/>
+    <nd ref="2862138641"/>
+    <nd ref="2862138640"/>
+    <nd ref="2862138639"/>
+    <nd ref="2862138638"/>
+    <nd ref="2862138636"/>
+    <nd ref="2862138637"/>
+    <nd ref="616876242"/>
+    <nd ref="7256335083"/>
+    <nd ref="7256335082"/>
+    <nd ref="616876240"/>
+    <nd ref="616876249"/>
+    <nd ref="616876252"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Bluntisham Village Hall"/>
+    <tag k="operator" v="Bluntisham Parish Council"/>
+    <tag k="operator:type" v="council"/>
+  </way>
   <way id="48837806" version="7" timestamp="2023-08-17T15:21:28Z" changeset="140018418" uid="5173844" user="ndrw6">
     <nd ref="619551084"/>
     <nd ref="9276432096"/>
@@ -653,28 +606,6 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Wood End"/>
     <tag k="source" v="npe"/>
-  </way>
-  <way id="48837807" version="6" timestamp="2024-05-21T12:35:00Z" changeset="151626457" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="619551077"/>
-    <nd ref="619551078"/>
-    <nd ref="2795985869"/>
-    <nd ref="619551079"/>
-    <nd ref="619551080"/>
-    <nd ref="619551077"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3LQ"/>
-    <tag k="addr:street" v="Heath Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="amenity" v="recycling"/>
-    <tag k="name" v="Bluntisham Recycling Centre"/>
-    <tag k="operator" v="Cambridgeshire County Council"/>
-    <tag k="owner" v="Cambridgeshire County Council"/>
-    <tag k="ownership" v="municipal"/>
-    <tag k="phone" v="+44 1487 841 810"/>
-    <tag k="recycling_type" v="centre"/>
-    <tag k="website" v="https://www.cambridgeshire.gov.uk/directory/listings/bluntisham-recycling-centre"/>
-    <tag k="wikidata" v="Q106094017"/>
   </way>
   <way id="48837810" version="10" timestamp="2024-09-26T22:43:38Z" changeset="157148558" uid="21931329" user="Plusmore57">
     <nd ref="35262682"/>
@@ -833,6 +764,15 @@
     <tag k="name" v="Glebe Close"/>
     <tag k="source:name" v="survey"/>
   </way>
+  <way id="229553749" version="1" timestamp="2013-07-11T13:38:09Z" changeset="16913576" uid="1431482" user="JonOrchard">
+    <nd ref="2381304736"/>
+    <nd ref="2381304739"/>
+    <nd ref="2381304741"/>
+    <nd ref="2381304743"/>
+    <nd ref="2381304736"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hanson - Needingworth Quarry"/>
+  </way>
   <way id="255860816" version="5" timestamp="2019-06-06T15:10:48Z" changeset="70993638" uid="9018038" user="kasals">
     <nd ref="619551098"/>
     <nd ref="6528602893"/>
@@ -843,6 +783,37 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Station Road"/>
     <tag k="ref" v="A1123"/>
+  </way>
+  <way id="282231755" version="2" timestamp="2022-01-14T00:28:29Z" changeset="116129374" uid="7463" user="kesterlester">
+    <nd ref="2861774552"/>
+    <nd ref="2861774563"/>
+    <nd ref="2861774542"/>
+    <nd ref="2861774534"/>
+    <nd ref="2861774552"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bluntisham Reservoir"/>
+  </way>
+  <way id="282231765" version="3" timestamp="2022-01-14T00:28:29Z" changeset="116129374" uid="7463" user="kesterlester">
+    <nd ref="2861774546"/>
+    <nd ref="2861774551"/>
+    <nd ref="2861774554"/>
+    <nd ref="2861774557"/>
+    <nd ref="2861774560"/>
+    <nd ref="2861774561"/>
+    <nd ref="2861774558"/>
+    <nd ref="2861774555"/>
+    <nd ref="2861774550"/>
+    <nd ref="2861774548"/>
+    <nd ref="2861774544"/>
+    <nd ref="2861774540"/>
+    <nd ref="2861774538"/>
+    <nd ref="2861774537"/>
+    <nd ref="2861774539"/>
+    <nd ref="2861774543"/>
+    <nd ref="2861774546"/>
+    <tag k="building" v="yes"/>
+    <tag k="man_made" v="water_tower"/>
+    <tag k="name" v="Bluntisham Water Tower"/>
   </way>
   <way id="290055818" version="2" timestamp="2017-02-06T23:24:50Z" changeset="45869506" uid="3178375" user="LeTopographeFou">
     <nd ref="265832094"/>
@@ -967,24 +938,6 @@
     <tag k="ref" v="A1123"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="345038395" version="3" timestamp="2024-05-21T12:31:19Z" changeset="151626237" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="4347377186"/>
-    <nd ref="3517350883"/>
-    <nd ref="3517350884"/>
-    <nd ref="3517350885"/>
-    <nd ref="4347377628"/>
-    <nd ref="3517350886"/>
-    <nd ref="4347377187"/>
-    <nd ref="4347377188"/>
-    <nd ref="4347377186"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3RJ"/>
-    <tag k="addr:street" v="Needingworth Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="landuse" v="plant_nursery"/>
-    <tag k="name" v="Lanegale Nursery"/>
-  </way>
   <way id="414666673" version="5" timestamp="2024-05-21T12:18:39Z" changeset="151625657" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4157822887"/>
     <nd ref="4157822996"/>
@@ -1017,21 +970,6 @@
     <tag k="ref:dove" v="13004"/>
     <tag k="religion" v="christian"/>
     <tag k="wikidata" v="Q17527795"/>
-  </way>
-  <way id="436881241" version="2" timestamp="2024-05-21T12:31:19Z" changeset="151626237" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="4347377626"/>
-    <nd ref="4347377627"/>
-    <nd ref="4347377628"/>
-    <nd ref="3517350886"/>
-    <nd ref="4347377626"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="Rockmeadow Kennels"/>
-    <tag k="addr:postcode" v="PE28 3RJ"/>
-    <tag k="addr:street" v="Needingworth Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Rockmeadow Kennels"/>
   </way>
   <way id="437294536" version="2" timestamp="2024-05-21T12:18:39Z" changeset="151625657" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4351125353"/>
@@ -1108,20 +1046,6 @@
     <tag k="addr:suburb" v="Bluntisham"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="437295756" version="2" timestamp="2024-05-21T12:31:19Z" changeset="151626237" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="4351158229"/>
-    <nd ref="4351158230"/>
-    <nd ref="4351158231"/>
-    <nd ref="4351158232"/>
-    <nd ref="4351158229"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3RJ"/>
-    <tag k="addr:street" v="Needingworth Road"/>
-    <tag k="addr:suburb" v="Bluntisham"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Green Acre"/>
-  </way>
   <way id="440208477" version="3" timestamp="2024-05-23T09:31:14Z" changeset="151712992" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4379291189"/>
     <nd ref="4379291190"/>
@@ -1142,6 +1066,25 @@
     <tag k="phone" v="+44 1480 466696"/>
     <tag k="shop" v="bathroom_furnishing"/>
     <tag k="website" v="https://www.asfenner.co.uk"/>
+  </way>
+  <way id="595096752" version="3" timestamp="2021-06-05T10:43:43Z" changeset="105876517" uid="281267" user="smb1001">
+    <nd ref="5672625367"/>
+    <nd ref="5672625365"/>
+    <nd ref="5726225883"/>
+    <nd ref="5726225884"/>
+    <nd ref="5726225886"/>
+    <nd ref="5726225885"/>
+    <nd ref="620119698"/>
+    <nd ref="5672625364"/>
+    <nd ref="5726225888"/>
+    <nd ref="5726225887"/>
+    <nd ref="5672625367"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="name" v="Baptist Meeting House"/>
+    <tag k="religion" v="christian"/>
+    <tag k="website" v="https://www.cambridgeshire.net/organisation/bluntisham-baptist-church/7740.aspx#.WzUMtLgnY2w"/>
   </way>
   <way id="597101489" version="4" timestamp="2025-01-13T12:49:14Z" changeset="161308489" uid="5229644" user="Nathan_A_RF">
     <nd ref="265832522"/>
@@ -1267,6 +1210,19 @@
     <nd ref="7477313780"/>
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Megs Close"/>
+  </way>
+  <way id="800077853" version="2" timestamp="2024-08-15T21:00:13Z" changeset="155301729" uid="21853740" user="Peter Lusmore">
+    <nd ref="7482321889"/>
+    <nd ref="7482321886"/>
+    <nd ref="7482321887"/>
+    <nd ref="7482321888"/>
+    <nd ref="7482321889"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="David Morris Community Room"/>
+    <tag k="operator" v="Bluntisham Parish Council"/>
+    <tag k="operator:type" v="council"/>
   </way>
   <way id="800077869" version="1" timestamp="2020-05-04T18:20:33Z" changeset="84641220" uid="5173844" user="ndrw6">
     <nd ref="265832493"/>

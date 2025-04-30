@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:40:28Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="4312007" lat="52.4455592" lon="-0.2760539" version="9" timestamp="2018-09-13T18:32:35Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
   <node id="24973355" lat="52.4667261" lon="-0.2821564" version="7" timestamp="2024-04-07T16:44:50Z" changeset="149701284" uid="5229644" user="Nathan_A_RF"/>
-  <node id="24973380" lat="52.4889636" lon="-0.2841564" version="5" timestamp="2008-12-28T00:23:46Z" changeset="642204" uid="15578" user="Stevie D"/>
-  <node id="24973395" lat="52.4980191" lon="-0.2894842" version="8" timestamp="2008-12-28T00:23:54Z" changeset="642204" uid="15578" user="Stevie D"/>
-  <node id="27397118" lat="52.4259105" lon="-0.2692804" version="13" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Sawtry"/>
-    <tag k="ref" v="15"/>
-  </node>
-  <node id="27397136" lat="52.4342413" lon="-0.2721148" version="9" timestamp="2018-07-25T23:37:37Z" changeset="61070715" uid="8571542" user="Merzof"/>
   <node id="59729582" lat="52.4817268" lon="-0.2427648" version="4" timestamp="2025-01-13T22:09:22Z" changeset="161326679" uid="5229644" user="Nathan_A_RF"/>
-  <node id="59729592" lat="52.4985958" lon="-0.2481243" version="1" timestamp="2007-09-25T11:34:54Z" changeset="513065" uid="2955" user="Matthew Newton">
-    <tag k="created_by" v="JOSM"/>
-  </node>
   <node id="259564166" lat="52.4975087" lon="-0.2900812" version="10" timestamp="2018-09-13T18:32:36Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="259564170" lat="52.4974408" lon="-0.2903051" version="16" timestamp="2018-09-13T18:32:36Z" changeset="62561387" uid="2773866" user="kreuzschnabel">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Norman Cross"/>
-    <tag k="ref" v="16"/>
-  </node>
-  <node id="260030950" lat="52.4818412" lon="-0.3453625" version="4" timestamp="2012-03-12T13:24:26Z" changeset="10954687" uid="504708" user="HillWithSmallFields"/>
   <node id="322090815" lat="52.4859993" lon="-0.3081147" version="1" timestamp="2008-12-27T19:01:25Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="322090816" lat="52.4859371" lon="-0.3082547" version="1" timestamp="2008-12-27T19:01:25Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="322091333" lat="52.4614879" lon="-0.3382742" version="1" timestamp="2008-12-27T19:04:14Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="322093480" lat="52.4571426" lon="-0.3408446" version="3" timestamp="2020-10-11T10:40:14Z" changeset="92297687" uid="281267" user="smb1001"/>
+  <node id="322090898" lat="52.4706842" lon="-0.3413068" version="1" timestamp="2008-12-27T19:01:33Z" changeset="630646" uid="7037" user="Gregory Williams"/>
   <node id="335387160" lat="52.4235977" lon="-0.2687809" version="2" timestamp="2018-09-13T18:32:37Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="345852686" lat="52.4479621" lon="-0.2771957" version="6" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Sawtry"/>
-    <tag k="ref" v="15"/>
-  </node>
   <node id="391086436" lat="52.5068722" lon="-0.3543085" version="2" timestamp="2023-09-23T19:44:17Z" changeset="141659086" uid="486701" user="eteb3"/>
-  <node id="960868011" lat="52.4857994" lon="-0.3085162" version="1" timestamp="2010-10-22T22:15:40Z" changeset="6140897" uid="7098" user="richardm565"/>
+  <node id="2164444644" lat="52.4794865" lon="-0.2860796" version="1" timestamp="2013-02-20T20:50:27Z" changeset="15104993" uid="322785" user="BCNorwich"/>
+  <node id="2405446179" lat="52.4747642" lon="-0.2863960" version="1" timestamp="2013-08-02T18:44:35Z" changeset="17195530" uid="5926" user="c2r">
+    <tag k="highway" v="turning_circle"/>
+  </node>
   <way id="4214304" version="16" timestamp="2024-04-07T16:44:50Z" changeset="149701284" uid="5229644" user="Nathan_A_RF">
     <nd ref="24973355"/>
     <nd ref="24973364"/>
@@ -624,6 +602,24 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Bullock Road"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="478581892" version="1" timestamp="2017-03-05T10:39:22Z" changeset="46592551" uid="1302721" user="Glucosamine">
+    <nd ref="4718127874"/>
+    <nd ref="4718127875"/>
+    <nd ref="4718127876"/>
+    <nd ref="4718127877"/>
+    <nd ref="4718127874"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Church House"/>
+  </way>
+  <way id="1068985009" version="1" timestamp="2022-06-12T14:06:51Z" changeset="122282935" uid="486701" user="eteb3">
+    <nd ref="9812436894"/>
+    <nd ref="9812436895"/>
+    <nd ref="9812436896"/>
+    <nd ref="9812436897"/>
+    <nd ref="9812436894"/>
+    <tag k="building" v="ruins"/>
+    <tag k="name" v="Denton Church (ruins)"/>
   </way>
 
 </osm>

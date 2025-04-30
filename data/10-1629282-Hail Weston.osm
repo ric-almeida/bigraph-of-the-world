@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:10:10Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:43:30Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="322469738" lat="52.2552013" lon="-0.2821469" version="2" timestamp="2009-02-16T21:50:00Z" changeset="500206" uid="91225" user="tms13">
     <tag k="created_by" v="Merkaartor 0.12"/>
   </node>
-  <node id="322477260" lat="52.2367039" lon="-0.2833447" version="3" timestamp="2023-12-11T17:30:27Z" changeset="145008360" uid="9385857" user="Road5914"/>
+  <node id="322477262" lat="52.2370819" lon="-0.2841917" version="4" timestamp="2023-12-11T17:30:27Z" changeset="145008360" uid="9385857" user="Road5914"/>
   <node id="464241371" lat="52.2294464" lon="-0.2923781" version="4" timestamp="2016-01-10T22:38:35Z" changeset="36493329" uid="2032231" user="narboy"/>
+  <node id="469920782" lat="52.2341446" lon="-0.2870785" version="9" timestamp="2023-04-03T12:14:30Z" changeset="134452441" uid="705850" user="Cebderby">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
   <node id="528870152" lat="52.2670141" lon="-0.3375814" version="3" timestamp="2012-06-29T15:19:19Z" changeset="12057642" uid="90142" user="andy mackey"/>
-  <node id="528870153" lat="52.2666480" lon="-0.3357111" version="3" timestamp="2016-12-31T15:52:44Z" changeset="44809150" uid="90142" user="andy mackey"/>
-  <node id="1619901987" lat="52.2419652" lon="-0.2786476" version="2" timestamp="2023-12-11T17:30:27Z" changeset="145008360" uid="9385857" user="Road5914"/>
+  <node id="1619901972" lat="52.2417385" lon="-0.2788535" version="2" timestamp="2023-12-11T17:30:27Z" changeset="145008360" uid="9385857" user="Road5914"/>
   <way id="29309500" version="11" timestamp="2021-08-30T09:54:48Z" changeset="110450487" uid="9196107" user="bashwith">
     <nd ref="322469738"/>
     <nd ref="322469740"/>
@@ -516,6 +518,27 @@
     <tag k="sidewalk" v="no"/>
     <tag k="source" v="GPS"/>
   </way>
+  <way id="359193661" version="4" timestamp="2021-10-16T19:16:34Z" changeset="112590499" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="3639493951"/>
+    <nd ref="9176877085"/>
+    <nd ref="9176877088"/>
+    <nd ref="9176877087"/>
+    <nd ref="9176877086"/>
+    <nd ref="3639493959"/>
+    <nd ref="9176877090"/>
+    <nd ref="9176877091"/>
+    <nd ref="9176877092"/>
+    <nd ref="9176877089"/>
+    <nd ref="3639493960"/>
+    <nd ref="3639493953"/>
+    <nd ref="3639493951"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Nicholas (Hail Weston Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544248"/>
+  </way>
   <way id="414438829" version="2" timestamp="2022-01-18T14:30:16Z" changeset="116301561" uid="281267" user="smb1001">
     <nd ref="9428539504"/>
     <nd ref="4155824313"/>
@@ -523,6 +546,15 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Manor Way"/>
     <tag k="surface" v="paved"/>
+  </way>
+  <way id="625125113" version="1" timestamp="2018-09-12T18:09:38Z" changeset="62528492" uid="90142" user="andy mackey">
+    <nd ref="5902389890"/>
+    <nd ref="5902389888"/>
+    <nd ref="5902384767"/>
+    <nd ref="5902384768"/>
+    <nd ref="5902389890"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Pink Cottage"/>
   </way>
   <way id="775582412" version="4" timestamp="2024-04-04T11:39:15Z" changeset="149566150" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="7235408769"/>
@@ -565,6 +597,36 @@
     <tag k="building" v="public"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Hail Weston Village Hall"/>
+  </way>
+  <way id="1083782806" version="2" timestamp="2022-08-04T15:44:16Z" changeset="124486987" uid="322785" user="BCNorwich">
+    <nd ref="9931772417"/>
+    <nd ref="9931772418"/>
+    <nd ref="9931772419"/>
+    <nd ref="9931772420"/>
+    <nd ref="9931772417"/>
+    <tag k="building" v="industrial"/>
+    <tag k="height" v="5"/>
+    <tag k="name" v="Tensor Warehouse 3"/>
+  </way>
+  <way id="1083782807" version="2" timestamp="2022-08-04T15:44:16Z" changeset="124486987" uid="322785" user="BCNorwich">
+    <nd ref="9931772421"/>
+    <nd ref="9932083686"/>
+    <nd ref="9931772423"/>
+    <nd ref="9931772424"/>
+    <nd ref="9931772421"/>
+    <tag k="building" v="industrial"/>
+    <tag k="height" v="5"/>
+    <tag k="name" v="Tensor Warehouse 2"/>
+  </way>
+  <way id="1083782809" version="1" timestamp="2022-08-04T13:02:05Z" changeset="124480342" uid="6486948" user="cday_tensor">
+    <nd ref="9931772429"/>
+    <nd ref="9931772430"/>
+    <nd ref="9931772433"/>
+    <nd ref="9931772431"/>
+    <nd ref="9931772432"/>
+    <nd ref="9931772429"/>
+    <tag k="building" v="industrial"/>
+    <tag k="name" v="Tensor Warehouse 1"/>
   </way>
 
 </osm>

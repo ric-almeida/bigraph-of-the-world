@@ -1,191 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:10:10Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:43:30Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="8583421" lat="52.2906329" lon="-0.2789592" version="4" timestamp="2009-02-22T14:39:47Z" changeset="615292" uid="12674" user="Peter Hibbert"/>
+  <node id="155357793" lat="52.3037164" lon="-0.2454562" version="9" timestamp="2019-12-09T15:28:21Z" changeset="78159155" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="Huntingdon South"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Brampton"/>
+  </node>
+  <node id="155357801" lat="52.3049129" lon="-0.2470511" version="8" timestamp="2025-02-06T12:14:31Z" changeset="162206107" uid="9596084" user="Alec Coates"/>
   <node id="322129906" lat="52.3131282" lon="-0.2520957" version="9" timestamp="2019-07-12T06:15:09Z" changeset="72163778" uid="90142" user="andy mackey"/>
-  <node id="322139716" lat="52.2831926" lon="-0.2919053" version="4" timestamp="2015-08-21T13:47:49Z" changeset="33483902" uid="1876487" user="Jordan Mann"/>
   <node id="344783645" lat="52.3036864" lon="-0.2451284" version="7" timestamp="2019-12-09T15:28:21Z" changeset="78159155" uid="5229644" user="Nathan_A_RF">
     <tag k="highway" v="motorway_junction"/>
     <tag k="name" v="Brampton"/>
   </node>
   <node id="344783664" lat="52.3031522" lon="-0.2439388" version="7" timestamp="2025-02-06T12:14:31Z" changeset="162206107" uid="9596084" user="Alec Coates"/>
   <node id="349120973" lat="52.3066381" lon="-0.2962801" version="9" timestamp="2019-02-17T00:43:24Z" changeset="67266772" uid="5173844" user="ndrw6"/>
-  <node id="349121307" lat="52.3085661" lon="-0.2943446" version="5" timestamp="2019-07-12T06:15:09Z" changeset="72163778" uid="90142" user="andy mackey"/>
-  <node id="482075624" lat="52.3063204" lon="-0.2452030" version="4" timestamp="2024-01-09T10:14:12Z" changeset="146060360" uid="5229644" user="Nathan_A_RF"/>
-  <node id="1091059597" lat="52.2891367" lon="-0.2201412" version="3" timestamp="2015-08-09T14:56:41Z" changeset="33220811" uid="90142" user="andy mackey"/>
-  <node id="1458156270" lat="52.2931040" lon="-0.2545564" version="6" timestamp="2021-09-02T08:21:52Z" changeset="110604200" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:postcode" v="PE19 5XA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:village" v="Buckden"/>
-    <tag k="fhrs:id" v="418634"/>
-    <tag k="name" v="Day's of Buckden"/>
-    <tag k="shop" v="butcher"/>
-  </node>
-  <node id="1458156273" lat="52.2931790" lon="-0.2547984" version="5" timestamp="2021-09-01T13:40:19Z" changeset="110568769" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="33,35"/>
-    <tag k="addr:postcode" v="PE19 5XA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:village" v="Buckden"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="1277679"/>
-    <tag k="name" v="The Vine"/>
-  </node>
-  <node id="1459346369" lat="52.2934273" lon="-0.2543915" version="7" timestamp="2024-09-16T18:43:36Z" changeset="156701170" uid="21425661" user="CjMalone">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:postcode" v="PE19 5XA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="One Stop"/>
-    <tag k="brand:wikidata" v="Q65954217"/>
-    <tag k="check_date" v="2023-05-30"/>
-    <tag k="name" v="One Stop"/>
-    <tag k="shop" v="convenience"/>
-  </node>
-  <node id="1459346370" lat="52.2935083" lon="-0.2545945" version="6" timestamp="2021-09-01T13:40:19Z" changeset="110568769" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:postcode" v="PE19 5XA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:village" v="Buckden"/>
-    <tag k="fhrs:id" v="341518"/>
-    <tag k="name" v="The George"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="wikidata" v="Q26423394"/>
-  </node>
-  <node id="1459346372" lat="52.2937384" lon="-0.2541930" version="4" timestamp="2021-09-01T13:40:19Z" changeset="110568769" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:postcode" v="PE19 5XA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:village" v="Buckden"/>
-    <tag k="fhrs:id" v="908386"/>
-    <tag k="name" v="The Lion"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="wikidata" v="Q26596435"/>
-  </node>
-  <node id="1460376230" lat="52.2932864" lon="-0.2473512" version="4" timestamp="2022-07-16T16:09:28Z" changeset="123694679" uid="242345" user="confusedbuffalo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="PE19 5SU"/>
-    <tag k="addr:street" v="Hunts End"/>
-    <tag k="name" v="Buckden Nisa"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="shop" v="convenience"/>
-  </node>
-  <node id="1460376232" lat="52.2931474" lon="-0.2475866" version="4" timestamp="2022-07-16T16:09:28Z" changeset="123694679" uid="242345" user="confusedbuffalo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="PE19 5SU"/>
-    <tag k="addr:street" v="Hunts End"/>
-    <tag k="amenity" v="pharmacy"/>
-    <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Buckden Pharmacy"/>
-  </node>
-  <node id="1460376242" lat="52.3012117" lon="-0.2325920" version="5" timestamp="2024-04-04T10:54:39Z" changeset="149564284" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="Lodge Farm"/>
-    <tag k="addr:postcode" v="PE19 5UH"/>
-    <tag k="addr:street" v="Brampton Road"/>
-    <tag k="addr:suburb" v="Buckden"/>
-    <tag k="landuse" v="farm"/>
-    <tag k="name" v="Lodge Farm, Buckden"/>
-    <tag k="nohousenumber" v="yes"/>
-    <tag k="note:retag" v="CS #48756035"/>
-  </node>
-  <node id="1460376247" lat="52.2931921" lon="-0.2475001" version="3" timestamp="2021-09-01T13:40:19Z" changeset="110568769" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="PE19 5SU"/>
-    <tag k="addr:street" v="Hunts End"/>
-    <tag k="addr:village" v="Buckden"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="fhrs:id" v="371846"/>
-    <tag k="name" v="Sunflower House"/>
-  </node>
-  <node id="1460376253" lat="52.2932401" lon="-0.2474297" version="4" timestamp="2022-07-16T16:09:28Z" changeset="123694679" uid="242345" user="confusedbuffalo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="PE19 5SU"/>
-    <tag k="addr:street" v="Hunts End"/>
-    <tag k="name" v="Barber on the Green"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
-  <node id="1615020840" lat="52.2822728" lon="-0.2584063" version="2" timestamp="2023-12-10T17:23:43Z" changeset="144972001" uid="9385857" user="Road5914"/>
+  <node id="1218995162" lat="52.2891948" lon="-0.2202607" version="2" timestamp="2015-08-09T14:56:41Z" changeset="33220811" uid="90142" user="andy mackey"/>
   <node id="1615020870" lat="52.2823229" lon="-0.2586641" version="2" timestamp="2023-12-10T17:23:43Z" changeset="144972001" uid="9385857" user="Road5914"/>
-  <node id="2278130470" lat="52.2933095" lon="-0.2544674" version="2" timestamp="2022-07-16T16:09:28Z" changeset="123694679" uid="242345" user="confusedbuffalo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:postcode" v="PE19 5XA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Tangles Hair Studio"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
-  <node id="2278130471" lat="52.2936655" lon="-0.2454875" version="1" timestamp="2013-04-23T10:19:14Z" changeset="15834746" uid="281267" user="smb1001">
-    <tag k="addr:housename" v="Peartree Cottage"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:street" v="Church Street"/>
-  </node>
-  <node id="2278130472" lat="52.2933521" lon="-0.2544460" version="2" timestamp="2022-07-16T16:09:28Z" changeset="123694679" uid="242345" user="confusedbuffalo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:postcode" v="PE19 5XA"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="name" v="Susan Peter's"/>
-    <tag k="shop" v="shoes"/>
-  </node>
-  <node id="2278130473" lat="52.2936647" lon="-0.2453842" version="1" timestamp="2013-04-23T10:19:14Z" changeset="15834746" uid="281267" user="smb1001">
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:street" v="Church Street"/>
-  </node>
-  <node id="2775950181" lat="52.3066373" lon="-0.2392630" version="10" timestamp="2024-01-09T03:04:01Z" changeset="146049501" uid="13341565" user="Falsernet"/>
-  <node id="2784359536" lat="52.3064868" lon="-0.2463822" version="4" timestamp="2025-02-06T12:14:31Z" changeset="162206107" uid="9596084" user="Alec Coates"/>
-  <node id="4312470971" lat="52.3031577" lon="-0.2531023" version="2" timestamp="2024-04-04T10:54:39Z" changeset="149564284" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5UQ"/>
-    <tag k="addr:street" v="Great North Road"/>
-    <tag k="addr:suburb" v="Buckden"/>
-    <tag k="name" v="Park Farm"/>
-    <tag k="place" v="farm"/>
-  </node>
-  <node id="4316278102" lat="52.2897440" lon="-0.2581480" version="2" timestamp="2024-04-04T11:00:16Z" changeset="149564455" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5XJ"/>
-    <tag k="addr:street" v="Great North Road"/>
-    <tag k="addr:suburb" v="Buckden"/>
-    <tag k="name" v="Westfield Farm"/>
-    <tag k="place" v="farm"/>
-  </node>
+  <node id="1615020873" lat="52.2824215" lon="-0.2583437" version="2" timestamp="2023-12-10T17:23:43Z" changeset="144972001" uid="9385857" user="Road5914"/>
+  <node id="3230746524" lat="52.3003134" lon="-0.2225062" version="8" timestamp="2024-01-09T10:14:12Z" changeset="146060360" uid="5229644" user="Nathan_A_RF"/>
+  <node id="4449493246" lat="52.3033643" lon="-0.2331109" version="5" timestamp="2021-01-12T16:16:31Z" changeset="97385530" uid="2773866" user="kreuzschnabel"/>
   <node id="6810329687" lat="52.3067834" lon="-0.2387109" version="3" timestamp="2024-01-09T03:04:01Z" changeset="146049501" uid="13341565" user="Falsernet"/>
   <node id="6810329697" lat="52.3067210" lon="-0.2389467" version="2" timestamp="2024-01-09T03:04:01Z" changeset="146049501" uid="13341565" user="Falsernet"/>
   <node id="6919874779" lat="52.2993352" lon="-0.2116549" version="3" timestamp="2024-01-09T10:14:12Z" changeset="146060360" uid="5229644" user="Nathan_A_RF"/>
-  <node id="6919897243" lat="52.2994612" lon="-0.2116330" version="3" timestamp="2024-01-09T10:14:12Z" changeset="146060360" uid="5229644" user="Nathan_A_RF"/>
-  <node id="9652728561" lat="52.2918377" lon="-0.2467276" version="2" timestamp="2024-04-04T10:54:39Z" changeset="149564284" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5UY"/>
-    <tag k="addr:street" v="Burberry Road"/>
-    <tag k="addr:suburb" v="Buckden"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="Bucken Village Club"/>
-    <tag k="phone" v="+44 1480 810096"/>
-    <tag k="website" v="https://www.buckdenvillageclub.co.uk"/>
-  </node>
-  <node id="11205736101" lat="52.2928485" lon="-0.2226079" version="3" timestamp="2024-02-15T18:55:01Z" changeset="147504079" uid="10420541" user="Thingummy">
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Ouse Valley Way"/>
-  </node>
   <way id="2830463" version="25" timestamp="2024-01-09T18:22:26Z" changeset="146076373" uid="5229644" user="Nathan_A_RF">
     <nd ref="646572771"/>
     <nd ref="646572774"/>
@@ -1624,55 +1463,6 @@
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="High Street"/>
   </way>
-  <way id="128216409" version="14" timestamp="2023-09-04T18:50:26Z" changeset="140819337" uid="242345" user="confusedbuffalo">
-    <nd ref="1417413175"/>
-    <nd ref="1417413172"/>
-    <nd ref="2277111319"/>
-    <nd ref="1417413177"/>
-    <nd ref="1417413178"/>
-    <nd ref="8316531975"/>
-    <nd ref="8316532008"/>
-    <nd ref="1417413169"/>
-    <nd ref="2275868637"/>
-    <nd ref="8316531944"/>
-    <nd ref="2277111988"/>
-    <nd ref="1417413167"/>
-    <nd ref="1417413160"/>
-    <nd ref="1417413158"/>
-    <nd ref="1417413151"/>
-    <nd ref="1417413147"/>
-    <nd ref="1417413142"/>
-    <nd ref="1417413146"/>
-    <nd ref="8316531941"/>
-    <nd ref="1417413153"/>
-    <nd ref="1417413175"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:postcode" v="PE19 5TT"/>
-    <tag k="addr:street" v="School Lane"/>
-    <tag k="addr:village" v="Buckden"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="350"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="diocese" v="Diocese of Ely"/>
-    <tag k="fhrs:id" v="341109"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="5"/>
-    <tag k="name" v="Buckden C of E Primary School"/>
-    <tag k="operator" v="Cambridgeshire County Council"/>
-    <tag k="operator:wikidata" v="Q5025648"/>
-    <tag k="phone" v="+44 1480 810241"/>
-    <tag k="ref:GB:uprn" v="10000146069"/>
-    <tag k="ref:edubase" v="137639"/>
-    <tag k="ref:edubase:group" v="2484"/>
-    <tag k="religion" v="christian"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="Buckden Church of England Primary Academy"/>
-    <tag k="school:trust:type" v="single_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="website" v="https://www.buckdenschool.co.uk/"/>
-    <tag k="wikidata" v="Q66229363"/>
-  </way>
   <way id="132576095" version="8" timestamp="2023-01-04T20:39:15Z" changeset="130881799" uid="123091" user="ianc">
     <nd ref="8583421"/>
     <nd ref="8583420"/>
@@ -1737,6 +1527,22 @@
     <tag k="highway" v="trunk_link"/>
     <tag k="maxspeed" v="50 mph"/>
     <tag k="maxspeed:type" v="sign"/>
+  </way>
+  <way id="132746413" version="5" timestamp="2023-01-18T20:33:08Z" changeset="131437240" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="344793233"/>
+    <nd ref="10566058382"/>
+    <nd ref="1324737494"/>
+    <nd ref="1324737497"/>
+    <nd ref="9652728530"/>
+    <nd ref="1324737520"/>
+    <nd ref="1460376254"/>
+    <nd ref="344793233"/>
+    <tag k="addr:city" v="Buckden"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Buckden Village Hall"/>
+    <tag k="website" v="https://www.buckdenvillagehall.co.uk"/>
   </way>
   <way id="132746420" version="8" timestamp="2022-11-20T19:26:47Z" changeset="129167460" uid="379166" user="Borbus">
     <nd ref="1460376268"/>
@@ -1867,6 +1673,74 @@
     <tag k="highway" v="tertiary"/>
     <tag k="maxwidth" v="2"/>
   </way>
+  <way id="218284814" version="4" timestamp="2021-03-25T22:25:49Z" changeset="101746091" uid="145231" user="woodpeck_repair">
+    <nd ref="2275464564"/>
+    <nd ref="2275464234"/>
+    <nd ref="2275464413"/>
+    <nd ref="2275464485"/>
+    <nd ref="2275464302"/>
+    <nd ref="2275464469"/>
+    <nd ref="2275464104"/>
+    <nd ref="2275464441"/>
+    <nd ref="2275464410"/>
+    <nd ref="2275464397"/>
+    <nd ref="2275464429"/>
+    <nd ref="2275464396"/>
+    <nd ref="2275464492"/>
+    <nd ref="2275464475"/>
+    <nd ref="2275464219"/>
+    <nd ref="2275464242"/>
+    <nd ref="2275464149"/>
+    <nd ref="2275464214"/>
+    <nd ref="2275464131"/>
+    <nd ref="2275464312"/>
+    <nd ref="2275464224"/>
+    <nd ref="2275464193"/>
+    <nd ref="2275464521"/>
+    <nd ref="2275464415"/>
+    <nd ref="2275464221"/>
+    <nd ref="2275464212"/>
+    <nd ref="2275464245"/>
+    <nd ref="2275464564"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Great Tower"/>
+  </way>
+  <way id="218284815" version="2" timestamp="2013-04-23T10:19:17Z" changeset="15834746" uid="281267" user="smb1001">
+    <nd ref="2275464291"/>
+    <nd ref="2275464297"/>
+    <nd ref="2275464276"/>
+    <nd ref="2275464517"/>
+    <nd ref="2275464291"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Elouise Lingerie"/>
+    <tag k="shop" v="clothes"/>
+  </way>
+  <way id="218284818" version="4" timestamp="2023-11-03T18:35:20Z" changeset="143586911" uid="504708" user="HillWithSmallFields">
+    <nd ref="2275464464"/>
+    <nd ref="2275464248"/>
+    <nd ref="2275464211"/>
+    <nd ref="2275464384"/>
+    <nd ref="2275464541"/>
+    <nd ref="2275464374"/>
+    <nd ref="2275464318"/>
+    <nd ref="2275464185"/>
+    <nd ref="2275464148"/>
+    <nd ref="2275464405"/>
+    <nd ref="2275464523"/>
+    <nd ref="2275464562"/>
+    <nd ref="2275464284"/>
+    <nd ref="2275464452"/>
+    <nd ref="2275464311"/>
+    <nd ref="2275464435"/>
+    <nd ref="2275464464"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Mary (Buckden Parish Church)"/>
+    <tag k="ref:dove" v="14221"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527953"/>
+  </way>
   <way id="218321939" version="2" timestamp="2021-09-02T08:21:52Z" changeset="110604200" uid="5173844" user="ndrw6">
     <nd ref="2275731529"/>
     <nd ref="2275732151"/>
@@ -1874,6 +1748,23 @@
     <nd ref="9055518957"/>
     <nd ref="2275731504"/>
     <tag k="highway" v="residential"/>
+  </way>
+  <way id="218433026" version="3" timestamp="2019-07-26T20:47:01Z" changeset="72703264" uid="1418967" user="RAC_UK">
+    <nd ref="2276832806"/>
+    <nd ref="2276833793"/>
+    <nd ref="2276833458"/>
+    <nd ref="2276833320"/>
+    <nd ref="2276833238"/>
+    <nd ref="2276833685"/>
+    <nd ref="2276832079"/>
+    <nd ref="2276833211"/>
+    <nd ref="2276832936"/>
+    <nd ref="2276832806"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="name" v="Buckden Methodist Church"/>
+    <tag k="religion" v="christian"/>
   </way>
   <way id="218464208" version="2" timestamp="2013-04-23T10:19:17Z" changeset="15834746" uid="281267" user="smb1001">
     <nd ref="2277113095"/>
@@ -1973,102 +1864,21 @@
     <tag k="addr:street" v="Church Street"/>
     <tag k="building" v="yes"/>
   </way>
+  <way id="299132236" version="1" timestamp="2014-08-20T21:32:02Z" changeset="24896806" uid="90142" user="andy mackey">
+    <nd ref="3030667638"/>
+    <nd ref="3030667639"/>
+    <nd ref="3030667642"/>
+    <nd ref="3030667641"/>
+    <nd ref="3030667638"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="GYM"/>
+  </way>
   <way id="331250462" version="1" timestamp="2015-03-04T16:33:59Z" changeset="29248426" uid="1302721" user="Glucosamine">
     <nd ref="1521242678"/>
     <nd ref="1521242666"/>
     <nd ref="1521242646"/>
     <nd ref="1521242665"/>
     <tag k="highway" v="unclassified"/>
-  </way>
-  <way id="361438340" version="4" timestamp="2024-04-04T11:00:16Z" changeset="149564455" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="3659129399"/>
-    <nd ref="1521242734"/>
-    <nd ref="1521242730"/>
-    <nd ref="1521242572"/>
-    <nd ref="1521242677"/>
-    <nd ref="3659129400"/>
-    <nd ref="3659129401"/>
-    <nd ref="9161304492"/>
-    <nd ref="9161304493"/>
-    <nd ref="3659129399"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5YN"/>
-    <tag k="addr:street" v="Perry Road"/>
-    <tag k="addr:suburb" v="Perry"/>
-    <tag k="man_made" v="water_works"/>
-    <tag k="name" v="Pumping Station"/>
-  </way>
-  <way id="373190753" version="3" timestamp="2024-04-04T11:09:34Z" changeset="149564791" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="3767029053"/>
-    <nd ref="3767029054"/>
-    <nd ref="3767029055"/>
-    <nd ref="3767029056"/>
-    <nd ref="3767029053"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5WX"/>
-    <tag k="addr:street" v="Mill Road"/>
-    <tag k="addr:suburb" v="Buckden"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Margetts Farm"/>
-  </way>
-  <way id="373193355" version="3" timestamp="2024-04-04T11:09:34Z" changeset="149564791" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="3767047194"/>
-    <nd ref="3767047195"/>
-    <nd ref="3767047196"/>
-    <nd ref="3767047197"/>
-    <nd ref="3767047194"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5QZ"/>
-    <tag k="addr:street" v="Leadens Lane"/>
-    <tag k="addr:suburb" v="Buckden"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Martins Farm"/>
-  </way>
-  <way id="388390908" version="4" timestamp="2024-04-04T11:00:16Z" changeset="149564455" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="3915953371"/>
-    <nd ref="7951153568"/>
-    <nd ref="3915953372"/>
-    <nd ref="3915953373"/>
-    <nd ref="3915953374"/>
-    <nd ref="3915953375"/>
-    <nd ref="3915953376"/>
-    <nd ref="3915953377"/>
-    <nd ref="3915953378"/>
-    <nd ref="3915953371"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5XH"/>
-    <tag k="addr:street" v="Perry Road"/>
-    <tag k="addr:suburb" v="Buckden"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Shooters Hollow Farm"/>
-  </way>
-  <way id="430505428" version="4" timestamp="2024-04-04T10:54:39Z" changeset="149564284" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="4297716244"/>
-    <nd ref="4297716251"/>
-    <nd ref="4297776565"/>
-    <nd ref="9023861815"/>
-    <nd ref="9023861816"/>
-    <nd ref="9023861817"/>
-    <nd ref="9023861818"/>
-    <nd ref="9023861819"/>
-    <nd ref="4297776584"/>
-    <nd ref="4297776792"/>
-    <nd ref="4297776793"/>
-    <nd ref="4297716406"/>
-    <nd ref="4297776585"/>
-    <nd ref="4297716239"/>
-    <nd ref="4297716244"/>
-    <tag k="addr:city" v="St Neots"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE19 5UH"/>
-    <tag k="addr:street" v="Buckden Road"/>
-    <tag k="addr:suburb" v="Brampton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Station Farm"/>
   </way>
   <way id="432536104" version="2" timestamp="2024-04-04T11:00:16Z" changeset="149564455" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="4315456821"/>
@@ -2093,6 +1903,17 @@
     <tag k="addr:street" v="Perry Road"/>
     <tag k="addr:suburb" v="Buckden"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="433239137" version="5" timestamp="2024-02-15T18:55:01Z" changeset="147504079" uid="10420541" user="Thingummy">
+    <nd ref="4320822164"/>
+    <nd ref="11205736092"/>
+    <nd ref="4320822165"/>
+    <nd ref="4320822166"/>
+    <nd ref="11205771153"/>
+    <nd ref="4320822167"/>
+    <nd ref="4320822164"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="18 Marina View"/>
   </way>
   <way id="433239138" version="2" timestamp="2023-09-20T17:06:29Z" changeset="141523741" uid="10420541" user="Thingummy">
     <nd ref="4320822168"/>
@@ -2573,6 +2394,23 @@
     <tag k="highway" v="unclassified"/>
     <tag k="width" v="3 metres"/>
   </way>
+  <way id="665447978" version="5" timestamp="2023-09-20T18:24:00Z" changeset="141526573" uid="10420541" user="Thingummy">
+    <nd ref="6228380415"/>
+    <nd ref="6228380414"/>
+    <nd ref="6228380413"/>
+    <nd ref="11205908230"/>
+    <nd ref="11205908229"/>
+    <nd ref="11205908227"/>
+    <nd ref="11205908226"/>
+    <nd ref="6228380412"/>
+    <nd ref="9023381685"/>
+    <nd ref="9023381686"/>
+    <nd ref="6228380415"/>
+    <tag k="addr:city" v="St Neots"/>
+    <tag k="addr:postcode" v="PE19 5WX"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Old Flour Mills"/>
+  </way>
   <way id="665707491" version="23" timestamp="2024-02-09T01:21:10Z" changeset="147238243" uid="10420541" user="Thingummy">
     <nd ref="6919874779"/>
     <nd ref="6231288231"/>
@@ -3026,6 +2864,23 @@
     <tag k="ref" v="A14"/>
     <tag k="shoulder" v="no"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="888213254" version="4" timestamp="2024-07-25T11:49:55Z" changeset="154390153" uid="5008136" user="JayTurnr">
+    <nd ref="2277143069"/>
+    <nd ref="2277142984"/>
+    <nd ref="2277142936"/>
+    <nd ref="2277143077"/>
+    <nd ref="2277143076"/>
+    <nd ref="2277142867"/>
+    <nd ref="2277143069"/>
+    <tag k="addr:city" v="St Neots"/>
+    <tag k="addr:postcode" v="PE19 5XF"/>
+    <tag k="brand" v="Shell Select"/>
+    <tag k="brand:wikidata" v="Q124359752"/>
+    <tag k="brand:wikipedia" v="en:Royal Dutch Shell"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Shell Select"/>
+    <tag k="shop" v="convenience"/>
   </way>
   <way id="894599161" version="1" timestamp="2021-01-12T14:13:11Z" changeset="97379529" uid="5173844" user="ndrw6">
     <nd ref="344793167"/>

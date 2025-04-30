@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:12:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:25:02Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="96517690" lat="52.0918231" lon="0.3621827" version="3" timestamp="2024-06-02T11:36:48Z" changeset="152155839" uid="5173844" user="ndrw6"/>
-  <node id="96517756" lat="52.0916720" lon="0.3620481" version="2" timestamp="2024-06-02T11:36:48Z" changeset="152155839" uid="5173844" user="ndrw6"/>
-  <node id="96517898" lat="52.0701564" lon="0.3649881" version="1" timestamp="2007-11-03T11:08:56Z" changeset="395652" uid="3582" user="davidearl">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="96517900" lat="52.0699636" lon="0.3650316" version="2" timestamp="2024-06-02T11:36:48Z" changeset="152155839" uid="5173844" user="ndrw6"/>
+  <node id="96517881" lat="52.0730372" lon="0.3632777" version="2" timestamp="2012-02-14T20:56:55Z" changeset="10687024" uid="504708" user="HillWithSmallFields"/>
   <node id="96517949" lat="52.0698729" lon="0.3806300" version="2" timestamp="2025-02-26T17:44:47Z" changeset="162982097" uid="231017" user="swimdb"/>
   <node id="96518136" lat="52.0708002" lon="0.3448175" version="2" timestamp="2009-09-15T21:30:21Z" changeset="2496867" uid="173186" user="Gareth Rees"/>
-  <node id="1201409115" lat="52.0820932" lon="0.3301758" version="1" timestamp="2011-03-14T10:28:32Z" changeset="7554777" uid="322785" user="BCNorwich"/>
+  <node id="96518152" lat="52.0772013" lon="0.3392686" version="1" timestamp="2007-11-03T11:09:04Z" changeset="395652" uid="3582" user="davidearl">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="96518487" lat="52.0735290" lon="0.3868042" version="4" timestamp="2012-02-14T20:41:47Z" changeset="10687024" uid="504708" user="HillWithSmallFields"/>
+  <node id="688780046" lat="52.0820340" lon="0.3307125" version="1" timestamp="2010-04-08T13:52:31Z" changeset="4364124" uid="66869" user="Simon Daw"/>
   <node id="1269793513" lat="52.0856130" lon="0.3935660" version="1" timestamp="2011-05-01T21:12:03Z" changeset="8026194" uid="74897" user="Rowland"/>
-  <node id="11679169141" lat="52.0791911" lon="0.4150600" version="2" timestamp="2025-02-21T16:17:22Z" changeset="162787612" uid="5229644" user="Nathan_A_RF"/>
   <way id="10862928" version="4" timestamp="2024-06-02T11:36:48Z" changeset="152155839" uid="5173844" user="ndrw6">
     <nd ref="96517690"/>
     <nd ref="11951718792"/>
@@ -396,6 +395,33 @@
     <nd ref="11679169141"/>
     <tag k="highway" v="tertiary"/>
     <tag k="source" v="gps survey"/>
+  </way>
+  <way id="168652252" version="4" timestamp="2020-10-15T11:14:00Z" changeset="92519477" uid="281267" user="smb1001">
+    <nd ref="1798780964"/>
+    <nd ref="1798780917"/>
+    <nd ref="1798780952"/>
+    <nd ref="1798780935"/>
+    <nd ref="1798780926"/>
+    <nd ref="1798780936"/>
+    <nd ref="1798780942"/>
+    <nd ref="1798780927"/>
+    <nd ref="1798780965"/>
+    <nd ref="1798780921"/>
+    <nd ref="1798780951"/>
+    <nd ref="1798780963"/>
+    <nd ref="1798780937"/>
+    <nd ref="1798780968"/>
+    <nd ref="1798780918"/>
+    <nd ref="1798780944"/>
+    <nd ref="1798780954"/>
+    <nd ref="1798780941"/>
+    <nd ref="1798780964"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary, Shudy Camps"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550263"/>
   </way>
   <way id="185279157" version="3" timestamp="2017-06-14T11:20:09Z" changeset="49526660" uid="84263" user="Robert Whittaker">
     <nd ref="1269793513"/>

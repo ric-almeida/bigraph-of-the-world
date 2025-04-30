@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:12:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:02Z" areas="2025-02-06T02:17:44Z"/>
 
+  <node id="10387289" lat="52.0936870" lon="0.1249543" version="2" timestamp="2008-01-18T11:09:05Z" changeset="658591" uid="3582" user="davidearl">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="10387290" lat="52.0905116" lon="0.1192885" version="2" timestamp="2008-01-18T11:09:05Z" changeset="658591" uid="3582" user="davidearl">
+    <tag k="created_by" v="JOSM"/>
+  </node>
   <node id="25709991" lat="52.0767666" lon="0.0869750" version="2" timestamp="2012-04-18T02:38:15Z" changeset="11339703" uid="24119" user="Mauls"/>
   <node id="33408798" lat="52.0966679" lon="0.0801992" version="6" timestamp="2023-05-19T12:57:37Z" changeset="136299179" uid="3999" user="BarryMyles"/>
   <node id="33408800" lat="52.0951706" lon="0.0814315" version="5" timestamp="2023-05-19T12:57:37Z" changeset="136299179" uid="3999" user="BarryMyles"/>
-  <node id="33408944" lat="52.1175664" lon="0.0983796" version="4" timestamp="2010-09-26T21:55:12Z" changeset="5886266" uid="21502" user="Kevin Steinhardt"/>
+  <node id="33408925" lat="52.1051966" lon="0.1016344" version="2" timestamp="2010-01-29T01:32:47Z" changeset="3740442" uid="5926" user="c2r"/>
+  <node id="236998643" lat="52.0944433" lon="0.1264537" version="4" timestamp="2023-03-11T22:15:48Z" changeset="133569066" uid="161619" user="FvGordon"/>
   <node id="236998695" lat="52.0665746" lon="0.1067591" version="2" timestamp="2012-03-04T13:42:57Z" changeset="10868534" uid="553735" user="Johnmb"/>
   <node id="544548692" lat="52.1168876" lon="0.0975434" version="2" timestamp="2010-09-26T21:55:15Z" changeset="5886266" uid="21502" user="Kevin Steinhardt"/>
-  <node id="927329163" lat="52.1172576" lon="0.0983690" version="2" timestamp="2024-12-29T21:34:11Z" changeset="160768719" uid="5229644" user="Nathan_A_RF"/>
-  <node id="1297465739" lat="52.0739466" lon="0.1072070" version="2" timestamp="2015-06-13T11:03:37Z" changeset="31941222" uid="406589" user="AmyCupcake"/>
-  <node id="2242635832" lat="52.0948946" lon="0.1277186" version="2" timestamp="2025-03-25T20:47:10Z" changeset="164096612" uid="13666626" user="RedAuburn"/>
+  <node id="2307579963" lat="52.0917890" lon="0.1215947" version="1" timestamp="2013-05-17T08:02:56Z" changeset="16163360" uid="84263" user="Robert Whittaker"/>
+  <node id="2349554767" lat="52.0867613" lon="0.1120274" version="1" timestamp="2013-06-17T16:24:28Z" changeset="16592197" uid="504708" user="HillWithSmallFields"/>
   <way id="5015781" version="10" timestamp="2023-06-23T09:27:01Z" changeset="137680224" uid="242345" user="confusedbuffalo">
     <nd ref="33408798"/>
     <nd ref="1041278532"/>
@@ -283,44 +289,6 @@
     <tag k="name" v="The Green"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="5016024" version="8" timestamp="2023-09-11T12:57:21Z" changeset="141111889" uid="242345" user="confusedbuffalo">
-    <nd ref="33409745"/>
-    <nd ref="33409741"/>
-    <nd ref="7469415821"/>
-    <nd ref="7469415820"/>
-    <nd ref="33409742"/>
-    <nd ref="7469415819"/>
-    <nd ref="33409743"/>
-    <nd ref="33409744"/>
-    <nd ref="33409745"/>
-    <tag k="addr:city" v="Royston"/>
-    <tag k="addr:county" v="Hertfordshire"/>
-    <tag k="addr:housename" v="Thriplow Church Of England Primary School"/>
-    <tag k="addr:postcode" v="SG8 7RH"/>
-    <tag k="addr:street" v="School Lane"/>
-    <tag k="addr:suburb" v="Thriplow"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="140"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="diocese" v="Diocese of Ely"/>
-    <tag k="email" v="office@thriplow.cambs.sch.uk"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Thriplow CofE Primary School"/>
-    <tag k="operator" v="Diocese of Ely Multi-Academy Trust"/>
-    <tag k="phone" v="+44 1763 208 213"/>
-    <tag k="ref:GB:uprn" v="100091577982"/>
-    <tag k="ref:edubase" v="145246"/>
-    <tag k="ref:edubase:group" v="2905"/>
-    <tag k="religion" v="christian"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="The Diocese of Ely Multi-Academy Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="website" v="https://www.thriplow.cambs.sch.uk"/>
-    <tag k="wikidata" v="Q66232329"/>
-  </way>
   <way id="5016026" version="7" timestamp="2020-09-28T11:11:42Z" changeset="91636317" uid="11736081" user="ssnjan">
     <nd ref="33408919"/>
     <nd ref="33408920"/>
@@ -336,41 +304,6 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Brook Road"/>
     <tag k="source:name" v="dictaphone"/>
-  </way>
-  <way id="22001368" version="11" timestamp="2019-03-25T06:43:21Z" changeset="68494888" uid="9451067" user="b-jazz-bot">
-    <nd ref="237042984"/>
-    <nd ref="237042988"/>
-    <nd ref="237042977"/>
-    <nd ref="237042980"/>
-    <nd ref="1407350212"/>
-    <nd ref="1833676445"/>
-    <nd ref="237042970"/>
-    <nd ref="237042972"/>
-    <nd ref="1407350203"/>
-    <nd ref="237042965"/>
-    <nd ref="1407350208"/>
-    <nd ref="237042968"/>
-    <nd ref="237043013"/>
-    <nd ref="237043011"/>
-    <nd ref="237043009"/>
-    <nd ref="287070164"/>
-    <nd ref="287070211"/>
-    <nd ref="237043019"/>
-    <nd ref="237043016"/>
-    <nd ref="1407350205"/>
-    <nd ref="1407350207"/>
-    <nd ref="1407350211"/>
-    <nd ref="1407350206"/>
-    <nd ref="237042984"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housename" v="IWM Duxford"/>
-    <tag k="addr:postcode" v="CB22 4QR"/>
-    <tag k="addr:street" v="Royston Road"/>
-    <tag k="addr:village" v="Duxford"/>
-    <tag k="name" v="IWM Duxford"/>
-    <tag k="operator" v="Imperial War Museums"/>
-    <tag k="tourism" v="museum"/>
-    <tag k="website" v="https://www.iwm.org.uk/"/>
   </way>
   <way id="22001372" version="4" timestamp="2025-03-25T20:47:10Z" changeset="164096612" uid="13666626" user="RedAuburn">
     <nd ref="236998647"/>
@@ -807,6 +740,28 @@
     <tag k="name" v="Kingsway"/>
     <tag k="source" v="Bing"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="104566164" version="3" timestamp="2020-12-23T14:43:12Z" changeset="96333138" uid="84263" user="Robert Whittaker">
+    <nd ref="1206464937"/>
+    <nd ref="1206464717"/>
+    <nd ref="1206465082"/>
+    <nd ref="1206465114"/>
+    <nd ref="1206465488"/>
+    <nd ref="1206465483"/>
+    <nd ref="1206465358"/>
+    <nd ref="1206465134"/>
+    <nd ref="1206465007"/>
+    <nd ref="1206464924"/>
+    <nd ref="1206464876"/>
+    <nd ref="1206465448"/>
+    <nd ref="1206464937"/>
+    <tag k="addr:housename" v="Duxford Service Station"/>
+    <tag k="addr:postcode" v="CB22 4QQ"/>
+    <tag k="building" v="yes"/>
+    <tag k="fixme" v="Address, opening hours (perhaps), etc.; also is there a shop=car or car maintenance tag?"/>
+    <tag k="name" v="Mitsubishi Motors"/>
+    <tag k="source:name" v="local_knowledge"/>
+    <tag k="source:outline" v="Bing"/>
   </way>
   <way id="104566197" version="3" timestamp="2018-10-29T20:41:21Z" changeset="63991164" uid="5173844" user="ndrw6">
     <nd ref="236998803"/>
@@ -1431,6 +1386,32 @@
     <tag k="building" v="public"/>
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Thriplow Village Hall"/>
+  </way>
+  <way id="171567693" version="5" timestamp="2023-11-03T08:31:18Z" changeset="143562970" uid="504708" user="HillWithSmallFields">
+    <nd ref="1825785962"/>
+    <nd ref="1825785961"/>
+    <nd ref="1825785968"/>
+    <nd ref="1825785964"/>
+    <nd ref="33408928"/>
+    <nd ref="1825785967"/>
+    <nd ref="1825785966"/>
+    <nd ref="1825785957"/>
+    <nd ref="1825785958"/>
+    <nd ref="1825785954"/>
+    <nd ref="1825785963"/>
+    <nd ref="1825785953"/>
+    <nd ref="1825785960"/>
+    <nd ref="1825785965"/>
+    <nd ref="1825785959"/>
+    <nd ref="1825785955"/>
+    <nd ref="1825785962"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St George (Thriplow Parish Church)"/>
+    <tag k="ref:dove" v="10698"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550297"/>
   </way>
   <way id="171842030" version="3" timestamp="2020-01-20T07:44:47Z" changeset="79782613" uid="322785" user="BCNorwich">
     <nd ref="1828134967"/>

@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:17:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:44:30Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="312353043" lat="52.4148966" lon="-0.3254431" version="7" timestamp="2011-06-05T18:30:52Z" changeset="8352431" uid="7098" user="richardm565"/>
-  <node id="322095418" lat="52.4347809" lon="-0.3499767" version="1" timestamp="2008-12-27T19:21:53Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="347709021" lat="52.4330131" lon="-0.3180294" version="1" timestamp="2009-02-19T21:21:22Z" changeset="558352" uid="91225" user="tms13">
-    <tag k="created_by" v="Merkaartor 0.12"/>
-  </node>
-  <node id="347794385" lat="52.4191187" lon="-0.3303140" version="1" timestamp="2009-02-19T23:57:28Z" changeset="569901" uid="91225" user="tms13">
-    <tag k="created_by" v="Merkaartor 0.12"/>
-  </node>
   <way id="28429100" version="12" timestamp="2025-04-01T13:15:51Z" changeset="164374829" uid="28864" user="Hook">
     <nd ref="312353043"/>
     <nd ref="322101597"/>
@@ -104,6 +97,24 @@
     <nd ref="322101567"/>
     <tag k="highway" v="unclassified"/>
   </way>
+  <way id="98063453" version="5" timestamp="2022-07-19T11:22:08Z" changeset="123803278" uid="8774347" user="Misa_zumba">
+    <nd ref="1312375336"/>
+    <nd ref="1134729374"/>
+    <nd ref="1134729377"/>
+    <nd ref="1134729379"/>
+    <nd ref="1134729373"/>
+    <nd ref="1312375317"/>
+    <nd ref="1134729380"/>
+    <nd ref="1134729368"/>
+    <nd ref="1312375336"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint John (Little Gidding Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527831"/>
+    <tag k="wikipedia" v="en:St John's Church, Little Gidding"/>
+  </way>
   <way id="116410042" version="1" timestamp="2011-06-04T22:01:39Z" changeset="8343642" uid="7098" user="richardm565">
     <nd ref="1312375337"/>
     <nd ref="1312375340"/>
@@ -111,6 +122,19 @@
     <nd ref="1312375323"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="North Court"/>
+  </way>
+  <way id="232644307" version="2" timestamp="2016-09-19T17:33:49Z" changeset="42275897" uid="1302721" user="Glucosamine">
+    <nd ref="2409844947"/>
+    <nd ref="2409844944"/>
+    <nd ref="2409844863"/>
+    <nd ref="2409844880"/>
+    <nd ref="2409844864"/>
+    <nd ref="2409844844"/>
+    <nd ref="2409844834"/>
+    <nd ref="2409844845"/>
+    <nd ref="2409844947"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ferrar House"/>
   </way>
 
 </osm>

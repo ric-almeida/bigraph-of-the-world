@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:09:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="8583439" lat="52.3132545" lon="-0.2988708" version="9" timestamp="2009-03-02T22:25:15Z" changeset="725013" uid="12674" user="Peter Hibbert"/>
   <node id="344779844" lat="52.3367476" lon="-0.3189451" version="5" timestamp="2020-11-13T18:56:46Z" changeset="94081276" uid="5229644" user="Nathan_A_RF">
     <tag k="source" v="survey"/>
   </node>
-  <node id="344779860" lat="52.3527064" lon="-0.3116935" version="3" timestamp="2011-08-03T20:36:03Z" changeset="8914198" uid="90142" user="andy mackey"/>
+  <node id="344779847" lat="52.3377121" lon="-0.3185605" version="1" timestamp="2009-02-12T21:33:37Z" changeset="374203" uid="91225" user="tms13">
+    <tag k="created_by" v="Merkaartor 0.12"/>
+  </node>
+  <node id="344779848" lat="52.3378761" lon="-0.3184854" version="1" timestamp="2009-02-12T21:33:38Z" changeset="374203" uid="91225" user="tms13">
+    <tag k="created_by" v="Merkaartor 0.12"/>
+  </node>
+  <node id="1228388052" lat="52.3133089" lon="-0.2988725" version="1" timestamp="2011-04-01T20:42:43Z" changeset="7739175" uid="90142" user="andy mackey"/>
   <node id="1331501149" lat="52.3367926" lon="-0.3203134" version="6" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
     <tag k="exit_to" v="Wooley"/>
     <tag k="highway" v="motorway_junction"/>
@@ -15,31 +20,14 @@
     <tag k="ref" v="19A"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="4449499262" lat="52.3299188" lon="-0.2522143" version="3" timestamp="2020-11-13T18:56:46Z" changeset="94081276" uid="5229644" user="Nathan_A_RF"/>
-  <node id="4486776526" lat="52.3184303" lon="-0.2848117" version="2" timestamp="2024-05-12T12:17:20Z" changeset="151222620" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="Redwood Farm"/>
-    <tag k="addr:postcode" v="PE28 0AP"/>
-    <tag k="addr:street" v="Grafham Road"/>
-    <tag k="addr:suburb" v="Ellington Thorpe"/>
-    <tag k="name" v="Redwood Farm"/>
-    <tag k="place" v="farm"/>
+  <node id="4584333587" lat="52.3323364" lon="-0.2629622" version="16" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="New Ellington"/>
+    <tag k="ref" v="21"/>
   </node>
-  <node id="4486796221" lat="52.3267303" lon="-0.2995865" version="2" timestamp="2024-05-12T12:17:20Z" changeset="151222620" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="Church Farm"/>
-    <tag k="addr:postcode" v="PE28 0AW"/>
-    <tag k="addr:street" v="Grafham Road"/>
-    <tag k="addr:suburb" v="Ellington Thorpe"/>
-    <tag k="name" v="Church Farm"/>
-    <tag k="place" v="farm"/>
-  </node>
-  <node id="4584334204" lat="52.3322725" lon="-0.2590114" version="5" timestamp="2020-11-13T18:56:46Z" changeset="94081276" uid="5229644" user="Nathan_A_RF"/>
   <node id="4584334216" lat="52.3315766" lon="-0.2592258" version="3" timestamp="2023-11-25T13:36:33Z" changeset="144441300" uid="13341565" user="Falsernet"/>
+  <node id="6499373310" lat="52.3322005" lon="-0.2634979" version="4" timestamp="2024-12-31T15:59:25Z" changeset="160839217" uid="5229644" user="Nathan_A_RF"/>
   <node id="8116919159" lat="52.3314751" lon="-0.2572637" version="2" timestamp="2024-01-09T10:14:12Z" changeset="146060360" uid="5229644" user="Nathan_A_RF"/>
-  <node id="12480792365" lat="52.3365707" lon="-0.3175034" version="1" timestamp="2025-01-07T16:57:43Z" changeset="161103477" uid="5229644" user="Nathan_A_RF"/>
   <way id="4279134" version="20" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
     <nd ref="569882"/>
     <nd ref="12655889540"/>
@@ -487,7 +475,29 @@
     <nd ref="1368692028"/>
     <tag k="highway" v="residential"/>
   </way>
-  <way id="118391359" version="10" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
+  <way id="106809846" version="6" timestamp="2023-11-03T18:35:20Z" changeset="143586911" uid="504708" user="HillWithSmallFields">
+    <nd ref="1228387883"/>
+    <nd ref="1228387928"/>
+    <nd ref="1228387974"/>
+    <nd ref="1228387914"/>
+    <nd ref="1228387968"/>
+    <nd ref="1228387962"/>
+    <nd ref="1228387980"/>
+    <nd ref="1228387977"/>
+    <nd ref="1228387984"/>
+    <nd ref="1228387997"/>
+    <nd ref="1228387778"/>
+    <nd ref="1228388050"/>
+    <nd ref="1228387883"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Ellington Parish Church)"/>
+    <tag k="ref:dove" v="11256"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527876"/>
+  </way>
+  <way id="118391359" version="11" timestamp="2025-04-16T16:54:12Z" changeset="165037840" uid="104519" user="Rupert Swarbrick">
     <nd ref="1331501149"/>
     <nd ref="1331501147"/>
     <nd ref="1331501152"/>
@@ -499,6 +509,7 @@
     <nd ref="1331501154"/>
     <tag k="dual_carriageway" v="yes"/>
     <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
     <tag k="lit" v="no"/>
     <tag k="national_highways:area" v="8"/>
     <tag k="oneway" v="yes"/>
@@ -658,41 +669,19 @@
     <tag k="shoulder" v="no"/>
     <tag k="turn:lanes" v="through;slight_left|through"/>
   </way>
-  <way id="371360179" version="3" timestamp="2024-05-12T12:17:20Z" changeset="151222620" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="3749330747"/>
-    <nd ref="3749330748"/>
-    <nd ref="3749330749"/>
-    <nd ref="3749330750"/>
-    <nd ref="3749330755"/>
-    <nd ref="3749330751"/>
-    <nd ref="4481895592"/>
-    <nd ref="4481895593"/>
-    <nd ref="3749330752"/>
-    <nd ref="3749330753"/>
-    <nd ref="3749330754"/>
-    <nd ref="3749330747"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 0AP"/>
-    <tag k="addr:street" v="Grafham Road"/>
-    <tag k="addr:suburb" v="Ellington Thorpe"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Thorpe Lodge Farm"/>
-  </way>
-  <way id="371360198" version="4" timestamp="2024-05-12T12:17:20Z" changeset="151222620" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="3749330849"/>
-    <nd ref="3749330850"/>
-    <nd ref="3749330851"/>
-    <nd ref="7951153680"/>
-    <nd ref="3749330853"/>
-    <nd ref="3749330849"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 4NJ"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:suburb" v="Ellington"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Manor Farm"/>
+  <way id="233002966" version="2" timestamp="2021-08-20T22:15:38Z" changeset="110008005" uid="11022773" user="GeoFens">
+    <nd ref="2413326252"/>
+    <nd ref="2413325962"/>
+    <nd ref="2413325942"/>
+    <nd ref="2413326066"/>
+    <nd ref="2413325931"/>
+    <nd ref="2413326136"/>
+    <nd ref="2413326130"/>
+    <nd ref="2413326126"/>
+    <nd ref="2413326252"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Mermaid Inn"/>
   </way>
   <way id="428341416" version="1" timestamp="2016-06-30T22:36:13Z" changeset="40404991" uid="90142" user="andy mackey">
     <nd ref="1145363095"/>
@@ -941,12 +930,56 @@
     <tag k="start_date" v="2019-12"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="843992255" version="2" timestamp="2021-08-20T22:15:38Z" changeset="110008005" uid="11022773" user="GeoFens">
+    <nd ref="7873000598"/>
+    <nd ref="9023899561"/>
+    <nd ref="7873000599"/>
+    <nd ref="7873000600"/>
+    <nd ref="7873000601"/>
+    <nd ref="7873000598"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ben Burgess"/>
+    <tag k="shop" v="yes"/>
+  </way>
+  <way id="843992256" version="1" timestamp="2020-09-03T15:30:03Z" changeset="90370305" uid="11022773" user="GeoFens">
+    <nd ref="7873000602"/>
+    <nd ref="7873000603"/>
+    <nd ref="7873000604"/>
+    <nd ref="7873000605"/>
+    <nd ref="7873000602"/>
+    <tag k="building" v="yes"/>
+    <tag k="craft" v="agricultural_engines"/>
+    <tag k="name" v="Ben Burgess"/>
+  </way>
   <way id="843999892" version="1" timestamp="2020-09-03T16:07:38Z" changeset="90371577" uid="11022773" user="GeoFens">
     <nd ref="1373778845"/>
     <nd ref="7873028176"/>
     <nd ref="7873028177"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Spinney Field"/>
+  </way>
+  <way id="1022083387" version="3" timestamp="2023-02-25T01:38:01Z" changeset="132990399" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="9426581959"/>
+    <nd ref="9410872702"/>
+    <nd ref="9427520319"/>
+    <nd ref="9427520317"/>
+    <nd ref="9427494416"/>
+    <nd ref="9427494415"/>
+    <nd ref="9427520318"/>
+    <nd ref="9410872727"/>
+    <nd ref="9410872108"/>
+    <nd ref="9410872620"/>
+    <nd ref="9410872113"/>
+    <nd ref="9410872067"/>
+    <nd ref="9410872076"/>
+    <nd ref="9427520322"/>
+    <nd ref="9410872070"/>
+    <nd ref="9426581959"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Ellington Village Hall"/>
   </way>
   <way id="1129918846" version="1" timestamp="2023-01-09T23:32:31Z" changeset="131083352" uid="490556" user="SomeoneElse2">
     <nd ref="1228388052"/>

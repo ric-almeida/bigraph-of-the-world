@@ -1,38 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:16:53Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="31915355" lat="52.7025895" lon="0.1409047" version="10" timestamp="2022-05-16T19:17:22Z" changeset="121066329" uid="7463" user="kesterlester"/>
-  <node id="31915375" lat="52.7099156" lon="0.1438015" version="9" timestamp="2015-02-25T23:22:40Z" changeset="29104528" uid="84263" user="Robert Whittaker"/>
-  <node id="241485000" lat="52.7001497" lon="0.0793853" version="4" timestamp="2010-03-03T20:47:18Z" changeset="4028368" uid="3582" user="davidearl"/>
+  <node id="241484981" lat="52.7183602" lon="0.0596463" version="7" timestamp="2019-10-25T20:24:34Z" changeset="76227724" uid="669183" user="Andy_W"/>
   <node id="253052726" lat="52.7133325" lon="0.1089545" version="9" timestamp="2018-09-05T00:24:49Z" changeset="62294938" uid="2400834" user="Gyrwa"/>
-  <node id="253052759" lat="52.7299270" lon="0.1133543" version="7" timestamp="2017-04-22T21:43:03Z" changeset="48045647" uid="2400834" user="Gyrwa"/>
   <node id="323250234" lat="52.7272512" lon="0.0528333" version="11" timestamp="2024-08-18T15:50:42Z" changeset="155421790" uid="669183" user="Andy_W"/>
-  <node id="323310614" lat="52.7062628" lon="0.1422667" version="5" timestamp="2015-04-02T16:27:28Z" changeset="29932538" uid="2512300" user="samely"/>
-  <node id="659932593" lat="52.7396224" lon="0.1474957" version="2" timestamp="2015-02-25T23:22:42Z" changeset="29104528" uid="84263" user="Robert Whittaker"/>
+  <node id="323306843" lat="52.7370545" lon="0.1431244" version="3" timestamp="2010-03-03T20:47:29Z" changeset="4028368" uid="3582" user="davidearl"/>
+  <node id="323307100" lat="52.7393718" lon="0.1475840" version="10" timestamp="2015-02-25T23:22:44Z" changeset="29104528" uid="84263" user="Robert Whittaker"/>
+  <node id="323307786" lat="52.7245816" lon="0.0757907" version="6" timestamp="2019-12-30T21:01:14Z" changeset="79030784" uid="669183" user="Andy_W"/>
+  <node id="332033565" lat="52.7236532" lon="0.0893218" version="4" timestamp="2019-10-25T20:24:34Z" changeset="76227724" uid="669183" user="Andy_W"/>
+  <node id="659931790" lat="52.7003805" lon="0.0790922" version="1" timestamp="2010-03-03T20:46:22Z" changeset="4028368" uid="3582" user="davidearl"/>
+  <node id="659932252" lat="52.7298765" lon="0.1132885" version="3" timestamp="2017-04-22T21:43:03Z" changeset="48045647" uid="2400834" user="Gyrwa"/>
+  <node id="659932585" lat="52.7378953" lon="0.1478404" version="2" timestamp="2015-02-25T23:22:42Z" changeset="29104528" uid="84263" user="Robert Whittaker"/>
   <node id="659932767" lat="52.7410360" lon="0.1727337" version="3" timestamp="2012-02-07T16:25:49Z" changeset="10613526" uid="504708" user="HillWithSmallFields"/>
   <node id="1154259537" lat="52.6972371" lon="0.1446246" version="1" timestamp="2011-02-15T10:50:12Z" changeset="7293746" uid="4951" user="PeterEastern"/>
-  <node id="5652641131" lat="52.7227479" lon="0.1008617" version="1" timestamp="2018-05-30T23:33:10Z" changeset="59412688" uid="84263" user="Robert Whittaker">
-    <tag k="addr:city" v="Wisbech"/>
-    <tag k="addr:housename" v="The Community Centre"/>
-    <tag k="addr:postcode" v="PE13 5LN"/>
-    <tag k="addr:street" v="Broad Drove East"/>
-    <tag k="addr:village" v="Tydd St Giles"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="fixme" v="Check precise location in hall"/>
-    <tag k="name" v="Tydd St Giles Post Office"/>
-    <tag k="opening_hours" v="Th 14:00-16:00"/>
-    <tag k="ref:pol_id" v="132501"/>
-    <tag k="source" v="pol_branch_list_2018-02"/>
-  </node>
-  <node id="12097538051" lat="52.7214040" lon="0.0648208" version="1" timestamp="2024-08-07T18:20:30Z" changeset="154948925" uid="10675085" user="2tefan">
-    <tag k="addr:street" v="Black Lane"/>
-    <tag k="contact:email" v="hawthornefarmwisbech@gmail.com"/>
-    <tag k="name" v="Hawthorne Farm Wisbech"/>
-    <tag k="phone" v="+44 7936 475526"/>
-    <tag k="tourism" v="camp_site"/>
-  </node>
   <way id="22495072" version="10" timestamp="2019-10-25T20:24:34Z" changeset="76227724" uid="669183" user="Andy_W">
     <nd ref="241484977"/>
     <nd ref="6916859394"/>
@@ -123,10 +105,11 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Broad Drove East"/>
   </way>
-  <way id="29391478" version="6" timestamp="2020-08-08T03:14:33Z" changeset="89113896" uid="10173453" user="sanganh">
+  <way id="29391478" version="7" timestamp="2025-04-10T17:43:20Z" changeset="164780677" uid="13792107" user="LordGarySugar">
     <nd ref="323306742"/>
     <nd ref="659932201"/>
     <nd ref="323306755"/>
+    <nd ref="12745156936"/>
     <nd ref="659932099"/>
     <nd ref="323306758"/>
     <nd ref="7795794495"/>
@@ -302,59 +285,6 @@
     <nd ref="323307626"/>
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Grangehill Road"/>
-  </way>
-  <way id="51698757" version="7" timestamp="2024-06-26T22:00:22Z" changeset="153222413" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="659932367"/>
-    <nd ref="4810534235"/>
-    <nd ref="659932354"/>
-    <nd ref="659932332"/>
-    <nd ref="659932333"/>
-    <nd ref="659932324"/>
-    <nd ref="4810533860"/>
-    <nd ref="4810533862"/>
-    <nd ref="4810533861"/>
-    <nd ref="4810532505"/>
-    <nd ref="659932289"/>
-    <nd ref="659932241"/>
-    <nd ref="4779367848"/>
-    <nd ref="659932254"/>
-    <nd ref="659932266"/>
-    <nd ref="659932267"/>
-    <nd ref="659932274"/>
-    <nd ref="4810533859"/>
-    <nd ref="659932273"/>
-    <nd ref="659932295"/>
-    <nd ref="659932294"/>
-    <nd ref="659932304"/>
-    <nd ref="659932303"/>
-    <nd ref="659932302"/>
-    <nd ref="4810534245"/>
-    <nd ref="659932397"/>
-    <nd ref="659932366"/>
-    <nd ref="4810534244"/>
-    <nd ref="4810534243"/>
-    <nd ref="4810534242"/>
-    <nd ref="4810534241"/>
-    <nd ref="4810534240"/>
-    <nd ref="659932363"/>
-    <nd ref="4810534239"/>
-    <nd ref="4810534238"/>
-    <nd ref="4810534237"/>
-    <nd ref="659932365"/>
-    <nd ref="4810534236"/>
-    <nd ref="659932364"/>
-    <nd ref="659932367"/>
-    <tag k="addr:city" v="Wisbech"/>
-    <tag k="addr:postcode" v="PE13 5NZ"/>
-    <tag k="addr:street" v="Kirkgate"/>
-    <tag k="addr:suburb" v="Tydd St Giles"/>
-    <tag k="description" v="18 hole par 70"/>
-    <tag k="golf:course" v="18_hole"/>
-    <tag k="golf:par" v="70"/>
-    <tag k="leisure" v="golf_course"/>
-    <tag k="name" v="Tydd St Giles Golf Course"/>
-    <tag k="phone" v="+44 1945 871 007"/>
-    <tag k="website" v="http://www.pureleisuregroup.com/parks/tydd-st-giles/golf"/>
   </way>
   <way id="51698759" version="3" timestamp="2021-03-02T16:17:38Z" changeset="100292361" uid="2400834" user="Gyrwa">
     <nd ref="659932252"/>
@@ -1215,36 +1145,6 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Redgate Road"/>
   </way>
-  <way id="149167584" version="8" timestamp="2024-06-30T11:25:51Z" changeset="153364654" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="1621824749"/>
-    <nd ref="1621824735"/>
-    <nd ref="1621824740"/>
-    <nd ref="1621824753"/>
-    <nd ref="4790827509"/>
-    <nd ref="4790827508"/>
-    <nd ref="4790827510"/>
-    <nd ref="1621824728"/>
-    <nd ref="4789104140"/>
-    <nd ref="4789104127"/>
-    <nd ref="4789104121"/>
-    <nd ref="4789104139"/>
-    <nd ref="4789104138"/>
-    <nd ref="1621824749"/>
-    <tag k="addr:city" v="Wisbech"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="Wisbech Compressor Station"/>
-    <tag k="addr:postcode" v="PE13 5PH"/>
-    <tag k="addr:street" v="Catlings Lane"/>
-    <tag k="addr:town" v="Wisbech"/>
-    <tag k="addr:village" v="Tydd St Giles"/>
-    <tag k="barrier" v="fence"/>
-    <tag k="landuse" v="industrial"/>
-    <tag k="name" v="Wisbech Compressor Station"/>
-    <tag k="pipeline" v="substation"/>
-    <tag k="substance" v="gas"/>
-    <tag k="substation" v="compression"/>
-    <tag k="utility" v="gas"/>
-  </way>
   <way id="166224910" version="1" timestamp="2012-06-05T10:42:41Z" changeset="11804804" uid="322785" user="BCNorwich">
     <nd ref="659932730"/>
     <nd ref="1776959556"/>
@@ -1277,6 +1177,19 @@
     <tag k="highway" v="residential"/>
     <tag k="source" v="Bing"/>
   </way>
+  <way id="359363962" version="3" timestamp="2020-10-15T11:14:11Z" changeset="92519477" uid="281267" user="smb1001">
+    <nd ref="3640915280"/>
+    <nd ref="3640915277"/>
+    <nd ref="3640915281"/>
+    <nd ref="3640915272"/>
+    <nd ref="3640915280"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Giles (Tydd St Giles Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543662"/>
+  </way>
   <way id="465280379" version="2" timestamp="2017-02-06T23:27:22Z" changeset="45869506" uid="3178375" user="LeTopographeFou">
     <nd ref="323306739"/>
     <nd ref="659932047"/>
@@ -1294,6 +1207,20 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Cornfields (Church Lane)"/>
     <tag k="ref" v="B1165"/>
+  </way>
+  <way id="485270660" version="1" timestamp="2017-04-07T07:09:09Z" changeset="47529584" uid="322785" user="BCNorwich">
+    <nd ref="4780514008"/>
+    <nd ref="4780514007"/>
+    <nd ref="4780514006"/>
+    <nd ref="4780514005"/>
+    <nd ref="4780514003"/>
+    <nd ref="4780514002"/>
+    <nd ref="4780514004"/>
+    <nd ref="659931912"/>
+    <nd ref="4780514008"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="St Giles Community Centre"/>
   </way>
   <way id="488724325" version="2" timestamp="2020-01-13T21:45:11Z" changeset="79534305" uid="115894" user="DaveF">
     <nd ref="659932252"/>
@@ -1346,6 +1273,19 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Front Road"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="929803447" version="1" timestamp="2021-04-12T16:14:23Z" changeset="102816050" uid="322785" user="BCNorwich">
+    <nd ref="8622608079"/>
+    <nd ref="8622608073"/>
+    <nd ref="8622608072"/>
+    <nd ref="8622608076"/>
+    <nd ref="8622608074"/>
+    <nd ref="8622608075"/>
+    <nd ref="8622608077"/>
+    <nd ref="8622608078"/>
+    <nd ref="8622608079"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Romain"/>
   </way>
   <way id="1019732629" version="1" timestamp="2022-01-09T16:11:22Z" changeset="115949037" uid="5443821" user="◪ Jarv">
     <nd ref="659932581"/>

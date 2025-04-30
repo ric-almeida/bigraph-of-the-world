@@ -1,26 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="214258" lat="52.2485224" lon="0.3621545" version="7" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
-  <node id="214293" lat="52.2210968" lon="0.3174885" version="7" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
-    <tag k="exit_to" v="London;Harlow"/>
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Nine Mile Hill"/>
-    <tag k="ref" v="36"/>
-  </node>
   <node id="214294" lat="52.2253080" lon="0.3216542" version="8" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
-  <node id="5251594" lat="52.2444886" lon="0.2850042" version="2" timestamp="2015-05-25T20:04:30Z" changeset="31454039" uid="669183" user="Andy_W"/>
-  <node id="26125677" lat="52.2684282" lon="0.2984402" version="3" timestamp="2016-12-22T21:41:48Z" changeset="44602168" uid="669183" user="Andy_W"/>
-  <node id="197823991" lat="52.2679752" lon="0.2861706" version="4" timestamp="2016-12-22T21:41:49Z" changeset="44602168" uid="669183" user="Andy_W"/>
+  <node id="25011587" lat="52.2614117" lon="0.3024073" version="3" timestamp="2013-08-30T22:15:23Z" changeset="17596780" uid="499318" user="jpsa"/>
+  <node id="26113430" lat="52.2463623" lon="0.2879203" version="1" timestamp="2007-08-31T14:19:26Z" changeset="284457" uid="12606" user="Clive Watts">
+    <tag k="created_by" v="JOSM"/>
+  </node>
   <node id="246521985" lat="52.2497400" lon="0.3640709" version="7" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
     <tag k="highway" v="motorway_junction"/>
   </node>
+  <node id="253332197" lat="52.2767525" lon="0.2654061" version="4" timestamp="2015-05-25T19:38:24Z" changeset="31454039" uid="669183" user="Andy_W"/>
+  <node id="262711479" lat="52.2690622" lon="0.2631918" version="4" timestamp="2015-05-25T19:37:30Z" changeset="31454039" uid="669183" user="Andy_W"/>
   <node id="550967574" lat="52.2588729" lon="0.3137517" version="3" timestamp="2015-06-01T17:27:13Z" changeset="31642179" uid="90142" user="andy mackey"/>
   <node id="1394896499" lat="52.3057406" lon="0.2535258" version="3" timestamp="2023-03-27T16:12:37Z" changeset="134185106" uid="1287673" user="sloerunner"/>
-  <node id="12623829719" lat="52.2422315" lon="0.2823043" version="1" timestamp="2025-02-27T18:14:45Z" changeset="163023715" uid="5229644" user="Nathan_A_RF"/>
-  <node id="12655866514" lat="52.2481592" lon="0.3611600" version="1" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
   <way id="4041748" version="29" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF">
     <nd ref="214294"/>
     <nd ref="12655866532"/>
@@ -810,24 +804,6 @@
     <tag k="note" v="route approximate: needs gps survey"/>
     <tag k="source" v="npe"/>
   </way>
-  <way id="125623938" version="4" timestamp="2019-04-24T17:19:51Z" changeset="69534961" uid="115894" user="DaveF">
-    <nd ref="1394896419"/>
-    <nd ref="1394896418"/>
-    <nd ref="1394896422"/>
-    <nd ref="1394896698"/>
-    <nd ref="1394896570"/>
-    <nd ref="1394896061"/>
-    <nd ref="1394896144"/>
-    <nd ref="1394896006"/>
-    <nd ref="1394896419"/>
-    <tag k="addr:postcode" v="CB7 5YJ"/>
-    <tag k="addr:street" v="Great Drove"/>
-    <tag k="leisure" v="marina"/>
-    <tag k="name" v="Tip Tree Marina"/>
-    <tag k="natural" v="water"/>
-    <tag k="source" v="Bing"/>
-    <tag k="water" v="river"/>
-  </way>
   <way id="125623947" version="3" timestamp="2014-03-12T13:03:06Z" changeset="21062670" uid="669183" user="Andy_W">
     <nd ref="1394896499"/>
     <nd ref="2713863842"/>
@@ -849,6 +825,19 @@
     <tag k="highway" v="unclassified"/>
     <tag k="note" v="route approximate: needs gps survey"/>
     <tag k="source" v="Bing"/>
+  </way>
+  <way id="164491855" version="2" timestamp="2021-02-27T12:51:43Z" changeset="100096445" uid="10983" user="Guy">
+    <nd ref="1761232921"/>
+    <nd ref="1761232844"/>
+    <nd ref="1761232846"/>
+    <nd ref="1761232881"/>
+    <nd ref="1761232882"/>
+    <nd ref="1761232900"/>
+    <nd ref="1761232921"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Energy Centre"/>
+    <tag k="note" v="Heat pump system: see https://heatingswaffhamprior.co.uk/wp-content/uploads/2020/06/Public-Consultation_web.pdf"/>
+    <tag k="power" v="generator"/>
   </way>
   <way id="172616469" version="3" timestamp="2025-02-27T18:14:45Z" changeset="163023715" uid="5229644" user="Nathan_A_RF">
     <nd ref="1515303511"/>
@@ -917,6 +906,99 @@
     <tag k="sidewalk" v="left"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
+  <way id="220359091" version="5" timestamp="2023-11-03T08:31:18Z" changeset="143562970" uid="504708" user="HillWithSmallFields">
+    <nd ref="2294865166"/>
+    <nd ref="2294865445"/>
+    <nd ref="2294864993"/>
+    <nd ref="2294864630"/>
+    <nd ref="2294865423"/>
+    <nd ref="2294865419"/>
+    <nd ref="2294864678"/>
+    <nd ref="2294865164"/>
+    <nd ref="2294865162"/>
+    <nd ref="2294864891"/>
+    <nd ref="2294865029"/>
+    <nd ref="2294864997"/>
+    <nd ref="2294865143"/>
+    <nd ref="2294865378"/>
+    <nd ref="2294865380"/>
+    <nd ref="2294864879"/>
+    <nd ref="2294865340"/>
+    <nd ref="2294864500"/>
+    <nd ref="2294864429"/>
+    <nd ref="2294864431"/>
+    <nd ref="2294864737"/>
+    <nd ref="2294864897"/>
+    <nd ref="2294865161"/>
+    <nd ref="2294864869"/>
+    <nd ref="2294864792"/>
+    <nd ref="2294864718"/>
+    <nd ref="2294865389"/>
+    <nd ref="2294865166"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="disused" v="yes"/>
+    <tag k="name" v="St Cyriac and St Julitta"/>
+    <tag k="ref:dove" v="11811"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="local knowledge"/>
+    <tag k="source_ref:name" v="http://en.wikipedia.org/wiki/Swaffham_Prior"/>
+    <tag k="wikidata" v="Q5117392"/>
+    <tag k="wikipedia" v="en:Church of St Cyriac and St Julitta, Swaffham Prior"/>
+  </way>
+  <way id="220359094" version="1" timestamp="2013-05-07T16:14:02Z" changeset="16013757" uid="281267" user="smb1001">
+    <nd ref="2294864611"/>
+    <nd ref="2294864603"/>
+    <nd ref="2294865368"/>
+    <nd ref="2294865265"/>
+    <nd ref="2294864611"/>
+    <tag k="building" v="church"/>
+    <tag k="name" v="Zion Baptist Chapel (closed)"/>
+    <tag k="notes" v="built 1862, closed 1998"/>
+  </way>
+  <way id="220359098" version="2" timestamp="2023-01-26T23:54:26Z" changeset="131752483" uid="18355937" user="VGPaleontologist">
+    <nd ref="2294865023"/>
+    <nd ref="2294865442"/>
+    <nd ref="2294865435"/>
+    <nd ref="2294864597"/>
+    <nd ref="2294864447"/>
+    <nd ref="2294864479"/>
+    <nd ref="2294864712"/>
+    <nd ref="2294865372"/>
+    <nd ref="2294864867"/>
+    <nd ref="2294864812"/>
+    <nd ref="2294864794"/>
+    <nd ref="2294864644"/>
+    <nd ref="2294865275"/>
+    <nd ref="2294864622"/>
+    <nd ref="2294865023"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Rose Cottage"/>
+    <tag k="wikidata" v="Q26603622"/>
+  </way>
+  <way id="220359101" version="3" timestamp="2020-10-10T22:07:25Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="2294864925"/>
+    <nd ref="2294864576"/>
+    <nd ref="2294864836"/>
+    <nd ref="2294865090"/>
+    <nd ref="2294864467"/>
+    <nd ref="2294865190"/>
+    <nd ref="2294865358"/>
+    <nd ref="2294865447"/>
+    <nd ref="2294864826"/>
+    <nd ref="2294865131"/>
+    <nd ref="2294864733"/>
+    <nd ref="2294864967"/>
+    <nd ref="2294864667"/>
+    <nd ref="2294864925"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary's (Swaffham Prior Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="local knowledge"/>
+    <tag k="wikidata" v="Q17527597"/>
+  </way>
   <way id="220359108" version="4" timestamp="2021-08-09T21:27:37Z" changeset="109429547" uid="493595" user="Yorvik Prestigitator">
     <nd ref="2294865005"/>
     <nd ref="2294864531"/>
@@ -935,6 +1017,63 @@
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Swaffham Prior Village Hall"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="220359144" version="2" timestamp="2018-12-18T18:27:30Z" changeset="65589365" uid="364" user="Edward">
+    <nd ref="2294865147"/>
+    <nd ref="2294864488"/>
+    <nd ref="2294865110"/>
+    <nd ref="2294864740"/>
+    <nd ref="2294865433"/>
+    <nd ref="2294865285"/>
+    <nd ref="2294865170"/>
+    <nd ref="2294865001"/>
+    <nd ref="2294864752"/>
+    <nd ref="2294865027"/>
+    <nd ref="2294865061"/>
+    <nd ref="2294864983"/>
+    <nd ref="2294864663"/>
+    <nd ref="2294864506"/>
+    <nd ref="2294865422"/>
+    <nd ref="2294864830"/>
+    <nd ref="2294864919"/>
+    <nd ref="2294864724"/>
+    <nd ref="2294864873"/>
+    <nd ref="2294865364"/>
+    <nd ref="2294864516"/>
+    <nd ref="2294865147"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Swaffham Prior House"/>
+    <tag k="wikidata" v="Q26603665"/>
+  </way>
+  <way id="220359154" version="2" timestamp="2018-12-18T18:27:25Z" changeset="65589365" uid="364" user="Edward">
+    <nd ref="2294865231"/>
+    <nd ref="2294865271"/>
+    <nd ref="2294864656"/>
+    <nd ref="2294865112"/>
+    <nd ref="2294865431"/>
+    <nd ref="2294865289"/>
+    <nd ref="2294865231"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Baldwin Manor"/>
+    <tag k="wikidata" v="Q17543621"/>
+  </way>
+  <way id="220709645" version="1" timestamp="2013-05-10T09:26:09Z" changeset="16061198" uid="281267" user="smb1001">
+    <nd ref="2298014514"/>
+    <nd ref="2298014353"/>
+    <nd ref="2298014460"/>
+    <nd ref="2298014299"/>
+    <nd ref="2298014514"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Swaffham Pumping Station"/>
+  </way>
+  <way id="257758349" version="1" timestamp="2014-01-22T13:14:59Z" changeset="20140312" uid="669183" user="Andy_W">
+    <nd ref="2632296936"/>
+    <nd ref="2632296938"/>
+    <nd ref="2632296937"/>
+    <nd ref="2632296939"/>
+    <nd ref="2632296936"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="New Gant Farm"/>
   </way>
   <way id="280477795" version="1" timestamp="2014-05-09T13:27:33Z" changeset="22230740" uid="67929" user="StephenRD">
     <nd ref="262711437"/>
@@ -976,6 +1115,18 @@
     <tag k="name" v="Headlake Drove"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="source" v="gps survey"/>
+  </way>
+  <way id="486400516" version="2" timestamp="2017-10-18T13:24:13Z" changeset="53039636" uid="281267" user="smb1001">
+    <nd ref="4790170186"/>
+    <nd ref="4790170185"/>
+    <nd ref="4790170166"/>
+    <nd ref="4790170183"/>
+    <nd ref="4790170186"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="name" v="Swaffham Fen Baptist and Wesleyan Chapel"/>
+    <tag k="religion" v="christian"/>
   </way>
   <way id="492118368" version="2" timestamp="2021-10-02T12:25:02Z" changeset="111998637" uid="50203" user="Tom Judd">
     <nd ref="26113388"/>
@@ -1110,6 +1261,27 @@
     <tag k="name" v="Mill Hill"/>
     <tag k="ref" v="B1102"/>
     <tag k="source:name" v="local knowledge"/>
+  </way>
+  <way id="1078042947" version="1" timestamp="2022-07-12T20:02:11Z" changeset="123535449" uid="7782183" user="James Hannah">
+    <nd ref="9883831058"/>
+    <nd ref="9883831059"/>
+    <nd ref="9883831060"/>
+    <nd ref="9883831061"/>
+    <nd ref="9883831058"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Scout Hut"/>
+  </way>
+  <way id="1110085257" version="1" timestamp="2022-11-03T19:08:33Z" changeset="128452258" uid="1287673" user="sloerunner">
+    <nd ref="10155316716"/>
+    <nd ref="10155316715"/>
+    <nd ref="10155316714"/>
+    <nd ref="10155316713"/>
+    <nd ref="10155316716"/>
+    <tag k="building" v="yes"/>
+    <tag k="historic" v="prison"/>
+    <tag k="name" v="The Cage"/>
+    <tag k="note" v="built 1830"/>
   </way>
   <way id="1363389489" version="1" timestamp="2025-02-27T18:14:45Z" changeset="163023715" uid="5229644" user="Nathan_A_RF">
     <nd ref="12623829721"/>

@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:16:13Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:29:06Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="620979" lat="52.2289409" lon="-0.1029365" version="5" timestamp="2023-12-08T20:56:50Z" changeset="144917619" uid="18964624" user="Exterprook58"/>
-  <node id="32520701" lat="52.2243409" lon="-0.0659786" version="2" timestamp="2011-03-23T00:39:54Z" changeset="7642928" uid="96695" user="Tim Morley"/>
-  <node id="32520787" lat="52.2256766" lon="-0.0726316" version="9" timestamp="2024-04-09T21:53:20Z" changeset="149796049" uid="5229644" user="Nathan_A_RF"/>
-  <node id="132348214" lat="52.2594664" lon="-0.0520668" version="2" timestamp="2011-09-21T09:31:01Z" changeset="9358688" uid="383983" user="Ben Wheatley"/>
-  <node id="132349264" lat="52.2684062" lon="-0.0586552" version="2" timestamp="2018-11-01T15:29:10Z" changeset="64082872" uid="1257159" user="Jean-Pierre Rondeau"/>
-  <node id="132349971" lat="52.2622760" lon="-0.1183032" version="3" timestamp="2010-06-06T21:36:27Z" changeset="4923129" uid="5926" user="c2r"/>
-  <node id="402293283" lat="52.2464356" lon="-0.0475477" version="8" timestamp="2025-03-01T12:03:42Z" changeset="163085434" uid="742701" user="kerr smith"/>
-  <node id="473838598" lat="52.2350492" lon="-0.1076293" version="2" timestamp="2010-04-06T20:59:11Z" changeset="4349085" uid="5926" user="c2r"/>
-  <node id="506370965" lat="52.2290262" lon="-0.1039123" version="4" timestamp="2023-12-08T20:56:50Z" changeset="144917619" uid="18964624" user="Exterprook58"/>
-  <node id="506370972" lat="52.2287237" lon="-0.1031433" version="5" timestamp="2023-12-08T20:56:50Z" changeset="144917619" uid="18964624" user="Exterprook58"/>
-  <node id="1060507163" lat="52.2260767" lon="-0.0729223" version="6" timestamp="2023-09-11T13:38:52Z" changeset="141114157" uid="13341565" user="Falsernet"/>
-  <node id="6323353017" lat="52.2550728" lon="-0.0760734" version="5" timestamp="2024-12-23T20:32:46Z" changeset="160552908" uid="5173844" user="ndrw6">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="The Pavillion"/>
-    <tag k="addr:postcode" v="CB23 4JD"/>
-    <tag k="addr:street" v="Broad End"/>
-    <tag k="addr:village" v="Elsworth"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="name" v="Elsworth Post Office"/>
-    <tag k="opening_hours" v="Tu 14:00-16:00; Th 12:00-14:00"/>
-    <tag k="ref:pol_id" v="108813"/>
+  <node id="5313516" lat="52.2292197" lon="-0.1037070" version="5" timestamp="2023-12-08T20:56:50Z" changeset="144917619" uid="18964624" user="Exterprook58"/>
+  <node id="14960612" lat="52.2295564" lon="-0.1037357" version="6" timestamp="2018-02-25T18:56:27Z" changeset="56668369" uid="2032231" user="narboy"/>
+  <node id="32520676" lat="52.2293127" lon="-0.0908707" version="3" timestamp="2014-11-26T21:24:52Z" changeset="27053706" uid="669183" user="Andy_W"/>
+  <node id="32520821" lat="52.2259055" lon="-0.0777127" version="5" timestamp="2022-03-24T03:46:42Z" changeset="118844882" uid="13341565" user="Falsernet">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Cambourne Junction"/>
   </node>
+  <node id="32520872" lat="52.2267846" lon="-0.0770278" version="7" timestamp="2014-11-26T21:30:42Z" changeset="27053706" uid="669183" user="Andy_W"/>
+  <node id="132348214" lat="52.2594664" lon="-0.0520668" version="2" timestamp="2011-09-21T09:31:01Z" changeset="9358688" uid="383983" user="Ben Wheatley"/>
+  <node id="132348329" lat="52.2552101" lon="-0.0808277" version="2" timestamp="2012-03-01T19:49:45Z" changeset="10841540" uid="90142" user="andy mackey"/>
+  <node id="132350166" lat="52.2683248" lon="-0.0586577" version="2" timestamp="2018-11-01T15:29:10Z" changeset="64082872" uid="1257159" user="Jean-Pierre Rondeau"/>
+  <node id="402293283" lat="52.2464356" lon="-0.0475477" version="8" timestamp="2025-03-01T12:03:42Z" changeset="163085434" uid="742701" user="kerr smith"/>
+  <node id="506370965" lat="52.2290262" lon="-0.1039123" version="4" timestamp="2023-12-08T20:56:50Z" changeset="144917619" uid="18964624" user="Exterprook58"/>
   <way id="4274929" version="17" timestamp="2024-04-02T12:15:10Z" changeset="149477758" uid="5229644" user="Nathan_A_RF">
     <nd ref="5313516"/>
     <nd ref="645827975"/>
@@ -597,21 +587,6 @@
     <tag k="source" v="gps"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
-  <way id="13973551" version="4" timestamp="2023-01-15T03:40:27Z" changeset="131285342" uid="5173844" user="ndrw6">
-    <nd ref="132350551"/>
-    <nd ref="132350553"/>
-    <nd ref="4076917406"/>
-    <nd ref="132350556"/>
-    <nd ref="132350559"/>
-    <nd ref="10555768224"/>
-    <nd ref="10555768223"/>
-    <nd ref="10555768222"/>
-    <nd ref="132350551"/>
-    <tag k="addr:postcode" v="CB23 4EY"/>
-    <tag k="addr:street" v="Brockley Road"/>
-    <tag k="landuse" v="commercial"/>
-    <tag k="name" v="Avenue Business Park"/>
-  </way>
   <way id="13973566" version="3" timestamp="2020-07-04T17:36:34Z" changeset="87537192" uid="16089" user="Ben Harris">
     <nd ref="132348285"/>
     <nd ref="132350702"/>
@@ -798,6 +773,31 @@
     <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
     <tag k="name" v="Boxworth Road"/>
   </way>
+  <way id="131286277" version="7" timestamp="2023-11-03T08:23:52Z" changeset="143562757" uid="504708" user="HillWithSmallFields">
+    <nd ref="1445212289"/>
+    <nd ref="3674945743"/>
+    <nd ref="1445212288"/>
+    <nd ref="1445212291"/>
+    <nd ref="1445212290"/>
+    <nd ref="1445212284"/>
+    <nd ref="1445212294"/>
+    <nd ref="1445212292"/>
+    <nd ref="1445212282"/>
+    <nd ref="1445212296"/>
+    <nd ref="1445212297"/>
+    <nd ref="2290416497"/>
+    <nd ref="1445212293"/>
+    <nd ref="1445212295"/>
+    <nd ref="1445212289"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Holy Trinity (Elsworth Parish Church)"/>
+    <tag k="ref:dove" v="13909"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="http://acny.org.uk"/>
+    <tag k="wikidata" v="Q17528019"/>
+  </way>
   <way id="152686984" version="3" timestamp="2024-12-23T20:32:46Z" changeset="160552908" uid="5173844" user="ndrw6">
     <nd ref="1654871877"/>
     <nd ref="1654871905"/>
@@ -834,6 +834,20 @@
     <tag k="phone" v="+44 01954 267951"/>
     <tag k="shop" v="convenience"/>
     <tag k="website" v="https://www.elsworth-shop.co.uk/"/>
+  </way>
+  <way id="206974945" version="4" timestamp="2025-03-18T11:46:45Z" changeset="163770942" uid="742701" user="kerr smith">
+    <nd ref="12676279016"/>
+    <nd ref="2170859868"/>
+    <nd ref="11469931338"/>
+    <nd ref="2170859861"/>
+    <nd ref="12676279017"/>
+    <nd ref="2170859865"/>
+    <nd ref="12676279015"/>
+    <nd ref="2170859859"/>
+    <nd ref="12676279016"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Elsworth Sports Club"/>
   </way>
   <way id="207002481" version="4" timestamp="2024-04-09T21:53:20Z" changeset="149796049" uid="5229644" user="Nathan_A_RF">
     <nd ref="32520872"/>
@@ -931,38 +945,6 @@
     <tag k="name" v="High Street"/>
     <tag k="note:maxweightrating" v="Sign is [goods vehicles exceeding 7.5 tonnes maximum gross weight prohibited] &quot;Except for access&quot;"/>
     <tag k="source" v="Bing"/>
-  </way>
-  <way id="372022079" version="9" timestamp="2025-03-18T22:28:27Z" changeset="163794949" uid="742701" user="kerr smith">
-    <nd ref="3755607790"/>
-    <nd ref="3755607799"/>
-    <nd ref="3755607804"/>
-    <nd ref="3755607793"/>
-    <nd ref="3755607810"/>
-    <nd ref="3755607827"/>
-    <nd ref="728856478"/>
-    <nd ref="728856477"/>
-    <nd ref="3755607790"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="CB23 4JD"/>
-    <tag k="addr:street" v="Broad End"/>
-    <tag k="addr:village" v="Elsworth"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="140"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="diocese" v="Diocese of Ely"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Elsworth CofE VA Primary School"/>
-    <tag k="phone" v="+44 1945 267272"/>
-    <tag k="ref:GB:uprn" v="10003200514"/>
-    <tag k="ref:edubase" v="110830"/>
-    <tag k="religion" v="christian"/>
-    <tag k="school:trust" v="no"/>
-    <tag k="school:type" v="voluntary_aided"/>
-    <tag k="website" v="https://www.elsworthprimaryschool.org/"/>
-    <tag k="wikidata" v="Q66223650"/>
   </way>
   <way id="468936412" version="6" timestamp="2025-03-05T11:09:32Z" changeset="163240082" uid="742701" user="kerr smith">
     <nd ref="4633857891"/>

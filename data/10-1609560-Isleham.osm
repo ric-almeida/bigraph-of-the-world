@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:34:15Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="5255618" lat="52.3190903" lon="0.4301905" version="3" timestamp="2018-04-03T12:32:40Z" changeset="57771354" uid="281267" user="smb1001"/>
-  <node id="24969094" lat="52.3057526" lon="0.4333762" version="2" timestamp="2013-05-09T16:46:24Z" changeset="16050887" uid="281267" user="smb1001"/>
+  <node id="5255626" lat="52.3164252" lon="0.4277224" version="2" timestamp="2019-11-18T14:44:23Z" changeset="77233717" uid="84263" user="Robert Whittaker"/>
   <node id="263364287" lat="52.3258885" lon="0.4037744" version="1" timestamp="2008-05-10T18:17:21Z" changeset="386379" uid="36701" user="Malcolm Boura">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="263364309" lat="52.3332397" lon="0.4339908" version="2" timestamp="2010-12-26T17:32:32Z" changeset="6770306" uid="4951" user="PeterEastern"/>
   <node id="414558700" lat="52.3408342" lon="0.3662942" version="2" timestamp="2009-08-25T18:44:05Z" changeset="2259337" uid="3582" user="davidearl"/>
   <node id="467767061" lat="52.3120811" lon="0.4115936" version="2" timestamp="2013-05-09T15:54:02Z" changeset="16050026" uid="281267" user="smb1001"/>
-  <node id="473805219" lat="52.3547062" lon="0.4204519" version="2" timestamp="2016-06-14T14:03:56Z" changeset="40018048" uid="473217" user="CPatterson"/>
-  <node id="1074560172" lat="52.3965643" lon="0.3654005" version="3" timestamp="2012-08-05T12:50:35Z" changeset="12620210" uid="322785" user="BCNorwich"/>
+  <node id="473804978" lat="52.3403151" lon="0.4173273" version="3" timestamp="2016-06-14T13:55:37Z" changeset="40017890" uid="473217" user="CPatterson"/>
+  <node id="473805218" lat="52.3547398" lon="0.4200961" version="2" timestamp="2016-06-14T14:03:56Z" changeset="40018048" uid="473217" user="CPatterson"/>
   <node id="1605388664" lat="52.3534456" lon="0.3647562" version="2" timestamp="2021-06-30T10:42:24Z" changeset="107200537" uid="486701" user="eteb3"/>
   <node id="1852836886" lat="52.3966738" lon="0.3652778" version="1" timestamp="2012-08-05T12:50:34Z" changeset="12620210" uid="322785" user="BCNorwich"/>
   <node id="9868291281" lat="52.3039242" lon="0.4341907" version="1" timestamp="2022-07-05T13:46:06Z" changeset="123236547" uid="281267" user="smb1001"/>
@@ -1208,6 +1206,21 @@
     <tag k="ref" v="B1104"/>
     <tag k="source:maxspeed" v="Stats19"/>
   </way>
+  <way id="220636096" version="3" timestamp="2023-07-31T16:04:45Z" changeset="139261212" uid="14482768" user="Les B">
+    <nd ref="2297296010"/>
+    <nd ref="2297295987"/>
+    <nd ref="2297295989"/>
+    <nd ref="2297296011"/>
+    <nd ref="2297295991"/>
+    <nd ref="2297295992"/>
+    <nd ref="2297295997"/>
+    <nd ref="2297296010"/>
+    <tag k="building" v="yes"/>
+    <tag k="description" v="Isleham Priory Church is the best example in England of a small Norman Benedictine priory church, surviving in a surprisingly unaltered state despite later conversion into a barn.&#x0a;&#x0a;Isleham Priory was probably founded around 1100 . Man by English Heritage"/>
+    <tag k="historic" v="building"/>
+    <tag k="historic:civilization" v="medieval"/>
+    <tag k="name" v="Isleham Priory"/>
+  </way>
   <way id="220636098" version="3" timestamp="2024-05-16T06:46:21Z" changeset="151392015" uid="5173844" user="ndrw6">
     <nd ref="2297295979"/>
     <nd ref="11909216292"/>
@@ -1228,12 +1241,94 @@
     <tag k="building" v="school"/>
     <tag k="name" v="Isleham Pre School"/>
   </way>
+  <way id="220664494" version="2" timestamp="2015-02-26T07:53:41Z" changeset="29107915" uid="322785" user="BCNorwich">
+    <nd ref="2297548850"/>
+    <nd ref="2297548821"/>
+    <nd ref="2297548840"/>
+    <nd ref="2297548966"/>
+    <nd ref="2297548932"/>
+    <nd ref="2297548908"/>
+    <nd ref="2297548901"/>
+    <nd ref="2297548878"/>
+    <nd ref="2297548860"/>
+    <nd ref="2297548952"/>
+    <nd ref="2297548850"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Isleham Bowls Club"/>
+    <tag k="sport" v="bowls"/>
+  </way>
   <way id="220664495" version="1" timestamp="2013-05-09T20:36:22Z" changeset="16054558" uid="281267" user="smb1001">
     <nd ref="2297548975"/>
     <nd ref="2297548902"/>
     <nd ref="2297548904"/>
     <nd ref="2297548935"/>
     <tag k="highway" v="residential"/>
+  </way>
+  <way id="220664502" version="3" timestamp="2015-10-22T17:27:11Z" changeset="34804601" uid="118021" user="maggot27">
+    <nd ref="2297548877"/>
+    <nd ref="2297548903"/>
+    <nd ref="2297548828"/>
+    <nd ref="2297548847"/>
+    <nd ref="2297548968"/>
+    <nd ref="2297548836"/>
+    <nd ref="2297548891"/>
+    <nd ref="2297548879"/>
+    <nd ref="2297548877"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="nondenominational"/>
+    <tag k="name" v="Pound Lane Free Church"/>
+    <tag k="religion" v="christian"/>
+  </way>
+  <way id="220664506" version="5" timestamp="2023-11-02T20:59:52Z" changeset="143549059" uid="504708" user="HillWithSmallFields">
+    <nd ref="2297548971"/>
+    <nd ref="2297548913"/>
+    <nd ref="2297548857"/>
+    <nd ref="2297548897"/>
+    <nd ref="2297548942"/>
+    <nd ref="2297548899"/>
+    <nd ref="2297548922"/>
+    <nd ref="2297548944"/>
+    <nd ref="2297548889"/>
+    <nd ref="2297548919"/>
+    <nd ref="2297548844"/>
+    <nd ref="2297548845"/>
+    <nd ref="2297548856"/>
+    <nd ref="2297548933"/>
+    <nd ref="2297548881"/>
+    <nd ref="2297548842"/>
+    <nd ref="2297548949"/>
+    <nd ref="2297548861"/>
+    <nd ref="2297548969"/>
+    <nd ref="2297548964"/>
+    <nd ref="2297548858"/>
+    <nd ref="2297548882"/>
+    <nd ref="2297548925"/>
+    <nd ref="2297548914"/>
+    <nd ref="2297548971"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Andrew, (Isleham Parish Church)"/>
+    <tag k="ref:dove" v="12845"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527540"/>
+  </way>
+  <way id="220664509" version="2" timestamp="2015-02-26T07:53:41Z" changeset="29107915" uid="322785" user="BCNorwich">
+    <nd ref="2297548917"/>
+    <nd ref="2297548862"/>
+    <nd ref="2297548819"/>
+    <nd ref="2297548905"/>
+    <nd ref="2297548854"/>
+    <nd ref="2297548960"/>
+    <nd ref="2297548930"/>
+    <nd ref="2297548911"/>
+    <nd ref="2297548917"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="name" v="High Street Baptist Church"/>
+    <tag k="religion" v="christian"/>
   </way>
   <way id="265615653" version="5" timestamp="2024-05-16T06:46:21Z" changeset="151392015" uid="5173844" user="ndrw6">
     <nd ref="2712506975"/>
@@ -1252,6 +1347,38 @@
     <tag k="name" v="The Beeches"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="265616693" version="3" timestamp="2018-02-05T17:53:42Z" changeset="56092163" uid="84263" user="Robert Whittaker">
+    <nd ref="2712516562"/>
+    <nd ref="2712516567"/>
+    <nd ref="2712516565"/>
+    <nd ref="2712516569"/>
+    <nd ref="2712516562"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="St. Andrew's Social Centre"/>
+    <tag k="was:amenity" v="post_office"/>
+  </way>
+  <way id="362555529" version="5" timestamp="2025-04-20T12:43:58Z" changeset="165192221" uid="22792440" user="PayPointPub">
+    <nd ref="3668336236"/>
+    <nd ref="3668336237"/>
+    <nd ref="3668336238"/>
+    <nd ref="3668336239"/>
+    <nd ref="3668336240"/>
+    <nd ref="3668336241"/>
+    <nd ref="3668336236"/>
+    <tag k="brand" v="Co-op Food"/>
+    <tag k="brand:wikidata" v="Q3277439"/>
+    <tag k="brand:wikipedia" v="en:Co-op Food"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2024-07-15"/>
+    <tag k="check_date:opening_hours" v="2024-07-15"/>
+    <tag k="name" v="The Co-operative Food"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="The Co-operative Group"/>
+    <tag k="operator:wikidata" v="Q117202"/>
+    <tag k="paypoint" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.coop.co.uk/store-finder/CB7-5SB/2-west-street"/>
   </way>
   <way id="424934314" version="2" timestamp="2016-07-03T15:30:52Z" changeset="40460640" uid="242345" user="confusedbuffalo">
     <nd ref="4242903436"/>
@@ -1298,6 +1425,40 @@
     <tag k="source:designation" v="cambridgeshire_county_council_prow_gis_data"/>
     <tag k="source:prow_ref" v="cambridgeshire_county_council_prow_gis_data"/>
   </way>
+  <way id="594056217" version="1" timestamp="2018-06-05T06:44:23Z" changeset="59558026" uid="322785" user="BCNorwich">
+    <nd ref="5665696870"/>
+    <nd ref="5665696869"/>
+    <nd ref="5665696868"/>
+    <nd ref="5665696867"/>
+    <nd ref="5665696866"/>
+    <nd ref="5665696865"/>
+    <nd ref="5665696864"/>
+    <nd ref="5665696863"/>
+    <nd ref="5665696870"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="baptist"/>
+    <tag k="description" v="The new High Street Church, also known as The Ark"/>
+    <tag k="fixme" v="Rough outline till better image available."/>
+    <tag k="name" v="High Street Church"/>
+    <tag k="religion" v="christian"/>
+  </way>
+  <way id="648675281" version="2" timestamp="2019-03-19T17:33:55Z" changeset="68303622" uid="281267" user="smb1001">
+    <nd ref="6089575892"/>
+    <nd ref="6089575891"/>
+    <nd ref="6089575890"/>
+    <nd ref="6089575885"/>
+    <nd ref="6089575784"/>
+    <nd ref="6089575888"/>
+    <nd ref="6089575887"/>
+    <nd ref="6089575886"/>
+    <nd ref="6089575889"/>
+    <nd ref="6089575892"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Griffin"/>
+    <tag k="wikidata" v="Q26419427"/>
+  </way>
   <way id="648675282" version="1" timestamp="2018-11-25T09:47:48Z" changeset="64862151" uid="5173844" user="ndrw6">
     <nd ref="6089575898"/>
     <nd ref="6089575899"/>
@@ -1308,6 +1469,35 @@
     <nd ref="6089575893"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Jubilee Close"/>
+  </way>
+  <way id="648675291" version="1" timestamp="2018-11-25T09:47:48Z" changeset="64862151" uid="5173844" user="ndrw6">
+    <nd ref="6089575941"/>
+    <nd ref="6089575940"/>
+    <nd ref="6089575939"/>
+    <nd ref="6089575938"/>
+    <nd ref="6089575941"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Peyton Place"/>
+  </way>
+  <way id="648675292" version="1" timestamp="2018-11-25T09:47:48Z" changeset="64862151" uid="5173844" user="ndrw6">
+    <nd ref="6089575945"/>
+    <nd ref="6089575942"/>
+    <nd ref="6089575943"/>
+    <nd ref="6089575944"/>
+    <nd ref="6089575945"/>
+    <tag k="addr:postcode" v="CB7 5GG"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Lady Frances Court"/>
+  </way>
+  <way id="648675293" version="1" timestamp="2018-11-25T09:47:48Z" changeset="64862151" uid="5173844" user="ndrw6">
+    <nd ref="6089575949"/>
+    <nd ref="6089575948"/>
+    <nd ref="6089575947"/>
+    <nd ref="6089575946"/>
+    <nd ref="6089575949"/>
+    <tag k="addr:postcode" v="CB7 5GF"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Windmill Terrace"/>
   </way>
   <way id="673027481" version="3" timestamp="2024-05-16T06:46:21Z" changeset="151392015" uid="5173844" user="ndrw6">
     <nd ref="6302698486"/>

@@ -1,36 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="569524" lat="52.3885390" lon="-0.0915596" version="2" timestamp="2007-12-11T20:00:34Z" changeset="261199" uid="5121" user="user_5121"/>
-  <node id="569530" lat="52.3869992" lon="-0.0931079" version="3" timestamp="2016-09-05T09:55:22Z" changeset="41926379" uid="2983218" user="LovenOutdoors"/>
-  <node id="24972900" lat="52.3787572" lon="-0.1173235" version="1" timestamp="2007-01-09T13:21:32Z" changeset="190762" uid="2955" user="Matthew Newton">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="24972901" lat="52.3791670" lon="-0.1185910" version="1" timestamp="2007-01-09T13:21:32Z" changeset="190762" uid="2955" user="Matthew Newton">
-    <tag k="created_by" v="JOSM"/>
-  </node>
-  <node id="347835522" lat="52.3786767" lon="-0.1171296" version="1" timestamp="2009-02-20T01:01:35Z" changeset="569901" uid="91225" user="tms13">
-    <tag k="created_by" v="Merkaartor 0.12"/>
-  </node>
-  <node id="1120200215" lat="52.3802743" lon="-0.0531834" version="3" timestamp="2020-05-23T19:12:12Z" changeset="85663154" uid="5173844" user="ndrw6"/>
-  <node id="1148292273" lat="52.3780786" lon="-0.0908374" version="12" timestamp="2024-05-19T18:21:04Z" changeset="151546454" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="Church Farm"/>
-    <tag k="addr:postcode" v="PE28 3AF"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="addr:suburb" v="Old Hurst"/>
-    <tag k="name" v="Johnsons"/>
-    <tag k="opening_hours" v="Tu-Fr 09:00-18:00; Sa 09:00-16:30"/>
-    <tag k="operator" v="Johnsons of Old Hurst"/>
-    <tag k="phone" v="+44 1487 824658"/>
-    <tag k="shop" v="butcher"/>
-    <tag k="website" v="https://www.johnsonsofoldhurst.co.uk/"/>
-  </node>
+  <node id="569549" lat="52.3730620" lon="-0.0998137" version="3" timestamp="2025-01-13T13:13:06Z" changeset="161309304" uid="5229644" user="Nathan_A_RF"/>
+  <node id="569551" lat="52.3702465" lon="-0.1048785" version="2" timestamp="2023-10-25T15:10:23Z" changeset="143120853" uid="53653" user="adstannard"/>
+  <node id="391106724" lat="52.3715797" lon="-0.0934822" version="3" timestamp="2023-10-25T14:46:43Z" changeset="143119747" uid="53653" user="adstannard"/>
+  <node id="736929180" lat="52.3770654" lon="-0.0877751" version="2" timestamp="2020-05-23T19:12:12Z" changeset="85663154" uid="5173844" user="ndrw6"/>
   <node id="4483437656" lat="52.3651362" lon="-0.1134658" version="3" timestamp="2023-10-25T15:10:23Z" changeset="143120853" uid="53653" user="adstannard"/>
-  <node id="10608501150" lat="52.3679896" lon="-0.0779869" version="2" timestamp="2023-10-25T14:46:43Z" changeset="143119747" uid="53653" user="adstannard"/>
   <way id="4214325" version="4" timestamp="2016-08-30T10:40:04Z" changeset="41798521" uid="2983218" user="LovenOutdoors">
     <nd ref="569551"/>
     <nd ref="24972867"/>
@@ -408,6 +385,33 @@
     <tag k="name" v="The Lane"/>
     <tag k="source" v="GPX"/>
   </way>
+  <way id="359178711" version="5" timestamp="2024-04-15T12:44:30Z" changeset="150036731" uid="2274390" user="dzidek23">
+    <nd ref="3639361355"/>
+    <nd ref="3639361357"/>
+    <nd ref="11818540017"/>
+    <nd ref="3639361358"/>
+    <nd ref="3639361356"/>
+    <nd ref="3639361355"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Peter (Oldhurst Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544093"/>
+  </way>
+  <way id="657081645" version="3" timestamp="2025-04-11T17:29:56Z" changeset="164826939" uid="11022773" user="GeoFens">
+    <nd ref="6154404925"/>
+    <nd ref="6154404922"/>
+    <nd ref="6154404923"/>
+    <nd ref="6154404924"/>
+    <nd ref="6154404925"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 3AL"/>
+    <tag k="addr:suburb" v="Old Hurst"/>
+    <tag k="building" v="industrial"/>
+    <tag k="name" v="Limetree"/>
+  </way>
   <way id="666169228" version="2" timestamp="2020-05-23T19:12:12Z" changeset="85663154" uid="5173844" user="ndrw6">
     <nd ref="3140016441"/>
     <nd ref="6154404954"/>
@@ -479,6 +483,33 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="844084137" version="3" timestamp="2024-04-15T12:44:30Z" changeset="150036731" uid="2274390" user="dzidek23">
+    <nd ref="7873849972"/>
+    <nd ref="11818571073"/>
+    <nd ref="7873849973"/>
+    <nd ref="7873849974"/>
+    <nd ref="7873849975"/>
+    <nd ref="7873849972"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="steak_house"/>
+    <tag k="name" v="Johnsons Steak House"/>
+  </way>
+  <way id="844084138" version="4" timestamp="2024-04-15T12:44:30Z" changeset="150036731" uid="2274390" user="dzidek23">
+    <nd ref="7873849976"/>
+    <nd ref="11818540022"/>
+    <nd ref="7873849977"/>
+    <nd ref="7873886907"/>
+    <nd ref="7873849978"/>
+    <nd ref="11818571076"/>
+    <nd ref="11818571077"/>
+    <nd ref="7873849979"/>
+    <nd ref="7873849976"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Johnsons of Old Hurst"/>
+    <tag k="operator" v="Johnsons of Old Hurst"/>
+    <tag k="shop" v="farm"/>
+  </way>
   <way id="844084139" version="5" timestamp="2024-09-08T15:59:03Z" changeset="156358741" uid="11022773" user="GeoFens">
     <nd ref="7873849980"/>
     <nd ref="11818540027"/>
@@ -505,6 +536,28 @@
     <tag k="phone" v="+44 1487 824658"/>
     <tag k="website" v="https://www.johnsonsofoldhurst.co.uk/"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="844084141" version="6" timestamp="2024-10-24T20:46:22Z" changeset="158313248" uid="11022773" user="GeoFens">
+    <nd ref="11816959258"/>
+    <nd ref="11816993369"/>
+    <nd ref="11816959256"/>
+    <nd ref="11816993370"/>
+    <nd ref="11818571178"/>
+    <nd ref="12286171365"/>
+    <nd ref="12286171368"/>
+    <nd ref="12286171359"/>
+    <nd ref="11265053835"/>
+    <nd ref="7873886891"/>
+    <nd ref="11265105797"/>
+    <nd ref="7873886892"/>
+    <nd ref="7873886893"/>
+    <nd ref="11816959258"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Tropical House"/>
+    <tag k="operator" v="Johnsons of Oldhurst"/>
+    <tag k="species:wikidata" v="Q2535664"/>
+    <tag k="species:wikipedia" v="en:Crocodile"/>
+    <tag k="website" v="https://www.johnsonsofoldhurst.co.uk/the-tropical-house"/>
   </way>
   <way id="909176291" version="2" timestamp="2025-01-13T13:13:06Z" changeset="161309304" uid="5229644" user="Nathan_A_RF">
     <nd ref="569539"/>
@@ -574,6 +627,42 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="oneway" v="yes"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1272763294" version="2" timestamp="2025-04-11T17:29:56Z" changeset="164826939" uid="11022773" user="GeoFens">
+    <nd ref="11818616927"/>
+    <nd ref="11818616928"/>
+    <nd ref="11818616929"/>
+    <nd ref="11818616930"/>
+    <nd ref="11818616931"/>
+    <nd ref="11818616932"/>
+    <nd ref="11818616933"/>
+    <nd ref="11818616934"/>
+    <nd ref="11818616935"/>
+    <nd ref="11818616936"/>
+    <nd ref="11818616937"/>
+    <nd ref="11818616938"/>
+    <nd ref="11818616939"/>
+    <nd ref="11818616940"/>
+    <nd ref="11818616941"/>
+    <nd ref="11818616942"/>
+    <nd ref="11818616943"/>
+    <nd ref="11818616944"/>
+    <nd ref="11818616927"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Fitness Rush"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
+  </way>
+  <way id="1272763295" version="2" timestamp="2025-04-11T17:29:56Z" changeset="164826939" uid="11022773" user="GeoFens">
+    <nd ref="11818616945"/>
+    <nd ref="11818616946"/>
+    <nd ref="11818616947"/>
+    <nd ref="11818616948"/>
+    <nd ref="11818616945"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Grove"/>
+    <tag k="source" v="microsoft/BuildingFootprints"/>
   </way>
   <way id="1350906344" version="1" timestamp="2025-01-13T13:13:06Z" changeset="161309304" uid="5229644" user="Nathan_A_RF">
     <nd ref="4483437656"/>

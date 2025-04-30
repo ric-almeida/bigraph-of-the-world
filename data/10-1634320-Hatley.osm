@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="267023865" lat="52.1314269" lon="-0.0977107" version="2" timestamp="2023-01-11T14:38:13Z" changeset="131148979" uid="5173844" user="ndrw6"/>
   <node id="534559943" lat="52.1499119" lon="-0.1752943" version="4" timestamp="2013-09-11T09:01:08Z" changeset="17779188" uid="12671" user="sladen"/>
-  <node id="3602844028" lat="52.1482410" lon="-0.1568520" version="2" timestamp="2015-10-19T19:02:32Z" changeset="34741682" uid="207297" user="Accipiter"/>
+  <node id="542443014" lat="52.1396099" lon="-0.1177728" version="3" timestamp="2024-07-31T11:06:14Z" changeset="154643600" uid="742701" user="kerr smith"/>
+  <node id="3993705265" lat="52.1334428" lon="-0.1363514" version="2" timestamp="2023-07-10T08:53:14Z" changeset="138327324" uid="8951082" user="AndjelaS"/>
   <way id="27679485" version="7" timestamp="2024-07-13T12:43:09Z" changeset="153892020" uid="742701" user="kerr smith">
     <nd ref="267023857"/>
     <nd ref="1598856232"/>
@@ -167,6 +167,62 @@
     <tag k="horse" v="designated"/>
     <tag k="name" v="Buff Lane"/>
   </way>
+  <way id="137317318" version="3" timestamp="2017-06-22T08:51:21Z" changeset="49740478" uid="364" user="Edward">
+    <nd ref="1506305691"/>
+    <nd ref="1506305827"/>
+    <nd ref="1506305658"/>
+    <nd ref="1506305761"/>
+    <nd ref="1506305852"/>
+    <nd ref="1506305651"/>
+    <nd ref="1506305766"/>
+    <nd ref="1506305835"/>
+    <nd ref="1506305691"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St George"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550340"/>
+  </way>
+  <way id="362617906" version="5" timestamp="2024-07-13T12:43:09Z" changeset="153892020" uid="742701" user="kerr smith">
+    <nd ref="3668896539"/>
+    <nd ref="12050921161"/>
+    <nd ref="12050921159"/>
+    <nd ref="12050921156"/>
+    <nd ref="12050921158"/>
+    <nd ref="12050921157"/>
+    <nd ref="12050921160"/>
+    <nd ref="3668896538"/>
+    <nd ref="3668896540"/>
+    <nd ref="3668896541"/>
+    <nd ref="3668896539"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="disused:amenity" v="place_of_worship"/>
+    <tag k="name" v="St Denis"/>
+    <tag k="note" v="redundant church, last used as place of worship in 1959"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550333"/>
+  </way>
+  <way id="499915015" version="2" timestamp="2023-02-18T23:01:43Z" changeset="132731710" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="4910979470"/>
+    <nd ref="4910979475"/>
+    <nd ref="4910979477"/>
+    <nd ref="4910979483"/>
+    <nd ref="10677106264"/>
+    <nd ref="4910979485"/>
+    <nd ref="4910979489"/>
+    <nd ref="4910979492"/>
+    <nd ref="4910979478"/>
+    <nd ref="4910979495"/>
+    <nd ref="4910979496"/>
+    <nd ref="4910979470"/>
+    <tag k="addr:city" v="Hatley"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Hatley Village Hall"/>
+  </way>
   <way id="581278649" version="2" timestamp="2023-07-10T08:53:14Z" changeset="138327324" uid="8951082" user="AndjelaS">
     <nd ref="4910979509"/>
     <nd ref="11036998781"/>
@@ -207,6 +263,21 @@
     <tag k="horse" v="designated"/>
     <tag k="name" v="Buff Lane"/>
     <tag k="vehicle" v="private"/>
+  </way>
+  <way id="760924069" version="4" timestamp="2023-01-11T14:38:13Z" changeset="131148979" uid="5173844" user="ndrw6">
+    <nd ref="7108981339"/>
+    <nd ref="7109023713"/>
+    <nd ref="7109023711"/>
+    <nd ref="7109023717"/>
+    <nd ref="10539810120"/>
+    <nd ref="10539810119"/>
+    <nd ref="7109023620"/>
+    <nd ref="7109023528"/>
+    <nd ref="7108981339"/>
+    <tag k="addr:housename" v="Hatley Park"/>
+    <tag k="addr:postcode" v="SG19 3HL"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hatley Park"/>
   </way>
   <way id="1188607350" version="1" timestamp="2023-07-10T08:53:14Z" changeset="138327324" uid="8951082" user="AndjelaS">
     <nd ref="3993705265"/>

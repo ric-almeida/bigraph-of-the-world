@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:06:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="20960183" lat="52.1873175" lon="0.3088368" version="8" timestamp="2024-12-31T12:29:35Z" changeset="160830597" uid="5229644" user="Nathan_A_RF">
     <tag k="crossing:barrier" v="half"/>
     <tag k="crossing:light" v="yes"/>
     <tag k="railway" v="level_crossing"/>
   </node>
-  <node id="26163065" lat="52.1606822" lon="0.3898311" version="4" timestamp="2025-02-27T21:48:37Z" changeset="163029758" uid="5229644" user="Nathan_A_RF"/>
-  <node id="26163506" lat="52.1623287" lon="0.3759401" version="2" timestamp="2013-11-25T18:29:50Z" changeset="19114492" uid="1782504" user="corgicity"/>
-  <node id="30226589" lat="52.1605448" lon="0.4157846" version="3" timestamp="2014-07-07T13:52:30Z" changeset="24004525" uid="207581" user="Hjart"/>
-  <node id="262786673" lat="52.1855782" lon="0.3587463" version="6" timestamp="2015-08-17T13:24:09Z" changeset="33390644" uid="281267" user="smb1001"/>
+  <node id="26163500" lat="52.1659562" lon="0.3770906" version="5" timestamp="2025-02-27T21:48:37Z" changeset="163029758" uid="5229644" user="Nathan_A_RF"/>
+  <node id="30226559" lat="52.1627643" lon="0.3879527" version="4" timestamp="2014-07-07T13:52:29Z" changeset="24004525" uid="207581" user="Hjart"/>
+  <node id="264657724" lat="52.1739300" lon="0.3503860" version="2" timestamp="2011-08-31T15:26:38Z" changeset="9176863" uid="504708" user="HillWithSmallFields"/>
+  <node id="264657810" lat="52.1640495" lon="0.3864926" version="2" timestamp="2011-09-30T14:24:11Z" changeset="9435717" uid="504708" user="HillWithSmallFields"/>
   <node id="1886128236" lat="52.1681752" lon="0.3447657" version="1" timestamp="2012-08-27T23:53:29Z" changeset="12886342" uid="836540" user="AndrewBrown"/>
-  <node id="12624222887" lat="52.1724110" lon="0.3804004" version="1" timestamp="2025-02-27T21:48:37Z" changeset="163029758" uid="5229644" user="Nathan_A_RF"/>
+  <node id="12624222878" lat="52.1643974" lon="0.3761642" version="1" timestamp="2025-02-27T21:48:37Z" changeset="163029758" uid="5229644" user="Nathan_A_RF"/>
+  <node id="12624222886" lat="52.1691732" lon="0.3781631" version="1" timestamp="2025-02-27T21:48:37Z" changeset="163029758" uid="5229644" user="Nathan_A_RF"/>
   <way id="3997336" version="5" timestamp="2023-06-10T23:08:04Z" changeset="137187773" uid="19243622" user="cam-jpa">
     <nd ref="20960183"/>
     <nd ref="10968365966"/>
@@ -376,6 +377,41 @@
     <tag k="name" v="Balsham Lane"/>
     <tag k="source" v="gps"/>
   </way>
+  <way id="128423049" version="6" timestamp="2023-10-15T22:21:56Z" changeset="142637576" uid="18982950" user="mappamonday">
+    <nd ref="1419341677"/>
+    <nd ref="1419341601"/>
+    <nd ref="1419341656"/>
+    <nd ref="1419341679"/>
+    <nd ref="1419341739"/>
+    <nd ref="1419341625"/>
+    <nd ref="1419341677"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="check_date" v="2023-10-15"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St George (Six Mile Bottom Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q26670897"/>
+  </way>
+  <way id="190792635" version="4" timestamp="2023-11-03T08:33:17Z" changeset="143563029" uid="504708" user="HillWithSmallFields">
+    <nd ref="2014092034"/>
+    <nd ref="2014092041"/>
+    <nd ref="2014091952"/>
+    <nd ref="2014092077"/>
+    <nd ref="2014091950"/>
+    <nd ref="2014091986"/>
+    <nd ref="2014092036"/>
+    <nd ref="2014092049"/>
+    <nd ref="2014092034"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary (Brinkley Parish Church)"/>
+    <tag k="ref:dove" v="10246"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="wikidata" v="Q17543647"/>
+  </way>
   <way id="254733298" version="1" timestamp="2014-01-01T23:24:15Z" changeset="19754775" uid="236165" user="Philip Shore">
     <nd ref="1886128236"/>
     <nd ref="264657725"/>
@@ -404,6 +440,18 @@
     <tag k="building" v="residential"/>
     <tag k="name" v="The Old Rectory"/>
     <tag k="wikidata" v="Q26457006"/>
+  </way>
+  <way id="366827508" version="4" timestamp="2021-03-25T21:41:12Z" changeset="101746091" uid="145231" user="woodpeck_repair">
+    <nd ref="3708040050"/>
+    <nd ref="3708037961"/>
+    <nd ref="3708038019"/>
+    <nd ref="3708038014"/>
+    <nd ref="3708038016"/>
+    <nd ref="3708037955"/>
+    <nd ref="3708040050"/>
+    <tag k="addr:postcode" v="CB8 0SB"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Brinkley Hall"/>
   </way>
   <way id="453273389" version="1" timestamp="2016-11-14T11:55:02Z" changeset="43637410" uid="2983218" user="LovenOutdoors">
     <nd ref="4500290933"/>
@@ -443,6 +491,26 @@
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="High Street"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="649315638" version="2" timestamp="2022-04-21T18:04:21Z" changeset="120013604" uid="5173844" user="ndrw6">
+    <nd ref="6094037726"/>
+    <nd ref="9683433856"/>
+    <nd ref="9683433857"/>
+    <nd ref="6094037725"/>
+    <nd ref="6094037724"/>
+    <nd ref="6094037722"/>
+    <nd ref="6094037721"/>
+    <nd ref="6094037723"/>
+    <nd ref="9683433861"/>
+    <nd ref="9683433860"/>
+    <nd ref="9683433859"/>
+    <nd ref="9683433858"/>
+    <nd ref="6094037726"/>
+    <tag k="addr:postcode" v="CB8 0RA"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Red Lion"/>
+    <tag k="wikidata" v="Q26457123"/>
   </way>
   <way id="949246772" version="1" timestamp="2021-06-01T02:39:00Z" changeset="105650079" uid="493595" user="Yorvik Prestigitator">
     <nd ref="8787723083"/>

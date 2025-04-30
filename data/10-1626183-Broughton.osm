@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="569530" lat="52.3869992" lon="-0.0931079" version="3" timestamp="2016-09-05T09:55:22Z" changeset="41926379" uid="2983218" user="LovenOutdoors"/>
+  <node id="569551" lat="52.3702465" lon="-0.1048785" version="2" timestamp="2023-10-25T15:10:23Z" changeset="143120853" uid="53653" user="adstannard"/>
   <node id="569574" lat="52.3547184" lon="-0.1320939" version="2" timestamp="2016-11-14T14:42:25Z" changeset="43641544" uid="873940" user="Mike Baggaley"/>
-  <node id="20698531" lat="52.4086559" lon="-0.1308678" version="2" timestamp="2025-01-13T18:36:35Z" changeset="161320884" uid="5229644" user="Nathan_A_RF"/>
+  <node id="24972925" lat="52.3898420" lon="-0.1424573" version="2" timestamp="2018-11-03T11:05:05Z" changeset="64137306" uid="1257159" user="Jean-Pierre Rondeau"/>
   <node id="24972949" lat="52.3605973" lon="-0.1386846" version="1" timestamp="2007-01-09T13:21:37Z" changeset="190762" uid="2955" user="Matthew Newton">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="24973042" lat="52.4020237" lon="-0.1532794" version="3" timestamp="2017-01-20T10:04:32Z" changeset="45322956" uid="90142" user="andy mackey"/>
+  <node id="347835515" lat="52.3824553" lon="-0.1153536" version="2" timestamp="2010-03-25T23:28:23Z" changeset="4234123" uid="7098" user="richardm565"/>
   <node id="804388289" lat="52.3749014" lon="-0.1488659" version="2" timestamp="2018-11-03T11:05:06Z" changeset="64137306" uid="1257159" user="Jean-Pierre Rondeau">
     <tag k="traffic_calming" v="choker"/>
   </node>
-  <node id="1574758788" lat="52.4097395" lon="-0.1273581" version="2" timestamp="2020-05-19T04:08:32Z" changeset="85411784" uid="5173844" user="ndrw6"/>
-  <node id="10608484867" lat="52.3611209" lon="-0.1394532" version="1" timestamp="2023-02-05T17:07:52Z" changeset="132121491" uid="11022773" user="GeoFens"/>
-  <node id="12498096117" lat="52.3726067" lon="-0.1006149" version="1" timestamp="2025-01-13T13:13:06Z" changeset="161309304" uid="5229644" user="Nathan_A_RF"/>
-  <node id="12498760062" lat="52.4085099" lon="-0.1311375" version="1" timestamp="2025-01-13T18:36:35Z" changeset="161320884" uid="5229644" user="Nathan_A_RF"/>
+  <node id="4483437656" lat="52.3651362" lon="-0.1134658" version="3" timestamp="2023-10-25T15:10:23Z" changeset="143120853" uid="53653" user="adstannard"/>
   <way id="4188153" version="18" timestamp="2021-08-26T13:28:05Z" changeset="110289039" uid="242345" user="confusedbuffalo">
     <nd ref="569574"/>
     <nd ref="5771101475"/>
@@ -394,11 +391,46 @@
     <tag k="source" v="os_street_view"/>
     <tag k="survey" v="no"/>
   </way>
+  <way id="132001990" version="6" timestamp="2024-05-19T09:54:18Z" changeset="151526530" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="1452401086"/>
+    <nd ref="1452401097"/>
+    <nd ref="1452401102"/>
+    <nd ref="1452400822"/>
+    <nd ref="1452400832"/>
+    <nd ref="1452400834"/>
+    <nd ref="1452400841"/>
+    <nd ref="1452400954"/>
+    <nd ref="1452400810"/>
+    <nd ref="1452400989"/>
+    <nd ref="1452401024"/>
+    <nd ref="1452401084"/>
+    <nd ref="1452401086"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 3AS"/>
+    <tag k="addr:suburb" v="Broughton"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Broughton Parish Church)"/>
+    <tag k="ref:dove" v="14853"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543882"/>
+  </way>
   <way id="146408083" version="1" timestamp="2012-01-18T22:16:48Z" changeset="10432355" uid="90142" user="andy mackey">
     <nd ref="1596801712"/>
     <nd ref="1596801747"/>
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Wood Lane"/>
+  </way>
+  <way id="146408085" version="1" timestamp="2012-01-18T22:16:48Z" changeset="10432355" uid="90142" user="andy mackey">
+    <nd ref="1596801750"/>
+    <nd ref="1596801752"/>
+    <nd ref="1596801754"/>
+    <nd ref="1596801629"/>
+    <nd ref="1596801750"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="farm shed"/>
   </way>
   <way id="164858795" version="3" timestamp="2021-07-23T04:47:49Z" changeset="108460579" uid="9196103" user="srinatpa">
     <nd ref="582695589"/>
@@ -428,74 +460,71 @@
     <tag k="name" v="Causeway Road"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="863104159" version="2" timestamp="2024-05-19T09:54:18Z" changeset="151526530" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="4019830034"/>
-    <nd ref="8040530852"/>
-    <nd ref="8040530848"/>
-    <nd ref="1516425649"/>
-    <nd ref="8040530847"/>
-    <nd ref="4559540625"/>
-    <nd ref="8040530851"/>
-    <nd ref="4375403329"/>
-    <nd ref="4375403330"/>
-    <nd ref="4375403331"/>
-    <nd ref="4375403332"/>
-    <nd ref="4019830036"/>
-    <nd ref="4019830035"/>
-    <nd ref="4019830034"/>
+  <way id="655469205" version="3" timestamp="2024-05-19T09:54:18Z" changeset="151526530" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="6141221921"/>
+    <nd ref="6141221918"/>
+    <nd ref="6141221916"/>
+    <nd ref="6141221917"/>
+    <nd ref="6141221919"/>
+    <nd ref="6141221920"/>
+    <nd ref="6141221921"/>
     <tag k="addr:city" v="Huntingdon"/>
     <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3AZ"/>
-    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="addr:postcode" v="PE28 3AR"/>
     <tag k="addr:suburb" v="Broughton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Old Lodge Farm"/>
+    <tag k="building" v="industrial"/>
+    <tag k="name" v="Broughton Business Centre"/>
   </way>
-  <way id="863104160" version="2" timestamp="2024-05-19T09:54:18Z" changeset="151526530" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="8040530853"/>
-    <nd ref="8040530854"/>
-    <nd ref="8040530855"/>
-    <nd ref="8040530856"/>
-    <nd ref="8040530857"/>
-    <nd ref="4375462054"/>
-    <nd ref="4375462036"/>
-    <nd ref="4375462037"/>
-    <nd ref="8040530858"/>
-    <nd ref="8040530859"/>
-    <nd ref="4375462052"/>
-    <nd ref="8040530860"/>
-    <nd ref="8040530861"/>
-    <nd ref="8040530862"/>
-    <nd ref="8040530863"/>
-    <nd ref="8040530853"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 3AZ"/>
-    <tag k="addr:street" v="Bridge Road"/>
-    <tag k="addr:suburb" v="Broughton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Mill Barn Farm"/>
+  <way id="941971822" version="1" timestamp="2021-05-11T21:46:17Z" changeset="104536397" uid="11022773" user="GeoFens">
+    <nd ref="8723058367"/>
+    <nd ref="8723058368"/>
+    <nd ref="8723058369"/>
+    <nd ref="8723058370"/>
+    <nd ref="8723058371"/>
+    <nd ref="8723058372"/>
+    <nd ref="8723058373"/>
+    <nd ref="8723058374"/>
+    <nd ref="8723058375"/>
+    <nd ref="8723058376"/>
+    <nd ref="8723058377"/>
+    <nd ref="8723058378"/>
+    <nd ref="8723058379"/>
+    <nd ref="8723058380"/>
+    <nd ref="8723058381"/>
+    <nd ref="8723058382"/>
+    <nd ref="8723058383"/>
+    <nd ref="8723058384"/>
+    <nd ref="8723058385"/>
+    <nd ref="8723058386"/>
+    <nd ref="8723058387"/>
+    <nd ref="8723058388"/>
+    <nd ref="8723058389"/>
+    <nd ref="8723058390"/>
+    <nd ref="8723058391"/>
+    <nd ref="8723058392"/>
+    <nd ref="8723058367"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Rose Cottage Care Home"/>
+    <tag k="operator" v="Greensleeves"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="website" v="https://www.greensleeves.org.uk/care-homes/rose-cottage-huntingdon/"/>
   </way>
-  <way id="863104162" version="2" timestamp="2024-05-19T09:36:56Z" changeset="151525835" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="8040530866"/>
-    <nd ref="7904355795"/>
-    <nd ref="7904355586"/>
-    <nd ref="7904355590"/>
-    <nd ref="7904355592"/>
-    <nd ref="7904355595"/>
-    <nd ref="7904355610"/>
-    <nd ref="7904355616"/>
-    <nd ref="7904355617"/>
-    <nd ref="7904355803"/>
-    <nd ref="7904355805"/>
-    <nd ref="8040530866"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 2DU"/>
-    <tag k="addr:street" v="Old Hurst Road"/>
-    <tag k="addr:suburb" v="Wyton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Hungary Hall Farm"/>
+  <way id="941971823" version="2" timestamp="2023-01-30T20:04:02Z" changeset="131895086" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="8723058393"/>
+    <nd ref="8723058394"/>
+    <nd ref="8723058395"/>
+    <nd ref="8723058396"/>
+    <nd ref="8723058397"/>
+    <nd ref="8723058398"/>
+    <nd ref="8723058399"/>
+    <nd ref="8723058400"/>
+    <nd ref="8723058393"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="yes"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Broughton Village Hall"/>
   </way>
   <way id="1138083923" version="4" timestamp="2025-01-13T16:13:34Z" changeset="161316061" uid="5229644" user="Nathan_A_RF">
     <nd ref="24972949"/>
@@ -508,6 +537,26 @@
     <tag k="ref" v="B1090"/>
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1151272734" version="1" timestamp="2023-03-04T17:31:50Z" changeset="133299600" uid="11022773" user="GeoFens">
+    <nd ref="10709897104"/>
+    <nd ref="10709988005"/>
+    <nd ref="10709988006"/>
+    <nd ref="10709988007"/>
+    <nd ref="10709897104"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Torkington House"/>
+  </way>
+  <way id="1151272735" version="1" timestamp="2023-03-04T17:31:50Z" changeset="133299600" uid="11022773" user="GeoFens">
+    <nd ref="10709988008"/>
+    <nd ref="10709988009"/>
+    <nd ref="10709988010"/>
+    <nd ref="10709988011"/>
+    <nd ref="10709988012"/>
+    <nd ref="10709988013"/>
+    <nd ref="10709988008"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Ravenscroft"/>
   </way>
   <way id="1350906344" version="1" timestamp="2025-01-13T13:13:06Z" changeset="161309304" uid="5229644" user="Nathan_A_RF">
     <nd ref="4483437656"/>

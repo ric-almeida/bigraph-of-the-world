@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="17808123" lat="52.0753858" lon="-0.0645254" version="5" timestamp="2024-06-14T14:23:23Z" changeset="152681745" uid="953779" user="Adam Edwards">
-    <tag k="surface" v="asphalt"/>
-    <tag k="traffic_calming" v="island"/>
-  </node>
   <node id="84588278" lat="52.0434560" lon="-0.0636550" version="4" timestamp="2024-02-27T20:32:30Z" changeset="147989213" uid="5229644" user="Nathan_A_RF"/>
-  <node id="87251015" lat="52.0740937" lon="-0.0690252" version="3" timestamp="2016-04-28T15:07:41Z" changeset="38953872" uid="281267" user="smb1001"/>
-  <node id="275942489" lat="52.0650783" lon="-0.1098269" version="3" timestamp="2016-04-26T16:28:33Z" changeset="38892327" uid="281267" user="smb1001"/>
-  <node id="603858755" lat="52.0784490" lon="-0.0917210" version="1" timestamp="2010-01-03T19:06:39Z" changeset="3531407" uid="5926" user="c2r"/>
+  <node id="132691580" lat="52.0695419" lon="-0.0804971" version="3" timestamp="2010-01-06T16:59:39Z" changeset="3555228" uid="5926" user="c2r"/>
+  <node id="582084222" lat="52.0674120" lon="-0.0918281" version="1" timestamp="2009-12-05T19:57:13Z" changeset="3297844" uid="28864" user="Hook"/>
+  <node id="603858756" lat="52.0783435" lon="-0.0914420" version="1" timestamp="2010-01-03T19:06:42Z" changeset="3531407" uid="5926" user="c2r"/>
   <node id="1518244439" lat="52.0433225" lon="-0.0640755" version="3" timestamp="2024-02-27T20:32:30Z" changeset="147989213" uid="5229644" user="Nathan_A_RF"/>
-  <node id="11358982536" lat="52.0435298" lon="-0.0634299" version="2" timestamp="2024-02-27T20:32:30Z" changeset="147989213" uid="5229644" user="Nathan_A_RF"/>
+  <node id="1518244443" lat="52.0436014" lon="-0.0637641" version="3" timestamp="2024-02-27T20:32:30Z" changeset="147989213" uid="5229644" user="Nathan_A_RF"/>
   <way id="3598988" version="11" timestamp="2010-04-15T15:40:58Z" changeset="4431629" uid="21502" user="Kevin Steinhardt">
     <nd ref="603834567"/>
     <nd ref="697413844"/>
@@ -279,6 +275,17 @@
     <nd ref="603858756"/>
     <tag k="highway" v="unclassified"/>
   </way>
+  <way id="13995824" version="3" timestamp="2018-11-21T23:20:31Z" changeset="64757902" uid="5173844" user="ndrw6">
+    <nd ref="132691570"/>
+    <nd ref="132691571"/>
+    <nd ref="132691572"/>
+    <nd ref="132691576"/>
+    <nd ref="132691570"/>
+    <tag k="addr:postcode" v="SG8 0SS"/>
+    <tag k="building" v="office"/>
+    <tag k="name" v="New Cambridge House"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
   <way id="13995825" version="11" timestamp="2024-06-14T14:33:46Z" changeset="152682308" uid="953779" user="Adam Edwards">
     <nd ref="132691580"/>
     <nd ref="7809715394"/>
@@ -496,6 +503,22 @@
     <tag k="source" v="GPS"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="154583338" version="2" timestamp="2018-11-21T23:20:32Z" changeset="64757902" uid="5173844" user="ndrw6">
+    <nd ref="1671151621"/>
+    <nd ref="1671151622"/>
+    <nd ref="1671151620"/>
+    <nd ref="1671151637"/>
+    <nd ref="1671151627"/>
+    <nd ref="1671151643"/>
+    <nd ref="1671151635"/>
+    <nd ref="1671151641"/>
+    <nd ref="1671151621"/>
+    <tag k="addr:postcode" v="SG8 0QB"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Crown"/>
+    <tag k="wikidata" v="Q26615813"/>
+  </way>
   <way id="215103542" version="4" timestamp="2021-05-03T07:18:58Z" changeset="104033237" uid="4820501" user="choessei">
     <nd ref="1210723717"/>
     <nd ref="17808127"/>
@@ -511,6 +534,64 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Church Street"/>
     <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="309838313" version="2" timestamp="2021-07-05T01:37:31Z" changeset="107410782" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="3151773696"/>
+    <nd ref="3151773690"/>
+    <nd ref="3151773689"/>
+    <nd ref="3151773687"/>
+    <nd ref="3151773696"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Litlington Village Hall"/>
+  </way>
+  <way id="359145956" version="4" timestamp="2023-11-03T18:42:34Z" changeset="143587142" uid="504708" user="HillWithSmallFields">
+    <nd ref="3639129993"/>
+    <nd ref="3639128179"/>
+    <nd ref="3639128191"/>
+    <nd ref="3639129996"/>
+    <nd ref="3639128175"/>
+    <nd ref="3639128181"/>
+    <nd ref="3639128169"/>
+    <nd ref="3639128187"/>
+    <nd ref="3639128186"/>
+    <nd ref="3639129995"/>
+    <nd ref="3639128180"/>
+    <nd ref="3639128192"/>
+    <nd ref="3639128190"/>
+    <nd ref="3639128183"/>
+    <nd ref="3639128170"/>
+    <nd ref="3639128178"/>
+    <nd ref="3639129993"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St. Catherine (Litlington Parish Church)"/>
+    <tag k="ref:dove" v="16288"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="wikidata" v="Q17550377"/>
+  </way>
+  <way id="361270128" version="1" timestamp="2015-07-19T13:40:33Z" changeset="32732956" uid="16089" user="Ben Harris">
+    <nd ref="3657693525"/>
+    <nd ref="3657693526"/>
+    <nd ref="3657693527"/>
+    <nd ref="3657693528"/>
+    <nd ref="3657693525"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Litlington Track Sectioning Cabin"/>
+    <tag k="power" v="switchgear"/>
+    <tag k="voltage" v="25000"/>
+  </way>
+  <way id="414199025" version="2" timestamp="2017-03-08T23:05:30Z" changeset="46694593" uid="5451525" user="Tom Timms">
+    <nd ref="4153712030"/>
+    <nd ref="4153712051"/>
+    <nd ref="4153712028"/>
+    <nd ref="4153712027"/>
+    <nd ref="4153712030"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Litlington Recreation Centre"/>
   </way>
   <way id="1224863407" version="1" timestamp="2023-11-17T19:27:40Z" changeset="144151886" uid="705850" user="Cebderby">
     <nd ref="84588278"/>

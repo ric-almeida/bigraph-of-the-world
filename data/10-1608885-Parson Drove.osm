@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:05:00Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:16:53Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="313305539" lat="52.6616033" lon="0.0946309" version="10" timestamp="2016-11-07T17:58:23Z" changeset="43469677" uid="2400834" user="Gyrwa"/>
-  <node id="313305540" lat="52.6588295" lon="0.0854710" version="12" timestamp="2016-11-07T17:58:23Z" changeset="43469677" uid="2400834" user="Gyrwa"/>
-  <node id="323309333" lat="52.6717612" lon="0.0811113" version="9" timestamp="2019-02-15T00:20:28Z" changeset="67211541" uid="2400834" user="Gyrwa"/>
-  <node id="338093059" lat="52.6498553" lon="0.0815926" version="5" timestamp="2020-02-11T23:24:51Z" changeset="80873359" uid="2400834" user="Gyrwa"/>
+  <node id="313305541" lat="52.6548668" lon="0.0724952" version="12" timestamp="2016-11-07T17:58:23Z" changeset="43469677" uid="2400834" user="Gyrwa"/>
+  <node id="313305545" lat="52.6590638" lon="0.0395903" version="8" timestamp="2012-02-01T15:55:09Z" changeset="10559467" uid="504708" user="HillWithSmallFields"/>
+  <node id="323309999" lat="52.6703505" lon="0.0708625" version="5" timestamp="2016-11-09T01:49:14Z" changeset="43502140" uid="2400834" user="Gyrwa"/>
   <node id="338093173" lat="52.6475266" lon="0.0444730" version="3" timestamp="2012-02-01T16:37:37Z" changeset="10560236" uid="504708" user="HillWithSmallFields"/>
   <node id="536500875" lat="52.6868350" lon="0.0714945" version="4" timestamp="2021-03-02T16:31:41Z" changeset="100293125" uid="2400834" user="Gyrwa"/>
   <node id="536500880" lat="52.6790748" lon="0.0495853" version="4" timestamp="2014-06-17T09:21:11Z" changeset="22980010" uid="735" user="blackadder"/>
-  <node id="536500925" lat="52.6822544" lon="0.0712350" version="4" timestamp="2014-06-17T09:21:11Z" changeset="22980010" uid="735" user="blackadder"/>
-  <node id="634898170" lat="52.6427217" lon="0.0273143" version="2" timestamp="2020-02-12T21:57:02Z" changeset="80925004" uid="2400834" user="Gyrwa"/>
+  <node id="634898171" lat="52.6435444" lon="0.0268671" version="1" timestamp="2010-02-10T11:27:43Z" changeset="3839410" uid="3582" user="davidearl"/>
+  <node id="634898180" lat="52.6444313" lon="0.0264975" version="2" timestamp="2020-02-16T22:23:26Z" changeset="81083102" uid="2400834" user="Gyrwa"/>
   <node id="634898200" lat="52.6432054" lon="0.0294949" version="2" timestamp="2020-02-12T21:57:02Z" changeset="80925004" uid="2400834" user="Gyrwa"/>
-  <node id="634898830" lat="52.6546521" lon="0.0726828" version="3" timestamp="2016-11-07T17:58:23Z" changeset="43469677" uid="2400834" user="Gyrwa"/>
+  <node id="634898601" lat="52.6560030" lon="0.0152688" version="1" timestamp="2010-02-10T11:27:59Z" changeset="3839410" uid="3582" user="davidearl"/>
+  <node id="634898852" lat="52.6624490" lon="0.0717913" version="2" timestamp="2016-11-09T01:49:14Z" changeset="43502140" uid="2400834" user="Gyrwa"/>
   <node id="1255111155" lat="52.6621030" lon="-0.0225534" version="2" timestamp="2022-01-11T07:01:51Z" changeset="116010386" uid="5443821" user="◪ Jarv"/>
   <node id="1611831091" lat="52.6649288" lon="0.0214686" version="2" timestamp="2021-12-26T13:32:20Z" changeset="115386673" uid="2400834" user="Gyrwa"/>
-  <node id="1614408669" lat="52.6349162" lon="-0.0046188" version="2" timestamp="2020-02-16T22:23:26Z" changeset="81083102" uid="2400834" user="Gyrwa"/>
   <node id="2156437018" lat="52.6632957" lon="-0.0034844" version="1" timestamp="2013-02-15T19:09:04Z" changeset="15043691" uid="322785" user="BCNorwich"/>
+  <node id="2615155727" lat="52.6463810" lon="0.0398642" version="1" timestamp="2014-01-08T19:13:27Z" changeset="19888065" uid="5926" user="c2r"/>
   <way id="29391692" version="7" timestamp="2021-03-02T16:31:41Z" changeset="100293125" uid="2400834" user="Gyrwa">
     <nd ref="536500875"/>
     <nd ref="8479706787"/>
@@ -898,6 +899,50 @@
     <tag k="name" v="Swan Gardens"/>
     <tag k="source" v="survey"/>
   </way>
+  <way id="359362999" version="2" timestamp="2017-04-26T12:44:01Z" changeset="48162130" uid="281267" user="smb1001">
+    <nd ref="3640904118"/>
+    <nd ref="3640904115"/>
+    <nd ref="3640904108"/>
+    <nd ref="3640904110"/>
+    <nd ref="3640904118"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="name" v="St Marks Methodist Church"/>
+    <tag k="religion" v="christian"/>
+  </way>
+  <way id="359363002" version="3" timestamp="2020-10-15T11:14:11Z" changeset="92519477" uid="281267" user="smb1001">
+    <nd ref="3640904109"/>
+    <nd ref="3640904106"/>
+    <nd ref="3640904112"/>
+    <nd ref="3640904117"/>
+    <nd ref="3640904109"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Emmanuel (Parson Drove Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q26418915"/>
+  </way>
+  <way id="359363113" version="3" timestamp="2022-06-29T12:32:18Z" changeset="123001175" uid="8775772" user="LakatosVL">
+    <nd ref="3640905192"/>
+    <nd ref="3640905191"/>
+    <nd ref="3640907093"/>
+    <nd ref="3640907095"/>
+    <nd ref="3640907097"/>
+    <nd ref="3640907098"/>
+    <nd ref="3640907100"/>
+    <nd ref="3640907099"/>
+    <nd ref="3640905190"/>
+    <nd ref="3640905192"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St John The Baptist (redundant)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q7593728"/>
+    <tag k="wikipedia" v="en:St John the Baptist's Church, Parson Drove"/>
+  </way>
   <way id="465276371" version="3" timestamp="2022-05-13T00:40:26Z" changeset="120909781" uid="493595" user="Yorvik Prestigitator">
     <nd ref="634898180"/>
     <nd ref="1614320201"/>
@@ -1007,6 +1052,36 @@
     <tag k="name" v="John Peck Close"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
   </way>
+  <way id="1221870925" version="1" timestamp="2023-11-07T22:21:18Z" changeset="143756721" uid="2400834" user="Gyrwa">
+    <nd ref="11332020469"/>
+    <nd ref="11332020470"/>
+    <nd ref="634898809"/>
+    <nd ref="11332020473"/>
+    <nd ref="11332020472"/>
+    <nd ref="11332020471"/>
+    <nd ref="11332006966"/>
+    <nd ref="11332006967"/>
+    <nd ref="11332006968"/>
+    <nd ref="11332020469"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Parson Drove Pharmacy"/>
+  </way>
+  <way id="1221870926" version="2" timestamp="2025-03-16T15:43:39Z" changeset="163694851" uid="84263" user="Robert Whittaker">
+    <nd ref="11332020477"/>
+    <nd ref="634898808"/>
+    <nd ref="11332020474"/>
+    <nd ref="11332006968"/>
+    <nd ref="11332006967"/>
+    <nd ref="11332020475"/>
+    <nd ref="11332020476"/>
+    <nd ref="11332020477"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="name" v="Parson Drove Surgery"/>
+    <tag k="ref:GB:nhs_ods" v="D81015"/>
+  </way>
   <way id="1221874456" version="2" timestamp="2024-07-11T20:45:18Z" changeset="153829343" uid="493595" user="Yorvik Prestigitator">
     <nd ref="634898753"/>
     <nd ref="11332035800"/>
@@ -1027,6 +1102,35 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="ref" v="B1166"/>
     <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="1221874477" version="1" timestamp="2023-11-07T22:49:29Z" changeset="143757243" uid="2400834" user="Gyrwa">
+    <nd ref="634898666"/>
+    <nd ref="11332047297"/>
+    <nd ref="11332047296"/>
+    <nd ref="11332047294"/>
+    <nd ref="11332047292"/>
+    <nd ref="11332047290"/>
+    <nd ref="11332047289"/>
+    <nd ref="11332047291"/>
+    <nd ref="11332047293"/>
+    <nd ref="11332047295"/>
+    <nd ref="634898666"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Swan Inn"/>
+  </way>
+  <way id="1221874480" version="1" timestamp="2023-11-07T22:49:29Z" changeset="143757243" uid="2400834" user="Gyrwa">
+    <nd ref="634898661"/>
+    <nd ref="11332047312"/>
+    <nd ref="11332047309"/>
+    <nd ref="11332047308"/>
+    <nd ref="11332047311"/>
+    <nd ref="11332047310"/>
+    <nd ref="634898661"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="G W Vialls &amp; Son"/>
+    <tag k="opening_hours" v="closed"/>
+    <tag k="shop" v="convenience"/>
   </way>
 
 </osm>

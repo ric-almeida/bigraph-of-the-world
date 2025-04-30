@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="25720265" lat="52.0970535" lon="-0.0446911" version="3" timestamp="2024-08-21T17:37:16Z" changeset="155571032" uid="742701" user="kerr smith"/>
-  <node id="25720268" lat="52.1175501" lon="-0.0533577" version="7" timestamp="2024-07-17T09:23:34Z" changeset="154048839" uid="742701" user="kerr smith"/>
+  <node id="25720261" lat="52.0853168" lon="-0.0397406" version="3" timestamp="2011-12-13T23:00:04Z" changeset="10112063" uid="5926" user="c2r"/>
   <node id="34957234" lat="52.0947188" lon="-0.0061359" version="1" timestamp="2007-08-18T17:28:18Z" changeset="227154" uid="3582" user="davidearl">
     <tag k="created_by" v="JOSM"/>
   </node>
   <node id="132691580" lat="52.0695419" lon="-0.0804971" version="3" timestamp="2010-01-06T16:59:39Z" changeset="3555228" uid="5926" user="c2r"/>
-  <node id="275941081" lat="52.0925833" lon="-0.0426779" version="4" timestamp="2024-08-21T17:37:16Z" changeset="155571032" uid="742701" user="kerr smith"/>
-  <node id="275941731" lat="52.0952843" lon="-0.0438893" version="3" timestamp="2024-08-21T17:37:16Z" changeset="155571032" uid="742701" user="kerr smith"/>
-  <node id="275941800" lat="52.1189037" lon="-0.0539178" version="5" timestamp="2024-07-17T09:23:34Z" changeset="154048839" uid="742701" user="kerr smith"/>
+  <node id="275939752" lat="52.0945512" lon="-0.0435890" version="3" timestamp="2024-08-21T17:37:16Z" changeset="155571032" uid="742701" user="kerr smith"/>
+  <node id="275939769" lat="52.0946114" lon="-0.0442698" version="1" timestamp="2008-07-03T14:36:01Z" changeset="377944" uid="3582" user="davidearl"/>
   <node id="355596358" lat="52.0913460" lon="-0.0305542" version="2" timestamp="2011-01-16T17:56:47Z" changeset="6991153" uid="5926" user="c2r"/>
   <node id="603862185" lat="52.0896895" lon="-0.0802123" version="3" timestamp="2011-03-20T17:16:09Z" changeset="7618977" uid="233042" user="CJY"/>
-  <node id="607014963" lat="52.0617198" lon="-0.0295926" version="4" timestamp="2015-06-15T17:12:02Z" changeset="31988598" uid="2989466" user="Suzy May"/>
   <node id="607015548" lat="52.0614657" lon="-0.0302540" version="3" timestamp="2015-06-15T17:12:04Z" changeset="31988598" uid="2989466" user="Suzy May"/>
+  <node id="1033991630" lat="52.0621728" lon="-0.0300364" version="3" timestamp="2015-06-15T17:12:03Z" changeset="31988598" uid="2989466" user="Suzy May"/>
   <node id="1572820994" lat="52.0978662" lon="-0.0450713" version="2" timestamp="2024-08-21T17:37:16Z" changeset="155571032" uid="742701" user="kerr smith"/>
-  <node id="4153793578" lat="52.0936483" lon="-0.0431855" version="3" timestamp="2024-08-21T17:37:16Z" changeset="155571032" uid="742701" user="kerr smith"/>
   <way id="5106746" version="15" timestamp="2024-12-29T21:35:27Z" changeset="160768762" uid="5229644" user="Nathan_A_RF">
     <nd ref="34957234"/>
     <nd ref="5863950607"/>
@@ -969,6 +966,16 @@
     <tag k="name" v="Fortune Way"/>
     <tag k="source:name" v="dictaphone"/>
   </way>
+  <way id="10320833" version="1" timestamp="2007-10-25T23:21:06Z" changeset="321855" uid="3582" user="davidearl">
+    <nd ref="87344909"/>
+    <nd ref="87344911"/>
+    <nd ref="87344914"/>
+    <nd ref="87344918"/>
+    <nd ref="87344909"/>
+    <tag k="building" v="mill"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="name" v="Bassingbourn Mill"/>
+  </way>
   <way id="10320834" version="4" timestamp="2019-06-20T15:14:43Z" changeset="71449095" uid="1287673" user="sloerunner">
     <nd ref="87344921"/>
     <nd ref="87250739"/>
@@ -1461,6 +1468,31 @@
     <tag k="website" v="https://www.bassingbournvc.net/"/>
     <tag k="wikidata" v="Q4868151"/>
   </way>
+  <way id="172310016" version="1" timestamp="2012-07-20T17:27:30Z" changeset="12384919" uid="714383" user="alterain">
+    <nd ref="1832253854"/>
+    <nd ref="1832253808"/>
+    <nd ref="1832253853"/>
+    <nd ref="1832253819"/>
+    <nd ref="1832253864"/>
+    <nd ref="1832253815"/>
+    <nd ref="1832253841"/>
+    <nd ref="1832253800"/>
+    <nd ref="1832253812"/>
+    <nd ref="1832253844"/>
+    <nd ref="1832253843"/>
+    <nd ref="1832253857"/>
+    <nd ref="1832253856"/>
+    <nd ref="1832253869"/>
+    <nd ref="1832253868"/>
+    <nd ref="1832253805"/>
+    <nd ref="1832253840"/>
+    <nd ref="1832253830"/>
+    <nd ref="1832253829"/>
+    <nd ref="1832253850"/>
+    <nd ref="1832253854"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Greenhouses"/>
+  </way>
   <way id="190295096" version="2" timestamp="2020-06-05T12:20:05Z" changeset="86244619" uid="5173844" user="ndrw6">
     <nd ref="2008971542"/>
     <nd ref="7595532090"/>
@@ -1489,6 +1521,66 @@
     <tag k="name" v="Butterfield Drive"/>
     <tag k="source" v="Bing"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="218714874" version="6" timestamp="2024-08-26T11:19:29Z" changeset="155777088" uid="742701" user="kerr smith">
+    <nd ref="2279427556"/>
+    <nd ref="2279428010"/>
+    <nd ref="2279427821"/>
+    <nd ref="2279428008"/>
+    <nd ref="2279427883"/>
+    <nd ref="2279428005"/>
+    <nd ref="2279427632"/>
+    <nd ref="2279428078"/>
+    <nd ref="12137521282"/>
+    <nd ref="2279427784"/>
+    <nd ref="2279427872"/>
+    <nd ref="2279427959"/>
+    <nd ref="2279427931"/>
+    <nd ref="2279427628"/>
+    <nd ref="2279427889"/>
+    <nd ref="2279427630"/>
+    <nd ref="2279427577"/>
+    <nd ref="2279427556"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter and St Paul (Bassingbourn Parish Church)"/>
+    <tag k="ref:dove" v="14388"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="http://www.bbc.co.uk/cambridgeshire/faith/2004/02/cambs_churches.shtml"/>
+    <tag k="wikidata" v="Q17528238"/>
+  </way>
+  <way id="218714896" version="2" timestamp="2016-07-11T20:41:22Z" changeset="40665568" uid="242345" user="confusedbuffalo">
+    <nd ref="2279427670"/>
+    <nd ref="2279427668"/>
+    <nd ref="2279427917"/>
+    <nd ref="87344858"/>
+    <nd ref="2279427670"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="united_reformed"/>
+    <tag k="name" v="Bassingbourn United Reform Church"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="218714898" version="2" timestamp="2018-11-21T23:20:32Z" changeset="64757902" uid="5173844" user="ndrw6">
+    <nd ref="2279427688"/>
+    <nd ref="2279428018"/>
+    <nd ref="2279427618"/>
+    <nd ref="2279427752"/>
+    <nd ref="2279427790"/>
+    <nd ref="2279427673"/>
+    <nd ref="2279428046"/>
+    <nd ref="2279427898"/>
+    <nd ref="2279427944"/>
+    <nd ref="2279427902"/>
+    <nd ref="2279427927"/>
+    <nd ref="2279427973"/>
+    <nd ref="2279427832"/>
+    <nd ref="2279427688"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Belle"/>
   </way>
   <way id="245524378" version="1" timestamp="2013-11-10T20:50:40Z" changeset="18823494" uid="1247041" user="Essex_Boy">
     <nd ref="355596358"/>
@@ -1582,6 +1674,22 @@
     <nd ref="603861600"/>
     <tag k="highway" v="unclassified"/>
     <tag k="source" v="GPS"/>
+  </way>
+  <way id="647529524" version="1" timestamp="2018-11-21T23:20:24Z" changeset="64757902" uid="5173844" user="ndrw6">
+    <nd ref="6080949285"/>
+    <nd ref="6080949182"/>
+    <nd ref="6080949180"/>
+    <nd ref="6080949181"/>
+    <nd ref="6080949183"/>
+    <nd ref="6080949184"/>
+    <nd ref="6080949179"/>
+    <nd ref="6080949178"/>
+    <nd ref="6080949285"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Hoops"/>
+    <tag k="source:name" v="dictaphone"/>
+    <tag k="wikidata" v="Q26421181"/>
   </way>
   <way id="694148104" version="2" timestamp="2020-06-05T12:20:05Z" changeset="86244619" uid="5173844" user="ndrw6">
     <nd ref="6517053047"/>

@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:11:15Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:25:02Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="214294" lat="52.2253080" lon="0.3216542" version="8" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
   <node id="214933" lat="52.2208480" lon="0.3172499" version="3" timestamp="2025-03-12T11:07:49Z" changeset="163522564" uid="5229644" user="Nathan_A_RF"/>
-  <node id="215061" lat="52.1803807" lon="0.2968644" version="2" timestamp="2024-12-31T12:29:35Z" changeset="160830597" uid="5229644" user="Nathan_A_RF"/>
   <node id="215066" lat="52.1786036" lon="0.2949936" version="4" timestamp="2025-02-24T17:34:02Z" changeset="162902469" uid="5008136" user="JayTurnr">
     <tag k="highway" v="motorway_junction"/>
   </node>
-  <node id="20960481" lat="52.2137106" lon="0.2636475" version="2" timestamp="2024-12-31T22:56:40Z" changeset="160850000" uid="5229644" user="Nathan_A_RF"/>
+  <node id="13337534" lat="52.1832718" lon="0.3005978" version="4" timestamp="2024-12-31T12:29:35Z" changeset="160830597" uid="5229644" user="Nathan_A_RF"/>
+  <node id="20960179" lat="52.2049258" lon="0.2624816" version="2" timestamp="2011-08-12T16:24:18Z" changeset="8997157" uid="504708" user="HillWithSmallFields"/>
+  <node id="20960183" lat="52.1873175" lon="0.3088368" version="8" timestamp="2024-12-31T12:29:35Z" changeset="160830597" uid="5229644" user="Nathan_A_RF">
+    <tag k="crossing:barrier" v="half"/>
+    <tag k="crossing:light" v="yes"/>
+    <tag k="railway" v="level_crossing"/>
+  </node>
+  <node id="20960199" lat="52.2064361" lon="0.2590210" version="3" timestamp="2011-08-13T21:03:42Z" changeset="9009593" uid="504708" user="HillWithSmallFields"/>
+  <node id="20960504" lat="52.2007564" lon="0.2655772" version="3" timestamp="2015-10-20T14:31:45Z" changeset="34756675" uid="281267" user="smb1001"/>
+  <node id="20960535" lat="52.1909195" lon="0.3006712" version="1" timestamp="2006-11-11T16:05:58Z" changeset="153008" uid="3582" user="davidearl">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="20960632" lat="52.1826902" lon="0.2982235" version="3" timestamp="2025-03-15T12:43:30Z" changeset="163649112" uid="5229644" user="Nathan_A_RF"/>
   <node id="21032524" lat="52.1643627" lon="0.3161297" version="2" timestamp="2015-08-19T13:55:47Z" changeset="33440277" uid="281267" user="smb1001"/>
-  <node id="797449562" lat="52.2106947" lon="0.2527515" version="2" timestamp="2018-05-15T14:46:10Z" changeset="58987286" uid="84263" user="Robert Whittaker"/>
   <node id="1415248170" lat="52.1910856" lon="0.3102894" version="4" timestamp="2025-02-24T17:45:27Z" changeset="162902829" uid="5008136" user="JayTurnr"/>
-  <node id="1419341637" lat="52.1864962" lon="0.3107467" version="3" timestamp="2023-06-10T23:08:04Z" changeset="137187773" uid="19243622" user="cam-jpa"/>
-  <node id="9978521968" lat="52.2006584" lon="0.2656352" version="1" timestamp="2022-08-25T20:29:08Z" changeset="125378446" uid="504708" user="HillWithSmallFields"/>
   <way id="3904749" version="17" timestamp="2025-03-15T12:43:30Z" changeset="163649112" uid="5229644" user="Nathan_A_RF">
     <nd ref="20960632"/>
     <nd ref="12666577744"/>
@@ -1018,6 +1025,32 @@
     <tag k="building" v="house"/>
     <tag k="building:levels" v="1"/>
   </way>
+  <way id="125657450" version="6" timestamp="2020-10-10T22:08:14Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="1395129401"/>
+    <nd ref="7609907795"/>
+    <nd ref="7609907793"/>
+    <nd ref="7609907791"/>
+    <nd ref="7609907792"/>
+    <nd ref="7609907794"/>
+    <nd ref="1395129399"/>
+    <nd ref="1395129400"/>
+    <nd ref="1395129482"/>
+    <nd ref="1395129471"/>
+    <nd ref="1395129428"/>
+    <nd ref="1395129417"/>
+    <nd ref="1395129422"/>
+    <nd ref="1395129424"/>
+    <nd ref="1395129465"/>
+    <nd ref="1395129477"/>
+    <nd ref="1395129451"/>
+    <nd ref="1395129401"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St John the Evangelist (Little Wilbraham Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550611"/>
+  </way>
   <way id="125657451" version="6" timestamp="2021-04-22T18:43:34Z" changeset="103431837" uid="1782504" user="corgicity">
     <nd ref="1395129420"/>
     <nd ref="1395129441"/>
@@ -1045,6 +1078,23 @@
     <tag k="addr:street" v="Church Road"/>
     <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>
+  </way>
+  <way id="125662864" version="5" timestamp="2018-01-30T09:49:11Z" changeset="55887879" uid="364" user="Edward">
+    <nd ref="1395143014"/>
+    <nd ref="1395143011"/>
+    <nd ref="1431072290"/>
+    <nd ref="1395143028"/>
+    <nd ref="1395143030"/>
+    <nd ref="1395143026"/>
+    <nd ref="1395143031"/>
+    <nd ref="1395143029"/>
+    <nd ref="1395143024"/>
+    <nd ref="1395143014"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="The Hole in the Wall"/>
+    <tag k="wikidata" v="Q26616202"/>
   </way>
   <way id="125670062" version="4" timestamp="2011-08-14T16:53:58Z" changeset="9018232" uid="504708" user="HillWithSmallFields">
     <nd ref="1395227619"/>
@@ -1567,6 +1617,15 @@
     <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>
   </way>
+  <way id="125775645" version="3" timestamp="2023-07-17T19:52:17Z" changeset="138637233" uid="629" user="Wookey">
+    <nd ref="1396177108"/>
+    <nd ref="1396177189"/>
+    <nd ref="1396177426"/>
+    <nd ref="1396177160"/>
+    <nd ref="1396177108"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Hawk Mill Farm"/>
+  </way>
   <way id="126087237" version="4" timestamp="2011-12-26T19:12:59Z" changeset="10210181" uid="504708" user="HillWithSmallFields">
     <nd ref="1398695436"/>
     <nd ref="1398695485"/>
@@ -1855,6 +1914,61 @@
     <tag k="addr:street" v="Orchard Close"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="127682591" version="2" timestamp="2024-04-28T13:45:48Z" changeset="150619482" uid="504708" user="HillWithSmallFields">
+    <nd ref="1412637266"/>
+    <nd ref="1412637267"/>
+    <nd ref="1412637264"/>
+    <nd ref="1412637250"/>
+    <nd ref="1412637266"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Temple Lodge"/>
+  </way>
+  <way id="127978866" version="2" timestamp="2013-04-28T10:55:13Z" changeset="15894001" uid="281267" user="smb1001">
+    <nd ref="1415248065"/>
+    <nd ref="1415248057"/>
+    <nd ref="1415248066"/>
+    <nd ref="1415248037"/>
+    <nd ref="1415248233"/>
+    <nd ref="1415248151"/>
+    <nd ref="1415248000"/>
+    <nd ref="1415248155"/>
+    <nd ref="1415248248"/>
+    <nd ref="1415247978"/>
+    <nd ref="1415248042"/>
+    <nd ref="1415248033"/>
+    <nd ref="1415248231"/>
+    <nd ref="1415248156"/>
+    <nd ref="1415248071"/>
+    <nd ref="1415248398"/>
+    <nd ref="1415248216"/>
+    <nd ref="1415248083"/>
+    <nd ref="1415247956"/>
+    <nd ref="1415248069"/>
+    <nd ref="1415247985"/>
+    <nd ref="1415247968"/>
+    <nd ref="1415247955"/>
+    <nd ref="1415247993"/>
+    <nd ref="1415248065"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Hall"/>
+  </way>
+  <way id="128419580" version="3" timestamp="2019-03-08T16:50:16Z" changeset="67930305" uid="281267" user="smb1001">
+    <nd ref="1419323937"/>
+    <nd ref="1419323942"/>
+    <nd ref="1419324006"/>
+    <nd ref="1419323969"/>
+    <nd ref="1419323792"/>
+    <nd ref="1419324259"/>
+    <nd ref="1419323822"/>
+    <nd ref="1419324220"/>
+    <nd ref="1419323749"/>
+    <nd ref="1419324009"/>
+    <nd ref="1419323937"/>
+    <tag k="addr:postcode" v="CB8 0UQ"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="social_club"/>
+    <tag k="name" v="Six Mile Bottom Sports &amp; Social Club"/>
+  </way>
   <way id="128419581" version="2" timestamp="2023-01-29T00:14:48Z" changeset="131826273" uid="3999" user="BarryMyles">
     <nd ref="1419324095"/>
     <nd ref="1419324291"/>
@@ -1871,7 +1985,7 @@
     <tag k="ref" v="EASIX"/>
     <tag k="telecom" v="exchange"/>
   </way>
-  <way id="128419614" version="5" timestamp="2020-10-07T10:27:10Z" changeset="92104197" uid="6816132" user="CjMalone">
+  <way id="128419614" version="6" timestamp="2025-04-20T12:43:58Z" changeset="165192221" uid="22792440" user="PayPointPub">
     <nd ref="1419323880"/>
     <nd ref="1419324201"/>
     <nd ref="1419323985"/>
@@ -1891,6 +2005,7 @@
     <tag k="building" v="retail"/>
     <tag k="name" v="Spar"/>
     <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
+    <tag k="paypoint" v="yes"/>
     <tag k="shop" v="convenience"/>
   </way>
   <way id="142060759" version="8" timestamp="2025-02-24T17:36:01Z" changeset="162902546" uid="5008136" user="JayTurnr">
@@ -1969,6 +2084,16 @@
     <tag k="source" v="survey"/>
     <tag k="source:ref" v="local knowledge"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="166359467" version="3" timestamp="2024-04-28T13:45:48Z" changeset="150619482" uid="504708" user="HillWithSmallFields">
+    <nd ref="1778096256"/>
+    <nd ref="1778096166"/>
+    <nd ref="1778096201"/>
+    <nd ref="1778096180"/>
+    <nd ref="1778096256"/>
+    <tag k="addr:postcode" v="CB21 5LD"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Council Farm"/>
   </way>
   <way id="178161861" version="7" timestamp="2024-12-31T12:29:35Z" changeset="160830597" uid="5229644" user="Nathan_A_RF">
     <nd ref="1885342966"/>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:10:10Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:43:30Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="621501" lat="52.2549092" lon="-0.2646610" version="4" timestamp="2023-12-11T17:30:27Z" changeset="145008360" uid="9385857" user="Road5914"/>
   <node id="8583421" lat="52.2906329" lon="-0.2789592" version="4" timestamp="2009-02-22T14:39:47Z" changeset="615292" uid="12674" user="Peter Hibbert"/>
-  <node id="344793444" lat="52.2766893" lon="-0.2583167" version="5" timestamp="2023-12-11T11:21:36Z" changeset="144995612" uid="9385857" user="Road5914"/>
-  <node id="344795206" lat="52.2570610" lon="-0.2640852" version="4" timestamp="2023-12-11T17:30:27Z" changeset="145008360" uid="9385857" user="Road5914"/>
-  <node id="357161885" lat="52.2867454" lon="-0.3085057" version="2" timestamp="2019-05-01T17:07:46Z" changeset="69774069" uid="322785" user="BCNorwich"/>
-  <node id="469926020" lat="52.2542329" lon="-0.2653145" version="7" timestamp="2024-12-31T00:08:04Z" changeset="160814893" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-  </node>
+  <node id="322139716" lat="52.2831926" lon="-0.2919053" version="4" timestamp="2015-08-21T13:47:49Z" changeset="33483902" uid="1876487" user="Jordan Mann"/>
   <node id="1619901987" lat="52.2419652" lon="-0.2786476" version="2" timestamp="2023-12-11T17:30:27Z" changeset="145008360" uid="9385857" user="Road5914"/>
-  <node id="4341078729" lat="52.2816932" lon="-0.2941065" version="2" timestamp="2024-05-10T17:03:09Z" changeset="151156469" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:postcode" v="PE28 0BN"/>
-    <tag k="addr:street" v="West Perry"/>
-    <tag k="addr:suburb" v="Perry"/>
-    <tag k="country" v="GB"/>
-    <tag k="name" v="Highfield Farm"/>
-    <tag k="place" v="farm"/>
-  </node>
   <node id="11409473900" lat="52.2770013" lon="-0.2582962" version="2" timestamp="2024-01-09T18:03:36Z" changeset="146075908" uid="5229644" user="Nathan_A_RF"/>
-  <node id="11409473933" lat="52.2761674" lon="-0.2586122" version="1" timestamp="2023-12-11T11:21:36Z" changeset="144995612" uid="9385857" user="Road5914"/>
+  <node id="11410158881" lat="52.2572801" lon="-0.2636659" version="2" timestamp="2024-01-09T18:22:26Z" changeset="146076373" uid="5229644" user="Nathan_A_RF"/>
+  <node id="12074370959" lat="52.2640233" lon="-0.2616207" version="1" timestamp="2024-07-26T00:54:11Z" changeset="154416314" uid="13341565" user="Falsernet"/>
   <way id="29309498" version="4" timestamp="2021-07-26T07:39:29Z" changeset="108601511" uid="10170570" user="girinj">
     <nd ref="357161835"/>
     <nd ref="8950549818"/>
@@ -331,6 +317,45 @@
     <nd ref="357161835"/>
     <tag k="highway" v="unclassified"/>
   </way>
+  <way id="358902472" version="1" timestamp="2015-07-06T14:07:43Z" changeset="32449683" uid="1302721" user="Glucosamine">
+    <nd ref="3637207026"/>
+    <nd ref="3637207027"/>
+    <nd ref="3637207028"/>
+    <nd ref="3637207029"/>
+    <nd ref="3637207026"/>
+    <tag k="building" v="hut"/>
+    <tag k="name" v="Kingfisher Hide"/>
+  </way>
+  <way id="358903504" version="2" timestamp="2025-01-30T17:36:43Z" changeset="161947048" uid="10420541" user="Thingummy">
+    <nd ref="3637223416"/>
+    <nd ref="3637223417"/>
+    <nd ref="3637223418"/>
+    <nd ref="3637223419"/>
+    <nd ref="3637223416"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="South Lake Waterski Club"/>
+    <tag k="postal_code" v="PE19 5YF"/>
+    <tag k="website" v="https://www.southlakewaterpark.co.uk/"/>
+  </way>
+  <way id="359193528" version="4" timestamp="2023-11-03T18:42:34Z" changeset="143587142" uid="504708" user="HillWithSmallFields">
+    <nd ref="3639493408"/>
+    <nd ref="3639493410"/>
+    <nd ref="3639493421"/>
+    <nd ref="3639493401"/>
+    <nd ref="3639493413"/>
+    <nd ref="3639493417"/>
+    <nd ref="3639493419"/>
+    <nd ref="3639493423"/>
+    <nd ref="3639493407"/>
+    <nd ref="3639493408"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Leonard (Southoe Parish Church)"/>
+    <tag k="ref:dove" v="16680"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527848"/>
+  </way>
   <way id="414449407" version="2" timestamp="2023-01-28T17:46:50Z" changeset="131816781" uid="493595" user="Yorvik Prestigitator">
     <nd ref="4155918154"/>
     <nd ref="4155918163"/>
@@ -363,6 +388,61 @@
     <nd ref="4155918153"/>
     <nd ref="4155918131"/>
     <tag k="highway" v="residential"/>
+  </way>
+  <way id="436234430" version="3" timestamp="2021-03-01T11:25:24Z" changeset="100200350" uid="12452588" user="andrewwbarry">
+    <nd ref="4341078746"/>
+    <nd ref="8475645862"/>
+    <nd ref="4341078749"/>
+    <nd ref="4341078750"/>
+    <nd ref="4341078751"/>
+    <nd ref="4341078752"/>
+    <nd ref="4341078746"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Highfield Farm"/>
+  </way>
+  <way id="436234431" version="2" timestamp="2021-02-09T16:31:56Z" changeset="98989503" uid="12452588" user="andrewwbarry">
+    <nd ref="4341078753"/>
+    <nd ref="4341078754"/>
+    <nd ref="4341078755"/>
+    <nd ref="4341078756"/>
+    <nd ref="4341078753"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Highfield Farm"/>
+  </way>
+  <way id="436234432" version="3" timestamp="2021-03-01T11:25:24Z" changeset="100200350" uid="12452588" user="andrewwbarry">
+    <nd ref="4341078757"/>
+    <nd ref="4341078758"/>
+    <nd ref="4341078759"/>
+    <nd ref="4341078760"/>
+    <nd ref="4341078757"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Highfield Farm"/>
+  </way>
+  <way id="436234433" version="3" timestamp="2021-03-01T11:25:24Z" changeset="100200350" uid="12452588" user="andrewwbarry">
+    <nd ref="4341078761"/>
+    <nd ref="4341078762"/>
+    <nd ref="4341078763"/>
+    <nd ref="4341078764"/>
+    <nd ref="4341078761"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Keeves &amp; Co. Highfield Farm"/>
+  </way>
+  <way id="1013385632" version="1" timestamp="2021-12-18T21:02:02Z" changeset="115109094" uid="90142" user="andy mackey">
+    <nd ref="9349528004"/>
+    <nd ref="9349528003"/>
+    <nd ref="9349528001"/>
+    <nd ref="9349528008"/>
+    <nd ref="9349528002"/>
+    <nd ref="9349528005"/>
+    <nd ref="9349528006"/>
+    <nd ref="9349528009"/>
+    <nd ref="9349528010"/>
+    <nd ref="9349528007"/>
+    <nd ref="9349528011"/>
+    <nd ref="9349528012"/>
+    <nd ref="9349528004"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="The Corner House"/>
   </way>
   <way id="1022336987" version="2" timestamp="2023-01-28T17:46:50Z" changeset="131816781" uid="493595" user="Yorvik Prestigitator">
     <nd ref="9428877550"/>
@@ -717,6 +797,17 @@
     <tag k="ref" v="A1"/>
     <tag k="sidewalk" v="no"/>
     <tag k="source" v="GPS"/>
+  </way>
+  <way id="1355427442" version="1" timestamp="2025-01-30T17:53:59Z" changeset="161947691" uid="10420541" user="Thingummy">
+    <nd ref="12544229494"/>
+    <nd ref="12544229495"/>
+    <nd ref="12544229496"/>
+    <nd ref="12544229497"/>
+    <nd ref="12544229494"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="South Lake Waterski Club"/>
+    <tag k="postal_code" v="PE19 5YF"/>
+    <tag k="website" v="https://www.southlakewaterpark.co.uk/"/>
   </way>
 
 </osm>

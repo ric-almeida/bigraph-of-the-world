@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="35262875" lat="52.3529929" lon="0.0444812" version="15" timestamp="2023-03-02T17:47:16Z" changeset="133222141" uid="10420541" user="Thingummy"/>
+  <node id="35262873" lat="52.3531055" lon="0.0435784" version="10" timestamp="2023-03-02T17:47:16Z" changeset="133222141" uid="10420541" user="Thingummy"/>
+  <node id="76588953" lat="52.3580824" lon="0.0277375" version="3" timestamp="2014-05-20T09:32:53Z" changeset="22441298" uid="1876487" user="Jordan Mann"/>
   <node id="265832522" lat="52.3509897" lon="0.0160905" version="3" timestamp="2025-01-13T12:49:14Z" changeset="161308489" uid="5229644" user="Nathan_A_RF"/>
   <node id="1591696030" lat="52.3645391" lon="0.0209387" version="2" timestamp="2014-05-20T09:32:51Z" changeset="22441298" uid="1876487" user="Jordan Mann"/>
-  <node id="4242953111" lat="52.3568351" lon="0.0335630" version="2" timestamp="2024-05-21T11:41:37Z" changeset="151624094" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="109"/>
-    <tag k="addr:postcode" v="PE28 3QZ"/>
-    <tag k="addr:street" v="Greenfields"/>
-    <tag k="addr:suburb" v="Earith"/>
-  </node>
-  <node id="7578473600" lat="52.3632419" lon="0.0229768" version="2" timestamp="2023-09-25T09:20:06Z" changeset="141721566" uid="5173844" user="ndrw6"/>
-  <node id="12216566091" lat="52.3606894" lon="0.0443180" version="2" timestamp="2024-10-07T08:46:11Z" changeset="157571267" uid="95856" user="john paul jones &amp; gringo">
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:housename" v="Unit 32 Earith Business Park"/>
-    <tag k="addr:postcode" v="PE28 3QF"/>
-    <tag k="addr:street" v="Meadow Drove"/>
-    <tag k="addr:suburb" v="Earith"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="email" v="bar@papworthbrewery.com"/>
-    <tag k="name" v="The Crystal Ship"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="01487 740634"/>
-  </node>
   <way id="4743053" version="5" timestamp="2009-12-29T22:37:24Z" changeset="3485990" uid="7098" user="richardm565">
     <nd ref="30223499"/>
     <nd ref="601167085"/>
@@ -438,6 +418,18 @@
     <tag k="ref" v="A1123"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="47159270" version="2" timestamp="2025-01-29T01:47:19Z" changeset="161879369" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="601166924"/>
+    <nd ref="601166920"/>
+    <nd ref="12540593462"/>
+    <nd ref="601166923"/>
+    <nd ref="601166925"/>
+    <nd ref="601166924"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Earith Village Hall"/>
+  </way>
   <way id="47159277" version="2" timestamp="2020-05-31T18:29:36Z" changeset="86017478" uid="5173844" user="ndrw6">
     <nd ref="601166873"/>
     <nd ref="601166878"/>
@@ -695,6 +687,34 @@
     <nd ref="6153315864"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Meadow Way"/>
+  </way>
+  <way id="656942042" version="1" timestamp="2018-12-22T12:00:16Z" changeset="65691655" uid="5173844" user="ndrw6">
+    <nd ref="6153316078"/>
+    <nd ref="6153316077"/>
+    <nd ref="6153316076"/>
+    <nd ref="6153316075"/>
+    <nd ref="6153316078"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="M.A.S. Nurseries"/>
+    <tag k="shop" v="garden_centre"/>
+  </way>
+  <way id="810277673" version="4" timestamp="2024-03-09T17:30:28Z" changeset="148432786" uid="17453940" user="Hedge0850">
+    <nd ref="7575606784"/>
+    <nd ref="7575606781"/>
+    <nd ref="7575606782"/>
+    <nd ref="7575606779"/>
+    <nd ref="7575606780"/>
+    <nd ref="7575606783"/>
+    <nd ref="7575606784"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:phone" v="01487 840089"/>
+    <tag k="contact:website" v="info@http://www.westviewmarina.co.uk/contact-us/"/>
+    <tag k="name" v="Chandlery Old"/>
+    <tag k="phone" v="+44 1487 841627"/>
+    <tag k="power_supply" v="yes"/>
+    <tag k="seamark:type" v="small_craft_facility"/>
+    <tag k="shop" v="chandler"/>
+    <tag k="website" v="https://www.westviewmarina.co.uk/chandlery/"/>
   </way>
   <way id="810277742" version="1" timestamp="2020-05-31T18:29:36Z" changeset="86017478" uid="5173844" user="ndrw6">
     <nd ref="7575639995"/>

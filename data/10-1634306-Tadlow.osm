@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="37221141" lat="52.1057066" lon="-0.1613315" version="4" timestamp="2012-08-09T21:17:50Z" changeset="12673952" uid="553735" user="Johnmb">
     <tag k="junction" v="totso;crossroads"/>
   </node>
-  <node id="582084223" lat="52.0870884" lon="-0.1359660" version="2" timestamp="2011-03-20T16:49:50Z" changeset="7618676" uid="233042" user="CJY"/>
-  <node id="1180276658" lat="52.1173093" lon="-0.0912759" version="3" timestamp="2025-01-22T12:16:21Z" changeset="161635760" uid="742701" user="kerr smith"/>
-  <node id="3993705272" lat="52.1354727" lon="-0.1334801" version="2" timestamp="2023-07-10T08:53:14Z" changeset="138327324" uid="8951082" user="AndjelaS"/>
+  <node id="37225003" lat="52.1114041" lon="-0.1249590" version="3" timestamp="2023-10-08T10:39:57Z" changeset="142299025" uid="5173844" user="ndrw6"/>
+  <node id="3993705265" lat="52.1334428" lon="-0.1363514" version="2" timestamp="2023-07-10T08:53:14Z" changeset="138327324" uid="8951082" user="AndjelaS"/>
   <way id="5270004" version="18" timestamp="2021-04-16T21:04:54Z" changeset="103081045" uid="242345" user="confusedbuffalo">
     <nd ref="37221141"/>
     <nd ref="37221151"/>
@@ -205,6 +204,20 @@
     <nd ref="3803155886"/>
     <nd ref="260377047"/>
     <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="772206885" version="3" timestamp="2023-11-03T18:42:34Z" changeset="143587142" uid="504708" user="HillWithSmallFields">
+    <nd ref="7208934469"/>
+    <nd ref="7208934468"/>
+    <nd ref="7208934471"/>
+    <nd ref="7208934473"/>
+    <nd ref="7208934469"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Giles"/>
+    <tag k="ref:dove" v="10022"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550773"/>
   </way>
   <way id="1188607350" version="1" timestamp="2023-07-10T08:53:14Z" changeset="138327324" uid="8951082" user="AndjelaS">
     <nd ref="3993705265"/>

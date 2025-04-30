@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:15:13Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:28:05Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="5272020" lat="52.2615061" lon="-0.1662917" version="3" timestamp="2019-08-12T15:20:16Z" changeset="73273765" uid="281267" user="smb1001"/>
-  <node id="25720293" lat="52.2566738" lon="-0.1233450" version="7" timestamp="2024-10-29T17:12:02Z" changeset="158508499" uid="10420541" user="Thingummy"/>
-  <node id="29973063" lat="52.2555377" lon="-0.1251580" version="4" timestamp="2021-07-09T17:54:44Z" changeset="107719667" uid="5173844" user="ndrw6"/>
+  <node id="25720371" lat="52.2752896" lon="-0.1371759" version="3" timestamp="2021-07-09T17:54:44Z" changeset="107719667" uid="5173844" user="ndrw6"/>
+  <node id="29973061" lat="52.2564329" lon="-0.1240336" version="5" timestamp="2024-10-29T17:12:02Z" changeset="158508499" uid="10420541" user="Thingummy"/>
   <node id="242766338" lat="52.2431567" lon="-0.1319246" version="4" timestamp="2014-11-26T20:58:36Z" changeset="27053706" uid="669183" user="Andy_W"/>
-  <node id="623524529" lat="52.2569351" lon="-0.1235263" version="6" timestamp="2024-10-29T17:12:02Z" changeset="158508499" uid="10420541" user="Thingummy"/>
-  <node id="623524534" lat="52.2567478" lon="-0.1233126" version="6" timestamp="2024-10-29T17:12:02Z" changeset="158508499" uid="10420541" user="Thingummy"/>
+  <node id="298540811" lat="52.2690136" lon="-0.1508019" version="2" timestamp="2011-07-07T00:01:05Z" changeset="8653382" uid="90142" user="andy mackey"/>
+  <node id="658879714" lat="52.2571903" lon="-0.1239393" version="5" timestamp="2024-10-29T17:12:02Z" changeset="158508499" uid="10420541" user="Thingummy"/>
   <node id="1499442487" lat="52.2564653" lon="-0.1232508" version="3" timestamp="2024-10-29T17:12:02Z" changeset="158508499" uid="10420541" user="Thingummy"/>
-  <node id="3206858989" lat="52.2454203" lon="-0.1416743" version="3" timestamp="2024-09-26T09:02:43Z" changeset="157116523" uid="10420541" user="Thingummy"/>
+  <node id="3494061156" lat="52.2435151" lon="-0.1325218" version="3" timestamp="2025-03-16T17:30:02Z" changeset="163699191" uid="742701" user="kerr smith"/>
   <node id="4584305908" lat="52.2897759" lon="-0.1475893" version="4" timestamp="2021-07-09T17:57:33Z" changeset="107719667" uid="5173844" user="ndrw6"/>
   <node id="7198832808" lat="52.2791321" lon="-0.1252028" version="2" timestamp="2025-02-22T17:19:05Z" changeset="162825013" uid="669183" user="Andy_W"/>
+  <node id="11780321412" lat="52.2567097" lon="-0.1233225" version="2" timestamp="2024-10-29T17:12:02Z" changeset="158508499" uid="10420541" user="Thingummy"/>
   <way id="4274931" version="14" timestamp="2024-10-19T13:44:54Z" changeset="158091550" uid="322785" user="BCNorwich">
     <nd ref="11780321412"/>
     <nd ref="25720293"/>
@@ -387,32 +387,6 @@
     <tag k="building" v="residential"/>
     <tag k="name" v="The Old Rectory"/>
   </way>
-  <way id="369539216" version="4" timestamp="2025-03-16T17:30:02Z" changeset="163699191" uid="742701" user="kerr smith">
-    <nd ref="1598964649"/>
-    <nd ref="8901513618"/>
-    <nd ref="4504576158"/>
-    <nd ref="8901513619"/>
-    <nd ref="4504576159"/>
-    <nd ref="3733184274"/>
-    <nd ref="1598964588"/>
-    <nd ref="12670489572"/>
-    <nd ref="12670489575"/>
-    <nd ref="12670489573"/>
-    <nd ref="4504576160"/>
-    <nd ref="1261426645"/>
-    <nd ref="3733184281"/>
-    <nd ref="3733184275"/>
-    <nd ref="12670489559"/>
-    <nd ref="12670489562"/>
-    <nd ref="12670489561"/>
-    <nd ref="12670489560"/>
-    <nd ref="1598964649"/>
-    <tag k="addr:city" v="Papworth St Agnes"/>
-    <tag k="addr:postcode" v="CB23 3QX"/>
-    <tag k="addr:street" v="St Ives Road"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Hill Farm"/>
-  </way>
   <way id="392411524" version="11" timestamp="2024-10-19T13:44:54Z" changeset="158091550" uid="322785" user="BCNorwich">
     <nd ref="25720372"/>
     <nd ref="3956355609"/>
@@ -541,6 +515,17 @@
     <tag k="highway" v="tertiary"/>
     <tag k="name" v="Graveley Way"/>
     <tag k="source" v="npe"/>
+  </way>
+  <way id="965672967" version="2" timestamp="2021-08-28T21:35:42Z" changeset="110394811" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="299060667"/>
+    <nd ref="8933441278"/>
+    <nd ref="298542480"/>
+    <nd ref="8933441277"/>
+    <nd ref="8933441280"/>
+    <nd ref="299060667"/>
+    <tag k="building" v="yes"/>
+    <tag k="historic" v="bakery"/>
+    <tag k="name" v="The Bakehouse"/>
   </way>
   <way id="1219756415" version="1" timestamp="2023-10-31T12:34:59Z" changeset="143418593" uid="10420541" user="Thingummy">
     <nd ref="298540811"/>

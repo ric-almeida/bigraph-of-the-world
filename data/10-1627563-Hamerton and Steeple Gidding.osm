@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="107986390" lat="52.3907169" lon="-0.3815464" version="8" timestamp="2011-01-10T06:29:33Z" changeset="6923350" uid="223853" user="Bobious"/>
-  <node id="107986426" lat="52.3839492" lon="-0.3129779" version="8" timestamp="2011-01-10T06:29:18Z" changeset="6923350" uid="223853" user="Bobious"/>
+  <node id="107986405" lat="52.3868544" lon="-0.3362835" version="5" timestamp="2011-01-10T06:28:43Z" changeset="6923350" uid="223853" user="Bobious"/>
+  <node id="312353043" lat="52.4148966" lon="-0.3254431" version="7" timestamp="2011-06-05T18:30:52Z" changeset="8352431" uid="7098" user="richardm565"/>
   <node id="312353685" lat="52.3987038" lon="-0.3010520" version="6" timestamp="2011-01-10T06:30:40Z" changeset="6923350" uid="223853" user="Bobious"/>
-  <node id="322095418" lat="52.4347809" lon="-0.3499767" version="1" timestamp="2008-12-27T19:21:53Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="322101567" lat="52.4245959" lon="-0.3383075" version="1" timestamp="2008-12-27T19:42:45Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="344781679" lat="52.3991377" lon="-0.3028947" version="2" timestamp="2011-01-10T06:31:16Z" changeset="6923350" uid="223853" user="Bobious"/>
-  <node id="347709021" lat="52.4330131" lon="-0.3180294" version="1" timestamp="2009-02-19T21:21:22Z" changeset="558352" uid="91225" user="tms13">
-    <tag k="created_by" v="Merkaartor 0.12"/>
-  </node>
+  <node id="312353969" lat="52.3883505" lon="-0.3488826" version="4" timestamp="2011-01-12T03:27:29Z" changeset="6943811" uid="223853" user="Bobious"/>
   <node id="1096013593" lat="52.4084654" lon="-0.3592717" version="1" timestamp="2011-01-10T06:27:27Z" changeset="6923350" uid="223853" user="Bobious"/>
-  <node id="7997700168" lat="52.3839408" lon="-0.3129699" version="1" timestamp="2020-10-11T18:03:19Z" changeset="92309734" uid="11022773" user="GeoFens"/>
-  <node id="11849987615" lat="52.3787559" lon="-0.3493949" version="1" timestamp="2024-04-26T10:27:53Z" changeset="150531775" uid="10420541" user="Thingummy"/>
   <way id="28222962" version="21" timestamp="2024-04-07T16:30:40Z" changeset="149700743" uid="5229644" user="Nathan_A_RF">
     <nd ref="107986390"/>
     <nd ref="107986395"/>
@@ -500,6 +494,37 @@
     <tag k="source" v="gps survey"/>
     <tag k="source:maxspeed" v="survey 2013-08-08"/>
   </way>
+  <way id="166628329" version="5" timestamp="2023-11-03T18:38:55Z" changeset="143587010" uid="504708" user="HillWithSmallFields">
+    <nd ref="1780654230"/>
+    <nd ref="1780654155"/>
+    <nd ref="1780654298"/>
+    <nd ref="1780654133"/>
+    <nd ref="1780654123"/>
+    <nd ref="1780654270"/>
+    <nd ref="1780654296"/>
+    <nd ref="1780654292"/>
+    <nd ref="1780654169"/>
+    <nd ref="1780654158"/>
+    <nd ref="1780654176"/>
+    <nd ref="1780654266"/>
+    <nd ref="1780654182"/>
+    <nd ref="1780654190"/>
+    <nd ref="1780654297"/>
+    <nd ref="1780654257"/>
+    <nd ref="1780654231"/>
+    <nd ref="1780654222"/>
+    <nd ref="1780654272"/>
+    <nd ref="1780654229"/>
+    <nd ref="1780654230"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="All Saints, Hamerton"/>
+    <tag k="ref:dove" v="10697"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544154"/>
+  </way>
   <way id="181336604" version="4" timestamp="2021-08-26T13:28:05Z" changeset="110289039" uid="242345" user="confusedbuffalo">
     <nd ref="1096013593"/>
     <nd ref="312352974"/>
@@ -540,6 +565,23 @@
     <tag k="name" v="Winwck Road"/>
     <tag k="source:maxspeed" v="survey 2013-08-08"/>
   </way>
+  <way id="449927243" version="3" timestamp="2022-08-01T11:25:14Z" changeset="124340546" uid="8775772" user="LakatosVL">
+    <nd ref="1313306836"/>
+    <nd ref="4468472778"/>
+    <nd ref="4468472776"/>
+    <nd ref="4468472777"/>
+    <nd ref="4468472774"/>
+    <nd ref="4468472775"/>
+    <nd ref="1313306836"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Andrew"/>
+    <tag k="note" v="Church maintained by Redundant Churches Trust"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q7592367"/>
+    <tag k="wikipedia" v="en:St Andrew's Church, Steeple Gidding"/>
+  </way>
   <way id="486079503" version="5" timestamp="2021-04-16T21:04:54Z" changeset="103081045" uid="242345" user="confusedbuffalo">
     <nd ref="107986405"/>
     <nd ref="1096013884"/>
@@ -572,6 +614,60 @@
     <tag k="maxspeed" v="60 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="High Street"/>
+  </way>
+  <way id="664375222" version="1" timestamp="2019-01-18T11:03:52Z" changeset="66422586" uid="52797" user="hofoen">
+    <nd ref="6218398356"/>
+    <nd ref="6218398352"/>
+    <nd ref="6218398350"/>
+    <nd ref="6218398349"/>
+    <nd ref="6218398351"/>
+    <nd ref="6218398355"/>
+    <nd ref="6218398354"/>
+    <nd ref="6218398353"/>
+    <nd ref="6218398356"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="Sycamore Cottage"/>
+    <tag k="wikidata" v="Q26423194"/>
+  </way>
+  <way id="664375223" version="1" timestamp="2019-01-18T11:03:52Z" changeset="66422586" uid="52797" user="hofoen">
+    <nd ref="6218398362"/>
+    <nd ref="6218398361"/>
+    <nd ref="6218398360"/>
+    <nd ref="6218398359"/>
+    <nd ref="6218398358"/>
+    <nd ref="6218398357"/>
+    <nd ref="6218398362"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="Rookery Farmhouse"/>
+    <tag k="wikidata" v="Q26423195"/>
+  </way>
+  <way id="664375224" version="3" timestamp="2024-05-23T10:45:40Z" changeset="151716895" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="6218398368"/>
+    <nd ref="6218398367"/>
+    <nd ref="6218398366"/>
+    <nd ref="6218398363"/>
+    <nd ref="6218398364"/>
+    <nd ref="6218398365"/>
+    <nd ref="6218398368"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 5QN"/>
+    <tag k="addr:suburb" v="Hamerton"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="The Manor House"/>
+    <tag k="wikidata" v="Q26517126"/>
+  </way>
+  <way id="871697500" version="1" timestamp="2020-11-14T19:22:27Z" changeset="94118647" uid="11022773" user="GeoFens">
+    <nd ref="8119222818"/>
+    <nd ref="4788070593"/>
+    <nd ref="8119222819"/>
+    <nd ref="8119222820"/>
+    <nd ref="8119222818"/>
+    <tag k="building" v="cabin"/>
+    <tag k="name" v="Explorer's Cabin"/>
   </way>
 
 </osm>

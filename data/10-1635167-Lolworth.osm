@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:15:13Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:28:05Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="231477" lat="52.2605175" lon="0.0162948" version="4" timestamp="2021-06-29T00:53:48Z" changeset="107114558" uid="5229644" user="Nathan_A_RF"/>
-  <node id="2758993" lat="52.2602165" lon="0.0175109" version="8" timestamp="2021-06-29T00:53:48Z" changeset="107114558" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Bar Hill"/>
-    <tag k="ref" v="25"/>
-  </node>
   <node id="130255411" lat="52.2713876" lon="-0.0087963" version="7" timestamp="2020-05-08T17:34:45Z" changeset="84908256" uid="8198058" user="ACarlotti"/>
-  <node id="2360725748" lat="52.2650076" lon="0.0062786" version="4" timestamp="2022-02-26T13:49:29Z" changeset="117879661" uid="7463" user="kesterlester"/>
-  <node id="4584073008" lat="52.2591187" lon="0.0233781" version="5" timestamp="2022-02-26T14:14:51Z" changeset="117880425" uid="7463" user="kesterlester"/>
   <node id="4584275688" lat="52.2646394" lon="0.0074227" version="3" timestamp="2020-07-04T16:57:10Z" changeset="87536350" uid="16089" user="Ben Harris"/>
-  <node id="5910300097" lat="52.2778338" lon="-0.0240599" version="5" timestamp="2020-05-08T17:34:45Z" changeset="84908256" uid="8198058" user="ACarlotti"/>
   <node id="5910378746" lat="52.2761527" lon="-0.0123656" version="4" timestamp="2021-07-14T06:41:57Z" changeset="107952991" uid="13750939" user="FortQuake"/>
-  <node id="7498891740" lat="52.2720534" lon="-0.0107402" version="3" timestamp="2020-12-21T22:00:20Z" changeset="96218927" uid="2773866" user="kreuzschnabel">
+  <node id="6525687352" lat="52.2684349" lon="-0.0024759" version="8" timestamp="2020-12-21T22:00:20Z" changeset="96218927" uid="2773866" user="kreuzschnabel">
     <tag k="highway" v="motorway_junction"/>
     <tag k="name" v="Swavesey"/>
-    <tag k="ref" v="24B"/>
+    <tag k="ref" v="24A"/>
   </node>
-  <node id="11503234184" lat="52.2705514" lon="-0.0080774" version="1" timestamp="2024-01-09T14:24:03Z" changeset="146069100" uid="5229644" user="Nathan_A_RF"/>
   <way id="4239924" version="41" timestamp="2024-01-09T14:24:03Z" changeset="146069100" uid="5229644" user="Nathan_A_RF">
     <nd ref="231477"/>
     <nd ref="4626811720"/>
@@ -264,6 +255,31 @@
     <tag k="shoulder" v="no"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="131556519" version="9" timestamp="2025-03-07T15:06:58Z" changeset="163331090" uid="742701" user="kerr smith">
+    <nd ref="1447551982"/>
+    <nd ref="11254776255"/>
+    <nd ref="12643523937"/>
+    <nd ref="11254776253"/>
+    <nd ref="11254776252"/>
+    <nd ref="60000780"/>
+    <nd ref="1447552101"/>
+    <nd ref="9444628860"/>
+    <nd ref="9444628858"/>
+    <nd ref="1447555157"/>
+    <nd ref="12643523938"/>
+    <nd ref="9444628859"/>
+    <nd ref="9444628856"/>
+    <nd ref="1447551982"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Lolworth Parish Church)"/>
+    <tag k="ref:dove" v="10483"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="source:name" v="www.acny.org.uk"/>
+    <tag k="wikidata" v="Q17544364"/>
+  </way>
   <way id="131556583" version="9" timestamp="2025-03-07T15:06:58Z" changeset="163331090" uid="742701" user="kerr smith">
     <nd ref="1447556002"/>
     <nd ref="9444624893"/>
@@ -291,6 +307,82 @@
     <tag k="name" v="The Robinson Hall"/>
     <tag k="source" v="Bing"/>
     <tag k="start_date" v="1960"/>
+  </way>
+  <way id="131587902" version="2" timestamp="2017-06-16T10:09:09Z" changeset="49586696" uid="5844915" user="University Of Cambridge Space Data Team">
+    <nd ref="1447958708"/>
+    <nd ref="1447958693"/>
+    <nd ref="1447958696"/>
+    <nd ref="1447958692"/>
+    <nd ref="1447958708"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Grain Store (Yarmouth Farm)"/>
+    <tag k="operator" v="University of Cambridge"/>
+    <tag k="ref" v="F090"/>
+  </way>
+  <way id="131587903" version="2" timestamp="2017-06-16T10:09:09Z" changeset="49586696" uid="5844915" user="University Of Cambridge Space Data Team">
+    <nd ref="1447958685"/>
+    <nd ref="1447958697"/>
+    <nd ref="1447958687"/>
+    <nd ref="1447958688"/>
+    <nd ref="1447958712"/>
+    <nd ref="1447958685"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Pole Barn (Yarmouth Farm)"/>
+    <tag k="operator" v="University of Cambridge"/>
+    <tag k="ref" v="F092"/>
+  </way>
+  <way id="131587904" version="3" timestamp="2024-04-27T12:57:03Z" changeset="150578691" uid="742701" user="kerr smith">
+    <nd ref="1447958682"/>
+    <nd ref="11854309882"/>
+    <nd ref="1447958701"/>
+    <nd ref="1447958705"/>
+    <nd ref="11854309880"/>
+    <nd ref="1447958703"/>
+    <nd ref="1447958710"/>
+    <nd ref="1447958682"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Stables and Stores (Yarmouth Farm)"/>
+    <tag k="operator" v="University of Cambridge"/>
+    <tag k="ref" v="F095"/>
+  </way>
+  <way id="131587905" version="3" timestamp="2024-04-27T12:57:03Z" changeset="150578691" uid="742701" user="kerr smith">
+    <nd ref="11854309882"/>
+    <nd ref="11854309881"/>
+    <nd ref="1447958711"/>
+    <nd ref="1447958714"/>
+    <nd ref="1447958687"/>
+    <nd ref="1447958697"/>
+    <nd ref="1447958701"/>
+    <nd ref="11854309882"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="General Purpose Implement Shed (Yarmouth Farm)"/>
+    <tag k="operator" v="University of Cambridge"/>
+    <tag k="ref" v="F091"/>
+  </way>
+  <way id="131587907" version="3" timestamp="2017-06-16T10:09:09Z" changeset="49586696" uid="5844915" user="University Of Cambridge Space Data Team">
+    <nd ref="1447958695"/>
+    <nd ref="3139059554"/>
+    <nd ref="1447958688"/>
+    <nd ref="1447958687"/>
+    <nd ref="1447958714"/>
+    <nd ref="1447958695"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Pole Barn (Yarmouth Farm)"/>
+    <tag k="operator" v="University of Cambridge"/>
+    <tag k="ref" v="F092"/>
+  </way>
+  <way id="131587908" version="2" timestamp="2017-06-16T10:09:09Z" changeset="49586696" uid="5844915" user="University Of Cambridge Space Data Team">
+    <nd ref="1447958709"/>
+    <nd ref="1447958689"/>
+    <nd ref="1447958700"/>
+    <nd ref="1447958691"/>
+    <nd ref="1447958702"/>
+    <nd ref="1447958684"/>
+    <nd ref="1447958709"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Stables and Stores (Yarmouth Farm)"/>
+    <tag k="operator" v="University of Cambridge"/>
+    <tag k="ref" v="F095"/>
   </way>
   <way id="463117455" version="12" timestamp="2024-12-31T18:01:26Z" changeset="160843605" uid="5229644" user="Nathan_A_RF">
     <nd ref="4584275657"/>

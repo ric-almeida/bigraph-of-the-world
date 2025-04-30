@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="5268538" lat="52.3905163" lon="0.1490600" version="4" timestamp="2024-05-18T22:31:21Z" changeset="151513900" uid="5173844" user="ndrw6"/>
+  <node id="30745414" lat="52.3876851" lon="0.1840059" version="18" timestamp="2023-08-03T21:12:53Z" changeset="139413485" uid="13341565" user="Falsernet"/>
   <node id="35263096" lat="52.3873543" lon="0.1841728" version="20" timestamp="2023-08-03T21:12:53Z" changeset="139413485" uid="13341565" user="Falsernet"/>
-  <node id="295850830" lat="52.3914560" lon="0.2035210" version="3" timestamp="2014-11-15T23:14:48Z" changeset="26809337" uid="669183" user="Andy_W"/>
-  <node id="366722690" lat="52.3916588" lon="0.2045842" version="3" timestamp="2014-11-15T23:14:48Z" changeset="26809337" uid="669183" user="Andy_W"/>
+  <node id="1120502759" lat="52.3818105" lon="0.1503572" version="2" timestamp="2020-01-19T20:40:35Z" changeset="79764824" uid="669183" user="Andy_W"/>
   <node id="1120502767" lat="52.3906105" lon="0.1438776" version="3" timestamp="2024-05-18T22:31:21Z" changeset="151513900" uid="5173844" user="ndrw6"/>
+  <node id="1592870113" lat="52.3904714" lon="0.1501891" version="2" timestamp="2020-01-19T20:40:35Z" changeset="79764824" uid="669183" user="Andy_W"/>
   <node id="1593003822" lat="52.3940667" lon="0.1774481" version="2" timestamp="2015-03-10T13:39:53Z" changeset="29384184" uid="669183" user="Andy_W"/>
+  <node id="2430672609" lat="52.3905156" lon="0.1467613" version="2" timestamp="2020-01-19T20:48:49Z" changeset="79765029" uid="669183" user="Andy_W"/>
   <node id="2503131144" lat="52.3668070" lon="0.1510835" version="3" timestamp="2020-08-19T18:08:34Z" changeset="89648871" uid="5173844" user="ndrw6"/>
   <node id="4666369054" lat="52.3779555" lon="0.1724445" version="1" timestamp="2017-02-05T23:25:50Z" changeset="45842293" uid="493595" user="Yorvik Prestigitator"/>
-  <node id="7994829825" lat="52.3917955" lon="0.2053065" version="1" timestamp="2020-10-10T12:00:22Z" changeset="92273462" uid="10252553" user="chaubean"/>
-  <node id="11087067545" lat="52.3888203" lon="0.2270664" version="1" timestamp="2023-08-03T20:12:21Z" changeset="139411839" uid="13341565" user="Falsernet"/>
+  <node id="11087162732" lat="52.3877608" lon="0.1846608" version="1" timestamp="2023-08-03T21:12:53Z" changeset="139413485" uid="13341565" user="Falsernet"/>
   <way id="24941041" version="7" timestamp="2024-03-02T12:25:11Z" changeset="148129188" uid="5173844" user="ndrw6">
     <nd ref="1593003691"/>
     <nd ref="271034765"/>
@@ -188,6 +188,27 @@
     <tag k="source:maxspeed" v="Stats19"/>
     <tag k="source:ref" v="dictaphone"/>
   </way>
+  <way id="145989152" version="3" timestamp="2020-10-10T22:07:59Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="1593003711"/>
+    <nd ref="1593003712"/>
+    <nd ref="1593003713"/>
+    <nd ref="1593003714"/>
+    <nd ref="1593003708"/>
+    <nd ref="1593003702"/>
+    <nd ref="1593003694"/>
+    <nd ref="1593003693"/>
+    <nd ref="1593003697"/>
+    <nd ref="1593003696"/>
+    <nd ref="1593003706"/>
+    <nd ref="1593003704"/>
+    <nd ref="1593003711"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter (Wentworth Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543630"/>
+  </way>
   <way id="220792532" version="3" timestamp="2023-08-03T21:12:53Z" changeset="139413485" uid="13341565" user="Falsernet">
     <nd ref="35263096"/>
     <nd ref="11087162728"/>
@@ -324,6 +345,36 @@
     <tag k="bridge" v="yes"/>
     <tag k="highway" v="unclassified"/>
     <tag k="layer" v="1"/>
+  </way>
+  <way id="637877046" version="3" timestamp="2024-04-22T22:51:38Z" changeset="150369039" uid="6816132" user="CjMalone">
+    <nd ref="6012776135"/>
+    <nd ref="6012776132"/>
+    <nd ref="6012776130"/>
+    <nd ref="6012776131"/>
+    <nd ref="6012776133"/>
+    <nd ref="6012776134"/>
+    <nd ref="6012776135"/>
+    <tag k="brand" v="Londis"/>
+    <tag k="brand:wikidata" v="Q21008564"/>
+    <tag k="brand:wikipedia" v="en:Londis (United Kingdom)"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Londis"/>
+    <tag k="operator" v="Motor Fuel Group"/>
+    <tag k="operator:website" v="https://www.motorfuelgroup.com/locations/witcham-toll-fs734/"/>
+    <tag k="operator:wikidata" v="Q107271358"/>
+    <tag k="shop" v="convenience"/>
+  </way>
+  <way id="818052636" version="2" timestamp="2022-03-20T15:41:02Z" changeset="118700964" uid="11022773" user="GeoFens">
+    <nd ref="7640226142"/>
+    <nd ref="7640226139"/>
+    <nd ref="7640226137"/>
+    <nd ref="7640226138"/>
+    <nd ref="7640226140"/>
+    <nd ref="7640226141"/>
+    <nd ref="7640226142"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Scotts Farm Shop"/>
+    <tag k="shop" v="farm"/>
   </way>
   <way id="1194510472" version="1" timestamp="2023-08-03T21:12:53Z" changeset="139413485" uid="13341565" user="Falsernet">
     <nd ref="1592870089"/>

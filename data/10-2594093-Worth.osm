@@ -1,40 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:02:56Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-26T22:27:44Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="27411724" lat="51.2540655" lon="1.3895480" version="4" timestamp="2023-06-23T05:31:46Z" changeset="137671609" uid="11396838" user="Denomyc"/>
-  <node id="35963176" lat="51.2364125" lon="1.3556450" version="4" timestamp="2011-05-11T21:09:58Z" changeset="8116674" uid="7037" user="Gregory Williams"/>
+  <node id="27411055" lat="51.2655202" lon="1.3817215" version="2" timestamp="2009-11-05T17:09:58Z" changeset="3042062" uid="4559" user="RichardB"/>
+  <node id="298686802" lat="51.2550113" lon="1.3387298" version="2" timestamp="2011-05-11T21:09:58Z" changeset="8116674" uid="7037" user="Gregory Williams"/>
   <node id="582696449" lat="51.2617264" lon="1.3347081" version="3" timestamp="2011-05-11T21:09:53Z" changeset="8116674" uid="7037" user="Gregory Williams"/>
   <node id="874319412" lat="51.2695235" lon="1.3648822" version="1" timestamp="2010-08-22T18:38:31Z" changeset="5564166" uid="7037" user="Gregory Williams"/>
-  <node id="1111436330" lat="51.2603838" lon="1.3354124" version="3" timestamp="2023-11-05T12:10:40Z" changeset="143646987" uid="5008136" user="JayTurnr">
-    <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
-    <tag k="crossing:markings" v="surface"/>
-    <tag k="highway" v="crossing"/>
-    <tag k="tactile_paving" v="yes"/>
-  </node>
-  <node id="1277076405" lat="51.2613121" lon="1.3282657" version="5" timestamp="2020-11-13T04:24:59Z" changeset="94030527" uid="5229644" user="Nathan_A_RF"/>
+  <node id="1277076422" lat="51.2612576" lon="1.3284399" version="5" timestamp="2020-11-13T04:24:59Z" changeset="94030527" uid="5229644" user="Nathan_A_RF"/>
   <node id="1277076429" lat="51.2613784" lon="1.3285384" version="5" timestamp="2020-11-13T04:24:59Z" changeset="94030527" uid="5229644" user="Nathan_A_RF"/>
-  <node id="1280659501" lat="51.2611094" lon="1.3281358" version="1" timestamp="2011-05-11T20:26:21Z" changeset="8116207" uid="7037" user="Gregory Williams"/>
-  <node id="1504307692" lat="51.2571625" lon="1.3491131" version="4" timestamp="2022-01-19T10:14:05Z" changeset="116334628" uid="7037" user="Gregory Williams">
-    <tag k="addr:city" v="Sandwich"/>
-    <tag k="addr:postcode" v="CT14 0DF"/>
-    <tag k="addr:street" v="The Street"/>
-    <tag k="addr:village" v="Worth"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="749894"/>
-    <tag k="name" v="St Crispin Inn"/>
-  </node>
-  <node id="1675973330" lat="51.2564436" lon="1.3469427" version="4" timestamp="2022-01-19T10:14:05Z" changeset="116334628" uid="7037" user="Gregory Williams">
-    <tag k="addr:city" v="Sandwich"/>
-    <tag k="addr:postcode" v="CT14 0DE"/>
-    <tag k="addr:street" v="The Street"/>
-    <tag k="addr:village" v="Worth"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="528928"/>
-    <tag k="name" v="The Blue Pigeon"/>
-  </node>
+  <node id="1280733684" lat="51.2396024" lon="1.3532190" version="1" timestamp="2011-05-11T21:09:48Z" changeset="8116674" uid="7037" user="Gregory Williams"/>
   <node id="1796911731" lat="51.2538509" lon="1.3194701" version="5" timestamp="2024-08-23T16:54:36Z" changeset="155663276" uid="11471297" user="Palgrave Peter"/>
   <node id="12134062068" lat="51.2499642" lon="1.3376249" version="1" timestamp="2024-08-24T15:22:32Z" changeset="155701899" uid="11471297" user="Palgrave Peter"/>
   <way id="4471740" version="15" timestamp="2021-09-03T14:43:45Z" changeset="110682330" uid="5229644" user="Nathan_A_RF">
@@ -64,10 +39,11 @@
     <tag k="toll" v="yes"/>
     <tag k="toll:bicycle" v="no"/>
   </way>
-  <way id="4472452" version="3" timestamp="2023-11-15T10:11:08Z" changeset="144044896" uid="10599253" user="DanGlover">
+  <way id="4472452" version="4" timestamp="2025-04-20T11:25:55Z" changeset="165188999" uid="7037" user="Gregory Williams">
     <nd ref="27416220"/>
     <nd ref="408447"/>
     <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="maxwidth" v="6'6&quot;"/>
     <tag k="maxwidth:conditional" v="none @ destination"/>
     <tag k="name" v="Felderland Lane"/>
@@ -120,13 +96,15 @@
     <tag k="maxspeed" v="40 mph"/>
     <tag k="ref" v="A258"/>
   </way>
-  <way id="27217042" version="3" timestamp="2010-09-30T16:25:37Z" changeset="5921378" uid="7037" user="Gregory Williams">
+  <way id="27217042" version="4" timestamp="2025-04-23T10:38:55Z" changeset="165326357" uid="7037" user="Gregory Williams">
     <nd ref="298686749"/>
     <nd ref="298686748"/>
     <tag k="bridge" v="yes"/>
     <tag k="highway" v="unclassified"/>
     <tag k="layer" v="1"/>
     <tag k="lcn" v="proposed"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Goretop Lane"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
   </way>
@@ -156,7 +134,7 @@
     <tag k="name" v="Goretop Lane"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
   </way>
-  <way id="27217046" version="5" timestamp="2024-06-11T13:13:08Z" changeset="152542969" uid="11471297" user="Palgrave Peter">
+  <way id="27217046" version="6" timestamp="2025-04-23T10:38:55Z" changeset="165326357" uid="7037" user="Gregory Williams">
     <nd ref="298686761"/>
     <nd ref="298686760"/>
     <nd ref="298686759"/>
@@ -165,6 +143,8 @@
     <nd ref="298686749"/>
     <tag k="highway" v="unclassified"/>
     <tag k="lcn" v="proposed"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Goretop Lane"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
   </way>
@@ -325,7 +305,7 @@
     <tag k="ref" v="A258"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
   </way>
-  <way id="44388997" version="4" timestamp="2021-04-09T04:56:48Z" changeset="102604360" uid="10170574" user="asnghpi">
+  <way id="44388997" version="5" timestamp="2025-04-23T07:47:55Z" changeset="165318280" uid="7037" user="Gregory Williams">
     <nd ref="564185015"/>
     <nd ref="1280733602"/>
     <nd ref="1280733529"/>
@@ -347,10 +327,12 @@
     <nd ref="564185033"/>
     <nd ref="564185035"/>
     <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Homemead Lane"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="44388999" version="6" timestamp="2024-08-23T16:54:36Z" changeset="155663276" uid="11471297" user="Palgrave Peter">
+  <way id="44388999" version="7" timestamp="2025-04-20T11:23:33Z" changeset="165188907" uid="7037" user="Gregory Williams">
     <nd ref="408612"/>
     <nd ref="408613"/>
     <nd ref="408614"/>
@@ -365,6 +347,8 @@
     <nd ref="408623"/>
     <tag k="highway" v="unclassified"/>
     <tag k="lcn" v="proposed"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Mill Lane"/>
   </way>
   <way id="45751077" version="7" timestamp="2021-08-27T11:52:01Z" changeset="110338149" uid="242345" user="confusedbuffalo">
@@ -528,7 +512,7 @@
     <tag k="toll" v="yes"/>
     <tag k="toll:bicycle" v="no"/>
   </way>
-  <way id="95795020" version="11" timestamp="2023-06-23T05:31:46Z" changeset="137671609" uid="11396838" user="Denomyc">
+  <way id="95795020" version="12" timestamp="2025-04-23T15:16:24Z" changeset="165339114" uid="22685556" user="AH9999">
     <nd ref="27411055"/>
     <nd ref="556786372"/>
     <nd ref="556786371"/>
@@ -610,7 +594,7 @@
     <tag k="bicycle" v="permissive"/>
     <tag k="highway" v="unclassified"/>
     <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed" v="60 mph"/>
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="95795022" version="4" timestamp="2021-09-03T14:43:45Z" changeset="110682330" uid="5229644" user="Nathan_A_RF">
@@ -820,7 +804,7 @@
     <nd ref="1106284463"/>
     <tag k="highway" v="unclassified"/>
   </way>
-  <way id="148578660" version="1" timestamp="2012-02-03T11:43:18Z" changeset="10575386" uid="7037" user="Gregory Williams">
+  <way id="148578660" version="2" timestamp="2025-04-20T11:27:20Z" changeset="165189055" uid="7037" user="Gregory Williams">
     <nd ref="1616614975"/>
     <nd ref="1616615006"/>
     <nd ref="408452"/>
@@ -834,9 +818,10 @@
     <nd ref="1616614984"/>
     <nd ref="1616614968"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Felderland Close"/>
   </way>
-  <way id="168425118" version="7" timestamp="2023-11-15T10:11:08Z" changeset="144044896" uid="10599253" user="DanGlover">
+  <way id="168425118" version="8" timestamp="2025-04-20T11:25:55Z" changeset="165188999" uid="7037" user="Gregory Williams">
     <nd ref="1796911731"/>
     <nd ref="1616614901"/>
     <nd ref="1616614902"/>
@@ -865,7 +850,7 @@
     <nd ref="27416220"/>
     <tag k="highway" v="tertiary"/>
     <tag k="lit" v="yes"/>
-    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="maxwidth" v="6'6&quot;"/>
     <tag k="maxwidth:conditional" v="none @ destination"/>
     <tag k="name" v="Felderland Lane"/>
@@ -884,45 +869,104 @@
     <tag k="maxspeed" v="40 mph"/>
     <tag k="name" v="Deal Road"/>
   </way>
-  <way id="389833917" version="6" timestamp="2024-06-11T13:13:08Z" changeset="152542969" uid="11471297" user="Palgrave Peter">
-    <nd ref="3929925489"/>
-    <nd ref="3929925485"/>
-    <nd ref="3929925486"/>
-    <nd ref="3929925488"/>
-    <nd ref="3929925490"/>
-    <nd ref="3929925491"/>
-    <nd ref="3929925492"/>
-    <nd ref="3929925489"/>
-    <tag k="addr:city" v="Worth"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="CT14 0DF"/>
-    <tag k="addr:street" v="The Street"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="70"/>
-    <tag k="contact:phone" v="+44 1304 612148"/>
-    <tag k="contact:website" v="http://www.worthprimary.co.uk/"/>
-    <tag k="fhrs:id" v="254264"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Worth Primary School"/>
-    <tag k="ref:GB:uprn" v="100062620829"/>
-    <tag k="ref:edubase" v="148370"/>
-    <tag k="ref:edubase:group" v="17199"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="Deal Education Alliance For Learning Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="wikidata" v="Q67148898"/>
+  <way id="533345350" version="3" timestamp="2024-06-11T13:13:08Z" changeset="152542969" uid="11471297" user="Palgrave Peter">
+    <nd ref="1504307681"/>
+    <nd ref="11972124243"/>
+    <nd ref="5174458974"/>
+    <nd ref="5174458976"/>
+    <nd ref="5174458975"/>
+    <nd ref="1504307681"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter &amp; St Paul"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17557815"/>
   </way>
-  <way id="693866960" version="1" timestamp="2019-06-01T05:11:41Z" changeset="70827981" uid="8369526" user="anilredd">
-    <nd ref="6514601479"/>
-    <nd ref="6514601480"/>
-    <nd ref="6514601481"/>
-    <nd ref="6514601482"/>
-    <nd ref="6514601483"/>
-    <nd ref="6514601484"/>
+  <way id="784714384" version="5" timestamp="2025-04-23T10:34:49Z" changeset="165326184" uid="7037" user="Gregory Williams">
+    <nd ref="7331068430"/>
+    <nd ref="11085154326"/>
+    <nd ref="11085154327"/>
+    <nd ref="11085154328"/>
+    <nd ref="12778301927"/>
+    <nd ref="11085154329"/>
+    <nd ref="11085154330"/>
+    <nd ref="11085154331"/>
+    <nd ref="7331068438"/>
+    <nd ref="7331068439"/>
+    <nd ref="11085154332"/>
+    <nd ref="7331068440"/>
+    <nd ref="7331068441"/>
+    <nd ref="8886802540"/>
+    <nd ref="7331068442"/>
+    <nd ref="7331068443"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="St. Crispin Close"/>
+  </way>
+  <way id="784714385" version="3" timestamp="2025-04-23T10:32:45Z" changeset="165326078" uid="7037" user="Gregory Williams">
+    <nd ref="7331068439"/>
+    <nd ref="11085154333"/>
+    <nd ref="7331068444"/>
+    <nd ref="7331068445"/>
+    <nd ref="11085154334"/>
+    <nd ref="11085154335"/>
+    <nd ref="11085154336"/>
+    <nd ref="11085154337"/>
+    <nd ref="11085154338"/>
+    <nd ref="11085154339"/>
+    <nd ref="11085154340"/>
+    <nd ref="7331068446"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="St. Crispin Close"/>
+  </way>
+  <way id="864541297" version="3" timestamp="2025-04-23T10:32:45Z" changeset="165326078" uid="7037" user="Gregory Williams">
+    <nd ref="8058197620"/>
+    <nd ref="11085154320"/>
+    <nd ref="8058197621"/>
+    <nd ref="12778275654"/>
+    <nd ref="7331068436"/>
+    <nd ref="12056036410"/>
+    <nd ref="7331068435"/>
+    <nd ref="11085154321"/>
+    <nd ref="11085154322"/>
+    <nd ref="7331068434"/>
+    <nd ref="11085154323"/>
+    <nd ref="7331068433"/>
+    <nd ref="7331068432"/>
+    <nd ref="7331068431"/>
+    <nd ref="7331068430"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Sole Close"/>
+  </way>
+  <way id="868400060" version="1" timestamp="2020-11-08T18:05:32Z" changeset="93751970" uid="543072" user="lamacchiacosta">
+    <nd ref="8094364798"/>
+    <nd ref="8094364799"/>
+    <nd ref="8094364800"/>
+    <nd ref="8094364801"/>
+    <nd ref="8094364802"/>
+    <nd ref="8094364803"/>
+    <nd ref="8094364804"/>
+    <nd ref="8094364805"/>
+    <nd ref="8094364806"/>
+    <nd ref="8094364807"/>
+    <nd ref="8094364808"/>
+    <nd ref="8094364809"/>
+    <nd ref="8094364810"/>
+    <nd ref="8094364811"/>
+    <nd ref="8094364812"/>
+    <nd ref="8094364813"/>
+    <nd ref="8094364814"/>
+    <nd ref="8094364815"/>
+    <nd ref="8094364816"/>
+    <nd ref="8094432217"/>
+    <nd ref="8094432218"/>
+    <nd ref="8094432219"/>
+    <nd ref="8094364798"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sandwich Bay bird Observatory"/>
   </way>
   <way id="947156249" version="2" timestamp="2021-09-03T14:43:45Z" changeset="110682330" uid="5229644" user="Nathan_A_RF">
     <nd ref="1106284420"/>
@@ -935,6 +979,15 @@
     <tag k="source:name" v="OS_OpenData_Locator"/>
     <tag k="toll" v="yes"/>
     <tag k="toll:bicycle" v="no"/>
+  </way>
+  <way id="960649529" version="2" timestamp="2025-04-23T10:32:45Z" changeset="165326078" uid="7037" user="Gregory Williams">
+    <nd ref="8886802540"/>
+    <nd ref="8886802541"/>
+    <nd ref="8886802542"/>
+    <nd ref="8886802543"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="St. Crispin Close"/>
   </way>
   <way id="979347832" version="1" timestamp="2021-09-03T14:43:45Z" changeset="110682330" uid="5229644" user="Nathan_A_RF">
     <nd ref="9060462694"/>
@@ -984,6 +1037,17 @@
     <tag k="maxspeed" v="60 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
   </way>
+  <way id="1175898952" version="2" timestamp="2024-06-08T16:29:41Z" changeset="152422436" uid="11471297" user="Palgrave Peter">
+    <nd ref="10926246106"/>
+    <nd ref="10926246107"/>
+    <nd ref="10926246108"/>
+    <nd ref="10926246109"/>
+    <nd ref="10926246106"/>
+    <tag k="building" v="yes"/>
+    <tag k="club" v="sport"/>
+    <tag k="name" v="Deal and Sandwich Shooting Club"/>
+    <tag k="sport" v="shooting"/>
+  </way>
   <way id="1177974840" version="2" timestamp="2023-12-28T18:16:10Z" changeset="145632024" uid="5229644" user="Nathan_A_RF">
     <nd ref="1277076408"/>
     <nd ref="1277076422"/>
@@ -1000,6 +1064,23 @@
     <tag k="name" v="Deal Road"/>
     <tag k="ref" v="A258"/>
   </way>
+  <way id="1290467800" version="1" timestamp="2024-06-08T16:29:41Z" changeset="152422436" uid="11471297" user="Palgrave Peter">
+    <nd ref="11964656485"/>
+    <nd ref="11964656486"/>
+    <nd ref="11964656487"/>
+    <nd ref="11964656492"/>
+    <nd ref="11964656493"/>
+    <nd ref="11964656488"/>
+    <nd ref="11964656494"/>
+    <nd ref="11964656489"/>
+    <nd ref="11964656490"/>
+    <nd ref="11964656491"/>
+    <nd ref="11964656485"/>
+    <tag k="building" v="yes"/>
+    <tag k="club" v="sport"/>
+    <tag k="name" v="Sandwich Bay Sailing and Water Ski club"/>
+    <tag k="sport" v="sailing;water_ski"/>
+  </way>
   <way id="1291320590" version="2" timestamp="2024-07-15T19:43:31Z" changeset="153987359" uid="493595" user="Yorvik Prestigitator">
     <nd ref="298686801"/>
     <nd ref="11972124247"/>
@@ -1013,7 +1094,14 @@
     <tag k="name" v="The Street"/>
     <tag k="sidewalk" v="no"/>
   </way>
-  <way id="1310870678" version="1" timestamp="2024-08-24T15:22:32Z" changeset="155701899" uid="11471297" user="Palgrave Peter">
+  <way id="1301610940" version="2" timestamp="2025-04-23T10:32:45Z" changeset="165326078" uid="7037" user="Gregory Williams">
+    <nd ref="11085154337"/>
+    <nd ref="12056036396"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="St. Crispin Close"/>
+  </way>
+  <way id="1310870678" version="2" timestamp="2025-04-20T11:23:33Z" changeset="165188907" uid="7037" user="Gregory Williams">
     <nd ref="12134062068"/>
     <nd ref="1616614887"/>
     <nd ref="1616614891"/>
@@ -1022,8 +1110,29 @@
     <nd ref="408612"/>
     <tag k="highway" v="unclassified"/>
     <tag k="lcn" v="proposed"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Hay Lane"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="1380249911" version="1" timestamp="2025-04-23T10:32:45Z" changeset="165326078" uid="7037" user="Gregory Williams">
+    <nd ref="7331068430"/>
+    <nd ref="11085154325"/>
+    <nd ref="11085154324"/>
+    <nd ref="12778275658"/>
+    <nd ref="12056036402"/>
+    <nd ref="12056036393"/>
+    <nd ref="7331068429"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="St. Crispin Close"/>
+  </way>
+  <way id="1380249912" version="1" timestamp="2025-04-23T10:32:45Z" changeset="165326078" uid="7037" user="Gregory Williams">
+    <nd ref="7331068436"/>
+    <nd ref="7331068437"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Sole Close"/>
   </way>
 
 </osm>

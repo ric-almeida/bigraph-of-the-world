@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:11:15Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:25:02Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="13337542" lat="52.1808631" lon="0.2979124" version="2" timestamp="2012-08-28T15:12:13Z" changeset="12893749" uid="504708" user="HillWithSmallFields"/>
   <node id="21032521" lat="52.1639120" lon="0.3151406" version="2" timestamp="2008-10-17T21:10:03Z" changeset="398617" uid="17576" user="Laverock"/>
+  <node id="21032524" lat="52.1643627" lon="0.3161297" version="2" timestamp="2015-08-19T13:55:47Z" changeset="33440277" uid="281267" user="smb1001"/>
   <node id="27408089" lat="52.1479867" lon="0.3445522" version="3" timestamp="2010-04-08T13:52:35Z" changeset="4364124" uid="66869" user="Simon Daw"/>
-  <node id="27427278" lat="52.1383504" lon="0.3982085" version="4" timestamp="2015-08-20T15:27:39Z" changeset="33463899" uid="281267" user="smb1001"/>
-  <node id="96534443" lat="52.1398799" lon="0.3570406" version="2" timestamp="2010-06-30T21:53:07Z" changeset="5117104" uid="5926" user="c2r"/>
-  <node id="264657719" lat="52.1653165" lon="0.3423129" version="3" timestamp="2024-07-04T12:46:48Z" changeset="153545668" uid="8775772" user="LakatosVL"/>
-  <node id="264658796" lat="52.1389728" lon="0.3986953" version="2" timestamp="2015-08-20T15:27:39Z" changeset="33463899" uid="281267" user="smb1001"/>
+  <node id="27408141" lat="52.1492001" lon="0.3466608" version="4" timestamp="2011-01-25T20:33:06Z" changeset="7087734" uid="4951" user="PeterEastern"/>
+  <node id="27427276" lat="52.1381008" lon="0.3973196" version="4" timestamp="2015-08-20T15:27:39Z" changeset="33463899" uid="281267" user="smb1001"/>
+  <node id="264657692" lat="52.1560287" lon="0.3451639" version="3" timestamp="2011-09-26T15:16:12Z" changeset="9402647" uid="504708" user="HillWithSmallFields"/>
+  <node id="264658403" lat="52.1446528" lon="0.3707853" version="2" timestamp="2015-07-15T00:37:40Z" changeset="32641194" uid="553735" user="Johnmb"/>
   <node id="4307282746" lat="52.1279444" lon="0.3815161" version="1" timestamp="2016-07-17T12:30:59Z" changeset="40797302" uid="499318" user="jpsa"/>
   <node id="12624222877" lat="52.1583797" lon="0.3754282" version="1" timestamp="2025-02-27T21:48:37Z" changeset="163029758" uid="5229644" user="Nathan_A_RF"/>
   <way id="4315748" version="3" timestamp="2021-04-10T10:56:40Z" changeset="102692055" uid="281267" user="smb1001">
@@ -489,6 +489,32 @@
     <tag k="bridge" v="yes"/>
     <tag k="highway" v="tertiary"/>
   </way>
+  <way id="132383079" version="3" timestamp="2020-10-10T22:08:13Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="1456326655"/>
+    <nd ref="1456326553"/>
+    <nd ref="1456326703"/>
+    <nd ref="1456326681"/>
+    <nd ref="1456326649"/>
+    <nd ref="1456326715"/>
+    <nd ref="1456326658"/>
+    <nd ref="1456326670"/>
+    <nd ref="1456326522"/>
+    <nd ref="1456326647"/>
+    <nd ref="1456326642"/>
+    <nd ref="1456326542"/>
+    <nd ref="1456326760"/>
+    <nd ref="1456326631"/>
+    <nd ref="1456326588"/>
+    <nd ref="1456326709"/>
+    <nd ref="1456326655"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary (Weston Colville Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="dictaphone"/>
+    <tag k="wikidata" v="Q17550559"/>
+  </way>
   <way id="190155899" version="4" timestamp="2022-09-10T16:30:45Z" changeset="126022227" uid="5173844" user="ndrw6">
     <nd ref="2007665076"/>
     <nd ref="1322627460"/>
@@ -526,6 +552,67 @@
     <nd ref="27408141"/>
     <tag k="highway" v="secondary"/>
     <tag k="ref" v="B1052"/>
+  </way>
+  <way id="650348307" version="4" timestamp="2022-09-10T16:30:45Z" changeset="126022227" uid="5173844" user="ndrw6">
+    <nd ref="6101218042"/>
+    <nd ref="10013601542"/>
+    <nd ref="10013601541"/>
+    <nd ref="6101218041"/>
+    <nd ref="6101218042"/>
+    <tag k="addr:housename" v="Days Barn"/>
+    <tag k="addr:postcode" v="CB21 5PH"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Days Barn"/>
+  </way>
+  <way id="928819916" version="1" timestamp="2021-04-10T10:47:42Z" changeset="102692055" uid="281267" user="smb1001">
+    <nd ref="264658862"/>
+    <nd ref="8614547431"/>
+    <nd ref="8614547486"/>
+    <nd ref="8614547492"/>
+    <nd ref="8614547438"/>
+    <nd ref="8614547489"/>
+    <nd ref="8614547587"/>
+    <nd ref="8614504308"/>
+    <nd ref="264658862"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="name" v="Weston Colville Methodist Chapel"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:name" v="dictaphone"/>
+  </way>
+  <way id="1093393030" version="1" timestamp="2022-09-10T16:30:45Z" changeset="126022227" uid="5173844" user="ndrw6">
+    <nd ref="10013601538"/>
+    <nd ref="6101218043"/>
+    <nd ref="6101218040"/>
+    <nd ref="10013601537"/>
+    <nd ref="10013601538"/>
+    <tag k="addr:housename" v="Days Barn"/>
+    <tag k="addr:postcode" v="CB21 5PH"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Days Barn"/>
+  </way>
+  <way id="1093393031" version="1" timestamp="2022-09-10T16:30:45Z" changeset="126022227" uid="5173844" user="ndrw6">
+    <nd ref="10013601540"/>
+    <nd ref="10013601538"/>
+    <nd ref="10013601537"/>
+    <nd ref="10013601539"/>
+    <nd ref="10013601540"/>
+    <tag k="addr:housename" v="Days Barn"/>
+    <tag k="addr:postcode" v="CB21 5PH"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Days Barn"/>
+  </way>
+  <way id="1093393032" version="1" timestamp="2022-09-10T16:30:45Z" changeset="126022227" uid="5173844" user="ndrw6">
+    <nd ref="10013601542"/>
+    <nd ref="10013601540"/>
+    <nd ref="10013601539"/>
+    <nd ref="10013601541"/>
+    <nd ref="10013601542"/>
+    <tag k="addr:housename" v="Days Barn"/>
+    <tag k="addr:postcode" v="CB21 5PH"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Days Barn"/>
   </way>
 
 </osm>

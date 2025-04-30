@@ -1,36 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:02:56Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-26T22:32:59Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="26237213" lat="51.2773988" lon="1.2230687" version="6" timestamp="2023-12-29T14:52:49Z" changeset="145664926" uid="5229644" user="Nathan_A_RF"/>
-  <node id="28152714" lat="51.2839157" lon="1.2411810" version="4" timestamp="2012-09-27T10:31:32Z" changeset="13270076" uid="7037" user="Gregory Williams"/>
-  <node id="35721197" lat="51.2479899" lon="1.2424264" version="4" timestamp="2015-06-16T09:04:29Z" changeset="32001220" uid="481116" user="bigalxyz123"/>
+  <node id="28150317" lat="51.2862754" lon="1.2245053" version="4" timestamp="2015-05-26T09:06:00Z" changeset="31466450" uid="16703" user="joelholdsworth"/>
   <node id="769202061" lat="51.2688251" lon="1.2229374" version="2" timestamp="2012-01-22T18:41:33Z" changeset="10468163" uid="7037" user="Gregory Williams"/>
   <node id="1156329455" lat="51.2786508" lon="1.2525578" version="2" timestamp="2011-05-05T12:14:47Z" changeset="8056981" uid="7037" user="Gregory Williams"/>
-  <node id="1616614475" lat="51.2609201" lon="1.2645359" version="5" timestamp="2022-01-19T10:08:51Z" changeset="116334420" uid="7037" user="Gregory Williams">
-    <tag k="addr:city" v="Canterbury"/>
-    <tag k="addr:postcode" v="CT3 1LE"/>
-    <tag k="addr:street" v="Barnsole Road"/>
-    <tag k="addr:village" v="Staple"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="999959"/>
-    <tag k="food" v="yes"/>
-    <tag k="name" v="The Black Pig"/>
-    <tag k="opening_hours" v="Mo-Sa 11:00-23:00; Su 12:00-19:00"/>
-    <tag k="phone" v="+44 1304 813723"/>
-    <tag k="source" v="survey"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="source:addr:postcode" v="http://www.theblackpigatstaple.com/"/>
-    <tag k="source:phone" v="http://www.theblackpigatstaple.com/"/>
-    <tag k="website" v="http://www.theblackpigatstaple.com/"/>
-    <tag k="wikidata" v="Q26276775"/>
+  <node id="1272999808" lat="51.2786225" lon="1.2508660" version="2" timestamp="2019-10-25T13:37:04Z" changeset="76210268" uid="322039" user="MacLondon">
+    <tag k="crossing:island" v="yes"/>
+    <tag k="highway" v="crossing"/>
   </node>
+  <node id="1601537563" lat="51.2809272" lon="1.2369278" version="2" timestamp="2015-05-26T08:48:25Z" changeset="31466041" uid="16703" user="joelholdsworth"/>
+  <node id="1616499707" lat="51.2625390" lon="1.2562340" version="3" timestamp="2015-06-16T09:04:32Z" changeset="32001220" uid="481116" user="bigalxyz123"/>
   <node id="1616615014" lat="51.2569196" lon="1.2632420" version="2" timestamp="2012-09-21T16:36:41Z" changeset="13197922" uid="7037" user="Gregory Williams"/>
-  <node id="1616615073" lat="51.2577980" lon="1.2726187" version="1" timestamp="2012-02-03T11:42:30Z" changeset="10575386" uid="7037" user="Gregory Williams"/>
-  <node id="1616615522" lat="51.2720093" lon="1.2601506" version="3" timestamp="2019-06-11T10:31:07Z" changeset="71135029" uid="8476264" user="jojoyal"/>
-  <node id="1934999129" lat="51.2839489" lon="1.2409737" version="1" timestamp="2012-09-27T10:31:23Z" changeset="13270076" uid="7037" user="Gregory Williams"/>
-  <node id="9116492799" lat="51.2631111" lon="1.2901612" version="1" timestamp="2021-09-23T09:54:54Z" changeset="111583179" uid="6094765" user="KentCyclist"/>
+  <node id="1616615185" lat="51.2608473" lon="1.2650341" version="1" timestamp="2012-02-03T11:42:35Z" changeset="10575386" uid="7037" user="Gregory Williams"/>
+  <node id="1616615374" lat="51.2639073" lon="1.2684970" version="3" timestamp="2015-06-16T09:08:00Z" changeset="32001220" uid="481116" user="bigalxyz123"/>
+  <node id="1934999128" lat="51.2838323" lon="1.2410804" version="2" timestamp="2015-05-26T08:48:26Z" changeset="31466041" uid="16703" user="joelholdsworth"/>
+  <node id="2080204220" lat="51.2719244" lon="1.2601432" version="2" timestamp="2019-06-11T10:31:07Z" changeset="71135029" uid="8476264" user="jojoyal"/>
   <way id="91679819" version="3" timestamp="2012-09-21T16:36:33Z" changeset="13197922" uid="7037" user="Gregory Williams">
     <nd ref="1065475196"/>
     <nd ref="1065475167"/>
@@ -89,12 +75,6 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="The Street"/>
   </way>
-  <way id="99698716" version="2" timestamp="2017-06-05T12:17:54Z" changeset="49267642" uid="873940" user="Mike Baggaley">
-    <nd ref="1145521595"/>
-    <nd ref="1145521581"/>
-    <nd ref="1145521617"/>
-    <tag k="highway" v="unclassified"/>
-  </way>
   <way id="100013345" version="7" timestamp="2021-08-27T11:52:01Z" changeset="110338149" uid="242345" user="confusedbuffalo">
     <nd ref="1156329455"/>
     <nd ref="9039184132"/>
@@ -111,7 +91,7 @@
     <tag k="ref" v="A257"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="111808099" version="3" timestamp="2024-07-05T07:42:47Z" changeset="153575712" uid="11471297" user="Palgrave Peter">
+  <way id="111808099" version="4" timestamp="2025-04-21T07:06:14Z" changeset="165222816" uid="7037" user="Gregory Williams">
     <nd ref="1272999695"/>
     <nd ref="1272999642"/>
     <nd ref="1272999596"/>
@@ -134,7 +114,7 @@
     <nd ref="1272999564"/>
     <nd ref="1272999510"/>
     <nd ref="1272999462"/>
-    <tag k="highway" v="residential"/>
+    <tag k="highway" v="unclassified"/>
   </way>
   <way id="111808104" version="8" timestamp="2024-06-21T14:08:08Z" changeset="152995045" uid="11471297" user="Palgrave Peter">
     <nd ref="1272999808"/>
@@ -369,7 +349,7 @@
     <tag k="name" v="Mill Road"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="148578680" version="4" timestamp="2024-07-08T10:33:47Z" changeset="153697101" uid="11471297" user="Palgrave Peter">
+  <way id="148578680" version="5" timestamp="2025-04-21T07:40:48Z" changeset="165223951" uid="7037" user="Gregory Williams">
     <nd ref="1616615316"/>
     <nd ref="1616615317"/>
     <nd ref="1616615322"/>
@@ -377,6 +357,7 @@
     <nd ref="1616615338"/>
     <nd ref="6687081255"/>
     <nd ref="1065475107"/>
+    <nd ref="12771657891"/>
     <nd ref="1616615392"/>
     <nd ref="1616615412"/>
     <nd ref="1616615426"/>
@@ -564,7 +545,10 @@
     <tag k="official_ref" v="D1847"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="182211043" version="2" timestamp="2024-07-05T13:57:57Z" changeset="153590555" uid="11471297" user="Palgrave Peter">
+  <way id="182211043" version="3" timestamp="2025-04-21T07:16:27Z" changeset="165223112" uid="7037" user="Gregory Williams">
+    <nd ref="1616615250"/>
+    <nd ref="1616615265"/>
+    <nd ref="1616615268"/>
     <nd ref="1616615282"/>
     <nd ref="1616615285"/>
     <nd ref="1616615286"/>
@@ -580,10 +564,11 @@
     <nd ref="1616615298"/>
     <nd ref="1616615288"/>
     <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Mill Road"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="182211044" version="5" timestamp="2024-07-08T10:33:47Z" changeset="153697101" uid="11471297" user="Palgrave Peter">
+  <way id="182211044" version="6" timestamp="2025-04-21T07:16:27Z" changeset="165223112" uid="7037" user="Gregory Williams">
     <nd ref="1616615106"/>
     <nd ref="1925559702"/>
     <nd ref="1616615111"/>
@@ -597,9 +582,6 @@
     <nd ref="1616615219"/>
     <nd ref="1616615232"/>
     <nd ref="1616615250"/>
-    <nd ref="1616615265"/>
-    <nd ref="1616615268"/>
-    <nd ref="1616615282"/>
     <tag k="highway" v="unclassified"/>
     <tag k="maxspeed" v="60 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
@@ -669,33 +651,6 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Durlock Road"/>
   </way>
-  <way id="452881500" version="3" timestamp="2024-07-08T10:33:47Z" changeset="153697101" uid="11471297" user="Palgrave Peter">
-    <nd ref="4496958878"/>
-    <nd ref="4496958877"/>
-    <nd ref="12041423443"/>
-    <nd ref="12041423444"/>
-    <nd ref="12041423445"/>
-    <nd ref="4496958876"/>
-    <nd ref="4496958875"/>
-    <nd ref="4496958874"/>
-    <nd ref="4496958873"/>
-    <nd ref="4496958872"/>
-    <nd ref="4496958871"/>
-    <nd ref="4496958870"/>
-    <nd ref="4496958869"/>
-    <nd ref="4496958868"/>
-    <nd ref="4496958878"/>
-    <tag k="addr:city" v="Canterbury"/>
-    <tag k="addr:street" v="Barnsole Road"/>
-    <tag k="addr:village" v="Staple"/>
-    <tag k="construction" v="residential"/>
-    <tag k="contact:phone" v="+44 1304 812549"/>
-    <tag k="landuse" v="construction"/>
-    <tag k="name" v="Summerfield Nurseries"/>
-    <tag k="opening_hours" v="Mo-Fr 09:30-16:30; Sa 10:00-16:30; Su 11:00-16:00"/>
-    <tag k="source" v="survey"/>
-    <tag k="website" v="http://www.summerfieldnurseries.co.uk/"/>
-  </way>
   <way id="498271630" version="6" timestamp="2024-07-05T07:42:47Z" changeset="153575712" uid="11471297" user="Palgrave Peter">
     <nd ref="769202061"/>
     <nd ref="1601537143"/>
@@ -751,68 +706,56 @@
     <tag k="name" v="Staple Road"/>
     <tag k="source:alt_name" v="OS_OpenData_Locator"/>
   </way>
-  <way id="498271638" version="2" timestamp="2020-03-10T17:02:38Z" changeset="82017119" uid="100214" user="chris boucher">
-    <nd ref="7282938621"/>
-    <nd ref="1145521614"/>
-    <nd ref="1145521625"/>
-    <nd ref="1145521583"/>
-    <nd ref="1145521621"/>
-    <nd ref="1145521576"/>
-    <nd ref="1145521564"/>
-    <nd ref="1145521602"/>
-    <nd ref="1145521629"/>
-    <tag k="foot" v="designated"/>
-    <tag k="highway" v="unclassified"/>
+  <way id="533165308" version="2" timestamp="2018-05-26T06:43:40Z" changeset="59287920" uid="364" user="Edward">
+    <nd ref="980880696"/>
+    <nd ref="5172978486"/>
+    <nd ref="5172978487"/>
+    <nd ref="5172978488"/>
+    <nd ref="980880696"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St. James"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17529716"/>
   </way>
-  <way id="691941108" version="1" timestamp="2019-05-23T10:30:26Z" changeset="70546380" uid="9641463" user="branib">
-    <nd ref="6494863733"/>
-    <nd ref="6494863742"/>
-    <nd ref="6494863734"/>
-    <nd ref="6494863744"/>
-    <nd ref="6494863737"/>
-    <nd ref="6494863735"/>
-    <nd ref="6494863736"/>
-    <tag k="highway" v="residential"/>
-  </way>
-  <way id="691941109" version="1" timestamp="2019-05-23T10:30:26Z" changeset="70546380" uid="9641463" user="branib">
-    <nd ref="6494863734"/>
-    <nd ref="6494863743"/>
-    <nd ref="6494863741"/>
-    <nd ref="6494863739"/>
-    <nd ref="6494863740"/>
-    <nd ref="6494863738"/>
-    <tag k="highway" v="residential"/>
-  </way>
-  <way id="779963303" version="1" timestamp="2020-03-10T17:02:38Z" changeset="82017119" uid="100214" user="chris boucher">
-    <nd ref="1145521617"/>
-    <nd ref="4897259716"/>
-    <nd ref="1145521569"/>
-    <nd ref="1145521607"/>
-    <nd ref="1145521579"/>
-    <nd ref="7282938621"/>
-    <tag k="highway" v="unclassified"/>
-  </way>
-  <way id="779963304" version="1" timestamp="2020-03-10T17:02:38Z" changeset="82017119" uid="100214" user="chris boucher">
-    <nd ref="1145521629"/>
-    <nd ref="1145521593"/>
-    <nd ref="1145521562"/>
-    <tag k="highway" v="unclassified"/>
-  </way>
-  <way id="1133830462" version="1" timestamp="2023-01-20T15:08:05Z" changeset="131512205" uid="132695" user="Milhouse">
-    <nd ref="10570670701"/>
-    <nd ref="10570670702"/>
-    <tag k="highway" v="residential"/>
-  </way>
-  <way id="1257277478" version="1" timestamp="2024-03-04T01:44:13Z" changeset="148186832" uid="493595" user="Yorvik Prestigitator">
+  <way id="1257277478" version="2" timestamp="2025-04-21T07:22:03Z" changeset="165223283" uid="7037" user="Gregory Williams">
     <nd ref="11689070896"/>
     <nd ref="11689070898"/>
     <nd ref="11689070897"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Bartlett Close"/>
   </way>
-  <way id="1257277479" version="1" timestamp="2024-03-04T01:44:13Z" changeset="148186832" uid="493595" user="Yorvik Prestigitator">
+  <way id="1257277479" version="2" timestamp="2025-04-21T07:22:03Z" changeset="165223283" uid="7037" user="Gregory Williams">
     <nd ref="11689070898"/>
     <nd ref="11689070899"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Bartlett Close"/>
+  </way>
+  <way id="1293985578" version="1" timestamp="2024-06-20T17:14:37Z" changeset="152957355" uid="11471297" user="Palgrave Peter">
+    <nd ref="11994930453"/>
+    <nd ref="11994930454"/>
+    <nd ref="11994930455"/>
+    <nd ref="11994930456"/>
+    <nd ref="11994930453"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Wingham Country Market"/>
+    <tag k="shop" v="farm"/>
+  </way>
+  <way id="1299963516" version="1" timestamp="2024-07-08T10:33:47Z" changeset="153697101" uid="11471297" user="Palgrave Peter">
+    <nd ref="12041423381"/>
+    <nd ref="12041423382"/>
+    <nd ref="12041423383"/>
+    <nd ref="12041423384"/>
+    <nd ref="12041423385"/>
+    <nd ref="12041423386"/>
+    <nd ref="12041423387"/>
+    <nd ref="12041423381"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Layham Garden Centre"/>
+    <tag k="shop" v="garden_centre"/>
   </way>
 
 </osm>

@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:11:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:24:01Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="215998" lat="52.1555112" lon="0.2489647" version="5" timestamp="2022-11-10T10:05:32Z" changeset="128725115" uid="91657" user="Pink Duck">
-    <tag k="destination" v="Balsham;Fulbourn;Teversham"/>
+  <node id="215065" lat="52.1785789" lon="0.2951772" version="2" timestamp="2025-02-24T17:31:42Z" changeset="162902392" uid="5008136" user="JayTurnr"/>
+  <node id="215066" lat="52.1786036" lon="0.2949936" version="4" timestamp="2025-02-24T17:34:02Z" changeset="162902469" uid="5008136" user="JayTurnr">
     <tag k="highway" v="motorway_junction"/>
-  </node>
-  <node id="216090" lat="52.1383148" lon="0.2285843" version="3" timestamp="2011-12-19T23:19:49Z" changeset="10159843" uid="5926" user="c2r"/>
-  <node id="216186" lat="52.1329222" lon="0.2256893" version="5" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Fourwentways"/>
   </node>
   <node id="216187" lat="52.1329311" lon="0.2254667" version="3" timestamp="2025-02-23T11:58:01Z" changeset="162848534" uid="5008136" user="JayTurnr"/>
   <node id="13337534" lat="52.1832718" lon="0.3005978" version="4" timestamp="2024-12-31T12:29:35Z" changeset="160830597" uid="5229644" user="Nathan_A_RF"/>
-  <node id="20960211" lat="52.1618749" lon="0.2588806" version="4" timestamp="2025-02-24T17:26:53Z" changeset="162902211" uid="5008136" user="JayTurnr"/>
+  <node id="20960193" lat="52.1709691" lon="0.2815359" version="2" timestamp="2008-12-22T13:13:52Z" changeset="547380" uid="74897" user="Rowland"/>
   <node id="20960223" lat="52.1906515" lon="0.2404806" version="3" timestamp="2011-08-27T23:01:57Z" changeset="9142545" uid="504708" user="HillWithSmallFields"/>
-  <node id="20960275" lat="52.1830327" lon="0.2999689" version="4" timestamp="2025-02-24T17:34:02Z" changeset="162902469" uid="5008136" user="JayTurnr"/>
-  <node id="20960410" lat="52.1561218" lon="0.2501627" version="3" timestamp="2022-11-10T10:05:32Z" changeset="128725115" uid="91657" user="Pink Duck"/>
-  <node id="20960440" lat="52.1826146" lon="0.2979966" version="3" timestamp="2025-03-15T12:43:30Z" changeset="163649112" uid="5229644" user="Nathan_A_RF"/>
   <node id="20960504" lat="52.2007564" lon="0.2655772" version="3" timestamp="2015-10-20T14:31:45Z" changeset="34756675" uid="281267" user="smb1001"/>
-  <node id="20960609" lat="52.1617855" lon="0.2589973" version="4" timestamp="2022-11-10T10:05:32Z" changeset="128725115" uid="91657" user="Pink Duck">
-    <tag k="destination" v="Balsham;Fulbourn;Teversham"/>
-    <tag k="highway" v="motorway_junction"/>
-  </node>
+  <node id="20960539" lat="52.1667986" lon="0.2867720" version="2" timestamp="2008-12-22T13:13:52Z" changeset="547380" uid="74897" user="Rowland"/>
   <node id="20960632" lat="52.1826902" lon="0.2982235" version="3" timestamp="2025-03-15T12:43:30Z" changeset="163649112" uid="5229644" user="Nathan_A_RF"/>
-  <node id="26530947" lat="52.1486948" lon="0.2388435" version="5" timestamp="2025-02-24T17:25:04Z" changeset="162902144" uid="5008136" user="JayTurnr">
-    <tag k="highway" v="motorway_junction"/>
-  </node>
-  <node id="12465224697" lat="52.1831800" lon="0.2996608" version="1" timestamp="2024-12-31T12:29:35Z" changeset="160830597" uid="5229644" user="Nathan_A_RF"/>
   <way id="3904749" version="17" timestamp="2025-03-15T12:43:30Z" changeset="163649112" uid="5229644" user="Nathan_A_RF">
     <nd ref="20960632"/>
     <nd ref="12666577744"/>
@@ -567,6 +552,30 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="The Lanes"/>
   </way>
+  <way id="125954122" version="6" timestamp="2023-10-29T16:25:56Z" changeset="143320203" uid="504708" user="HillWithSmallFields">
+    <nd ref="1397537871"/>
+    <nd ref="1397537853"/>
+    <nd ref="1397537832"/>
+    <nd ref="1397537805"/>
+    <nd ref="1397537827"/>
+    <nd ref="1397537898"/>
+    <nd ref="1397537869"/>
+    <nd ref="1397537796"/>
+    <nd ref="1397537819"/>
+    <nd ref="1397537814"/>
+    <nd ref="1397537811"/>
+    <nd ref="1397537839"/>
+    <nd ref="1397537870"/>
+    <nd ref="1397537840"/>
+    <nd ref="1397537871"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Nicholas (Great Wilbraham Parish Church)"/>
+    <tag k="ref:dove" v="15674"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550764"/>
+  </way>
   <way id="127563465" version="11" timestamp="2023-11-10T05:58:50Z" changeset="143848233" uid="9451067" user="b-jazz-bot">
     <nd ref="1411491752"/>
     <nd ref="8287348819"/>
@@ -666,6 +675,16 @@
     <tag k="addr:street" v="Ratford's Yard"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="127563485" version="2" timestamp="2011-08-27T17:06:45Z" changeset="9139541" uid="504708" user="HillWithSmallFields">
+    <nd ref="1411491998"/>
+    <nd ref="1411492071"/>
+    <nd ref="1411491788"/>
+    <nd ref="1411491624"/>
+    <nd ref="1411491998"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Wilbrahams Memorial Hall"/>
+  </way>
   <way id="127563493" version="4" timestamp="2019-02-14T12:33:51Z" changeset="67192109" uid="281267" user="smb1001">
     <nd ref="1411491793"/>
     <nd ref="1411492138"/>
@@ -680,6 +699,20 @@
     <tag k="addr:postcode" v="CB21 5JS"/>
     <tag k="addr:street" v="Bensteads End"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="127563499" version="4" timestamp="2013-05-24T06:49:39Z" changeset="16261144" uid="504708" user="HillWithSmallFields">
+    <nd ref="1411492131"/>
+    <nd ref="1411491687"/>
+    <nd ref="1411491776"/>
+    <nd ref="1411491880"/>
+    <nd ref="1411491717"/>
+    <nd ref="1411491886"/>
+    <nd ref="1411491860"/>
+    <nd ref="1411492131"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Great Wilbraham Post Office"/>
+    <tag k="shop" v="convenience"/>
   </way>
   <way id="127635137" version="4" timestamp="2019-02-14T12:33:52Z" changeset="67192109" uid="281267" user="smb1001">
     <nd ref="1415024804"/>
@@ -763,6 +796,29 @@
     <tag k="addr:postcode" v="CB21 5JE"/>
     <tag k="addr:street" v="Butt Lane"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="127651979" version="3" timestamp="2011-08-27T18:29:11Z" changeset="9140377" uid="504708" user="HillWithSmallFields">
+    <nd ref="1412304595"/>
+    <nd ref="1412304633"/>
+    <nd ref="1412304662"/>
+    <nd ref="1412304641"/>
+    <nd ref="1412304648"/>
+    <nd ref="1412304659"/>
+    <nd ref="1412304595"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Nonesuch House"/>
+  </way>
+  <way id="127651989" version="4" timestamp="2018-02-14T15:43:55Z" changeset="56357279" uid="364" user="Edward">
+    <nd ref="1412304674"/>
+    <nd ref="1412304686"/>
+    <nd ref="1412304613"/>
+    <nd ref="1412304670"/>
+    <nd ref="1412304674"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kettle Cottage"/>
+    <tag k="wikidata" v="Q26615995"/>
   </way>
   <way id="127652297" version="1" timestamp="2011-08-25T16:06:38Z" changeset="9122512" uid="504708" user="HillWithSmallFields">
     <nd ref="1412314878"/>
@@ -922,6 +978,15 @@
     <tag k="addr:street" v="Church Close"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="127665328" version="5" timestamp="2021-01-03T18:57:16Z" changeset="96860423" uid="53626" user="jambamkin">
+    <nd ref="1412454567"/>
+    <nd ref="1412454508"/>
+    <nd ref="1412454499"/>
+    <nd ref="1412454590"/>
+    <nd ref="1412454567"/>
+    <tag k="building" v="kindergarten"/>
+    <tag k="name" v="First Steps Day Nursery"/>
+  </way>
   <way id="127665329" version="4" timestamp="2019-02-14T12:33:47Z" changeset="67192109" uid="281267" user="smb1001">
     <nd ref="1415144394"/>
     <nd ref="1415144408"/>
@@ -951,6 +1016,22 @@
     <tag k="addr:postcode" v="CB21 5JB"/>
     <tag k="addr:street" v="Frog End"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="127681187" version="2" timestamp="2011-08-27T16:42:32Z" changeset="9139541" uid="504708" user="HillWithSmallFields">
+    <nd ref="1412624644"/>
+    <nd ref="1412624678"/>
+    <nd ref="1412624763"/>
+    <nd ref="1412624623"/>
+    <nd ref="1412624647"/>
+    <nd ref="1412624816"/>
+    <nd ref="1412624605"/>
+    <nd ref="1412624723"/>
+    <nd ref="1412624773"/>
+    <nd ref="1412624644"/>
+    <tag k="addr:housename" v="The Grange"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Grange"/>
   </way>
   <way id="127681192" version="5" timestamp="2019-02-14T12:33:50Z" changeset="67192109" uid="281267" user="smb1001">
     <nd ref="1412624598"/>
@@ -1162,6 +1243,19 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Bensteads End"/>
   </way>
+  <way id="127965616" version="3" timestamp="2018-02-14T15:43:52Z" changeset="56357279" uid="364" user="Edward">
+    <nd ref="1412342422"/>
+    <nd ref="1412342429"/>
+    <nd ref="1412342469"/>
+    <nd ref="1412342387"/>
+    <nd ref="1412342414"/>
+    <nd ref="1415061144"/>
+    <nd ref="1412342422"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cudworth Cottage"/>
+    <tag k="wikidata" v="Q26420757"/>
+  </way>
   <way id="127967180" version="3" timestamp="2019-02-14T12:33:53Z" changeset="67192109" uid="281267" user="smb1001">
     <nd ref="1415095193"/>
     <nd ref="1415095165"/>
@@ -1327,11 +1421,35 @@
     <tag k="addr:street" v="Church Close"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="128211851" version="2" timestamp="2011-09-11T17:07:55Z" changeset="9272700" uid="504708" user="HillWithSmallFields">
+    <nd ref="1417341977"/>
+    <nd ref="1417341839"/>
+    <nd ref="1417341803"/>
+    <nd ref="1417341763"/>
+    <nd ref="1417341789"/>
+    <nd ref="1417341829"/>
+    <nd ref="1417341849"/>
+    <nd ref="1417341878"/>
+    <nd ref="1417341977"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Home Farm"/>
+  </way>
   <way id="128326115" version="3" timestamp="2014-05-26T19:22:41Z" changeset="22569642" uid="90142" user="andy mackey">
     <nd ref="20960539"/>
     <nd ref="1418456568"/>
     <nd ref="1418456242"/>
     <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="128909905" version="2" timestamp="2011-09-11T17:07:54Z" changeset="9272700" uid="504708" user="HillWithSmallFields">
+    <nd ref="1423254298"/>
+    <nd ref="1423254314"/>
+    <nd ref="1423254454"/>
+    <nd ref="1423254360"/>
+    <nd ref="1423254316"/>
+    <nd ref="1423254278"/>
+    <nd ref="1423254298"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Upper Heath Farm"/>
   </way>
   <way id="178161867" version="1" timestamp="2012-08-27T14:19:44Z" changeset="12880002" uid="157964" user="tamritt">
     <nd ref="1885342968"/>

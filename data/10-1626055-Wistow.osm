@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="20698498" lat="52.4107030" lon="-0.1541815" version="2" timestamp="2018-11-03T11:05:05Z" changeset="64137306" uid="1257159" user="Jean-Pierre Rondeau"/>
-  <node id="24972925" lat="52.3898420" lon="-0.1424573" version="2" timestamp="2018-11-03T11:05:05Z" changeset="64137306" uid="1257159" user="Jean-Pierre Rondeau"/>
-  <node id="32910110" lat="52.4302618" lon="-0.1383816" version="3" timestamp="2023-02-05T17:30:14Z" changeset="132122140" uid="11022773" user="GeoFens"/>
-  <node id="243493545" lat="52.4314385" lon="-0.1044308" version="2" timestamp="2010-10-28T18:20:34Z" changeset="6210776" uid="5926" user="c2r"/>
+  <node id="20698531" lat="52.4086559" lon="-0.1308678" version="2" timestamp="2025-01-13T18:36:35Z" changeset="161320884" uid="5229644" user="Nathan_A_RF"/>
+  <node id="414989888" lat="52.4160877" lon="-0.1068097" version="4" timestamp="2018-12-22T22:47:35Z" changeset="65704592" uid="5173844" user="ndrw6"/>
+  <node id="439853793" lat="52.4213597" lon="-0.1063627" version="3" timestamp="2021-08-30T12:25:25Z" changeset="110458954" uid="11734022" user="pppalepu"/>
   <node id="692256002" lat="52.4333027" lon="-0.1234455" version="2" timestamp="2024-02-10T17:35:33Z" changeset="147301852" uid="11022773" user="GeoFens"/>
-  <node id="704824876" lat="52.4322158" lon="-0.1307469" version="1" timestamp="2010-04-23T22:13:15Z" changeset="4508139" uid="7098" user="richardm565"/>
+  <node id="704824846" lat="52.4319066" lon="-0.1303546" version="1" timestamp="2010-04-23T22:13:14Z" changeset="4508139" uid="7098" user="richardm565"/>
   <node id="804388289" lat="52.3749014" lon="-0.1488659" version="2" timestamp="2018-11-03T11:05:06Z" changeset="64137306" uid="1257159" user="Jean-Pierre Rondeau">
     <tag k="traffic_calming" v="choker"/>
   </node>
+  <node id="1185684990" lat="52.4230637" lon="-0.0893253" version="2" timestamp="2020-05-23T10:41:06Z" changeset="85648077" uid="5173844" user="ndrw6"/>
+  <node id="8722955726" lat="52.4321450" lon="-0.1297026" version="1" timestamp="2021-05-11T21:01:13Z" changeset="104535291" uid="11022773" user="GeoFens"/>
   <node id="8833522344" lat="52.4084226" lon="-0.0960782" version="1" timestamp="2021-06-14T20:39:14Z" changeset="106357262" uid="11022773" user="GeoFens"/>
   <way id="3981766" version="4" timestamp="2020-05-19T04:08:32Z" changeset="85411784" uid="5173844" user="ndrw6">
     <nd ref="20698590"/>
@@ -630,41 +631,118 @@
     <tag k="not:name" v="Harris's Lane"/>
     <tag k="source" v="survey"/>
   </way>
-  <way id="857604805" version="4" timestamp="2024-05-19T18:10:41Z" changeset="151546091" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="7995648228"/>
-    <nd ref="7995648229"/>
-    <nd ref="7995648230"/>
-    <nd ref="7995648231"/>
-    <nd ref="7995648232"/>
-    <nd ref="10038115377"/>
-    <nd ref="10038115378"/>
-    <nd ref="10038115379"/>
-    <nd ref="10038115376"/>
-    <nd ref="7995648233"/>
-    <nd ref="10038115388"/>
-    <nd ref="7995648234"/>
-    <nd ref="7995648235"/>
-    <nd ref="7995648237"/>
-    <nd ref="7995648238"/>
-    <nd ref="7995648239"/>
-    <nd ref="7995648240"/>
-    <nd ref="7995648241"/>
-    <nd ref="7995648242"/>
-    <nd ref="7995648228"/>
+  <way id="359193409" version="5" timestamp="2024-05-19T18:10:41Z" changeset="151546091" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="3639492009"/>
+    <nd ref="3639492010"/>
+    <nd ref="3639492013"/>
+    <nd ref="3639492007"/>
+    <nd ref="3639492014"/>
+    <nd ref="3639492008"/>
+    <nd ref="3639492012"/>
+    <nd ref="3639492011"/>
+    <nd ref="11308280703"/>
+    <nd ref="11308280702"/>
+    <nd ref="11308280701"/>
+    <nd ref="11308280704"/>
+    <nd ref="3639492009"/>
     <tag k="addr:city" v="Huntingdon"/>
     <tag k="addr:country" v="GB"/>
-    <tag k="addr:postcode" v="PE28 2QU"/>
-    <tag k="addr:street" v="Harris's Lane"/>
+    <tag k="addr:postcode" v="PE28 2QD"/>
     <tag k="addr:suburb" v="Wistow"/>
-    <tag k="addr:town" v="Wistow"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Woodgrounds Farm"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint John the Baptist"/>
+    <tag k="ref:dove" v="10391"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527779"/>
   </way>
-  <way id="941963289" version="3" timestamp="2025-03-16T15:22:28Z" changeset="163693860" uid="11022773" user="GeoFens">
+  <way id="657081674" version="3" timestamp="2024-05-19T18:10:41Z" changeset="151546091" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="6154405978"/>
+    <nd ref="6154405971"/>
+    <nd ref="6154405972"/>
+    <nd ref="6154405977"/>
+    <nd ref="6154405976"/>
+    <nd ref="6154405974"/>
+    <nd ref="6154405973"/>
+    <nd ref="6154405975"/>
+    <nd ref="6154405978"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 2QH"/>
+    <tag k="addr:suburb" v="Wistow"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="ew@pointers-guest-house.co.uk"/>
+    <tag k="guest_house" v="bed_and_breakfast"/>
+    <tag k="name" v="Pointers Guest House"/>
+    <tag k="phone" v="+44 1487 822366"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://www.pointers-guest-house.co.uk"/>
+  </way>
+  <way id="657095432" version="3" timestamp="2022-09-19T21:36:15Z" changeset="126397913" uid="11022773" user="GeoFens">
+    <nd ref="6154557188"/>
+    <nd ref="6154557179"/>
+    <nd ref="6154557191"/>
+    <nd ref="6154557190"/>
+    <nd ref="6154557189"/>
+    <nd ref="6154557178"/>
+    <nd ref="6154557185"/>
+    <nd ref="6154557184"/>
+    <nd ref="6154557186"/>
+    <nd ref="6154557183"/>
+    <nd ref="6154557181"/>
+    <nd ref="6154557180"/>
+    <nd ref="6154557182"/>
+    <nd ref="6154557187"/>
+    <nd ref="6154557188"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Three Horseshoes"/>
+    <tag k="wikidata" v="Q26457421"/>
+  </way>
+  <way id="657095440" version="2" timestamp="2022-09-19T21:36:15Z" changeset="126397913" uid="11022773" user="GeoFens">
+    <nd ref="6154557241"/>
+    <nd ref="6154557240"/>
+    <nd ref="6154557239"/>
+    <nd ref="6154557238"/>
+    <nd ref="6154557241"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Orchard View Garage"/>
+    <tag k="shop" v="car_repair"/>
+  </way>
+  <way id="805864953" version="2" timestamp="2022-09-19T21:36:15Z" changeset="126397913" uid="11022773" user="GeoFens">
+    <nd ref="7535924284"/>
+    <nd ref="7535924283"/>
+    <nd ref="7535924282"/>
+    <nd ref="7535924281"/>
+    <nd ref="7535924284"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Porch House"/>
+  </way>
+  <way id="807488077" version="3" timestamp="2021-08-20T13:06:40Z" changeset="109988158" uid="11022773" user="GeoFens">
+    <nd ref="7551169555"/>
+    <nd ref="7551169554"/>
+    <nd ref="7551169553"/>
+    <nd ref="7551169552"/>
+    <nd ref="7551169555"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Rosewood"/>
+    <tag k="shop" v="garden_centre"/>
+  </way>
+  <way id="841414492" version="1" timestamp="2020-08-27T16:58:50Z" changeset="90038334" uid="11022773" user="GeoFens">
+    <nd ref="7850614897"/>
+    <nd ref="7850614898"/>
+    <nd ref="7850614899"/>
+    <nd ref="7850614900"/>
+    <nd ref="7850614897"/>
+    <tag k="building" v="barn"/>
+    <tag k="name" v="Bat Roost"/>
+  </way>
+  <way id="941963289" version="4" timestamp="2025-04-11T16:36:53Z" changeset="164824573" uid="11022773" user="GeoFens">
     <nd ref="8722955726"/>
     <nd ref="8722955766"/>
-    <nd ref="7797399185"/>
     <nd ref="11775684530"/>
+    <nd ref="12748199091"/>
     <tag k="construction" v="yes"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Watson Close"/>

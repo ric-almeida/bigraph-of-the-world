@@ -41,9 +41,9 @@ build: [
 ]
 dev-repo: "git+https://github.com/royangkr/bigraph-of-the-world.git"
 pin-depends: [
-    ["bigraph.dev" "git+https://bitbucket.org/royangkr-bigraph/bigraph-tools/src/62a8734437cd564d175c8afed54f4a3ac32f874b/"]
-    ["gbs.dev" "git+https://bitbucket.org/royangkr-bigraph/bigraph-tools/src/62a8734437cd564d175c8afed54f4a3ac32f874b/"]
-    ["minicard.dev" "git+https://bitbucket.org/royangkr-bigraph/bigraph-tools/src/62a8734437cd564d175c8afed54f4a3ac32f874b/"]
-    ["minisat.dev" "git+https://bitbucket.org/royangkr-bigraph/bigraph-tools/src/62a8734437cd564d175c8afed54f4a3ac32f874b/"]
-    ["osm_xml.dev" "git+https://github.com/geocaml/osm_xml#a4032fc527312244d23bdbf9535618b566320780"]
+    ["bigraph.dev" "git+https://bitbucket.org/royangkr-bigraph/bigraph-tools.git"]
+    ["gbs.dev" "git+https://bitbucket.org/royangkr-bigraph/bigraph-tools.git"]
+    ["minicard.dev" "git+https://bitbucket.org/royangkr-bigraph/bigraph-tools.git"]
+    ["minisat.dev" "git+https://bitbucket.org/royangkr-bigraph/bigraph-tools.git"]
+    ["osm_xml.dev" "git+https://github.com/geocaml/osm_xml.git#a4032fc527312244d23bdbf9535618b566320780"]
 ]

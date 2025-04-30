@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:40:28Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="24973362" lat="52.4679130" lon="-0.2799975" version="3" timestamp="2024-04-07T16:44:50Z" changeset="149701284" uid="5229644" user="Nathan_A_RF"/>
-  <node id="32910027" lat="52.4777550" lon="-0.1702626" version="2" timestamp="2012-04-11T14:16:15Z" changeset="11265296" uid="504708" user="HillWithSmallFields"/>
-  <node id="59729592" lat="52.4985958" lon="-0.2481243" version="1" timestamp="2007-09-25T11:34:54Z" changeset="513065" uid="2955" user="Matthew Newton">
-    <tag k="created_by" v="JOSM"/>
-  </node>
+  <node id="59729582" lat="52.4817268" lon="-0.2427648" version="4" timestamp="2025-01-13T22:09:22Z" changeset="161326679" uid="5229644" user="Nathan_A_RF"/>
   <node id="411196507" lat="52.4704577" lon="-0.2421394" version="3" timestamp="2020-12-03T19:57:12Z" changeset="95246810" uid="11022773" user="GeoFens"/>
-  <node id="1011351998" lat="52.4686270" lon="-0.2376191" version="2" timestamp="2015-05-24T15:30:36Z" changeset="31422422" uid="350549" user="f00bar"/>
-  <node id="1368777921" lat="52.4704718" lon="-0.2712540" version="1" timestamp="2011-07-21T09:19:09Z" changeset="8786476" uid="54910" user="Marcin Floryan"/>
-  <node id="5652641134" lat="52.4744976" lon="-0.2460583" version="3" timestamp="2020-12-04T18:24:20Z" changeset="95310320" uid="11022773" user="GeoFens">
-    <tag k="addr:city" v="Peterborough"/>
-    <tag k="addr:housename" v="Outside Old Post Office"/>
-    <tag k="addr:postcode" v="PE7 3PH"/>
-    <tag k="addr:street" v="Station Road"/>
-    <tag k="addr:village" v="Holme"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="name" v="Holme Mobile Post Office Service"/>
-    <tag k="opening_hours" v="Mo,Fr 14:00-16:00"/>
-    <tag k="ref:pol_id" v="110057"/>
-    <tag k="source" v="pol_branch_list_2018-02"/>
-    <tag k="website" v="https://holme.cambs.info/locations/detail.asp?GetLocID=2232"/>
-  </node>
+  <node id="1008994860" lat="52.4687265" lon="-0.2376386" version="3" timestamp="2015-05-24T15:30:36Z" changeset="31422422" uid="350549" user="f00bar"/>
+  <node id="1711486069" lat="52.4777137" lon="-0.1705684" version="1" timestamp="2012-04-11T14:16:07Z" changeset="11265296" uid="504708" user="HillWithSmallFields"/>
   <way id="4968401" version="7" timestamp="2023-02-19T17:06:59Z" changeset="132757165" uid="11022773" user="GeoFens">
     <nd ref="106025"/>
     <nd ref="1645059626"/>
@@ -453,6 +437,20 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Holmewood Crescent"/>
   </way>
+  <way id="83664803" version="3" timestamp="2023-02-18T22:25:31Z" changeset="132731083" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="974213420"/>
+    <nd ref="974213358"/>
+    <nd ref="8191883943"/>
+    <nd ref="8191883944"/>
+    <nd ref="974213376"/>
+    <nd ref="974213327"/>
+    <nd ref="974213275"/>
+    <nd ref="974213420"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Holme Village Hall"/>
+  </way>
   <way id="86935783" version="3" timestamp="2017-04-29T15:32:21Z" changeset="48258464" uid="1778799" user="SomeoneElse_Revert">
     <nd ref="1008994860"/>
     <nd ref="1011351998"/>
@@ -539,6 +537,26 @@
     <nd ref="59729582"/>
     <tag k="highway" v="unclassified"/>
   </way>
+  <way id="154726929" version="2" timestamp="2018-07-10T15:01:29Z" changeset="60580932" uid="1302721" user="Glucosamine">
+    <nd ref="1672206076"/>
+    <nd ref="1672205897"/>
+    <nd ref="1672206073"/>
+    <nd ref="1672205862"/>
+    <nd ref="1672206076"/>
+    <tag k="building" v="yes"/>
+    <tag k="fixme" v="pumping station?"/>
+    <tag k="name" v="Pumping Station"/>
+  </way>
+  <way id="154726942" version="3" timestamp="2021-08-01T10:19:28Z" changeset="108968264" uid="714908" user="etgg">
+    <nd ref="1672205938"/>
+    <nd ref="1672206082"/>
+    <nd ref="1672206008"/>
+    <nd ref="1672206035"/>
+    <nd ref="8971659709"/>
+    <nd ref="1672205938"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Old Steam Pump"/>
+  </way>
   <way id="159044802" version="4" timestamp="2025-01-13T22:09:22Z" changeset="161326679" uid="5229644" user="Nathan_A_RF">
     <nd ref="1711486069"/>
     <nd ref="32910027"/>
@@ -578,6 +596,23 @@
     <tag k="building" v="commercial"/>
     <tag k="name" v="Holmewood Hall"/>
     <tag k="website" v="https://www.holmewoodhall.co.uk"/>
+  </way>
+  <way id="238768695" version="3" timestamp="2020-10-15T11:14:14Z" changeset="92519477" uid="281267" user="smb1001">
+    <nd ref="2465682982"/>
+    <nd ref="2465682901"/>
+    <nd ref="2465682960"/>
+    <nd ref="2465682970"/>
+    <nd ref="2465682900"/>
+    <nd ref="2465682918"/>
+    <nd ref="2465682950"/>
+    <nd ref="2465682934"/>
+    <nd ref="2465682982"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Giles (Parish Church of Holme with Conington)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544133"/>
   </way>
   <way id="374844489" version="6" timestamp="2024-09-01T16:50:00Z" changeset="156063385" uid="95856" user="john paul jones &amp; gringo">
     <nd ref="3782243057"/>
@@ -631,6 +666,38 @@
     <nd ref="59729557"/>
     <nd ref="7331428804"/>
     <tag k="highway" v="residential"/>
+  </way>
+  <way id="880754377" version="1" timestamp="2020-12-03T19:57:12Z" changeset="95246810" uid="11022773" user="GeoFens">
+    <nd ref="8191883822"/>
+    <nd ref="8191883823"/>
+    <nd ref="8191883824"/>
+    <nd ref="8191883825"/>
+    <nd ref="8191883826"/>
+    <nd ref="8191883827"/>
+    <nd ref="8191883822"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Holmewood House"/>
+  </way>
+  <way id="967820997" version="1" timestamp="2021-07-27T10:35:49Z" changeset="108680969" uid="714908" user="etgg">
+    <nd ref="8953816572"/>
+    <nd ref="8953816573"/>
+    <nd ref="8953816576"/>
+    <nd ref="8953816574"/>
+    <nd ref="8953816575"/>
+    <nd ref="8953816572"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="bird_hide"/>
+    <tag k="name" v="Jon's Hide"/>
+  </way>
+  <way id="967872032" version="1" timestamp="2021-07-27T13:54:05Z" changeset="108693366" uid="714908" user="etgg">
+    <nd ref="8954244705"/>
+    <nd ref="8954244706"/>
+    <nd ref="8954244707"/>
+    <nd ref="8954244708"/>
+    <nd ref="8954244705"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="bird_hide"/>
+    <tag k="name" v="Bird Wildfowl Viewing Hide"/>
   </way>
   <way id="1147666811" version="2" timestamp="2023-12-19T22:10:51Z" changeset="145308752" uid="953779" user="Adam Edwards">
     <nd ref="974213448"/>

@@ -1,49 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:15:13Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:28:05Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="231477" lat="52.2605175" lon="0.0162948" version="4" timestamp="2021-06-29T00:53:48Z" changeset="107114558" uid="5229644" user="Nathan_A_RF"/>
-  <node id="26661336" lat="52.2526832" lon="0.0209761" version="7" timestamp="2022-01-21T00:58:41Z" changeset="116407946" uid="2400059" user="Pablo Rodriguez">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:postcode" v="CB23 8DY"/>
-    <tag k="addr:street" v="Gladeside"/>
-    <tag k="addr:suburb" v="Bar Hill"/>
-    <tag k="amenity" v="library"/>
-    <tag k="name" v="Bar Hill Library"/>
-    <tag k="wikidata" v="Q55163426"/>
-  </node>
-  <node id="26661375" lat="52.2527693" lon="0.0207762" version="10" timestamp="2023-10-22T09:07:53Z" changeset="142958420" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housename" v="Bar Hill Library"/>
-    <tag k="addr:postcode" v="CB23 8DY"/>
-    <tag k="addr:street" v="Gladeside"/>
-    <tag k="addr:suburb" v="Bar Hill"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="brand" v="Post Office"/>
-    <tag k="brand:wikidata" v="Q1783168"/>
-    <tag k="name" v="Bar Hill Post Office"/>
-    <tag k="opening_hours" v="Mo 09:00-17:30; Tu 09:00-14:30; We 09:00-17:30; Th 09:00-12:30; Fr 09:00-17:30; Sa 09:00-12:30"/>
-    <tag k="ref:pol_id" v="8633"/>
-    <tag k="source:opening_hours" v="pol_branch_list_2018-02"/>
-    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/2271133/bar-hill"/>
-  </node>
-  <node id="4584275632" lat="52.2573703" lon="0.0232493" version="5" timestamp="2024-06-04T17:01:27Z" changeset="152253012" uid="13341565" user="Falsernet"/>
+  <node id="4584275627" lat="52.2573963" lon="0.0228762" version="2" timestamp="2021-06-29T00:53:48Z" changeset="107114558" uid="5229644" user="Nathan_A_RF"/>
   <node id="4584275634" lat="52.2572306" lon="0.0245875" version="5" timestamp="2024-06-04T17:01:27Z" changeset="152253012" uid="13341565" user="Falsernet"/>
+  <node id="4584275667" lat="52.2568628" lon="0.0233765" version="4" timestamp="2021-06-29T00:53:48Z" changeset="107114558" uid="5229644" user="Nathan_A_RF"/>
   <node id="11503234181" lat="52.2559629" lon="0.0263140" version="1" timestamp="2024-01-09T14:24:03Z" changeset="146069100" uid="5229644" user="Nathan_A_RF"/>
-  <node id="12099321516" lat="52.2536020" lon="0.0179732" version="1" timestamp="2024-08-08T18:51:15Z" changeset="154993360" uid="84263" user="Robert Whittaker">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:parentstreet" v="Viking Way"/>
-    <tag k="addr:postcode" v="CB23 8DZ"/>
-    <tag k="addr:street" v="The Mall"/>
-    <tag k="addr:suburb" v="Bar Hill"/>
-    <tag k="addr:unit" v="1-4"/>
-    <tag k="amenity" v="veterinary"/>
-    <tag k="brand" v="Vets4Pets"/>
-    <tag k="brand:wikidata" v="Q16960196"/>
-    <tag k="name" v="Vets4Pets"/>
-    <tag k="website" v="https://www.vets4pets.com/practices/vets-in-cambridge/cambridge-bar-hill-vets-for-pets/"/>
-  </node>
   <way id="4372245" version="13" timestamp="2022-04-21T21:46:17Z" changeset="120021039" uid="2400059" user="Pablo Rodriguez">
     <nd ref="60001385"/>
     <nd ref="1645003559"/>
@@ -314,6 +277,20 @@
     <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
     <tag k="website" v="https://www.tesco.com/store-locator/cambridge/15-18-viking-way"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="4372303" version="5" timestamp="2023-08-31T21:14:55Z" changeset="140654088" uid="5173844" user="ndrw6">
+    <nd ref="26661396"/>
+    <nd ref="26661395"/>
+    <nd ref="26661398"/>
+    <nd ref="1402714834"/>
+    <nd ref="1402714856"/>
+    <nd ref="26661397"/>
+    <nd ref="1402714787"/>
+    <nd ref="26661396"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="Waves Health &amp; Leisure Club"/>
+    <tag k="sport" v="gym;swimming"/>
   </way>
   <way id="4372304" version="13" timestamp="2023-08-31T21:14:55Z" changeset="140654088" uid="5173844" user="ndrw6">
     <nd ref="26661399"/>
@@ -1765,46 +1742,6 @@
     <tag k="source:name" v="dictaphone"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="8027087" version="18" timestamp="2023-09-11T12:56:53Z" changeset="141111856" uid="242345" user="confusedbuffalo">
-    <nd ref="60001433"/>
-    <nd ref="667899917"/>
-    <nd ref="9126749431"/>
-    <nd ref="667899918"/>
-    <nd ref="60001435"/>
-    <nd ref="667899919"/>
-    <nd ref="60001436"/>
-    <nd ref="4760270928"/>
-    <nd ref="9418815867"/>
-    <nd ref="9131354175"/>
-    <nd ref="9131354177"/>
-    <nd ref="4760270929"/>
-    <nd ref="1623389357"/>
-    <nd ref="1623389284"/>
-    <nd ref="1623389373"/>
-    <nd ref="9412673115"/>
-    <nd ref="9412673116"/>
-    <nd ref="60001433"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:postcode" v="CB23 8DY"/>
-    <tag k="addr:street" v="Gladeside"/>
-    <tag k="addr:suburb" v="Bar Hill"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="350"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Bar Hill Community Primary School"/>
-    <tag k="phone" v="+44 1954 273305"/>
-    <tag k="ref:GB:uprn" v="100091610445"/>
-    <tag k="ref:edubase" v="145801"/>
-    <tag k="ref:edubase:group" v="2526"/>
-    <tag k="school:trust" v="yes"/>
-    <tag k="school:trust:name" v="Meridian Trust"/>
-    <tag k="school:trust:type" v="multi_academy"/>
-    <tag k="school:type" v="academy"/>
-    <tag k="website" v="https://www.barhillschool.co.uk/"/>
-    <tag k="wikidata" v="Q66232537"/>
-  </way>
   <way id="8027088" version="4" timestamp="2022-02-04T17:45:45Z" changeset="117016408" uid="2400059" user="Pablo Rodriguez">
     <nd ref="60001111"/>
     <nd ref="60001113"/>
@@ -2096,72 +2033,6 @@
     <tag k="source:name" v="dictaphone"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="29180368" version="16" timestamp="2023-11-11T10:26:31Z" changeset="143893444" uid="9451067" user="b-jazz-bot">
-    <nd ref="320908700"/>
-    <nd ref="4398823428"/>
-    <nd ref="320908701"/>
-    <nd ref="320908702"/>
-    <nd ref="320908703"/>
-    <nd ref="320908704"/>
-    <nd ref="320908705"/>
-    <nd ref="320908706"/>
-    <nd ref="320908708"/>
-    <nd ref="320908709"/>
-    <nd ref="320908710"/>
-    <nd ref="320908711"/>
-    <nd ref="320908712"/>
-    <nd ref="1176324189"/>
-    <nd ref="8804436063"/>
-    <nd ref="8804436072"/>
-    <nd ref="10180557700"/>
-    <nd ref="1176324341"/>
-    <nd ref="4764452863"/>
-    <nd ref="4764452867"/>
-    <nd ref="4764452866"/>
-    <nd ref="11159830019"/>
-    <nd ref="4764452865"/>
-    <nd ref="1176324224"/>
-    <nd ref="1176324424"/>
-    <nd ref="1176324394"/>
-    <nd ref="1176324297"/>
-    <nd ref="8804436085"/>
-    <nd ref="8804436052"/>
-    <nd ref="1176324263"/>
-    <nd ref="2167779450"/>
-    <nd ref="1176324373"/>
-    <nd ref="8660712786"/>
-    <nd ref="1176324151"/>
-    <nd ref="1176324124"/>
-    <nd ref="1176324273"/>
-    <nd ref="9472253200"/>
-    <nd ref="476552897"/>
-    <nd ref="8660712757"/>
-    <nd ref="3673482218"/>
-    <nd ref="8804436058"/>
-    <nd ref="8804436054"/>
-    <nd ref="474700493"/>
-    <nd ref="474700491"/>
-    <nd ref="4398817248"/>
-    <nd ref="4398817250"/>
-    <nd ref="4398817249"/>
-    <nd ref="474700489"/>
-    <nd ref="474700486"/>
-    <nd ref="320908700"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:postcode" v="CB23 8EU"/>
-    <tag k="addr:street" v="Bar Hill"/>
-    <tag k="description" v="18 hole Par 72"/>
-    <tag k="email" v="cambridge@menzieshotels.co.uk"/>
-    <tag k="golf:course" v="18_hole"/>
-    <tag k="golf:par" v="72"/>
-    <tag k="leisure" v="golf_course"/>
-    <tag k="name" v="Menzies Cambridgeshire Golf Club"/>
-    <tag k="note" v="Southern corner accurately marked;W corner just a guess"/>
-    <tag k="phone" v="+44 1954 249988"/>
-    <tag k="source" v="Yahoo;dictaphone"/>
-    <tag k="source:name" v="survey"/>
-    <tag k="website" v="https://www.menzieshotels.co.uk/hotels/south-central/cambridge/golf/"/>
-  </way>
   <way id="43176810" version="17" timestamp="2024-12-30T15:00:08Z" changeset="160795908" uid="5229644" user="Nathan_A_RF">
     <nd ref="2466388663"/>
     <nd ref="11956211342"/>
@@ -2212,24 +2083,6 @@
     <tag k="community_centre" v="village_hall"/>
     <tag k="name" v="Bar Hill Village Hall &amp; Social Club"/>
   </way>
-  <way id="52783122" version="9" timestamp="2022-01-21T00:58:41Z" changeset="116407946" uid="2400059" user="Pablo Rodriguez">
-    <nd ref="669654806"/>
-    <nd ref="1623393148"/>
-    <nd ref="669654769"/>
-    <nd ref="669654775"/>
-    <nd ref="669654813"/>
-    <nd ref="669654806"/>
-    <tag k="access" v="private"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housename" v="The Village Hall"/>
-    <tag k="addr:postcode" v="CB23 8SU"/>
-    <tag k="addr:street" v="The Spinney"/>
-    <tag k="addr:suburb" v="Bar Hill"/>
-    <tag k="amenity" v="kindergarten"/>
-    <tag k="name" v="Bar Hill Pre-School"/>
-    <tag k="preschool" v="yes"/>
-    <tag k="source" v="http://www.barhillpreschool.co.uk/"/>
-  </way>
   <way id="55439440" version="8" timestamp="2024-02-22T12:28:48Z" changeset="147771397" uid="10420541" user="Thingummy">
     <nd ref="26661311"/>
     <nd ref="1333758334"/>
@@ -2239,6 +2092,46 @@
     <nd ref="1333758333"/>
     <tag k="hgv" v="private"/>
     <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="101893151" version="6" timestamp="2024-12-03T10:00:19Z" changeset="159873806" uid="374342" user="hocu">
+    <nd ref="1176336507"/>
+    <nd ref="1176336515"/>
+    <nd ref="1176336490"/>
+    <nd ref="1176336493"/>
+    <nd ref="1176336507"/>
+    <tag k="addr:county" v="Cambridgeshire"/>
+    <tag k="addr:housename" v="The Fox Gladeside"/>
+    <tag k="addr:postcode" v="CB23 8DY"/>
+    <tag k="addr:village" v="Bar Hill"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="fhrs:id" v="1433602"/>
+    <tag k="name" v="The Fox"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </way>
+  <way id="101893152" version="12" timestamp="2024-08-01T15:36:46Z" changeset="154699968" uid="84263" user="Robert Whittaker">
+    <nd ref="1176336489"/>
+    <nd ref="1176336517"/>
+    <nd ref="1176336520"/>
+    <nd ref="1176336499"/>
+    <nd ref="1176336503"/>
+    <nd ref="1176336506"/>
+    <nd ref="1176336489"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Tesco"/>
+    <tag k="brand:wikidata" v="Q487494"/>
+    <tag k="building" v="roof"/>
+    <tag k="check_date" v="2024-04-21"/>
+    <tag k="compressed_air" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:e10" v="yes"/>
+    <tag k="fuel:e5" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_99" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Tesco Petrol Station"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Tesco Stores Ltd"/>
   </way>
   <way id="118617370" version="4" timestamp="2022-04-01T06:50:35Z" changeset="119187881" uid="2400059" user="Pablo Rodriguez">
     <nd ref="1333758372"/>
@@ -5041,6 +4934,24 @@
     <tag k="source:addr" v="FSA Food Hygiene Ratings Database"/>
     <tag k="takeaway" v="yes"/>
   </way>
+  <way id="148034557" version="9" timestamp="2023-05-27T10:27:45Z" changeset="136618894" uid="3999" user="BarryMyles">
+    <nd ref="1611464503"/>
+    <nd ref="1611464486"/>
+    <nd ref="1611464520"/>
+    <nd ref="1611464489"/>
+    <nd ref="1611464554"/>
+    <nd ref="1611464505"/>
+    <nd ref="1611464503"/>
+    <tag k="building" v="retail"/>
+    <tag k="description" v="Used cars sales"/>
+    <tag k="email" v="sales@urbancarcompany.co.uk"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Urban Car Company"/>
+    <tag k="phone" v="+44 1954 782430"/>
+    <tag k="second_hand" v="only"/>
+    <tag k="shop" v="car"/>
+    <tag k="website" v="https://www.urbancarcompany.co.uk/"/>
+  </way>
   <way id="148034558" version="6" timestamp="2023-05-27T10:27:45Z" changeset="136618894" uid="3999" user="BarryMyles">
     <nd ref="1611464528"/>
     <nd ref="1611464459"/>
@@ -5852,6 +5763,19 @@
     <tag k="religion" v="christian"/>
     <tag k="website" v="https://www.barhillchurch.org.uk/"/>
     <tag k="wikidata" v="Q105097070"/>
+  </way>
+  <way id="149346448" version="2" timestamp="2017-03-29T21:35:35Z" changeset="47275058" uid="5573861" user="Tomp1994">
+    <nd ref="1623389310"/>
+    <nd ref="1623389384"/>
+    <nd ref="1623389296"/>
+    <nd ref="1623389380"/>
+    <nd ref="1623389379"/>
+    <nd ref="1623389371"/>
+    <nd ref="1623389342"/>
+    <nd ref="1623389356"/>
+    <nd ref="1623389310"/>
+    <tag k="building" v="church"/>
+    <tag k="name" v="Bar Hill Church Octagon"/>
   </way>
   <way id="149346449" version="7" timestamp="2022-01-21T00:58:41Z" changeset="116407946" uid="2400059" user="Pablo Rodriguez">
     <nd ref="1623389344"/>
@@ -17589,6 +17513,22 @@
     <tag k="addr:suburb" v="Bar Hill"/>
     <tag k="building" v="residential"/>
   </way>
+  <way id="205830204" version="5" timestamp="2024-08-01T16:17:49Z" changeset="154701569" uid="84263" user="Robert Whittaker">
+    <nd ref="2158148243"/>
+    <nd ref="2158148241"/>
+    <nd ref="1176336517"/>
+    <nd ref="1176336520"/>
+    <nd ref="2158148243"/>
+    <tag k="brand" v="Tesco Extra"/>
+    <tag k="brand:wikidata" v="Q25172225"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Tesco"/>
+    <tag k="note" v="Petrol station shop attached to larger store"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.tesco.com/store-locator/cambridge/15-18-viking-way"/>
+  </way>
   <way id="206729366" version="3" timestamp="2022-01-21T00:58:41Z" changeset="116407946" uid="2400059" user="Pablo Rodriguez">
     <nd ref="2167779511"/>
     <nd ref="2167779464"/>
@@ -18248,27 +18188,6 @@
     <nd ref="2189082568"/>
     <tag k="addr:city" v="Cambridge"/>
     <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="CB23 8TR"/>
-    <tag k="addr:street" v="Thruffle Way"/>
-    <tag k="addr:suburb" v="Bar Hill"/>
-    <tag k="building" v="residential"/>
-  </way>
-  <way id="208635645" version="3" timestamp="2022-01-21T00:58:41Z" changeset="116407946" uid="2400059" user="Pablo Rodriguez">
-    <nd ref="2189082564"/>
-    <nd ref="2189082572"/>
-    <nd ref="2189082570"/>
-    <nd ref="2189082566"/>
-    <nd ref="2189082577"/>
-    <nd ref="2189082575"/>
-    <nd ref="2189082585"/>
-    <nd ref="2189082588"/>
-    <nd ref="2189082584"/>
-    <nd ref="2189082599"/>
-    <nd ref="2189082590"/>
-    <nd ref="2189082581"/>
-    <nd ref="2189082564"/>
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="CB23 8TR"/>
     <tag k="addr:street" v="Thruffle Way"/>
     <tag k="addr:suburb" v="Bar Hill"/>
@@ -21448,6 +21367,21 @@
     <tag k="addr:suburb" v="Bar Hill"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="253966286" version="2" timestamp="2019-11-08T18:14:43Z" changeset="76825683" uid="16089" user="Ben Harris">
+    <nd ref="2598154262"/>
+    <nd ref="2598154281"/>
+    <nd ref="2598154283"/>
+    <nd ref="2598154263"/>
+    <nd ref="2598154262"/>
+    <tag k="building" v="yes"/>
+    <tag k="frequency" v="50"/>
+    <tag k="name" v="Wilcon H.E."/>
+    <tag k="operator" v="UK Power Networks"/>
+    <tag k="power" v="substation"/>
+    <tag k="ref" v="L3835 6317F"/>
+    <tag k="substation" v="minor_distribution"/>
+    <tag k="voltage" v="11000"/>
+  </way>
   <way id="253966287" version="7" timestamp="2022-08-27T20:44:17Z" changeset="125456641" uid="6476359" user="NSiecw">
     <nd ref="9504546465"/>
     <nd ref="9504546466"/>
@@ -24351,6 +24285,18 @@
     <tag k="building" v="house"/>
     <tag k="building:levels" v="2"/>
     <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="934490217" version="2" timestamp="2021-12-20T12:43:07Z" changeset="115165215" uid="2400059" user="Pablo Rodriguez">
+    <nd ref="8660706834"/>
+    <nd ref="8660706833"/>
+    <nd ref="8660706832"/>
+    <nd ref="8660706831"/>
+    <nd ref="8660706834"/>
+    <tag k="amenity" v="car_wash"/>
+    <tag k="brand" v="Waves"/>
+    <tag k="brand:wikidata" v="Q81802122"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Waves"/>
   </way>
   <way id="934490219" version="5" timestamp="2022-08-26T20:41:48Z" changeset="125422850" uid="6476359" user="NSiecw">
     <nd ref="8660706840"/>
@@ -30514,6 +30460,31 @@
     <tag k="addr:suburb" v="Bar Hill"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="1112689492" version="1" timestamp="2022-11-13T12:08:41Z" changeset="128844498" uid="742701" user="kerr smith">
+    <nd ref="10180557683"/>
+    <nd ref="10180557682"/>
+    <nd ref="10180557681"/>
+    <nd ref="10180557680"/>
+    <nd ref="10180557679"/>
+    <nd ref="10180557678"/>
+    <nd ref="10180557683"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Rhadegund Cottages"/>
+  </way>
+  <way id="1112689507" version="2" timestamp="2022-11-14T13:39:55Z" changeset="128892360" uid="6476359" user="NSiecw">
+    <nd ref="10180570788"/>
+    <nd ref="10180570787"/>
+    <nd ref="10180570786"/>
+    <nd ref="10180570785"/>
+    <nd ref="10180570784"/>
+    <nd ref="10180570783"/>
+    <nd ref="10180570788"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 8EU"/>
+    <tag k="addr:suburb" v="Bar Hill"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Willows"/>
+  </way>
   <way id="1176544010" version="1" timestamp="2023-05-27T10:27:45Z" changeset="136618894" uid="3999" user="BarryMyles">
     <nd ref="1621240378"/>
     <nd ref="10931291603"/>
@@ -30968,5 +30939,16 @@
     <tag k="highway" v="unclassified"/>
     <tag k="oneway" v="yes"/>
   </way>
+  <relation id="17547061" version="1" timestamp="2024-05-01T21:28:16Z" changeset="150769972" uid="742701" user="kerr smith">
+    <member type="way" ref="149098302" role="outer"/>
+    <member type="way" ref="1278903205" role="inner"/>
+    <tag k="addr:city" v="Cambridge"/>
+    <tag k="addr:postcode" v="CB23 8SL"/>
+    <tag k="addr:suburb" v="Bar Hill"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Adder Technology"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="https://www.adder.com/"/>
+  </relation>
 
 </osm>

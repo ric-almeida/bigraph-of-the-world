@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="309980336" lat="52.4253477" lon="-0.3641267" version="6" timestamp="2008-11-15T20:18:45Z" changeset="751450" uid="4951" user="PeterEastern"/>
   <node id="309980611" lat="52.3921451" lon="-0.3849235" version="8" timestamp="2011-01-10T06:30:22Z" changeset="6923350" uid="223853" user="Bobious"/>
-  <node id="1313517091" lat="52.4034940" lon="-0.3363924" version="1" timestamp="2011-06-05T21:18:46Z" changeset="8354620" uid="7098" user="richardm565"/>
-  <node id="2412154842" lat="52.4327402" lon="-0.4021737" version="1" timestamp="2013-08-09T15:24:11Z" changeset="17280553" uid="4951" user="PeterEastern"/>
+  <node id="540975168" lat="52.4153183" lon="-0.3752214" version="1" timestamp="2009-10-26T20:18:11Z" changeset="2959872" uid="28864" user="Hook"/>
+  <node id="1096013593" lat="52.4084654" lon="-0.3592717" version="1" timestamp="2011-01-10T06:27:27Z" changeset="6923350" uid="223853" user="Bobious"/>
+  <node id="1312130269" lat="52.4148063" lon="-0.3797330" version="1" timestamp="2011-06-04T17:37:58Z" changeset="8341156" uid="7098" user="richardm565"/>
   <way id="28222934" version="13" timestamp="2024-05-01T20:52:26Z" changeset="150768716" uid="1782504" user="corgicity">
     <nd ref="309980611"/>
     <nd ref="7997757429"/>
@@ -216,6 +216,18 @@
     <tag k="name" v="Thurning Road"/>
     <tag k="source:maxspeed" v="survey 2013-08-08"/>
   </way>
+  <way id="116388253" version="2" timestamp="2023-02-25T01:22:08Z" changeset="132990201" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="1312130271"/>
+    <nd ref="1312130273"/>
+    <nd ref="1312130276"/>
+    <nd ref="1312130279"/>
+    <nd ref="1312130271"/>
+    <tag k="addr:city" v="Winwick"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Winwick Village Hall"/>
+  </way>
   <way id="116536097" version="5" timestamp="2024-05-01T20:52:26Z" changeset="150768716" uid="1782504" user="corgicity">
     <nd ref="1143725916"/>
     <nd ref="1096014565"/>
@@ -235,6 +247,34 @@
     <tag k="maxspeed" v="60 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="source:maxspeed" v="survey 2013-08-08"/>
+  </way>
+  <way id="167411846" version="5" timestamp="2023-11-03T18:48:18Z" changeset="143587310" uid="504708" user="HillWithSmallFields">
+    <nd ref="1788015746"/>
+    <nd ref="1788015751"/>
+    <nd ref="1788015734"/>
+    <nd ref="1788015754"/>
+    <nd ref="1788015755"/>
+    <nd ref="1788015756"/>
+    <nd ref="1788015749"/>
+    <nd ref="1788015745"/>
+    <nd ref="1788015736"/>
+    <nd ref="1788015741"/>
+    <nd ref="1788015748"/>
+    <nd ref="1788015758"/>
+    <nd ref="1788015757"/>
+    <nd ref="1788015735"/>
+    <nd ref="1788015747"/>
+    <nd ref="1788015753"/>
+    <nd ref="1788015752"/>
+    <nd ref="1788015750"/>
+    <nd ref="1788015746"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints, Winwick"/>
+    <tag k="ref:dove" v="15407"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17544156"/>
   </way>
   <way id="181336602" version="8" timestamp="2024-05-01T20:52:26Z" changeset="150768716" uid="1782504" user="corgicity">
     <nd ref="312352972"/>

@@ -1,31 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:12:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:02Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="328532" lat="52.0681455" lon="0.1671712" version="6" timestamp="2016-08-06T06:19:35Z" changeset="41282172" uid="2299575" user="Robbie Francis"/>
-  <node id="328542" lat="52.1023318" lon="0.1345441" version="10" timestamp="2011-08-25T06:01:28Z" changeset="9118320" uid="458270" user="vtraveller"/>
-  <node id="328543" lat="52.1017305" lon="0.1352735" version="10" timestamp="2022-03-24T03:50:44Z" changeset="118844956" uid="13341565" user="Falsernet">
-    <tag k="exit_to" v="Saffron Walden, Duxford A505;Haverhill (A1307)"/>
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Duxford Interchange"/>
-    <tag k="ref" v="10"/>
-  </node>
   <node id="5245030" lat="52.1487995" lon="0.1037021" version="5" timestamp="2021-08-28T20:42:44Z" changeset="110393755" uid="493595" user="Yorvik Prestigitator"/>
-  <node id="5245219" lat="52.1447186" lon="0.1264279" version="3" timestamp="2013-04-26T13:16:48Z" changeset="15872207" uid="281267" user="smb1001"/>
-  <node id="25301214" lat="52.1225328" lon="0.1365388" version="1" timestamp="2007-01-19T17:38:26Z" changeset="197718" uid="2020" user="comsomol">
+  <node id="25779952" lat="52.1402460" lon="0.1104739" version="3" timestamp="2009-12-08T06:56:10Z" changeset="3322202" uid="21502" user="Kevin Steinhardt"/>
+  <node id="25779998" lat="52.1368230" lon="0.0989590" version="4" timestamp="2012-02-05T16:03:42Z" changeset="10594946" uid="3582" user="davidearl"/>
+  <node id="26355866" lat="52.1445861" lon="0.1258655" version="3" timestamp="2013-04-26T13:16:48Z" changeset="15872207" uid="281267" user="smb1001"/>
+  <node id="34094203" lat="52.1271939" lon="0.1355425" version="1" timestamp="2007-08-12T21:57:55Z" changeset="206589" uid="3582" user="davidearl">
     <tag k="created_by" v="JOSM"/>
   </node>
-  <node id="25779953" lat="52.1401870" lon="0.1103416" version="4" timestamp="2010-03-21T10:22:05Z" changeset="4188614" uid="5926" user="c2r"/>
-  <node id="25779998" lat="52.1368230" lon="0.0989590" version="4" timestamp="2012-02-05T16:03:42Z" changeset="10594946" uid="3582" user="davidearl"/>
-  <node id="33128942" lat="52.1483218" lon="0.1059555" version="3" timestamp="2018-08-05T00:09:43Z" changeset="61364168" uid="5173844" user="ndrw6"/>
   <node id="36744851" lat="52.1512865" lon="0.1104371" version="4" timestamp="2012-06-07T12:26:04Z" changeset="11824559" uid="24119" user="Mauls"/>
-  <node id="322239490" lat="52.0955628" lon="0.1405542" version="10" timestamp="2023-09-27T22:39:04Z" changeset="141840972" uid="15363444" user="osmscstuff">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Duxford Interchange"/>
-    <tag k="ref" v="10"/>
-  </node>
-  <node id="3263834047" lat="52.1481801" lon="0.1063510" version="2" timestamp="2018-08-05T00:09:51Z" changeset="61364168" uid="5173844" user="ndrw6"/>
   <way id="4237707" version="18" timestamp="2023-10-06T19:24:44Z" changeset="142245228" uid="20240549" user="Sforzando9500">
     <nd ref="11244406954"/>
     <nd ref="6102531303"/>
@@ -242,7 +228,7 @@
     <tag k="sidewalk" v="both"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="4331024" version="13" timestamp="2024-11-16T15:51:56Z" changeset="159213258" uid="10554793" user="dstansby">
+  <way id="4331024" version="14" timestamp="2025-04-07T13:20:33Z" changeset="164634427" uid="10554793" user="dstansby">
     <nd ref="5245030"/>
     <nd ref="7419663920"/>
     <nd ref="533796328"/>
@@ -267,6 +253,7 @@
     <tag k="maxheight:signed" v="no"/>
     <tag k="name" v="High Street"/>
     <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="4331027" version="11" timestamp="2023-11-05T08:03:17Z" changeset="143639380" uid="20240549" user="Sforzando9500">
     <nd ref="708543182"/>
@@ -963,16 +950,43 @@
     <tag k="addr:street" v="High Street"/>
     <tag k="building" v="retail"/>
   </way>
-  <way id="307583670" version="4" timestamp="2023-09-21T09:39:14Z" changeset="141549988" uid="20240549" user="Sforzando9500">
+  <way id="219004387" version="3" timestamp="2023-09-19T11:34:51Z" changeset="141464832" uid="20240549" user="Sforzando9500">
+    <nd ref="2282095730"/>
+    <nd ref="2282095687"/>
+    <nd ref="2282095716"/>
+    <nd ref="2282095639"/>
+    <nd ref="2282095679"/>
+    <nd ref="2282095730"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="North Building"/>
+  </way>
+  <way id="257495911" version="4" timestamp="2023-10-06T19:34:02Z" changeset="142245977" uid="20240549" user="Sforzando9500">
+    <nd ref="2630060887"/>
+    <nd ref="2630060782"/>
+    <nd ref="11200816108"/>
+    <nd ref="11200816109"/>
+    <nd ref="11200816110"/>
+    <nd ref="11200816111"/>
+    <nd ref="2630061022"/>
+    <nd ref="2630061049"/>
+    <nd ref="2630060887"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Little Shelford Manor"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="wikidata" v="Q17550234"/>
+  </way>
+  <way id="307583670" version="5" timestamp="2025-04-18T23:54:15Z" changeset="165134490" uid="629" user="Wookey">
     <nd ref="3127807793"/>
     <nd ref="3127807795"/>
     <nd ref="3127807792"/>
-    <nd ref="6102577535"/>
+    <nd ref="12767064324"/>
+    <nd ref="12767064323"/>
+    <nd ref="12767064322"/>
+    <nd ref="12767064321"/>
     <nd ref="3127807794"/>
     <nd ref="3127807793"/>
     <tag k="addr:city" v="Little Shelford"/>
     <tag k="addr:housename" v="Ley Grove Cottages"/>
-    <tag k="addr:housenumber" v="1-9"/>
     <tag k="addr:postcode" v="CB22 5EX"/>
     <tag k="addr:street" v="Whittlesford Road"/>
     <tag k="building" v="yes"/>
@@ -4310,24 +4324,6 @@
     <tag k="addr:street" v="High Street"/>
     <tag k="building" v="detached"/>
     <tag k="name" v="Hall Farm"/>
-  </way>
-  <way id="614204623" version="2" timestamp="2023-09-21T09:39:14Z" changeset="141549988" uid="20240549" user="Sforzando9500">
-    <nd ref="5810212747"/>
-    <nd ref="5810212746"/>
-    <nd ref="5810212745"/>
-    <nd ref="5810212738"/>
-    <nd ref="5810212739"/>
-    <nd ref="5810212741"/>
-    <nd ref="5810212740"/>
-    <nd ref="5810212742"/>
-    <nd ref="5810212743"/>
-    <nd ref="5810212744"/>
-    <nd ref="5810212747"/>
-    <tag k="addr:city" v="Little Shelford"/>
-    <tag k="addr:postcode" v="CB22 5EU"/>
-    <tag k="addr:street" v="Whittlesford Road"/>
-    <tag k="building" v="yes"/>
-    <tag k="name" v="Rectory Farm"/>
   </way>
   <way id="614204626" version="4" timestamp="2023-09-21T18:21:44Z" changeset="141572588" uid="20240549" user="Sforzando9500">
     <nd ref="5810212875"/>

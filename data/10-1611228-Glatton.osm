@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="4312007" lat="52.4455592" lon="-0.2760539" version="9" timestamp="2018-09-13T18:32:35Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="27397118" lat="52.4259105" lon="-0.2692804" version="13" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Sawtry"/>
-    <tag k="ref" v="15"/>
-  </node>
-  <node id="27397136" lat="52.4342413" lon="-0.2721148" version="9" timestamp="2018-07-25T23:37:37Z" changeset="61070715" uid="8571542" user="Merzof"/>
+  <node id="24973355" lat="52.4667261" lon="-0.2821564" version="7" timestamp="2024-04-07T16:44:50Z" changeset="149701284" uid="5229644" user="Nathan_A_RF"/>
+  <node id="24973362" lat="52.4679130" lon="-0.2799975" version="3" timestamp="2024-04-07T16:44:50Z" changeset="149701284" uid="5229644" user="Nathan_A_RF"/>
+  <node id="199341306" lat="52.4603927" lon="-0.3024394" version="13" timestamp="2010-10-30T21:28:42Z" changeset="6233545" uid="7098" user="richardm565"/>
   <node id="259564166" lat="52.4975087" lon="-0.2900812" version="10" timestamp="2018-09-13T18:32:36Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="259564170" lat="52.4974408" lon="-0.2903051" version="16" timestamp="2018-09-13T18:32:36Z" changeset="62561387" uid="2773866" user="kreuzschnabel">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Norman Cross"/>
-    <tag k="ref" v="16"/>
-  </node>
-  <node id="312350810" lat="52.4727388" lon="-0.3650243" version="3" timestamp="2009-08-10T19:28:23Z" changeset="2101081" uid="66869" user="Simon Daw"/>
   <node id="322090898" lat="52.4706842" lon="-0.3413068" version="1" timestamp="2008-12-27T19:01:33Z" changeset="630646" uid="7037" user="Gregory Williams"/>
+  <node id="322093480" lat="52.4571426" lon="-0.3408446" version="3" timestamp="2020-10-11T10:40:14Z" changeset="92297687" uid="281267" user="smb1001"/>
   <node id="322093507" lat="52.4520659" lon="-0.3329431" version="1" timestamp="2008-12-27T19:13:58Z" changeset="630646" uid="7037" user="Gregory Williams"/>
-  <node id="322093542" lat="52.4439866" lon="-0.3261571" version="1" timestamp="2008-12-27T19:14:03Z" changeset="630646" uid="7037" user="Gregory Williams"/>
   <node id="335387160" lat="52.4235977" lon="-0.2687809" version="2" timestamp="2018-09-13T18:32:37Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
-  <node id="345852686" lat="52.4479621" lon="-0.2771957" version="6" timestamp="2024-11-16T23:26:45Z" changeset="159225606" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Sawtry"/>
-    <tag k="ref" v="15"/>
-  </node>
-  <node id="411196440" lat="52.4578891" lon="-0.2798456" version="2" timestamp="2010-11-03T17:01:05Z" changeset="6277658" uid="7098" user="richardm565"/>
-  <node id="971082504" lat="52.4573663" lon="-0.2996472" version="2" timestamp="2020-05-26T10:55:51Z" changeset="85763556" uid="90142" user="andy mackey"/>
-  <node id="974213352" lat="52.4736739" lon="-0.2537312" version="1" timestamp="2010-11-01T22:59:09Z" changeset="6264147" uid="7098" user="richardm565"/>
-  <node id="1368777864" lat="52.4607497" lon="-0.2553283" version="1" timestamp="2011-07-21T09:19:08Z" changeset="8786476" uid="54910" user="Marcin Floryan"/>
+  <node id="1368777921" lat="52.4704718" lon="-0.2712540" version="1" timestamp="2011-07-21T09:19:09Z" changeset="8786476" uid="54910" user="Marcin Floryan"/>
   <node id="1551701257" lat="52.4522562" lon="-0.2782934" version="2" timestamp="2021-09-07T14:05:31Z" changeset="110862609" uid="281267" user="smb1001"/>
-  <node id="2164444644" lat="52.4794865" lon="-0.2860796" version="1" timestamp="2013-02-20T20:50:27Z" changeset="15104993" uid="322785" user="BCNorwich"/>
   <way id="4214304" version="16" timestamp="2024-04-07T16:44:50Z" changeset="149701284" uid="5229644" user="Nathan_A_RF">
     <nd ref="24973355"/>
     <nd ref="24973364"/>
@@ -668,6 +649,35 @@
     <tag k="operator:wikidata" v="Q5760006"/>
     <tag k="ref" v="A1(M)"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="492379160" version="2" timestamp="2020-10-10T22:07:31Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="971082490"/>
+    <nd ref="4844013277"/>
+    <nd ref="4844013278"/>
+    <nd ref="4844013280"/>
+    <nd ref="971082490"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Nicholas (Glatton Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527897"/>
+  </way>
+  <way id="881105202" version="2" timestamp="2023-02-25T01:15:06Z" changeset="132990124" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="8195001065"/>
+    <nd ref="10692191126"/>
+    <nd ref="8195001066"/>
+    <nd ref="8195001067"/>
+    <nd ref="8195001068"/>
+    <nd ref="8195001069"/>
+    <nd ref="8195001070"/>
+    <nd ref="8195001071"/>
+    <nd ref="8195001072"/>
+    <nd ref="8195001065"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Glatton Village Hall"/>
   </way>
   <way id="980584219" version="6" timestamp="2024-04-07T16:44:50Z" changeset="149701284" uid="5229644" user="Nathan_A_RF">
     <nd ref="1551701257"/>

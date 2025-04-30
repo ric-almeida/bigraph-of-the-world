@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:08:06Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:41:27Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="27340146" lat="52.5329036" lon="-0.3895812" version="10" timestamp="2023-03-11T15:11:12Z" changeset="133557013" uid="486701" user="eteb3"/>
-  <node id="335388529" lat="52.5522820" lon="-0.3397275" version="2" timestamp="2018-07-13T22:25:37Z" changeset="60701699" uid="2773866" user="kreuzschnabel"/>
-  <node id="349341793" lat="52.5463674" lon="-0.3322798" version="4" timestamp="2023-12-13T14:24:00Z" changeset="145077257" uid="9385857" user="Road5914"/>
-  <node id="415400018" lat="52.5346196" lon="-0.3671441" version="2" timestamp="2009-06-11T20:15:50Z" changeset="1490696" uid="131417" user="grebble"/>
+  <node id="349341794" lat="52.5459297" lon="-0.3334598" version="4" timestamp="2023-12-13T14:24:00Z" changeset="145077257" uid="9385857" user="Road5914"/>
+  <node id="361183488" lat="52.5534190" lon="-0.3412694" version="2" timestamp="2018-07-13T22:25:37Z" changeset="60701699" uid="2773866" user="kreuzschnabel"/>
   <node id="482018520" lat="52.5382412" lon="-0.3240951" version="3" timestamp="2023-12-13T14:24:00Z" changeset="145077257" uid="9385857" user="Road5914"/>
+  <node id="721847391" lat="52.5459647" lon="-0.3327521" version="4" timestamp="2023-12-13T14:24:00Z" changeset="145077257" uid="9385857" user="Road5914">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="721847577" lat="52.5464698" lon="-0.3342041" version="4" timestamp="2023-12-13T14:24:00Z" changeset="145077257" uid="9385857" user="Road5914"/>
+  <node id="1798052606" lat="52.5577865" lon="-0.3542069" version="1" timestamp="2012-06-22T10:25:45Z" changeset="11977384" uid="24119" user="Mauls"/>
   <node id="1798052607" lat="52.5580579" lon="-0.3544784" version="2" timestamp="2018-07-13T22:25:37Z" changeset="60701699" uid="2773866" user="kreuzschnabel"/>
-  <node id="1798052608" lat="52.5579318" lon="-0.3547114" version="1" timestamp="2012-06-22T10:25:45Z" changeset="11977384" uid="24119" user="Mauls"/>
-  <node id="2016486979" lat="52.5368792" lon="-0.3225798" version="2" timestamp="2018-09-13T18:32:38Z" changeset="62561387" uid="2773866" user="kreuzschnabel"/>
   <node id="2016550184" lat="52.5340081" lon="-0.3203459" version="2" timestamp="2017-05-18T16:19:22Z" changeset="48796276" uid="2773866" user="kreuzschnabel"/>
   <way id="4272279" version="24" timestamp="2024-01-07T14:44:18Z" changeset="145994071" uid="5229644" user="Nathan_A_RF">
     <nd ref="2016550184"/>
@@ -289,6 +291,31 @@
     <tag k="name" v="Priory Gardens"/>
     <tag k="source" v="survey"/>
     <tag k="source:name" v="voice"/>
+  </way>
+  <way id="167591552" version="4" timestamp="2020-10-13T09:47:48Z" changeset="92405705" uid="281267" user="smb1001">
+    <nd ref="1789847982"/>
+    <nd ref="1789847988"/>
+    <nd ref="1789848004"/>
+    <nd ref="1789847935"/>
+    <nd ref="1789847936"/>
+    <nd ref="1789847963"/>
+    <nd ref="1789847933"/>
+    <nd ref="1789847929"/>
+    <nd ref="1789847920"/>
+    <nd ref="1789847940"/>
+    <nd ref="1789847924"/>
+    <nd ref="1789847927"/>
+    <nd ref="1789847921"/>
+    <nd ref="1789847976"/>
+    <nd ref="1789847961"/>
+    <nd ref="1789847968"/>
+    <nd ref="1789847982"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Michael's, Chesterton"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527825"/>
   </way>
   <way id="168559432" version="14" timestamp="2023-12-31T19:39:05Z" changeset="145744865" uid="242345" user="confusedbuffalo">
     <nd ref="1798052606"/>

@@ -1,30 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:12:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:25:02Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="216255" lat="52.1007573" lon="0.2077730" version="2" timestamp="2011-12-19T23:35:09Z" changeset="10159843" uid="5926" user="c2r"/>
-  <node id="26530999" lat="52.1181226" lon="0.2390713" version="5" timestamp="2022-09-02T02:47:04Z" changeset="125677196" uid="5173844" user="ndrw6"/>
-  <node id="26531020" lat="52.1125403" lon="0.2441745" version="2" timestamp="2024-03-08T16:00:56Z" changeset="148390771" uid="5173844" user="ndrw6"/>
-  <node id="26531021" lat="52.1127088" lon="0.2445401" version="2" timestamp="2024-03-08T16:00:56Z" changeset="148390771" uid="5173844" user="ndrw6"/>
-  <node id="26531047" lat="52.1093196" lon="0.2491359" version="5" timestamp="2022-10-22T18:47:13Z" changeset="127934426" uid="1287673" user="sloerunner">
+  <node id="26531000" lat="52.1176347" lon="0.2390151" version="3" timestamp="2018-04-20T22:38:16Z" changeset="58278353" uid="5173844" user="ndrw6"/>
+  <node id="26531022" lat="52.1124677" lon="0.2447376" version="2" timestamp="2024-03-08T16:00:56Z" changeset="148390771" uid="5173844" user="ndrw6"/>
+  <node id="26531064" lat="52.1099581" lon="0.2370633" version="3" timestamp="2019-12-04T00:50:15Z" changeset="77904276" uid="5173844" user="ndrw6"/>
+  <node id="26531109" lat="52.1174693" lon="0.2169639" version="4" timestamp="2024-02-15T11:05:25Z" changeset="147485850" uid="9385857" user="Road5914"/>
+  <node id="26531232" lat="52.1044430" lon="0.2100144" version="2" timestamp="2025-02-23T11:49:00Z" changeset="162848256" uid="5008136" user="JayTurnr"/>
+  <node id="26531242" lat="52.1209263" lon="0.2189361" version="3" timestamp="2025-04-11T17:16:19Z" changeset="164826417" uid="18964624" user="Exterprook58">
     <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
   </node>
-  <node id="26531108" lat="52.1173966" lon="0.2168869" version="5" timestamp="2024-02-15T11:05:25Z" changeset="147485850" uid="9385857" user="Road5914"/>
-  <node id="26531242" lat="52.1210162" lon="0.2189700" version="2" timestamp="2008-10-23T14:19:32Z" changeset="532993" uid="17576" user="Laverock"/>
   <node id="36744839" lat="52.1184242" lon="0.2426526" version="4" timestamp="2013-08-20T04:05:06Z" changeset="17420577" uid="4951" user="PeterEastern"/>
-  <node id="792618870" lat="52.1173391" lon="0.2165604" version="2" timestamp="2012-01-27T12:56:20Z" changeset="10511964" uid="142710" user="tiiiim"/>
-  <node id="5627391821" lat="52.1167069" lon="0.2200807" version="2" timestamp="2018-05-19T05:55:47Z" changeset="59095743" uid="322785" user="BCNorwich">
-    <tag k="addr:city" v="Cambridge"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="CB21 6GP"/>
-    <tag k="addr:street" v="Granta Park"/>
-    <tag k="name" v="Illumina Cambridge Ltd"/>
-    <tag k="office" v="company"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="website" v="https://www.illumina.com/"/>
-  </node>
+  <node id="36744840" lat="52.1182835" lon="0.2427346" version="4" timestamp="2013-08-20T04:05:06Z" changeset="17420577" uid="4951" user="PeterEastern"/>
+  <node id="792618864" lat="52.1169926" lon="0.2168309" version="3" timestamp="2019-06-04T21:46:33Z" changeset="70938951" uid="5173844" user="ndrw6"/>
+  <node id="792618868" lat="52.1172331" lon="0.2168944" version="4" timestamp="2024-02-15T11:05:25Z" changeset="147485850" uid="9385857" user="Road5914"/>
   <way id="4355219" version="6" timestamp="2024-02-15T11:05:25Z" changeset="147485850" uid="9385857" user="Road5914">
     <nd ref="26531109"/>
     <nd ref="26531104"/>
@@ -172,9 +163,13 @@
     <tag k="oneway" v="yes"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
-  <way id="4355250" version="4" timestamp="2023-01-17T12:32:19Z" changeset="131377331" uid="8446147" user="Munnsy">
+  <way id="4355250" version="5" timestamp="2025-04-11T17:16:19Z" changeset="164826417" uid="18964624" user="Exterprook58">
     <nd ref="26531092"/>
+    <nd ref="12748265940"/>
+    <nd ref="12748265939"/>
+    <nd ref="12748265938"/>
     <nd ref="5587025049"/>
+    <nd ref="12748265937"/>
     <nd ref="26531065"/>
     <tag k="abutters" v="residential"/>
     <tag k="highway" v="tertiary"/>
@@ -445,14 +440,16 @@
     <tag k="name" v="Newmarket Road"/>
     <tag k="old_ref" v="A11"/>
   </way>
-  <way id="4355327" version="3" timestamp="2022-08-16T01:37:01Z" changeset="124949692" uid="13341565" user="Falsernet">
+  <way id="4355327" version="4" timestamp="2025-04-11T17:16:19Z" changeset="164826417" uid="18964624" user="Exterprook58">
     <nd ref="26531242"/>
     <nd ref="26531243"/>
     <tag k="bridge" v="yes"/>
     <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
     <tag k="layer" v="1"/>
     <tag k="name" v="Newmarket Road"/>
     <tag k="old_ref" v="A11"/>
+    <tag k="oneway" v="alternating"/>
   </way>
   <way id="4355328" version="6" timestamp="2023-01-21T14:51:33Z" changeset="131543798" uid="322785" user="BCNorwich">
     <nd ref="923558863"/>
@@ -507,26 +504,40 @@
     <tag k="oneway" v="yes"/>
     <tag k="source:name" v="local knowledge"/>
   </way>
-  <way id="64443004" version="7" timestamp="2023-01-17T12:32:19Z" changeset="131377331" uid="8446147" user="Munnsy">
+  <way id="64443004" version="8" timestamp="2025-04-11T17:16:19Z" changeset="164826417" uid="18964624" user="Exterprook58">
     <nd ref="792618706"/>
     <nd ref="26531102"/>
     <nd ref="938254252"/>
+    <nd ref="12748265945"/>
     <nd ref="938254253"/>
     <nd ref="26531101"/>
+    <nd ref="12748265946"/>
     <nd ref="938254254"/>
     <nd ref="26531100"/>
+    <nd ref="12748265947"/>
     <nd ref="26531099"/>
     <nd ref="1607445992"/>
+    <nd ref="12748265948"/>
     <nd ref="26531098"/>
+    <nd ref="12748265949"/>
+    <nd ref="12748265950"/>
     <nd ref="26531097"/>
+    <nd ref="12748265944"/>
     <nd ref="938254255"/>
+    <nd ref="12748265943"/>
     <nd ref="26531096"/>
+    <nd ref="12748265951"/>
+    <nd ref="12748265942"/>
     <nd ref="938254257"/>
+    <nd ref="12748265952"/>
     <nd ref="26531095"/>
+    <nd ref="12748265953"/>
     <nd ref="26531093"/>
     <nd ref="2352024446"/>
     <nd ref="6538630749"/>
+    <nd ref="12748265941"/>
     <nd ref="6522156940"/>
+    <nd ref="12748265954"/>
     <nd ref="26531092"/>
     <tag k="highway" v="tertiary"/>
     <tag k="maxspeed" v="30 mph"/>
@@ -711,9 +722,63 @@
     <tag k="building" v="house"/>
     <tag k="source" v="Bing"/>
   </way>
-  <way id="157288400" version="4" timestamp="2023-07-03T11:18:01Z" changeset="138059980" uid="281267" user="smb1001">
+  <way id="93080404" version="7" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="1078942224"/>
+    <nd ref="1078942041"/>
+    <nd ref="1607446183"/>
+    <nd ref="1078942115"/>
+    <nd ref="1078942160"/>
+    <nd ref="26531159"/>
+    <nd ref="26531164"/>
+    <nd ref="1078942119"/>
+    <nd ref="1078942036"/>
+    <nd ref="1607446199"/>
+    <nd ref="1078942028"/>
+    <nd ref="1078942038"/>
+    <nd ref="1078942177"/>
+    <nd ref="1078942152"/>
+    <nd ref="1078942184"/>
+    <nd ref="1078942224"/>
+    <tag k="addr:postcode" v="CB21 6AL"/>
+    <tag k="alt_name" v="The Welding Institute"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="TWI"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA140"/>
+    <tag k="source" v="Bing"/>
+    <tag k="website" v="http://www.twi.co.uk"/>
+    <tag k="wikidata" v="Q1408031"/>
+  </way>
+  <way id="128931117" version="5" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="1423424430"/>
+    <nd ref="1423424591"/>
+    <nd ref="1423424685"/>
+    <nd ref="2983661874"/>
+    <nd ref="1423424527"/>
+    <nd ref="6522156594"/>
+    <nd ref="6522156595"/>
+    <nd ref="1423424430"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Vernalis"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA030"/>
+  </way>
+  <way id="128931130" version="10" timestamp="2023-12-29T10:19:18Z" changeset="145654196" uid="242345" user="confusedbuffalo">
+    <nd ref="1423424504"/>
+    <nd ref="1423424613"/>
+    <nd ref="1423424608"/>
+    <nd ref="1423424431"/>
+    <nd ref="1423424520"/>
+    <nd ref="1423424448"/>
+    <nd ref="1423424504"/>
+    <tag k="addr:postcode" v="CB21 6GT;CB21 6DG;CB21 6GB"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Gilead"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA050"/>
+  </way>
+  <way id="157288400" version="5" timestamp="2025-04-11T17:16:19Z" changeset="164826417" uid="18964624" user="Exterprook58">
     <nd ref="26531065"/>
     <nd ref="1779232331"/>
+    <nd ref="12748265955"/>
+    <nd ref="12748265936"/>
     <nd ref="11022222799"/>
     <nd ref="5615455519"/>
     <nd ref="26531064"/>
@@ -722,6 +787,243 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Pampisford Road"/>
     <tag k="source:name" v="local knowledge"/>
+  </way>
+  <way id="233541580" version="4" timestamp="2018-12-30T22:35:02Z" changeset="65899704" uid="364" user="Edward">
+    <nd ref="2419129135"/>
+    <nd ref="2419129076"/>
+    <nd ref="2419129046"/>
+    <nd ref="2419129067"/>
+    <nd ref="2419129131"/>
+    <nd ref="2419129102"/>
+    <nd ref="572087313"/>
+    <nd ref="2419129105"/>
+    <nd ref="26531378"/>
+    <nd ref="2419129087"/>
+    <nd ref="2419129047"/>
+    <nd ref="2419129136"/>
+    <nd ref="2419129059"/>
+    <nd ref="2419129125"/>
+    <nd ref="2419129121"/>
+    <nd ref="2419129135"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary The Virgin"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550413"/>
+  </way>
+  <way id="266251345" version="9" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="2718228390"/>
+    <nd ref="2718228391"/>
+    <nd ref="2718228392"/>
+    <nd ref="2718228393"/>
+    <nd ref="2718228390"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="ele" v="0-2"/>
+    <tag k="name" v="1 Riverside"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA110"/>
+    <tag k="source" v="Foot"/>
+  </way>
+  <way id="266251702" version="9" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="2718231518"/>
+    <nd ref="2718231519"/>
+    <nd ref="2718231520"/>
+    <nd ref="2718231521"/>
+    <nd ref="2718231518"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="MedImmune"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA120"/>
+  </way>
+  <way id="266251703" version="10" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="2718231522"/>
+    <nd ref="2718231523"/>
+    <nd ref="2718231524"/>
+    <nd ref="2718231525"/>
+    <nd ref="2718231522"/>
+    <tag k="addr:postcode" v="CB21 6AD"/>
+    <tag k="building" v="office"/>
+    <tag k="name" v="3 Riverside"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA130"/>
+  </way>
+  <way id="266252374" version="5" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="2718245560"/>
+    <nd ref="2718261493"/>
+    <nd ref="2718261498"/>
+    <nd ref="2718261495"/>
+    <nd ref="2718245563"/>
+    <nd ref="2718245564"/>
+    <nd ref="2718245565"/>
+    <nd ref="2718245566"/>
+    <nd ref="2718245567"/>
+    <nd ref="8025686007"/>
+    <nd ref="2718245568"/>
+    <nd ref="2718245569"/>
+    <nd ref="2718245570"/>
+    <nd ref="2718245571"/>
+    <nd ref="2718245572"/>
+    <nd ref="2718245573"/>
+    <nd ref="2718245574"/>
+    <nd ref="2718245575"/>
+    <nd ref="2718245576"/>
+    <nd ref="2718245577"/>
+    <nd ref="2718245578"/>
+    <nd ref="2718245579"/>
+    <nd ref="2718245580"/>
+    <nd ref="2718245581"/>
+    <nd ref="2718245582"/>
+    <nd ref="2718245583"/>
+    <nd ref="2718245584"/>
+    <nd ref="2718245585"/>
+    <nd ref="2718245586"/>
+    <nd ref="2718245587"/>
+    <nd ref="2718245588"/>
+    <nd ref="2718245589"/>
+    <nd ref="2718245590"/>
+    <nd ref="2718245560"/>
+    <tag k="addr:postcode" v="CB21 6GH"/>
+    <tag k="building" v="office"/>
+    <tag k="name" v="Medimmune"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA190"/>
+  </way>
+  <way id="266252497" version="5" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="2718246930"/>
+    <nd ref="2718246931"/>
+    <nd ref="2718246932"/>
+    <nd ref="2718246933"/>
+    <nd ref="2718246934"/>
+    <nd ref="2718246935"/>
+    <nd ref="8025686023"/>
+    <nd ref="2718246936"/>
+    <nd ref="2718246937"/>
+    <nd ref="2718246938"/>
+    <nd ref="2718246939"/>
+    <nd ref="2718246940"/>
+    <nd ref="2718246941"/>
+    <nd ref="2718246942"/>
+    <nd ref="2718246943"/>
+    <nd ref="2718246944"/>
+    <nd ref="2718246945"/>
+    <nd ref="8025686022"/>
+    <nd ref="8025686021"/>
+    <nd ref="8025686020"/>
+    <nd ref="8025686019"/>
+    <nd ref="2718246947"/>
+    <nd ref="2718246948"/>
+    <nd ref="2718246949"/>
+    <nd ref="2718246950"/>
+    <nd ref="8025686027"/>
+    <nd ref="2718246951"/>
+    <nd ref="2718246952"/>
+    <nd ref="2718246953"/>
+    <nd ref="2718246954"/>
+    <nd ref="8025686028"/>
+    <nd ref="2718246955"/>
+    <nd ref="2718246956"/>
+    <nd ref="2718246957"/>
+    <nd ref="2718246958"/>
+    <nd ref="2718246959"/>
+    <nd ref="2718246960"/>
+    <nd ref="2718246961"/>
+    <nd ref="2718246962"/>
+    <nd ref="2718246963"/>
+    <nd ref="2718246964"/>
+    <nd ref="2718246965"/>
+    <nd ref="2718246966"/>
+    <nd ref="8025686016"/>
+    <nd ref="8025686015"/>
+    <nd ref="2718246930"/>
+    <tag k="addr:postcode" v="CB21 6GS"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="The Portway Building"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA240"/>
+  </way>
+  <way id="266252516" version="7" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="2718247306"/>
+    <nd ref="2718247307"/>
+    <nd ref="2718247308"/>
+    <nd ref="2718247309"/>
+    <nd ref="2718247310"/>
+    <nd ref="3526401829"/>
+    <nd ref="8025686006"/>
+    <nd ref="8025686005"/>
+    <nd ref="2718247315"/>
+    <nd ref="8025686004"/>
+    <nd ref="8025686003"/>
+    <nd ref="2718247319"/>
+    <nd ref="8025686002"/>
+    <nd ref="8025686001"/>
+    <nd ref="2718247320"/>
+    <nd ref="2718247318"/>
+    <nd ref="2718247321"/>
+    <nd ref="8025686000"/>
+    <nd ref="2718247322"/>
+    <nd ref="8025685999"/>
+    <nd ref="2718247323"/>
+    <nd ref="2718247324"/>
+    <nd ref="8025685997"/>
+    <nd ref="8025685996"/>
+    <nd ref="8025685995"/>
+    <nd ref="2718247326"/>
+    <nd ref="2718247306"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="PPD"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA220"/>
+  </way>
+  <way id="266253071" version="4" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="1078942096"/>
+    <nd ref="2718260227"/>
+    <nd ref="2718260228"/>
+    <nd ref="1078942211"/>
+    <nd ref="2718259107"/>
+    <nd ref="2718259108"/>
+    <nd ref="2718259109"/>
+    <nd ref="1078942096"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Discovery Café"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA070.2"/>
+  </way>
+  <way id="294747386" version="3" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="2983661875"/>
+    <nd ref="2983661876"/>
+    <nd ref="2983661877"/>
+    <nd ref="2983661878"/>
+    <nd ref="2983661875"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Pfizer"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA040"/>
+  </way>
+  <way id="294747387" version="3" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="2983661879"/>
+    <nd ref="2983661880"/>
+    <nd ref="2983661881"/>
+    <nd ref="2983661882"/>
+    <nd ref="2983661879"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Security"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA010"/>
+  </way>
+  <way id="346034571" version="4" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="3526401829"/>
+    <nd ref="8025686006"/>
+    <nd ref="3526401830"/>
+    <nd ref="2718247318"/>
+    <nd ref="2718247321"/>
+    <nd ref="8025685988"/>
+    <nd ref="8025685989"/>
+    <nd ref="8025685990"/>
+    <nd ref="8025685991"/>
+    <nd ref="8025685992"/>
+    <nd ref="8025685993"/>
+    <nd ref="8025685994"/>
+    <nd ref="3526401831"/>
+    <nd ref="3526401829"/>
+    <tag k="addr:postcode" v="CB21 6GQ"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="illumnus"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA230"/>
   </way>
   <way id="478269398" version="3" timestamp="2024-12-08T23:59:55Z" changeset="160073800" uid="5173844" user="ndrw6">
     <nd ref="4715054380"/>
@@ -766,6 +1068,21 @@
     <tag k="addr:street" v="Pampisford Road"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="584479230" version="2" timestamp="2019-09-26T15:47:28Z" changeset="74971035" uid="281267" user="smb1001">
+    <nd ref="5587025545"/>
+    <nd ref="5587025546"/>
+    <nd ref="5587025547"/>
+    <nd ref="5587025548"/>
+    <nd ref="5587025549"/>
+    <nd ref="5587025550"/>
+    <nd ref="5587025551"/>
+    <nd ref="5587025552"/>
+    <nd ref="6828120390"/>
+    <nd ref="5587025545"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Abington Institute"/>
+  </way>
   <way id="584479233" version="3" timestamp="2020-01-20T21:44:24Z" changeset="79818634" uid="364" user="Edward">
     <nd ref="5587025568"/>
     <nd ref="5587025569"/>
@@ -796,6 +1113,28 @@
     <tag k="addr:postcode" v="CB21 6AU"/>
     <tag k="addr:street" v="South Road"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="694592323" version="4" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="6522156927"/>
+    <nd ref="6522156925"/>
+    <nd ref="6522156932"/>
+    <nd ref="6522156929"/>
+    <nd ref="6522156930"/>
+    <nd ref="6522156931"/>
+    <nd ref="6522156926"/>
+    <nd ref="6522156928"/>
+    <nd ref="6522156924"/>
+    <nd ref="6522156934"/>
+    <nd ref="6522156935"/>
+    <nd ref="6522156933"/>
+    <nd ref="6522156927"/>
+    <tag k="addr:postcode" v="CB21 6DF"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="height" v="12"/>
+    <tag k="name" v="Illumina EMEA"/>
+    <tag k="office" v="research"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA250"/>
   </way>
   <way id="751414970" version="2" timestamp="2020-09-30T09:33:13Z" changeset="91757934" uid="1287673" user="sloerunner">
     <nd ref="7024437005"/>
@@ -1381,6 +1720,20 @@
     <tag k="addr:postcode" v="CB21 6AU"/>
     <tag k="addr:street" v="South Road"/>
     <tag k="building" v="house"/>
+  </way>
+  <way id="861100997" version="2" timestamp="2020-10-23T15:32:19Z" changeset="92958274" uid="3582" user="davidearl">
+    <nd ref="2718259109"/>
+    <nd ref="2718259108"/>
+    <nd ref="1078942091"/>
+    <nd ref="1078942228"/>
+    <nd ref="1078942216"/>
+    <nd ref="1078942044"/>
+    <nd ref="2718259109"/>
+    <tag k="addr:postcode" v="CB21 6GP"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="McClintock Building"/>
+    <tag k="ref:university_of_cambridge" v="EXT/GRANTA070.1"/>
+    <tag k="source" v="Bing"/>
   </way>
   <way id="957939717" version="3" timestamp="2022-09-02T02:47:05Z" changeset="125677196" uid="5173844" user="ndrw6">
     <nd ref="8863761679"/>

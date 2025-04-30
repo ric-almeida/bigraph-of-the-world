@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:12:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:25:02Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="35717098" lat="52.0955601" lon="0.3185014" version="2" timestamp="2012-06-11T19:57:39Z" changeset="11868452" uid="383983" user="Ben Wheatley"/>
-  <node id="96518184" lat="52.0812934" lon="0.3050565" version="5" timestamp="2013-08-27T20:20:30Z" changeset="17543807" uid="553735" user="Johnmb"/>
+  <node id="96518180" lat="52.0812492" lon="0.3074855" version="4" timestamp="2013-08-27T20:20:30Z" changeset="17543807" uid="553735" user="Johnmb"/>
+  <node id="96518194" lat="52.0809027" lon="0.3106518" version="3" timestamp="2013-06-02T10:44:53Z" changeset="16389385" uid="553735" user="Johnmb"/>
   <node id="688780046" lat="52.0820340" lon="0.3307125" version="1" timestamp="2010-04-08T13:52:31Z" changeset="4364124" uid="66869" user="Simon Daw"/>
   <node id="1783876627" lat="52.0956726" lon="0.3184678" version="2" timestamp="2025-02-21T17:29:08Z" changeset="162790423" uid="5229644" user="Nathan_A_RF"/>
-  <node id="1783876699" lat="52.0953422" lon="0.3185777" version="3" timestamp="2024-02-17T02:22:39Z" changeset="147554786" uid="629" user="Wookey"/>
   <node id="2330052224" lat="52.0833958" lon="0.3098091" version="1" timestamp="2013-06-02T23:55:11Z" changeset="16399554" uid="553735" user="Johnmb"/>
-  <node id="3523096632" lat="52.0765203" lon="0.3121586" version="1" timestamp="2015-05-17T07:44:17Z" changeset="31219473" uid="90142" user="andy mackey"/>
   <way id="10862954" version="10" timestamp="2025-02-21T17:44:56Z" changeset="162790911" uid="5229644" user="Nathan_A_RF">
     <nd ref="96518170"/>
     <nd ref="1633217529"/>
@@ -194,6 +192,27 @@
     <tag k="note" v="naming tentative - no signs, deduced from websites"/>
     <tag k="source:name" v="http://www.ukhotelnet.com/cambridge/hotels.htm"/>
   </way>
+  <way id="224087370" version="6" timestamp="2018-05-28T10:42:21Z" changeset="59336427" uid="364" user="Edward">
+    <nd ref="2329219447"/>
+    <nd ref="2329219412"/>
+    <nd ref="2329219116"/>
+    <nd ref="2329219083"/>
+    <nd ref="2329219430"/>
+    <nd ref="2329219474"/>
+    <nd ref="2329219267"/>
+    <nd ref="2329219057"/>
+    <nd ref="2329219132"/>
+    <nd ref="2329219255"/>
+    <nd ref="2329219062"/>
+    <nd ref="2329219384"/>
+    <nd ref="2329219447"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Mary's, Bartlow"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17528234"/>
+  </way>
   <way id="224167255" version="3" timestamp="2023-05-12T09:28:56Z" changeset="136009477" uid="2836992" user="Picity">
     <nd ref="2329955823"/>
     <nd ref="2329955859"/>
@@ -214,6 +233,23 @@
     <tag k="opening_hours" v="We-Fr 12:00-15:00,18:00-23:00; Sa 12:00-23:00; Su 12:00-18:00"/>
     <tag k="website" v="https://www.thethreehills.co.uk/"/>
     <tag k="wikidata" v="Q26616324"/>
+  </way>
+  <way id="224292931" version="1" timestamp="2013-06-03T21:27:46Z" changeset="16413239" uid="553735" user="Johnmb">
+    <nd ref="2331105483"/>
+    <nd ref="2331105465"/>
+    <nd ref="2331105466"/>
+    <nd ref="2331105360"/>
+    <nd ref="2331105426"/>
+    <nd ref="2331105482"/>
+    <nd ref="2331105358"/>
+    <nd ref="2331105387"/>
+    <nd ref="2331105471"/>
+    <nd ref="2331105428"/>
+    <nd ref="2331105391"/>
+    <nd ref="2331105430"/>
+    <nd ref="2331105483"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bartlow Park"/>
   </way>
   <way id="830156450" version="2" timestamp="2023-01-08T12:16:09Z" changeset="131010124" uid="1436106" user="m_chelmsford">
     <nd ref="96518170"/>

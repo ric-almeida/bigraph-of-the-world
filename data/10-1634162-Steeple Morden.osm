@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="17808811" lat="52.0539405" lon="-0.1406106" version="5" timestamp="2011-03-20T17:05:06Z" changeset="7618847" uid="233042" user="CJY"/>
   <node id="21309111" lat="52.0280367" lon="-0.1082103" version="4" timestamp="2016-03-29T12:58:35Z" changeset="38143949" uid="84263" user="Robert Whittaker"/>
   <node id="240018789" lat="52.0348522" lon="-0.1248087" version="3" timestamp="2024-09-07T15:04:41Z" changeset="156316923" uid="742701" user="kerr smith"/>
-  <node id="266796527" lat="52.0849909" lon="-0.1242055" version="4" timestamp="2023-10-08T10:39:57Z" changeset="142299025" uid="5173844" user="ndrw6"/>
   <node id="275940811" lat="52.0275946" lon="-0.1091739" version="6" timestamp="2022-07-08T15:03:02Z" changeset="123370599" uid="13792107" user="LordGarySugar">
     <tag k="junction" v="yes"/>
     <tag k="name" v="Odsey Corner"/>
   </node>
   <node id="275942020" lat="52.0990889" lon="-0.1056269" version="3" timestamp="2025-01-31T13:43:08Z" changeset="161977795" uid="742701" user="kerr smith"/>
-  <node id="401829349" lat="52.0340898" lon="-0.0907631" version="1" timestamp="2009-05-16T19:42:59Z" changeset="1213862" uid="5926" user="c2r"/>
+  <node id="275942550" lat="52.0604172" lon="-0.1287287" version="1" timestamp="2008-07-03T14:48:40Z" changeset="377944" uid="3582" user="davidearl"/>
   <node id="582084222" lat="52.0674120" lon="-0.0918281" version="1" timestamp="2009-12-05T19:57:13Z" changeset="3297844" uid="28864" user="Hook"/>
   <node id="583385684" lat="52.0789813" lon="-0.1315329" version="2" timestamp="2011-03-20T16:49:49Z" changeset="7618676" uid="233042" user="CJY"/>
-  <node id="1534732368" lat="52.0381252" lon="-0.0781400" version="3" timestamp="2023-11-17T19:27:40Z" changeset="144151886" uid="705850" user="Cebderby"/>
-  <node id="1534732421" lat="52.0371125" lon="-0.0814194" version="1" timestamp="2011-12-06T23:10:45Z" changeset="10054398" uid="5926" user="c2r"/>
   <node id="9874655771" lat="52.0274736" lon="-0.1094228" version="1" timestamp="2022-07-08T15:03:02Z" changeset="123370599" uid="13792107" user="LordGarySugar"/>
-  <node id="11670004350" lat="52.0431201" lon="-0.0647236" version="1" timestamp="2024-02-27T20:32:30Z" changeset="147989213" uid="5229644" user="Nathan_A_RF"/>
   <way id="22323648" version="3" timestamp="2010-05-04T21:27:53Z" changeset="4608520" uid="21502" user="Kevin Steinhardt">
     <nd ref="17808808"/>
     <nd ref="275940329"/>
@@ -784,47 +779,6 @@
     <tag k="foot" v="designated"/>
     <tag k="highway" v="unclassified"/>
   </way>
-  <way id="154590228" version="10" timestamp="2023-05-24T22:59:45Z" changeset="136519989" uid="3999" user="BarryMyles">
-    <nd ref="1671185430"/>
-    <nd ref="1671185229"/>
-    <nd ref="1671185131"/>
-    <nd ref="2278501086"/>
-    <nd ref="1671185087"/>
-    <nd ref="1671185193"/>
-    <nd ref="2278501130"/>
-    <nd ref="10925336085"/>
-    <nd ref="10925336086"/>
-    <nd ref="1671185430"/>
-    <tag k="addr:city" v="Royston"/>
-    <tag k="addr:county" v="Hertfordshire"/>
-    <tag k="addr:housename" v="Steeple Morden CofE VC Primary School"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="SG8 0PD"/>
-    <tag k="addr:street" v="Hay Street"/>
-    <tag k="addr:suburb" v="Steeple Morden"/>
-    <tag k="amenity" v="school"/>
-    <tag k="capacity" v="208"/>
-    <tag k="denomination" v="anglican"/>
-    <tag k="diocese" v="Diocese of Ely"/>
-    <tag k="email" v="office@steeplemorden.cambs.sch.uk"/>
-    <tag k="isced:level" v="1"/>
-    <tag k="max_age" v="11"/>
-    <tag k="min_age" v="4"/>
-    <tag k="name" v="Steeple Morden CofE VC Primary School"/>
-    <tag k="operator" v="Cambridgeshire County Council"/>
-    <tag k="operator:wikidata" v="Q5025648"/>
-    <tag k="phone" v="+44 1763 852 474"/>
-    <tag k="ref:GB:uprn" v="100091577296"/>
-    <tag k="ref:edubase" v="110793"/>
-    <tag k="religion" v="christian"/>
-    <tag k="school:boarding" v="no"/>
-    <tag k="school:gender" v="mixed"/>
-    <tag k="school:selective" v="no"/>
-    <tag k="school:trust" v="no"/>
-    <tag k="school:type" v="voluntary_controlled"/>
-    <tag k="website" v="https://www.steeplemorden.cambs.sch.uk/"/>
-    <tag k="wikidata" v="Q66223613"/>
-  </way>
   <way id="190295176" version="2" timestamp="2013-04-23T16:20:51Z" changeset="15838707" uid="281267" user="smb1001">
     <nd ref="2008975615"/>
     <nd ref="2008975616"/>
@@ -843,6 +797,61 @@
     <tag k="name" v="Plough Close"/>
     <tag k="source" v="Bing"/>
     <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="218619661" version="4" timestamp="2020-10-15T11:14:02Z" changeset="92519477" uid="281267" user="smb1001">
+    <nd ref="2278500804"/>
+    <nd ref="2278501312"/>
+    <nd ref="2278501144"/>
+    <nd ref="2278501199"/>
+    <nd ref="2278501253"/>
+    <nd ref="2278501186"/>
+    <nd ref="2278500914"/>
+    <nd ref="2278501128"/>
+    <nd ref="2278500837"/>
+    <nd ref="2278500885"/>
+    <nd ref="2278501050"/>
+    <nd ref="2278500984"/>
+    <nd ref="2278500804"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter &amp; St Paul (Steeple Morden Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550538"/>
+  </way>
+  <way id="218619670" version="2" timestamp="2021-07-04T23:07:11Z" changeset="107409144" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="2278500895"/>
+    <nd ref="2278501097"/>
+    <nd ref="2278501267"/>
+    <nd ref="2278501158"/>
+    <nd ref="2278500895"/>
+    <tag k="addr:city" v="Steeple Morden"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Steeple Morden Village Hall"/>
+  </way>
+  <way id="218619671" version="2" timestamp="2019-10-01T09:23:48Z" changeset="75138397" uid="281267" user="smb1001">
+    <nd ref="2278501060"/>
+    <nd ref="2278500999"/>
+    <nd ref="2278500860"/>
+    <nd ref="2278500975"/>
+    <nd ref="2278501060"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Waggon &amp; Horses"/>
+    <tag k="wikidata" v="Q26421084"/>
+  </way>
+  <way id="218619675" version="2" timestamp="2023-05-24T22:59:45Z" changeset="136519989" uid="3999" user="BarryMyles">
+    <nd ref="2278501255"/>
+    <nd ref="2278501054"/>
+    <nd ref="2278500926"/>
+    <nd ref="2278501046"/>
+    <nd ref="2278501255"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Prothero's Garage"/>
+    <tag k="phone" v="+441763852239"/>
+    <tag k="shop" v="car_repair"/>
   </way>
   <way id="301937418" version="2" timestamp="2023-11-16T16:38:01Z" changeset="144103995" uid="13445" user="zorque">
     <nd ref="3061125964"/>
@@ -881,6 +890,38 @@
     <tag k="addr:street" v="The Green"/>
     <tag k="building" v="yes"/>
     <tag k="note" v="former Fox public house"/>
+  </way>
+  <way id="779410660" version="1" timestamp="2020-03-08T20:43:12Z" changeset="81933227" uid="84263" user="Robert Whittaker">
+    <nd ref="7278042775"/>
+    <nd ref="7278042776"/>
+    <nd ref="7278042777"/>
+    <nd ref="7278042778"/>
+    <nd ref="7278042775"/>
+    <tag k="brand" v="BP Shop"/>
+    <tag k="brand:wikidata" v="Q152057"/>
+    <tag k="brand:wikipedia" v="en:BP"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="BP Shop"/>
+    <tag k="shop" v="convenience"/>
+  </way>
+  <way id="779410661" version="3" timestamp="2024-04-21T21:08:08Z" changeset="150318877" uid="6816132" user="CjMalone">
+    <nd ref="252989604"/>
+    <nd ref="7278042780"/>
+    <nd ref="7278042781"/>
+    <nd ref="7278042782"/>
+    <nd ref="7278042783"/>
+    <nd ref="7278042784"/>
+    <nd ref="7278160185"/>
+    <nd ref="7278160186"/>
+    <nd ref="252989604"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="BP"/>
+    <tag k="brand:wikidata" v="Q152057"/>
+    <tag k="brand:wikipedia" v="en:BP"/>
+    <tag k="building" v="roof"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="BP"/>
+    <tag k="website" v="https://map.bp.com/en-GB/GB/petrol-station/baldock/odsey-service-station/218250907"/>
   </way>
   <way id="1076872046" version="2" timestamp="2024-09-08T14:12:08Z" changeset="156353869" uid="742701" user="kerr smith">
     <nd ref="9874655771"/>

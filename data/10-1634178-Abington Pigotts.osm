@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:13:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:26:58Z" areas="2025-02-06T02:17:44Z"/>
 
-  <node id="87805367" lat="52.0828842" lon="-0.0942565" version="8" timestamp="2023-10-21T06:24:07Z" changeset="142909233" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:postcode" v="SG8 0SD"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="name" v="Pig &amp; Abbot"/>
-    <tag k="operator" v="Free House"/>
-    <tag k="phone" v="+44 1763 853515"/>
-    <tag k="website" v="https://www.pigandabbot.co.uk/"/>
-  </node>
   <node id="275940086" lat="52.1003287" lon="-0.0900714" version="4" timestamp="2023-10-08T10:39:57Z" changeset="142299025" uid="5173844" user="ndrw6"/>
   <node id="603858756" lat="52.0783435" lon="-0.0914420" version="1" timestamp="2010-01-03T19:06:42Z" changeset="3531407" uid="5926" user="c2r"/>
-  <node id="603862413" lat="52.0896599" lon="-0.0801391" version="2" timestamp="2011-03-20T17:16:08Z" changeset="7618977" uid="233042" user="CJY"/>
+  <node id="603862185" lat="52.0896895" lon="-0.0802123" version="3" timestamp="2011-03-20T17:16:09Z" changeset="7618977" uid="233042" user="CJY"/>
   <way id="10317994" version="8" timestamp="2020-10-13T06:38:00Z" changeset="92391800" uid="10170582" user="priymose">
     <nd ref="84588283"/>
     <nd ref="8002242600"/>
@@ -196,6 +187,52 @@
     <tag k="highway" v="unclassified"/>
     <tag k="prow_ref" v="Abington Pigotts FP 5"/>
     <tag k="source:prow_ref" v="cambridgeshire_county_council_prow_gis_data"/>
+  </way>
+  <way id="218725797" version="3" timestamp="2019-05-04T22:35:56Z" changeset="69891195" uid="5173844" user="ndrw6">
+    <nd ref="2279519694"/>
+    <nd ref="2279520091"/>
+    <nd ref="2279520000"/>
+    <nd ref="2279520047"/>
+    <nd ref="2279519989"/>
+    <nd ref="2279519818"/>
+    <nd ref="2279519694"/>
+    <tag k="addr:postcode" v="SG8 0SN"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Home Farm"/>
+    <tag k="wikidata" v="Q26456673"/>
+  </way>
+  <way id="218725800" version="4" timestamp="2020-10-10T22:08:12Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="2279519721"/>
+    <nd ref="2279520078"/>
+    <nd ref="2279519990"/>
+    <nd ref="2279519699"/>
+    <nd ref="2279519546"/>
+    <nd ref="2279519578"/>
+    <nd ref="2279520016"/>
+    <nd ref="2279519610"/>
+    <nd ref="2279519869"/>
+    <nd ref="2279519515"/>
+    <nd ref="2279519459"/>
+    <nd ref="2279520097"/>
+    <nd ref="2279519721"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St. Michael &amp; All Angels (Abington Pigotts Parish Church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550383"/>
+  </way>
+  <way id="218725807" version="2" timestamp="2018-12-30T22:35:03Z" changeset="65899704" uid="364" user="Edward">
+    <nd ref="2279520087"/>
+    <nd ref="2279519735"/>
+    <nd ref="2279519823"/>
+    <nd ref="2279519650"/>
+    <nd ref="2279519607"/>
+    <nd ref="2279519774"/>
+    <nd ref="2279520087"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Manor Farm"/>
+    <tag k="wikidata" v="Q17550802"/>
   </way>
 
 </osm>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:09:05Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="107986405" lat="52.3868544" lon="-0.3362835" version="5" timestamp="2011-01-10T06:28:43Z" changeset="6923350" uid="223853" user="Bobious"/>
-  <node id="107986482" lat="52.3710289" lon="-0.2817042" version="6" timestamp="2015-10-10T15:56:40Z" changeset="34551936" uid="90142" user="andy mackey"/>
   <node id="344748076" lat="52.3574657" lon="-0.3056537" version="1" timestamp="2009-02-12T20:18:14Z" changeset="374203" uid="91225" user="tms13">
     <tag k="created_by" v="Merkaartor 0.12"/>
   </node>
-  <node id="534935841" lat="52.3663889" lon="-0.3291887" version="1" timestamp="2009-10-18T22:21:21Z" changeset="2889380" uid="57884" user="EdLoach"/>
+  <node id="461096039" lat="52.3838697" lon="-0.3129220" version="3" timestamp="2024-04-26T10:27:53Z" changeset="150531775" uid="10420541" user="Thingummy"/>
+  <node id="461096167" lat="52.3748580" lon="-0.3134422" version="1" timestamp="2009-08-10T19:27:37Z" changeset="2101081" uid="66869" user="Simon Daw"/>
   <node id="8986859864" lat="52.3971368" lon="-0.3035638" version="1" timestamp="2021-08-06T23:59:43Z" changeset="109288375" uid="11022773" user="GeoFens"/>
   <way id="28429169" version="11" timestamp="2023-09-15T19:40:39Z" changeset="141317537" uid="11022773" user="GeoFens">
     <nd ref="8986859863"/>
@@ -128,6 +128,31 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="source" v="NPE"/>
   </way>
+  <way id="97412542" version="3" timestamp="2020-10-10T22:08:03Z" changeset="92288041" uid="364" user="Edward">
+    <nd ref="1128155341"/>
+    <nd ref="1128155406"/>
+    <nd ref="1128155334"/>
+    <nd ref="1128155338"/>
+    <nd ref="1128155365"/>
+    <nd ref="1128155262"/>
+    <nd ref="1128155361"/>
+    <nd ref="1128155318"/>
+    <nd ref="1128155370"/>
+    <nd ref="1128155400"/>
+    <nd ref="1128155254"/>
+    <nd ref="1128155270"/>
+    <nd ref="1128155401"/>
+    <nd ref="1128155257"/>
+    <nd ref="1128155313"/>
+    <nd ref="1128155367"/>
+    <nd ref="1128155341"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints (Buckworth parish church)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543986"/>
+  </way>
   <way id="114469098" version="4" timestamp="2021-02-24T14:26:57Z" changeset="99911998" uid="10455639" user="srderang">
     <nd ref="461096167"/>
     <nd ref="4068760683"/>
@@ -217,6 +242,20 @@
     <nd ref="1296712591"/>
     <tag k="highway" v="residential"/>
     <tag k="name" v="Bream Close"/>
+  </way>
+  <way id="210112888" version="3" timestamp="2023-02-25T01:33:46Z" changeset="132990355" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="2202401305"/>
+    <nd ref="2202401310"/>
+    <nd ref="2202401311"/>
+    <nd ref="2202401309"/>
+    <nd ref="2202401304"/>
+    <nd ref="2202401306"/>
+    <nd ref="10692145137"/>
+    <nd ref="2202401305"/>
+    <tag k="building" v="yes"/>
+    <tag k="description" v="Cricket Club"/>
+    <tag k="name" v="Buckworth Cricket Club"/>
+    <tag k="source" v="visit and bing"/>
   </way>
   <way id="486079503" version="5" timestamp="2021-04-16T21:04:54Z" changeset="103081045" uid="242345" user="confusedbuffalo">
     <nd ref="107986405"/>
@@ -316,6 +355,47 @@
     <tag k="highway" v="unclassified"/>
     <tag k="layer" v="1"/>
     <tag k="source" v="gps"/>
+  </way>
+  <way id="972360237" version="2" timestamp="2023-09-15T19:40:39Z" changeset="141317537" uid="11022773" user="GeoFens">
+    <nd ref="8999480678"/>
+    <nd ref="8999480679"/>
+    <nd ref="8999480680"/>
+    <nd ref="8999480681"/>
+    <nd ref="8999480678"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Potting Shed Farm Shop and Deli"/>
+    <tag k="shop" v="deli"/>
+  </way>
+  <way id="972360240" version="4" timestamp="2024-05-26T10:43:57Z" changeset="151845241" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="8999480692"/>
+    <nd ref="8999480693"/>
+    <nd ref="8999480688"/>
+    <nd ref="8999480689"/>
+    <nd ref="8999480694"/>
+    <nd ref="8999480697"/>
+    <nd ref="8999480692"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="The Mill Shed"/>
+    <tag k="addr:postcode" v="PE28 5XZ"/>
+    <tag k="addr:suburb" v="Upton"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Holly Lodge Cafe"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="https://www.hollylodge.org/cafe"/>
+  </way>
+  <way id="1208133602" version="1" timestamp="2023-09-15T19:40:39Z" changeset="141317537" uid="11022773" user="GeoFens">
+    <nd ref="11194618587"/>
+    <nd ref="11194618588"/>
+    <nd ref="11194618589"/>
+    <nd ref="11194618590"/>
+    <nd ref="11194618587"/>
+    <tag k="amenity" v="animal_boarding"/>
+    <tag k="animal_boarding" v="dog"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Luca's Doggy Daycare"/>
+    <tag k="website" v="https://www.lucasdoggydaycare.com"/>
   </way>
 
 </osm>

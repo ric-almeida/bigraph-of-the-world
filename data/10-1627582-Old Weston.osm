@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:09:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="107986405" lat="52.3868544" lon="-0.3362835" version="5" timestamp="2011-01-10T06:28:43Z" changeset="6923350" uid="223853" user="Bobious"/>
-  <node id="309980189" lat="52.3797452" lon="-0.4008867" version="4" timestamp="2022-05-01T15:08:01Z" changeset="120424349" uid="13341565" user="Falsernet"/>
-  <node id="312353162" lat="52.3882845" lon="-0.3480000" version="6" timestamp="2011-01-12T03:27:27Z" changeset="6943811" uid="223853" user="Bobious"/>
-  <node id="312353969" lat="52.3883505" lon="-0.3488826" version="4" timestamp="2011-01-12T03:27:29Z" changeset="6943811" uid="223853" user="Bobious"/>
+  <node id="107986390" lat="52.3907169" lon="-0.3815464" version="8" timestamp="2011-01-10T06:29:33Z" changeset="6923350" uid="223853" user="Bobious"/>
+  <node id="309980611" lat="52.3921451" lon="-0.3849235" version="8" timestamp="2011-01-10T06:30:22Z" changeset="6923350" uid="223853" user="Bobious"/>
   <node id="344751754" lat="52.3672999" lon="-0.3691945" version="2" timestamp="2021-06-12T17:49:17Z" changeset="106261053" uid="281267" user="smb1001"/>
-  <node id="540975170" lat="52.4110692" lon="-0.3778021" version="2" timestamp="2011-06-04T17:51:19Z" changeset="8341257" uid="7098" user="richardm565"/>
+  <node id="534935815" lat="52.3809273" lon="-0.3937203" version="2" timestamp="2011-03-08T23:27:36Z" changeset="7499827" uid="90142" user="andy mackey"/>
   <node id="1096013966" lat="52.4078385" lon="-0.4310816" version="3" timestamp="2024-04-07T16:30:40Z" changeset="149700743" uid="5229644" user="Nathan_A_RF"/>
+  <node id="1099078486" lat="52.4014743" lon="-0.4091020" version="4" timestamp="2015-12-20T20:49:04Z" changeset="36073278" uid="90142" user="andy mackey"/>
   <way id="28222934" version="13" timestamp="2024-05-01T20:52:26Z" changeset="150768716" uid="1782504" user="corgicity">
     <nd ref="309980611"/>
     <nd ref="7997757429"/>
@@ -222,6 +221,26 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Cockbrook Lane"/>
   </way>
+  <way id="114469118" version="2" timestamp="2023-02-25T01:28:17Z" changeset="132990277" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="534935858"/>
+    <nd ref="10692220879"/>
+    <nd ref="1296712621"/>
+    <nd ref="10692220875"/>
+    <nd ref="10692220874"/>
+    <nd ref="10692220873"/>
+    <nd ref="10692220872"/>
+    <nd ref="1296712597"/>
+    <nd ref="1296712546"/>
+    <nd ref="10692220876"/>
+    <nd ref="10692220878"/>
+    <nd ref="10692220877"/>
+    <nd ref="534935858"/>
+    <tag k="addr:city" v="Old Weston"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Old Weston Village Hall"/>
+  </way>
   <way id="115794951" version="9" timestamp="2024-04-07T16:30:40Z" changeset="149700743" uid="5229644" user="Nathan_A_RF">
     <nd ref="1096013966"/>
     <nd ref="107986342"/>
@@ -252,6 +271,49 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="ref" v="B662"/>
     <tag k="source:ref" v="Email from Cambs CC &amp; many corroborating sources. See note 1312848"/>
+  </way>
+  <way id="486079500" version="3" timestamp="2020-02-08T16:46:00Z" changeset="80728392" uid="90142" user="andy mackey">
+    <nd ref="534935818"/>
+    <nd ref="4788092554"/>
+    <nd ref="4788092553"/>
+    <nd ref="4788092552"/>
+    <nd ref="7195510882"/>
+    <nd ref="7195510877"/>
+    <nd ref="7195510879"/>
+    <nd ref="7195510878"/>
+    <nd ref="534935818"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Saint Swithin (parish church of Old Weston)"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17543950"/>
+  </way>
+  <way id="770813852" version="3" timestamp="2021-10-26T20:40:41Z" changeset="113010230" uid="322039" user="MacLondon">
+    <nd ref="7194824608"/>
+    <nd ref="7194824609"/>
+    <nd ref="7194824610"/>
+    <nd ref="7194824607"/>
+    <nd ref="7194824608"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Eco Loo"/>
+  </way>
+  <way id="857869739" version="2" timestamp="2024-05-12T10:14:50Z" changeset="151217721" uid="95856" user="john paul jones &amp; gringo">
+    <nd ref="7997742153"/>
+    <nd ref="7997742164"/>
+    <nd ref="7997742154"/>
+    <nd ref="7997742155"/>
+    <nd ref="7997742156"/>
+    <nd ref="7997742153"/>
+    <tag k="addr:city" v="Huntingdon"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="PE28 5LA"/>
+    <tag k="addr:suburb" v="Old Weston"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Old Weston Garden Farm Shop"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://oldwestongardenfarm.weebly.com"/>
   </way>
   <way id="953804295" version="1" timestamp="2021-06-12T17:49:17Z" changeset="106261053" uid="281267" user="smb1001">
     <nd ref="344751754"/>
@@ -295,7 +357,7 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="The Avenue"/>
   </way>
-  <way id="1056449177" version="2" timestamp="2025-01-01T12:39:03Z" changeset="160861414" uid="5229644" user="Nathan_A_RF">
+  <way id="1056449177" version="4" timestamp="2025-04-16T16:47:14Z" changeset="165037568" uid="104519" user="Rupert Swarbrick">
     <nd ref="534935815"/>
     <nd ref="7996944614"/>
     <nd ref="309980195"/>
@@ -314,12 +376,14 @@
     <nd ref="309980190"/>
     <nd ref="309980189"/>
     <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
     <tag k="maxspeed" v="60 mph"/>
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Brington Road"/>
     <tag k="ref" v="B660"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1056449178" version="2" timestamp="2025-01-01T12:39:03Z" changeset="160861414" uid="5229644" user="Nathan_A_RF">
+  <way id="1056449178" version="3" timestamp="2025-04-16T16:47:03Z" changeset="165037558" uid="104519" user="Rupert Swarbrick">
     <nd ref="309980197"/>
     <nd ref="9707292081"/>
     <nd ref="309980196"/>
@@ -329,6 +393,7 @@
     <tag k="maxspeed:type" v="GB:nsl_single"/>
     <tag k="name" v="Main Street"/>
     <tag k="ref" v="B660"/>
+    <tag k="surface" v="asphalt"/>
   </way>
 
 </osm>

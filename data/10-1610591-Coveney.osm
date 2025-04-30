@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:07:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:35:19Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="5268067" lat="52.4279224" lon="0.1976229" version="4" timestamp="2015-12-14T13:47:05Z" changeset="35944929" uid="669183" user="Andy_W"/>
-  <node id="5268158" lat="52.4192735" lon="0.1448643" version="2" timestamp="2016-06-18T16:33:50Z" changeset="40119517" uid="90142" user="andy mackey"/>
-  <node id="507064572" lat="52.4166863" lon="0.1887270" version="2" timestamp="2019-03-08T00:05:25Z" changeset="67904672" uid="84263" user="Robert Whittaker">
-    <tag k="addr:city" v="Ely"/>
-    <tag k="addr:postcode" v="CB6 2DB"/>
-    <tag k="addr:street" v="School Lane"/>
-    <tag k="addr:village" v="Coveney"/>
-    <tag k="fhrs:id" v="336193"/>
-    <tag k="name" v="The Old School B&amp;B"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="tourism" v="guest_house"/>
-  </node>
-  <node id="1592870679" lat="52.4136847" lon="0.2210763" version="2" timestamp="2015-12-14T14:13:37Z" changeset="35944929" uid="669183" user="Andy_W"/>
-  <node id="2884147330" lat="52.3941242" lon="0.1774896" version="2" timestamp="2015-03-10T13:39:53Z" changeset="29384184" uid="669183" user="Andy_W"/>
+  <node id="5268152" lat="52.4187391" lon="0.1591401" version="5" timestamp="2015-07-31T19:38:15Z" changeset="33016554" uid="669183" user="Andy_W"/>
+  <node id="507064435" lat="52.4186380" lon="0.1554056" version="3" timestamp="2015-07-31T19:38:16Z" changeset="33016554" uid="669183" user="Andy_W"/>
+  <node id="1592870584" lat="52.4082350" lon="0.1808300" version="3" timestamp="2015-12-14T13:59:15Z" changeset="35944929" uid="669183" user="Andy_W"/>
+  <node id="1592870677" lat="52.4136820" lon="0.1972588" version="2" timestamp="2015-12-14T14:09:49Z" changeset="35944929" uid="669183" user="Andy_W"/>
+  <node id="12365651760" lat="52.4137236" lon="0.2209959" version="1" timestamp="2024-11-22T18:43:56Z" changeset="159471293" uid="10420541" user="Thingummy"/>
   <way id="24941082" version="6" timestamp="2015-12-14T13:50:01Z" changeset="35944929" uid="669183" user="Andy_W">
     <nd ref="5268106"/>
     <nd ref="3891761470"/>
@@ -274,6 +266,17 @@
     <tag k="name" v="Straight Drove"/>
     <tag k="source" v="npe"/>
   </way>
+  <way id="41456838" version="2" timestamp="2023-01-14T20:01:29Z" changeset="131277923" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="271036148"/>
+    <nd ref="507064574"/>
+    <nd ref="507064575"/>
+    <nd ref="507064573"/>
+    <nd ref="271036148"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Coveney Village Hall"/>
+  </way>
   <way id="41456845" version="1" timestamp="2009-09-25T13:19:32Z" changeset="2618198" uid="3582" user="davidearl">
     <nd ref="507064608"/>
     <nd ref="5268141"/>
@@ -451,6 +454,42 @@
     <nd ref="1336435617"/>
     <nd ref="1336435612"/>
     <tag k="highway" v="residential"/>
+  </way>
+  <way id="137027353" version="3" timestamp="2019-03-13T15:40:27Z" changeset="68104434" uid="281267" user="smb1001">
+    <nd ref="1503156595"/>
+    <nd ref="1503156624"/>
+    <nd ref="1503156632"/>
+    <nd ref="1503156600"/>
+    <nd ref="1503156577"/>
+    <nd ref="1503156591"/>
+    <nd ref="1503156633"/>
+    <nd ref="1503156604"/>
+    <nd ref="1503156615"/>
+    <nd ref="1503156594"/>
+    <nd ref="1503156618"/>
+    <nd ref="1503156561"/>
+    <nd ref="1503156590"/>
+    <nd ref="1503156619"/>
+    <nd ref="1503156560"/>
+    <nd ref="1503156586"/>
+    <nd ref="1503156595"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter-ad-Vincula"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527691"/>
+  </way>
+  <way id="141961620" version="5" timestamp="2024-11-28T19:09:20Z" changeset="159716184" uid="10420541" user="Thingummy">
+    <nd ref="1553897821"/>
+    <nd ref="1553897772"/>
+    <nd ref="1553897805"/>
+    <nd ref="1553897818"/>
+    <nd ref="1553897821"/>
+    <tag k="building" v="service"/>
+    <tag k="man_made" v="pumping_station"/>
+    <tag k="name" v="Oxlode Pumping Station"/>
+    <tag k="operator" v="Littleport and Downham Internal Drainage Board"/>
   </way>
   <way id="145974050" version="6" timestamp="2023-02-20T15:33:07Z" changeset="132796430" uid="3582" user="davidearl">
     <nd ref="1592870627"/>
@@ -657,6 +696,28 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Straight Drove"/>
     <tag k="source" v="npe"/>
+  </way>
+  <way id="676583937" version="1" timestamp="2019-03-13T15:40:26Z" changeset="68104434" uid="281267" user="smb1001">
+    <nd ref="271035788"/>
+    <nd ref="6335785539"/>
+    <nd ref="6335785538"/>
+    <nd ref="6335785537"/>
+    <nd ref="271035788"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="name" v="Coveney Methodist Church"/>
+    <tag k="religion" v="christian"/>
+  </way>
+  <way id="1009584309" version="1" timestamp="2021-12-06T11:55:38Z" changeset="114616049" uid="281267" user="smb1001">
+    <nd ref="507064636"/>
+    <nd ref="9315211980"/>
+    <nd ref="9315211918"/>
+    <nd ref="9315211927"/>
+    <nd ref="507064636"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Wardy Hill Social Club"/>
   </way>
   <way id="1147972681" version="1" timestamp="2023-02-20T15:33:07Z" changeset="132796430" uid="3582" user="davidearl">
     <nd ref="2884166507"/>

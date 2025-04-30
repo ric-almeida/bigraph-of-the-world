@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:09:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-27T07:42:30Z" areas="2024-12-31T00:49:33Z"/>
 
-  <node id="569882" lat="52.3326828" lon="-0.2846280" version="8" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
+  <node id="344774409" lat="52.3369363" lon="-0.3239778" version="8" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
     <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Ellington"/>
-    <tag k="ref" v="20"/>
+    <tag k="name" v="Easton Road"/>
+    <tag k="ref" v="19"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="344748318" lat="52.3399963" lon="-0.3348369" version="11" timestamp="2025-01-07T16:57:43Z" changeset="161103477" uid="5229644" user="Nathan_A_RF">
+  <node id="344774421" lat="52.3371206" lon="-0.3239401" version="7" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
     <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Spaldwick"/>
-    <tag k="ref" v="18"/>
-  </node>
-  <node id="344779847" lat="52.3377121" lon="-0.3185605" version="1" timestamp="2009-02-12T21:33:37Z" changeset="374203" uid="91225" user="tms13">
-    <tag k="created_by" v="Merkaartor 0.12"/>
-  </node>
-  <node id="346380174" lat="52.3354139" lon="-0.3038497" version="10" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
-    <tag k="exit_to" v="Ellington, Grafham Water"/>
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="Ellington"/>
-    <tag k="ref" v="20"/>
+    <tag k="name" v="Easton Road"/>
+    <tag k="ref" v="19"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="346380194" lat="52.3338423" lon="-0.2932412" version="4" timestamp="2019-11-24T20:11:59Z" changeset="77491664" uid="90142" user="andy mackey"/>
-  <node id="346380379" lat="52.3357080" lon="-0.3066538" version="3" timestamp="2011-12-18T10:55:34Z" changeset="10144810" uid="5926" user="c2r"/>
+  <node id="344779844" lat="52.3367476" lon="-0.3189451" version="5" timestamp="2020-11-13T18:56:46Z" changeset="94081276" uid="5229644" user="Nathan_A_RF">
+    <tag k="source" v="survey"/>
+  </node>
   <node id="1316081292" lat="52.3164079" lon="-0.3510718" version="2" timestamp="2011-09-01T09:20:26Z" changeset="9182707" uid="90142" user="andy mackey"/>
+  <node id="1331501149" lat="52.3367926" lon="-0.3203134" version="6" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="Wooley"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Woolley Hill"/>
+    <tag k="ref" v="19A"/>
+    <tag k="source" v="survey"/>
+  </node>
   <node id="1551734603" lat="52.3398501" lon="-0.3341694" version="1" timestamp="2011-12-18T10:55:23Z" changeset="10144810" uid="5926" user="c2r"/>
   <node id="1917584641" lat="52.3194478" lon="-0.3472995" version="1" timestamp="2012-09-16T19:06:43Z" changeset="13134963" uid="4951" user="PeterEastern"/>
-  <node id="4584333587" lat="52.3323364" lon="-0.2629622" version="16" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
-    <tag k="highway" v="motorway_junction"/>
-    <tag k="name" v="New Ellington"/>
-    <tag k="ref" v="21"/>
-  </node>
   <node id="6499373310" lat="52.3322005" lon="-0.2634979" version="4" timestamp="2024-12-31T15:59:25Z" changeset="160839217" uid="5229644" user="Nathan_A_RF"/>
   <way id="31007130" version="8" timestamp="2024-11-06T17:08:29Z" changeset="158826743" uid="84263" user="Robert Whittaker">
     <nd ref="344774399"/>
@@ -158,7 +152,7 @@
     <tag k="foot" v="yes"/>
     <tag k="highway" v="unclassified"/>
   </way>
-  <way id="118391359" version="10" timestamp="2025-03-12T11:31:17Z" changeset="163523362" uid="5229644" user="Nathan_A_RF">
+  <way id="118391359" version="11" timestamp="2025-04-16T16:54:12Z" changeset="165037840" uid="104519" user="Rupert Swarbrick">
     <nd ref="1331501149"/>
     <nd ref="1331501147"/>
     <nd ref="1331501152"/>
@@ -170,6 +164,7 @@
     <nd ref="1331501154"/>
     <tag k="dual_carriageway" v="yes"/>
     <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
     <tag k="lit" v="no"/>
     <tag k="national_highways:area" v="8"/>
     <tag k="oneway" v="yes"/>
@@ -290,40 +285,32 @@
     <tag k="operator:wikidata" v="Q5760006"/>
     <tag k="ref" v="A14"/>
   </way>
-  <way id="335055465" version="3" timestamp="2024-05-12T10:07:29Z" changeset="151217460" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="3421840613"/>
-    <nd ref="3421840614"/>
-    <nd ref="3421840615"/>
-    <nd ref="3421840616"/>
-    <nd ref="3421840617"/>
-    <nd ref="3421840618"/>
-    <nd ref="3421840619"/>
-    <nd ref="3421840620"/>
-    <nd ref="3421840621"/>
-    <nd ref="3421840613"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="Magpie Farm"/>
-    <tag k="addr:postcode" v="PE28 0TS"/>
-    <tag k="addr:street" v="Stocking Lane"/>
-    <tag k="addr:suburb" v="Easton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Magpie Farm"/>
+  <way id="233000688" version="3" timestamp="2020-10-05T19:20:13Z" changeset="92004233" uid="364" user="Edward">
+    <nd ref="2413289735"/>
+    <nd ref="2413289788"/>
+    <nd ref="2413289796"/>
+    <nd ref="2413289759"/>
+    <nd ref="2413289747"/>
+    <nd ref="2413289732"/>
+    <nd ref="2413289731"/>
+    <nd ref="2413289784"/>
+    <nd ref="2413289728"/>
+    <nd ref="2413289735"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter's Church, Easton"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17527874"/>
   </way>
-  <way id="335055466" version="3" timestamp="2024-05-12T10:07:29Z" changeset="151217460" uid="95856" user="john paul jones &amp; gringo">
-    <nd ref="3421840622"/>
-    <nd ref="3421840623"/>
-    <nd ref="3421840624"/>
-    <nd ref="3421840625"/>
-    <nd ref="3421840622"/>
-    <tag k="addr:city" v="Huntingdon"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="Easton Lodge Farm"/>
-    <tag k="addr:postcode" v="PE28 0TS"/>
-    <tag k="addr:street" v="Stocking Lane"/>
-    <tag k="addr:suburb" v="Easton"/>
-    <tag k="landuse" v="farmyard"/>
-    <tag k="name" v="Easton Lodge Farm"/>
+  <way id="335055364" version="1" timestamp="2015-03-27T17:08:16Z" changeset="29782526" uid="1302721" user="Glucosamine">
+    <nd ref="3421839106"/>
+    <nd ref="3421839107"/>
+    <nd ref="3421839108"/>
+    <nd ref="3421839109"/>
+    <nd ref="3421839106"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Crossing Keeper House"/>
   </way>
   <way id="375159604" version="3" timestamp="2017-05-03T07:02:49Z" changeset="48354795" uid="1778799" user="SomeoneElse_Revert">
     <nd ref="3785532876"/>

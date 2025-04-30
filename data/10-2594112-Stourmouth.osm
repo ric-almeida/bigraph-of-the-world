@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T17:02:56Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-26T22:28:42Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="28151128" lat="51.3116323" lon="1.2333542" version="2" timestamp="2010-07-28T15:04:56Z" changeset="5338809" uid="7037" user="Gregory Williams"/>
   <node id="28151942" lat="51.3069625" lon="1.2386787" version="2" timestamp="2011-01-16T17:33:40Z" changeset="6990779" uid="7037" user="Gregory Williams"/>
-  <node id="29798960" lat="51.3244963" lon="1.2560219" version="2" timestamp="2023-12-28T18:16:10Z" changeset="145632024" uid="5229644" user="Nathan_A_RF"/>
-  <node id="1106407967" lat="51.3070265" lon="1.2389052" version="1" timestamp="2011-01-16T17:33:30Z" changeset="6990779" uid="7037" user="Gregory Williams"/>
-  <node id="1445763177" lat="51.3159722" lon="1.2485744" version="4" timestamp="2022-01-19T09:58:59Z" changeset="116333986" uid="7037" user="Gregory Williams">
-    <tag k="addr:postcode" v="CT3 1HY"/>
-    <tag k="addr:street" v="The Street"/>
-    <tag k="addr:village" v="Stourmouth"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="466208"/>
-    <tag k="name" v="The Rising Sun"/>
-    <tag k="operator" v="freehouse"/>
-    <tag k="phone" v="+44 1227721364"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
+  <node id="29798936" lat="51.3183055" lon="1.2520450" version="1" timestamp="2007-05-31T02:06:25Z" changeset="73964" uid="7037" user="Gregory Williams">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="29798957" lat="51.3230778" lon="1.2541647" version="2" timestamp="2024-06-17T11:07:29Z" changeset="152797439" uid="11471297" user="Palgrave Peter"/>
+  <node id="29798959" lat="51.3240349" lon="1.2553678" version="1" timestamp="2007-05-31T02:06:29Z" changeset="73964" uid="7037" user="Gregory Williams">
+    <tag k="created_by" v="JOSM"/>
   </node>
   <way id="4534481" version="8" timestamp="2024-06-17T16:46:40Z" changeset="152811415" uid="11471297" user="Palgrave Peter">
     <nd ref="28151132"/>
@@ -212,6 +206,15 @@
     <tag k="name" v="The Street"/>
     <tag k="source" v="survey"/>
   </way>
+  <way id="198966577" version="1" timestamp="2012-12-31T18:16:13Z" changeset="14480973" uid="1093673" user="Meazza">
+    <nd ref="2090327567"/>
+    <nd ref="2090327568"/>
+    <nd ref="2090327565"/>
+    <nd ref="2090327562"/>
+    <nd ref="2090327567"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Pump House"/>
+  </way>
   <way id="302798157" version="3" timestamp="2024-06-17T16:46:40Z" changeset="152811415" uid="11471297" user="Palgrave Peter">
     <nd ref="28388984"/>
     <nd ref="28388986"/>
@@ -241,6 +244,24 @@
     <tag k="highway" v="unclassified"/>
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Church Lane"/>
+  </way>
+  <way id="530024495" version="4" timestamp="2024-06-17T16:46:40Z" changeset="152811415" uid="11471297" user="Palgrave Peter">
+    <nd ref="28388992"/>
+    <nd ref="5147855584"/>
+    <nd ref="5147855583"/>
+    <nd ref="11987883685"/>
+    <nd ref="11987883686"/>
+    <nd ref="11987883687"/>
+    <nd ref="11987883684"/>
+    <nd ref="5147855582"/>
+    <nd ref="28388992"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="All Saints"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q4729541"/>
+    <tag k="wikipedia" v="en:All Saints Church, West Stourmouth"/>
   </way>
   <way id="563927647" version="6" timestamp="2024-06-17T11:07:29Z" changeset="152797439" uid="11471297" user="Palgrave Peter">
     <nd ref="29798936"/>
@@ -316,6 +337,16 @@
     <tag k="maxspeed" v="30 mph"/>
     <tag k="name" v="Preston Road"/>
     <tag k="source" v="survey"/>
+  </way>
+  <way id="1293052320" version="1" timestamp="2024-06-17T11:07:29Z" changeset="152797439" uid="11471297" user="Palgrave Peter">
+    <nd ref="11987339636"/>
+    <nd ref="11987339637"/>
+    <nd ref="11987339638"/>
+    <nd ref="11987339639"/>
+    <nd ref="11987339636"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Dog and Duck Park"/>
+    <tag k="office" v="yes"/>
   </way>
   <way id="1293052335" version="1" timestamp="2024-06-17T11:07:29Z" changeset="152797439" uid="11471297" user="Palgrave Peter">
     <nd ref="11987339715"/>
