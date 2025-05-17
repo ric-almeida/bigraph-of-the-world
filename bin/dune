@@ -3,6 +3,7 @@
  (name botw)
  (libraries bigraph_of_the_world core_unix.command_unix)
  (modes byte exe)
- (preprocess (pps ppx_let))
- (instrumentation (backend landmarks --auto))
- )
+ (preprocess
+  (pps ppx_let))
+ (instrumentation
+  (backend landmarks --auto)))
