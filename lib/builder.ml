@@ -52,11 +52,12 @@ let build_place_graph (root_level : string) (root_id : string)
   in
   let boundary_to_children = Hierarchy.invert_map_list boundary_to_parent in
   let bar =
-    if eval then Progress.Line.const "Building bigraph" else
-    let total = Map.length boundary_to_parent in
-    let open Progress.Line in
-    list
-      [ const "Building bigraph"; elapsed (); bar total; percentage_of total ]
+    if eval then Progress.Line.const "Building bigraph"
+    else
+      let total = Map.length boundary_to_parent in
+      let open Progress.Line in
+      list
+        [ const "Building bigraph"; elapsed (); bar total; percentage_of total ]
   in
   Progress.with_reporter bar (fun report_progress ->
       let rec helper boundary_string id_seen comp_list =
@@ -225,10 +226,11 @@ let build_place_graph (root_level : string) (root_id : string)
                           :: street_children_bigraphs))))
           in
           let open_links = Big.face_of_inter (Big.outer boundary_graph) in
-          let _ = if eval then
-            print_endline
-              ("Number of open links:"
-              ^ string_of_int (Link.Face.cardinal open_links))
+          let _ =
+            if eval then
+              print_endline
+                ("Number of open links:"
+                ^ string_of_int (Link.Face.cardinal open_links))
           in
           Big.close
             (Link.Face.diff
@@ -259,11 +261,7 @@ let add_agent_to_building_react ~bigraph ~agent_id ~building_name =
   let lhs = Big.close (Link.parse_face [ "id" ]) (Big.ppar parent parent_id) in
   let site = Big.split 1 in
   let child =
-    Big.close
-      (Link.parse_face [ "connection" ])
-      (Big.atom
-         (Link.parse_face [ "id"; "connection" ])
-         Ctrl.{ s = "Agent"; p = []; i = 2 })
+      (Big.atom (Link.parse_face [ "id" ]) Ctrl.{ s = "Agent"; p = []; i = 1 })
   in
   let child_id =
     Big.atom (Link.parse_face [ "id" ])
@@ -281,28 +279,20 @@ let add_agent_to_building_react ~bigraph ~agent_id ~building_name =
       ~name:("Add agent " ^ agent_id ^ " to building " ^ building_name)
       ~lhs ~rhs () None
   in
-  match BRS.step bigraph [ react_add_agent ] with
-  | (x, _, _) :: _, 1 -> x
-  | _, n ->
+  match BRS.apply bigraph [ react_add_agent ] with
+  | Some x -> x
+  | None ->
       raise
         (Not_found_s
            (Sexplib0.Sexp.message
-              ("Building name \"" ^ building_name
-             ^ "\" not unique. Number of matches: " ^ string_of_int n)
+              ("Building name \"" ^ building_name ^ "\" not found")
               []))
 
 let agent =
-  Big.atom
-    (Link.parse_face [ "agent_id"; "connection" ])
-    Ctrl.{ s = "Agent"; p = []; i = 2 }
+  Big.ion (Link.parse_face [ "agent_id" ]) Ctrl.{ s = "Agent"; p = []; i = 1 }
 
 let agent2 =
-  Big.atom
-    (Link.parse_face [ "agent_id2"; "connection" ])
-    Ctrl.{ s = "Agent"; p = []; i = 2 }
-
-let disconnected_agent = Big.close (Link.parse_face [ "connection" ]) agent
-let disconnected_agent2 = Big.close (Link.parse_face [ "connection" ]) agent2
+  Big.ion (Link.parse_face [ "agent_id2" ]) Ctrl.{ s = "Agent"; p = []; i = 1 }
 
 let boundary =
   Big.ion
@@ -329,37 +319,51 @@ let building =
 
 let site = Big.split 1
 
-let react_move_out_of_boundary =
+let leave_boundary =
   let lhs = Big.nest boundary (Big.par site agent) in
   let rhs = Big.par boundary agent in
-  BRS.parse_react_unsafe ~name:"Move out of boundary" ~lhs ~rhs () None
+  BRS.parse_react_unsafe ~name:"leave_boundary" ~lhs ~rhs () None
 
-let react_move_into_boundary =
+let enter_boundary =
   let lhs = Big.par boundary agent in
   let rhs = Big.nest boundary (Big.par site agent) in
-  BRS.parse_react_unsafe ~name:"Move into boundary" ~lhs ~rhs () None
+  BRS.parse_react_unsafe ~name:"enter_boundary" ~lhs ~rhs () None
 
-let react_move_out_of_street =
+let leave_street =
   let lhs = Big.nest street (Big.par site agent) in
   let rhs = Big.par street agent in
-  BRS.parse_react_unsafe ~name:"Move out of street" ~lhs ~rhs () None
+  BRS.parse_react_unsafe ~name:"leave_street" ~lhs ~rhs () None
 
-let react_move_into_street =
+let enter_street =
   let lhs = Big.par street agent in
   let rhs = Big.nest street (Big.par site agent) in
-  BRS.parse_react_unsafe ~name:"Move into street" ~lhs ~rhs () None
+  BRS.parse_react_unsafe ~name:"enter_street" ~lhs ~rhs () None
 
-let react_move_out_of_building =
+let leave_building =
   let lhs = Big.nest building (Big.par site agent) in
   let rhs = Big.par building agent in
-  BRS.parse_react_unsafe ~name:"Move out of building" ~lhs ~rhs () None
+  BRS.parse_react_unsafe ~name:"leave_building" ~lhs ~rhs () None
 
-let react_move_into_building =
+let enter_building =
   let lhs = Big.par building agent in
   let rhs = Big.nest building (Big.par site agent) in
-  BRS.parse_react_unsafe ~name:"Move into building" ~lhs ~rhs () None
+  BRS.parse_react_unsafe ~name:"enter_building" ~lhs ~rhs () None
 
-let react_move_across_linked_streets =
+let enter_building_from_street =
+  let lhs = Big.nest street (Big.par site (Big.par building agent)) in
+  let rhs =
+    Big.nest street (Big.par site (Big.nest building (Big.par site agent)))
+  in
+  BRS.parse_react_unsafe ~name:"enter_building_from_street" ~lhs ~rhs () None
+
+let enter_building_from_boundary =
+  let lhs = Big.nest boundary (Big.par site (Big.par building agent)) in
+  let rhs =
+    Big.nest boundary (Big.par site (Big.nest building (Big.par site agent)))
+  in
+  BRS.parse_react_unsafe ~name:"enter_building_from_boundary" ~lhs ~rhs () None
+
+let move_across_linked_streets =
   let lhs =
     Big.close
       (Link.parse_face [ "junction_id" ])
@@ -374,30 +378,15 @@ let react_move_across_linked_streets =
          (Big.nest street (Big.par site junction))
          (Big.nest street2 (Big.par agent (Big.par junction site))))
   in
-  BRS.parse_react_unsafe ~name:"Move to linked street" ~lhs ~rhs () None
-
-let react_connect_nearby_agents =
-  let lhs = Big.par disconnected_agent disconnected_agent2 in
-  let rhs =
-    Big.close (Link.parse_face [ "connection" ]) (Big.par agent agent2)
-  in
-  BRS.parse_react_unsafe ~name:"Connect nearby agents" ~lhs ~rhs () None
-
-let react_disconnect_agents =
-  let lhs =
-    Big.close (Link.parse_face [ "connection" ]) (Big.ppar agent agent2)
-  in
-  let rhs = Big.ppar disconnected_agent disconnected_agent2 in
-  BRS.parse_react_unsafe ~name:"Disconnect agents" ~lhs ~rhs () None
+  BRS.parse_react_unsafe ~name:"move_across_linked_streets" ~lhs ~rhs () None
 
 let react_rules =
   [
-    react_move_out_of_building;
-    react_move_into_building;
-    react_move_out_of_street;
-    react_move_into_street;
-    (* react_move_out_of_boundary; react_move_into_boundary; *)
-    react_move_across_linked_streets;
-    react_connect_nearby_agents;
-    react_disconnect_agents;
+    leave_building;
+    leave_street;
+    enter_building;
+    enter_street;
+    enter_building_from_street;
+    enter_building_from_boundary;
+    move_across_linked_streets;
   ]

@@ -285,3 +285,48 @@ let print_stats (b : Bigraph.Big.t) =
                 b.n)))
   in
   ()
+
+let get_buildings_in_streets boundary_string =
+  let (Osm_xml.Types.OSM osm_record) =
+    Osm_xml.Parser.parse_file ("data/" ^ boundary_string ^ ".osm")
+  in
+  let relation_id_tags =
+    Map.fold osm_record.relations ~init:[]
+      ~f:(fun
+          ~key:(Osm_xml.Types.OSMId id)
+          ~data:(Osm_xml.Types.OSMRelation relation_record)
+          l
+        -> ("relation " ^ id, relation_record.tags) :: l)
+  in
+  let relation_ways_id_tags =
+    Map.fold osm_record.ways ~init:relation_id_tags
+      ~f:(fun
+          ~key:(Osm_xml.Types.OSMId id)
+          ~data:(Osm_xml.Types.OSMWay way_record)
+          l
+        -> ("way " ^ id, way_record.tags) :: l)
+  in
+  let relation_ways_nodes_id_tags =
+    Map.fold osm_record.nodes ~init:relation_ways_id_tags
+      ~f:(fun
+          ~key:(Osm_xml.Types.OSMId id)
+          ~data:(Osm_xml.Types.OSMNode node_record)
+          l
+        -> ("node " ^ id, node_record.tags) :: l)
+  in
+  List.fold relation_ways_nodes_id_tags ~init:String.Set.empty
+    ~f:(fun seen (id, record) ->
+      match Osm_xml.Types.find_tag record "building" with
+      | Some _ -> (
+          match Osm_xml.Types.find_tag record "addr:street" with
+          | None -> seen
+          | Some street -> (
+              match Osm_xml.Types.find_tag record "name" with
+              | None -> (
+                  match Osm_xml.Types.find_tag record "addr:housenumber" with
+                  | Some house_number ->
+                      Set.add seen (house_number ^ " " ^ street)
+                  | None ->
+                      raise (TagNotFound ("name and addr:housenumber", id)))
+              | Some name -> Set.add seen name))
+      | None -> seen)

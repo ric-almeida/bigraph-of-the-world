@@ -9,7 +9,7 @@
 (* _build/default/bin/botw.exe 6 180837 Cambridgeshire Number of nodes: 210768 *)
 
 let main (root_level : string) (root_id : string) (root_name : string) write_dot
-    id_in_parameter eval write_json =
+    id_in_parameter eval write_json one_reaction all_reactions =
   let root_string = root_level ^ "-" ^ root_id ^ "-" ^ root_name in
   let b =
     if
@@ -63,6 +63,105 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
       in
       print_endline ("Bigraph saved to output/renders/" ^ root_string ^ ".dot")
   in
+  let _ =
+    if one_reaction || all_reactions then
+      let buildings =
+        Core.Set.to_list
+          (Bigraph_of_the_world.Hierarchy.get_buildings_in_streets root_string)
+      in
+      let _ = Random.self_init () in
+      let random_building =
+        List.nth buildings (Random.int (List.length buildings))
+      in
+      let t = Sys.time () in
+      let b =
+        Bigraph_of_the_world.Builder.add_agent_to_building_react ~bigraph:b
+          ~agent_id:"Agent A" ~building_name:random_building
+      in
+      let _ = Printf.printf "Added agent in: %fs\n" (Sys.time () -. t) in
+      let t = Sys.time () in
+      let b =
+        match
+          Bigraph_of_the_world.Builder.BRS.apply b
+            [ Bigraph_of_the_world.Builder.leave_building ]
+        with
+        | Some b -> b
+        | None -> raise Not_found
+      in
+      let _ =Printf.printf "leave_building: %fs\n" (Sys.time () -. t) in
+      if all_reactions then
+        let t = Sys.time () in
+        let _ =
+        match
+          Bigraph_of_the_world.Builder.BRS.apply b
+            [ Bigraph_of_the_world.Builder.move_across_linked_streets ]
+        with
+        | Some b -> b
+        | None -> raise Not_found
+        in
+        let _ = Printf.printf "move_across_linked_streets: %fs\n" (Sys.time () -. t) in 
+        let t = Sys.time () in
+        let _ =
+        match
+          Bigraph_of_the_world.Builder.BRS.apply b
+            [ Bigraph_of_the_world.Builder.enter_building ]
+        with
+        | Some b -> b
+        | None -> raise Not_found
+        in
+        let _ = Printf.printf "enter_building starting in street: %fs\n" (Sys.time () -. t) in
+        let t = Sys.time () in
+        let _ =
+        match
+          Bigraph_of_the_world.Builder.BRS.apply b
+            [ Bigraph_of_the_world.Builder.enter_building_from_street ]
+        with
+        | Some b -> b
+        | None -> raise Not_found
+        in
+        let _ = Printf.printf "enter_building_from_street: %fs\n" (Sys.time () -. t) in
+        let t = Sys.time () in
+        let b =
+        match
+          Bigraph_of_the_world.Builder.BRS.apply b
+            [ Bigraph_of_the_world.Builder.leave_street ]
+        with
+        | Some b -> b
+        | None -> raise Not_found
+        in
+        let _ = Printf.printf "leave_street: %fs\n" (Sys.time () -. t) in 
+        let t = Sys.time () in
+        let _ =
+        match
+          Bigraph_of_the_world.Builder.BRS.apply b
+            [ Bigraph_of_the_world.Builder.enter_building_from_boundary ]
+        with
+        | Some b -> b
+        | None -> raise Not_found
+        in
+        let _ = Printf.printf "enter_building_from_boundary: %fs\n" (Sys.time () -. t) in 
+        let t = Sys.time () in
+        let _ =
+        match
+          Bigraph_of_the_world.Builder.BRS.apply b
+            [ Bigraph_of_the_world.Builder.enter_building ]
+        with
+        | Some b -> b
+        | None -> raise Not_found
+        in
+        let _ = Printf.printf "enter_building starting in boundary: %fs\n" (Sys.time () -. t) in 
+        let t = Sys.time () in
+        let _ =
+        match
+          Bigraph_of_the_world.Builder.BRS.apply b
+            [ Bigraph_of_the_world.Builder.enter_street ]
+        with
+        | Some b -> b
+        | None -> raise Not_found
+        in
+        let _ = Printf.printf "enter_street: %fs\n" (Sys.time () -. t) in 
+      ()
+  in
   ()
 
 let command =
@@ -88,10 +187,16 @@ let command =
          ~doc:"print numbers describing bigraph, disable progress bars"
      and write_json =
        flag "-write-json" no_arg ~doc:"write bigraph to a JSON file"
+     and one_reaction =
+       flag "-one-reaction" no_arg
+         ~doc:"apply the leave_building reaction rule once"
+     and all_reactions =
+       flag "-all-reactions" no_arg
+         ~doc:"apply all the reaction rules for motion sequentially"
      in
      fun () ->
-       main root_level root_relation root_name write_dot id_in_parameter eval
-         write_json)
+       main root_level root_relation root_name write_dot id_in_parameter eval write_json
+         one_reaction all_reactions)
 
 let () =
   (* Memtrace.trace_if_requested (); *)
