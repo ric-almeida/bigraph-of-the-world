@@ -249,6 +249,12 @@ let print_stats (b : Bigraph.Big.t) =
       ("Number of edges: " ^ string_of_int (Bigraph.Link.Lg.cardinal b.l))
   in
   let _ =
+    let open_links = Bigraph.Big.face_of_inter (Bigraph.Big.outer b) in
+    print_endline
+      ("Number of outer names:"
+      ^ string_of_int (Bigraph.Link.Face.cardinal open_links))
+  in
+  let _ =
     print_endline
       ("Number of boundaries: "
       ^ string_of_int

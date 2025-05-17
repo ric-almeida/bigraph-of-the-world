@@ -234,7 +234,7 @@ let build_place_graph (root_level : string) (root_id : string)
           in
           Big.close
             (Link.Face.diff
-               (Big.face_of_inter (Big.outer boundary_graph))
+               open_links
                (Link.parse_face (Set.to_list outer_names)))
             boundary_graph
           :: comp_list

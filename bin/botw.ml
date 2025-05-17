@@ -134,22 +134,22 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
         let _ =
         match
           Bigraph_of_the_world.Builder.BRS.apply b
-            [ Bigraph_of_the_world.Builder.enter_building_from_boundary ]
-        with
-        | Some b -> b
-        | None -> raise Not_found
-        in
-        let _ = Printf.printf "enter_building_from_boundary: %fs\n" (Sys.time () -. t) in 
-        let t = Sys.time () in
-        let _ =
-        match
-          Bigraph_of_the_world.Builder.BRS.apply b
             [ Bigraph_of_the_world.Builder.enter_building ]
         with
         | Some b -> b
         | None -> raise Not_found
         in
         let _ = Printf.printf "enter_building starting in boundary: %fs\n" (Sys.time () -. t) in 
+        let t = Sys.time () in
+        let _ =
+        match
+          Bigraph_of_the_world.Builder.BRS.apply b
+            [ Bigraph_of_the_world.Builder.enter_building_from_boundary ]
+        with
+        | Some b -> b
+        | None -> raise Not_found
+        in
+        let _ = Printf.printf "enter_building_from_boundary: %fs\n" (Sys.time () -. t) in 
         let t = Sys.time () in
         let _ =
         match
