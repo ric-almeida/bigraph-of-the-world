@@ -35,38 +35,42 @@ let boundary_to_parent (root_level : string) (root_id : string)
   let rec helper (root_level : string) (root_id : string) (root_name : string)
       parent_mp =
     let root_string = root_level ^ "-" ^ root_id ^ "-" ^ root_name in
-    let osm_file = "data/" ^ root_string ^ ".osm" in
-    let (Osm_xml.Types.OSM osm_record) = Osm_xml.Parser.parse_file osm_file in
-    Map.fold osm_record.relations ~init:parent_mp
-      ~f:(fun
-          ~key:(Osm_xml.Types.OSMId child_id)
-          ~data:(Osm_xml.Types.OSMRelation child_relation)
-          mp
-        ->
-        match Osm_xml.Types.find_tag child_relation.tags "admin_level" with
-        | None -> mp
-        | Some child_level -> (
-            if int_of_string root_level >= int_of_string child_level then mp
-            else
-              match Osm_xml.Types.find_tag child_relation.tags "name" with
-              | None -> raise (TagNotFound ("name", child_id))
-              | Some child_name -> (
-                  let child_string =
-                    child_level ^ "-" ^ child_id ^ "-" ^ child_name
-                  in
-                  match Map.find mp child_string with
-                  | None ->
-                      helper child_level child_id child_name
-                        (Map.add_exn mp ~key:child_string ~data:root_string)
-                  | Some prv_parent -> (
-                      match String.split_on_chars ~on:[ '-' ] prv_parent with
-                      | prv_parent_level :: _ ->
-                          if
-                            int_of_string prv_parent_level
-                            >= int_of_string root_level
-                          then mp
-                          else Map.set mp ~key:child_string ~data:root_string
-                      | _ -> raise (Invalid_argument prv_parent)))))
+    try
+      let osm_file = "data/" ^ root_string ^ ".osm" in
+      let (Osm_xml.Types.OSM osm_record) = Osm_xml.Parser.parse_file osm_file in
+      Map.fold osm_record.relations ~init:parent_mp
+        ~f:(fun
+            ~key:(Osm_xml.Types.OSMId child_id)
+            ~data:(Osm_xml.Types.OSMRelation child_relation)
+            mp
+          ->
+          match Osm_xml.Types.find_tag child_relation.tags "admin_level" with
+          | None -> mp
+          | Some child_level -> (
+              if int_of_string root_level >= int_of_string child_level then mp
+              else
+                match Osm_xml.Types.find_tag child_relation.tags "name" with
+                | None -> raise (TagNotFound ("name", child_id))
+                | Some child_name -> (
+                    let child_string =
+                      child_level ^ "-" ^ child_id ^ "-" ^ child_name
+                    in
+                    match Map.find mp child_string with
+                    | None ->
+                        helper child_level child_id child_name
+                          (Map.add_exn mp ~key:child_string ~data:root_string)
+                    | Some prv_parent -> (
+                        match String.split_on_chars ~on:[ '-' ] prv_parent with
+                        | prv_parent_level :: _ ->
+                            if
+                              int_of_string prv_parent_level
+                              >= int_of_string root_level
+                            then mp
+                            else Map.set mp ~key:child_string ~data:root_string
+                        | _ -> raise (Invalid_argument prv_parent)))))
+    with m ->
+      print_endline ("Problem with " ^ root_string);
+      raise m
   in
   let parent_mp =
     Map.add_exn String.Map.empty

@@ -26,13 +26,13 @@ let rec download (uri : Uri.t) (file_path : string) =
           Lwt_io.with_file ~mode:Lwt_io.output file_path f
       | _ ->
           let _ =
-            print_endline ("Bad result. Retrying download for " ^ file_path)
+            print_endline ("Bad response. Retrying download for " ^ file_path)
           in
           download uri file_path)
     (function
       | _ ->
       let _ =
-        print_endline ("Exception raised. Retrying download for " ^ file_path)
+        print_endline ("Connection refused. Retrying download for " ^ file_path)
       in
       download uri file_path)
 
@@ -85,7 +85,7 @@ let query_all_children (root_level : string) (root_id : string)
       let open Progress.Line in
       list
         [
-          const "Querying for descendant boundaries";
+          const "Querying for descendant boundaries   ";
           elapsed ();
           bar total;
           count_to total;
