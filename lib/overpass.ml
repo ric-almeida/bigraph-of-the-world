@@ -17,17 +17,23 @@ let write_to_file body file_path =
 let rec download (uri : Uri.t) (file_path : string) =
   let _ = Core_unix.mkdir_p ~perm:0o755 (Filename.dirname file_path) in
   Lwt.catch
-  (fun _ ->let* resp, body = Cohttp_lwt_unix.Client.get uri in
-  match resp.status with
-  | `OK ->
-      let stream = Cohttp_lwt.Body.to_stream body in
-      let f ch = Lwt_stream.iter_s (Lwt_io.write ch) stream in
-      Lwt_io.with_file ~mode:Lwt_io.output file_path f
-  | _ ->
-      let _ = print_endline ("Bad result. Retrying download for " ^ file_path) in
-      download uri file_path)
-  (function
-      | _-> let _ = print_endline ("Exception raised. Retrying download for " ^ file_path) in
+    (fun _ ->
+      let* resp, body = Cohttp_lwt_unix.Client.get uri in
+      match resp.status with
+      | `OK ->
+          let stream = Cohttp_lwt.Body.to_stream body in
+          let f ch = Lwt_stream.iter_s (Lwt_io.write ch) stream in
+          Lwt_io.with_file ~mode:Lwt_io.output file_path f
+      | _ ->
+          let _ =
+            print_endline ("Bad result. Retrying download for " ^ file_path)
+          in
+          download uri file_path)
+    (function
+      | _ ->
+      let _ =
+        print_endline ("Exception raised. Retrying download for " ^ file_path)
+      in
       download uri file_path)
 
 (** downloads osm file of all admin boundaries, buildings and streets in area

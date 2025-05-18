@@ -16,27 +16,27 @@ bigraph_type = types.SimpleNamespace()
 bigraph_type.ORIGINAL = 0
 bigraph_type.IMPROVED = 1
 
-experiment = experiment_type.ONE_REACTION  # Experiment to run
-bigraph = bigraph_type.ORIGINAL
-repeats = 8  # Number of times to repeat each experiment
+experiment = experiment_type.ALL_REACTIONS  # Experiment to run
+bigraph = bigraph_type.IMPROVED
+repeats = 100  # Number of times to repeat each experiment
 
 param_list = [
-    ["10", "2604777", "Dover"],
-    ["8", "295349", "Fenland"],
-    ["8", "295352", "East Cambridgeshire"],
-    ["8", "295351", "Huntingdonshire"],
-    ["8", "295355", "Cambridge"],
-    ["8", "295353", "South Cambridgeshire"],
+    # ["10", "2604777", "Dover"],
+    # ["8", "295349", "Fenland"],
+    # ["8", "295352", "East Cambridgeshire"],
+    # ["8", "295351", "Huntingdonshire"],
+    # ["8", "295355", "Cambridge"],
+    # ["8", "295353", "South Cambridgeshire"],
     ["6", "180837", "Cambridgeshire"],
-    ["8", "172987", "Liverpool"],
-    ["6", "1906767", "Glasgow City"],
-    ["8", "146656", "Manchester"],
-    ["8", "2305279", "Carlsbad"],
-    ["8", "2305280", "Oceanside"],
-    ["8", "111848", "Chula Vista"],
-    ["2", "536780", "Singapore"],
-    ["8", "253832", "San Diego"],
-    ["8", "162378", "Birmingham"],
+    # ["8", "172987", "Liverpool"],
+    # ["6", "1906767", "Glasgow City"],
+    # ["8", "146656", "Manchester"],
+    # ["8", "2305279", "Carlsbad"],
+    # ["8", "2305280", "Oceanside"],
+    # ["8", "111848", "Chula Vista"],
+    # ["2", "536780", "Singapore"],
+    # ["8", "253832", "San Diego"],
+    # ["8", "162378", "Birmingham"],
 ]
 
 if experiment == experiment_type.BUILD:
@@ -128,7 +128,7 @@ for repeat in range(repeats):
                 if experiment==experiment_type.ONE_REACTION and data["leave_building"] == "":
                     raise Exception("Could not apply leave_building reaction!")
                 if experiment==experiment_type.ALL_REACTIONS and data["enter_street"] == "":
-                    print("Retrying reactions on " + str(params))
+                    print("Retrying experiment " + str(repeat+1) + ",running reactions on " + str(params))
                     continue
                 row = dict(zip(param_headers, params))
                 row.update(data)

@@ -233,8 +233,7 @@ let build_place_graph (root_level : string) (root_id : string)
                 ^ string_of_int (Link.Face.cardinal open_links))
           in
           Big.close
-            (Link.Face.diff
-               open_links
+            (Link.Face.diff open_links
                (Link.parse_face (Set.to_list outer_names)))
             boundary_graph
           :: comp_list
@@ -261,7 +260,7 @@ let add_agent_to_building_react ~bigraph ~agent_id ~building_name =
   let lhs = Big.close (Link.parse_face [ "id" ]) (Big.ppar parent parent_id) in
   let site = Big.split 1 in
   let child =
-      (Big.atom (Link.parse_face [ "id" ]) Ctrl.{ s = "Agent"; p = []; i = 1 })
+    Big.atom (Link.parse_face [ "id" ]) Ctrl.{ s = "Agent"; p = []; i = 1 }
   in
   let child_id =
     Big.atom (Link.parse_face [ "id" ])

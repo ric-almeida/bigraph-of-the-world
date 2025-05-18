@@ -88,79 +88,91 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
         | Some b -> b
         | None -> raise Not_found
       in
-      let _ =Printf.printf "leave_building: %fs\n" (Sys.time () -. t) in
+      let _ = Printf.printf "leave_building: %fs\n" (Sys.time () -. t) in
       if all_reactions then
         let t = Sys.time () in
         let _ =
-        match
-          Bigraph_of_the_world.Builder.BRS.apply b
-            [ Bigraph_of_the_world.Builder.move_across_linked_streets ]
-        with
-        | Some b -> b
-        | None -> raise Not_found
+          match
+            Bigraph_of_the_world.Builder.BRS.apply b
+              [ Bigraph_of_the_world.Builder.move_across_linked_streets ]
+          with
+          | Some b -> b
+          | None -> raise Not_found
         in
-        let _ = Printf.printf "move_across_linked_streets: %fs\n" (Sys.time () -. t) in 
+        let _ =
+          Printf.printf "move_across_linked_streets: %fs\n" (Sys.time () -. t)
+        in
         let t = Sys.time () in
         let _ =
-        match
-          Bigraph_of_the_world.Builder.BRS.apply b
-            [ Bigraph_of_the_world.Builder.enter_building ]
-        with
-        | Some b -> b
-        | None -> raise Not_found
+          match
+            Bigraph_of_the_world.Builder.BRS.apply b
+              [ Bigraph_of_the_world.Builder.enter_building ]
+          with
+          | Some b -> b
+          | None -> raise Not_found
         in
-        let _ = Printf.printf "enter_building starting in street: %fs\n" (Sys.time () -. t) in
+        let _ =
+          Printf.printf "enter_building starting in street: %fs\n"
+            (Sys.time () -. t)
+        in
         let t = Sys.time () in
         let _ =
-        match
-          Bigraph_of_the_world.Builder.BRS.apply b
-            [ Bigraph_of_the_world.Builder.enter_building_from_street ]
-        with
-        | Some b -> b
-        | None -> raise Not_found
+          match
+            Bigraph_of_the_world.Builder.BRS.apply b
+              [ Bigraph_of_the_world.Builder.enter_building_from_street ]
+          with
+          | Some b -> b
+          | None -> raise Not_found
         in
-        let _ = Printf.printf "enter_building_from_street: %fs\n" (Sys.time () -. t) in
+        let _ =
+          Printf.printf "enter_building_from_street: %fs\n" (Sys.time () -. t)
+        in
         let t = Sys.time () in
         let b =
-        match
-          Bigraph_of_the_world.Builder.BRS.apply b
-            [ Bigraph_of_the_world.Builder.leave_street ]
-        with
-        | Some b -> b
-        | None -> raise Not_found
+          match
+            Bigraph_of_the_world.Builder.BRS.apply b
+              [ Bigraph_of_the_world.Builder.leave_street ]
+          with
+          | Some b -> b
+          | None -> raise Not_found
         in
-        let _ = Printf.printf "leave_street: %fs\n" (Sys.time () -. t) in 
+        let _ = Printf.printf "leave_street: %fs\n" (Sys.time () -. t) in
         let t = Sys.time () in
         let _ =
-        match
-          Bigraph_of_the_world.Builder.BRS.apply b
-            [ Bigraph_of_the_world.Builder.enter_building ]
-        with
-        | Some b -> b
-        | None -> raise Not_found
+          match
+            Bigraph_of_the_world.Builder.BRS.apply b
+              [ Bigraph_of_the_world.Builder.enter_building ]
+          with
+          | Some b -> b
+          | None -> raise Not_found
         in
-        let _ = Printf.printf "enter_building starting in boundary: %fs\n" (Sys.time () -. t) in 
+        let _ =
+          Printf.printf "enter_building starting in boundary: %fs\n"
+            (Sys.time () -. t)
+        in
         let t = Sys.time () in
         let _ =
-        match
-          Bigraph_of_the_world.Builder.BRS.apply b
-            [ Bigraph_of_the_world.Builder.enter_building_from_boundary ]
-        with
-        | Some b -> b
-        | None -> raise Not_found
+          match
+            Bigraph_of_the_world.Builder.BRS.apply b
+              [ Bigraph_of_the_world.Builder.enter_building_from_boundary ]
+          with
+          | Some b -> b
+          | None -> raise Not_found
         in
-        let _ = Printf.printf "enter_building_from_boundary: %fs\n" (Sys.time () -. t) in 
+        let _ =
+          Printf.printf "enter_building_from_boundary: %fs\n" (Sys.time () -. t)
+        in
         let t = Sys.time () in
         let _ =
-        match
-          Bigraph_of_the_world.Builder.BRS.apply b
-            [ Bigraph_of_the_world.Builder.enter_street ]
-        with
-        | Some b -> b
-        | None -> raise Not_found
+          match
+            Bigraph_of_the_world.Builder.BRS.apply b
+              [ Bigraph_of_the_world.Builder.enter_street ]
+          with
+          | Some b -> b
+          | None -> raise Not_found
         in
-        let _ = Printf.printf "enter_street: %fs\n" (Sys.time () -. t) in 
-      ()
+        let _ = Printf.printf "enter_street: %fs\n" (Sys.time () -. t) in
+        ()
   in
   ()
 
@@ -195,8 +207,8 @@ let command =
          ~doc:"apply all the reaction rules for motion sequentially"
      in
      fun () ->
-       main root_level root_relation root_name write_dot id_in_parameter eval write_json
-         one_reaction all_reactions)
+       main root_level root_relation root_name write_dot id_in_parameter eval
+         write_json one_reaction all_reactions)
 
 let () =
   (* Memtrace.trace_if_requested (); *)

@@ -46,25 +46,27 @@ let boundary_to_parent (root_level : string) (root_id : string)
         match Osm_xml.Types.find_tag child_relation.tags "admin_level" with
         | None -> mp
         | Some child_level -> (
-            match Osm_xml.Types.find_tag child_relation.tags "name" with
-            | None -> raise (TagNotFound ("name", child_id))
-            | Some child_name -> (
-                let child_string =
-                  child_level ^ "-" ^ child_id ^ "-" ^ child_name
-                in
-                match Map.find mp child_string with
-                | None ->
-                    helper child_level child_id child_name
-                      (Map.add_exn mp ~key:child_string ~data:root_string)
-                | Some prv_parent -> (
-                    match String.split_on_chars ~on:[ '-' ] prv_parent with
-                    | prv_parent_level :: _ ->
-                        if
-                          int_of_string prv_parent_level
-                          >= int_of_string root_level
-                        then mp
-                        else Map.set mp ~key:child_string ~data:root_string
-                    | _ -> raise (Invalid_argument prv_parent)))))
+            if int_of_string root_level >= int_of_string child_level then mp
+            else
+              match Osm_xml.Types.find_tag child_relation.tags "name" with
+              | None -> raise (TagNotFound ("name", child_id))
+              | Some child_name -> (
+                  let child_string =
+                    child_level ^ "-" ^ child_id ^ "-" ^ child_name
+                  in
+                  match Map.find mp child_string with
+                  | None ->
+                      helper child_level child_id child_name
+                        (Map.add_exn mp ~key:child_string ~data:root_string)
+                  | Some prv_parent -> (
+                      match String.split_on_chars ~on:[ '-' ] prv_parent with
+                      | prv_parent_level :: _ ->
+                          if
+                            int_of_string prv_parent_level
+                            >= int_of_string root_level
+                          then mp
+                          else Map.set mp ~key:child_string ~data:root_string
+                      | _ -> raise (Invalid_argument prv_parent)))))
   in
   let parent_mp =
     Map.add_exn String.Map.empty
