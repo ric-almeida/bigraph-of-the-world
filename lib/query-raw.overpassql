@@ -12,6 +12,7 @@ wr["building"](area.a)(around.boundary:0)->.buildings_on_boundary_unfiltered; //
 
 way(r.buildings_on_boundary)(area.a)
 ->.building_relations_way_members_inside; // way members of relations (buildings that intersect the boundary), filtered to those inside area
+
 node(w.building_relations_way_members_inside)(area.a)
 ->.building_relations_way_members_nodes_inside; // nodes of relations'(buildings that intersect the boundary) way members, filtered to those inside area
 (
@@ -89,7 +90,7 @@ complete // input set is node and way members in the area, 'complete' computes t
 ._->.boundaries_members_in_area; // transitive closure of the members of boundaries in the area
 
 (
-  relation.boundaries_members_in_area["boundary"="administrative"]; - .boundary;
+  relation.boundaries_members_in_area["boundary"="administrative"]["admin_level"]; - .boundary;
 )
 ->.child_boundaries;
 

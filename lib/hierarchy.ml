@@ -9,18 +9,6 @@ let invert_map_list mp =
         | None -> [ k ]
         | Some values -> k :: values))
 
-(* let invert_list_map_list mp = 
-    Map.fold mp ~init:String.Map.empty ~f:(fun ~key:k ~data:l acc -> 
-        List.fold l ~init:acc ~f:(fun acc v->
-            (Map.update acc v 
-                ~f:(function
-                | None -> [k]
-                | Some values -> k::values
-                )
-            )
-        )
-    ) *)
-
 let invert_map_set mp =
   Map.fold mp ~init:String.Map.empty ~f:(fun ~key:k ~data:v acc ->
       Map.update acc v ~f:(function

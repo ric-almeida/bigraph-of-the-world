@@ -21,15 +21,6 @@ let rec of_list_top_down f bs =
       let l, r = split bs in
       f (of_list_top_down f l) (of_list_top_down f r)
 
-(* let par_of_list_bottom_up bs = 
-    let rec helper bs acc = match bs,acc with
-    | b1::b2::bs, acc -> helper bs ((Big.par b1 b2)::acc)
-    | [b], [] -> b
-    | [b], acc -> helper (List.rev (b::acc)) []
-    | [], [] -> Big.id_eps
-    | [], acc -> helper (List.rev acc) [] in
-    helper bs [] *)
-
 let add_sites_to_right_then_nest f g =
   let diff = Big.ord_of_inter (Big.inner f) - Big.ord_of_inter (Big.outer g) in
   let site = Big.split 1 in

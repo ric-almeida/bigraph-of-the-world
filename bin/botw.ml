@@ -1,13 +1,3 @@
-(* _build/default/bin/botw.exe 10 2604777 Dover Number of nodes: 2184*)
-(* _build/default/bin/botw.exe 8 1481934 Dover Number of nodes: 14954*)
-(* _build/default/bin/botw.exe 10 1628638 Tilbrook Number of nodes: 35*)
-(* _build/default/bin/botw.exe 8 295349 Fenland Number of nodes: 13480*)
-(* _build/default/bin/botw.exe 8 295352 "East Cambridgeshire" Number of nodes: 19619*)
-(* _build/default/bin/botw.exe 8 295351 Huntingdonshire Number of nodes: 37597*)
-(* _build/default/bin/botw.exe 8 295355 Cambridge Number of nodes: 62838*)
-(* _build/default/bin/botw.exe 8 295353 "South Cambridgeshire" Number of nodes: 75961*)
-(* _build/default/bin/botw.exe 6 180837 Cambridgeshire Number of nodes: 210768 *)
-
 let main (root_level : string) (root_id : string) (root_name : string) write_dot
     id_in_parameter eval write_json one_reaction all_reactions =
   let root_string = root_level ^ "-" ^ root_id ^ "-" ^ root_name in

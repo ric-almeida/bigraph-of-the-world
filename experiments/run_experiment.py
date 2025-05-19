@@ -16,8 +16,8 @@ bigraph_type = types.SimpleNamespace()
 bigraph_type.ORIGINAL = 0
 bigraph_type.IMPROVED = 1
 
-experiment = experiment_type.ONE_REACTION  # Experiment to run
-bigraph = bigraph_type.ORIGINAL
+experiment = experiment_type.ALL_REACTIONS  # Experiment to run
+bigraph = bigraph_type.IMPROVED
 repeats = 1  # Number of times to repeat each experiment
 
 if experiment == experiment_type.BUILD:
