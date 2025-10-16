@@ -18,11 +18,13 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
     else
       let t = Sys.time () in
       let b =
-        Bigraph.Big.t_of_yojson
+        Bigraph.Big.of_yojson
           (Yojson.Safe.from_file ("output/" ^ root_string ^ ".json"))
       in
       let _ = Printf.printf "Bigraph loaded in: %fs\n" (Sys.time () -. t) in
-      b
+      match b with 
+      | Ok b -> b
+      | Error e -> failwith e
   in
   let _ = Bigraph_of_the_world.Hierarchy.print_stats b in
   let _ =
@@ -34,7 +36,7 @@ let main (root_level : string) (root_id : string) (root_name : string) write_dot
       let _ =
         Lwt_main.run
           (Bigraph_of_the_world__Overpass.write_to_file
-             (Yojson.Safe.to_string (Bigraph.Big.yojson_of_t b))
+             (Yojson.Safe.to_string (Bigraph.Big.to_yojson b))
              ("output/" ^ root_string ^ ".json"))
       in
       print_endline ("Bigraph saved to output/" ^ root_string ^ ".json")

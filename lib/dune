@@ -1,6 +1,6 @@
 (library
  (name bigraph_of_the_world)
  (public_name bigraph-of-the-world)
- (libraries cohttp-lwt-unix osm_xml core core_unix bigraph progress)
+ (libraries cohttp-lwt-unix osm_xml core core_unix bigraph progress ppx_yojson_conv ppx_yojson_conv_lib)
  (instrumentation
   (backend landmarks --auto)))

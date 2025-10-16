@@ -86,7 +86,7 @@ let build (root_level : string) (root_id : string) (root_name : string)
                       (if id_in_parameter then Big.id_eps
                        else
                          Big.atom (Link.parse_face [ "id" ])
-                           Ctrl.{ s = "ID"; p = [ S building_name ]; i = 1 }))
+                           Ctrl.{ s = "ID"; p = [ Ctrl.Val (Expr.Str building_name) ]; i = 1 }))
                    (Big.par site (* sibiling building/street/boundary*)
                       (Big.atom
                          (Link.parse_face
@@ -95,7 +95,7 @@ let build (root_level : string) (root_id : string) (root_name : string)
                            {
                              s = "Building";
                              p =
-                               (if id_in_parameter then [ S building_name ]
+                               (if id_in_parameter then [ Ctrl.Val (Expr.Str  building_name) ]
                                 else []);
                              i = (if id_in_parameter then 0 else 1);
                            })))
@@ -109,7 +109,7 @@ let build (root_level : string) (root_id : string) (root_name : string)
                     (if id_in_parameter then Big.id_eps
                      else
                        Big.atom (Link.parse_face [ "id" ])
-                         Ctrl.{ s = "ID"; p = [ S boundary_name ]; i = 1 }))
+                         Ctrl.{ s = "ID"; p = [ Ctrl.Val (Expr.Str boundary_name) ]; i = 1 }))
                  (Big.par site (* sibiling building/street/boundary*)
                     (Big.ion
                        (Link.parse_face
@@ -118,7 +118,7 @@ let build (root_level : string) (root_id : string) (root_name : string)
                          {
                            s = "Boundary";
                            p =
-                             (if id_in_parameter then [ S boundary_name ]
+                             (if id_in_parameter then [ Ctrl.Val (Expr.Str boundary_name) ]
                               else []);
                            i = (if id_in_parameter then 0 else 1);
                          })
@@ -148,7 +148,7 @@ let build (root_level : string) (root_id : string) (root_name : string)
                               else
                                 Big.atom (Link.parse_face [ "id" ])
                                   Ctrl.
-                                    { s = "ID"; p = [ S street_name ]; i = 1 }))
+                                    { s = "ID"; p = [ Ctrl.Val (Expr.Str street_name) ]; i = 1 }))
                           (Big.par site (* sibiling street/boundary*)
                              (Big.ion
                                 (Link.parse_face
@@ -157,7 +157,7 @@ let build (root_level : string) (root_id : string) (root_name : string)
                                   {
                                     s = "Street";
                                     p =
-                                      (if id_in_parameter then [ S street_name ]
+                                      (if id_in_parameter then [ Ctrl.Val (Expr.Str street_name) ]
                                        else []);
                                     i = (if id_in_parameter then 0 else 1);
                                   })
@@ -192,7 +192,7 @@ let build (root_level : string) (root_id : string) (root_name : string)
                                        Ctrl.
                                          {
                                            s = "ID";
-                                           p = [ S building_name ];
+                                           p = [ Ctrl.Val (Expr.Str building_name) ];
                                            i = 1;
                                          }))
                                (Big.ppar site (*uncle street/boundary*)
@@ -206,7 +206,7 @@ let build (root_level : string) (root_id : string) (root_name : string)
                                             s = "Building";
                                             p =
                                               (if id_in_parameter then
-                                                 [ S building_name ]
+                                                 [ Ctrl.Val (Expr.Str building_name) ]
                                                else []);
                                             i =
                                               (if id_in_parameter then 0 else 1);
@@ -243,7 +243,7 @@ let add_agent_to_building ~bigraph ~agent_id ~building_name =
   in
   let parent_id =
     Big.atom (Link.parse_face [ "id" ])
-      Ctrl.{ s = "ID"; p = [ S building_name ]; i = 1 }
+      Ctrl.{ s = "ID"; p = [ Ctrl.Val (Expr.Str building_name) ]; i = 1 }
   in
   let lhs = Big.close (Link.parse_face [ "id" ]) (Big.ppar parent parent_id) in
   let site = Big.split 1 in
@@ -252,7 +252,7 @@ let add_agent_to_building ~bigraph ~agent_id ~building_name =
   in
   let child_id =
     Big.atom (Link.parse_face [ "id" ])
-      Ctrl.{ s = "ID"; p = [ S agent_id ]; i = 1 }
+      Ctrl.{ s = "ID"; p = [ Ctrl.Val (Expr.Str agent_id) ]; i = 1 }
   in
   let rhs =
     Big.nest

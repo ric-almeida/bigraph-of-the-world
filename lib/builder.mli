@@ -54,8 +54,8 @@ end
 module BRS : sig
   type react = Bigraph.Brs.react
 
-  val yojson_of_react : react -> Ppx_yojson_conv_lib.Yojson.Safe.t
-  val react_of_yojson : Ppx_yojson_conv_lib.Yojson.Safe.t -> react
+  val react_to_yojson : react -> Yojson.Safe.t
+  val react_of_yojson : Ppx_yojson_conv_lib.Yojson.Safe.t -> react Ppx_deriving_yojson_runtime.error_or
 
   type p_class = Bigraph.Brs.Make(MSSolver).p_class =
     | P_class of react list
@@ -63,8 +63,8 @@ module BRS : sig
 
   type graph = Bigraph.Brs.graph
 
-  val yojson_of_graph : graph -> Ppx_yojson_conv_lib.Yojson.Safe.t
-  val graph_of_yojson : Ppx_yojson_conv_lib.Yojson.Safe.t -> graph
+  val graph_to_yojson : graph -> Ppx_yojson_conv_lib.Yojson.Safe.t
+  val graph_of_yojson : Ppx_yojson_conv_lib.Yojson.Safe.t -> graph Ppx_deriving_yojson_runtime.error_or
 
   type label = unit
   type limit = int

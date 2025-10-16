@@ -21,6 +21,7 @@
  (depends 
   ocaml 
   ppx_let 
+  ppx_yojson_conv
   cohttp-lwt-unix
   core
   core_unix
