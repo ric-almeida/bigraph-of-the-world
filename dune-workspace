@@ -1,0 +1,17 @@
+(lang dune 3.0)
+
+(context (default
+ (disable_dynamically_linked_foreign_archives true)))
+
+(env
+ (default
+  (flags
+   (:standard -g -strict-formats -principal -strict-sequence)))
+ (release
+  (ocamlopt_flags
+   (:standard -O3 -noassert -inline 100 -match-context-rows 64 -unboxed-types -unsafe -w -64 -unbox-closures -ccopt -Ofast)))
+ (static
+  (flags -cclib -static -cclib -lstdc++)
+  (ocamlopt_flags
+   (:standard -O3 -noassert -inline 100))))
+   
