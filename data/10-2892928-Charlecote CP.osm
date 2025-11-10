@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:00:49Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="15830649" lat="52.1999422" lon="-1.5984847" version="5" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush"/>
+  <node id="37883799" lat="52.2040477" lon="-1.6167068" version="4" timestamp="2019-01-16T09:49:56Z" changeset="66356830" uid="52797" user="hofoen"/>
+  <node id="119447044" lat="52.1997492" lon="-1.5992424" version="6" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush"/>
+  <node id="148037815" lat="52.2030451" lon="-1.6626017" version="5" timestamp="2012-01-22T20:17:45Z" changeset="10469313" uid="9065" user="brianboru"/>
+  <node id="279539305" lat="52.2121166" lon="-1.6242443" version="3" timestamp="2013-04-21T13:57:24Z" changeset="15811082" uid="51722" user="Chris Parker"/>
+  <node id="1486011548" lat="52.1995663" lon="-1.5990451" version="2" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush"/>
+  <node id="1578710661" lat="52.1896939" lon="-1.6358906" version="1" timestamp="2012-01-05T21:33:10Z" changeset="10305496" uid="232621" user="vnjones"/>
+  <node id="1591182462" lat="52.2011682" lon="-1.6436903" version="1" timestamp="2012-01-15T17:36:32Z" changeset="10400842" uid="165" user="Richard"/>
+  <node id="12469289553" lat="52.2216837" lon="-1.6039067" version="2" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush"/>
+  <way id="5898989" version="11" timestamp="2023-08-19T13:37:20Z" changeset="140095343" uid="61942" user="SomeoneElse">
+    <nd ref="37874391"/>
+    <nd ref="2274358246"/>
+    <nd ref="37883784"/>
+    <nd ref="37883785"/>
+    <nd ref="2260846904"/>
+    <nd ref="2260846874"/>
+    <nd ref="37883787"/>
+    <nd ref="37883788"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="5899729" version="11" timestamp="2025-01-02T17:19:42Z" changeset="160917916" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1486011662"/>
+    <nd ref="1486011658"/>
+    <nd ref="9165295820"/>
+    <nd ref="1486011657"/>
+    <nd ref="48233356"/>
+    <nd ref="1486011655"/>
+    <nd ref="48233352"/>
+    <nd ref="48233348"/>
+    <nd ref="1658302278"/>
+    <nd ref="2337313619"/>
+    <nd ref="2337313613"/>
+    <nd ref="48233359"/>
+    <nd ref="2260822331"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8097743" version="9" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
+    <nd ref="2260822364"/>
+    <nd ref="37874363"/>
+    <nd ref="37874365"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Charlecote Road"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="12990486" version="9" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush">
+    <nd ref="37883788"/>
+    <nd ref="2260846770"/>
+    <nd ref="2260846765"/>
+    <nd ref="2274351156"/>
+    <nd ref="119446749"/>
+    <nd ref="889353563"/>
+    <nd ref="119446847"/>
+    <nd ref="2274351285"/>
+    <nd ref="2274351217"/>
+    <nd ref="2274351278"/>
+    <nd ref="119446947"/>
+    <nd ref="2274351225"/>
+    <nd ref="2274351335"/>
+    <nd ref="3423980722"/>
+    <nd ref="2293311637"/>
+    <nd ref="1486011626"/>
+    <nd ref="2293311632"/>
+    <nd ref="1486011623"/>
+    <nd ref="1486011613"/>
+    <nd ref="1486011610"/>
+    <nd ref="2323260637"/>
+    <nd ref="12552090545"/>
+    <nd ref="119447044"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="25643592" version="8" timestamp="2025-09-16T14:28:46Z" changeset="172018450" uid="5589" user="user_5589">
+    <nd ref="279539305"/>
+    <nd ref="37874362"/>
+    <nd ref="2260822364"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxweightrating" v="7.5"/>
+    <tag k="name" v="Charlecote Road"/>
+    <tag k="note" v="Maxweight 7.5T except permit holders"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="37100837" version="13" timestamp="2023-08-19T13:37:20Z" changeset="140095343" uid="61942" user="SomeoneElse">
+    <nd ref="37883788"/>
+    <nd ref="660496490"/>
+    <nd ref="37883789"/>
+    <nd ref="37883793"/>
+    <nd ref="2274333303"/>
+    <nd ref="37883794"/>
+    <nd ref="660496508"/>
+    <nd ref="2260846764"/>
+    <nd ref="37883796"/>
+    <nd ref="9864343832"/>
+    <nd ref="2274293707"/>
+    <nd ref="2260846760"/>
+    <nd ref="2274333307"/>
+    <nd ref="2260846725"/>
+    <nd ref="37883798"/>
+    <nd ref="37883799"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="42836442" version="21" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush">
+    <nd ref="15830649"/>
+    <nd ref="12552090552"/>
+    <nd ref="26337620"/>
+    <nd ref="12552090553"/>
+    <nd ref="26337619"/>
+    <nd ref="12552090554"/>
+    <nd ref="1486011616"/>
+    <nd ref="12552090555"/>
+    <nd ref="12552090556"/>
+    <nd ref="15830587"/>
+    <nd ref="4929085405"/>
+    <nd ref="12552090557"/>
+    <nd ref="1486011624"/>
+    <nd ref="12552090558"/>
+    <nd ref="26337617"/>
+    <nd ref="12552090559"/>
+    <nd ref="2337371100"/>
+    <nd ref="1486011628"/>
+    <nd ref="2337371102"/>
+    <nd ref="12552090560"/>
+    <nd ref="15830588"/>
+    <nd ref="12552090561"/>
+    <nd ref="12552090562"/>
+    <nd ref="1486011631"/>
+    <nd ref="12552090563"/>
+    <nd ref="1486011633"/>
+    <nd ref="12552090564"/>
+    <nd ref="1486011635"/>
+    <nd ref="12552090565"/>
+    <nd ref="26337613"/>
+    <nd ref="12552090566"/>
+    <nd ref="1486011639"/>
+    <nd ref="12552090567"/>
+    <nd ref="26337658"/>
+    <nd ref="12552090568"/>
+    <nd ref="12552090569"/>
+    <nd ref="1486011640"/>
+    <nd ref="12552090570"/>
+    <nd ref="12552090571"/>
+    <nd ref="12552090572"/>
+    <nd ref="26337614"/>
+    <nd ref="12552090573"/>
+    <nd ref="1486011643"/>
+    <nd ref="12552090574"/>
+    <nd ref="15830589"/>
+    <nd ref="12552090575"/>
+    <nd ref="12552090576"/>
+    <nd ref="2293308471"/>
+    <nd ref="12552090577"/>
+    <nd ref="26337615"/>
+    <nd ref="12552090578"/>
+    <nd ref="26337612"/>
+    <nd ref="12552090579"/>
+    <nd ref="12552090580"/>
+    <nd ref="12552090581"/>
+    <nd ref="26337616"/>
+    <nd ref="12552090582"/>
+    <nd ref="12552090583"/>
+    <nd ref="15830590"/>
+    <nd ref="12552090584"/>
+    <nd ref="12552090585"/>
+    <nd ref="1486011647"/>
+    <nd ref="12552090586"/>
+    <nd ref="26337611"/>
+    <nd ref="12552090588"/>
+    <nd ref="11579049794"/>
+    <nd ref="889336516"/>
+    <nd ref="12552090589"/>
+    <nd ref="2337353111"/>
+    <nd ref="12552090590"/>
+    <nd ref="15830591"/>
+    <nd ref="12552090591"/>
+    <nd ref="12552090592"/>
+    <nd ref="12552090593"/>
+    <nd ref="12552090594"/>
+    <nd ref="12552090595"/>
+    <nd ref="15830593"/>
+    <nd ref="12552090596"/>
+    <nd ref="12552090597"/>
+    <nd ref="1658296971"/>
+    <nd ref="1658302286"/>
+    <nd ref="12552090598"/>
+    <nd ref="268732549"/>
+    <nd ref="12552090599"/>
+    <nd ref="2337353115"/>
+    <nd ref="12552090600"/>
+    <nd ref="2337353119"/>
+    <nd ref="12552090601"/>
+    <nd ref="15830595"/>
+    <nd ref="12552090602"/>
+    <nd ref="12552090603"/>
+    <nd ref="1486011652"/>
+    <nd ref="12552090604"/>
+    <nd ref="12552090605"/>
+    <nd ref="26337296"/>
+    <nd ref="1467101199"/>
+    <nd ref="12552090606"/>
+    <nd ref="15830596"/>
+    <nd ref="12552090612"/>
+    <nd ref="48233344"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="ref" v="A429"/>
+    <tag k="restriction" v="no_stopping"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75315341" version="7" timestamp="2022-07-03T18:36:51Z" changeset="123161353" uid="122844" user="Casey_boy">
+    <nd ref="889353443"/>
+    <nd ref="2274294285"/>
+    <nd ref="889353440"/>
+    <nd ref="889353615"/>
+    <nd ref="889353565"/>
+    <nd ref="889353522"/>
+    <nd ref="2274293465"/>
+    <nd ref="2274293798"/>
+    <nd ref="2274333260"/>
+    <nd ref="2274293745"/>
+    <nd ref="2274293662"/>
+    <nd ref="889353477"/>
+    <nd ref="889353643"/>
+    <nd ref="889353588"/>
+    <nd ref="889353542"/>
+    <nd ref="889353627"/>
+    <nd ref="889353569"/>
+    <nd ref="2274333223"/>
+    <nd ref="889353524"/>
+    <nd ref="889353481"/>
+    <nd ref="889353654"/>
+    <nd ref="2274293818"/>
+    <nd ref="889353597"/>
+    <nd ref="2274294004"/>
+    <nd ref="889353443"/>
+    <tag k="HE_ref" v="1381799"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="historic" v="manor"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="Charlecote Park"/>
+    <tag k="operator" v="National Trust"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikidata" v="Q5074613"/>
+    <tag k="wikipedia" v="en:Charlecote Park"/>
+  </way>
+  <way id="126530526" version="6" timestamp="2019-07-23T18:45:38Z" changeset="72572108" uid="115894" user="DaveF">
+    <nd ref="37883799"/>
+    <nd ref="37883801"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="wikidata" v="Q17643792"/>
+  </way>
+  <way id="135297494" version="3" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush">
+    <nd ref="15830596"/>
+    <nd ref="12469289552"/>
+    <nd ref="12552090609"/>
+    <nd ref="1486011665"/>
+    <nd ref="12552090608"/>
+    <nd ref="1486011668"/>
+    <nd ref="12552090607"/>
+    <nd ref="1486011662"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="135297495" version="4" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush">
+    <nd ref="1486011548"/>
+    <nd ref="12552090544"/>
+    <nd ref="1486011571"/>
+    <nd ref="1486011602"/>
+    <nd ref="119447044"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="135297496" version="3" timestamp="2020-07-15T11:56:47Z" changeset="88031750" uid="11286310" user="Manateedriver">
+    <nd ref="119447044"/>
+    <nd ref="1486011606"/>
+    <nd ref="1486011604"/>
+    <nd ref="26337976"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="136168710" version="11" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush">
+    <nd ref="12469289553"/>
+    <nd ref="1467101201"/>
+    <nd ref="12552090615"/>
+    <nd ref="12552090616"/>
+    <nd ref="12552090617"/>
+    <nd ref="12552090618"/>
+    <nd ref="15830598"/>
+    <nd ref="12552090619"/>
+    <nd ref="1467101204"/>
+    <nd ref="12552090620"/>
+    <nd ref="26337294"/>
+    <nd ref="12552090621"/>
+    <nd ref="12552090622"/>
+    <nd ref="1467101224"/>
+    <nd ref="12552090623"/>
+    <nd ref="2293301313"/>
+    <nd ref="1467101231"/>
+    <nd ref="12552090624"/>
+    <nd ref="1467101234"/>
+    <nd ref="12552090626"/>
+    <nd ref="15830599"/>
+    <nd ref="12552090627"/>
+    <nd ref="2293301347"/>
+    <nd ref="12552090628"/>
+    <nd ref="1467101242"/>
+    <nd ref="12552090629"/>
+    <nd ref="12552090630"/>
+    <nd ref="26337293"/>
+    <nd ref="6909225572"/>
+    <nd ref="2293301420"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="ref" v="A429"/>
+    <tag k="restriction" v="no_stopping"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="144315328" version="13" timestamp="2025-08-18T16:46:41Z" changeset="170625515" uid="5589" user="user_5589">
+    <nd ref="148037815"/>
+    <nd ref="1601665734"/>
+    <nd ref="1601665728"/>
+    <nd ref="1601665718"/>
+    <nd ref="2279240946"/>
+    <nd ref="1601665710"/>
+    <nd ref="1601665706"/>
+    <nd ref="1601665682"/>
+    <nd ref="1601665680"/>
+    <nd ref="148037817"/>
+    <nd ref="11505425191"/>
+    <nd ref="1601665678"/>
+    <nd ref="11505425194"/>
+    <nd ref="11505425197"/>
+    <nd ref="1601665683"/>
+    <nd ref="1601665685"/>
+    <nd ref="1601665708"/>
+    <nd ref="1601665712"/>
+    <nd ref="1601665716"/>
+    <nd ref="11753184653"/>
+    <nd ref="1601665704"/>
+    <nd ref="1601665676"/>
+    <nd ref="1601665675"/>
+    <nd ref="1601665672"/>
+    <nd ref="1601665657"/>
+    <nd ref="1601665653"/>
+    <nd ref="8065769629"/>
+    <nd ref="8065769665"/>
+    <nd ref="1601665644"/>
+    <nd ref="1601665641"/>
+    <nd ref="1601665633"/>
+    <nd ref="1601665631"/>
+    <nd ref="1601665630"/>
+    <nd ref="1601665622"/>
+    <nd ref="1591182462"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Wellesbourne Road"/>
+    <tag k="ref" v="B4086"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="144328808" version="6" timestamp="2023-09-08T07:19:46Z" changeset="140972265" uid="18869198" user="TB-E">
+    <nd ref="1578710661"/>
+    <nd ref="6877042259"/>
+    <nd ref="1578710693"/>
+    <nd ref="1578710670"/>
+    <nd ref="2279225541"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hunscote Lane"/>
+    <tag k="source" v="OS opendata streetview"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="146971564" version="10" timestamp="2025-08-18T16:48:28Z" changeset="170625515" uid="5589" user="user_5589">
+    <nd ref="1591182462"/>
+    <nd ref="1601665625"/>
+    <nd ref="2279225815"/>
+    <nd ref="1601665628"/>
+    <nd ref="148039961"/>
+    <nd ref="11505478835"/>
+    <nd ref="11505478819"/>
+    <nd ref="1601665639"/>
+    <nd ref="268735151"/>
+    <nd ref="1601665647"/>
+    <nd ref="268735153"/>
+    <nd ref="268735156"/>
+    <nd ref="268735158"/>
+    <nd ref="1601665670"/>
+    <nd ref="1601665658"/>
+    <nd ref="2274333187"/>
+    <nd ref="1591182560"/>
+    <nd ref="1591182555"/>
+    <nd ref="1601665655"/>
+    <nd ref="1601665650"/>
+    <nd ref="1601665634"/>
+    <nd ref="1591182541"/>
+    <nd ref="1591182507"/>
+    <nd ref="1601665600"/>
+    <nd ref="1591182562"/>
+    <nd ref="2260859078"/>
+    <nd ref="1601665598"/>
+    <nd ref="268735167"/>
+    <nd ref="1601665596"/>
+    <nd ref="148039971"/>
+    <nd ref="1601665597"/>
+    <nd ref="268735169"/>
+    <nd ref="1601665599"/>
+    <nd ref="1601665601"/>
+    <nd ref="148039972"/>
+    <nd ref="1591182592"/>
+    <nd ref="1591182433"/>
+    <nd ref="1591182543"/>
+    <nd ref="1601665620"/>
+    <nd ref="1591182558"/>
+    <nd ref="1601665604"/>
+    <nd ref="1591182471"/>
+    <nd ref="1601665606"/>
+    <nd ref="1591182566"/>
+    <nd ref="1601665602"/>
+    <nd ref="1591182499"/>
+    <nd ref="1601665585"/>
+    <nd ref="1601665582"/>
+    <nd ref="1591182595"/>
+    <nd ref="1591182596"/>
+    <nd ref="268735186"/>
+    <nd ref="148039979"/>
+    <nd ref="1601665578"/>
+    <nd ref="8410941055"/>
+    <nd ref="1591182524"/>
+    <nd ref="1591182477"/>
+    <nd ref="1591182502"/>
+    <nd ref="2275303571"/>
+    <nd ref="1591182574"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Stratford Road"/>
+    <tag k="ref" v="B4086"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="153090556" version="1" timestamp="2012-03-03T22:55:59Z" changeset="10862996" uid="51046" user="clive_4332">
+    <nd ref="1658296995"/>
+    <nd ref="1658296967"/>
+    <nd ref="1658296990"/>
+    <nd ref="1658296979"/>
+    <nd ref="1658296995"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Farm House"/>
+  </way>
+  <way id="216689187" version="6" timestamp="2021-05-03T11:11:48Z" changeset="104047653" uid="5589" user="user_5589">
+    <nd ref="37874384"/>
+    <nd ref="2337313585"/>
+    <nd ref="1494130560"/>
+    <nd ref="37874387"/>
+    <nd ref="37874388"/>
+    <nd ref="2277576625"/>
+    <nd ref="1494130604"/>
+    <nd ref="1494130563"/>
+    <nd ref="37874391"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Charlecote Road"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="216689212" version="6" timestamp="2025-08-18T17:05:21Z" changeset="170630620" uid="5589" user="user_5589">
+    <nd ref="2260821896"/>
+    <nd ref="2260846962"/>
+    <nd ref="48233371"/>
+    <nd ref="2274358259"/>
+    <nd ref="2260846954"/>
+    <nd ref="2274358266"/>
+    <nd ref="37874391"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Birmingham Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="216689215" version="8" timestamp="2024-11-02T10:03:13Z" changeset="158651097" uid="21081459" user="Flynn_">
+    <nd ref="2260822331"/>
+    <nd ref="48233363"/>
+    <nd ref="8514389965"/>
+    <nd ref="5591114176"/>
+    <nd ref="2260846967"/>
+    <nd ref="2274358242"/>
+    <nd ref="48233366"/>
+    <nd ref="2260821896"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Birmingham road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="218152229" version="3" timestamp="2022-07-03T18:36:51Z" changeset="123161353" uid="122844" user="Casey_boy">
+    <nd ref="2274294091"/>
+    <nd ref="2274294274"/>
+    <nd ref="2274293484"/>
+    <nd ref="2274293933"/>
+    <nd ref="2274294091"/>
+    <tag k="HE_ref" v="1381807"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="name" v="Summer House"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="218152264" version="3" timestamp="2022-07-03T18:36:51Z" changeset="123161353" uid="122844" user="Casey_boy">
+    <nd ref="2274293806"/>
+    <nd ref="2274294132"/>
+    <nd ref="2274293638"/>
+    <nd ref="2274293830"/>
+    <nd ref="2274293591"/>
+    <nd ref="2274294298"/>
+    <nd ref="2274293840"/>
+    <nd ref="2274293860"/>
+    <nd ref="2274293806"/>
+    <tag k="HE_ref" v="1381809"/>
+    <tag k="building" v="yes"/>
+    <tag k="dog" v="leashed"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="name" v="The Orangery"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="218156906" version="4" timestamp="2023-02-20T23:21:10Z" changeset="132812041" uid="334129" user="murble">
+    <nd ref="2274333175"/>
+    <nd ref="2274333267"/>
+    <nd ref="2274333224"/>
+    <nd ref="2274333211"/>
+    <nd ref="10681926891"/>
+    <nd ref="10681926894"/>
+    <nd ref="10681926893"/>
+    <nd ref="10681926892"/>
+    <nd ref="2274333175"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="description" v="ticket office etc."/>
+    <tag k="name" v="Charlecote Park Recepton"/>
+    <tag k="office" v="ngo"/>
+    <tag k="roof:shape" v="gabled"/>
+    <tag k="source" v="Bing"/>
+    <tag k="start_date" v="2009"/>
+  </way>
+  <way id="218156909" version="4" timestamp="2022-08-05T16:21:56Z" changeset="124531003" uid="16085288" user="Askew4872">
+    <nd ref="2274333280"/>
+    <nd ref="2274333264"/>
+    <nd ref="2274333157"/>
+    <nd ref="2274333262"/>
+    <nd ref="2274333280"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Plant &amp; garden shop"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="shop" v="garden_centre"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="218160172" version="5" timestamp="2020-10-05T21:10:27Z" changeset="92007731" uid="364" user="Edward">
+    <nd ref="2274351313"/>
+    <nd ref="2274351287"/>
+    <nd ref="2274351199"/>
+    <nd ref="2274351231"/>
+    <nd ref="2274351173"/>
+    <nd ref="2274351249"/>
+    <nd ref="2274351313"/>
+    <tag k="addr:postcode" v="CV35 9EW"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="St Leonard's"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Bing, survey"/>
+    <tag k="wikidata" v="Q17379645"/>
+  </way>
+  <way id="218429560" version="2" timestamp="2018-07-02T13:09:49Z" changeset="60347988" uid="8494526" user="garryo9">
+    <nd ref="2276793216"/>
+    <nd ref="2276793200"/>
+    <nd ref="2276793203"/>
+    <nd ref="2276793150"/>
+    <nd ref="2276793122"/>
+    <nd ref="2276793118"/>
+    <nd ref="2276793113"/>
+    <nd ref="2276793111"/>
+    <nd ref="2276793196"/>
+    <nd ref="2276793198"/>
+    <nd ref="2276793213"/>
+    <nd ref="2276793216"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Terry Pryce Building"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="218429562" version="2" timestamp="2018-07-02T13:09:49Z" changeset="60347988" uid="8494526" user="garryo9">
+    <nd ref="2276793159"/>
+    <nd ref="2276793164"/>
+    <nd ref="2276793141"/>
+    <nd ref="2276793139"/>
+    <nd ref="2276793132"/>
+    <nd ref="2276793134"/>
+    <nd ref="2276793143"/>
+    <nd ref="2276793145"/>
+    <nd ref="2276793127"/>
+    <nd ref="2276793117"/>
+    <nd ref="2276793125"/>
+    <nd ref="2276793115"/>
+    <nd ref="2276793123"/>
+    <nd ref="2276793120"/>
+    <nd ref="2276793128"/>
+    <nd ref="2276793130"/>
+    <nd ref="2276793138"/>
+    <nd ref="2276793136"/>
+    <nd ref="2276793159"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="David Lowe Building"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="218429563" version="2" timestamp="2018-07-02T13:09:48Z" changeset="60347988" uid="8494526" user="garryo9">
+    <nd ref="2276793254"/>
+    <nd ref="2276793256"/>
+    <nd ref="2276793232"/>
+    <nd ref="2276793236"/>
+    <nd ref="2276793241"/>
+    <nd ref="2276793247"/>
+    <nd ref="2276793264"/>
+    <nd ref="2276793270"/>
+    <nd ref="2276793218"/>
+    <nd ref="2276793216"/>
+    <nd ref="2276793213"/>
+    <nd ref="2276793211"/>
+    <nd ref="2276793227"/>
+    <nd ref="2276793215"/>
+    <nd ref="2276793194"/>
+    <nd ref="2276793193"/>
+    <nd ref="2276793234"/>
+    <nd ref="2276793238"/>
+    <nd ref="2276793254"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Prince Philip Building"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="218521858" version="5" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
+    <nd ref="37874367"/>
+    <nd ref="9017111196"/>
+    <nd ref="37874368"/>
+    <nd ref="37874371"/>
+    <nd ref="37874372"/>
+    <nd ref="37874373"/>
+    <nd ref="37874376"/>
+    <nd ref="37874378"/>
+    <nd ref="37874380"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Charlecote Road"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="218521859" version="5" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
+    <nd ref="37874365"/>
+    <nd ref="37874367"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Charlecote Road"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="224887302" version="3" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
+    <nd ref="37874380"/>
+    <nd ref="2337313586"/>
+    <nd ref="37874381"/>
+    <nd ref="1494130568"/>
+    <nd ref="37874384"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Charlecote Road"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="625527609" version="3" timestamp="2024-06-11T19:01:30Z" changeset="152557831" uid="414193" user="rvhoc">
+    <nd ref="5906011804"/>
+    <nd ref="5906011803"/>
+    <nd ref="5906011802"/>
+    <nd ref="5906011801"/>
+    <nd ref="5906011800"/>
+    <nd ref="5906011799"/>
+    <nd ref="5906011798"/>
+    <nd ref="5906011797"/>
+    <nd ref="5906011796"/>
+    <nd ref="5906011795"/>
+    <nd ref="5906011794"/>
+    <nd ref="5906011793"/>
+    <nd ref="5906011804"/>
+    <tag k="building" v="residential"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="man_made" v="watermill"/>
+    <tag k="name" v="Charlecote Mill"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="website" v="https://www.charlecotemill.co.uk/"/>
+  </way>
+  <way id="663763995" version="1" timestamp="2019-01-16T09:49:56Z" changeset="66356830" uid="52797" user="hofoen">
+    <nd ref="6212808835"/>
+    <nd ref="6212808834"/>
+    <nd ref="6212808833"/>
+    <nd ref="6212808832"/>
+    <nd ref="6212808835"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="Charlecote Gardens"/>
+    <tag k="wikidata" v="Q26661909"/>
+  </way>
+  <way id="828109503" version="2" timestamp="2023-10-20T10:26:14Z" changeset="142863175" uid="18869198" user="TB-E">
+    <nd ref="7730912080"/>
+    <nd ref="7730912079"/>
+    <nd ref="7730912078"/>
+    <nd ref="7730912077"/>
+    <nd ref="7730912076"/>
+    <nd ref="7730912075"/>
+    <nd ref="11277026312"/>
+    <nd ref="7730912080"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CV35 9EZ"/>
+    <tag k="addr:street" v="Lower Hunscote Farm"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="1217053665" version="1" timestamp="2023-10-20T10:26:14Z" changeset="142863175" uid="18869198" user="TB-E">
+    <nd ref="7730912075"/>
+    <nd ref="11277026310"/>
+    <nd ref="11277026313"/>
+    <nd ref="11277026311"/>
+    <nd ref="11277026312"/>
+    <nd ref="7730912075"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="CV35 9EZ"/>
+    <tag k="addr:street" v="Lower Hunscote Farm"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="1348031485" version="2" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush">
+    <nd ref="48233344"/>
+    <nd ref="12552090613"/>
+    <nd ref="26337295"/>
+    <nd ref="12552090614"/>
+    <nd ref="12469289553"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="ref" v="A429"/>
+    <tag k="restriction" v="no_stopping"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1348031486" version="2" timestamp="2025-02-02T19:15:03Z" changeset="162059586" uid="19756269" user="RyanBush">
+    <nd ref="48233344"/>
+    <nd ref="12552090611"/>
+    <nd ref="12552090610"/>
+    <nd ref="1486011662"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

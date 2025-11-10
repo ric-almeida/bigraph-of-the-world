@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:37:55Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="68507620" lat="53.1277091" lon="-0.8861015" version="16" timestamp="2011-03-15T03:00:22Z" changeset="7562999" uid="61942" user="SomeoneElse"/>
+  <node id="324368792" lat="53.1032356" lon="-0.8790425" version="5" timestamp="2015-04-17T22:49:44Z" changeset="30297276" uid="61942" user="SomeoneElse"/>
+  <node id="324369225" lat="53.1199521" lon="-0.8701869" version="13" timestamp="2020-11-08T10:13:15Z" changeset="93733304" uid="10252551" user="amanura"/>
+  <node id="535858229" lat="53.1677579" lon="-0.9458696" version="2" timestamp="2014-12-26T12:49:18Z" changeset="27706779" uid="61942" user="SomeoneElse"/>
+  <node id="665685866" lat="53.1329775" lon="-0.9120720" version="2" timestamp="2011-12-07T18:38:49Z" changeset="10059901" uid="61942" user="SomeoneElse"/>
+  <node id="1734762642" lat="53.1504378" lon="-0.9129321" version="1" timestamp="2012-04-29T02:24:20Z" changeset="11446133" uid="61942" user="SomeoneElse"/>
+  <node id="1735252500" lat="53.1327764" lon="-0.8654939" version="1" timestamp="2012-04-29T14:10:28Z" changeset="11449771" uid="61942" user="SomeoneElse"/>
+  <node id="9754442619" lat="53.1186760" lon="-0.8674216" version="1" timestamp="2022-05-19T12:08:56Z" changeset="121192978" uid="10038339" user="Akgeo"/>
+  <way id="29431434" version="8" timestamp="2017-07-31T18:49:13Z" changeset="50730653" uid="5296090" user="TR42">
+    <nd ref="324368792"/>
+    <nd ref="3462444751"/>
+    <nd ref="665685860"/>
+    <nd ref="324369215"/>
+    <nd ref="324369216"/>
+    <nd ref="324369217"/>
+    <nd ref="665685861"/>
+    <nd ref="1328033074"/>
+    <nd ref="324369218"/>
+    <nd ref="324369219"/>
+    <nd ref="3501782965"/>
+    <nd ref="324369220"/>
+    <nd ref="665685862"/>
+    <nd ref="324369221"/>
+    <nd ref="665685863"/>
+    <nd ref="324369222"/>
+    <nd ref="324369223"/>
+    <nd ref="324369224"/>
+    <nd ref="3462505047"/>
+    <nd ref="3462505044"/>
+    <nd ref="3462505045"/>
+    <nd ref="3462505043"/>
+    <nd ref="3462505042"/>
+    <nd ref="3462505046"/>
+    <nd ref="324369225"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="GPS;Bing"/>
+  </way>
+  <way id="29431762" version="20" timestamp="2025-05-14T10:26:31Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="68507620"/>
+    <nd ref="1735152478"/>
+    <nd ref="1735152551"/>
+    <nd ref="8384726220"/>
+    <nd ref="1735152528"/>
+    <nd ref="324371744"/>
+    <nd ref="1735152547"/>
+    <nd ref="1735152534"/>
+    <nd ref="324371745"/>
+    <nd ref="1735152531"/>
+    <nd ref="1735152540"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="29431785" version="14" timestamp="2025-05-14T10:26:31Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1735152522"/>
+    <nd ref="324371746"/>
+    <nd ref="1735130494"/>
+    <nd ref="324371992"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at N"/>
+  </way>
+  <way id="29431791" version="8" timestamp="2016-07-08T00:14:45Z" changeset="40558572" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="324372026"/>
+    <nd ref="324372048"/>
+    <nd ref="324372049"/>
+    <nd ref="1506868219"/>
+    <nd ref="4289592719"/>
+    <nd ref="2072247933"/>
+    <nd ref="1506868235"/>
+    <nd ref="324372050"/>
+    <nd ref="2072247959"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Manor Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:name" v="Sign at SE"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="29431792" version="12" timestamp="2022-05-11T16:55:37Z" changeset="120850248" uid="5589" user="user_5589">
+    <nd ref="324372049"/>
+    <nd ref="1734814347"/>
+    <nd ref="2072251349"/>
+    <nd ref="324372136"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ford Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at N"/>
+  </way>
+  <way id="29431815" version="12" timestamp="2025-05-14T10:26:32Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="324372322"/>
+    <nd ref="324372363"/>
+    <nd ref="324372364"/>
+    <nd ref="1734766071"/>
+    <nd ref="6774736739"/>
+    <nd ref="324372365"/>
+    <nd ref="6774736731"/>
+    <nd ref="1735160604"/>
+    <nd ref="7951448441"/>
+    <nd ref="2128284102"/>
+    <nd ref="7951448447"/>
+    <nd ref="7951448451"/>
+    <nd ref="1735347450"/>
+    <nd ref="324372367"/>
+    <nd ref="324372368"/>
+    <nd ref="1734814390"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Mill Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="29431855" version="8" timestamp="2022-12-04T10:02:42Z" changeset="129698970" uid="10893436" user="Dimitar155">
+    <nd ref="324372597"/>
+    <nd ref="1734762647"/>
+    <nd ref="1734762639"/>
+    <nd ref="1734762641"/>
+    <nd ref="324372715"/>
+    <nd ref="1734762645"/>
+    <nd ref="1734762642"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="60437642" version="12" timestamp="2016-07-08T00:14:44Z" changeset="40558572" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="324372030"/>
+    <nd ref="4289592705"/>
+    <nd ref="1735160486"/>
+    <nd ref="1735160496"/>
+    <nd ref="4289592732"/>
+    <nd ref="324371750"/>
+    <nd ref="1735160483"/>
+    <nd ref="2074032345"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Norwell Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:highway" v="View from E"/>
+    <tag k="source:name" v="Sign at W"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="85333481" version="4" timestamp="2017-07-31T18:49:12Z" changeset="50730653" uid="5296090" user="TR42">
+    <nd ref="989287484"/>
+    <nd ref="989287485"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="85333484" version="6" timestamp="2017-07-31T18:49:12Z" changeset="50730653" uid="5296090" user="TR42">
+    <nd ref="989287485"/>
+    <nd ref="129999577"/>
+    <nd ref="665685864"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="137361957" version="9" timestamp="2021-03-31T04:29:50Z" changeset="102021013" uid="5443821" user="◪ Jarv">
+    <nd ref="324372028"/>
+    <nd ref="1735331414"/>
+    <nd ref="1735322984"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Norwell Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="Sign at W"/>
+  </way>
+  <way id="140161273" version="14" timestamp="2021-08-24T03:29:45Z" changeset="110143408" uid="10208976" user="vchndl">
+    <nd ref="665685864"/>
+    <nd ref="1535576338"/>
+    <nd ref="803665161"/>
+    <nd ref="324371891"/>
+    <nd ref="8095921691"/>
+    <nd ref="8384829810"/>
+    <nd ref="324371892"/>
+    <nd ref="8006478688"/>
+    <nd ref="1037074919"/>
+    <nd ref="324371893"/>
+    <nd ref="9030251427"/>
+    <nd ref="324371894"/>
+    <nd ref="324371895"/>
+    <nd ref="1535576337"/>
+    <nd ref="324371896"/>
+    <nd ref="1535576336"/>
+    <nd ref="8613759074"/>
+    <nd ref="6774701641"/>
+    <nd ref="665685865"/>
+    <nd ref="665685866"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Maplebeck Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="142217172" version="13" timestamp="2021-02-01T16:56:06Z" changeset="98524508" uid="10170582" user="priymose">
+    <nd ref="68507620"/>
+    <nd ref="4289592700"/>
+    <nd ref="1202553292"/>
+    <nd ref="3462502840"/>
+    <nd ref="1202553312"/>
+    <nd ref="3462503254"/>
+    <nd ref="1202553328"/>
+    <nd ref="3462503219"/>
+    <nd ref="1202553337"/>
+    <nd ref="3462503235"/>
+    <nd ref="307417908"/>
+    <nd ref="3462503216"/>
+    <nd ref="1835921375"/>
+    <nd ref="1202553344"/>
+    <nd ref="1202553347"/>
+    <nd ref="1835921377"/>
+    <nd ref="1835921376"/>
+    <nd ref="307417909"/>
+    <nd ref="3462520383"/>
+    <nd ref="1202553355"/>
+    <nd ref="3462521300"/>
+    <nd ref="307417910"/>
+    <nd ref="3462520391"/>
+    <nd ref="1202553363"/>
+    <nd ref="3462521299"/>
+    <nd ref="3462521298"/>
+    <nd ref="1202553368"/>
+    <nd ref="473227710"/>
+    <nd ref="307417911"/>
+    <nd ref="3462520386"/>
+    <nd ref="3462520385"/>
+    <nd ref="1202553377"/>
+    <nd ref="1202553382"/>
+    <nd ref="1202553387"/>
+    <nd ref="3463244099"/>
+    <nd ref="1202553393"/>
+    <nd ref="3463244167"/>
+    <nd ref="3463244111"/>
+    <nd ref="307417912"/>
+    <nd ref="3463244149"/>
+    <nd ref="1202553398"/>
+    <nd ref="3463239263"/>
+    <nd ref="1202553404"/>
+    <nd ref="3463244163"/>
+    <nd ref="1835921373"/>
+    <nd ref="3463239270"/>
+    <nd ref="307417913"/>
+    <nd ref="3463244128"/>
+    <nd ref="1202553408"/>
+    <nd ref="3463239268"/>
+    <nd ref="8384582641"/>
+    <nd ref="307417914"/>
+    <nd ref="3462417905"/>
+    <nd ref="3462417914"/>
+    <nd ref="1202553425"/>
+    <nd ref="1202553447"/>
+    <nd ref="3462417906"/>
+    <nd ref="6581840606"/>
+    <nd ref="3462417901"/>
+    <nd ref="307417915"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Caunton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="161501804" version="15" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="535858229"/>
+    <nd ref="3253462387"/>
+    <nd ref="129999622"/>
+    <nd ref="61276584"/>
+    <nd ref="6723185392"/>
+    <nd ref="129999555"/>
+    <nd ref="129999556"/>
+    <nd ref="61276585"/>
+    <nd ref="129999557"/>
+    <nd ref="61276586"/>
+    <nd ref="129999558"/>
+    <nd ref="129999559"/>
+    <nd ref="129999560"/>
+    <nd ref="61276587"/>
+    <nd ref="61276588"/>
+    <nd ref="2128220569"/>
+    <nd ref="129999561"/>
+    <nd ref="129999562"/>
+    <nd ref="129999563"/>
+    <nd ref="129999564"/>
+    <nd ref="129999565"/>
+    <nd ref="129999566"/>
+    <nd ref="61276589"/>
+    <nd ref="61276590"/>
+    <nd ref="7496248552"/>
+    <nd ref="324372539"/>
+    <nd ref="61276591"/>
+    <nd ref="129999567"/>
+    <nd ref="61276592"/>
+    <nd ref="61276593"/>
+    <nd ref="129999568"/>
+    <nd ref="1734754182"/>
+    <nd ref="129999569"/>
+    <nd ref="61276594"/>
+    <nd ref="129999570"/>
+    <nd ref="324372597"/>
+    <nd ref="61276595"/>
+    <nd ref="1735370958"/>
+    <nd ref="129999571"/>
+    <nd ref="61276596"/>
+    <nd ref="129999572"/>
+    <nd ref="129999573"/>
+    <nd ref="68507598"/>
+    <nd ref="9040464842"/>
+    <nd ref="68507601"/>
+    <nd ref="129999574"/>
+    <nd ref="129999575"/>
+    <nd ref="68507604"/>
+    <nd ref="129999576"/>
+    <nd ref="68507605"/>
+    <nd ref="1735347459"/>
+    <nd ref="324372322"/>
+    <nd ref="1735347430"/>
+    <nd ref="1735347442"/>
+    <nd ref="68507608"/>
+    <nd ref="989287484"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey;Bing"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="local_knowledge"/>
+  </way>
+  <way id="161501807" version="9" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="1734762642"/>
+    <nd ref="324372716"/>
+    <nd ref="324372717"/>
+    <nd ref="324372718"/>
+    <nd ref="324372719"/>
+    <nd ref="324372720"/>
+    <nd ref="324372677"/>
+    <nd ref="324372721"/>
+    <nd ref="1835921378"/>
+    <nd ref="324372722"/>
+    <nd ref="6782641771"/>
+    <nd ref="324372723"/>
+    <nd ref="6563008949"/>
+    <nd ref="324372724"/>
+    <nd ref="1835921374"/>
+    <nd ref="324372725"/>
+    <nd ref="324372726"/>
+    <nd ref="324372727"/>
+    <nd ref="3129763479"/>
+    <nd ref="324372728"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="NPE"/>
+  </way>
+  <way id="161503819" version="7" timestamp="2025-05-14T10:26:34Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1734814390"/>
+    <nd ref="1734814404"/>
+    <nd ref="1734814407"/>
+    <nd ref="1734814412"/>
+    <nd ref="324372369"/>
+    <nd ref="324372370"/>
+    <nd ref="1734814349"/>
+    <nd ref="1734814408"/>
+    <nd ref="1734814351"/>
+    <nd ref="1734814387"/>
+    <nd ref="324372371"/>
+    <nd ref="1734814401"/>
+    <nd ref="1734814396"/>
+    <nd ref="1734814392"/>
+    <nd ref="324372298"/>
+    <nd ref="2072257294"/>
+    <nd ref="1734814397"/>
+    <nd ref="1734814358"/>
+    <nd ref="1734814410"/>
+    <nd ref="1734814353"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Mill Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at E"/>
+    <tag k="source:ref" v="GPS;Bing"/>
+  </way>
+  <way id="161503831" version="2" timestamp="2012-04-29T12:11:12Z" changeset="11449083" uid="61942" user="SomeoneElse">
+    <nd ref="324372026"/>
+    <nd ref="1735126668"/>
+    <nd ref="1735126665"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="Sign at N"/>
+  </way>
+  <way id="161541065" version="2" timestamp="2016-07-08T00:14:44Z" changeset="40558572" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="1735126665"/>
+    <nd ref="1735126667"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="Sign at N"/>
+  </way>
+  <way id="161541068" version="9" timestamp="2016-07-08T00:14:45Z" changeset="40558572" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="1735126667"/>
+    <nd ref="4289592726"/>
+    <nd ref="1735141236"/>
+    <nd ref="324372027"/>
+    <nd ref="2074032347"/>
+    <nd ref="1735126661"/>
+    <nd ref="324372028"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="Sign at N"/>
+  </way>
+  <way id="161542792" version="1" timestamp="2012-04-29T12:36:14Z" changeset="11449289" uid="61942" user="SomeoneElse">
+    <nd ref="1735141236"/>
+    <nd ref="1735141155"/>
+    <nd ref="1735141166"/>
+    <nd ref="1735141153"/>
+    <nd ref="1735141239"/>
+    <nd ref="1735141150"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chapel Lane"/>
+    <tag k="source" v="View from E;Bing"/>
+    <tag k="source:name" v="Sign at E"/>
+  </way>
+  <way id="161542794" version="3" timestamp="2015-04-18T00:39:29Z" changeset="30298153" uid="61942" user="SomeoneElse">
+    <nd ref="1735130502"/>
+    <nd ref="1735141219"/>
+    <nd ref="1735141182"/>
+    <nd ref="1735141201"/>
+    <nd ref="1735141238"/>
+    <nd ref="1735141214"/>
+    <nd ref="1735141226"/>
+    <nd ref="1735141172"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="School Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="161544024" version="9" timestamp="2025-05-14T10:26:35Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1735152526"/>
+    <nd ref="1735152490"/>
+    <nd ref="1735152522"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="161544028" version="9" timestamp="2025-05-14T10:26:35Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1735152540"/>
+    <nd ref="1735152526"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="161546747" version="3" timestamp="2021-03-31T04:29:50Z" changeset="102021013" uid="5443821" user="◪ Jarv">
+    <nd ref="324371992"/>
+    <nd ref="7308449278"/>
+    <nd ref="1735152498"/>
+    <nd ref="473227709"/>
+    <nd ref="1735130502"/>
+    <nd ref="1735130499"/>
+    <nd ref="752551747"/>
+    <nd ref="1735173677"/>
+    <nd ref="1735126669"/>
+    <nd ref="324372025"/>
+    <nd ref="1735126666"/>
+    <nd ref="324372026"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="Sign at N"/>
+  </way>
+  <way id="161551584" version="7" timestamp="2025-05-14T10:26:36Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1735252500"/>
+    <nd ref="1735252502"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Norwell Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="161565162" version="5" timestamp="2014-06-01T12:44:31Z" changeset="22672478" uid="61942" user="SomeoneElse">
+    <nd ref="1735322984"/>
+    <nd ref="2074032344"/>
+    <nd ref="324372029"/>
+    <nd ref="1735141223"/>
+    <nd ref="1735141228"/>
+    <nd ref="1735141180"/>
+    <nd ref="324372030"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Norwell Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="Sign at W"/>
+  </way>
+  <way id="161565280" version="6" timestamp="2022-05-11T16:55:37Z" changeset="120850248" uid="5589" user="user_5589">
+    <nd ref="1734814353"/>
+    <nd ref="324372028"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Mill Lane"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:name" v="Sign at E"/>
+    <tag k="source:ref" v="GPS;Bing"/>
+  </way>
+  <way id="196934171" version="4" timestamp="2025-05-14T10:26:37Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="665685864"/>
+    <nd ref="68507611"/>
+    <nd ref="129999578"/>
+    <nd ref="68507613"/>
+    <nd ref="324372053"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="196934172" version="5" timestamp="2025-05-14T10:26:37Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="2072247945"/>
+    <nd ref="2072247955"/>
+    <nd ref="324372052"/>
+    <nd ref="2072247953"/>
+    <nd ref="324372053"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Manor Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at SE"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="196934174" version="6" timestamp="2017-07-31T18:49:13Z" changeset="50730653" uid="5296090" user="TR42">
+    <nd ref="324372053"/>
+    <nd ref="129999579"/>
+    <nd ref="68507615"/>
+    <nd ref="129999580"/>
+    <nd ref="473227708"/>
+    <nd ref="68507619"/>
+    <nd ref="3462521294"/>
+    <nd ref="129999581"/>
+    <nd ref="68507620"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="196934176" version="5" timestamp="2025-05-14T10:26:38Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="2072247959"/>
+    <nd ref="4289592707"/>
+    <nd ref="324372051"/>
+    <nd ref="2072247945"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Manor Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at SE"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="196934698" version="5" timestamp="2022-12-04T10:02:42Z" changeset="129698970" uid="10893436" user="Dimitar155">
+    <nd ref="324372136"/>
+    <nd ref="8577451232"/>
+    <nd ref="324372138"/>
+    <nd ref="324372298"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ford Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at N"/>
+  </way>
+  <way id="196940078" version="1" timestamp="2012-12-17T23:59:28Z" changeset="14313060" uid="61942" user="SomeoneElse">
+    <nd ref="324372030"/>
+    <nd ref="2072343730"/>
+    <nd ref="2072343731"/>
+    <nd ref="2072343732"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Amen Corner"/>
+    <tag k="source" v="View from W;Bing"/>
+    <tag k="source:name" v="Sign at W"/>
+  </way>
+  <way id="196940080" version="8" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="665685866"/>
+    <nd ref="6622422963"/>
+    <nd ref="988363877"/>
+    <nd ref="324371897"/>
+    <nd ref="324371898"/>
+    <nd ref="1535576299"/>
+    <nd ref="324371899"/>
+    <nd ref="1535576297"/>
+    <nd ref="1535576394"/>
+    <nd ref="665685867"/>
+    <nd ref="324371900"/>
+    <nd ref="665685868"/>
+    <nd ref="324371901"/>
+    <nd ref="1535576304"/>
+    <nd ref="324371902"/>
+    <nd ref="1535576302"/>
+    <nd ref="803665236"/>
+    <nd ref="665685869"/>
+    <nd ref="1735386782"/>
+    <nd ref="324371903"/>
+    <nd ref="1735386784"/>
+    <nd ref="1535576312"/>
+    <nd ref="324371904"/>
+    <nd ref="665685870"/>
+    <nd ref="7205188076"/>
+    <nd ref="989287452"/>
+    <nd ref="989287454"/>
+    <nd ref="324371905"/>
+    <nd ref="989287461"/>
+    <nd ref="665685871"/>
+    <nd ref="324371906"/>
+    <nd ref="1734674758"/>
+    <nd ref="1734674752"/>
+    <nd ref="988363713"/>
+    <nd ref="324371908"/>
+    <nd ref="3253879538"/>
+    <nd ref="307420044"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="196940081" version="2" timestamp="2023-07-19T10:35:13Z" changeset="138709887" uid="7345137" user="magrej">
+    <nd ref="324371751"/>
+    <nd ref="2072343733"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Deans Close"/>
+    <tag k="source" v="View from N;Bing"/>
+    <tag k="source:name" v="Sign at N"/>
+  </way>
+  <way id="197102618" version="7" timestamp="2025-05-14T10:26:38Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="2074016925"/>
+    <nd ref="1735160481"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Norwell Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:highway" v="View from E"/>
+    <tag k="source:name" v="Sign at W"/>
+    <tag k="source:ref" v="NPE"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="197102619" version="8" timestamp="2025-05-14T10:26:38Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1735160481"/>
+    <nd ref="9022370286"/>
+    <nd ref="324371752"/>
+    <nd ref="9022370292"/>
+    <nd ref="324371753"/>
+    <nd ref="324371754"/>
+    <nd ref="1735252501"/>
+    <nd ref="324371755"/>
+    <nd ref="1735252500"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Norwell Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:highway" v="View from E"/>
+    <tag k="source:name" v="Sign at W"/>
+    <tag k="source:ref" v="NPE"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="197102620" version="4" timestamp="2025-05-14T10:26:39Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1735281357"/>
+    <nd ref="2074016925"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Norwell Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:highway" v="View from E"/>
+    <tag k="source:name" v="Sign at W"/>
+    <tag k="source:ref" v="NPE"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="197102759" version="5" timestamp="2022-01-09T17:29:42Z" changeset="115951758" uid="13972405" user="RKSimon">
+    <nd ref="2074018623"/>
+    <nd ref="1735281357"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Norwell Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:highway" v="View from E"/>
+    <tag k="source:name" v="Sign at W"/>
+    <tag k="source:ref" v="NPE"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="197105042" version="5" timestamp="2022-01-09T17:29:50Z" changeset="115951758" uid="13972405" user="RKSimon">
+    <nd ref="2074032345"/>
+    <nd ref="324371751"/>
+    <nd ref="2074018623"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Norwell Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:highway" v="View from E"/>
+    <tag k="source:name" v="Sign at W"/>
+    <tag k="source:ref" v="NPE"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="339063097" version="6" timestamp="2025-05-14T10:26:40Z" changeset="166247906" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="68507620"/>
+    <nd ref="324371287"/>
+    <nd ref="3462506083"/>
+    <nd ref="8577451229"/>
+    <nd ref="68507621"/>
+    <nd ref="129999582"/>
+    <nd ref="129999583"/>
+    <nd ref="129999584"/>
+    <nd ref="68507626"/>
+    <nd ref="6725970414"/>
+    <nd ref="6725970413"/>
+    <nd ref="68507627"/>
+    <nd ref="1735218475"/>
+    <nd ref="68507629"/>
+    <nd ref="129999585"/>
+    <nd ref="324369225"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="local_knowledge"/>
+  </way>
+  <way id="339063098" version="9" timestamp="2022-05-22T08:00:25Z" changeset="121307693" uid="10038339" user="Akgeo">
+    <nd ref="324369225"/>
+    <nd ref="68507633"/>
+    <nd ref="9754442619"/>
+    <nd ref="129999586"/>
+    <nd ref="68507635"/>
+    <nd ref="9754429611"/>
+    <nd ref="129999587"/>
+    <nd ref="68507636"/>
+    <nd ref="68507640"/>
+    <nd ref="129999588"/>
+    <nd ref="68507642"/>
+    <nd ref="6784755647"/>
+    <nd ref="6784755650"/>
+    <nd ref="129999589"/>
+    <nd ref="324369250"/>
+    <nd ref="129999590"/>
+    <nd ref="68507643"/>
+    <nd ref="129999591"/>
+    <nd ref="9761161943"/>
+    <nd ref="129999592"/>
+    <nd ref="68507647"/>
+    <nd ref="9761161936"/>
+    <nd ref="68507648"/>
+    <nd ref="68507650"/>
+    <nd ref="129999593"/>
+    <nd ref="68507654"/>
+    <nd ref="68507656"/>
+    <nd ref="129999594"/>
+    <nd ref="68507657"/>
+    <nd ref="129999595"/>
+    <nd ref="68507662"/>
+    <nd ref="129999596"/>
+    <nd ref="129999597"/>
+    <nd ref="129999598"/>
+    <nd ref="129999599"/>
+    <nd ref="68507663"/>
+    <nd ref="129999600"/>
+    <nd ref="324369006"/>
+    <nd ref="129999601"/>
+    <nd ref="68507664"/>
+    <nd ref="129999602"/>
+    <nd ref="129999603"/>
+    <nd ref="68507669"/>
+    <nd ref="324369467"/>
+    <nd ref="129999604"/>
+    <nd ref="6902406583"/>
+    <nd ref="2336808231"/>
+    <nd ref="129999605"/>
+    <nd ref="129999606"/>
+    <nd ref="6902406580"/>
+    <nd ref="330498780"/>
+    <nd ref="129999607"/>
+    <nd ref="68507670"/>
+    <nd ref="7245138586"/>
+    <nd ref="129999608"/>
+    <nd ref="6908364835"/>
+    <nd ref="68507672"/>
+    <nd ref="129999609"/>
+    <nd ref="129999610"/>
+    <nd ref="129999611"/>
+    <nd ref="68507676"/>
+    <nd ref="68507677"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="339064276" version="2" timestamp="2015-04-18T01:15:44Z" changeset="30298436" uid="61942" user="SomeoneElse">
+    <nd ref="3462531606"/>
+    <nd ref="3462531607"/>
+    <nd ref="3462531484"/>
+    <nd ref="3462531486"/>
+    <nd ref="3462531488"/>
+    <nd ref="3462531487"/>
+    <nd ref="3462531606"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Knapthorpe Manor"/>
+    <tag k="source" v="View from road;Bing"/>
+  </way>
+  <way id="339065272" version="1" timestamp="2015-04-18T01:15:43Z" changeset="30298436" uid="61942" user="SomeoneElse">
+    <nd ref="3462540791"/>
+    <nd ref="3462540784"/>
+    <nd ref="3462540789"/>
+    <nd ref="3462540780"/>
+    <nd ref="3462540995"/>
+    <nd ref="3462540999"/>
+    <nd ref="3462540998"/>
+    <nd ref="3462540779"/>
+    <nd ref="3462540791"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Knapthorpe Lodge"/>
+  </way>
+  <way id="860093343" version="3" timestamp="2023-11-30T19:33:36Z" changeset="144637738" uid="504708" user="HillWithSmallFields">
+    <nd ref="1735141161"/>
+    <nd ref="8016378493"/>
+    <nd ref="8016378489"/>
+    <nd ref="8016378492"/>
+    <nd ref="8016378491"/>
+    <nd ref="8016378490"/>
+    <nd ref="1735141161"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="St Andrew"/>
+    <tag k="ref:dove" v="12087"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q7586825"/>
+    <tag k="wikipedia" v="en:St Andrew's Church, Caunton"/>
+  </way>
+  <way id="1061713717" version="1" timestamp="2022-05-19T12:08:56Z" changeset="121192978" uid="10038339" user="Akgeo">
+    <nd ref="9754442619"/>
+    <nd ref="9754442618"/>
+    <nd ref="9754442617"/>
+    <nd ref="9754429616"/>
+    <nd ref="9754429615"/>
+    <nd ref="9754429614"/>
+    <nd ref="9754429613"/>
+    <nd ref="9754429612"/>
+    <nd ref="9754429611"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="1190565787" version="1" timestamp="2023-07-19T10:35:13Z" changeset="138709887" uid="7345137" user="magrej">
+    <nd ref="2072343733"/>
+    <nd ref="11054565421"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Deans Close"/>
+  </way>
+
+</osm>

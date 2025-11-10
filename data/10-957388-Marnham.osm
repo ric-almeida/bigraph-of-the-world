@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:46:02Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="165092205" lat="53.2321328" lon="-0.8197472" version="4" timestamp="2012-08-28T15:17:28Z" changeset="12892746" uid="12671" user="sladen"/>
+  <node id="165092532" lat="53.2185215" lon="-0.8258237" version="2" timestamp="2010-05-28T10:33:49Z" changeset="4829315" uid="508" user="Welshie"/>
+  <node id="300729436" lat="53.2159092" lon="-0.8013475" version="4" timestamp="2014-05-14T19:50:48Z" changeset="22340694" uid="38588" user="mentor"/>
+  <node id="752539680" lat="53.2122562" lon="-0.8269243" version="3" timestamp="2021-01-15T17:38:18Z" changeset="97575506" uid="2296" user="Vince"/>
+  <node id="1886839754" lat="53.2259112" lon="-0.8230270" version="1" timestamp="2012-08-28T15:17:23Z" changeset="12892746" uid="12671" user="sladen"/>
+  <node id="3452628929" lat="53.2134087" lon="-0.8126339" version="2" timestamp="2021-01-07T22:42:19Z" changeset="97133166" uid="2296" user="Vince"/>
+  <node id="3643486859" lat="53.2391586" lon="-0.8008723" version="1" timestamp="2015-07-09T23:58:27Z" changeset="32532067" uid="61942" user="SomeoneElse"/>
+  <way id="60437521" version="11" timestamp="2022-04-16T17:41:23Z" changeset="119793059" uid="3235126" user="mot_tom">
+    <nd ref="752539680"/>
+    <nd ref="3740700149"/>
+    <nd ref="3740700148"/>
+    <nd ref="3740700147"/>
+    <nd ref="3740700134"/>
+    <nd ref="752539693"/>
+    <nd ref="752539697"/>
+    <nd ref="8569970000"/>
+    <nd ref="3740700146"/>
+    <nd ref="752539704"/>
+    <nd ref="3740700145"/>
+    <nd ref="3740700133"/>
+    <nd ref="752539707"/>
+    <nd ref="330948655"/>
+    <nd ref="752539709"/>
+    <nd ref="752539713"/>
+    <nd ref="8034797141"/>
+    <nd ref="752539715"/>
+    <nd ref="752539718"/>
+    <nd ref="3740700144"/>
+    <nd ref="3740700143"/>
+    <nd ref="3740700141"/>
+    <nd ref="8360339272"/>
+    <nd ref="752539720"/>
+    <nd ref="752539723"/>
+    <nd ref="3740700139"/>
+    <nd ref="752539727"/>
+    <nd ref="3740700137"/>
+    <nd ref="752539729"/>
+    <nd ref="8360339271"/>
+    <nd ref="3740700135"/>
+    <nd ref="3740700136"/>
+    <nd ref="752539732"/>
+    <nd ref="2182143504"/>
+    <nd ref="3103775662"/>
+    <nd ref="752539736"/>
+    <nd ref="3740700140"/>
+    <nd ref="752539737"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Tuxford Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="81910246" version="6" timestamp="2015-04-12T21:57:17Z" changeset="30174220" uid="61942" user="SomeoneElse">
+    <nd ref="1036259016"/>
+    <nd ref="1886839393"/>
+    <nd ref="1886839604"/>
+    <nd ref="1886839249"/>
+    <nd ref="3452776920"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Skegby Road"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="89317829" version="10" timestamp="2025-05-08T18:28:58Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1036258997"/>
+    <nd ref="3238758747"/>
+    <nd ref="1036258999"/>
+    <nd ref="1036259001"/>
+    <nd ref="3238758979"/>
+    <nd ref="1036259003"/>
+    <nd ref="330948542"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Polly Taylors Road"/>
+    <tag k="not:name" v="Polly Taylor's Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="Signs"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="89317835" version="6" timestamp="2015-04-16T11:52:14Z" changeset="30261188" uid="61942" user="SomeoneElse">
+    <nd ref="165092320"/>
+    <nd ref="1886839695"/>
+    <nd ref="1886839522"/>
+    <nd ref="1886839424"/>
+    <nd ref="1886839453"/>
+    <nd ref="1886839712"/>
+    <nd ref="1886839278"/>
+    <nd ref="1036259016"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Skegby Road"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="89317839" version="7" timestamp="2023-09-10T14:44:31Z" changeset="141059419" uid="1778799" user="SomeoneElse_Revert">
+    <nd ref="165092320"/>
+    <nd ref="1886839397"/>
+    <nd ref="1886839754"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Marnham Road"/>
+    <tag k="ncn" v="yes"/>
+    <tag k="ncn_ref" v="647"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS OpenData Locator"/>
+  </way>
+  <way id="89317850" version="4" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="165092532"/>
+    <nd ref="3459237614"/>
+    <nd ref="3459237615"/>
+    <nd ref="165092539"/>
+    <nd ref="9016982125"/>
+    <nd ref="752539680"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Skegby Road"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="135636711" version="6" timestamp="2025-05-08T18:29:00Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1489410024"/>
+    <nd ref="2848137930"/>
+    <nd ref="2848138717"/>
+    <nd ref="2848137972"/>
+    <nd ref="2848137917"/>
+    <nd ref="1489410060"/>
+    <nd ref="2848137971"/>
+    <nd ref="2848138726"/>
+    <nd ref="2848137965"/>
+    <nd ref="2848137925"/>
+    <nd ref="2848137951"/>
+    <nd ref="2848137927"/>
+    <nd ref="1489410072"/>
+    <nd ref="2848137954"/>
+    <nd ref="2848137995"/>
+    <nd ref="2848138000"/>
+    <nd ref="1489410031"/>
+    <nd ref="3462381883"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="135636712" version="10" timestamp="2025-05-08T18:29:01Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="300729416"/>
+    <nd ref="2847588184"/>
+    <nd ref="2847588189"/>
+    <nd ref="2847588193"/>
+    <nd ref="1489410017"/>
+    <nd ref="2847588190"/>
+    <nd ref="2847588180"/>
+    <nd ref="2847588183"/>
+    <nd ref="1489410054"/>
+    <nd ref="2847588191"/>
+    <nd ref="2847588179"/>
+    <nd ref="2847588188"/>
+    <nd ref="2847588181"/>
+    <nd ref="1489410038"/>
+    <nd ref="2847584362"/>
+    <nd ref="8433958578"/>
+    <nd ref="1489410018"/>
+    <nd ref="2847584356"/>
+    <nd ref="2847584360"/>
+    <nd ref="2847584366"/>
+    <nd ref="8433958610"/>
+    <nd ref="1489410091"/>
+    <nd ref="2847584355"/>
+    <nd ref="2847584364"/>
+    <nd ref="1489410070"/>
+    <nd ref="1489410055"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Hollowgate Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Survey"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="135636713" version="5" timestamp="2015-04-17T22:07:33Z" changeset="30296956" uid="61942" user="SomeoneElse">
+    <nd ref="1489410055"/>
+    <nd ref="1489410057"/>
+    <nd ref="2848137986"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+  </way>
+  <way id="137654276" version="8" timestamp="2025-05-08T18:29:04Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="165092205"/>
+    <nd ref="1886839690"/>
+    <nd ref="1886839243"/>
+    <nd ref="1886839765"/>
+    <nd ref="1886839467"/>
+    <nd ref="1509727148"/>
+    <nd ref="1886839692"/>
+    <nd ref="1886839353"/>
+    <nd ref="1509727146"/>
+    <nd ref="1886839374"/>
+    <nd ref="165092219"/>
+    <nd ref="3459222787"/>
+    <nd ref="1509727142"/>
+    <nd ref="1886839268"/>
+    <nd ref="1886839578"/>
+    <nd ref="165092242"/>
+    <nd ref="1886839341"/>
+    <nd ref="1886839629"/>
+    <nd ref="1509727139"/>
+    <nd ref="1886839338"/>
+    <nd ref="165092258"/>
+    <nd ref="1886839555"/>
+    <nd ref="1886839436"/>
+    <nd ref="1886839662"/>
+    <nd ref="1509727137"/>
+    <nd ref="1886839508"/>
+    <nd ref="1886839514"/>
+    <nd ref="1886839489"/>
+    <nd ref="165092273"/>
+    <nd ref="1886839371"/>
+    <nd ref="1886839342"/>
+    <nd ref="1886839272"/>
+    <nd ref="1886839591"/>
+    <nd ref="1509727134"/>
+    <nd ref="1886839408"/>
+    <nd ref="1886839623"/>
+    <nd ref="165092296"/>
+    <nd ref="1886839510"/>
+    <nd ref="1886839277"/>
+    <nd ref="1886839714"/>
+    <nd ref="1886839595"/>
+    <nd ref="1509727130"/>
+    <nd ref="1886839365"/>
+    <nd ref="3459222792"/>
+    <nd ref="1886839352"/>
+    <nd ref="1521213704"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Crabtree Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="137657996" version="4" timestamp="2021-06-07T14:24:48Z" changeset="105978496" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="954693850"/>
+    <nd ref="1886839254"/>
+    <nd ref="1836229645"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="138720925" version="6" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="1521213714"/>
+    <nd ref="1886839360"/>
+    <nd ref="1886839535"/>
+    <nd ref="1509727129"/>
+    <nd ref="1886839521"/>
+    <nd ref="1886839718"/>
+    <nd ref="1886839270"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Crabtree Lane"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="138720926" version="4" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="1521213704"/>
+    <nd ref="1521213714"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Crabtree Lane"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="172760511" version="3" timestamp="2021-06-07T14:24:52Z" changeset="105978496" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1836229637"/>
+    <nd ref="1886839260"/>
+    <nd ref="1886839344"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="172760513" version="1" timestamp="2012-07-24T08:01:37Z" changeset="12461442" uid="165" user="Richard">
+    <nd ref="1836229645"/>
+    <nd ref="1836229637"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="178321404" version="3" timestamp="2021-12-27T18:45:46Z" changeset="115439514" uid="115894" user="DaveF">
+    <nd ref="1886839754"/>
+    <nd ref="1886839390"/>
+    <nd ref="1886839505"/>
+    <nd ref="1886839270"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="178321407" version="2" timestamp="2015-04-12T21:57:18Z" changeset="30174220" uid="61942" user="SomeoneElse">
+    <nd ref="1886839249"/>
+    <nd ref="1886839377"/>
+    <nd ref="1886839242"/>
+    <nd ref="1886839356"/>
+    <nd ref="1886839528"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Skegby Road"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="178321414" version="1" timestamp="2012-08-28T15:17:25Z" changeset="12892746" uid="12671" user="sladen">
+    <nd ref="1886839344"/>
+    <nd ref="1886839429"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="178321428" version="14" timestamp="2015-04-12T23:15:29Z" changeset="30175502" uid="61942" user="SomeoneElse">
+    <nd ref="1886839429"/>
+    <nd ref="1836229639"/>
+    <nd ref="1886839282"/>
+    <nd ref="1886839259"/>
+    <nd ref="1836229627"/>
+    <nd ref="1886839463"/>
+    <nd ref="1886839697"/>
+    <nd ref="1886839667"/>
+    <nd ref="300729410"/>
+    <nd ref="1886839285"/>
+    <nd ref="1886839538"/>
+    <nd ref="300729412"/>
+    <nd ref="1886839253"/>
+    <nd ref="3452906511"/>
+    <nd ref="2847598442"/>
+    <nd ref="2847598444"/>
+    <nd ref="300729414"/>
+    <nd ref="2847598439"/>
+    <nd ref="2847598438"/>
+    <nd ref="2847598441"/>
+    <nd ref="1036258997"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Fledborough Road"/>
+    <tag k="source:name" v="Sign at south"/>
+  </way>
+  <way id="280691622" version="1" timestamp="2014-05-10T08:05:52Z" changeset="22244970" uid="2011702" user="krd_mapper">
+    <nd ref="2847588193"/>
+    <nd ref="2847588187"/>
+    <nd ref="2847588185"/>
+    <nd ref="2847588186"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hollowgate Lane"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="280763218" version="2" timestamp="2014-05-14T19:50:46Z" changeset="22340694" uid="38588" user="mentor">
+    <nd ref="300729436"/>
+    <nd ref="2848137964"/>
+    <nd ref="2848137959"/>
+    <nd ref="2848137972"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="280763219" version="2" timestamp="2015-04-17T22:07:34Z" changeset="30296956" uid="61942" user="SomeoneElse">
+    <nd ref="2848137911"/>
+    <nd ref="2848137973"/>
+    <nd ref="2848137998"/>
+    <nd ref="1489410057"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+  </way>
+  <way id="338191457" version="4" timestamp="2021-08-17T04:02:27Z" changeset="109781994" uid="13860086" user="veyarlag">
+    <nd ref="3452628929"/>
+    <nd ref="9012850973"/>
+    <nd ref="752539882"/>
+    <nd ref="752539885"/>
+    <nd ref="8301313833"/>
+    <nd ref="752539888"/>
+    <nd ref="8301313834"/>
+    <nd ref="752539891"/>
+    <nd ref="752539907"/>
+    <nd ref="8301313835"/>
+    <nd ref="8301313836"/>
+    <nd ref="8301313837"/>
+    <nd ref="300729436"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Gracefield Lane"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="338198570" version="5" timestamp="2025-05-08T18:29:43Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="3452721430"/>
+    <nd ref="2848138732"/>
+    <nd ref="3460340441"/>
+    <nd ref="2848137937"/>
+    <nd ref="1489410036"/>
+    <nd ref="2848138709"/>
+    <nd ref="2848137903"/>
+    <nd ref="2848137944"/>
+    <nd ref="2848137941"/>
+    <nd ref="1489410040"/>
+    <nd ref="2848138710"/>
+    <nd ref="3460340548"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="338198571" version="3" timestamp="2017-04-29T16:04:22Z" changeset="48258464" uid="1778799" user="SomeoneElse_Revert">
+    <nd ref="2848138721"/>
+    <nd ref="3452721430"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="338205206" version="3" timestamp="2017-05-03T09:25:15Z" changeset="48354795" uid="1778799" user="SomeoneElse_Revert">
+    <nd ref="3452776920"/>
+    <nd ref="1886839422"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Skegby Road"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="338205209" version="3" timestamp="2019-10-16T08:51:55Z" changeset="75763555" uid="10219386" user="bathines">
+    <nd ref="1886839422"/>
+    <nd ref="165092344"/>
+    <nd ref="1886839441"/>
+    <nd ref="1886839671"/>
+    <nd ref="1886839267"/>
+    <nd ref="165092365"/>
+    <nd ref="1886839561"/>
+    <nd ref="1886839444"/>
+    <nd ref="1886839490"/>
+    <nd ref="165092387"/>
+    <nd ref="1886839417"/>
+    <nd ref="1886839386"/>
+    <nd ref="1886839239"/>
+    <nd ref="1886839335"/>
+    <nd ref="1886839455"/>
+    <nd ref="1886839462"/>
+    <nd ref="1886839779"/>
+    <nd ref="1886839245"/>
+    <nd ref="1886839532"/>
+    <nd ref="1886839348"/>
+    <nd ref="1886839717"/>
+    <nd ref="1886839305"/>
+    <nd ref="1886839395"/>
+    <nd ref="1886839639"/>
+    <nd ref="1886839303"/>
+    <nd ref="2113831707"/>
+    <nd ref="3459237541"/>
+    <nd ref="6884998377"/>
+    <nd ref="3459237550"/>
+    <nd ref="3459237570"/>
+    <nd ref="165092407"/>
+    <nd ref="6884998352"/>
+    <nd ref="3459237571"/>
+    <nd ref="2113831702"/>
+    <nd ref="3459237557"/>
+    <nd ref="3459237535"/>
+    <nd ref="3459237533"/>
+    <nd ref="165092428"/>
+    <nd ref="3459237585"/>
+    <nd ref="165092441"/>
+    <nd ref="3459237575"/>
+    <nd ref="3459237631"/>
+    <nd ref="165092532"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Skegby Road"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="338211164" version="5" timestamp="2025-05-08T18:29:43Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="300729436"/>
+    <nd ref="2848137952"/>
+    <nd ref="2848137961"/>
+    <nd ref="1489410024"/>
+    <nd ref="300729438"/>
+    <nd ref="2848137912"/>
+    <nd ref="2848137949"/>
+    <nd ref="2848137950"/>
+    <nd ref="300729440"/>
+    <nd ref="2848137969"/>
+    <nd ref="2848137985"/>
+    <nd ref="2848138716"/>
+    <nd ref="2848138706"/>
+    <nd ref="2848138719"/>
+    <nd ref="300729442"/>
+    <nd ref="2848137988"/>
+    <nd ref="2848137978"/>
+    <nd ref="2848137943"/>
+    <nd ref="300729444"/>
+    <nd ref="2848138707"/>
+    <nd ref="2848137916"/>
+    <nd ref="8408967688"/>
+    <nd ref="8408967675"/>
+    <nd ref="2848137928"/>
+    <nd ref="300729446"/>
+    <nd ref="2848137956"/>
+    <nd ref="2848138725"/>
+    <nd ref="3459280831"/>
+    <nd ref="2848137974"/>
+    <nd ref="300729448"/>
+    <nd ref="2848137996"/>
+    <nd ref="300729450"/>
+    <nd ref="3740723887"/>
+    <nd ref="2848138712"/>
+    <nd ref="2340591757"/>
+    <nd ref="752539809"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Fledborough Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at north"/>
+  </way>
+  <way id="338216478" version="3" timestamp="2025-05-08T18:29:44Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="3452880336"/>
+    <nd ref="2113831714"/>
+    <nd ref="1036259005"/>
+    <nd ref="3452868073"/>
+    <nd ref="1036259007"/>
+    <nd ref="3238758978"/>
+    <nd ref="1036259009"/>
+    <nd ref="1036259008"/>
+    <nd ref="1886839388"/>
+    <nd ref="1036259012"/>
+    <nd ref="1886839607"/>
+    <nd ref="1886839476"/>
+    <nd ref="1886839685"/>
+    <nd ref="1886839248"/>
+    <nd ref="1886839454"/>
+    <nd ref="1036259014"/>
+    <nd ref="1886839366"/>
+    <nd ref="1886839445"/>
+    <nd ref="1886839528"/>
+    <nd ref="1886839346"/>
+    <nd ref="1886839349"/>
+    <nd ref="1036259016"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Polly Taylors Road"/>
+    <tag k="not:name" v="Polly Taylor's Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="Signs"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="338216479" version="5" timestamp="2025-05-08T18:29:44Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="330948542"/>
+    <nd ref="3452880336"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Polly Taylors Road"/>
+    <tag k="not:name" v="Polly Taylor's Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="Signs"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="338217631" version="1" timestamp="2015-04-12T23:05:59Z" changeset="30175502" uid="61942" user="SomeoneElse">
+    <nd ref="1036258997"/>
+    <nd ref="2847588192"/>
+    <nd ref="2847588186"/>
+    <nd ref="2847588182"/>
+    <nd ref="300729416"/>
+    <nd ref="2113831713"/>
+    <nd ref="2848137915"/>
+    <nd ref="2848137914"/>
+    <nd ref="300729418"/>
+    <nd ref="2848137931"/>
+    <nd ref="2848138711"/>
+    <nd ref="2848137933"/>
+    <nd ref="2848137966"/>
+    <nd ref="300729420"/>
+    <nd ref="2848137907"/>
+    <nd ref="300729422"/>
+    <nd ref="2848137989"/>
+    <nd ref="2848138722"/>
+    <nd ref="2848138739"/>
+    <nd ref="2848137947"/>
+    <nd ref="2848138738"/>
+    <nd ref="2848138724"/>
+    <nd ref="2848137977"/>
+    <nd ref="300729424"/>
+    <nd ref="2848138718"/>
+    <nd ref="2848137906"/>
+    <nd ref="2848137913"/>
+    <nd ref="2848137910"/>
+    <nd ref="2848138731"/>
+    <nd ref="2848137968"/>
+    <nd ref="2848137932"/>
+    <nd ref="300729426"/>
+    <nd ref="2848138736"/>
+    <nd ref="300729428"/>
+    <nd ref="2848137934"/>
+    <nd ref="2848137940"/>
+    <nd ref="3452721321"/>
+    <nd ref="2848137929"/>
+    <nd ref="300729430"/>
+    <nd ref="300729432"/>
+    <nd ref="2848137990"/>
+    <nd ref="2848137983"/>
+    <nd ref="2848137922"/>
+    <nd ref="2848138714"/>
+    <nd ref="2848137905"/>
+    <nd ref="300729434"/>
+    <nd ref="2848138735"/>
+    <nd ref="2848137962"/>
+    <nd ref="2848137921"/>
+    <nd ref="300729436"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Marnham Road"/>
+    <tag k="source:name" v="Sign at south"/>
+  </way>
+  <way id="338788429" version="7" timestamp="2021-12-27T18:45:46Z" changeset="115439514" uid="115894" user="DaveF">
+    <nd ref="1886839754"/>
+    <nd ref="1886839403"/>
+    <nd ref="1886839334"/>
+    <nd ref="1886839323"/>
+    <nd ref="1886839606"/>
+    <nd ref="1036259027"/>
+    <nd ref="1886839439"/>
+    <nd ref="1886839339"/>
+    <nd ref="1036259032"/>
+    <nd ref="1886839399"/>
+    <nd ref="1886839608"/>
+    <nd ref="1886839326"/>
+    <nd ref="1036259038"/>
+    <nd ref="1036259034"/>
+    <nd ref="1886839735"/>
+    <nd ref="1886839701"/>
+    <nd ref="1036259036"/>
+    <nd ref="1886839775"/>
+    <nd ref="1886839345"/>
+    <nd ref="1886839619"/>
+    <nd ref="1886839336"/>
+    <nd ref="1036259039"/>
+    <nd ref="1886839557"/>
+    <nd ref="1886839236"/>
+    <nd ref="1886839548"/>
+    <nd ref="1509727124"/>
+    <nd ref="1036259040"/>
+    <nd ref="1036259041"/>
+    <nd ref="1886839244"/>
+    <nd ref="1886839776"/>
+    <nd ref="1886839780"/>
+    <nd ref="1886839494"/>
+    <nd ref="1886839357"/>
+    <nd ref="1886839566"/>
+    <nd ref="1036259042"/>
+    <nd ref="1886839707"/>
+    <nd ref="1036259052"/>
+    <nd ref="1036259060"/>
+    <nd ref="7566365094"/>
+    <nd ref="1886839276"/>
+    <nd ref="1886839741"/>
+    <nd ref="1886839329"/>
+    <nd ref="1036259081"/>
+    <nd ref="1036259043"/>
+    <nd ref="1886839565"/>
+    <nd ref="1036259056"/>
+    <nd ref="1886839560"/>
+    <nd ref="1886839705"/>
+    <nd ref="1036259059"/>
+    <nd ref="1886839492"/>
+    <nd ref="1886839777"/>
+    <nd ref="1036259061"/>
+    <nd ref="1036259054"/>
+    <nd ref="1036259078"/>
+    <nd ref="1886839713"/>
+    <nd ref="1036259058"/>
+    <nd ref="1886839369"/>
+    <nd ref="1036259064"/>
+    <nd ref="3230725306"/>
+    <nd ref="1036259076"/>
+    <nd ref="1036259084"/>
+    <nd ref="1886839459"/>
+    <nd ref="1886839290"/>
+    <nd ref="1886839264"/>
+    <nd ref="1886839340"/>
+    <nd ref="1036259086"/>
+    <nd ref="1036259087"/>
+    <nd ref="1886839407"/>
+    <nd ref="1036259089"/>
+    <nd ref="1886839709"/>
+    <nd ref="1886839576"/>
+    <nd ref="1036259091"/>
+    <nd ref="1886839626"/>
+    <nd ref="1886839437"/>
+    <nd ref="1036259092"/>
+    <nd ref="1886839310"/>
+    <nd ref="1036259109"/>
+    <nd ref="1886839726"/>
+    <nd ref="1886839699"/>
+    <nd ref="1886839764"/>
+    <nd ref="1886839355"/>
+    <nd ref="1886839279"/>
+    <nd ref="1886839293"/>
+    <nd ref="1036259112"/>
+    <nd ref="1886839246"/>
+    <nd ref="1886839287"/>
+    <nd ref="1886839373"/>
+    <nd ref="1886839559"/>
+    <nd ref="1036259111"/>
+    <nd ref="1036258963"/>
+    <nd ref="1036258965"/>
+    <nd ref="1036258967"/>
+    <nd ref="1036258968"/>
+    <nd ref="6513062188"/>
+    <nd ref="1036258970"/>
+    <nd ref="3230725295"/>
+    <nd ref="1036258974"/>
+    <nd ref="1036258975"/>
+    <nd ref="1036258976"/>
+    <nd ref="1036258978"/>
+    <nd ref="1036258980"/>
+    <nd ref="1036258982"/>
+    <nd ref="1036258984"/>
+    <nd ref="1036258986"/>
+    <nd ref="4193510332"/>
+    <nd ref="1036258988"/>
+    <nd ref="4193510333"/>
+    <nd ref="1036258990"/>
+    <nd ref="1036258992"/>
+    <nd ref="1036258993"/>
+    <nd ref="1036258995"/>
+    <nd ref="1036259062"/>
+    <nd ref="1036258972"/>
+    <nd ref="3230725296"/>
+    <nd ref="1036259018"/>
+    <nd ref="4679064821"/>
+    <nd ref="1036259020"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Marnham Road"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS OpenData Locator"/>
+  </way>
+  <way id="338788430" version="3" timestamp="2023-09-10T14:58:10Z" changeset="141066786" uid="1778799" user="SomeoneElse_Revert">
+    <nd ref="1886839270"/>
+    <nd ref="1886839582"/>
+    <nd ref="1886839499"/>
+    <nd ref="165092320"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="ncn" v="yes"/>
+    <tag k="ncn_ref" v="647"/>
+  </way>
+  <way id="338795497" version="5" timestamp="2021-01-27T03:52:18Z" changeset="98193469" uid="10252543" user="srikmar">
+    <nd ref="3459308473"/>
+    <nd ref="3459308474"/>
+    <nd ref="3459308485"/>
+    <nd ref="3459308489"/>
+    <nd ref="3459308487"/>
+    <nd ref="8366012034"/>
+    <nd ref="3459308478"/>
+    <nd ref="3459308488"/>
+    <nd ref="3459308482"/>
+    <nd ref="3459308472"/>
+    <nd ref="3459308484"/>
+    <nd ref="3693851506"/>
+    <nd ref="3459308477"/>
+    <nd ref="3459305748"/>
+    <nd ref="3459308479"/>
+    <nd ref="3459308480"/>
+    <nd ref="3459308481"/>
+    <nd ref="8360325010"/>
+    <nd ref="3459308483"/>
+    <nd ref="3459308476"/>
+    <nd ref="3459308486"/>
+    <nd ref="2340591761"/>
+    <nd ref="1489410068"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="338880889" version="2" timestamp="2025-05-08T18:29:47Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="3460340548"/>
+    <nd ref="2848137919"/>
+    <nd ref="2848137994"/>
+    <nd ref="2848137918"/>
+    <nd ref="1489410087"/>
+    <nd ref="2848137993"/>
+    <nd ref="2848137970"/>
+    <nd ref="1489410068"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="339046458" version="2" timestamp="2019-10-22T07:41:40Z" changeset="76032900" uid="10219382" user="kusweta">
+    <nd ref="2848137986"/>
+    <nd ref="2848138702"/>
+    <nd ref="6904856303"/>
+    <nd ref="1489410064"/>
+    <nd ref="2848137920"/>
+    <nd ref="2848137992"/>
+    <nd ref="6904856296"/>
+    <nd ref="1489410034"/>
+    <nd ref="3460351218"/>
+    <nd ref="2848137982"/>
+    <nd ref="1489410066"/>
+    <nd ref="3460351266"/>
+    <nd ref="2848138713"/>
+    <nd ref="2848137981"/>
+    <nd ref="2848138721"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+  </way>
+  <way id="339046462" version="3" timestamp="2025-05-08T18:29:47Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1489410055"/>
+    <nd ref="2848137911"/>
+    <nd ref="2847584367"/>
+    <nd ref="2847584358"/>
+    <nd ref="1489410079"/>
+    <nd ref="2340591780"/>
+    <nd ref="2847584351"/>
+    <nd ref="1489410033"/>
+    <nd ref="2847584365"/>
+    <nd ref="3462376048"/>
+    <nd ref="2847584354"/>
+    <nd ref="2847584361"/>
+    <nd ref="1489410032"/>
+    <nd ref="3460361894"/>
+    <nd ref="3460361656"/>
+    <nd ref="3460361918"/>
+    <nd ref="2847584352"/>
+    <nd ref="1489410016"/>
+    <nd ref="2847584363"/>
+    <nd ref="2847584359"/>
+    <nd ref="2847584353"/>
+    <nd ref="1489410077"/>
+    <nd ref="2847584357"/>
+    <nd ref="1489410030"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Hollowgate Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Survey"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="339046466" version="3" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="2848137926"/>
+    <nd ref="1489410049"/>
+    <nd ref="2848137987"/>
+    <nd ref="1489410021"/>
+    <nd ref="3459308473"/>
+    <nd ref="2848137946"/>
+    <nd ref="2848137908"/>
+    <nd ref="2848137942"/>
+    <nd ref="2848138730"/>
+    <nd ref="1489410015"/>
+    <nd ref="2848138727"/>
+    <nd ref="2848137924"/>
+    <nd ref="2848137999"/>
+    <nd ref="2848138734"/>
+    <nd ref="2848137935"/>
+    <nd ref="2848137955"/>
+    <nd ref="2848137958"/>
+    <nd ref="1489410068"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="339046879" version="3" timestamp="2025-05-08T18:29:48Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="3462381883"/>
+    <nd ref="2848137979"/>
+    <nd ref="8366012067"/>
+    <nd ref="2848138729"/>
+    <nd ref="1489410052"/>
+    <nd ref="2848137957"/>
+    <nd ref="8366012064"/>
+    <nd ref="2848138705"/>
+    <nd ref="2848138720"/>
+    <nd ref="1489410089"/>
+    <nd ref="8366012058"/>
+    <nd ref="2848137938"/>
+    <nd ref="2848137926"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="359672922" version="4" timestamp="2019-05-14T14:18:54Z" changeset="70237247" uid="9196101" user="singhyyd">
+    <nd ref="3643486859"/>
+    <nd ref="300729381"/>
+    <nd ref="1685025016"/>
+    <nd ref="1685025007"/>
+    <nd ref="2847609498"/>
+    <nd ref="1685025002"/>
+    <nd ref="300729384"/>
+    <nd ref="300729387"/>
+    <nd ref="1685024997"/>
+    <nd ref="2847611705"/>
+    <nd ref="300729390"/>
+    <nd ref="2847611703"/>
+    <nd ref="2847611704"/>
+    <nd ref="2847609495"/>
+    <nd ref="300729393"/>
+    <nd ref="300729396"/>
+    <nd ref="2847609481"/>
+    <nd ref="6472948994"/>
+    <nd ref="2847609488"/>
+    <nd ref="2847609479"/>
+    <nd ref="300729399"/>
+    <nd ref="2847609482"/>
+    <nd ref="300729402"/>
+    <nd ref="300729405"/>
+    <nd ref="954693850"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="sidewalk" v="right"/>
+  </way>
+  <way id="641025552" version="3" timestamp="2022-07-01T07:13:55Z" changeset="123072094" uid="8775772" user="LakatosVL">
+    <nd ref="6037870716"/>
+    <nd ref="6037870718"/>
+    <nd ref="6037870719"/>
+    <nd ref="6037870717"/>
+    <nd ref="6037870716"/>
+    <tag k="building" v="church"/>
+    <tag k="disused:amenity" v="place_of_worship"/>
+    <tag k="name" v="Saint Wilfrids Church"/>
+    <tag k="operator" v="The Churches Conservation Trust"/>
+    <tag k="wikidata" v="Q7595649"/>
+    <tag k="wikipedia" v="en:St Wilfrid's Church, Low Marnham"/>
+  </way>
+  <way id="896193908" version="2" timestamp="2023-02-26T13:56:01Z" changeset="133043725" uid="3306" user="Russ">
+    <nd ref="8330602556"/>
+    <nd ref="8330602557"/>
+    <nd ref="8330602558"/>
+    <nd ref="8330602559"/>
+    <nd ref="3462387505"/>
+    <nd ref="8330602560"/>
+    <nd ref="8330602561"/>
+    <nd ref="8330602562"/>
+    <nd ref="8330602563"/>
+    <nd ref="8330602564"/>
+    <nd ref="8330602565"/>
+    <nd ref="8330602566"/>
+    <nd ref="8330602567"/>
+    <nd ref="8330602568"/>
+    <nd ref="8330602569"/>
+    <nd ref="8330602556"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="J G Pears Biomass Plant"/>
+    <tag k="plant:output:electricity" v="12 MW"/>
+    <tag k="plant:output:steam" v="34 MW"/>
+    <tag k="plant:source" v="biomass"/>
+    <tag k="power" v="plant"/>
+    <tag k="repd:id" v="6227"/>
+    <tag k="wikidata" v="Q116913510"/>
+  </way>
+  <way id="923185079" version="2" timestamp="2025-05-08T18:30:14Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1489410030"/>
+    <nd ref="3460361937"/>
+    <nd ref="3460361921"/>
+    <nd ref="3460361643"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Hollowgate Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="prow_ref" v="111/9"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Survey"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

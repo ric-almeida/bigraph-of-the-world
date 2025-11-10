@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:50:02Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="31781443" lat="53.3899038" lon="-0.9135748" version="3" timestamp="2009-09-02T21:10:31Z" changeset="2353398" uid="8857" user="philipcullen"/>
+  <node id="33795206" lat="53.4078692" lon="-0.9340974" version="8" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry"/>
+  <node id="36160713" lat="53.4000448" lon="-0.9598963" version="9" timestamp="2009-07-07T19:00:55Z" changeset="1764234" uid="104845" user="InTheUK"/>
+  <node id="386855808" lat="53.4064807" lon="-0.9190776" version="5" timestamp="2017-07-22T02:48:50Z" changeset="50472779" uid="5296090" user="TR42"/>
+  <node id="3375091225" lat="53.4074784" lon="-0.9357053" version="3" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry"/>
+  <node id="3399832394" lat="53.4063499" lon="-0.9409183" version="1" timestamp="2015-03-15T13:16:41Z" changeset="29493673" uid="84681" user="SK53"/>
+  <node id="8481168102" lat="53.4078370" lon="-0.9354591" version="1" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry"/>
+  <way id="5029456" version="6" timestamp="2015-09-18T11:30:46Z" changeset="34101047" uid="2020484" user="Nigel Greens">
+    <nd ref="33587868"/>
+    <nd ref="33587901"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="5047025" version="11" timestamp="2024-07-31T15:48:15Z" changeset="154656683" uid="10675085" user="2tefan">
+    <nd ref="33795206"/>
+    <nd ref="6787462442"/>
+    <nd ref="8481168102"/>
+    <nd ref="36160740"/>
+    <nd ref="33795203"/>
+    <nd ref="8481168099"/>
+    <nd ref="4986019491"/>
+    <nd ref="33587979"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="5184809" version="10" timestamp="2017-07-22T02:48:55Z" changeset="50472779" uid="5296090" user="TR42">
+    <nd ref="36160732"/>
+    <nd ref="374387615"/>
+    <nd ref="3399832394"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="5184810" version="7" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="36160737"/>
+    <nd ref="6881801525"/>
+    <nd ref="360963401"/>
+    <nd ref="436503224"/>
+    <nd ref="36160738"/>
+    <nd ref="3375091225"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="5184811" version="5" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="36160732"/>
+    <nd ref="374387771"/>
+    <nd ref="374387714"/>
+    <nd ref="374387801"/>
+    <nd ref="36160737"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+  </way>
+  <way id="5184812" version="5" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="36160731"/>
+    <nd ref="374387844"/>
+    <nd ref="374387870"/>
+    <nd ref="36160732"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+  </way>
+  <way id="5184813" version="4" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="36160731"/>
+    <nd ref="4986019511"/>
+    <nd ref="4986019515"/>
+    <nd ref="36160737"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="5184814" version="3" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="36160729"/>
+    <nd ref="4986019501"/>
+    <nd ref="36160742"/>
+    <nd ref="4986019516"/>
+    <nd ref="36160731"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Eel Pool Road"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="5184815" version="5" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="33587897"/>
+    <nd ref="367062576"/>
+    <nd ref="367062521"/>
+    <nd ref="367062545"/>
+    <nd ref="36160742"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Wiseton Road"/>
+  </way>
+  <way id="5184816" version="3" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="33587897"/>
+    <nd ref="36160729"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Wiseton Road"/>
+  </way>
+  <way id="5184817" version="11" timestamp="2024-12-28T19:07:52Z" changeset="160726506" uid="8857" user="philipcullen">
+    <nd ref="36160713"/>
+    <nd ref="360964544"/>
+    <nd ref="378483751"/>
+    <nd ref="378483333"/>
+    <nd ref="378483759"/>
+    <nd ref="36160722"/>
+    <nd ref="378483310"/>
+    <nd ref="378483322"/>
+    <nd ref="36160723"/>
+    <nd ref="436501946"/>
+    <nd ref="436501949"/>
+    <nd ref="378483301"/>
+    <nd ref="378483290"/>
+    <nd ref="360964547"/>
+    <nd ref="378483211"/>
+    <nd ref="436501963"/>
+    <nd ref="36160724"/>
+    <nd ref="378483231"/>
+    <nd ref="378483173"/>
+    <nd ref="3314828293"/>
+    <nd ref="378483192"/>
+    <nd ref="36160725"/>
+    <nd ref="378483136"/>
+    <nd ref="360964549"/>
+    <nd ref="386861158"/>
+    <nd ref="378483166"/>
+    <nd ref="36160726"/>
+    <nd ref="436501980"/>
+    <nd ref="378483123"/>
+    <nd ref="360964554"/>
+    <nd ref="378483112"/>
+    <nd ref="436502409"/>
+    <nd ref="36160727"/>
+    <nd ref="378483063"/>
+    <nd ref="378483100"/>
+    <nd ref="378483077"/>
+    <nd ref="12459401217"/>
+    <nd ref="378483089"/>
+    <nd ref="36160728"/>
+    <nd ref="436502418"/>
+    <nd ref="360964557"/>
+    <nd ref="436502425"/>
+    <nd ref="36160729"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Eel Pool Road"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="5451516" version="23" timestamp="2024-07-31T15:47:14Z" changeset="154656472" uid="10675085" user="2tefan">
+    <nd ref="33795206"/>
+    <nd ref="3360367331"/>
+    <nd ref="4986019512"/>
+    <nd ref="39620533"/>
+    <nd ref="436504820"/>
+    <nd ref="39620544"/>
+    <nd ref="39620553"/>
+    <nd ref="436504826"/>
+    <nd ref="4986019492"/>
+    <nd ref="39620564"/>
+    <nd ref="6564426637"/>
+    <nd ref="436504828"/>
+    <nd ref="436504831"/>
+    <nd ref="39620569"/>
+    <nd ref="3360367342"/>
+    <nd ref="3360367339"/>
+    <nd ref="386855808"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="19736830" version="9" timestamp="2024-12-28T18:45:54Z" changeset="160726005" uid="8857" user="philipcullen">
+    <nd ref="205199950"/>
+    <nd ref="205199967"/>
+    <nd ref="205199983"/>
+    <nd ref="205199995"/>
+    <nd ref="205200007"/>
+    <nd ref="3314592750"/>
+    <nd ref="205200030"/>
+    <nd ref="6317902515"/>
+    <nd ref="6317902523"/>
+    <nd ref="205200035"/>
+    <nd ref="205200070"/>
+    <nd ref="6317902512"/>
+    <nd ref="12459382908"/>
+    <nd ref="12459382907"/>
+    <nd ref="386855799"/>
+    <nd ref="386855800"/>
+    <nd ref="386855801"/>
+    <nd ref="386855802"/>
+    <nd ref="3401777303"/>
+    <nd ref="386855803"/>
+    <nd ref="3401777306"/>
+    <nd ref="3401777308"/>
+    <nd ref="386855804"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Main Street"/>
+  </way>
+  <way id="33784695" version="13" timestamp="2025-03-29T19:20:44Z" changeset="164262685" uid="8857" user="philipcullen">
+    <nd ref="31781443"/>
+    <nd ref="3328182076"/>
+    <nd ref="31781444"/>
+    <nd ref="31781445"/>
+    <nd ref="31781448"/>
+    <nd ref="31821885"/>
+    <nd ref="31781449"/>
+    <nd ref="31781450"/>
+    <nd ref="481348188"/>
+    <nd ref="33587860"/>
+    <nd ref="33587868"/>
+    <nd ref="367062990"/>
+    <nd ref="33587869"/>
+    <nd ref="367062924"/>
+    <nd ref="367062969"/>
+    <nd ref="367062933"/>
+    <nd ref="367062948"/>
+    <nd ref="33587871"/>
+    <nd ref="33587872"/>
+    <nd ref="205199950"/>
+    <nd ref="367062908"/>
+    <nd ref="33587877"/>
+    <nd ref="367062893"/>
+    <nd ref="33587881"/>
+    <nd ref="367062872"/>
+    <nd ref="33587883"/>
+    <nd ref="367062855"/>
+    <nd ref="367062828"/>
+    <nd ref="33587887"/>
+    <nd ref="12459401213"/>
+    <nd ref="33587890"/>
+    <nd ref="367062784"/>
+    <nd ref="367062760"/>
+    <nd ref="367062737"/>
+    <nd ref="33587892"/>
+    <nd ref="367062680"/>
+    <nd ref="367062708"/>
+    <nd ref="3399832395"/>
+    <nd ref="367062639"/>
+    <nd ref="367062601"/>
+    <nd ref="33587897"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="historic" v="roman_road"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Wiseton Road"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="330543473" version="4" timestamp="2022-10-29T08:24:21Z" changeset="128200766" uid="8088648" user="Michael-Rowe">
+    <nd ref="3360367331"/>
+    <nd ref="3375091292"/>
+    <nd ref="3375091893"/>
+    <nd ref="8481168096"/>
+    <nd ref="4986019495"/>
+    <nd ref="8481168095"/>
+    <nd ref="8481168100"/>
+    <nd ref="8481168094"/>
+    <nd ref="3375091225"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B6045"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="332872640" version="4" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="3399832394"/>
+    <nd ref="36160733"/>
+    <nd ref="374387593"/>
+    <nd ref="36160734"/>
+    <nd ref="374387543"/>
+    <nd ref="374387571"/>
+    <nd ref="374387509"/>
+    <nd ref="367062497"/>
+    <nd ref="36160735"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="333062145" version="2" timestamp="2015-10-05T23:13:55Z" changeset="34458877" uid="873940" user="Mike Baggaley">
+    <nd ref="386855804"/>
+    <nd ref="3401777310"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge_ref" v="71"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="333062147" version="3" timestamp="2024-07-31T15:47:36Z" changeset="154656540" uid="10675085" user="2tefan">
+    <nd ref="3401777310"/>
+    <nd ref="386855805"/>
+    <nd ref="3401777313"/>
+    <nd ref="3401777314"/>
+    <nd ref="3401777315"/>
+    <nd ref="3401777316"/>
+    <nd ref="386855806"/>
+    <nd ref="3401777317"/>
+    <nd ref="3401777319"/>
+    <nd ref="3401777323"/>
+    <nd ref="3401777325"/>
+    <nd ref="3401777327"/>
+    <nd ref="3401777328"/>
+    <nd ref="386855807"/>
+    <nd ref="3360367332"/>
+    <nd ref="386855808"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="371341010" version="1" timestamp="2015-09-18T11:30:41Z" changeset="34101047" uid="2020484" user="Nigel Greens">
+    <nd ref="33587901"/>
+    <nd ref="33587902"/>
+    <nd ref="33587906"/>
+    <nd ref="3401777172"/>
+    <nd ref="33587910"/>
+    <nd ref="773011094"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="371341011" version="1" timestamp="2015-09-18T11:30:41Z" changeset="34101047" uid="2020484" user="Nigel Greens">
+    <nd ref="773011094"/>
+    <nd ref="3401777179"/>
+    <nd ref="33587913"/>
+    <nd ref="386855809"/>
+    <nd ref="205200070"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="912977291" version="1" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="3375091225"/>
+    <nd ref="8481168097"/>
+    <nd ref="8481168106"/>
+    <nd ref="8481168098"/>
+    <nd ref="36160740"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="912977292" version="1" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="8481168102"/>
+    <nd ref="8481168101"/>
+    <nd ref="8481168100"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="1221355267" version="2" timestamp="2024-07-31T15:47:13Z" changeset="154656472" uid="10675085" user="2tefan">
+    <nd ref="386855808"/>
+    <nd ref="39620579"/>
+    <nd ref="39620595"/>
+    <nd ref="4986019507"/>
+    <nd ref="436504844"/>
+    <nd ref="4986019506"/>
+    <nd ref="39620602"/>
+    <nd ref="11327589772"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Mill Hill"/>
+    <tag k="ref" v="A631"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1425679565" version="1" timestamp="2025-08-28T22:08:16Z" changeset="171157133" uid="17427" user="dysteleologist">
+    <nd ref="13104581012"/>
+    <nd ref="13104581013"/>
+    <nd ref="13104581014"/>
+    <nd ref="13104581015"/>
+    <nd ref="13104581016"/>
+    <nd ref="13104581017"/>
+    <nd ref="13104581012"/>
+    <tag k="building" v="yes"/>
+    <tag k="man_made" v="pumping_station"/>
+    <tag k="name" v="Wiseton Pumping Station"/>
+    <tag k="operator" v="Isle of Axholme and North Nottinghamshire Water Level Management Board"/>
+  </way>
+
+</osm>

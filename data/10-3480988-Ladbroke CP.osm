@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:31:43Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="21132378" lat="52.2366372" lon="-1.3907592" version="5" timestamp="2018-07-18T10:36:55Z" changeset="60831436" uid="9065" user="brianboru"/>
+  <node id="25259294" lat="52.2229984" lon="-1.3879910" version="1" timestamp="2007-01-16T01:56:36Z" changeset="195774" uid="2274" user="Ben">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="1260492525" lat="52.2307231" lon="-1.4153039" version="2" timestamp="2024-11-05T15:09:56Z" changeset="158783030" uid="21607125" user="TerenceOfYork"/>
+  <node id="10678310264" lat="52.2285677" lon="-1.4105612" version="1" timestamp="2023-02-19T13:29:51Z" changeset="132748055" uid="5589" user="user_5589"/>
+  <node id="13076849506" lat="52.2426310" lon="-1.4021086" version="1" timestamp="2025-08-18T01:04:24Z" changeset="170591097" uid="13247722" user="TheCanMan"/>
+  <way id="4232755" version="12" timestamp="2025-08-17T18:34:28Z" changeset="170581708" uid="13247722" user="TheCanMan">
+    <nd ref="885882566"/>
+    <nd ref="911295457"/>
+    <nd ref="25259351"/>
+    <nd ref="25259350"/>
+    <nd ref="2293897418"/>
+    <nd ref="25259349"/>
+    <nd ref="25259348"/>
+    <nd ref="25259347"/>
+    <nd ref="25259346"/>
+    <nd ref="6501707729"/>
+    <nd ref="25259344"/>
+    <nd ref="25259343"/>
+    <nd ref="25259340"/>
+    <nd ref="25259342"/>
+    <nd ref="25259341"/>
+    <nd ref="25259338"/>
+    <nd ref="25259339"/>
+    <nd ref="25259305"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Harbury Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4232756" version="13" timestamp="2025-08-18T01:04:24Z" changeset="170591097" uid="13247722" user="TheCanMan">
+    <nd ref="13076849506"/>
+    <nd ref="12350741044"/>
+    <nd ref="26460281"/>
+    <nd ref="12350741043"/>
+    <nd ref="26460280"/>
+    <nd ref="12350741045"/>
+    <nd ref="11745065640"/>
+    <nd ref="6564214076"/>
+    <nd ref="6564214078"/>
+    <nd ref="6564214077"/>
+    <nd ref="26460279"/>
+    <nd ref="26460278"/>
+    <nd ref="26460277"/>
+    <nd ref="26460276"/>
+    <nd ref="2285965945"/>
+    <nd ref="2285965943"/>
+    <nd ref="26460275"/>
+    <nd ref="26460274"/>
+    <nd ref="26460273"/>
+    <nd ref="26460272"/>
+    <nd ref="26460271"/>
+    <nd ref="7676084772"/>
+    <nd ref="26460270"/>
+    <nd ref="26460269"/>
+    <nd ref="2285965904"/>
+    <nd ref="25259301"/>
+    <nd ref="25259331"/>
+    <nd ref="26460268"/>
+    <nd ref="25259330"/>
+    <nd ref="25259329"/>
+    <nd ref="25259300"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Kineton Road"/>
+    <tag k="ref" v="B4451"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4232758" version="16" timestamp="2025-09-27T12:22:58Z" changeset="172523808" uid="13247722" user="TheCanMan">
+    <nd ref="13175178780"/>
+    <nd ref="885882642"/>
+    <nd ref="6322839310"/>
+    <nd ref="489701230"/>
+    <nd ref="885882654"/>
+    <nd ref="489701234"/>
+    <nd ref="489701238"/>
+    <nd ref="489701246"/>
+    <nd ref="3385904799"/>
+    <nd ref="6322839311"/>
+    <nd ref="489701252"/>
+    <nd ref="7692613748"/>
+    <nd ref="489701257"/>
+    <nd ref="7639098189"/>
+    <nd ref="11727135769"/>
+    <nd ref="25259296"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Southam Road"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="56245825" version="8" timestamp="2025-09-27T12:22:58Z" changeset="172523808" uid="13247722" user="TheCanMan">
+    <nd ref="25259296"/>
+    <nd ref="25259378"/>
+    <nd ref="25259377"/>
+    <nd ref="885882829"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="School Lane"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="56245826" version="8" timestamp="2025-09-27T12:22:58Z" changeset="172523808" uid="13247722" user="TheCanMan">
+    <nd ref="885882829"/>
+    <nd ref="6322850307"/>
+    <nd ref="6322850305"/>
+    <nd ref="705872977"/>
+    <nd ref="710856359"/>
+    <nd ref="705872978"/>
+    <nd ref="705872980"/>
+    <nd ref="6336121276"/>
+    <nd ref="710856352"/>
+    <nd ref="25259388"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Bridge Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75044482" version="7" timestamp="2025-09-27T12:24:31Z" changeset="172523861" uid="13247722" user="TheCanMan">
+    <nd ref="885882615"/>
+    <nd ref="11727105165"/>
+    <nd ref="6776952744"/>
+    <nd ref="885882616"/>
+    <nd ref="11727105166"/>
+    <nd ref="885882623"/>
+    <nd ref="885882627"/>
+    <nd ref="6335970934"/>
+    <nd ref="885882628"/>
+    <nd ref="6335970933"/>
+    <nd ref="885882633"/>
+    <nd ref="6322839308"/>
+    <nd ref="885882642"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Windmill Lane"/>
+  </way>
+  <way id="75044486" version="4" timestamp="2025-09-27T12:24:31Z" changeset="172523861" uid="13247722" user="TheCanMan">
+    <nd ref="885882633"/>
+    <nd ref="6322839309"/>
+    <nd ref="885882654"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Windmill Lane"/>
+  </way>
+  <way id="75044491" version="7" timestamp="2025-01-08T16:53:08Z" changeset="161140994" uid="5229644" user="Nathan_A_RF">
+    <nd ref="25259296"/>
+    <nd ref="6034794401"/>
+    <nd ref="25259384"/>
+    <nd ref="25259385"/>
+    <nd ref="25259382"/>
+    <nd ref="25259386"/>
+    <nd ref="25259387"/>
+    <nd ref="25259388"/>
+    <nd ref="25259389"/>
+    <nd ref="7287848028"/>
+    <nd ref="25259391"/>
+    <nd ref="7287848036"/>
+    <nd ref="25259390"/>
+    <nd ref="25259393"/>
+    <nd ref="25259392"/>
+    <nd ref="25259394"/>
+    <nd ref="25259395"/>
+    <nd ref="25259295"/>
+    <nd ref="25259397"/>
+    <nd ref="25259398"/>
+    <nd ref="25259399"/>
+    <nd ref="25259400"/>
+    <nd ref="25259401"/>
+    <nd ref="25259402"/>
+    <nd ref="25259403"/>
+    <nd ref="25259404"/>
+    <nd ref="25259396"/>
+    <nd ref="25259405"/>
+    <nd ref="10678310262"/>
+    <nd ref="25259294"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Banbury Road"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75044498" version="6" timestamp="2024-03-13T11:43:10Z" changeset="148589501" uid="10974821" user="Marting77">
+    <nd ref="885882703"/>
+    <nd ref="885882705"/>
+    <nd ref="8385938652"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Hedges Close"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75044515" version="11" timestamp="2025-01-08T16:53:08Z" changeset="161140994" uid="5229644" user="Nathan_A_RF">
+    <nd ref="885882731"/>
+    <nd ref="8961586136"/>
+    <nd ref="885882733"/>
+    <nd ref="2285372054"/>
+    <nd ref="885882736"/>
+    <nd ref="2285372066"/>
+    <nd ref="885882737"/>
+    <nd ref="885882738"/>
+    <nd ref="885882744"/>
+    <nd ref="6755664472"/>
+    <nd ref="885882749"/>
+    <nd ref="885882753"/>
+    <nd ref="885882756"/>
+    <nd ref="885882757"/>
+    <nd ref="2285372126"/>
+    <nd ref="885882760"/>
+    <nd ref="885882764"/>
+    <nd ref="885882768"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Radbourne Lane"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75044521" version="20" timestamp="2025-01-14T14:19:34Z" changeset="161347031" uid="10974821" user="Marting77">
+    <nd ref="25259294"/>
+    <nd ref="5767961564"/>
+    <nd ref="2285372062"/>
+    <nd ref="5767961563"/>
+    <nd ref="9720744702"/>
+    <nd ref="5767961561"/>
+    <nd ref="2285372034"/>
+    <nd ref="2285372022"/>
+    <nd ref="9720744706"/>
+    <nd ref="2285914131"/>
+    <nd ref="12500871153"/>
+    <nd ref="21132442"/>
+    <nd ref="21132427"/>
+    <nd ref="5767961562"/>
+    <nd ref="21132441"/>
+    <nd ref="2285372006"/>
+    <nd ref="21132425"/>
+    <nd ref="12500871206"/>
+    <nd ref="12500871202"/>
+    <nd ref="2285371999"/>
+    <nd ref="2285914102"/>
+    <nd ref="2285371994"/>
+    <nd ref="2285914099"/>
+    <nd ref="2607645973"/>
+    <nd ref="2285371985"/>
+    <nd ref="21132426"/>
+    <nd ref="2285371977"/>
+    <nd ref="3033789235"/>
+    <nd ref="21132424"/>
+    <nd ref="2285371964"/>
+    <nd ref="21132421"/>
+    <nd ref="5767961560"/>
+    <nd ref="21132423"/>
+    <nd ref="5767961559"/>
+    <nd ref="2285371949"/>
+    <nd ref="21132422"/>
+    <nd ref="2607645963"/>
+    <nd ref="21132416"/>
+    <nd ref="2285371942"/>
+    <nd ref="2607645961"/>
+    <nd ref="2285371937"/>
+    <nd ref="2285371934"/>
+    <nd ref="21132417"/>
+    <nd ref="2607645958"/>
+    <nd ref="5767961558"/>
+    <nd ref="21132415"/>
+    <nd ref="2285371930"/>
+    <nd ref="2293870180"/>
+    <nd ref="21132412"/>
+    <nd ref="5767961556"/>
+    <nd ref="21132418"/>
+    <nd ref="21132419"/>
+    <nd ref="21132413"/>
+    <nd ref="21132420"/>
+    <nd ref="5767961555"/>
+    <nd ref="21132414"/>
+    <nd ref="5767961554"/>
+    <nd ref="1260482070"/>
+    <nd ref="21132409"/>
+    <nd ref="2285371923"/>
+    <nd ref="21132410"/>
+    <nd ref="2607645953"/>
+    <nd ref="2285371919"/>
+    <nd ref="21132411"/>
+    <nd ref="5767961553"/>
+    <nd ref="21132408"/>
+    <nd ref="5767959452"/>
+    <nd ref="2607645951"/>
+    <nd ref="2285371912"/>
+    <nd ref="2285371907"/>
+    <nd ref="21132407"/>
+    <nd ref="8105255488"/>
+    <nd ref="2642235509"/>
+    <nd ref="2285371899"/>
+    <nd ref="21132406"/>
+    <nd ref="5767959451"/>
+    <nd ref="21132395"/>
+    <nd ref="5767959450"/>
+    <nd ref="2285371892"/>
+    <nd ref="21132405"/>
+    <nd ref="21132404"/>
+    <nd ref="21132403"/>
+    <nd ref="21132402"/>
+    <nd ref="2642235501"/>
+    <nd ref="2293897115"/>
+    <nd ref="21132396"/>
+    <nd ref="2642235500"/>
+    <nd ref="21132401"/>
+    <nd ref="21132400"/>
+    <nd ref="2293897110"/>
+    <nd ref="21132399"/>
+    <nd ref="21132398"/>
+    <nd ref="2285371865"/>
+    <nd ref="21132397"/>
+    <nd ref="21132393"/>
+    <nd ref="2642235495"/>
+    <nd ref="2285371833"/>
+    <nd ref="2583751359"/>
+    <nd ref="21132394"/>
+    <nd ref="867451047"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Banbury Road"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="75044526" version="12" timestamp="2025-01-08T16:53:08Z" changeset="161140994" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11727135861"/>
+    <nd ref="2285372300"/>
+    <nd ref="21132436"/>
+    <nd ref="2285372284"/>
+    <nd ref="21132437"/>
+    <nd ref="21132433"/>
+    <nd ref="2285372261"/>
+    <nd ref="21132438"/>
+    <nd ref="21132439"/>
+    <nd ref="21132440"/>
+    <nd ref="2285372251"/>
+    <nd ref="21132446"/>
+    <nd ref="3259935417"/>
+    <nd ref="2285372216"/>
+    <nd ref="21132447"/>
+    <nd ref="2285372189"/>
+    <nd ref="5767961567"/>
+    <nd ref="21132445"/>
+    <nd ref="5767961566"/>
+    <nd ref="21132448"/>
+    <nd ref="11727135775"/>
+    <nd ref="885882768"/>
+    <nd ref="5767961565"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Ladbroke Bypass"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75044530" version="11" timestamp="2025-09-27T12:22:58Z" changeset="172523808" uid="13247722" user="TheCanMan">
+    <nd ref="885882829"/>
+    <nd ref="25259372"/>
+    <nd ref="6336121610"/>
+    <nd ref="25259371"/>
+    <nd ref="6758651745"/>
+    <nd ref="6336121611"/>
+    <nd ref="6034794403"/>
+    <nd ref="25259298"/>
+    <nd ref="25259368"/>
+    <nd ref="25259367"/>
+    <nd ref="25259366"/>
+    <nd ref="25259365"/>
+    <nd ref="25259364"/>
+    <nd ref="25259363"/>
+    <nd ref="25259362"/>
+    <nd ref="25259361"/>
+    <nd ref="8239470080"/>
+    <nd ref="25259360"/>
+    <nd ref="25259297"/>
+    <nd ref="25259359"/>
+    <nd ref="25259357"/>
+    <nd ref="25259356"/>
+    <nd ref="25259355"/>
+    <nd ref="6562154295"/>
+    <nd ref="8239470081"/>
+    <nd ref="25259354"/>
+    <nd ref="8239470074"/>
+    <nd ref="25259353"/>
+    <nd ref="25259352"/>
+    <nd ref="885882566"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75044818" version="15" timestamp="2025-09-19T14:03:00Z" changeset="172164972" uid="9090299" user="AdamLWilliams">
+    <nd ref="21132378"/>
+    <nd ref="7371417733"/>
+    <nd ref="2285372354"/>
+    <nd ref="11635784485"/>
+    <nd ref="21132376"/>
+    <nd ref="5767961575"/>
+    <nd ref="12006502923"/>
+    <nd ref="21132432"/>
+    <nd ref="21132375"/>
+    <nd ref="21132431"/>
+    <nd ref="21132428"/>
+    <nd ref="21132430"/>
+    <nd ref="2285372326"/>
+    <nd ref="21132429"/>
+    <nd ref="11564366647"/>
+    <nd ref="21132434"/>
+    <nd ref="21132435"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Southam Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+  </way>
+  <way id="91248008" version="11" timestamp="2025-08-17T18:34:28Z" changeset="170581708" uid="13247722" user="TheCanMan">
+    <nd ref="10678310264"/>
+    <nd ref="25259304"/>
+    <nd ref="262831210"/>
+    <nd ref="262831211"/>
+    <nd ref="2287866859"/>
+    <nd ref="6334846978"/>
+    <nd ref="6334846974"/>
+    <nd ref="262831212"/>
+    <nd ref="262831213"/>
+    <nd ref="262831214"/>
+    <nd ref="2293897342"/>
+    <nd ref="2293897341"/>
+    <nd ref="2293897340"/>
+    <nd ref="2293897344"/>
+    <nd ref="262831215"/>
+    <nd ref="262831216"/>
+    <nd ref="262831217"/>
+    <nd ref="262831218"/>
+    <nd ref="2293897305"/>
+    <nd ref="262831219"/>
+    <nd ref="2292110183"/>
+    <nd ref="4075741889"/>
+    <nd ref="262831220"/>
+    <nd ref="11519398655"/>
+    <nd ref="262831221"/>
+    <nd ref="11519398656"/>
+    <nd ref="262831222"/>
+    <nd ref="11519398657"/>
+    <nd ref="262831223"/>
+    <nd ref="2292110164"/>
+    <nd ref="262831224"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Ladbroke Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="110361007" version="8" timestamp="2025-08-18T01:04:24Z" changeset="170591097" uid="13247722" user="TheCanMan">
+    <nd ref="1260492525"/>
+    <nd ref="25259302"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="ref" v="B4451"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="115569067" version="5" timestamp="2025-04-07T14:38:33Z" changeset="164638398" uid="5589" user="user_5589">
+    <nd ref="25259300"/>
+    <nd ref="12314474068"/>
+    <nd ref="1260492525"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Kineton Road"/>
+    <tag k="ref" v="B4451"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="115569068" version="8" timestamp="2025-08-17T18:34:28Z" changeset="170581708" uid="13247722" user="TheCanMan">
+    <nd ref="25259305"/>
+    <nd ref="25259337"/>
+    <nd ref="25259336"/>
+    <nd ref="6334846984"/>
+    <nd ref="25259335"/>
+    <nd ref="25259334"/>
+    <nd ref="25259303"/>
+    <nd ref="25259333"/>
+    <nd ref="25259332"/>
+    <nd ref="10678310263"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Harbury Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="140778755" version="7" timestamp="2024-03-13T11:14:26Z" changeset="148588363" uid="10974821" user="Marting77">
+    <nd ref="1541555517"/>
+    <nd ref="1541554662"/>
+    <nd ref="1541555670"/>
+    <nd ref="1541554940"/>
+    <nd ref="6908275442"/>
+    <nd ref="1541555121"/>
+    <nd ref="1541554207"/>
+    <nd ref="1541555475"/>
+    <nd ref="1541555424"/>
+    <nd ref="1541555398"/>
+    <tag k="access" v="destination"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="299391637" version="2" timestamp="2019-03-07T11:31:11Z" changeset="67879415" uid="9065" user="brianboru">
+    <nd ref="3033790668"/>
+    <nd ref="2973873489"/>
+    <nd ref="3033790669"/>
+    <nd ref="3033790677"/>
+    <nd ref="3033790670"/>
+    <nd ref="3033790678"/>
+    <nd ref="3033790671"/>
+    <nd ref="3033790672"/>
+    <nd ref="3033790676"/>
+    <nd ref="3033790675"/>
+    <nd ref="3033790674"/>
+    <nd ref="3033790673"/>
+    <nd ref="3033790668"/>
+    <tag k="addr:city" v="Southam"/>
+    <tag k="addr:housename" v="Elgin"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="CV47 2BY"/>
+    <tag k="addr:street" v="Banbury Road"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Elgin"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="319280436" version="13" timestamp="2025-09-27T12:22:58Z" changeset="172523808" uid="13247722" user="TheCanMan">
+    <nd ref="11482356549"/>
+    <nd ref="2285372171"/>
+    <nd ref="1541555426"/>
+    <nd ref="2285372173"/>
+    <nd ref="11727072309"/>
+    <nd ref="2285372183"/>
+    <nd ref="2285372196"/>
+    <nd ref="2285372200"/>
+    <nd ref="1541555645"/>
+    <nd ref="11630834830"/>
+    <nd ref="2285372207"/>
+    <nd ref="1541555739"/>
+    <nd ref="11727072316"/>
+    <nd ref="8266062541"/>
+    <nd ref="1541554738"/>
+    <nd ref="1541554860"/>
+    <nd ref="1541554841"/>
+    <nd ref="2285372227"/>
+    <nd ref="1541555312"/>
+    <nd ref="2285372225"/>
+    <nd ref="1541555549"/>
+    <nd ref="1541555387"/>
+    <nd ref="2285372243"/>
+    <nd ref="1541554341"/>
+    <nd ref="11727072295"/>
+    <nd ref="1541554756"/>
+    <nd ref="1541555075"/>
+    <nd ref="1541555202"/>
+    <nd ref="2285372185"/>
+    <nd ref="2285372184"/>
+    <nd ref="1541555630"/>
+    <nd ref="2285372195"/>
+    <nd ref="1541555696"/>
+    <nd ref="2285372212"/>
+    <nd ref="9154704255"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Ladbroke Hill Lane"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="319569239" version="3" timestamp="2024-03-13T11:14:26Z" changeset="148588363" uid="10974821" user="Marting77">
+    <nd ref="11727072287"/>
+    <nd ref="1541554313"/>
+    <nd ref="1541554250"/>
+    <nd ref="1541554304"/>
+    <nd ref="1541555390"/>
+    <nd ref="2285372228"/>
+    <nd ref="1541554860"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="463061641" version="6" timestamp="2023-12-01T09:06:34Z" changeset="144654010" uid="504708" user="HillWithSmallFields">
+    <nd ref="4583764742"/>
+    <nd ref="4583764743"/>
+    <nd ref="4583764744"/>
+    <nd ref="4583764745"/>
+    <nd ref="4583764746"/>
+    <nd ref="4583764747"/>
+    <nd ref="4583764748"/>
+    <nd ref="4583764749"/>
+    <nd ref="4583764750"/>
+    <nd ref="4583764751"/>
+    <nd ref="4583764752"/>
+    <nd ref="4583764753"/>
+    <nd ref="4583764741"/>
+    <nd ref="4583764754"/>
+    <nd ref="4583764755"/>
+    <nd ref="4583764756"/>
+    <nd ref="4583764757"/>
+    <nd ref="4583764742"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="All Saints Church"/>
+    <tag k="ref:dove" v="10906"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17528314"/>
+  </way>
+  <way id="608910553" version="4" timestamp="2025-01-08T16:53:08Z" changeset="161140994" uid="5229644" user="Nathan_A_RF">
+    <nd ref="5767961565"/>
+    <nd ref="25259294"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Ladbroke Bypass"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:forward" v="through|right"/>
+  </way>
+  <way id="608910554" version="3" timestamp="2025-01-08T16:53:08Z" changeset="161140994" uid="5229644" user="Nathan_A_RF">
+    <nd ref="21132435"/>
+    <nd ref="481902381"/>
+    <nd ref="11727135861"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Southam Road"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:forward" v="through|right"/>
+  </way>
+  <way id="640615009" version="3" timestamp="2025-09-27T12:24:31Z" changeset="172523861" uid="13247722" user="TheCanMan">
+    <nd ref="1541554784"/>
+    <nd ref="6034794398"/>
+    <nd ref="885882615"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Ladbroke Hill Lane"/>
+  </way>
+  <way id="675152106" version="2" timestamp="2025-08-07T11:40:48Z" changeset="170101948" uid="10974821" user="Marting77">
+    <nd ref="6322839327"/>
+    <nd ref="6322839326"/>
+    <nd ref="6322839325"/>
+    <nd ref="6322839324"/>
+    <nd ref="13056043943"/>
+    <nd ref="13056043942"/>
+    <nd ref="13056043941"/>
+    <nd ref="13056043940"/>
+    <nd ref="6322839327"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Bell at Ladbroke"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="676603456" version="2" timestamp="2023-02-19T13:29:51Z" changeset="132748055" uid="5589" user="user_5589">
+    <nd ref="885882705"/>
+    <nd ref="6335970935"/>
+    <nd ref="885882623"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Hedges Close"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="692551665" version="1" timestamp="2019-05-26T09:49:57Z" changeset="70628509" uid="9259465" user="alivelis">
+    <nd ref="6501707729"/>
+    <nd ref="6501707730"/>
+    <nd ref="6501707731"/>
+    <nd ref="6501707732"/>
+    <nd ref="6501707733"/>
+    <nd ref="6501707734"/>
+    <nd ref="6501707735"/>
+    <nd ref="6501707736"/>
+    <nd ref="6501707737"/>
+    <nd ref="6501707738"/>
+    <nd ref="6501707739"/>
+    <nd ref="6501707740"/>
+    <nd ref="6501707741"/>
+    <nd ref="6501707742"/>
+    <nd ref="6501707743"/>
+    <nd ref="6501707744"/>
+    <nd ref="6501707745"/>
+    <nd ref="6501707746"/>
+    <nd ref="6501707747"/>
+    <nd ref="6501707748"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="884102655" version="2" timestamp="2025-02-19T02:17:59Z" changeset="162683026" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="8222064457"/>
+    <nd ref="12599683625"/>
+    <nd ref="8222064465"/>
+    <nd ref="8222064458"/>
+    <nd ref="8222064459"/>
+    <nd ref="8222064460"/>
+    <nd ref="8222064461"/>
+    <nd ref="8222064462"/>
+    <nd ref="8222064463"/>
+    <nd ref="8222064464"/>
+    <nd ref="8222064457"/>
+    <tag k="addr:city" v="Southam"/>
+    <tag k="addr:street" v="Banbury Road"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Ladbroke Village Hall"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="990784511" version="3" timestamp="2025-09-27T12:25:24Z" changeset="172523895" uid="13247722" user="TheCanMan">
+    <nd ref="9154704255"/>
+    <nd ref="2285372214"/>
+    <nd ref="2285372216"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Ladbroke Hill Lane"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1147616056" version="3" timestamp="2025-01-08T16:53:08Z" changeset="161140994" uid="5229644" user="Nathan_A_RF">
+    <nd ref="489701214"/>
+    <nd ref="11727135860"/>
+    <nd ref="10678310261"/>
+    <nd ref="481902381"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Southam Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1147616058" version="2" timestamp="2024-11-05T15:09:56Z" changeset="158783030" uid="21607125" user="TerenceOfYork">
+    <nd ref="10678310263"/>
+    <nd ref="12314474067"/>
+    <nd ref="25259300"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Harbury Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1147616059" version="1" timestamp="2023-02-19T13:29:51Z" changeset="132748055" uid="5589" user="user_5589">
+    <nd ref="25259305"/>
+    <nd ref="10678310264"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Ladbroke Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1205875858" version="1" timestamp="2023-09-07T13:24:06Z" changeset="140941193" uid="10974821" user="Marting77">
+    <nd ref="11174593855"/>
+    <nd ref="11174593856"/>
+    <nd ref="11174593857"/>
+    <nd ref="11174593858"/>
+    <nd ref="11174593855"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="HS2 EKFB A423 Site Office"/>
+    <tag k="office" v="yes"/>
+  </way>
+  <way id="1205875861" version="1" timestamp="2023-09-07T13:24:06Z" changeset="140941193" uid="10974821" user="Marting77">
+    <nd ref="11174593869"/>
+    <nd ref="11174593870"/>
+    <nd ref="11174593871"/>
+    <nd ref="11174593872"/>
+    <nd ref="11174593869"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="HS2 EKFB A423 Site Office"/>
+    <tag k="office" v="yes"/>
+  </way>
+  <way id="1262139715" version="1" timestamp="2024-03-13T11:14:26Z" changeset="148588363" uid="10974821" user="Marting77">
+    <nd ref="2285372255"/>
+    <nd ref="11727072287"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="1262147726" version="2" timestamp="2025-01-08T16:53:08Z" changeset="161140994" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11727135861"/>
+    <nd ref="11727135862"/>
+    <nd ref="11727135863"/>
+    <nd ref="489701214"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Southam Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1433547562" version="1" timestamp="2025-09-27T12:22:58Z" changeset="172523808" uid="13247722" user="TheCanMan">
+    <nd ref="489701214"/>
+    <nd ref="12484779613"/>
+    <nd ref="12484779612"/>
+    <nd ref="11727135859"/>
+    <nd ref="489701220"/>
+    <nd ref="13175178780"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Southam Road"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

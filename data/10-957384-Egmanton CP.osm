@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:45:02Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="1612191" lat="53.2179406" lon="-0.8814644" version="3" timestamp="2021-03-28T20:40:18Z" changeset="101889047" uid="5443821" user="◪ Jarv"/>
+  <node id="1613232" lat="53.1783821" lon="-0.8180692" version="3" timestamp="2011-09-17T21:12:57Z" changeset="9327847" uid="21264" user="Pobice"/>
+  <node id="31219794" lat="53.2318393" lon="-0.8958953" version="3" timestamp="2011-09-17T21:12:58Z" changeset="9327847" uid="21264" user="Pobice"/>
+  <node id="324375541" lat="53.2210942" lon="-0.9010702" version="4" timestamp="2014-04-05T20:00:50Z" changeset="21518401" uid="2011702" user="krd_mapper"/>
+  <node id="989197916" lat="53.2110329" lon="-0.9391728" version="3" timestamp="2014-04-05T20:21:27Z" changeset="21518401" uid="2011702" user="krd_mapper"/>
+  <node id="989229149" lat="53.1969941" lon="-0.9148135" version="2" timestamp="2012-02-29T21:54:30Z" changeset="10832770" uid="553735" user="Johnmb"/>
+  <node id="1435897411" lat="53.2104077" lon="-0.8725162" version="1" timestamp="2011-09-17T21:11:48Z" changeset="9327847" uid="21264" user="Pobice"/>
+  <node id="1572205304" lat="53.2180270" lon="-0.8817743" version="2" timestamp="2021-03-28T20:40:18Z" changeset="101889047" uid="5443821" user="◪ Jarv"/>
+  <node id="2046580410" lat="53.1988768" lon="-0.8760203" version="1" timestamp="2012-12-02T17:37:52Z" changeset="14127855" uid="705850" user="Cebderby"/>
+  <way id="4280532" version="26" timestamp="2023-10-26T00:31:46Z" changeset="143138998" uid="13341565" user="Falsernet">
+    <nd ref="31219794"/>
+    <nd ref="31219793"/>
+    <nd ref="6221844917"/>
+    <nd ref="1581415"/>
+    <nd ref="6221844916"/>
+    <nd ref="1581514"/>
+    <nd ref="1581521"/>
+    <nd ref="1581525"/>
+    <nd ref="1581528"/>
+    <nd ref="1581730"/>
+    <nd ref="1581737"/>
+    <nd ref="1581742"/>
+    <nd ref="1581749"/>
+    <nd ref="1572205305"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="29432174" version="14" timestamp="2020-01-31T06:19:11Z" changeset="80350995" uid="10455643" user="kotamadh">
+    <nd ref="324374928"/>
+    <nd ref="1653484922"/>
+    <nd ref="7174131924"/>
+    <nd ref="1653484904"/>
+    <nd ref="3129782474"/>
+    <nd ref="1653485056"/>
+    <nd ref="324375532"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Tuxford Road"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="42094290" version="15" timestamp="2025-05-18T19:19:50Z" changeset="166445486" uid="3999" user="BarryMyles">
+    <nd ref="989229448"/>
+    <nd ref="1653511715"/>
+    <nd ref="2770601574"/>
+    <nd ref="1653512103"/>
+    <nd ref="989229757"/>
+    <nd ref="324374930"/>
+    <nd ref="7567771468"/>
+    <nd ref="6769092364"/>
+    <nd ref="989229691"/>
+    <nd ref="989229761"/>
+    <nd ref="6331411736"/>
+    <nd ref="2770601579"/>
+    <nd ref="989229767"/>
+    <nd ref="2113831697"/>
+    <nd ref="2770601578"/>
+    <nd ref="989229770"/>
+    <nd ref="2770601586"/>
+    <nd ref="989229777"/>
+    <nd ref="6769092357"/>
+    <nd ref="324374931"/>
+    <nd ref="2770601610"/>
+    <nd ref="2770601584"/>
+    <nd ref="989197840"/>
+    <nd ref="989197845"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Kirton Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:name" v="Sign at E"/>
+  </way>
+  <way id="60437514" version="10" timestamp="2021-06-07T14:24:39Z" changeset="105978496" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="324374787"/>
+    <nd ref="324374921"/>
+    <nd ref="1652379681"/>
+    <nd ref="1652379693"/>
+    <nd ref="1652379684"/>
+    <nd ref="324374922"/>
+    <nd ref="324374923"/>
+    <nd ref="324374924"/>
+    <nd ref="2046580441"/>
+    <nd ref="1652379685"/>
+    <nd ref="1652379694"/>
+    <nd ref="324374925"/>
+    <nd ref="1652379698"/>
+    <nd ref="4679077216"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Weston Road"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="85327351" version="13" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="989197845"/>
+    <nd ref="2772194650"/>
+    <nd ref="2770601585"/>
+    <nd ref="324374932"/>
+    <nd ref="2353144417"/>
+    <nd ref="2359993477"/>
+    <nd ref="324374933"/>
+    <nd ref="324374934"/>
+    <nd ref="324374935"/>
+    <nd ref="324374936"/>
+    <nd ref="2359995646"/>
+    <nd ref="989197875"/>
+    <nd ref="989197878"/>
+    <nd ref="324374937"/>
+    <nd ref="324374938"/>
+    <nd ref="2770669860"/>
+    <nd ref="989197897"/>
+    <nd ref="324374939"/>
+    <nd ref="3129782487"/>
+    <nd ref="324374940"/>
+    <nd ref="2770669729"/>
+    <nd ref="324374941"/>
+    <nd ref="6908947771"/>
+    <nd ref="324374942"/>
+    <nd ref="2770669874"/>
+    <nd ref="324374943"/>
+    <nd ref="2770669745"/>
+    <nd ref="989197914"/>
+    <nd ref="2770669922"/>
+    <nd ref="989197916"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Kirton Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="Sign at E"/>
+    <tag k="source:name" v="Sign at E"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="85329882" version="9" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="989229149"/>
+    <nd ref="3129782228"/>
+    <nd ref="989229186"/>
+    <nd ref="989229188"/>
+    <nd ref="989229191"/>
+    <nd ref="989229195"/>
+    <nd ref="3129782433"/>
+    <nd ref="3129782508"/>
+    <nd ref="989229196"/>
+    <nd ref="989229198"/>
+    <nd ref="2359966018"/>
+    <nd ref="989229200"/>
+    <nd ref="989229201"/>
+    <nd ref="989229203"/>
+    <nd ref="989229206"/>
+    <nd ref="989229209"/>
+    <nd ref="3129782482"/>
+    <nd ref="989229211"/>
+    <nd ref="989229214"/>
+    <nd ref="989229217"/>
+    <nd ref="989229224"/>
+    <nd ref="989229227"/>
+    <nd ref="989229115"/>
+    <nd ref="989229232"/>
+    <nd ref="989229236"/>
+    <nd ref="989229244"/>
+    <nd ref="989229249"/>
+    <nd ref="3129782462"/>
+    <nd ref="989229251"/>
+    <nd ref="989229254"/>
+    <nd ref="3129782452"/>
+    <nd ref="989229257"/>
+    <nd ref="989229282"/>
+    <nd ref="3129782483"/>
+    <nd ref="989229286"/>
+    <nd ref="3129782501"/>
+    <nd ref="989229293"/>
+    <nd ref="3129782496"/>
+    <nd ref="989229296"/>
+    <nd ref="3129782451"/>
+    <nd ref="989229298"/>
+    <nd ref="3129782478"/>
+    <nd ref="989229305"/>
+    <nd ref="989229313"/>
+    <nd ref="3129782476"/>
+    <nd ref="6769092344"/>
+    <nd ref="989229322"/>
+    <nd ref="2971677026"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Laxton Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="Sign at each end"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="85329885" version="8" timestamp="2020-03-18T07:06:29Z" changeset="82334077" uid="10126622" user="hvannere">
+    <nd ref="989229448"/>
+    <nd ref="7305159460"/>
+    <nd ref="1653511876"/>
+    <nd ref="7174131916"/>
+    <nd ref="1653511974"/>
+    <nd ref="6784994403"/>
+    <nd ref="1653511641"/>
+    <nd ref="2772194705"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="85329894" version="5" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="989229691"/>
+    <nd ref="1652379688"/>
+    <nd ref="989229693"/>
+    <nd ref="1652379687"/>
+    <nd ref="989229695"/>
+    <tag k="fixme" v="only two ends noted"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Tanyard"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="85329895" version="6" timestamp="2014-10-14T18:54:56Z" changeset="26079296" uid="2261940" user="RR80">
+    <nd ref="989229355"/>
+    <nd ref="989229704"/>
+    <nd ref="3129782472"/>
+    <nd ref="989229712"/>
+    <nd ref="989229613"/>
+    <nd ref="989229714"/>
+    <nd ref="989229715"/>
+    <nd ref="1652379682"/>
+    <nd ref="989229716"/>
+    <nd ref="989229718"/>
+    <nd ref="989229695"/>
+    <nd ref="3129782461"/>
+    <nd ref="989229720"/>
+    <nd ref="989229723"/>
+    <nd ref="989229727"/>
+    <nd ref="1652379699"/>
+    <nd ref="989229730"/>
+    <nd ref="3129782502"/>
+    <nd ref="989229734"/>
+    <nd ref="2770601576"/>
+    <nd ref="1653511643"/>
+    <nd ref="2770601603"/>
+    <nd ref="989229448"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Laxton Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="130343283" version="13" timestamp="2023-10-26T00:31:46Z" changeset="143138998" uid="13341565" user="Falsernet">
+    <nd ref="1613232"/>
+    <nd ref="1613148"/>
+    <nd ref="1613136"/>
+    <nd ref="1613124"/>
+    <nd ref="1613117"/>
+    <nd ref="1613050"/>
+    <nd ref="1613045"/>
+    <nd ref="1613042"/>
+    <nd ref="1613035"/>
+    <nd ref="1612916"/>
+    <nd ref="1612908"/>
+    <nd ref="1612903"/>
+    <nd ref="1612895"/>
+    <nd ref="1612889"/>
+    <nd ref="1612770"/>
+    <nd ref="1612774"/>
+    <nd ref="1612776"/>
+    <nd ref="1612782"/>
+    <nd ref="1612788"/>
+    <nd ref="1612575"/>
+    <nd ref="1612578"/>
+    <nd ref="1612581"/>
+    <nd ref="1612582"/>
+    <nd ref="1612586"/>
+    <nd ref="1612460"/>
+    <nd ref="1612468"/>
+    <nd ref="1612474"/>
+    <nd ref="1612482"/>
+    <nd ref="1612489"/>
+    <nd ref="1612220"/>
+    <nd ref="1612219"/>
+    <nd ref="1612217"/>
+    <nd ref="1612216"/>
+    <nd ref="1572205298"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="130343297" version="4" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="1435897411"/>
+    <nd ref="324374787"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Weston Road"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="143658453" version="11" timestamp="2023-10-26T00:31:46Z" changeset="143138998" uid="13341565" user="Falsernet">
+    <nd ref="1572205304"/>
+    <nd ref="1581754"/>
+    <nd ref="1581759"/>
+    <nd ref="1581765"/>
+    <nd ref="1581771"/>
+    <nd ref="1581572"/>
+    <nd ref="1581565"/>
+    <nd ref="570168381"/>
+    <nd ref="1581561"/>
+    <nd ref="6221844915"/>
+    <nd ref="1581419"/>
+    <nd ref="6221844918"/>
+    <nd ref="31219795"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="143658454" version="10" timestamp="2023-10-26T00:31:46Z" changeset="143138998" uid="13341565" user="Falsernet">
+    <nd ref="1572205298"/>
+    <nd ref="1572205304"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="143658455" version="11" timestamp="2023-10-26T00:31:46Z" changeset="143138998" uid="13341565" user="Falsernet">
+    <nd ref="1572205305"/>
+    <nd ref="1612191"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="143658456" version="13" timestamp="2023-10-26T00:31:46Z" changeset="143138998" uid="13341565" user="Falsernet">
+    <nd ref="1612191"/>
+    <nd ref="1572205295"/>
+    <nd ref="1612193"/>
+    <nd ref="1612199"/>
+    <nd ref="1612206"/>
+    <nd ref="1612442"/>
+    <nd ref="1612447"/>
+    <nd ref="1612450"/>
+    <nd ref="1612454"/>
+    <nd ref="1612457"/>
+    <nd ref="1612568"/>
+    <nd ref="1612569"/>
+    <nd ref="1612571"/>
+    <nd ref="8569969969"/>
+    <nd ref="1612572"/>
+    <nd ref="1612573"/>
+    <nd ref="1612748"/>
+    <nd ref="1612753"/>
+    <nd ref="1612756"/>
+    <nd ref="1612760"/>
+    <nd ref="1612764"/>
+    <nd ref="1612849"/>
+    <nd ref="1612858"/>
+    <nd ref="1612864"/>
+    <nd ref="1612868"/>
+    <nd ref="1612874"/>
+    <nd ref="1613005"/>
+    <nd ref="1613010"/>
+    <nd ref="1618846648"/>
+    <nd ref="1613014"/>
+    <nd ref="1613020"/>
+    <nd ref="1613114"/>
+    <nd ref="1613121"/>
+    <nd ref="1613128"/>
+    <nd ref="1613142"/>
+    <nd ref="1613226"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="152539903" version="6" timestamp="2023-11-30T19:33:36Z" changeset="144637738" uid="504708" user="HillWithSmallFields">
+    <nd ref="1653512189"/>
+    <nd ref="1653512073"/>
+    <nd ref="1653511542"/>
+    <nd ref="1653512019"/>
+    <nd ref="1653511776"/>
+    <nd ref="1653511817"/>
+    <nd ref="1653511983"/>
+    <nd ref="1653511942"/>
+    <nd ref="1653511824"/>
+    <nd ref="1653511977"/>
+    <nd ref="1653511979"/>
+    <nd ref="1653511939"/>
+    <nd ref="1653512026"/>
+    <nd ref="1653512084"/>
+    <nd ref="1653512095"/>
+    <nd ref="1653511760"/>
+    <nd ref="1653512189"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Our Lady of Egmanton"/>
+    <tag k="ref:dove" v="14282"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q5116965"/>
+    <tag k="wikipedia" v="en:Church of Our Lady of Egmanton"/>
+  </way>
+  <way id="194145557" version="2" timestamp="2014-04-06T11:34:00Z" changeset="21530407" uid="61942" user="SomeoneElse">
+    <nd ref="2046580410"/>
+    <nd ref="324374778"/>
+    <nd ref="324374779"/>
+    <nd ref="324374780"/>
+    <nd ref="2772229541"/>
+    <nd ref="324374781"/>
+    <nd ref="2772229514"/>
+    <nd ref="324374782"/>
+    <nd ref="2772229535"/>
+    <nd ref="324374783"/>
+    <nd ref="324374784"/>
+    <nd ref="324374785"/>
+    <nd ref="324374786"/>
+    <nd ref="324374787"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Moorhouse Road"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="226520723" version="4" timestamp="2017-02-10T20:27:22Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="324375541"/>
+    <nd ref="2770601567"/>
+    <nd ref="2340653205"/>
+    <nd ref="324375542"/>
+    <nd ref="324375543"/>
+    <nd ref="2971664483"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Egmanton Road"/>
+    <tag k="source" v="NPE"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="226520726" version="4" timestamp="2023-06-23T09:27:09Z" changeset="137680224" uid="242345" user="confusedbuffalo">
+    <nd ref="989197916"/>
+    <nd ref="2360045444"/>
+    <nd ref="989197918"/>
+    <nd ref="324374944"/>
+    <tag k="FIXME:nsl" v="inferred single-carriageway NSL - remove this tag once verified"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="227291835" version="5" timestamp="2020-09-23T10:44:44Z" changeset="91359981" uid="11734022" user="pppalepu">
+    <nd ref="324375532"/>
+    <nd ref="1653485027"/>
+    <nd ref="2770601605"/>
+    <nd ref="2770601568"/>
+    <nd ref="7934174954"/>
+    <nd ref="2971677025"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Tuxford Road"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="272262637" version="2" timestamp="2017-02-10T20:27:23Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="2772194705"/>
+    <nd ref="1653485099"/>
+    <nd ref="2770601571"/>
+    <nd ref="324374928"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="272262639" version="2" timestamp="2017-02-10T20:27:23Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="1653484939"/>
+    <nd ref="2772194697"/>
+    <nd ref="2772194715"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Church View"/>
+    <tag k="source" v="View from N;Bing"/>
+    <tag k="source:name" v="Sign at N"/>
+  </way>
+  <way id="272262640" version="4" timestamp="2025-05-18T19:19:50Z" changeset="166445486" uid="3999" user="BarryMyles">
+    <nd ref="2353148502"/>
+    <nd ref="2770601564"/>
+    <nd ref="1653484939"/>
+    <nd ref="324374927"/>
+    <nd ref="1653484849"/>
+    <nd ref="1653512141"/>
+    <nd ref="9017007772"/>
+    <nd ref="1653485071"/>
+    <nd ref="1653512080"/>
+    <nd ref="324374928"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Weston Road"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="293559792" version="4" timestamp="2020-09-23T10:44:44Z" changeset="91359981" uid="11734022" user="pppalepu">
+    <nd ref="2971677025"/>
+    <nd ref="6472971063"/>
+    <nd ref="1653484839"/>
+    <nd ref="324375533"/>
+    <nd ref="6472971031"/>
+    <nd ref="1653484827"/>
+    <nd ref="7934174956"/>
+    <nd ref="1653484940"/>
+    <nd ref="324375534"/>
+    <nd ref="2770601593"/>
+    <nd ref="2770601588"/>
+    <nd ref="1653484891"/>
+    <nd ref="1653485054"/>
+    <nd ref="2770601561"/>
+    <nd ref="2770601566"/>
+    <nd ref="324375535"/>
+    <nd ref="2770601594"/>
+    <nd ref="324375536"/>
+    <nd ref="330575288"/>
+    <nd ref="2770601563"/>
+    <nd ref="324375537"/>
+    <nd ref="2770601592"/>
+    <nd ref="324375538"/>
+    <nd ref="324375539"/>
+    <nd ref="2770601609"/>
+    <nd ref="324375540"/>
+    <nd ref="2770601607"/>
+    <nd ref="324375541"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Tuxford Road"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="293559793" version="3" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="2971677026"/>
+    <nd ref="989229327"/>
+    <nd ref="989229330"/>
+    <nd ref="3129782507"/>
+    <nd ref="989229335"/>
+    <nd ref="2353144413"/>
+    <nd ref="989229339"/>
+    <nd ref="989229342"/>
+    <nd ref="3129782429"/>
+    <nd ref="989229345"/>
+    <nd ref="989229349"/>
+    <nd ref="989229355"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Laxton Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="Sign at each end"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="473873349" version="3" timestamp="2025-05-18T19:19:50Z" changeset="166445486" uid="3999" user="BarryMyles">
+    <nd ref="4679077216"/>
+    <nd ref="1653512035"/>
+    <nd ref="1652379683"/>
+    <nd ref="1653484985"/>
+    <nd ref="1652379692"/>
+    <nd ref="324374926"/>
+    <nd ref="1653484916"/>
+    <nd ref="1652379690"/>
+    <nd ref="1653485015"/>
+    <nd ref="2353148502"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Weston Road"/>
+  </way>
+  <way id="689954694" version="1" timestamp="2019-05-14T14:28:43Z" changeset="70237779" uid="9196101" user="singhyyd">
+    <nd ref="6472971031"/>
+    <nd ref="6472971032"/>
+    <nd ref="6472971033"/>
+    <nd ref="6472971034"/>
+    <nd ref="6472971035"/>
+    <nd ref="6472971036"/>
+    <nd ref="6472971037"/>
+    <nd ref="6472971038"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="689954695" version="1" timestamp="2019-05-14T14:28:43Z" changeset="70237779" uid="9196101" user="singhyyd">
+    <nd ref="6472971038"/>
+    <nd ref="6472971039"/>
+    <nd ref="6472971040"/>
+    <nd ref="6472971041"/>
+    <nd ref="6472971042"/>
+    <nd ref="6472971043"/>
+    <nd ref="6472971044"/>
+    <nd ref="6472971045"/>
+    <nd ref="6472971046"/>
+    <nd ref="6472971047"/>
+    <nd ref="6472971048"/>
+    <nd ref="6472971049"/>
+    <nd ref="6472971050"/>
+    <nd ref="6472971051"/>
+    <nd ref="6472971052"/>
+    <nd ref="6472971053"/>
+    <nd ref="6472971054"/>
+    <nd ref="6472971055"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="689954696" version="1" timestamp="2019-05-14T14:28:43Z" changeset="70237779" uid="9196101" user="singhyyd">
+    <nd ref="6472971044"/>
+    <nd ref="6472971056"/>
+    <nd ref="6472971057"/>
+    <nd ref="6472971058"/>
+    <nd ref="6472971059"/>
+    <nd ref="6472971060"/>
+    <nd ref="6472971061"/>
+    <nd ref="6472971062"/>
+    <nd ref="6472971063"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="974978504" version="2" timestamp="2022-10-06T11:57:21Z" changeset="127099481" uid="17299016" user="Russ (mechanical edit account)">
+    <nd ref="9022678307"/>
+    <nd ref="9022678304"/>
+    <nd ref="9022678305"/>
+    <nd ref="9022678306"/>
+    <nd ref="9022678307"/>
+    <tag k="brand" v="National Grid"/>
+    <tag k="brand:wikidata" v="Q1465461"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cobb Farm Solar Farm"/>
+    <tag k="operator" v="National Grid Electricity Distribution Plc"/>
+    <tag k="operator:old" v="Western Power Distribution"/>
+    <tag k="operator:wikidata" v="Q7988183"/>
+    <tag k="owner" v="National Grid Electricity Distribution (East Midlands) Plc"/>
+    <tag k="owner:wikidata" v="Q114348127"/>
+    <tag k="power" v="substation"/>
+    <tag k="ref:GB:wpd_site" v="898371"/>
+    <tag k="voltage" v="33000"/>
+  </way>
+  <way id="1422125415" version="1" timestamp="2025-08-13T16:51:06Z" changeset="170399591" uid="322785" user="BCNorwich">
+    <nd ref="13069384074"/>
+    <nd ref="13069384071"/>
+    <nd ref="13069384070"/>
+    <nd ref="13069384068"/>
+    <nd ref="13069384067"/>
+    <nd ref="13069384069"/>
+    <nd ref="13069384072"/>
+    <nd ref="13069384073"/>
+    <nd ref="13069384074"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Egmanton Village Hall"/>
+    <tag k="addr:postcode" v="NG22 0HA"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Egmanton Village Hall"/>
+    <tag k="website" v="https://www.egmantonvillagehall.org.uk/"/>
+  </way>
+
+</osm>

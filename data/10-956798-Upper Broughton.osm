@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:29:34Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="14569809" lat="52.8307296" lon="-0.9889235" version="15" timestamp="2014-01-20T00:02:39Z" changeset="20095705" uid="61942" user="SomeoneElse"/>
+  <node id="27030290" lat="52.8213269" lon="-1.0375448" version="5" timestamp="2023-03-31T18:18:01Z" changeset="134356075" uid="13341565" user="Falsernet">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="115258339" lat="52.8187627" lon="-1.0372112" version="2" timestamp="2016-01-14T08:06:51Z" changeset="36565149" uid="2011702" user="krd_mapper"/>
+  <node id="386458128" lat="52.8217580" lon="-1.0277158" version="5" timestamp="2021-01-04T15:10:03Z" changeset="96917712" uid="1431482" user="JonOrchard"/>
+  <node id="691131806" lat="52.8280729" lon="-0.9855732" version="3" timestamp="2013-05-18T11:44:16Z" changeset="16178548" uid="84681" user="SK53"/>
+  <node id="1138712459" lat="52.8323480" lon="-1.0215249" version="1" timestamp="2011-02-06T08:27:43Z" changeset="7200630" uid="84075" user="kevjs1982"/>
+  <node id="3378419026" lat="52.8292378" lon="-1.0362820" version="1" timestamp="2015-03-01T20:00:08Z" changeset="29183068" uid="84681" user="SK53"/>
+  <node id="3378419033" lat="52.8259992" lon="-1.0364120" version="2" timestamp="2017-07-31T23:02:13Z" changeset="50735118" uid="5296090" user="TR42"/>
+  <node id="3378419062" lat="52.8317075" lon="-1.0360631" version="1" timestamp="2015-03-01T20:00:09Z" changeset="29183068" uid="84681" user="SK53"/>
+  <node id="3378434748" lat="52.8437402" lon="-1.0340795" version="1" timestamp="2015-03-01T20:16:47Z" changeset="29184981" uid="84681" user="SK53"/>
+  <node id="3378588811" lat="52.8404545" lon="-1.0350366" version="1" timestamp="2015-03-01T21:23:03Z" changeset="29186424" uid="84681" user="SK53"/>
+  <node id="3378588813" lat="52.8393273" lon="-1.0352883" version="1" timestamp="2015-03-01T21:23:03Z" changeset="29186424" uid="84681" user="SK53"/>
+  <node id="3378588814" lat="52.8406373" lon="-1.0349944" version="1" timestamp="2015-03-01T21:23:03Z" changeset="29186424" uid="84681" user="SK53"/>
+  <node id="3378588830" lat="52.8402570" lon="-1.0350821" version="1" timestamp="2015-03-01T21:23:03Z" changeset="29186424" uid="84681" user="SK53"/>
+  <node id="4232396851" lat="52.8428027" lon="-1.0141035" version="1" timestamp="2016-06-08T19:52:14Z" changeset="39892560" uid="1431482" user="JonOrchard"/>
+  <node id="5005992423" lat="52.8557299" lon="-1.0312392" version="2" timestamp="2021-09-26T16:31:32Z" changeset="111730463" uid="13341565" user="Falsernet">
+    <tag k="exit_to" v="Nottingham (A606);Melton Mowbury (A606)"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Widmerpool Interchange"/>
+  </node>
+  <way id="12630391" version="11" timestamp="2023-09-05T21:09:03Z" changeset="140868858" uid="13341565" user="Falsernet">
+    <nd ref="27030290"/>
+    <nd ref="3945336475"/>
+    <nd ref="3945336545"/>
+    <nd ref="115258291"/>
+    <nd ref="115258294"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+  </way>
+  <way id="23657185" version="5" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="115258339"/>
+    <nd ref="115258342"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+  </way>
+  <way id="23657189" version="6" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="115258309"/>
+    <nd ref="115258314"/>
+    <nd ref="115258317"/>
+    <nd ref="115258321"/>
+    <nd ref="115258324"/>
+    <nd ref="1138712025"/>
+    <nd ref="115258330"/>
+    <nd ref="115258333"/>
+    <nd ref="3945337061"/>
+    <nd ref="115258335"/>
+    <nd ref="3945336554"/>
+    <nd ref="3945336483"/>
+    <nd ref="115258339"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+  </way>
+  <way id="23657192" version="11" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="115258309"/>
+    <nd ref="3945351793"/>
+    <nd ref="1138711963"/>
+    <nd ref="1138712497"/>
+    <nd ref="6224870084"/>
+    <nd ref="6224870082"/>
+    <nd ref="3945351802"/>
+    <nd ref="256318130"/>
+    <nd ref="3945351783"/>
+    <nd ref="1138712045"/>
+    <nd ref="3945351772"/>
+    <nd ref="3945351784"/>
+    <nd ref="256318133"/>
+    <nd ref="386458128"/>
+    <nd ref="3945351777"/>
+    <nd ref="3945351791"/>
+    <nd ref="3945351799"/>
+    <nd ref="8957237568"/>
+    <nd ref="3945351786"/>
+    <nd ref="3945351798"/>
+    <nd ref="256318135"/>
+    <nd ref="3945351781"/>
+    <nd ref="3945351773"/>
+    <nd ref="3945351788"/>
+    <nd ref="3945351768"/>
+    <nd ref="256318139"/>
+    <nd ref="3945351795"/>
+    <nd ref="3945351792"/>
+    <nd ref="256318141"/>
+    <nd ref="3945351776"/>
+    <nd ref="1138711993"/>
+    <nd ref="256318143"/>
+    <nd ref="3945351769"/>
+    <nd ref="1027228652"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Station Road"/>
+  </way>
+  <way id="29434510" version="12" timestamp="2024-02-21T16:25:44Z" changeset="147740238" uid="1431482" user="JonOrchard">
+    <nd ref="14569809"/>
+    <nd ref="324399395"/>
+    <nd ref="2353096130"/>
+    <nd ref="4876210821"/>
+    <nd ref="2353096126"/>
+    <nd ref="2353096128"/>
+    <nd ref="324399396"/>
+    <nd ref="2353096124"/>
+    <nd ref="2353096120"/>
+    <nd ref="2353096122"/>
+    <nd ref="324399397"/>
+    <nd ref="2353096118"/>
+    <nd ref="324399399"/>
+    <nd ref="4876210822"/>
+    <nd ref="2353096116"/>
+    <nd ref="4876210823"/>
+    <nd ref="324399400"/>
+    <nd ref="4876210824"/>
+    <nd ref="2353096110"/>
+    <nd ref="4876210825"/>
+    <nd ref="3710994183"/>
+    <nd ref="2353096112"/>
+    <nd ref="3710994192"/>
+    <nd ref="324399401"/>
+    <nd ref="4876210827"/>
+    <nd ref="4876210826"/>
+    <nd ref="4876210828"/>
+    <nd ref="324399402"/>
+    <nd ref="8267034531"/>
+    <nd ref="4876210829"/>
+    <nd ref="324399403"/>
+    <nd ref="2353097344"/>
+    <nd ref="4876210830"/>
+    <nd ref="4876210831"/>
+    <nd ref="2353096108"/>
+    <nd ref="2353096106"/>
+    <nd ref="324399405"/>
+    <nd ref="4876210832"/>
+    <nd ref="4876210833"/>
+    <nd ref="324399407"/>
+    <nd ref="4876210834"/>
+    <nd ref="2353096105"/>
+    <nd ref="2353096104"/>
+    <nd ref="2353096103"/>
+    <nd ref="324399409"/>
+    <nd ref="2353096102"/>
+    <nd ref="324399411"/>
+    <nd ref="2353096100"/>
+    <nd ref="2353096101"/>
+    <nd ref="324399413"/>
+    <nd ref="2353096099"/>
+    <nd ref="2353096098"/>
+    <nd ref="2353096097"/>
+    <nd ref="324399415"/>
+    <nd ref="2353096096"/>
+    <nd ref="2353096093"/>
+    <nd ref="2353096095"/>
+    <nd ref="2353096094"/>
+    <nd ref="4876211451"/>
+    <nd ref="324399417"/>
+    <nd ref="2353096092"/>
+    <nd ref="2353096091"/>
+    <nd ref="2353096090"/>
+    <nd ref="2353096089"/>
+    <nd ref="324399419"/>
+    <nd ref="2353096087"/>
+    <nd ref="2353096086"/>
+    <nd ref="2353096085"/>
+    <nd ref="324399421"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Hickling Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="33765816" version="15" timestamp="2021-07-21T04:02:26Z" changeset="108345327" uid="10455632" user="depsm">
+    <nd ref="386458128"/>
+    <nd ref="386458133"/>
+    <nd ref="2307723665"/>
+    <nd ref="386458137"/>
+    <nd ref="386458141"/>
+    <nd ref="2307723666"/>
+    <nd ref="386458144"/>
+    <nd ref="386458147"/>
+    <nd ref="8289942835"/>
+    <nd ref="2307723667"/>
+    <nd ref="8289942834"/>
+    <nd ref="386458150"/>
+    <nd ref="2307723668"/>
+    <nd ref="8937291167"/>
+    <nd ref="8247237164"/>
+    <nd ref="8247237163"/>
+    <nd ref="386458152"/>
+    <nd ref="4026699463"/>
+    <nd ref="4026699458"/>
+    <nd ref="4026691254"/>
+    <nd ref="4026691255"/>
+    <nd ref="386458155"/>
+    <nd ref="4026691253"/>
+    <nd ref="386458159"/>
+    <nd ref="386458161"/>
+    <nd ref="4026691256"/>
+    <nd ref="4026691252"/>
+    <nd ref="4026691251"/>
+    <nd ref="4026691250"/>
+    <nd ref="4026691249"/>
+    <nd ref="4026691248"/>
+    <nd ref="4723159684"/>
+    <nd ref="386458163"/>
+    <nd ref="386458166"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Nottingham Lane"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="47324474" version="18" timestamp="2024-02-23T18:48:18Z" changeset="147830491" uid="1431482" user="JonOrchard">
+    <nd ref="4232396851"/>
+    <nd ref="2373151372"/>
+    <nd ref="2362849228"/>
+    <nd ref="2973571871"/>
+    <nd ref="324401054"/>
+    <nd ref="1138711992"/>
+    <nd ref="2392398598"/>
+    <nd ref="324399273"/>
+    <nd ref="14569874"/>
+    <nd ref="2973571869"/>
+    <nd ref="2973571870"/>
+    <nd ref="2973571868"/>
+    <nd ref="11657918353"/>
+    <nd ref="2973571867"/>
+    <nd ref="2973571865"/>
+    <nd ref="2973571866"/>
+    <nd ref="14569873"/>
+    <nd ref="2973571864"/>
+    <nd ref="2973571863"/>
+    <nd ref="2973571862"/>
+    <nd ref="3710994199"/>
+    <nd ref="14569812"/>
+    <nd ref="2629284826"/>
+    <nd ref="2973571861"/>
+    <nd ref="2629284827"/>
+    <nd ref="2973571860"/>
+    <nd ref="14569811"/>
+    <nd ref="2973571859"/>
+    <nd ref="2973571857"/>
+    <nd ref="2973571858"/>
+    <nd ref="691131804"/>
+    <nd ref="2973571854"/>
+    <nd ref="2973571855"/>
+    <nd ref="2973571856"/>
+    <nd ref="14569810"/>
+    <nd ref="2973571853"/>
+    <nd ref="2973571851"/>
+    <nd ref="2973571852"/>
+    <nd ref="2309480735"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A606"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="73814563" version="6" timestamp="2022-12-09T13:52:09Z" changeset="129902100" uid="705850" user="Cebderby">
+    <nd ref="1138712511"/>
+    <nd ref="1138712489"/>
+    <nd ref="115258298"/>
+    <nd ref="115258301"/>
+    <nd ref="3945336515"/>
+    <nd ref="115258302"/>
+    <nd ref="115258304"/>
+    <nd ref="10248943900"/>
+    <nd ref="115258309"/>
+    <tag k="destination:ref" v="A46"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+  </way>
+  <way id="88442057" version="6" timestamp="2016-08-28T18:22:21Z" changeset="41761540" uid="207845" user="will_p">
+    <nd ref="1027228652"/>
+    <nd ref="3945351801"/>
+    <nd ref="3945351789"/>
+    <nd ref="3945351800"/>
+    <nd ref="3945351785"/>
+    <nd ref="256318146"/>
+    <nd ref="3945351767"/>
+    <nd ref="3945351778"/>
+    <nd ref="1138712435"/>
+    <nd ref="3945351790"/>
+    <nd ref="4371811125"/>
+    <nd ref="256318148"/>
+    <nd ref="3945351771"/>
+    <nd ref="1572884065"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Station Road"/>
+  </way>
+  <way id="98413634" version="5" timestamp="2016-08-28T18:22:22Z" changeset="41761540" uid="207845" user="will_p">
+    <nd ref="1138712010"/>
+    <nd ref="1138712262"/>
+    <nd ref="3945351794"/>
+    <nd ref="4371811699"/>
+    <nd ref="1138712087"/>
+    <nd ref="1138712189"/>
+    <nd ref="1138712084"/>
+    <nd ref="1138712056"/>
+    <nd ref="1138712061"/>
+    <nd ref="691131805"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Top Green"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="98413638" version="5" timestamp="2019-12-28T19:17:24Z" changeset="78963379" uid="84681" user="SK53">
+    <nd ref="1138712328"/>
+    <nd ref="1138711961"/>
+    <nd ref="1138711983"/>
+    <nd ref="1138712024"/>
+    <nd ref="7091437212"/>
+    <nd ref="1138712112"/>
+    <nd ref="1138711955"/>
+    <nd ref="1138712027"/>
+    <nd ref="1138712290"/>
+    <nd ref="1138712391"/>
+    <nd ref="4371811714"/>
+    <nd ref="4371811713"/>
+    <nd ref="1138711982"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rectory Drive"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="98413641" version="3" timestamp="2016-03-07T19:37:18Z" changeset="37672241" uid="84681" user="SK53">
+    <nd ref="1138712036"/>
+    <nd ref="1138712258"/>
+    <nd ref="1138711978"/>
+    <nd ref="1138712079"/>
+    <tag k="designation" v="byway"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Church Lane"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:designation" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="98413643" version="7" timestamp="2022-12-09T13:52:09Z" changeset="129902100" uid="705850" user="Cebderby">
+    <nd ref="1138712314"/>
+    <nd ref="10248943886"/>
+    <nd ref="10248943885"/>
+    <nd ref="1138712191"/>
+    <nd ref="1138712350"/>
+    <nd ref="1138712288"/>
+    <nd ref="1138712289"/>
+    <nd ref="1138711980"/>
+    <nd ref="10248918289"/>
+    <nd ref="873578033"/>
+    <nd ref="1138712187"/>
+    <nd ref="1138712315"/>
+    <nd ref="10248943882"/>
+    <nd ref="1138712186"/>
+    <nd ref="1138712428"/>
+    <nd ref="1138712527"/>
+    <nd ref="1138712229"/>
+    <nd ref="1138712403"/>
+    <nd ref="1138712351"/>
+    <nd ref="10248943884"/>
+    <nd ref="10248943883"/>
+    <nd ref="1138712302"/>
+    <nd ref="1138712123"/>
+    <nd ref="1138712314"/>
+    <tag k="addr:city" v="Upper Broughton"/>
+    <tag k="addr:housename" v="Willoughby House"/>
+    <tag k="addr:postcode" v="LE14 3BH"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Teen Challenge UK, Willoughby House"/>
+    <tag k="note" v="Teen Challenge UK - Men's Centre, Leadership Academy &amp; Headquarters"/>
+    <tag k="old_name" v="Best Western"/>
+    <tag k="source" v="Site Survey"/>
+  </way>
+  <way id="98413660" version="3" timestamp="2016-03-07T19:37:19Z" changeset="37672241" uid="84681" user="SK53">
+    <nd ref="1138712084"/>
+    <nd ref="4046297396"/>
+    <nd ref="4046297479"/>
+    <nd ref="4046297408"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Top Green"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="98413661" version="4" timestamp="2016-03-08T22:35:43Z" changeset="37696469" uid="84681" user="SK53">
+    <nd ref="1138712010"/>
+    <nd ref="1138712146"/>
+    <nd ref="1138712463"/>
+    <nd ref="256318157"/>
+    <nd ref="1138712457"/>
+    <nd ref="4046297446"/>
+    <nd ref="1138712491"/>
+    <nd ref="4046293777"/>
+    <nd ref="2973571845"/>
+    <nd ref="1138712397"/>
+    <nd ref="14569798"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Bottom Green"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="98413662" version="3" timestamp="2012-01-01T17:37:55Z" changeset="10263093" uid="5926" user="c2r">
+    <nd ref="1138712459"/>
+    <nd ref="1138712252"/>
+    <nd ref="1138711986"/>
+    <nd ref="1138712037"/>
+    <nd ref="1138712046"/>
+    <nd ref="1138711974"/>
+    <nd ref="1138712274"/>
+    <nd ref="1138712059"/>
+    <nd ref="1138712210"/>
+    <nd ref="1572932598"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Folly Hall Lane"/>
+    <tag k="noexit" v="yes"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="143736346" version="10" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="1572884063"/>
+    <nd ref="4046297472"/>
+    <nd ref="3945351787"/>
+    <nd ref="3945351775"/>
+    <nd ref="1138712181"/>
+    <nd ref="3945351779"/>
+    <nd ref="256318150"/>
+    <nd ref="3945351796"/>
+    <nd ref="3945351774"/>
+    <nd ref="2031528144"/>
+    <nd ref="3945351780"/>
+    <nd ref="256318153"/>
+    <nd ref="3945351782"/>
+    <nd ref="2973571842"/>
+    <nd ref="2973571841"/>
+    <nd ref="1138712394"/>
+    <nd ref="3710994201"/>
+    <nd ref="2309483509"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Station Road"/>
+  </way>
+  <way id="143736347" version="2" timestamp="2012-11-25T10:18:59Z" changeset="14025625" uid="188349" user="MatSmith">
+    <nd ref="1572884065"/>
+    <nd ref="1572884063"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Station Road"/>
+  </way>
+  <way id="150997459" version="21" timestamp="2023-09-05T21:09:03Z" changeset="140868858" uid="13341565" user="Falsernet">
+    <nd ref="5005992423"/>
+    <nd ref="762629220"/>
+    <nd ref="5005992437"/>
+    <nd ref="5005992424"/>
+    <nd ref="1203890292"/>
+    <nd ref="26955517"/>
+    <nd ref="5006011208"/>
+    <nd ref="1203890284"/>
+    <nd ref="26955514"/>
+    <nd ref="27030307"/>
+    <nd ref="11170575527"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A46"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="Stats19"/>
+  </way>
+  <way id="157959534" version="5" timestamp="2021-12-26T21:28:40Z" changeset="115400776" uid="24119" user="Mauls">
+    <nd ref="1701785314"/>
+    <nd ref="1701785312"/>
+    <nd ref="1701785315"/>
+    <nd ref="1701785313"/>
+    <nd ref="1701785314"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Upper Broughton Station"/>
+    <tag k="wikidata" v="Q16902362"/>
+    <tag k="wikipedia" v="en:Upper Broughton railway station"/>
+  </way>
+  <way id="221968598" version="7" timestamp="2024-01-12T16:10:05Z" changeset="146187159" uid="242345" user="confusedbuffalo">
+    <nd ref="691131806"/>
+    <nd ref="14569797"/>
+    <nd ref="691131807"/>
+    <nd ref="1858307260"/>
+    <nd ref="1858307294"/>
+    <nd ref="14569796"/>
+    <nd ref="1858307299"/>
+    <nd ref="1858307271"/>
+    <nd ref="14569795"/>
+    <nd ref="1858307196"/>
+    <nd ref="1858307146"/>
+    <nd ref="14569794"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="ref" v="A606"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="221971285" version="2" timestamp="2016-03-07T19:37:17Z" changeset="37672241" uid="84681" user="SK53">
+    <nd ref="2309480737"/>
+    <nd ref="2309480738"/>
+    <nd ref="2309480736"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chapel Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="221971598" version="5" timestamp="2022-10-25T13:19:09Z" changeset="128036560" uid="350183" user="Belseybob">
+    <nd ref="2309480735"/>
+    <nd ref="14569806"/>
+    <nd ref="2309475832"/>
+    <nd ref="14569809"/>
+    <nd ref="14569805"/>
+    <nd ref="2309475814"/>
+    <nd ref="14569808"/>
+    <nd ref="2973571850"/>
+    <nd ref="1138712207"/>
+    <nd ref="2309475818"/>
+    <nd ref="14569804"/>
+    <nd ref="2973571849"/>
+    <nd ref="14569803"/>
+    <nd ref="691131805"/>
+    <nd ref="4371811718"/>
+    <nd ref="1138712301"/>
+    <nd ref="1138712004"/>
+    <nd ref="2973571848"/>
+    <nd ref="1138712377"/>
+    <nd ref="1138712453"/>
+    <nd ref="14569802"/>
+    <nd ref="1138711982"/>
+    <nd ref="14569801"/>
+    <nd ref="4371811709"/>
+    <nd ref="1138712293"/>
+    <nd ref="2973571847"/>
+    <nd ref="14569799"/>
+    <nd ref="2309480736"/>
+    <nd ref="7015466766"/>
+    <nd ref="1138711973"/>
+    <nd ref="14569798"/>
+    <nd ref="2973571846"/>
+    <nd ref="1138712154"/>
+    <nd ref="2309475838"/>
+    <nd ref="1138712156"/>
+    <nd ref="691131806"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="ref" v="A606"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="221972628" version="7" timestamp="2020-03-05T07:25:30Z" changeset="81809346" uid="8817959" user="YaStratospheric">
+    <nd ref="2309483509"/>
+    <nd ref="2309483510"/>
+    <nd ref="4046297505"/>
+    <nd ref="1138712299"/>
+    <nd ref="2309483508"/>
+    <nd ref="7265639787"/>
+    <nd ref="7265630483"/>
+    <nd ref="7265630478"/>
+    <nd ref="3945351770"/>
+    <nd ref="7265630452"/>
+    <nd ref="2309493137"/>
+    <nd ref="7265630457"/>
+    <nd ref="1138712329"/>
+    <nd ref="2973571843"/>
+    <nd ref="1138712376"/>
+    <nd ref="2973571844"/>
+    <nd ref="256318155"/>
+    <nd ref="1138711952"/>
+    <nd ref="3945351797"/>
+    <nd ref="1138712010"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Station Road"/>
+  </way>
+  <way id="221972698" version="2" timestamp="2016-03-07T19:37:17Z" changeset="37672241" uid="84681" user="SK53">
+    <nd ref="2309493138"/>
+    <nd ref="2309493140"/>
+    <nd ref="2309493139"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sulney Close"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="221972699" version="2" timestamp="2016-03-07T19:37:17Z" changeset="37672241" uid="84681" user="SK53">
+    <nd ref="2309493140"/>
+    <nd ref="2309493137"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sulney Close"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="227665230" version="3" timestamp="2013-06-27T15:19:29Z" changeset="16727993" uid="1431482" user="JonOrchard">
+    <nd ref="2363140898"/>
+    <nd ref="2363140899"/>
+    <nd ref="2363140900"/>
+    <nd ref="2363140901"/>
+    <nd ref="2363140902"/>
+    <nd ref="2363140903"/>
+    <nd ref="2363140898"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="John Brook Sawmill"/>
+  </way>
+  <way id="227665231" version="2" timestamp="2013-06-27T15:15:30Z" changeset="16727947" uid="1431482" user="JonOrchard">
+    <nd ref="2363140904"/>
+    <nd ref="2363140905"/>
+    <nd ref="2363140906"/>
+    <nd ref="2363140907"/>
+    <nd ref="2363140904"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Waring Waste"/>
+  </way>
+  <way id="227665574" version="1" timestamp="2013-06-27T15:16:27Z" changeset="16727957" uid="1431482" user="JonOrchard">
+    <nd ref="2363144357"/>
+    <nd ref="2363144358"/>
+    <nd ref="2363144360"/>
+    <nd ref="2363144361"/>
+    <nd ref="2363144357"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Bungalow"/>
+  </way>
+  <way id="227665866" version="2" timestamp="2020-08-26T19:47:09Z" changeset="89988850" uid="9059634" user="miller745">
+    <nd ref="2363146633"/>
+    <nd ref="2363146635"/>
+    <nd ref="2363146638"/>
+    <nd ref="2363146642"/>
+    <nd ref="2363146633"/>
+    <tag k="building" v="hangar"/>
+    <tag k="name" v="Nottingham Helicopters Hangar"/>
+  </way>
+  <way id="330836868" version="2" timestamp="2022-08-10T17:53:29Z" changeset="124742033" uid="350183" user="Belseybob">
+    <nd ref="3378419062"/>
+    <nd ref="3378419059"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="330836871" version="2" timestamp="2022-08-10T17:53:35Z" changeset="124742033" uid="350183" user="Belseybob">
+    <nd ref="3378419026"/>
+    <nd ref="3378419025"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="330836877" version="2" timestamp="2022-08-04T16:04:17Z" changeset="124487764" uid="350183" user="Belseybob">
+    <nd ref="3378419033"/>
+    <nd ref="3378419038"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+  </way>
+  <way id="330838446" version="1" timestamp="2015-03-01T20:16:47Z" changeset="29184981" uid="84681" user="SK53">
+    <nd ref="3378434748"/>
+    <nd ref="2312437404"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="330847784" version="2" timestamp="2022-09-21T13:26:18Z" changeset="126465391" uid="350183" user="Belseybob">
+    <nd ref="3378588811"/>
+    <nd ref="2616051950"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="330847785" version="2" timestamp="2022-09-21T08:58:32Z" changeset="126450569" uid="350183" user="Belseybob">
+    <nd ref="3378588814"/>
+    <nd ref="2616051156"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="330847786" version="2" timestamp="2022-08-30T07:59:15Z" changeset="125554774" uid="350183" user="Belseybob">
+    <nd ref="3378588813"/>
+    <nd ref="3378588808"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="330847787" version="2" timestamp="2022-08-30T07:59:19Z" changeset="125554774" uid="350183" user="Belseybob">
+    <nd ref="3378588830"/>
+    <nd ref="2616051971"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="334365662" version="10" timestamp="2022-10-28T19:15:28Z" changeset="128188196" uid="13666626" user="RedAuburn">
+    <nd ref="27030290"/>
+    <nd ref="3945336513"/>
+    <nd ref="3945336500"/>
+    <nd ref="3945336548"/>
+    <nd ref="873578056"/>
+    <nd ref="1138712177"/>
+    <nd ref="27030288"/>
+    <nd ref="3378588823"/>
+    <nd ref="27030286"/>
+    <nd ref="3378588826"/>
+    <nd ref="5006047176"/>
+    <nd ref="3945336489"/>
+    <nd ref="5006047177"/>
+    <nd ref="27030284"/>
+    <nd ref="3945336473"/>
+    <nd ref="3945336493"/>
+    <nd ref="3945336470"/>
+    <nd ref="3945336516"/>
+    <nd ref="27030282"/>
+    <nd ref="3945336510"/>
+    <nd ref="27030311"/>
+    <nd ref="27030281"/>
+    <nd ref="3945336503"/>
+    <nd ref="3945336535"/>
+    <nd ref="27030280"/>
+    <nd ref="27030277"/>
+    <nd ref="27030275"/>
+    <nd ref="3945336477"/>
+    <nd ref="3945336539"/>
+    <nd ref="27030276"/>
+    <nd ref="27269567"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A46"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="Stats19"/>
+  </way>
+  <way id="391331709" version="8" timestamp="2023-09-05T21:09:03Z" changeset="140868858" uid="13341565" user="Falsernet">
+    <nd ref="115258294"/>
+    <nd ref="873578053"/>
+    <nd ref="3945336494"/>
+    <nd ref="3945336521"/>
+    <nd ref="3945336532"/>
+    <nd ref="3945336514"/>
+    <nd ref="873578056"/>
+    <tag k="destination:ref" v="A46"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+  </way>
+  <way id="402210736" version="1" timestamp="2016-03-07T19:37:13Z" changeset="37672241" uid="84681" user="SK53">
+    <nd ref="4046293777"/>
+    <nd ref="4046293788"/>
+    <nd ref="4046293778"/>
+    <tag k="designation" v="byway"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Well Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:designation" v="survey"/>
+    <tag k="source:geometry" v="GPS"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="402210737" version="1" timestamp="2016-03-07T19:37:14Z" changeset="37672241" uid="84681" user="SK53">
+    <nd ref="4046297420"/>
+    <nd ref="4046293782"/>
+    <nd ref="4046293781"/>
+    <nd ref="4046293783"/>
+    <nd ref="4046293786"/>
+    <nd ref="4046293785"/>
+    <nd ref="4046293787"/>
+    <nd ref="4046297389"/>
+    <nd ref="4046297420"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Well Lane"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:geometry" v="Bing"/>
+  </way>
+  <way id="402210745" version="1" timestamp="2016-03-07T19:37:14Z" changeset="37672241" uid="84681" user="SK53">
+    <nd ref="1138712377"/>
+    <nd ref="4046297408"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Top Green"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="402210748" version="6" timestamp="2023-11-30T19:44:16Z" changeset="144638015" uid="504708" user="HillWithSmallFields">
+    <nd ref="4046297497"/>
+    <nd ref="4371811722"/>
+    <nd ref="4371811721"/>
+    <nd ref="4046297438"/>
+    <nd ref="4046297447"/>
+    <nd ref="4046297418"/>
+    <nd ref="4046297457"/>
+    <nd ref="4046297478"/>
+    <nd ref="4046297391"/>
+    <nd ref="4046297494"/>
+    <nd ref="4046297499"/>
+    <nd ref="4046297498"/>
+    <nd ref="4046297502"/>
+    <nd ref="4046297392"/>
+    <nd ref="4046297504"/>
+    <nd ref="4046297506"/>
+    <nd ref="4046293779"/>
+    <nd ref="4046297497"/>
+    <tag k="HE_ref" v="1264583"/>
+    <tag k="addr:postcode" v="LE14 3BF"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="St Luke"/>
+    <tag k="ref:dove" v="16722"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:geometry" v="Bing;survey"/>
+    <tag k="source:listed_status" v="Historic England"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="wikidata" v="Q15979392"/>
+  </way>
+  <way id="402210750" version="4" timestamp="2024-04-26T00:26:30Z" changeset="150517685" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="4046297428"/>
+    <nd ref="4046297431"/>
+    <nd ref="4046297434"/>
+    <nd ref="4046297430"/>
+    <nd ref="4046297427"/>
+    <nd ref="4046297428"/>
+    <tag k="addr:postcode" v="LE14 3BL"/>
+    <tag k="alt_name" v="The Village Hall"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Upper Broughton Village Hall"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="402210751" version="6" timestamp="2025-05-10T06:22:45Z" changeset="166055613" uid="417748" user="Dave Venables">
+    <nd ref="4046297437"/>
+    <nd ref="11649788764"/>
+    <nd ref="11649788763"/>
+    <nd ref="4046297433"/>
+    <nd ref="4046297429"/>
+    <nd ref="4046297435"/>
+    <nd ref="11649788766"/>
+    <nd ref="11649788767"/>
+    <nd ref="11649788765"/>
+    <nd ref="11649788768"/>
+    <nd ref="11649839369"/>
+    <nd ref="11649839370"/>
+    <nd ref="11649839371"/>
+    <nd ref="4046297436"/>
+    <nd ref="4046297460"/>
+    <nd ref="4046297468"/>
+    <nd ref="11649788762"/>
+    <nd ref="11649788761"/>
+    <nd ref="4046297459"/>
+    <nd ref="4046297462"/>
+    <nd ref="4046297465"/>
+    <nd ref="4046297437"/>
+    <tag k="addr:city" v="Melton Mowbray"/>
+    <tag k="addr:postcode" v="LE14 3BG"/>
+    <tag k="addr:street" v="Main Road"/>
+    <tag k="addr:village" v="Upper Broughton"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/tapandruncw"/>
+    <tag k="fhrs:id" v="1080195"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Tap and Run"/>
+    <tag k="old_name" v="The Golden Fleece"/>
+    <tag k="operator" v="The Cat Wickets Pub Company"/>
+    <tag k="phone" v="+44 1664 820407"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="website" v="https://www.tapandrun.co.uk/"/>
+  </way>
+  <way id="402210759" version="1" timestamp="2016-03-07T19:37:15Z" changeset="37672241" uid="84681" user="SK53">
+    <nd ref="1138712079"/>
+    <nd ref="2309475763"/>
+    <nd ref="2309475752"/>
+    <nd ref="1138712525"/>
+    <nd ref="1138712207"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Colonel's Lane"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:designation" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="403366919" version="9" timestamp="2023-09-05T21:09:03Z" changeset="140868858" uid="13341565" user="Falsernet">
+    <nd ref="2616051971"/>
+    <nd ref="27030303"/>
+    <nd ref="3378588808"/>
+    <nd ref="27030300"/>
+    <nd ref="3378588837"/>
+    <nd ref="27030298"/>
+    <nd ref="3378419023"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A46"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="Stats19"/>
+  </way>
+  <way id="439546725" version="2" timestamp="2023-10-16T21:01:16Z" changeset="142684016" uid="9451067" user="b-jazz-bot">
+    <nd ref="4371811132"/>
+    <nd ref="4371811131"/>
+    <nd ref="4371811141"/>
+    <nd ref="4371811142"/>
+    <nd ref="4371811132"/>
+    <tag k="addr:street" v="Station Road"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Carrier Landscapes"/>
+    <tag k="office" v="yes"/>
+    <tag k="website" v="https://www.carrierlandscapes.co.uk/"/>
+  </way>
+  <way id="439546730" version="1" timestamp="2016-08-28T18:22:17Z" changeset="41761540" uid="207845" user="will_p">
+    <nd ref="4371811709"/>
+    <nd ref="4371811710"/>
+    <nd ref="4371811712"/>
+    <nd ref="4371811714"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="501686219" version="1" timestamp="2017-06-19T12:01:09Z" changeset="49665141" uid="1431482" user="JonOrchard">
+    <nd ref="4924203688"/>
+    <nd ref="4924203689"/>
+    <nd ref="4924203690"/>
+    <nd ref="4924203691"/>
+    <nd ref="4924203692"/>
+    <nd ref="4924203693"/>
+    <nd ref="4924203688"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Top Cottage"/>
+  </way>
+  <way id="501686221" version="1" timestamp="2017-06-19T12:01:09Z" changeset="49665141" uid="1431482" user="JonOrchard">
+    <nd ref="4924203694"/>
+    <nd ref="4924203695"/>
+    <nd ref="4924203696"/>
+    <nd ref="4924203697"/>
+    <nd ref="4924203698"/>
+    <nd ref="4924203699"/>
+    <nd ref="4924203700"/>
+    <nd ref="4924203701"/>
+    <nd ref="4924203694"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Top Farm"/>
+  </way>
+  <way id="501687008" version="1" timestamp="2017-06-19T12:05:06Z" changeset="49665261" uid="1431482" user="JonOrchard">
+    <nd ref="4924211718"/>
+    <nd ref="4924211719"/>
+    <nd ref="4924211720"/>
+    <nd ref="4924212621"/>
+    <nd ref="4924211718"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Brookside Cottage"/>
+  </way>
+  <way id="628796891" version="7" timestamp="2023-09-05T21:09:03Z" changeset="140868858" uid="13341565" user="Falsernet">
+    <nd ref="3378419023"/>
+    <nd ref="3378419086"/>
+    <nd ref="27030296"/>
+    <nd ref="3378419062"/>
+    <nd ref="3378419082"/>
+    <nd ref="3378419022"/>
+    <nd ref="27030319"/>
+    <nd ref="3378419025"/>
+    <nd ref="27030294"/>
+    <nd ref="3378419033"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A46"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="Stats19"/>
+  </way>
+  <way id="730772113" version="5" timestamp="2022-10-28T19:15:52Z" changeset="128188221" uid="13666626" user="RedAuburn">
+    <nd ref="3378419033"/>
+    <nd ref="5006044600"/>
+    <nd ref="5006044599"/>
+    <nd ref="3378419053"/>
+    <nd ref="27030292"/>
+    <nd ref="3378419027"/>
+    <nd ref="3378419069"/>
+    <nd ref="27030290"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A46"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="Stats19"/>
+  </way>
+  <way id="759216732" version="4" timestamp="2022-01-23T18:51:12Z" changeset="116511261" uid="5589" user="user_5589">
+    <nd ref="7091342648"/>
+    <nd ref="7091342649"/>
+    <nd ref="7091342650"/>
+    <nd ref="7091342651"/>
+    <nd ref="7091342652"/>
+    <nd ref="7091342653"/>
+    <nd ref="7091342648"/>
+    <tag k="building" v="yes"/>
+    <tag k="landuse" v="industrial"/>
+    <tag k="name" v="The Sawmill Biomass Plant"/>
+    <tag k="operator" v="Veolia Energy Services"/>
+    <tag k="plant:output:electricity" v="6.8 MW"/>
+    <tag k="plant:source" v="biomass"/>
+    <tag k="power" v="plant"/>
+    <tag k="repd:id" v="5752"/>
+  </way>
+  <way id="1120570142" version="2" timestamp="2022-12-09T13:52:09Z" changeset="129902100" uid="705850" user="Cebderby">
+    <nd ref="115258294"/>
+    <nd ref="1138712511"/>
+    <tag k="destination:ref" v="A46"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lit" v="no"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="1205328190" version="1" timestamp="2023-09-05T21:09:03Z" changeset="140868858" uid="13341565" user="Falsernet">
+    <nd ref="11170575527"/>
+    <nd ref="3378434748"/>
+    <nd ref="2616051156"/>
+    <nd ref="2616051950"/>
+    <nd ref="2616051971"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A46"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="Stats19"/>
+  </way>
+
+</osm>

@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:36:51Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="267426619" lat="53.0894868" lon="-0.8774114" version="4" timestamp="2025-06-02T12:45:08Z" changeset="167090688" uid="6714692" user="Fingrmouse"/>
+  <node id="366391130" lat="53.0948414" lon="-0.9128841" version="10" timestamp="2025-05-16T16:25:48Z" changeset="166359419" uid="6714692" user="Fingrmouse"/>
+  <node id="476307215" lat="53.0824297" lon="-0.9386148" version="5" timestamp="2025-05-16T16:25:48Z" changeset="166359419" uid="6714692" user="Fingrmouse"/>
+  <node id="8608554981" lat="53.0793382" lon="-0.9407333" version="3" timestamp="2024-11-26T11:22:39Z" changeset="159611300" uid="6714692" user="Fingrmouse"/>
+  <way id="24601153" version="21" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="267426733"/>
+    <nd ref="476307211"/>
+    <nd ref="8790363662"/>
+    <nd ref="476307212"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Upton Road"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="npe"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="29431359" version="13" timestamp="2025-06-03T11:54:49Z" changeset="167132047" uid="6714692" user="Fingrmouse">
+    <nd ref="324368404"/>
+    <nd ref="12883393550"/>
+    <nd ref="324368441"/>
+    <nd ref="12883406403"/>
+    <nd ref="12883393551"/>
+    <nd ref="12883393595"/>
+    <nd ref="324368443"/>
+    <nd ref="490099409"/>
+    <nd ref="12883296574"/>
+    <nd ref="324368444"/>
+    <nd ref="1950457164"/>
+    <nd ref="8616904891"/>
+    <nd ref="490099428"/>
+    <nd ref="3918464046"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Hockerton Road"/>
+    <tag k="source" v="npe"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="39727733" version="10" timestamp="2025-05-16T16:25:48Z" changeset="166359419" uid="6714692" user="Fingrmouse">
+    <nd ref="476307215"/>
+    <nd ref="3050677005"/>
+    <nd ref="537785140"/>
+    <nd ref="476307216"/>
+    <nd ref="8608554984"/>
+    <nd ref="12842567013"/>
+    <nd ref="535261444"/>
+    <nd ref="476307217"/>
+    <nd ref="8608554983"/>
+    <nd ref="8608554980"/>
+    <nd ref="476307212"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Workhouse Lane"/>
+  </way>
+  <way id="40459851" version="5" timestamp="2024-10-15T14:15:56Z" changeset="157923269" uid="6714692" user="Fingrmouse">
+    <nd ref="12252702065"/>
+    <nd ref="12253102009"/>
+    <nd ref="12253102005"/>
+    <nd ref="12252702077"/>
+    <nd ref="12253101987"/>
+    <nd ref="12252702076"/>
+    <nd ref="12252702075"/>
+    <nd ref="8359624971"/>
+    <nd ref="12252702078"/>
+    <nd ref="12252702079"/>
+    <nd ref="12252702080"/>
+    <nd ref="8359624979"/>
+    <nd ref="490073895"/>
+    <nd ref="490067874"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mill Lane"/>
+  </way>
+  <way id="40460025" version="6" timestamp="2025-06-02T14:27:58Z" changeset="167095016" uid="6714692" user="Fingrmouse">
+    <nd ref="490084693"/>
+    <nd ref="8790364059"/>
+    <nd ref="12881065052"/>
+    <nd ref="8790364058"/>
+    <nd ref="8790364057"/>
+    <nd ref="12881065055"/>
+    <nd ref="490082845"/>
+    <nd ref="490082860"/>
+    <nd ref="267426644"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Close"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="40460418" version="5" timestamp="2025-06-02T14:27:58Z" changeset="167095016" uid="6714692" user="Fingrmouse">
+    <nd ref="490094685"/>
+    <nd ref="12252702654"/>
+    <nd ref="12252702655"/>
+    <nd ref="12881065016"/>
+    <nd ref="490094693"/>
+    <nd ref="12881065018"/>
+    <nd ref="12881065022"/>
+    <nd ref="12881065021"/>
+    <nd ref="12881065023"/>
+    <nd ref="490084669"/>
+    <nd ref="12881065025"/>
+    <nd ref="491556172"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Lane"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="40460474" version="7" timestamp="2025-06-02T14:27:58Z" changeset="167095016" uid="6714692" user="Fingrmouse">
+    <nd ref="490089918"/>
+    <nd ref="12881064990"/>
+    <nd ref="12881064993"/>
+    <nd ref="12881064987"/>
+    <nd ref="490089790"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Walk"/>
+    <tag k="oneway" v="no"/>
+    <tag k="prow_ref" v="213/13"/>
+    <tag k="source" v="gps"/>
+  </way>
+  <way id="40591296" version="3" timestamp="2025-06-02T14:27:58Z" changeset="167095016" uid="6714692" user="Fingrmouse">
+    <nd ref="12252664850"/>
+    <nd ref="12881065063"/>
+    <nd ref="12881065332"/>
+    <nd ref="12252664849"/>
+    <nd ref="12881065060"/>
+    <nd ref="492823329"/>
+    <nd ref="492823178"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="41223598" version="12" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="267426628"/>
+    <nd ref="8790364092"/>
+    <nd ref="8790364091"/>
+    <nd ref="267426629"/>
+    <nd ref="8790364090"/>
+    <nd ref="8790364089"/>
+    <nd ref="267426630"/>
+    <nd ref="3751475032"/>
+    <nd ref="3751475033"/>
+    <nd ref="3751475035"/>
+    <nd ref="8790364088"/>
+    <nd ref="3751475031"/>
+    <nd ref="267426631"/>
+    <nd ref="8790364087"/>
+    <nd ref="267426632"/>
+    <nd ref="8790364086"/>
+    <nd ref="3751475034"/>
+    <nd ref="8790364085"/>
+    <nd ref="8790364084"/>
+    <nd ref="8790364083"/>
+    <nd ref="267426633"/>
+    <nd ref="8360066718"/>
+    <nd ref="8790364082"/>
+    <nd ref="8790364081"/>
+    <nd ref="267426635"/>
+    <nd ref="8790364080"/>
+    <nd ref="8790364079"/>
+    <nd ref="8790364078"/>
+    <nd ref="8790364077"/>
+    <nd ref="267426634"/>
+    <nd ref="8790364076"/>
+    <nd ref="8790364075"/>
+    <nd ref="12881065115"/>
+    <nd ref="267426637"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="voice"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="42803417" version="12" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="8608554981"/>
+    <nd ref="3998152352"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Upton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="npe"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="60694472" version="16" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="267426650"/>
+    <nd ref="8790364045"/>
+    <nd ref="267426646"/>
+    <nd ref="8790364044"/>
+    <nd ref="12883021970"/>
+    <nd ref="12252664829"/>
+    <nd ref="12883021468"/>
+    <nd ref="8790364043"/>
+    <nd ref="490101794"/>
+    <nd ref="7169503397"/>
+    <nd ref="12881064997"/>
+    <nd ref="490089790"/>
+    <nd ref="267426660"/>
+    <nd ref="8790364042"/>
+    <nd ref="12881064984"/>
+    <nd ref="8790364041"/>
+    <nd ref="12881064981"/>
+    <nd ref="267426658"/>
+    <nd ref="267426665"/>
+    <nd ref="3050695135"/>
+    <nd ref="8790364040"/>
+    <nd ref="12883021379"/>
+    <nd ref="267426667"/>
+    <nd ref="12881064939"/>
+    <nd ref="8790364039"/>
+    <nd ref="12883021377"/>
+    <nd ref="267426661"/>
+    <nd ref="8790364038"/>
+    <nd ref="12883021359"/>
+    <nd ref="8616914722"/>
+    <nd ref="491528315"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="voice"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="60694473" version="17" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="267426685"/>
+    <nd ref="8790364129"/>
+    <nd ref="8790364130"/>
+    <nd ref="8790364131"/>
+    <nd ref="8790364132"/>
+    <nd ref="8790364133"/>
+    <nd ref="267426696"/>
+    <nd ref="8790364134"/>
+    <nd ref="8790364135"/>
+    <nd ref="267426694"/>
+    <nd ref="8790364136"/>
+    <nd ref="8790364137"/>
+    <nd ref="8790364138"/>
+    <nd ref="267426693"/>
+    <nd ref="8790364139"/>
+    <nd ref="8790364140"/>
+    <nd ref="8790364141"/>
+    <nd ref="267426691"/>
+    <nd ref="8790364142"/>
+    <nd ref="8790364143"/>
+    <nd ref="8790364144"/>
+    <nd ref="2217234268"/>
+    <nd ref="8790363708"/>
+    <nd ref="8790363698"/>
+    <nd ref="267426704"/>
+    <nd ref="267426702"/>
+    <nd ref="8653613347"/>
+    <nd ref="8790363697"/>
+    <nd ref="8790363696"/>
+    <nd ref="267426700"/>
+    <nd ref="8790363695"/>
+    <nd ref="8790363694"/>
+    <nd ref="8359866277"/>
+    <nd ref="8790363693"/>
+    <nd ref="8790363692"/>
+    <nd ref="8790363691"/>
+    <nd ref="267426698"/>
+    <nd ref="267426711"/>
+    <nd ref="8790363690"/>
+    <nd ref="8790363689"/>
+    <nd ref="8790480492"/>
+    <nd ref="8790363688"/>
+    <nd ref="8790363687"/>
+    <nd ref="267426709"/>
+    <nd ref="8790363686"/>
+    <nd ref="8790363685"/>
+    <nd ref="8790363684"/>
+    <nd ref="267426708"/>
+    <nd ref="8790363683"/>
+    <nd ref="8790480438"/>
+    <nd ref="8790363682"/>
+    <nd ref="267426705"/>
+    <nd ref="8790363681"/>
+    <nd ref="8790363680"/>
+    <nd ref="8790363679"/>
+    <nd ref="1940697020"/>
+    <nd ref="539066153"/>
+    <nd ref="8790363675"/>
+    <nd ref="267426718"/>
+    <nd ref="8790363674"/>
+    <nd ref="8790363673"/>
+    <nd ref="8790363672"/>
+    <nd ref="8790363670"/>
+    <nd ref="267426716"/>
+    <nd ref="11901308707"/>
+    <nd ref="8790363668"/>
+    <nd ref="8790363667"/>
+    <nd ref="267426714"/>
+    <nd ref="8790363666"/>
+    <nd ref="8359745496"/>
+    <nd ref="6880619683"/>
+    <nd ref="8790363665"/>
+    <nd ref="267426713"/>
+    <nd ref="8790363664"/>
+    <nd ref="267426731"/>
+    <nd ref="8790363663"/>
+    <nd ref="267426733"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Upton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:ref" v="voice"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="60694474" version="15" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="491528315"/>
+    <nd ref="8790364037"/>
+    <nd ref="8790364036"/>
+    <nd ref="12883021340"/>
+    <nd ref="12881064947"/>
+    <nd ref="12883021337"/>
+    <nd ref="8790364035"/>
+    <nd ref="12883021335"/>
+    <nd ref="12883021329"/>
+    <nd ref="267426663"/>
+    <nd ref="12883020729"/>
+    <nd ref="8790364034"/>
+    <nd ref="12881064965"/>
+    <nd ref="12883021258"/>
+    <nd ref="12883020731"/>
+    <nd ref="8790364033"/>
+    <nd ref="12881064976"/>
+    <nd ref="12883021229"/>
+    <nd ref="8790364032"/>
+    <nd ref="12881064973"/>
+    <nd ref="267426673"/>
+    <nd ref="12252702161"/>
+    <nd ref="12883021223"/>
+    <nd ref="8790364031"/>
+    <nd ref="12252702157"/>
+    <nd ref="8790364030"/>
+    <nd ref="12883021218"/>
+    <nd ref="12883021193"/>
+    <nd ref="8790364029"/>
+    <nd ref="12883021189"/>
+    <nd ref="8790364028"/>
+    <nd ref="12252702065"/>
+    <nd ref="12883021045"/>
+    <nd ref="267426674"/>
+    <nd ref="491528195"/>
+    <nd ref="12883021050"/>
+    <nd ref="8790364026"/>
+    <nd ref="12253102011"/>
+    <nd ref="8790364025"/>
+    <nd ref="12883021053"/>
+    <nd ref="8790364024"/>
+    <nd ref="267426669"/>
+    <nd ref="12883020989"/>
+    <nd ref="12883020987"/>
+    <nd ref="12883020985"/>
+    <nd ref="8790364023"/>
+    <nd ref="12883020971"/>
+    <nd ref="12253101802"/>
+    <nd ref="12252702186"/>
+    <nd ref="12883020962"/>
+    <nd ref="12253088290"/>
+    <nd ref="7187138673"/>
+    <nd ref="267426680"/>
+    <nd ref="12883020918"/>
+    <nd ref="8790364019"/>
+    <nd ref="12253088229"/>
+    <nd ref="8790364018"/>
+    <nd ref="8790364017"/>
+    <nd ref="7391735184"/>
+    <nd ref="267426682"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="voice"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="183656922" version="7" timestamp="2025-05-16T17:48:25Z" changeset="166362647" uid="6714692" user="Fingrmouse">
+    <nd ref="1940697060"/>
+    <nd ref="12842687189"/>
+    <nd ref="12842687190"/>
+    <nd ref="8653613318"/>
+    <nd ref="8653613319"/>
+    <nd ref="8790480121"/>
+    <nd ref="8359866290"/>
+    <nd ref="267426700"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hockerwood Lane"/>
+  </way>
+  <way id="183656928" version="7" timestamp="2025-05-16T18:05:29Z" changeset="166363350" uid="6714692" user="Fingrmouse">
+    <nd ref="1940697059"/>
+    <nd ref="8790480278"/>
+    <nd ref="8790480289"/>
+    <nd ref="8790480280"/>
+    <nd ref="8790480254"/>
+    <nd ref="8359745509"/>
+    <nd ref="8359745501"/>
+    <nd ref="1940697067"/>
+    <nd ref="8790480177"/>
+    <nd ref="8790480176"/>
+    <nd ref="8790480175"/>
+    <nd ref="8790363678"/>
+    <nd ref="8790363677"/>
+    <nd ref="8790363676"/>
+    <nd ref="1940697020"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Galley Hill Road"/>
+  </way>
+  <way id="227141390" version="13" timestamp="2025-05-16T16:25:48Z" changeset="166359419" uid="6714692" user="Fingrmouse">
+    <nd ref="366391130"/>
+    <nd ref="12842567307"/>
+    <nd ref="658755497"/>
+    <nd ref="12842567308"/>
+    <nd ref="8656271437"/>
+    <nd ref="12842567309"/>
+    <nd ref="12842567310"/>
+    <nd ref="6785706985"/>
+    <nd ref="12842567311"/>
+    <nd ref="12842567312"/>
+    <nd ref="8656271438"/>
+    <nd ref="12842567313"/>
+    <nd ref="12842567314"/>
+    <nd ref="8656271439"/>
+    <nd ref="12842567315"/>
+    <nd ref="8656271440"/>
+    <nd ref="12842567316"/>
+    <nd ref="12842567317"/>
+    <nd ref="366391134"/>
+    <nd ref="4596840548"/>
+    <nd ref="7672634188"/>
+    <nd ref="366393271"/>
+    <nd ref="658755539"/>
+    <nd ref="12842567318"/>
+    <nd ref="324368404"/>
+    <nd ref="3427671103"/>
+    <nd ref="658755547"/>
+    <nd ref="12842567319"/>
+    <nd ref="12842567320"/>
+    <nd ref="366393278"/>
+    <nd ref="4596652580"/>
+    <nd ref="12842567322"/>
+    <nd ref="8656271442"/>
+    <nd ref="12842567323"/>
+    <nd ref="8864791082"/>
+    <nd ref="8656271443"/>
+    <nd ref="366391140"/>
+    <nd ref="12842567325"/>
+    <nd ref="12842567324"/>
+    <nd ref="366391729"/>
+    <nd ref="8656271444"/>
+    <nd ref="366391144"/>
+    <nd ref="12842567326"/>
+    <nd ref="8656271445"/>
+    <nd ref="366391733"/>
+    <nd ref="12842567327"/>
+    <nd ref="658755560"/>
+    <nd ref="12842567328"/>
+    <nd ref="8656271446"/>
+    <nd ref="658755563"/>
+    <nd ref="658755564"/>
+    <nd ref="8656271447"/>
+    <nd ref="658755565"/>
+    <nd ref="658755570"/>
+    <nd ref="9070470143"/>
+    <nd ref="366391154"/>
+    <nd ref="8656271448"/>
+    <nd ref="503706933"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A617"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="300959983" version="4" timestamp="2025-06-07T16:44:20Z" changeset="167318771" uid="8857" user="philipcullen">
+    <nd ref="3050677553"/>
+    <nd ref="3050677554"/>
+    <nd ref="8616056150"/>
+    <nd ref="8616056152"/>
+    <nd ref="8616056151"/>
+    <nd ref="8616056149"/>
+    <nd ref="8616056164"/>
+    <nd ref="8616056166"/>
+    <nd ref="8616056165"/>
+    <nd ref="8616056163"/>
+    <nd ref="8616056158"/>
+    <nd ref="8616056159"/>
+    <nd ref="8616056160"/>
+    <nd ref="8616056162"/>
+    <nd ref="8616056161"/>
+    <nd ref="8616056157"/>
+    <nd ref="3050677555"/>
+    <nd ref="3050677556"/>
+    <nd ref="10690497940"/>
+    <nd ref="8616056153"/>
+    <nd ref="8616056155"/>
+    <nd ref="8616056156"/>
+    <nd ref="8616056154"/>
+    <nd ref="3050677553"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Infirmary"/>
+    <tag k="ref:GB:uprn" v="10095974027"/>
+  </way>
+  <way id="300960854" version="6" timestamp="2024-11-22T12:33:32Z" changeset="159456960" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="3050692938"/>
+    <nd ref="3050692939"/>
+    <nd ref="3050692940"/>
+    <nd ref="12252702633"/>
+    <nd ref="12252702634"/>
+    <nd ref="12252702635"/>
+    <nd ref="12252702636"/>
+    <nd ref="3050695145"/>
+    <nd ref="12252702637"/>
+    <nd ref="3050692941"/>
+    <nd ref="3050692942"/>
+    <nd ref="3050692943"/>
+    <nd ref="3050692938"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG23 5SY"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:suburb" v="Upton"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cross Keys"/>
+    <tag k="phone" v="+44 1636 813269"/>
+  </way>
+  <way id="388679939" version="5" timestamp="2025-06-03T09:08:34Z" changeset="167124800" uid="6714692" user="Fingrmouse">
+    <nd ref="3918464046"/>
+    <nd ref="7984039374"/>
+    <nd ref="324368445"/>
+    <nd ref="12883021472"/>
+    <nd ref="491528309"/>
+    <nd ref="490097653"/>
+    <nd ref="8790364050"/>
+    <nd ref="12883021471"/>
+    <nd ref="490097661"/>
+    <nd ref="8790364049"/>
+    <nd ref="490097672"/>
+    <nd ref="8790364048"/>
+    <nd ref="8790364047"/>
+    <nd ref="12883021577"/>
+    <nd ref="8790364046"/>
+    <nd ref="490097677"/>
+    <nd ref="267426650"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Hockerton Road"/>
+    <tag k="source" v="npe"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="388679943" version="10" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="267426682"/>
+    <nd ref="12848825006"/>
+    <nd ref="8790364016"/>
+    <nd ref="8790364015"/>
+    <nd ref="267426676"/>
+    <nd ref="8790364014"/>
+    <nd ref="8790364013"/>
+    <nd ref="8790364012"/>
+    <nd ref="267426678"/>
+    <nd ref="267426687"/>
+    <nd ref="2217234140"/>
+    <nd ref="491527210"/>
+    <nd ref="8790364123"/>
+    <nd ref="8790364124"/>
+    <nd ref="267426689"/>
+    <nd ref="8790364125"/>
+    <nd ref="8616914721"/>
+    <nd ref="8790364126"/>
+    <nd ref="8790364127"/>
+    <nd ref="8790364128"/>
+    <nd ref="267426683"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="voice"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="388679946" version="9" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="267426683"/>
+    <nd ref="267426685"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="voice"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="388679950" version="12" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="267426637"/>
+    <nd ref="8790364074"/>
+    <nd ref="12881065112"/>
+    <nd ref="8790364073"/>
+    <nd ref="12881065139"/>
+    <nd ref="12881065107"/>
+    <nd ref="8790364072"/>
+    <nd ref="8790364071"/>
+    <nd ref="12883021824"/>
+    <nd ref="267426636"/>
+    <nd ref="12881065093"/>
+    <nd ref="267426639"/>
+    <nd ref="12881065087"/>
+    <nd ref="8790364070"/>
+    <nd ref="267426638"/>
+    <nd ref="12881065082"/>
+    <nd ref="8790364069"/>
+    <nd ref="8790364068"/>
+    <nd ref="267426642"/>
+    <nd ref="8790364065"/>
+    <nd ref="8790364064"/>
+    <nd ref="6901655340"/>
+    <nd ref="12881065065"/>
+    <nd ref="6901655345"/>
+    <nd ref="492823178"/>
+    <nd ref="267426640"/>
+    <nd ref="12881065057"/>
+    <nd ref="8790364063"/>
+    <nd ref="12883021699"/>
+    <nd ref="12883021684"/>
+    <nd ref="8790364062"/>
+    <nd ref="267426644"/>
+    <nd ref="8790364056"/>
+    <nd ref="12881065490"/>
+    <nd ref="8790364055"/>
+    <nd ref="12883021694"/>
+    <nd ref="8790364054"/>
+    <nd ref="8790364053"/>
+    <nd ref="490094685"/>
+    <nd ref="12883021646"/>
+    <nd ref="12881065009"/>
+    <nd ref="267426643"/>
+    <nd ref="7709978250"/>
+    <nd ref="8790364051"/>
+    <nd ref="8790364052"/>
+    <nd ref="267426650"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="voice"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="472408387" version="10" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="267426619"/>
+    <nd ref="8790364116"/>
+    <nd ref="8790364114"/>
+    <nd ref="12880964639"/>
+    <nd ref="8790364112"/>
+    <nd ref="8790364111"/>
+    <nd ref="267426620"/>
+    <nd ref="8790364110"/>
+    <nd ref="267426621"/>
+    <nd ref="8790364109"/>
+    <nd ref="8790364108"/>
+    <nd ref="267426622"/>
+    <nd ref="8790364107"/>
+    <nd ref="267426623"/>
+    <nd ref="8790364106"/>
+    <nd ref="7099468091"/>
+    <nd ref="267426624"/>
+    <nd ref="8790364105"/>
+    <nd ref="4666202669"/>
+    <nd ref="8790364104"/>
+    <nd ref="8790364094"/>
+    <nd ref="267426625"/>
+    <nd ref="8790364093"/>
+    <nd ref="267426626"/>
+    <nd ref="12880968957"/>
+    <nd ref="267426627"/>
+    <nd ref="267426628"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="source:ref" v="voice"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="618244889" version="6" timestamp="2025-06-03T09:08:34Z" changeset="167124800" uid="6714692" user="Fingrmouse">
+    <nd ref="5843749278"/>
+    <nd ref="5843749281"/>
+    <nd ref="5843749282"/>
+    <nd ref="5843749283"/>
+    <nd ref="5843749284"/>
+    <nd ref="5843749285"/>
+    <nd ref="5843749286"/>
+    <nd ref="5843749287"/>
+    <nd ref="5843749289"/>
+    <nd ref="5843749290"/>
+    <nd ref="5843749291"/>
+    <nd ref="5843749292"/>
+    <nd ref="5843749293"/>
+    <nd ref="5843749294"/>
+    <nd ref="5843749318"/>
+    <nd ref="5843749295"/>
+    <nd ref="5843749296"/>
+    <nd ref="5843749297"/>
+    <nd ref="12883021385"/>
+    <nd ref="12883021384"/>
+    <nd ref="12883021383"/>
+    <nd ref="12883021382"/>
+    <nd ref="5843749298"/>
+    <nd ref="5843749299"/>
+    <nd ref="5843749305"/>
+    <nd ref="5843749300"/>
+    <nd ref="12883021381"/>
+    <nd ref="5843749301"/>
+    <nd ref="5843749302"/>
+    <nd ref="5843749303"/>
+    <nd ref="5843749278"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Upton Hall"/>
+    <tag k="addr:postcode" v="NG23 5TE"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:suburb" v="Upton"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="British Horological Institute"/>
+    <tag k="phone" v="+44 1636 813795"/>
+    <tag k="website" v="https://bhi.co.uk/"/>
+  </way>
+  <way id="618244890" version="5" timestamp="2025-06-03T09:08:34Z" changeset="167124800" uid="6714692" user="Fingrmouse">
+    <nd ref="5843749304"/>
+    <nd ref="5843749305"/>
+    <nd ref="5843749299"/>
+    <nd ref="5843749307"/>
+    <nd ref="5843749304"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Upton Hall"/>
+    <tag k="addr:postcode" v="NG23 5TE"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:suburb" v="Upton"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="The Clock House Cafe"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-16:30"/>
+    <tag k="website" v="clockhousecafe.co.uk"/>
+    <tag k="wikidata" v="Q7899383"/>
+    <tag k="wikipedia" v="en:Upton Hall"/>
+  </way>
+  <way id="639115834" version="5" timestamp="2025-04-22T10:30:54Z" changeset="165277793" uid="5229644" user="Nathan_A_RF">
+    <nd ref="476307215"/>
+    <nd ref="11901308423"/>
+    <nd ref="8616056148"/>
+    <nd ref="3050677012"/>
+    <nd ref="3050677010"/>
+    <nd ref="286832705"/>
+    <nd ref="3050677015"/>
+    <nd ref="8616056146"/>
+    <nd ref="286832706"/>
+    <nd ref="8787333931"/>
+    <nd ref="11901308424"/>
+    <nd ref="286832707"/>
+    <nd ref="539066153"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Normanton Road"/>
+  </way>
+  <way id="880935767" version="5" timestamp="2025-06-03T09:08:34Z" changeset="167124800" uid="6714692" user="Fingrmouse">
+    <nd ref="490092952"/>
+    <nd ref="8193516905"/>
+    <nd ref="12252664867"/>
+    <nd ref="12252664871"/>
+    <nd ref="12252664872"/>
+    <nd ref="12252664870"/>
+    <nd ref="12883020526"/>
+    <nd ref="12252664869"/>
+    <nd ref="12252664868"/>
+    <nd ref="8193516906"/>
+    <nd ref="8193516907"/>
+    <nd ref="490092952"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Peter &amp; St Paul"/>
+    <tag k="ref:dove" v="11404"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q15979487"/>
+    <tag k="wikipedia" v="en:St Peter and St Paul's Church, Upton"/>
+  </way>
+  <way id="927946852" version="5" timestamp="2025-07-11T13:18:01Z" changeset="168796444" uid="5359" user="user_5359">
+    <nd ref="476307212"/>
+    <nd ref="8608554981"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Upton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A612"/>
+    <tag k="source" v="npe"/>
+    <tag k="wikipedia" v="en:A612 road"/>
+  </way>
+  <way id="929006870" version="3" timestamp="2025-06-07T16:44:21Z" changeset="167318771" uid="8857" user="philipcullen">
+    <nd ref="8616056099"/>
+    <nd ref="8616056072"/>
+    <nd ref="8616056073"/>
+    <nd ref="8616056074"/>
+    <nd ref="8616056075"/>
+    <nd ref="8616056122"/>
+    <nd ref="8616056076"/>
+    <nd ref="8616056077"/>
+    <nd ref="8616056078"/>
+    <nd ref="8616056125"/>
+    <nd ref="8616056079"/>
+    <nd ref="8616056080"/>
+    <nd ref="8616056081"/>
+    <nd ref="8616056082"/>
+    <nd ref="8616056117"/>
+    <nd ref="8616056083"/>
+    <nd ref="8616056084"/>
+    <nd ref="8616056115"/>
+    <nd ref="8616056085"/>
+    <nd ref="8616056086"/>
+    <nd ref="8616056087"/>
+    <nd ref="8616056088"/>
+    <nd ref="8616056089"/>
+    <nd ref="8616056110"/>
+    <nd ref="8616056090"/>
+    <nd ref="8616056091"/>
+    <nd ref="8616056106"/>
+    <nd ref="8616056092"/>
+    <nd ref="8616056093"/>
+    <nd ref="8616056094"/>
+    <nd ref="8616056095"/>
+    <nd ref="8616056096"/>
+    <nd ref="8616056102"/>
+    <nd ref="8616056097"/>
+    <nd ref="8616056098"/>
+    <nd ref="8616056099"/>
+    <tag k="building" v="yes"/>
+    <tag k="historic" v="building"/>
+    <tag k="name" v="The Workhouse"/>
+    <tag k="operator" v="National Trust"/>
+    <tag k="ref:GB:uprn" v="200004248443"/>
+  </way>
+  <way id="929122091" version="2" timestamp="2025-06-02T14:27:58Z" changeset="167095016" uid="6714692" user="Fingrmouse">
+    <nd ref="330499487"/>
+    <nd ref="12881065039"/>
+    <nd ref="12881065037"/>
+    <nd ref="490082836"/>
+    <nd ref="12881065049"/>
+    <nd ref="12881065430"/>
+    <nd ref="490084693"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Close"/>
+    <tag k="oneway" v="no"/>
+    <tag k="prow_ref" v="213/8"/>
+  </way>
+
+</osm>

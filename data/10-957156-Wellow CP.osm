@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:38:56Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="307420156" lat="53.1909081" lon="-1.0024074" version="17" timestamp="2012-09-09T01:24:07Z" changeset="13039814" uid="12671" user="sladen"/>
+  <node id="324375905" lat="53.1682442" lon="-0.9923094" version="5" timestamp="2012-08-24T15:23:20Z" changeset="12845840" uid="61942" user="SomeoneElse"/>
+  <node id="1460852667" lat="53.1996780" lon="-0.9641983" version="1" timestamp="2011-10-10T07:34:37Z" changeset="9519257" uid="188349" user="MatSmith"/>
+  <node id="1460852857" lat="53.2027762" lon="-0.9707503" version="2" timestamp="2012-08-28T14:29:44Z" changeset="12892746" uid="12671" user="sladen"/>
+  <node id="1880903309" lat="53.1863151" lon="-0.9924567" version="1" timestamp="2012-08-24T14:36:04Z" changeset="12845840" uid="61942" user="SomeoneElse"/>
+  <node id="1906208327" lat="53.1915300" lon="-1.0042979" version="2" timestamp="2014-04-10T21:04:28Z" changeset="21614597" uid="2011702" user="krd_mapper"/>
+  <node id="1906208515" lat="53.1887365" lon="-1.0062449" version="2" timestamp="2022-10-12T12:29:13Z" changeset="127413100" uid="24119" user="Mauls"/>
+  <node id="2770669817" lat="53.2031178" lon="-0.9718254" version="1" timestamp="2014-04-05T20:21:24Z" changeset="21518401" uid="2011702" user="krd_mapper"/>
+  <way id="40171983" version="17" timestamp="2024-07-01T10:06:39Z" changeset="153404277" uid="5008136" user="JayTurnr">
+    <nd ref="307420156"/>
+    <nd ref="1906208444"/>
+    <nd ref="483868831"/>
+    <nd ref="1906208683"/>
+    <nd ref="1906208597"/>
+    <nd ref="1906208383"/>
+    <nd ref="1265845606"/>
+    <nd ref="1906208574"/>
+    <nd ref="1906208355"/>
+    <nd ref="1906208528"/>
+    <nd ref="1265845610"/>
+    <nd ref="1906208529"/>
+    <nd ref="12025435789"/>
+    <nd ref="1906208449"/>
+    <nd ref="1906208375"/>
+    <nd ref="1906208352"/>
+    <nd ref="7345418241"/>
+    <nd ref="483868873"/>
+    <nd ref="483868888"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="NPE"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="64932287" version="17" timestamp="2023-06-23T09:55:21Z" changeset="137681456" uid="242345" user="confusedbuffalo">
+    <nd ref="324375911"/>
+    <nd ref="1596821452"/>
+    <nd ref="324375912"/>
+    <nd ref="1596873694"/>
+    <nd ref="1265844397"/>
+    <nd ref="1596871419"/>
+    <nd ref="324375914"/>
+    <nd ref="324375915"/>
+    <nd ref="1596871418"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Eakring Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="64932292" version="18" timestamp="2017-04-22T08:24:34Z" changeset="48025594" uid="133272" user="wongataa">
+    <nd ref="307420156"/>
+    <nd ref="1265844333"/>
+    <nd ref="1460835969"/>
+    <nd ref="1460835970"/>
+    <nd ref="61276546"/>
+    <nd ref="4145447912"/>
+    <nd ref="61276547"/>
+    <nd ref="61276548"/>
+    <nd ref="61276549"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE;Bing"/>
+  </way>
+  <way id="111006105" version="7" timestamp="2021-01-25T06:35:20Z" changeset="98094701" uid="10305811" user="kumrnls">
+    <nd ref="6733263344"/>
+    <nd ref="4145447980"/>
+    <nd ref="8359680864"/>
+    <nd ref="1265844330"/>
+    <nd ref="324375922"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Maypole Green"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="111006111" version="4" timestamp="2017-02-10T20:40:48Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="1265844575"/>
+    <nd ref="1265844580"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Maypole Court"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="111006130" version="5" timestamp="2017-02-10T20:40:49Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="1265844407"/>
+    <nd ref="1265844386"/>
+    <nd ref="1265844403"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Farm Gardens"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at west"/>
+  </way>
+  <way id="111006144" version="4" timestamp="2017-02-10T20:40:49Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="1265844322"/>
+    <nd ref="1265844580"/>
+    <nd ref="1265844341"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Maypole Court"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at SE"/>
+  </way>
+  <way id="111006157" version="9" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="1265844382"/>
+    <nd ref="1265844545"/>
+    <nd ref="1265844305"/>
+    <nd ref="1265844573"/>
+    <nd ref="1265844374"/>
+    <nd ref="1265844324"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Milner Fields"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at S"/>
+  </way>
+  <way id="146410943" version="10" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="1265844441"/>
+    <nd ref="324375911"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Red Hill Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="146414581" version="10" timestamp="2021-01-09T16:32:38Z" changeset="97219543" uid="106914" user="Hobgoblin">
+    <nd ref="1596871417"/>
+    <nd ref="324375916"/>
+    <nd ref="1265844324"/>
+    <nd ref="1265844301"/>
+    <nd ref="1460852986"/>
+    <nd ref="4145447951"/>
+    <nd ref="1880783057"/>
+    <nd ref="324375917"/>
+    <nd ref="1880783035"/>
+    <nd ref="1460852989"/>
+    <nd ref="4145447948"/>
+    <nd ref="324375937"/>
+    <nd ref="4145447957"/>
+    <nd ref="324375918"/>
+    <nd ref="1265844424"/>
+    <nd ref="8306297442"/>
+    <nd ref="324375919"/>
+    <nd ref="4145448008"/>
+    <nd ref="324375921"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="maxweight:conditional" v="none @ destination"/>
+    <tag k="name" v="Eakring Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="146414585" version="7" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="1596871418"/>
+    <nd ref="1596871417"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Eakring Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="146414589" version="3" timestamp="2017-02-05T20:22:58Z" changeset="45838563" uid="2762871" user="Sam888">
+    <nd ref="324375921"/>
+    <nd ref="1460836022"/>
+    <nd ref="1265844572"/>
+    <nd ref="1460826733"/>
+    <nd ref="2969948126"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="maxweight:conditional" v="none @ destination"/>
+    <tag k="name" v="Eakring Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="146415211" version="10" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="324375905"/>
+    <nd ref="324375906"/>
+    <nd ref="1596881386"/>
+    <nd ref="324375908"/>
+    <nd ref="324375909"/>
+    <nd ref="1596873749"/>
+    <nd ref="1596879282"/>
+    <nd ref="532563941"/>
+    <nd ref="324375910"/>
+    <nd ref="6454762307"/>
+    <nd ref="1265844441"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Red Hill Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="177661104" version="2" timestamp="2012-08-24T13:24:31Z" changeset="12844908" uid="61942" user="SomeoneElse">
+    <nd ref="1880783036"/>
+    <nd ref="1880783052"/>
+    <nd ref="1880783032"/>
+    <nd ref="1880783037"/>
+    <nd ref="1880783042"/>
+    <nd ref="1880783047"/>
+    <nd ref="1880783036"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="Red Lion"/>
+    <tag k="parking" v="yes"/>
+    <tag k="patio" v="yes"/>
+    <tag k="real_ale" v="yes"/>
+  </way>
+  <way id="177661108" version="7" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="324375937"/>
+    <nd ref="1265844421"/>
+    <nd ref="1880783039"/>
+    <nd ref="324376001"/>
+    <nd ref="1880783050"/>
+    <nd ref="1880783058"/>
+    <nd ref="324376002"/>
+    <nd ref="1265844446"/>
+    <nd ref="324376004"/>
+    <nd ref="4145447933"/>
+    <nd ref="324376006"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Potter Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="Sign at S"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="177661439" version="4" timestamp="2019-06-16T14:14:06Z" changeset="71302239" uid="1778799" user="SomeoneElse_Revert">
+    <nd ref="1880785868"/>
+    <nd ref="1880785856"/>
+    <nd ref="1880785864"/>
+    <nd ref="1880785861"/>
+    <nd ref="1265844621"/>
+    <nd ref="1880785863"/>
+    <nd ref="1880785868"/>
+    <tag k="accommodation" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="food" v="yes"/>
+    <tag k="name" v="The Maypole at Wellow"/>
+    <tag k="note" v="brands itself A &quot;boutique hotel / restaurant with bar&quot;"/>
+    <tag k="old_name" v="Durham Ox"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="parking" v="yes"/>
+    <tag k="real_ale" v="London Pride, 1 from Batemans (will probably vary)"/>
+  </way>
+  <way id="177671400" version="9" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="1880903309"/>
+    <nd ref="666476866"/>
+    <nd ref="4145447935"/>
+    <nd ref="61276555"/>
+    <nd ref="4145447909"/>
+    <nd ref="61276556"/>
+    <nd ref="1880903191"/>
+    <nd ref="1880903171"/>
+    <nd ref="61276557"/>
+    <nd ref="61276558"/>
+    <nd ref="1880903176"/>
+    <nd ref="61276559"/>
+    <nd ref="1460852813"/>
+    <nd ref="61276560"/>
+    <nd ref="1596873105"/>
+    <nd ref="61276561"/>
+    <nd ref="61276562"/>
+    <nd ref="3704438912"/>
+    <nd ref="61276563"/>
+    <nd ref="3704438911"/>
+    <nd ref="3704438913"/>
+    <nd ref="61276564"/>
+    <nd ref="3704438919"/>
+    <nd ref="61276565"/>
+    <nd ref="61276566"/>
+    <nd ref="666476867"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="local_knowledge"/>
+  </way>
+  <way id="177671412" version="6" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="61276551"/>
+    <nd ref="4145447949"/>
+    <nd ref="1880785858"/>
+    <nd ref="1265844360"/>
+    <nd ref="4145448014"/>
+    <nd ref="61276552"/>
+    <nd ref="324376006"/>
+    <nd ref="61276553"/>
+    <nd ref="1880903172"/>
+    <nd ref="4145448006"/>
+    <nd ref="666476865"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="local_knowledge"/>
+  </way>
+  <way id="177671418" version="8" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="666476865"/>
+    <nd ref="4145447938"/>
+    <nd ref="61276554"/>
+    <nd ref="1880903309"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="local_knowledge"/>
+  </way>
+  <way id="180191620" version="5" timestamp="2017-02-05T20:22:49Z" changeset="45838563" uid="2762871" user="Sam888">
+    <nd ref="1906208590"/>
+    <nd ref="61276544"/>
+    <nd ref="61276545"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Wellow Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="180191633" version="4" timestamp="2017-04-22T08:26:36Z" changeset="48025594" uid="133272" user="wongataa">
+    <nd ref="1906208327"/>
+    <nd ref="1906208590"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Wellow Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="180191662" version="6" timestamp="2022-08-03T23:57:37Z" changeset="124456730" uid="2762871" user="Sam888">
+    <nd ref="1906208515"/>
+    <nd ref="6782672297"/>
+    <nd ref="307420155"/>
+    <nd ref="307420172"/>
+    <nd ref="307420173"/>
+    <nd ref="1906208669"/>
+    <nd ref="1906208567"/>
+    <nd ref="1460835969"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Rufford Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="188710101" version="11" timestamp="2022-08-14T15:50:53Z" changeset="124893489" uid="10038339" user="Akgeo">
+    <nd ref="1460852667"/>
+    <nd ref="324375100"/>
+    <nd ref="2971693502"/>
+    <nd ref="334695956"/>
+    <nd ref="324375102"/>
+    <nd ref="2360063983"/>
+    <nd ref="324375103"/>
+    <nd ref="324375105"/>
+    <nd ref="3213565027"/>
+    <nd ref="1460852918"/>
+    <nd ref="324375106"/>
+    <nd ref="9952980161"/>
+    <nd ref="2772899472"/>
+    <nd ref="1460852919"/>
+    <nd ref="3213576912"/>
+    <nd ref="324375107"/>
+    <nd ref="1460852920"/>
+    <nd ref="3213576908"/>
+    <nd ref="1460852921"/>
+    <nd ref="1460852922"/>
+    <nd ref="324375109"/>
+    <nd ref="1460852923"/>
+    <nd ref="3213577101"/>
+    <nd ref="324375110"/>
+    <nd ref="3213576916"/>
+    <nd ref="1460852925"/>
+    <nd ref="324375112"/>
+    <nd ref="3213570396"/>
+    <nd ref="1460852929"/>
+    <nd ref="3213565025"/>
+    <nd ref="324375114"/>
+    <nd ref="2363809349"/>
+    <nd ref="1200700435"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Acre Edge Road"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="197645103" version="3" timestamp="2017-02-10T20:40:49Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="1265844538"/>
+    <nd ref="1265844528"/>
+    <nd ref="1265844536"/>
+    <nd ref="1265844438"/>
+    <nd ref="1265844534"/>
+    <nd ref="1265844335"/>
+    <nd ref="1265844486"/>
+    <nd ref="1265844341"/>
+    <nd ref="1265844624"/>
+    <nd ref="1265844616"/>
+    <nd ref="1265844410"/>
+    <nd ref="1460852986"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Maypole Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:name" v="Sign at S"/>
+  </way>
+  <way id="231965140" version="4" timestamp="2020-05-28T06:37:52Z" changeset="85868964" uid="10219386" user="bathines">
+    <nd ref="61276549"/>
+    <nd ref="4145447971"/>
+    <nd ref="1460835971"/>
+    <nd ref="7564998682"/>
+    <nd ref="61276550"/>
+    <nd ref="4145448001"/>
+    <nd ref="1265844540"/>
+    <nd ref="61276551"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE;Bing"/>
+  </way>
+  <way id="293097592" version="5" timestamp="2021-06-08T00:16:24Z" changeset="105999114" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1460852857"/>
+    <nd ref="1886788665"/>
+    <nd ref="324375096"/>
+    <nd ref="1886789227"/>
+    <nd ref="1886789200"/>
+    <nd ref="1886789202"/>
+    <nd ref="1200700429"/>
+    <nd ref="1200700434"/>
+    <nd ref="324375098"/>
+    <nd ref="8033100049"/>
+    <nd ref="1200700406"/>
+    <nd ref="324375099"/>
+    <nd ref="3481078789"/>
+    <nd ref="1460852899"/>
+    <nd ref="1460852667"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Cocking Hill"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="293401458" version="2" timestamp="2016-04-15T09:59:32Z" changeset="38583273" uid="84681" user="SK53">
+    <nd ref="2969948126"/>
+    <nd ref="324375922"/>
+    <nd ref="1265844403"/>
+    <nd ref="1265844503"/>
+    <nd ref="4123372595"/>
+    <nd ref="61276551"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="maxweight:conditional" v="none @ destination"/>
+    <tag k="name" v="Eakring Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="472398066" version="1" timestamp="2017-02-05T20:22:45Z" changeset="45838563" uid="2762871" user="Sam888">
+    <nd ref="61276545"/>
+    <nd ref="1906208423"/>
+    <nd ref="307420156"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Wellow Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="473875672" version="1" timestamp="2017-02-10T20:38:38Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="2770669817"/>
+    <nd ref="1886789292"/>
+    <nd ref="1886788660"/>
+    <nd ref="1886789105"/>
+    <nd ref="1886789280"/>
+    <nd ref="1460852857"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="14'9&quot;"/>
+    <tag k="name" v="Cocking Hill"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="884295411" version="3" timestamp="2023-11-30T19:44:16Z" changeset="144638015" uid="504708" user="HillWithSmallFields">
+    <nd ref="1265844328"/>
+    <nd ref="8223829066"/>
+    <nd ref="8223829067"/>
+    <nd ref="8223829068"/>
+    <nd ref="8223829065"/>
+    <nd ref="8223829064"/>
+    <nd ref="1265844328"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Swithun"/>
+    <tag k="ref:dove" v="14210"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikidata" v="Q15979511"/>
+    <tag k="wikipedia" v="en:St Swithin's Church, Wellow"/>
+  </way>
+
+</osm>

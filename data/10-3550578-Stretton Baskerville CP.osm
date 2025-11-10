@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:43:00Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="271827587" lat="52.5275609" lon="-1.3945517" version="4" timestamp="2024-08-11T21:34:32Z" changeset="155122743" uid="5008136" user="JayTurnr"/>
+  <node id="1775226782" lat="52.5156190" lon="-1.3670810" version="1" timestamp="2012-06-03T19:13:58Z" changeset="11790053" uid="395744" user="nicky0">
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+  </node>
+  <way id="25004885" version="9" timestamp="2022-12-17T10:24:04Z" changeset="130181492" uid="7463" user="kesterlester">
+    <nd ref="271827587"/>
+    <nd ref="271827585"/>
+    <nd ref="271827604"/>
+    <nd ref="271827588"/>
+    <nd ref="271827590"/>
+    <nd ref="793114876"/>
+    <nd ref="2351919289"/>
+    <nd ref="10269258804"/>
+    <nd ref="10269258799"/>
+    <nd ref="271827592"/>
+    <nd ref="10269258798"/>
+    <nd ref="10269267292"/>
+    <nd ref="10269267290"/>
+    <nd ref="10269267289"/>
+    <nd ref="793114887"/>
+    <nd ref="8811733226"/>
+    <nd ref="2351919239"/>
+    <nd ref="793114892"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hydes Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="66668100" version="7" timestamp="2014-11-03T16:04:14Z" changeset="26529107" uid="2054450" user="HeatherH">
+    <nd ref="1775226782"/>
+    <nd ref="1775226801"/>
+    <nd ref="806461318"/>
+    <nd ref="806461322"/>
+    <nd ref="3164740081"/>
+    <nd ref="1590348452"/>
+    <nd ref="1590348453"/>
+    <nd ref="2850928319"/>
+    <nd ref="806462197"/>
+    <nd ref="2265830044"/>
+    <nd ref="1590348464"/>
+    <nd ref="806461325"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wolvey Road"/>
+  </way>
+  <way id="870714538" version="1" timestamp="2020-11-12T09:39:44Z" changeset="93983133" uid="395744" user="nicky0">
+    <nd ref="8111067826"/>
+    <nd ref="8111067827"/>
+    <nd ref="8111067828"/>
+    <nd ref="8111067829"/>
+    <nd ref="8111067826"/>
+    <tag k="building" v="ruins"/>
+    <tag k="name" v="Stretton Lodge"/>
+  </way>
+
+</osm>

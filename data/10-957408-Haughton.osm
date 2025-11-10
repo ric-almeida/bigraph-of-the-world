@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:47:02Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="349331337" lat="53.2305766" lon="-0.9835341" version="2" timestamp="2014-05-02T18:54:17Z" changeset="22091578" uid="2011702" user="krd_mapper"/>
+  <node id="2950742613" lat="53.2482270" lon="-0.9816268" version="1" timestamp="2014-07-06T11:43:24Z" changeset="23982180" uid="61942" user="SomeoneElse"/>
+  <way id="178898251" version="2" timestamp="2017-02-05T20:22:51Z" changeset="45838563" uid="2762871" user="Sam888">
+    <nd ref="1892525168"/>
+    <nd ref="1892524703"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="ref" v="B6387"/>
+  </way>
+  <way id="178898278" version="4" timestamp="2017-02-05T20:22:51Z" changeset="45838563" uid="2762871" user="Sam888">
+    <nd ref="1892524703"/>
+    <nd ref="252956718"/>
+    <nd ref="2949522349"/>
+    <nd ref="1892524035"/>
+    <nd ref="252956719"/>
+    <nd ref="406347804"/>
+    <nd ref="1892525380"/>
+    <nd ref="406347803"/>
+    <nd ref="406347805"/>
+    <nd ref="406347806"/>
+    <nd ref="1892524932"/>
+    <nd ref="1892524234"/>
+    <nd ref="2949522346"/>
+    <nd ref="252956722"/>
+    <nd ref="252956723"/>
+    <nd ref="406347808"/>
+    <nd ref="406347807"/>
+    <nd ref="406347809"/>
+    <nd ref="252956724"/>
+    <nd ref="2950742935"/>
+    <nd ref="406347812"/>
+    <nd ref="406347811"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="ref" v="B6387"/>
+  </way>
+  <way id="291483921" version="6" timestamp="2019-08-19T14:00:04Z" changeset="73500084" uid="10170568" user="shsahit">
+    <nd ref="349331337"/>
+    <nd ref="6362100474"/>
+    <nd ref="6723745378"/>
+    <nd ref="61276158"/>
+    <nd ref="1041749591"/>
+    <nd ref="61276159"/>
+    <nd ref="1892525464"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Retford Road"/>
+    <tag k="ref" v="B6387"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="291484997" version="3" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="252956698"/>
+    <nd ref="2832284119"/>
+    <nd ref="252956699"/>
+    <nd ref="252956700"/>
+    <nd ref="406347799"/>
+    <nd ref="252956701"/>
+    <nd ref="1892524886"/>
+    <nd ref="2949517571"/>
+    <nd ref="406347800"/>
+    <nd ref="406347801"/>
+    <nd ref="252956711"/>
+    <nd ref="1892523830"/>
+    <nd ref="1892524716"/>
+    <nd ref="1892524483"/>
+    <nd ref="1892525168"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Retford Road"/>
+    <tag k="ref" v="B6387"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="width" v="6"/>
+  </way>
+  <way id="291485000" version="2" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="1892525464"/>
+    <nd ref="252956698"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Retford Road"/>
+    <tag k="ref" v="B6387"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="291601697" version="3" timestamp="2017-02-05T20:23:00Z" changeset="45838563" uid="2762871" user="Sam888">
+    <nd ref="406347811"/>
+    <nd ref="2950742613"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="ref" v="B6387"/>
+  </way>
+  <way id="291601701" version="2" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="2950742613"/>
+    <nd ref="406347810"/>
+    <nd ref="252956725"/>
+    <nd ref="2950742953"/>
+    <nd ref="252956726"/>
+    <nd ref="406351977"/>
+    <nd ref="406351979"/>
+    <nd ref="406351982"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Walesby Road"/>
+    <tag k="ref" v="B6387"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at north"/>
+    <tag k="width" v="6"/>
+  </way>
+
+</osm>

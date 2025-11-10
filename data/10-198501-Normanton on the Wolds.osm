@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:00:49Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="390310341" lat="52.8824870" lon="-1.0472499" version="3" timestamp="2014-07-17T19:49:41Z" changeset="24208361" uid="1431482" user="JonOrchard"/>
+  <node id="1199241903" lat="52.8808318" lon="-1.0595598" version="4" timestamp="2016-03-12T20:33:38Z" changeset="37789883" uid="84681" user="SK53"/>
+  <node id="3658274922" lat="52.8995445" lon="-1.0604145" version="1" timestamp="2015-07-19T21:56:29Z" changeset="32742804" uid="207845" user="will_p"/>
+  <node id="4140551108" lat="52.8823109" lon="-1.0777273" version="1" timestamp="2016-04-22T11:18:14Z" changeset="38782435" uid="207845" user="will_p"/>
+  <node id="4303028921" lat="52.9012988" lon="-1.0773881" version="1" timestamp="2016-07-14T16:25:58Z" changeset="40743249" uid="84681" user="SK53"/>
+  <node id="4896543769" lat="52.8957774" lon="-1.0916421" version="2" timestamp="2023-08-03T22:12:59Z" changeset="139414733" uid="13341565" user="Falsernet"/>
+  <node id="5006025751" lat="52.8939947" lon="-1.0821356" version="1" timestamp="2017-07-31T22:43:55Z" changeset="50733060" uid="5296090" user="TR42"/>
+  <node id="7507985928" lat="52.8931161" lon="-1.0839399" version="1" timestamp="2020-05-11T17:17:47Z" changeset="85037788" uid="84075" user="kevjs1982"/>
+  <way id="34061519" version="14" timestamp="2017-06-05T06:20:21Z" changeset="49258592" uid="1431482" user="JonOrchard">
+    <nd ref="14569909"/>
+    <nd ref="4896543754"/>
+    <nd ref="472666389"/>
+    <nd ref="472666390"/>
+    <nd ref="390309348"/>
+    <nd ref="2331701632"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Old Melton Road"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="34061630" version="13" timestamp="2014-07-17T19:49:41Z" changeset="24208361" uid="1431482" user="JonOrchard">
+    <nd ref="390310341"/>
+    <nd ref="2968013362"/>
+    <nd ref="390310342"/>
+    <nd ref="2968013361"/>
+    <nd ref="390310343"/>
+    <nd ref="2968013358"/>
+    <nd ref="2968013360"/>
+    <nd ref="2968013359"/>
+    <nd ref="1163512802"/>
+    <nd ref="390310344"/>
+    <nd ref="2968013357"/>
+    <nd ref="390310345"/>
+    <nd ref="2968013356"/>
+    <nd ref="2370619842"/>
+    <nd ref="390310346"/>
+    <nd ref="390310347"/>
+    <nd ref="390310348"/>
+    <nd ref="1948065294"/>
+    <nd ref="390310349"/>
+    <nd ref="2968013355"/>
+    <nd ref="2968013354"/>
+    <nd ref="1778178272"/>
+    <nd ref="1813958501"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Laming Gap Lane"/>
+    <tag k="source" v="NPE"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="34061699" version="16" timestamp="2023-08-03T22:12:59Z" changeset="139414733" uid="13341565" user="Falsernet">
+    <nd ref="4896543769"/>
+    <nd ref="14569920"/>
+    <nd ref="1200847840"/>
+    <nd ref="4896543768"/>
+    <nd ref="14569919"/>
+    <nd ref="1200848302"/>
+    <nd ref="4896543767"/>
+    <nd ref="4896543766"/>
+    <nd ref="14569917"/>
+    <nd ref="4896543765"/>
+    <nd ref="14569918"/>
+    <nd ref="4896543764"/>
+    <nd ref="4896543762"/>
+    <nd ref="4896543763"/>
+    <nd ref="14569916"/>
+    <nd ref="5645763476"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="ref" v="A606"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="verge" v="right"/>
+  </way>
+  <way id="34062607" version="4" timestamp="2018-05-26T18:23:38Z" changeset="59299175" uid="84681" user="SK53">
+    <nd ref="390323622"/>
+    <nd ref="3658274800"/>
+    <nd ref="3658274795"/>
+    <nd ref="3658274792"/>
+    <nd ref="390323636"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Back Lane"/>
+    <tag k="source" v="survey;GPS"/>
+  </way>
+  <way id="39469999" version="11" timestamp="2018-05-26T20:44:29Z" changeset="59301594" uid="84681" user="SK53">
+    <nd ref="472666385"/>
+    <nd ref="1199241972"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A606"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="39470000" version="17" timestamp="2022-08-10T09:42:59Z" changeset="124716849" uid="350183" user="Belseybob">
+    <nd ref="14569909"/>
+    <nd ref="4896543753"/>
+    <nd ref="2331701636"/>
+    <nd ref="4896543752"/>
+    <nd ref="14569908"/>
+    <nd ref="4896543751"/>
+    <nd ref="4896543750"/>
+    <nd ref="4896543749"/>
+    <nd ref="14569907"/>
+    <nd ref="14569904"/>
+    <nd ref="4896543748"/>
+    <nd ref="4896543746"/>
+    <nd ref="4896543747"/>
+    <nd ref="4057179692"/>
+    <nd ref="14569906"/>
+    <nd ref="4896543744"/>
+    <nd ref="4896543745"/>
+    <nd ref="14569905"/>
+    <nd ref="4896543743"/>
+    <nd ref="1199282975"/>
+    <nd ref="14569903"/>
+    <nd ref="4896543739"/>
+    <nd ref="4896543740"/>
+    <nd ref="4896543741"/>
+    <nd ref="14569902"/>
+    <nd ref="4896543742"/>
+    <nd ref="2968013370"/>
+    <nd ref="2968013371"/>
+    <nd ref="4057179722"/>
+    <nd ref="1199241903"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A606"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39911653" version="6" timestamp="2021-02-09T04:20:12Z" changeset="98942660" uid="11734030" user="uchodip">
+    <nd ref="330555069"/>
+    <nd ref="479180779"/>
+    <nd ref="479180781"/>
+    <nd ref="3658274899"/>
+    <nd ref="479180783"/>
+    <nd ref="3658274897"/>
+    <nd ref="3658274896"/>
+    <nd ref="479180786"/>
+    <nd ref="479180789"/>
+    <nd ref="3658274889"/>
+    <nd ref="479180791"/>
+    <nd ref="3658274886"/>
+    <nd ref="479180793"/>
+    <nd ref="3916866019"/>
+    <nd ref="479180796"/>
+    <nd ref="8406973418"/>
+    <nd ref="479180798"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Leys"/>
+    <tag k="postal_code" v="NG12 5NU"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="39911655" version="3" timestamp="2015-12-29T17:29:29Z" changeset="36246398" uid="84681" user="SK53">
+    <nd ref="479180791"/>
+    <nd ref="3658274883"/>
+    <nd ref="479180800"/>
+    <nd ref="3916865973"/>
+    <nd ref="479180802"/>
+    <nd ref="479180805"/>
+    <nd ref="3658274873"/>
+    <nd ref="479180806"/>
+    <nd ref="479180808"/>
+    <nd ref="3658274875"/>
+    <nd ref="479180810"/>
+    <nd ref="3658274879"/>
+    <nd ref="3658274881"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Leys"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="98342991" version="4" timestamp="2015-07-19T21:56:36Z" changeset="32742804" uid="207845" user="will_p">
+    <nd ref="330555069"/>
+    <nd ref="3658274903"/>
+    <nd ref="479180774"/>
+    <nd ref="479180775"/>
+    <nd ref="3658274900"/>
+    <nd ref="3658274901"/>
+    <nd ref="3658274902"/>
+    <nd ref="330555071"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Clipston Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="OS OpenData Locator"/>
+  </way>
+  <way id="103890245" version="5" timestamp="2021-01-15T10:10:55Z" changeset="97550500" uid="1431482" user="JonOrchard">
+    <nd ref="4057179722"/>
+    <nd ref="390309319"/>
+    <nd ref="2968013369"/>
+    <nd ref="2968013368"/>
+    <nd ref="390309320"/>
+    <nd ref="2968013367"/>
+    <nd ref="2968013366"/>
+    <nd ref="2968013365"/>
+    <nd ref="390309321"/>
+    <nd ref="2968013363"/>
+    <nd ref="2968013364"/>
+    <nd ref="390310341"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Laming Gap Lane"/>
+    <tag k="source" v="NPE"/>
+    <tag k="source:maxspeed" v="Mapillary"/>
+  </way>
+  <way id="104494670" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629814"/>
+    <nd ref="1205629788"/>
+    <nd ref="1205629824"/>
+    <nd ref="1205629531"/>
+    <nd ref="1205629814"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494703" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629832"/>
+    <nd ref="1205629229"/>
+    <nd ref="1205629597"/>
+    <nd ref="1205629752"/>
+    <nd ref="1205629832"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494714" version="5" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629710"/>
+    <nd ref="1205629591"/>
+    <nd ref="2611393011"/>
+    <nd ref="2611393014"/>
+    <nd ref="2611393007"/>
+    <nd ref="2611393003"/>
+    <nd ref="1205629437"/>
+    <nd ref="2611392999"/>
+    <nd ref="2611392995"/>
+    <nd ref="2611392991"/>
+    <nd ref="2611392987"/>
+    <nd ref="1205629750"/>
+    <nd ref="2611393388"/>
+    <nd ref="2611393383"/>
+    <nd ref="1205629710"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494731" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629225"/>
+    <nd ref="1205629440"/>
+    <nd ref="1205629705"/>
+    <nd ref="1205629626"/>
+    <nd ref="1205629225"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494732" version="3" timestamp="2021-01-26T13:02:00Z" changeset="98166081" uid="1431482" user="JonOrchard">
+    <nd ref="1205629791"/>
+    <nd ref="1205629762"/>
+    <nd ref="1205629844"/>
+    <nd ref="1205629838"/>
+    <nd ref="1205629791"/>
+    <tag k="addr:housename" v="Elmwood"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Elmwood"/>
+    <tag k="source:housename" v="OS OpenData StreetView"/>
+  </way>
+  <way id="104494747" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629373"/>
+    <nd ref="1205629682"/>
+    <nd ref="1205629749"/>
+    <nd ref="1205629747"/>
+    <nd ref="1205629373"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494751" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629837"/>
+    <nd ref="1205629593"/>
+    <nd ref="1205629822"/>
+    <nd ref="1205629366"/>
+    <nd ref="1205629837"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494754" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629578"/>
+    <nd ref="1205629641"/>
+    <nd ref="1205629293"/>
+    <nd ref="1205629615"/>
+    <nd ref="1205629578"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494764" version="4" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629769"/>
+    <nd ref="1205629502"/>
+    <nd ref="2611388613"/>
+    <nd ref="2611388615"/>
+    <nd ref="2611388617"/>
+    <nd ref="2611388611"/>
+    <nd ref="1205629741"/>
+    <nd ref="2611388609"/>
+    <nd ref="2611388607"/>
+    <nd ref="2611388605"/>
+    <nd ref="1205629690"/>
+    <nd ref="2611388603"/>
+    <nd ref="2611388601"/>
+    <nd ref="2611388598"/>
+    <nd ref="2611388596"/>
+    <nd ref="2611388592"/>
+    <nd ref="1205629769"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494765" version="5" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629693"/>
+    <nd ref="1205629643"/>
+    <nd ref="2611388619"/>
+    <nd ref="2611388620"/>
+    <nd ref="2611388622"/>
+    <nd ref="1205629394"/>
+    <nd ref="2611388621"/>
+    <nd ref="2611388625"/>
+    <nd ref="2611388624"/>
+    <nd ref="2611388623"/>
+    <nd ref="1205629693"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="The Leys"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494770" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629732"/>
+    <nd ref="1205629408"/>
+    <nd ref="1205629346"/>
+    <nd ref="1205629550"/>
+    <nd ref="1205629732"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494779" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629724"/>
+    <nd ref="1205629614"/>
+    <nd ref="1205629376"/>
+    <nd ref="1205629319"/>
+    <nd ref="1205629724"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494780" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629594"/>
+    <nd ref="1205629627"/>
+    <nd ref="3916866003"/>
+    <nd ref="3916865995"/>
+    <nd ref="3916865981"/>
+    <nd ref="3916865968"/>
+    <nd ref="3916866010"/>
+    <nd ref="1205629671"/>
+    <nd ref="1205629654"/>
+    <nd ref="3916866007"/>
+    <nd ref="3916865979"/>
+    <nd ref="1205629594"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494781" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629665"/>
+    <nd ref="3916865975"/>
+    <nd ref="3916865992"/>
+    <nd ref="1205629840"/>
+    <nd ref="1205629715"/>
+    <nd ref="1205629772"/>
+    <nd ref="1205629665"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494784" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629258"/>
+    <nd ref="1205629414"/>
+    <nd ref="1205629548"/>
+    <nd ref="1205629853"/>
+    <nd ref="1205629258"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494786" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629658"/>
+    <nd ref="1205629778"/>
+    <nd ref="1205629624"/>
+    <nd ref="1205629351"/>
+    <nd ref="1205629658"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="104494789" version="3" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1205629340"/>
+    <nd ref="1205629700"/>
+    <nd ref="1205629221"/>
+    <nd ref="1205629646"/>
+    <nd ref="1205629340"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="307050789" version="1" timestamp="2014-10-09T17:54:05Z" changeset="25966496" uid="84681" user="SK53">
+    <nd ref="3120938527"/>
+    <nd ref="479180798"/>
+    <nd ref="3120940162"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Leys"/>
+    <tag k="postal_code" v="NG12 5NU"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="334240329" version="4" timestamp="2020-12-22T04:53:51Z" changeset="96229152" uid="11734032" user="daitv">
+    <nd ref="2331701632"/>
+    <nd ref="3658274492"/>
+    <nd ref="2331701633"/>
+    <nd ref="390309349"/>
+    <nd ref="479180765"/>
+    <nd ref="3658274725"/>
+    <nd ref="472666393"/>
+    <nd ref="472666394"/>
+    <nd ref="3658274781"/>
+    <nd ref="390309350"/>
+    <nd ref="390309351"/>
+    <nd ref="3658274793"/>
+    <nd ref="390323622"/>
+    <nd ref="3658274810"/>
+    <nd ref="8250624514"/>
+    <nd ref="390309352"/>
+    <nd ref="3658274816"/>
+    <nd ref="3658274823"/>
+    <nd ref="472666395"/>
+    <nd ref="3658274824"/>
+    <nd ref="3658274826"/>
+    <nd ref="3658274829"/>
+    <nd ref="390309353"/>
+    <nd ref="3658274828"/>
+    <nd ref="390309354"/>
+    <nd ref="472666397"/>
+    <nd ref="3658274819"/>
+    <nd ref="8250624516"/>
+    <nd ref="472666398"/>
+    <nd ref="390309355"/>
+    <nd ref="3658274821"/>
+    <nd ref="472666399"/>
+    <nd ref="479180818"/>
+    <nd ref="396095055"/>
+    <nd ref="5645763480"/>
+    <nd ref="3120939937"/>
+    <nd ref="3658274839"/>
+    <nd ref="472666385"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Old Melton Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="361337829" version="3" timestamp="2024-01-19T19:32:09Z" changeset="146455440" uid="242345" user="confusedbuffalo">
+    <nd ref="3658274922"/>
+    <nd ref="330555055"/>
+    <nd ref="1137759000"/>
+    <nd ref="330555056"/>
+    <nd ref="3658274919"/>
+    <nd ref="330555058"/>
+    <nd ref="1199242005"/>
+    <nd ref="3658274917"/>
+    <nd ref="1137758998"/>
+    <nd ref="3658274918"/>
+    <nd ref="330555060"/>
+    <nd ref="330555061"/>
+    <nd ref="3658274916"/>
+    <nd ref="3658274915"/>
+    <nd ref="1137759030"/>
+    <nd ref="3658274914"/>
+    <nd ref="330555062"/>
+    <nd ref="3658274913"/>
+    <nd ref="1137759033"/>
+    <nd ref="3658274912"/>
+    <nd ref="330555063"/>
+    <nd ref="3658274907"/>
+    <nd ref="1137758986"/>
+    <nd ref="3658274904"/>
+    <nd ref="330555064"/>
+    <nd ref="1137758996"/>
+    <nd ref="330555065"/>
+    <nd ref="1137758982"/>
+    <nd ref="1137759040"/>
+    <nd ref="1137758979"/>
+    <nd ref="2676922967"/>
+    <nd ref="330555066"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Church Gate"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="361337830" version="2" timestamp="2015-12-29T17:29:37Z" changeset="36246398" uid="84681" user="SK53">
+    <nd ref="330555066"/>
+    <nd ref="1137758994"/>
+    <nd ref="3658274908"/>
+    <nd ref="2676922965"/>
+    <nd ref="330555067"/>
+    <nd ref="3916865970"/>
+    <nd ref="1137759025"/>
+    <nd ref="330555069"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Gate"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="361337834" version="2" timestamp="2016-03-08T21:45:40Z" changeset="37696469" uid="84681" user="SK53">
+    <nd ref="14569911"/>
+    <nd ref="479180751"/>
+    <nd ref="479180758"/>
+    <nd ref="3658274498"/>
+    <nd ref="479180761"/>
+    <nd ref="1187361545"/>
+    <nd ref="3658274504"/>
+    <nd ref="479180763"/>
+    <nd ref="479180765"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Platt Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="388493563" version="2" timestamp="2025-02-26T16:55:58Z" changeset="162980223" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="3916865982"/>
+    <nd ref="3916865997"/>
+    <nd ref="3916865987"/>
+    <nd ref="3916866004"/>
+    <nd ref="3916866024"/>
+    <nd ref="3916865978"/>
+    <nd ref="3916866023"/>
+    <nd ref="3916865994"/>
+    <nd ref="3916865971"/>
+    <nd ref="3916865983"/>
+    <nd ref="3916865982"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="NG12 5NU"/>
+    <tag k="addr:street" v="The Leys"/>
+    <tag k="addr:suburb" v="Plumtree"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="412696790" version="3" timestamp="2024-01-19T19:32:09Z" changeset="146455440" uid="242345" user="confusedbuffalo">
+    <nd ref="4140551108"/>
+    <nd ref="4140551115"/>
+    <nd ref="4140551126"/>
+    <nd ref="36428834"/>
+    <nd ref="4140551171"/>
+    <nd ref="36428842"/>
+    <nd ref="3649795713"/>
+    <nd ref="36428843"/>
+    <nd ref="5646316790"/>
+    <nd ref="36428844"/>
+    <nd ref="36428845"/>
+    <nd ref="3658274490"/>
+    <nd ref="14569911"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Platt Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="431052171" version="4" timestamp="2021-01-11T02:52:27Z" changeset="97271326" uid="322039" user="MacLondon">
+    <nd ref="4303028921"/>
+    <nd ref="360341348"/>
+    <nd ref="360341349"/>
+    <nd ref="6892675786"/>
+    <nd ref="3937608485"/>
+    <nd ref="360341350"/>
+    <nd ref="360341351"/>
+    <nd ref="3937608486"/>
+    <nd ref="360341352"/>
+    <nd ref="360341343"/>
+    <nd ref="8250798245"/>
+    <nd ref="1222316475"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="name" v="Cotgrave Road"/>
+    <tag k="source" v="gps"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="511852874" version="3" timestamp="2022-08-10T09:43:55Z" changeset="124716849" uid="350183" user="Belseybob">
+    <nd ref="5006025750"/>
+    <nd ref="472666386"/>
+    <nd ref="4896543761"/>
+    <nd ref="14569914"/>
+    <nd ref="472666387"/>
+    <nd ref="4896543760"/>
+    <nd ref="14569913"/>
+    <nd ref="4896543759"/>
+    <nd ref="4896543757"/>
+    <nd ref="4896543758"/>
+    <nd ref="14569912"/>
+    <nd ref="4896543756"/>
+    <nd ref="14569911"/>
+    <nd ref="14569910"/>
+    <nd ref="2331701635"/>
+    <nd ref="2331701634"/>
+    <nd ref="4896543755"/>
+    <nd ref="14569909"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A606"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="511852875" version="5" timestamp="2021-02-09T04:50:28Z" changeset="98944417" uid="11734033" user="saiguru">
+    <nd ref="5006025751"/>
+    <nd ref="3323919576"/>
+    <nd ref="3658274909"/>
+    <nd ref="330554133"/>
+    <nd ref="330554564"/>
+    <nd ref="3658274910"/>
+    <nd ref="3658274911"/>
+    <nd ref="330554565"/>
+    <nd ref="1200848194"/>
+    <nd ref="2331701665"/>
+    <nd ref="2331701664"/>
+    <nd ref="2331701662"/>
+    <nd ref="2331701649"/>
+    <nd ref="330554566"/>
+    <nd ref="1200848070"/>
+    <nd ref="330554568"/>
+    <nd ref="3937608480"/>
+    <nd ref="3937608482"/>
+    <nd ref="7242413460"/>
+    <nd ref="330554569"/>
+    <nd ref="3937608483"/>
+    <nd ref="360341346"/>
+    <nd ref="8407022614"/>
+    <nd ref="360341347"/>
+    <nd ref="4303028921"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="name" v="Cotgrave Road"/>
+    <tag k="source" v="gps"/>
+  </way>
+  <way id="575506320" version="3" timestamp="2022-08-10T09:42:36Z" changeset="124716849" uid="350183" user="Belseybob">
+    <nd ref="1199241903"/>
+    <nd ref="14569901"/>
+    <nd ref="2968025082"/>
+    <nd ref="2968025081"/>
+    <nd ref="14569900"/>
+    <nd ref="2968025084"/>
+    <nd ref="2968025083"/>
+    <nd ref="5522186644"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A606"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="591249154" version="1" timestamp="2018-05-26T18:23:38Z" changeset="59299175" uid="84681" user="SK53">
+    <nd ref="390323636"/>
+    <nd ref="3658274790"/>
+    <nd ref="390323637"/>
+    <nd ref="390323638"/>
+    <nd ref="3658274764"/>
+    <nd ref="390323639"/>
+    <nd ref="3658274523"/>
+    <nd ref="390323640"/>
+    <nd ref="3658274510"/>
+    <nd ref="1187361553"/>
+    <nd ref="3658274503"/>
+    <nd ref="1187361545"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Back Lane"/>
+    <tag k="source" v="survey;GPS"/>
+  </way>
+  <way id="591263816" version="1" timestamp="2018-05-26T20:44:25Z" changeset="59301594" uid="84681" user="SK53">
+    <nd ref="1199241972"/>
+    <nd ref="5644573108"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A606"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="591263817" version="2" timestamp="2022-08-10T09:44:34Z" changeset="124718900" uid="350183" user="Belseybob">
+    <nd ref="5644573108"/>
+    <nd ref="14569915"/>
+    <nd ref="5006025750"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Melton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A606"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="591356209" version="3" timestamp="2022-03-09T22:29:08Z" changeset="118296705" uid="242345" user="confusedbuffalo">
+    <nd ref="5645763476"/>
+    <nd ref="472666385"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="ref" v="A606"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="verge" v="right"/>
+  </way>
+  <way id="802641252" version="2" timestamp="2021-01-11T02:52:28Z" changeset="97271326" uid="322039" user="MacLondon">
+    <nd ref="7507985928"/>
+    <nd ref="27584040"/>
+    <nd ref="330555071"/>
+    <nd ref="5006025751"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="name" v="Cotgrave Road"/>
+    <tag k="source" v="gps"/>
+  </way>
+  <way id="887407106" version="1" timestamp="2020-12-22T04:53:51Z" changeset="96229152" uid="11734032" user="daitv">
+    <nd ref="8250624512"/>
+    <nd ref="8250624515"/>
+    <nd ref="8250624513"/>
+    <nd ref="8250624514"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="898444180" version="2" timestamp="2021-01-26T13:02:00Z" changeset="98166081" uid="1431482" user="JonOrchard">
+    <nd ref="8348996949"/>
+    <nd ref="8348996950"/>
+    <nd ref="8348996951"/>
+    <nd ref="8348996952"/>
+    <nd ref="8348996953"/>
+    <nd ref="8348996954"/>
+    <nd ref="8348996955"/>
+    <nd ref="8348996956"/>
+    <nd ref="8348996957"/>
+    <nd ref="8348996958"/>
+    <nd ref="8348996959"/>
+    <nd ref="8348996960"/>
+    <nd ref="8348996961"/>
+    <nd ref="8348996962"/>
+    <nd ref="8348996949"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hoe Hill Farm"/>
+  </way>
+  <way id="898445121" version="2" timestamp="2021-01-26T13:02:00Z" changeset="98166081" uid="1431482" user="JonOrchard">
+    <nd ref="8349004947"/>
+    <nd ref="8349004948"/>
+    <nd ref="8349004949"/>
+    <nd ref="8349004950"/>
+    <nd ref="8349004951"/>
+    <nd ref="8349004952"/>
+    <nd ref="8349004953"/>
+    <nd ref="8349004954"/>
+    <nd ref="8349004947"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hoe Hill Cottage"/>
+  </way>
+  <way id="898445124" version="2" timestamp="2021-01-26T13:02:00Z" changeset="98166081" uid="1431482" user="JonOrchard">
+    <nd ref="8349004965"/>
+    <nd ref="8349004966"/>
+    <nd ref="8349004967"/>
+    <nd ref="8349004968"/>
+    <nd ref="8349004969"/>
+    <nd ref="8349004970"/>
+    <nd ref="8349004971"/>
+    <nd ref="8349004972"/>
+    <nd ref="8349004965"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Haven"/>
+  </way>
+
+</osm>

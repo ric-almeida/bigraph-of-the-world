@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:09:05Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="128162627" lat="53.2544555" lon="-0.8509283" version="6" timestamp="2017-10-19T23:41:31Z" changeset="53083772" uid="61942" user="SomeoneElse">
+    <tag k="note" v="40 mph limit has moved west, but how far?"/>
+  </node>
+  <node id="128162705" lat="53.2366846" lon="-0.8773402" version="4" timestamp="2010-12-12T20:03:45Z" changeset="6640199" uid="84681" user="SK53"/>
+  <node id="128163040" lat="53.2392708" lon="-0.8351870" version="2" timestamp="2012-05-17T15:24:20Z" changeset="11624353" uid="61942" user="SomeoneElse"/>
+  <node id="1822355680" lat="53.2572850" lon="-0.8405548" version="2" timestamp="2015-11-05T23:24:02Z" changeset="35113134" uid="61942" user="SomeoneElse"/>
+  <node id="13130819715" lat="53.2552795" lon="-0.8270318" version="1" timestamp="2025-09-09T12:10:21Z" changeset="171682947" uid="20652475" user="scottpengelly"/>
+  <way id="135731233" version="9" timestamp="2024-07-01T20:17:17Z" changeset="153428056" uid="1627382" user="fesamil">
+    <nd ref="128162705"/>
+    <nd ref="1036365843"/>
+    <nd ref="128162697"/>
+    <nd ref="2831764634"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Darlton Road"/>
+    <tag k="ref" v="A6075"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="163966874" version="9" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="1756230391"/>
+    <nd ref="128162595"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Broad Gate"/>
+    <tag k="ref" v="A57"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="163966877" version="6" timestamp="2017-10-19T23:41:31Z" changeset="53083772" uid="61942" user="SomeoneElse">
+    <nd ref="128162627"/>
+    <nd ref="2502057446"/>
+    <nd ref="1036365823"/>
+    <nd ref="3129757748"/>
+    <nd ref="128162617"/>
+    <nd ref="3129757749"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Broad Gate"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="ref" v="A57"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="verge" v="both"/>
+  </way>
+  <way id="163966878" version="5" timestamp="2025-06-14T07:24:33Z" changeset="167601481" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="128162796"/>
+    <nd ref="8367655914"/>
+    <nd ref="3819813739"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Woodcoates Road"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="163966880" version="7" timestamp="2025-05-08T18:29:05Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="128163040"/>
+    <nd ref="165092093"/>
+    <nd ref="1756230384"/>
+    <nd ref="3640047029"/>
+    <nd ref="1756230395"/>
+    <nd ref="3641694022"/>
+    <nd ref="3639980495"/>
+    <nd ref="165092106"/>
+    <nd ref="1756230394"/>
+    <nd ref="3641694034"/>
+    <nd ref="3641694036"/>
+    <nd ref="1756230385"/>
+    <nd ref="1756230386"/>
+    <nd ref="3639988636"/>
+    <nd ref="11989787861"/>
+    <nd ref="165092115"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Green Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="307770825" version="5" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="3129757749"/>
+    <nd ref="128162609"/>
+    <nd ref="1822355698"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Broad Gate"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="ref" v="A57"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="verge" v="both"/>
+  </way>
+  <way id="307770826" version="10" timestamp="2025-09-14T19:34:44Z" changeset="171933951" uid="3951648" user="rskedgell">
+    <nd ref="13130819715"/>
+    <nd ref="13130819714"/>
+    <nd ref="128162499"/>
+    <nd ref="1036365724"/>
+    <nd ref="3817938346"/>
+    <nd ref="128162739"/>
+    <nd ref="1822359507"/>
+    <nd ref="1036365759"/>
+    <nd ref="128162492"/>
+    <nd ref="453334453"/>
+    <nd ref="1036365749"/>
+    <nd ref="128162485"/>
+    <nd ref="8082957739"/>
+    <nd ref="453334452"/>
+    <nd ref="13143180831"/>
+    <nd ref="128162482"/>
+    <nd ref="453334450"/>
+    <nd ref="453334447"/>
+    <nd ref="6512531783"/>
+    <nd ref="1036365728"/>
+    <nd ref="453334449"/>
+    <nd ref="128162476"/>
+    <nd ref="128162472"/>
+    <nd ref="453334444"/>
+    <nd ref="1036365819"/>
+    <nd ref="453334445"/>
+    <nd ref="128162466"/>
+    <nd ref="1036365821"/>
+    <nd ref="453334442"/>
+    <nd ref="453334441"/>
+    <nd ref="2847650163"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="ref" v="A57"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="verge" v="both"/>
+  </way>
+  <way id="378369742" version="5" timestamp="2025-05-08T18:29:54Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1036365811"/>
+    <nd ref="3817831441"/>
+    <nd ref="3129757752"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="ref" v="A57"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="verge" v="both"/>
+  </way>
+  <way id="378575396" version="3" timestamp="2025-06-14T10:45:00Z" changeset="167607248" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="1822355680"/>
+    <nd ref="1822355734"/>
+    <nd ref="1822355718"/>
+    <nd ref="1822355682"/>
+    <nd ref="1822355773"/>
+    <nd ref="1822355746"/>
+    <nd ref="1822355736"/>
+    <nd ref="1822355774"/>
+    <nd ref="1822355753"/>
+    <nd ref="1822355695"/>
+    <nd ref="1822355699"/>
+    <nd ref="1822355758"/>
+    <nd ref="3819813748"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Darlton Road"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="378575791" version="2" timestamp="2024-06-23T16:33:50Z" changeset="153076210" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="3819813748"/>
+    <nd ref="1822355683"/>
+    <nd ref="1822355710"/>
+    <nd ref="1822355698"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Darlton Road"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="378575793" version="1" timestamp="2015-11-05T23:32:43Z" changeset="35113134" uid="61942" user="SomeoneElse">
+    <nd ref="3819813741"/>
+    <nd ref="3819813736"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="View from road;Bing"/>
+  </way>
+  <way id="378575794" version="3" timestamp="2023-02-08T11:40:14Z" changeset="132251387" uid="15935012" user="aw89">
+    <nd ref="1822355698"/>
+    <nd ref="1311756578"/>
+    <nd ref="1036365769"/>
+    <nd ref="128162601"/>
+    <nd ref="128162796"/>
+    <nd ref="3129757750"/>
+    <nd ref="3819813741"/>
+    <nd ref="1756230391"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Broad Gate"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="ref" v="A57"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="378575795" version="1" timestamp="2015-11-05T23:32:44Z" changeset="35113134" uid="61942" user="SomeoneElse">
+    <nd ref="3819813738"/>
+    <nd ref="3819813736"/>
+    <nd ref="3819813735"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="View from road;Bing"/>
+  </way>
+  <way id="378575796" version="6" timestamp="2021-01-27T14:41:17Z" changeset="98236216" uid="10252543" user="srikmar">
+    <nd ref="3819813739"/>
+    <nd ref="8367678136"/>
+    <nd ref="1756230396"/>
+    <nd ref="8367678124"/>
+    <nd ref="6541184979"/>
+    <nd ref="1756230378"/>
+    <nd ref="6784608409"/>
+    <nd ref="128162801"/>
+    <nd ref="3639980493"/>
+    <nd ref="3639980494"/>
+    <nd ref="1756230393"/>
+    <nd ref="128162805"/>
+    <nd ref="128162813"/>
+    <nd ref="1756230392"/>
+    <nd ref="1756230381"/>
+    <nd ref="1756230382"/>
+    <nd ref="7954062118"/>
+    <nd ref="6541187196"/>
+    <nd ref="128163030"/>
+    <nd ref="7954062117"/>
+    <nd ref="128163040"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Woodcoates Road"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="378575798" version="5" timestamp="2023-02-08T11:40:14Z" changeset="132251387" uid="15935012" user="aw89">
+    <nd ref="128162595"/>
+    <nd ref="1036365747"/>
+    <nd ref="1036365756"/>
+    <nd ref="6482319335"/>
+    <nd ref="1036365726"/>
+    <nd ref="128162517"/>
+    <nd ref="3129757754"/>
+    <nd ref="7829177031"/>
+    <nd ref="3129757755"/>
+    <nd ref="453334457"/>
+    <nd ref="6482319340"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Broad Gate"/>
+    <tag k="ref" v="A57"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="386858474" version="4" timestamp="2021-06-07T14:25:21Z" changeset="105978496" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="2831764634"/>
+    <nd ref="128162695"/>
+    <nd ref="1036365790"/>
+    <nd ref="1036365825"/>
+    <nd ref="1036365827"/>
+    <nd ref="1036365862"/>
+    <nd ref="1036365722"/>
+    <nd ref="3639979992"/>
+    <nd ref="128162690"/>
+    <nd ref="1036365780"/>
+    <nd ref="1036365805"/>
+    <nd ref="1036365739"/>
+    <nd ref="1036365787"/>
+    <nd ref="1036365785"/>
+    <nd ref="1036365841"/>
+    <nd ref="1036365800"/>
+    <nd ref="6904715468"/>
+    <nd ref="1036365773"/>
+    <nd ref="1036365799"/>
+    <nd ref="1036365782"/>
+    <nd ref="3901926695"/>
+    <nd ref="128162679"/>
+    <nd ref="1036365792"/>
+    <nd ref="1036365809"/>
+    <nd ref="3639979991"/>
+    <nd ref="1036365802"/>
+    <nd ref="128162671"/>
+    <nd ref="1036365775"/>
+    <nd ref="1036365852"/>
+    <nd ref="1036365830"/>
+    <nd ref="1036365766"/>
+    <nd ref="1036365771"/>
+    <nd ref="1036365807"/>
+    <nd ref="1036365794"/>
+    <nd ref="128162617"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="not:name" v="Darlton Road"/>
+    <tag k="ref" v="A6075"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="source:name" v="No signed name;no name on OS Locator"/>
+  </way>
+  <way id="533689946" version="3" timestamp="2022-07-20T11:19:30Z" changeset="123846609" uid="8775772" user="LakatosVL">
+    <nd ref="5177312741"/>
+    <nd ref="5177312742"/>
+    <nd ref="5177312743"/>
+    <nd ref="5177312738"/>
+    <nd ref="5177312741"/>
+    <tag k="building" v="church"/>
+    <tag k="name" v="St Giles"/>
+    <tag k="note" v="former Anglican church, now privately owned"/>
+    <tag k="source" v="Bing"/>
+    <tag k="wikidata" v="Q15979353"/>
+    <tag k="wikipedia" v="en:St Giles' Church, Darlton"/>
+  </way>
+  <way id="1025307732" version="2" timestamp="2023-02-08T11:40:14Z" changeset="132251387" uid="15935012" user="aw89">
+    <nd ref="6482319340"/>
+    <nd ref="453334459"/>
+    <nd ref="1036365813"/>
+    <nd ref="3129757756"/>
+    <nd ref="1036365855"/>
+    <nd ref="1036365811"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="ref" v="A57"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="Bing;GPS"/>
+  </way>
+  <way id="1428272982" version="1" timestamp="2025-09-09T12:10:21Z" changeset="171682947" uid="20652475" user="scottpengelly">
+    <nd ref="3129757752"/>
+    <nd ref="128162507"/>
+    <nd ref="1036365743"/>
+    <nd ref="13130819715"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="ref" v="A57"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="verge" v="both"/>
+  </way>
+
+</osm>

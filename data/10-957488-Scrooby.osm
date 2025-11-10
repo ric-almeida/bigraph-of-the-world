@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:50:02Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="31497926" lat="53.3873502" lon="-1.0171103" version="11" timestamp="2014-02-07T09:12:08Z" changeset="20426374" uid="101150" user="Steeley"/>
+  <node id="31498434" lat="53.4199638" lon="-1.0246656" version="10" timestamp="2014-05-13T16:18:19Z" changeset="22314539" uid="2011702" user="krd_mapper"/>
+  <node id="31498436" lat="53.4208532" lon="-1.0244788" version="10" timestamp="2014-05-13T16:18:19Z" changeset="22314539" uid="2011702" user="krd_mapper"/>
+  <node id="31498448" lat="53.4232058" lon="-1.0235607" version="5" timestamp="2014-05-13T16:18:19Z" changeset="22314539" uid="2011702" user="krd_mapper">
+    <tag k="note" v="This is actually a more complicated junction"/>
+  </node>
+  <node id="374394142" lat="53.4184343" lon="-1.0286994" version="4" timestamp="2014-05-13T16:15:13Z" changeset="22314539" uid="2011702" user="krd_mapper"/>
+  <node id="482728310" lat="53.3896729" lon="-1.0175026" version="4" timestamp="2025-02-02T17:55:07Z" changeset="162056479" uid="8857" user="philipcullen">
+    <tag k="ref:GB:uprn" v="10013979875"/>
+  </node>
+  <node id="2677539323" lat="53.4223494" lon="-1.0239158" version="1" timestamp="2014-02-17T19:56:07Z" changeset="20622542" uid="453695" user="RR81"/>
+  <node id="3379703324" lat="53.4013394" lon="-1.0466263" version="1" timestamp="2015-03-02T15:51:38Z" changeset="29202054" uid="2020484" user="Nigel Greens"/>
+  <way id="4877074" version="16" timestamp="2025-04-17T19:43:28Z" changeset="165087057" uid="12616743" user="BassetlawMapper">
+    <nd ref="3379703324"/>
+    <nd ref="33945142"/>
+    <nd ref="3380555165"/>
+    <nd ref="33945143"/>
+    <nd ref="33945144"/>
+    <nd ref="482730913"/>
+    <nd ref="3156266286"/>
+    <nd ref="3156266294"/>
+    <nd ref="6499531274"/>
+    <nd ref="482730911"/>
+    <nd ref="3379703266"/>
+    <nd ref="482730910"/>
+    <nd ref="482730909"/>
+    <nd ref="482730908"/>
+    <nd ref="3156266275"/>
+    <nd ref="6481199053"/>
+    <nd ref="482730907"/>
+    <nd ref="482730905"/>
+    <nd ref="10044998676"/>
+    <nd ref="2340471404"/>
+    <nd ref="482730904"/>
+    <nd ref="482730894"/>
+    <nd ref="482730899"/>
+    <nd ref="2659114290"/>
+    <nd ref="482730902"/>
+    <nd ref="7897151073"/>
+    <nd ref="2659114322"/>
+    <nd ref="767569662"/>
+    <nd ref="12763019659"/>
+    <nd ref="482730900"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+  </way>
+  <way id="23023516" version="14" timestamp="2021-02-09T05:12:56Z" changeset="98945743" uid="9196103" user="srinatpa">
+    <nd ref="31498448"/>
+    <nd ref="31498449"/>
+    <nd ref="8407049094"/>
+    <nd ref="6514518433"/>
+    <nd ref="481345508"/>
+    <nd ref="3128266577"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="27694540" version="8" timestamp="2014-10-13T19:54:37Z" changeset="26057691" uid="91225" user="tms13">
+    <nd ref="31498436"/>
+    <nd ref="304142878"/>
+    <nd ref="378483869"/>
+    <nd ref="378483860"/>
+    <nd ref="378483877"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="31548745" version="8" timestamp="2020-09-21T08:00:16Z" changeset="91210811" uid="10126647" user="ansukess">
+    <nd ref="31498054"/>
+    <nd ref="601607137"/>
+    <nd ref="7927493467"/>
+    <nd ref="767569998"/>
+    <nd ref="353027690"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Low Road"/>
+  </way>
+  <way id="33294475" version="6" timestamp="2014-10-13T19:54:37Z" changeset="26057691" uid="91225" user="tms13">
+    <nd ref="31498434"/>
+    <nd ref="378483888"/>
+    <nd ref="2855848780"/>
+    <nd ref="2855848781"/>
+    <nd ref="378483898"/>
+    <nd ref="378483877"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="33786753" version="5" timestamp="2019-02-18T10:47:33Z" changeset="67310234" uid="9268825" user="sushredd">
+    <nd ref="374394142"/>
+    <nd ref="6285752683"/>
+    <nd ref="2855835689"/>
+    <nd ref="2855835688"/>
+    <nd ref="2855835690"/>
+    <nd ref="2855835687"/>
+    <nd ref="31498117"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gibbet Hill Lane"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="40108897" version="9" timestamp="2023-07-19T16:27:47Z" changeset="138725493" uid="12616743" user="BassetlawMapper">
+    <nd ref="482728310"/>
+    <nd ref="11055205643"/>
+    <nd ref="726798758"/>
+    <nd ref="726798761"/>
+    <nd ref="9009050492"/>
+    <nd ref="11055205644"/>
+    <nd ref="4683832532"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Folly Nook Lane"/>
+  </way>
+  <way id="47217189" version="3" timestamp="2010-06-09T00:36:34Z" changeset="4941635" uid="26825" user="Warofdreams">
+    <nd ref="353027691"/>
+    <nd ref="601607136"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Church Lane"/>
+  </way>
+  <way id="47217191" version="9" timestamp="2024-04-21T13:21:54Z" changeset="150302343" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="601607136"/>
+    <nd ref="7927493469"/>
+    <nd ref="767570077"/>
+    <nd ref="767570078"/>
+    <nd ref="8086653083"/>
+    <nd ref="7800383061"/>
+    <nd ref="11834946627"/>
+    <nd ref="601607135"/>
+    <nd ref="3374577771"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Saracens Lane"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="47217192" version="10" timestamp="2025-04-17T21:05:11Z" changeset="165089138" uid="12616743" user="BassetlawMapper">
+    <nd ref="353027690"/>
+    <nd ref="9103689612"/>
+    <nd ref="12763142554"/>
+    <nd ref="767569982"/>
+    <nd ref="7927493460"/>
+    <nd ref="2855680814"/>
+    <nd ref="767569892"/>
+    <nd ref="3103884284"/>
+    <nd ref="601607138"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Station Road"/>
+  </way>
+  <way id="47217194" version="5" timestamp="2025-04-17T21:05:11Z" changeset="165089138" uid="12616743" user="BassetlawMapper">
+    <nd ref="601607141"/>
+    <nd ref="12763142551"/>
+    <nd ref="9103689611"/>
+    <nd ref="12763142550"/>
+    <nd ref="601607142"/>
+    <nd ref="601607140"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Manor Road"/>
+  </way>
+  <way id="47217195" version="8" timestamp="2025-04-17T21:05:11Z" changeset="165089138" uid="12616743" user="BassetlawMapper">
+    <nd ref="767569776"/>
+    <nd ref="767569778"/>
+    <nd ref="767569791"/>
+    <nd ref="767569779"/>
+    <nd ref="2340471407"/>
+    <nd ref="601607139"/>
+    <nd ref="6784490791"/>
+    <nd ref="601607142"/>
+    <nd ref="12763142549"/>
+    <nd ref="9103689609"/>
+    <nd ref="353027690"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Low Road"/>
+  </way>
+  <way id="48218053" version="4" timestamp="2023-11-01T16:58:28Z" changeset="143485989" uid="10860083" user="jordie8396">
+    <nd ref="31498436"/>
+    <nd ref="31498435"/>
+    <nd ref="11305039303"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="61510800" version="4" timestamp="2025-04-17T21:05:11Z" changeset="165089138" uid="12616743" user="BassetlawMapper">
+    <nd ref="353027691"/>
+    <nd ref="9103689608"/>
+    <nd ref="601607141"/>
+    <nd ref="12763142552"/>
+    <nd ref="12763142553"/>
+    <nd ref="353027692"/>
+    <nd ref="353027693"/>
+    <nd ref="353027694"/>
+    <nd ref="31498082"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Chapel Lane"/>
+  </way>
+  <way id="61510801" version="1" timestamp="2010-06-09T00:35:25Z" changeset="4941635" uid="26825" user="Warofdreams">
+    <nd ref="353027692"/>
+    <nd ref="767569790"/>
+    <nd ref="767569791"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dog Lane"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="61510802" version="4" timestamp="2014-05-13T16:09:22Z" changeset="22314539" uid="2011702" user="krd_mapper">
+    <nd ref="767569779"/>
+    <nd ref="767569799"/>
+    <nd ref="386870119"/>
+    <nd ref="386870118"/>
+    <nd ref="2855820906"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Mill Lane"/>
+  </way>
+  <way id="61510803" version="3" timestamp="2025-04-17T21:05:11Z" changeset="165089138" uid="12616743" user="BassetlawMapper">
+    <nd ref="353027690"/>
+    <nd ref="12763142555"/>
+    <nd ref="353027691"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Church Lane"/>
+  </way>
+  <way id="61510810" version="2" timestamp="2013-06-11T12:45:00Z" changeset="16509704" uid="1383105" user="Gavrielo">
+    <nd ref="767569981"/>
+    <nd ref="767569982"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mayflower Avenue"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="61510814" version="3" timestamp="2013-06-13T14:48:22Z" changeset="16538644" uid="1383105" user="Gavrielo">
+    <nd ref="2340471408"/>
+    <nd ref="767570107"/>
+    <nd ref="767570108"/>
+    <nd ref="31498083"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Vicarage Lane"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="225238485" version="1" timestamp="2013-06-11T12:44:57Z" changeset="16509704" uid="1383105" user="Gavrielo">
+    <nd ref="2340471405"/>
+    <nd ref="2340471406"/>
+    <nd ref="2340471407"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Holmefield Croft"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="262107164" version="3" timestamp="2023-11-01T16:58:28Z" changeset="143485989" uid="10860083" user="jordie8396">
+    <nd ref="2677539323"/>
+    <nd ref="461135119"/>
+    <nd ref="461135121"/>
+    <nd ref="31498436"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="281594137" version="1" timestamp="2014-05-13T15:59:53Z" changeset="22314539" uid="2011702" user="krd_mapper">
+    <nd ref="386870113"/>
+    <nd ref="386870112"/>
+    <nd ref="386870111"/>
+    <nd ref="386870110"/>
+    <nd ref="386870109"/>
+    <nd ref="31498117"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Mill Lane"/>
+  </way>
+  <way id="281594138" version="4" timestamp="2017-05-03T06:49:13Z" changeset="48354795" uid="1778799" user="SomeoneElse_Revert">
+    <nd ref="2855790838"/>
+    <nd ref="31498106"/>
+    <nd ref="31498107"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="281594141" version="4" timestamp="2018-02-14T21:34:40Z" changeset="56366599" uid="7618482" user="Grant3W">
+    <nd ref="31498107"/>
+    <nd ref="31498117"/>
+    <nd ref="461135117"/>
+    <nd ref="461135114"/>
+    <nd ref="2855848786"/>
+    <nd ref="5413146251"/>
+    <nd ref="5413146245"/>
+    <nd ref="31498434"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="281594142" version="3" timestamp="2017-05-03T07:16:02Z" changeset="48354795" uid="1778799" user="SomeoneElse_Revert">
+    <nd ref="2855789679"/>
+    <nd ref="386870113"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Mill Lane"/>
+  </way>
+  <way id="281597916" version="3" timestamp="2021-09-09T16:03:15Z" changeset="110983558" uid="61942" user="SomeoneElse">
+    <nd ref="2855820806"/>
+    <nd ref="31498104"/>
+    <nd ref="31498105"/>
+    <nd ref="2855790838"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="281597918" version="5" timestamp="2021-09-09T16:03:14Z" changeset="110983558" uid="61942" user="SomeoneElse">
+    <nd ref="2855820849"/>
+    <nd ref="2855820806"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="281597920" version="1" timestamp="2014-05-13T16:09:21Z" changeset="22314539" uid="2011702" user="krd_mapper">
+    <nd ref="386870117"/>
+    <nd ref="2855820816"/>
+    <nd ref="386870116"/>
+    <nd ref="386870115"/>
+    <nd ref="386870114"/>
+    <nd ref="2855789679"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Mill Lane"/>
+  </way>
+  <way id="281597921" version="2" timestamp="2014-05-13T16:14:13Z" changeset="22314539" uid="2011702" user="krd_mapper">
+    <nd ref="2855820906"/>
+    <nd ref="386870117"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mill Lane"/>
+  </way>
+  <way id="307637742" version="2" timestamp="2021-09-09T16:01:05Z" changeset="110983558" uid="61942" user="SomeoneElse">
+    <nd ref="3128355362"/>
+    <nd ref="2855820849"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="307637743" version="4" timestamp="2021-05-11T13:16:19Z" changeset="104515261" uid="10126622" user="hvannere">
+    <nd ref="31498032"/>
+    <nd ref="31498037"/>
+    <nd ref="31498038"/>
+    <nd ref="31498039"/>
+    <nd ref="31498040"/>
+    <nd ref="31498041"/>
+    <nd ref="8721801720"/>
+    <nd ref="31498042"/>
+    <nd ref="31498046"/>
+    <nd ref="2855682893"/>
+    <nd ref="31498048"/>
+    <nd ref="31498050"/>
+    <nd ref="31498051"/>
+    <nd ref="31498052"/>
+    <nd ref="7889491081"/>
+    <nd ref="31498054"/>
+    <nd ref="31498055"/>
+    <nd ref="31498056"/>
+    <nd ref="31498058"/>
+    <nd ref="31498060"/>
+    <nd ref="31498061"/>
+    <nd ref="601607136"/>
+    <nd ref="7927493471"/>
+    <nd ref="31498065"/>
+    <nd ref="31498081"/>
+    <nd ref="31498082"/>
+    <nd ref="461135112"/>
+    <nd ref="31498083"/>
+    <nd ref="31498084"/>
+    <nd ref="461135108"/>
+    <nd ref="3128355362"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="307637745" version="3" timestamp="2015-02-27T11:03:57Z" changeset="29132957" uid="2020484" user="Nigel Greens">
+    <nd ref="31497926"/>
+    <nd ref="461146283"/>
+    <nd ref="31497938"/>
+    <nd ref="31497939"/>
+    <nd ref="482728310"/>
+    <nd ref="461146285"/>
+    <nd ref="461146288"/>
+    <nd ref="31497941"/>
+    <nd ref="461146289"/>
+    <nd ref="482730900"/>
+    <nd ref="482730915"/>
+    <nd ref="461146293"/>
+    <nd ref="31497943"/>
+    <nd ref="461146300"/>
+    <nd ref="31497966"/>
+    <nd ref="31497970"/>
+    <nd ref="31497975"/>
+    <nd ref="31497980"/>
+    <nd ref="3374537052"/>
+    <nd ref="31497982"/>
+    <nd ref="3374570610"/>
+    <nd ref="31497984"/>
+    <nd ref="31497985"/>
+    <nd ref="31497989"/>
+    <nd ref="31497993"/>
+    <nd ref="31497999"/>
+    <nd ref="31498004"/>
+    <nd ref="31498006"/>
+    <nd ref="31498010"/>
+    <nd ref="31498015"/>
+    <nd ref="31498018"/>
+    <nd ref="31498024"/>
+    <nd ref="31498031"/>
+    <nd ref="31498032"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="562997307" version="5" timestamp="2024-12-28T22:47:05Z" changeset="160732059" uid="8857" user="philipcullen">
+    <nd ref="5426377136"/>
+    <nd ref="11509797810"/>
+    <nd ref="11509797809"/>
+    <nd ref="5426377137"/>
+    <nd ref="5426377129"/>
+    <nd ref="5426377139"/>
+    <nd ref="5426377136"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Wilfrid"/>
+    <tag k="ref:GB:uprn" v="10090591678"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q15979523"/>
+    <tag k="wikipedia" v="en:St Wilfrid's Church, Scrooby"/>
+  </way>
+  <way id="984689973" version="2" timestamp="2024-12-28T22:47:05Z" changeset="160732059" uid="8857" user="philipcullen">
+    <nd ref="9103696020"/>
+    <nd ref="9103696021"/>
+    <nd ref="9103696022"/>
+    <nd ref="9103696023"/>
+    <nd ref="9103696024"/>
+    <nd ref="9103696025"/>
+    <nd ref="9103696020"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Scrooby Village Hall"/>
+    <tag k="ref:GB:uprn" v="100032274828"/>
+  </way>
+  <way id="1220071727" version="1" timestamp="2023-11-01T16:58:28Z" changeset="143485989" uid="10860083" user="jordie8396">
+    <nd ref="11305039303"/>
+    <nd ref="31498434"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="1378426985" version="1" timestamp="2025-04-17T21:05:11Z" changeset="165089138" uid="12616743" user="BassetlawMapper">
+    <nd ref="12763142611"/>
+    <nd ref="12763142608"/>
+    <nd ref="12763142609"/>
+    <nd ref="12763142610"/>
+    <nd ref="12763142606"/>
+    <nd ref="12763142605"/>
+    <nd ref="12763142607"/>
+    <nd ref="12763142611"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Pilgrim Fathers"/>
+  </way>
+
+</osm>

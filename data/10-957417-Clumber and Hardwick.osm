@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:48:02Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="222025258" lat="53.2960766" lon="-1.0326736" version="41" timestamp="2018-08-23T14:41:59Z" changeset="61924057" uid="2773866" user="kreuzschnabel"/>
+  <node id="222028602" lat="53.2961453" lon="-1.0327836" version="24" timestamp="2018-08-23T14:41:59Z" changeset="61924057" uid="2773866" user="kreuzschnabel"/>
+  <node id="286262554" lat="53.2769691" lon="-1.0976871" version="7" timestamp="2014-08-30T10:17:12Z" changeset="25114426" uid="61942" user="SomeoneElse"/>
+  <node id="316224889" lat="53.2543405" lon="-1.0781368" version="6" timestamp="2014-04-10T09:11:32Z" changeset="21602923" uid="2011702" user="krd_mapper"/>
+  <node id="367052943" lat="53.2828446" lon="-1.0570733" version="3" timestamp="2011-11-01T18:42:33Z" changeset="9715240" uid="51722" user="Chris Parker"/>
+  <node id="2455970936" lat="53.2711162" lon="-1.0447509" version="5" timestamp="2025-06-03T14:34:50Z" changeset="167138813" uid="22685594" user="NTTrailsMEE">
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="trailer"/>
+    <tag k="name" v="Lake Brew Coffee"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-15:00"/>
+    <tag k="opening_hours:url" v="https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/clumber-park/eating-and-shopping-at-clumber-park"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <way id="20677847" version="30" timestamp="2023-12-27T20:04:52Z" changeset="145590822" uid="13341565" user="Falsernet">
+    <nd ref="222025258"/>
+    <nd ref="222028602"/>
+    <nd ref="2196522822"/>
+    <nd ref="222025263"/>
+    <nd ref="2196522809"/>
+    <nd ref="222026122"/>
+    <nd ref="2196522823"/>
+    <nd ref="222025266"/>
+    <nd ref="222025269"/>
+    <nd ref="1618999302"/>
+    <nd ref="242958833"/>
+    <nd ref="222025270"/>
+    <nd ref="2196522801"/>
+    <nd ref="222025276"/>
+    <nd ref="5851585904"/>
+    <nd ref="2196522811"/>
+    <nd ref="313472444"/>
+    <nd ref="2196522803"/>
+    <nd ref="313472445"/>
+    <nd ref="222025278"/>
+    <nd ref="222025280"/>
+    <nd ref="222025282"/>
+    <nd ref="2196522810"/>
+    <nd ref="313473443"/>
+    <nd ref="5851585914"/>
+    <nd ref="260089791"/>
+    <nd ref="2196522807"/>
+    <nd ref="313472479"/>
+    <nd ref="2196522813"/>
+    <nd ref="222025283"/>
+    <nd ref="2196522818"/>
+    <nd ref="10260902490"/>
+    <nd ref="222025289"/>
+    <nd ref="2196522800"/>
+    <nd ref="222025291"/>
+    <nd ref="2196522798"/>
+    <nd ref="5421906109"/>
+    <nd ref="222025258"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Apleyhead"/>
+    <tag k="old_name" v="Five Lanes End"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A57"/>
+    <tag k="source:lit" v="photo on 2011-08-31"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="20678009" version="10" timestamp="2020-11-21T18:12:44Z" changeset="94556025" uid="11130356" user="Alex_457">
+    <nd ref="222028602"/>
+    <nd ref="5851585906"/>
+    <nd ref="5851585907"/>
+    <nd ref="313472982"/>
+    <nd ref="222026139"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A57"/>
+    <tag k="source:lit" v="photo on 2011-08-31"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="26143085" version="8" timestamp="2025-06-04T09:18:41Z" changeset="167168592" uid="22685594" user="NTTrailsMEE">
+    <nd ref="286298465"/>
+    <nd ref="286298461"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="26143087" version="7" timestamp="2025-06-04T09:18:41Z" changeset="167168592" uid="22685594" user="NTTrailsMEE">
+    <nd ref="286298461"/>
+    <nd ref="3481009791"/>
+    <nd ref="286298463"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+  </way>
+  <way id="26143088" version="8" timestamp="2025-06-04T09:18:41Z" changeset="167168592" uid="22685594" user="NTTrailsMEE">
+    <nd ref="286298463"/>
+    <nd ref="286298464"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+  </way>
+  <way id="28761363" version="5" timestamp="2025-06-04T09:18:41Z" changeset="167168592" uid="22685594" user="NTTrailsMEE">
+    <nd ref="316224891"/>
+    <nd ref="316224895"/>
+    <nd ref="286298464"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+  </way>
+  <way id="28761366" version="20" timestamp="2025-09-02T07:02:24Z" changeset="171345897" uid="18051360" user="NTClumberPark">
+    <nd ref="286298465"/>
+    <nd ref="312751244"/>
+    <nd ref="10632470444"/>
+    <nd ref="312751243"/>
+    <nd ref="802442169"/>
+    <nd ref="13113995975"/>
+    <nd ref="316225024"/>
+    <nd ref="803994528"/>
+    <nd ref="59746332"/>
+    <nd ref="59746331"/>
+    <nd ref="3481024346"/>
+    <nd ref="59746330"/>
+    <nd ref="10277912427"/>
+    <nd ref="59746329"/>
+    <nd ref="3481033563"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="81527433" version="5" timestamp="2021-01-08T04:06:32Z" changeset="97139805" uid="322039" user="MacLondon">
+    <nd ref="316224889"/>
+    <nd ref="950308002"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="Carburton Bridge"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:bridge_name" v="local_knowedge"/>
+    <tag k="wikidata" v="Q26671012"/>
+  </way>
+  <way id="81527436" version="7" timestamp="2025-06-04T09:18:41Z" changeset="167168592" uid="22685594" user="NTTrailsMEE">
+    <nd ref="803989403"/>
+    <nd ref="2766215782"/>
+    <nd ref="316224890"/>
+    <nd ref="316224891"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="135444318" version="2" timestamp="2022-12-31T11:43:11Z" changeset="130717231" uid="18051360" user="NTClumberPark">
+    <nd ref="1487620780"/>
+    <nd ref="1487620849"/>
+    <nd ref="1487620848"/>
+    <nd ref="1487620866"/>
+    <nd ref="1487620923"/>
+    <nd ref="1487620761"/>
+    <nd ref="1487620948"/>
+    <nd ref="1487620913"/>
+    <nd ref="1487620925"/>
+    <nd ref="1487620842"/>
+    <nd ref="1487620926"/>
+    <nd ref="1487620753"/>
+    <nd ref="1487620780"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Kennels"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135444354" version="4" timestamp="2021-04-07T14:06:20Z" changeset="102489138" uid="6816132" user="CjMalone">
+    <nd ref="1487620985"/>
+    <nd ref="1487620902"/>
+    <nd ref="1487620932"/>
+    <nd ref="1487620995"/>
+    <nd ref="1487620985"/>
+    <tag k="addr:city" v="Worksop"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:hamlet" v="Hardwick"/>
+    <tag k="addr:housenumber" v="23-27"/>
+    <tag k="addr:postcode" v="S80 3PD"/>
+    <tag k="addr:street" v="Hardwick Terrace"/>
+    <tag k="building" v="yes"/>
+    <tag k="note" v="Grade II listed. Listing number 1370403."/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135444368" version="2" timestamp="2022-12-31T11:43:11Z" changeset="130717231" uid="18051360" user="NTClumberPark">
+    <nd ref="1487620860"/>
+    <nd ref="1487620927"/>
+    <nd ref="1487620893"/>
+    <nd ref="1487620917"/>
+    <nd ref="1487620860"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Kennels"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135450722" version="2" timestamp="2024-12-03T09:54:37Z" changeset="159873590" uid="18051360" user="NTClumberPark">
+    <nd ref="1487643343"/>
+    <nd ref="1487643394"/>
+    <nd ref="1487643196"/>
+    <nd ref="1487643272"/>
+    <nd ref="1487643343"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Chantry Garage"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135450723" version="3" timestamp="2021-04-07T14:06:20Z" changeset="102489138" uid="6816132" user="CjMalone">
+    <nd ref="1487643404"/>
+    <nd ref="1487643406"/>
+    <nd ref="1487643227"/>
+    <nd ref="1487643204"/>
+    <nd ref="1487643200"/>
+    <nd ref="1487643202"/>
+    <nd ref="1487643231"/>
+    <nd ref="1487643295"/>
+    <nd ref="1487643302"/>
+    <nd ref="1487643433"/>
+    <nd ref="1487643235"/>
+    <nd ref="1487643261"/>
+    <nd ref="1487643233"/>
+    <nd ref="1487643432"/>
+    <nd ref="1487643333"/>
+    <nd ref="1487643300"/>
+    <nd ref="1487643404"/>
+    <tag k="addr:city" v="Worksop"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:hamlet" v="Hardwick"/>
+    <tag k="addr:housename" v="The Chantry"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="S80 3PD"/>
+    <tag k="addr:street" v="Hardwick Terrace"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="Bing"/>
+    <tag k="start_date" v="1914"/>
+  </way>
+  <way id="135450724" version="3" timestamp="2021-04-07T14:06:20Z" changeset="102489138" uid="6816132" user="CjMalone">
+    <nd ref="1487643384"/>
+    <nd ref="1487643315"/>
+    <nd ref="1487643183"/>
+    <nd ref="1487643223"/>
+    <nd ref="1487643384"/>
+    <tag k="addr:city" v="Worksop"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:hamlet" v="Hardwick"/>
+    <tag k="addr:housenumber" v="30-33"/>
+    <tag k="addr:postcode" v="S80 3PD"/>
+    <tag k="addr:street" v="Hardwick Terrace"/>
+    <tag k="building" v="yes"/>
+    <tag k="note" v="Grade II listed. Listing number 1045040."/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135450731" version="3" timestamp="2021-04-07T14:06:20Z" changeset="102489138" uid="6816132" user="CjMalone">
+    <nd ref="1487643415"/>
+    <nd ref="1487643250"/>
+    <nd ref="1487643321"/>
+    <nd ref="1487643251"/>
+    <nd ref="1487643421"/>
+    <nd ref="1487643220"/>
+    <nd ref="1487643285"/>
+    <nd ref="1487643456"/>
+    <nd ref="1487643415"/>
+    <tag k="addr:city" v="Worksop"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:hamlet" v="Hardwick"/>
+    <tag k="addr:housenumber" v="28-29"/>
+    <tag k="addr:postcode" v="S80 3PD"/>
+    <tag k="addr:street" v="Hardwick Terrace"/>
+    <tag k="building" v="yes"/>
+    <tag k="note" v="Grade II listed. Listing number 1156588"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135450735" version="4" timestamp="2024-12-03T09:54:37Z" changeset="159873590" uid="18051360" user="NTClumberPark">
+    <nd ref="1487643324"/>
+    <nd ref="1487643274"/>
+    <nd ref="1487643381"/>
+    <nd ref="1487643206"/>
+    <nd ref="1487643222"/>
+    <nd ref="1487643308"/>
+    <nd ref="1487643330"/>
+    <nd ref="1487643338"/>
+    <nd ref="1487643175"/>
+    <nd ref="1487643372"/>
+    <nd ref="1487643324"/>
+    <tag k="addr:city" v="Worksop"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:hamlet" v="Hardwick"/>
+    <tag k="addr:housename" v="The Chantry"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="S80 3PD"/>
+    <tag k="addr:street" v="Hardwick Terrace"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Chantry"/>
+    <tag k="source" v="Bing"/>
+    <tag k="start_date" v="1912"/>
+  </way>
+  <way id="135452058" version="2" timestamp="2024-12-03T09:54:37Z" changeset="159873590" uid="18051360" user="NTClumberPark">
+    <nd ref="1487659144"/>
+    <nd ref="1487659122"/>
+    <nd ref="1487659158"/>
+    <nd ref="1487659163"/>
+    <nd ref="1487659144"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sheep Shelter"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135452061" version="2" timestamp="2024-12-03T09:54:37Z" changeset="159873590" uid="18051360" user="NTClumberPark">
+    <nd ref="1487659120"/>
+    <nd ref="1487659167"/>
+    <nd ref="1487659112"/>
+    <nd ref="1487659149"/>
+    <nd ref="1487659146"/>
+    <nd ref="1487659160"/>
+    <nd ref="1487659118"/>
+    <nd ref="1487659137"/>
+    <nd ref="1487659116"/>
+    <nd ref="1487659117"/>
+    <nd ref="1487659120"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="New Cottages"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135475998" version="8" timestamp="2025-09-20T02:09:26Z" changeset="172187413" uid="8857" user="philipcullen">
+    <nd ref="1487929472"/>
+    <nd ref="2454562518"/>
+    <nd ref="1487929460"/>
+    <nd ref="1487929475"/>
+    <nd ref="1487929433"/>
+    <nd ref="1487929887"/>
+    <nd ref="1487929435"/>
+    <nd ref="1487929462"/>
+    <nd ref="1487929423"/>
+    <nd ref="1487929473"/>
+    <nd ref="1487929485"/>
+    <nd ref="1487929468"/>
+    <nd ref="1487929477"/>
+    <nd ref="1487929447"/>
+    <nd ref="1487929457"/>
+    <nd ref="1487929458"/>
+    <nd ref="1487929472"/>
+    <tag k="addr:postcode" v="S80 3BD"/>
+    <tag k="alt_name" v="Chapel of St. Mary the Virgin"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Clumber Chapel"/>
+    <tag k="ref:GB:uprn" v="10090591673"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Bing"/>
+    <tag k="wikidata" v="Q5117302"/>
+    <tag k="wikipedia" v="en:Church of St Mary the Virgin, Clumber Park"/>
+  </way>
+  <way id="135475999" version="5" timestamp="2025-09-20T02:09:26Z" changeset="172187413" uid="8857" user="philipcullen">
+    <nd ref="1487929459"/>
+    <nd ref="1487929426"/>
+    <nd ref="1487929432"/>
+    <nd ref="1487929484"/>
+    <nd ref="1487929425"/>
+    <nd ref="1487929467"/>
+    <nd ref="1487929466"/>
+    <nd ref="1487929453"/>
+    <nd ref="1487929486"/>
+    <nd ref="1487929421"/>
+    <nd ref="1487929459"/>
+    <tag k="addr:postcode" v="S80 3BD"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Clumber Park Gift Shop"/>
+    <tag k="operator" v="National Trust"/>
+    <tag k="ref:GB:uprn" v="10023263314"/>
+    <tag k="shop" v="gift"/>
+  </way>
+  <way id="135476399" version="7" timestamp="2025-09-20T02:09:26Z" changeset="172187413" uid="8857" user="philipcullen">
+    <nd ref="2455830894"/>
+    <nd ref="1487934060"/>
+    <nd ref="1487934073"/>
+    <nd ref="1487934081"/>
+    <nd ref="1487934059"/>
+    <nd ref="1487934111"/>
+    <nd ref="1487934100"/>
+    <nd ref="10300671379"/>
+    <nd ref="2455830892"/>
+    <nd ref="12348634953"/>
+    <nd ref="2455830894"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:postcode" v="S80 3AY"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Walled Kitchen Garden Cottage"/>
+    <tag k="operator" v="National Trust Holidays"/>
+    <tag k="ref:GB:uprn" v="10023263329"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tourism" v="chalet"/>
+    <tag k="website" v="https://www.nationaltrust.org.uk/holidays/nottinghamshire-lincolnshire/kitchen-garden-cottage"/>
+  </way>
+  <way id="135476401" version="3" timestamp="2024-11-17T16:21:18Z" changeset="159249752" uid="18051360" user="NTClumberPark">
+    <nd ref="1487934061"/>
+    <nd ref="1487934109"/>
+    <nd ref="1487934091"/>
+    <nd ref="1487934072"/>
+    <nd ref="1487934102"/>
+    <nd ref="1487934097"/>
+    <nd ref="1487934061"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Garden House"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135476408" version="4" timestamp="2025-09-20T02:09:26Z" changeset="172187413" uid="8857" user="philipcullen">
+    <nd ref="1487934089"/>
+    <nd ref="1487934084"/>
+    <nd ref="1487934068"/>
+    <nd ref="1487934069"/>
+    <nd ref="1487934066"/>
+    <nd ref="1487934062"/>
+    <nd ref="1487934089"/>
+    <tag k="addr:postcode" v="S80 3AY"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="2"/>
+    <tag k="name" v="Estate Office"/>
+    <tag k="ref:GB:uprn" v="10023263328"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="135476410" version="8" timestamp="2025-06-14T10:35:04Z" changeset="167606969" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="1487934106"/>
+    <nd ref="1487934096"/>
+    <nd ref="12348634959"/>
+    <nd ref="1487934092"/>
+    <nd ref="1487934093"/>
+    <nd ref="1487934106"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="description" v="Dog friendly cafe.  They have water bowls, biscuits and hooks on the wall so you can tie your dog up."/>
+    <tag k="dog" v="yes"/>
+    <tag k="name" v="Central Bark Dog Cafe"/>
+    <tag k="note" v="formerly Conservation Centre &amp; then soft-play area"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-16:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </way>
+  <way id="135571335" version="3" timestamp="2025-09-29T14:33:18Z" changeset="172616410" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="1488836564"/>
+    <nd ref="1488836810"/>
+    <nd ref="13180555007"/>
+    <nd ref="13180555006"/>
+    <nd ref="13180555005"/>
+    <nd ref="13180555004"/>
+    <nd ref="1488836553"/>
+    <nd ref="13180555003"/>
+    <nd ref="13180555002"/>
+    <nd ref="1488836696"/>
+    <nd ref="13180555001"/>
+    <nd ref="13180541600"/>
+    <nd ref="1488836564"/>
+    <tag k="addr:city" v="Worksop"/>
+    <tag k="addr:postcode" v="S80 3AX"/>
+    <tag k="addr:suburb" v="Clumber Park"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Manton Lodge"/>
+    <tag k="ref:GB:uprn" v="10013976057"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="237719311" version="3" timestamp="2025-09-20T02:09:26Z" changeset="172187413" uid="8857" user="philipcullen">
+    <nd ref="2455970941"/>
+    <nd ref="2455970940"/>
+    <nd ref="2455970942"/>
+    <nd ref="2455970943"/>
+    <nd ref="2455970941"/>
+    <tag k="addr:postcode" v="S80 3BD"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Doric Temple"/>
+    <tag k="ref:GB:uprn" v="10093191754"/>
+    <tag k="wikidata" v="Q17547318"/>
+  </way>
+  <way id="237726256" version="1" timestamp="2013-09-12T18:33:32Z" changeset="17804647" uid="1611" user="Harry Wood">
+    <nd ref="2456012362"/>
+    <nd ref="2456012359"/>
+    <nd ref="2456012353"/>
+    <nd ref="2456012355"/>
+    <nd ref="2456012362"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Grotto"/>
+  </way>
+  <way id="237726346" version="3" timestamp="2025-09-20T02:09:26Z" changeset="172187413" uid="8857" user="philipcullen">
+    <nd ref="1487929430"/>
+    <nd ref="2456015784"/>
+    <nd ref="2456015786"/>
+    <nd ref="1487929437"/>
+    <nd ref="1487929428"/>
+    <nd ref="1487929442"/>
+    <nd ref="1487929478"/>
+    <nd ref="1487929487"/>
+    <nd ref="1487929474"/>
+    <nd ref="1487929430"/>
+    <tag k="addr:postcode" v="S80 3BQ"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Discovery Centre"/>
+    <tag k="ref:GB:uprn" v="10023269266"/>
+    <tag k="tourism" v="information"/>
+  </way>
+  <way id="300881220" version="5" timestamp="2025-09-29T14:33:18Z" changeset="172616410" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="286262554"/>
+    <nd ref="3050176284"/>
+    <nd ref="3050172025"/>
+    <nd ref="175882916"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="designation" v="public_bridleway"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="horse" v="designated"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Clumber Road"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="388583774" version="3" timestamp="2025-09-20T02:09:26Z" changeset="172187413" uid="8857" user="philipcullen">
+    <nd ref="3917679962"/>
+    <nd ref="3917679963"/>
+    <nd ref="3917679964"/>
+    <nd ref="3917679965"/>
+    <nd ref="3917679966"/>
+    <nd ref="3917679967"/>
+    <nd ref="3917679968"/>
+    <nd ref="3917679969"/>
+    <nd ref="3917679962"/>
+    <tag k="building" v="pavilion"/>
+    <tag k="name" v="Cricket Pavilion"/>
+    <tag k="ref:GB:uprn" v="10023263335"/>
+  </way>
+  <way id="747247903" version="3" timestamp="2025-09-20T02:09:26Z" changeset="172187413" uid="8857" user="philipcullen">
+    <nd ref="6992108374"/>
+    <nd ref="6992108375"/>
+    <nd ref="6992108376"/>
+    <nd ref="6992108377"/>
+    <nd ref="6992108378"/>
+    <nd ref="6992108379"/>
+    <nd ref="6992108380"/>
+    <nd ref="6992108381"/>
+    <nd ref="6992108382"/>
+    <nd ref="6992108383"/>
+    <nd ref="6992108374"/>
+    <tag k="addr:postcode" v="S80 3BQ"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Paddocks"/>
+    <tag k="ref:GB:uprn" v="10013975840"/>
+  </way>
+  <way id="1332887050" version="2" timestamp="2024-12-03T09:54:37Z" changeset="159873590" uid="18051360" user="NTClumberPark">
+    <nd ref="12331014763"/>
+    <nd ref="12331014764"/>
+    <nd ref="12331014765"/>
+    <nd ref="12331014766"/>
+    <nd ref="12331014767"/>
+    <nd ref="12331014768"/>
+    <nd ref="12331014769"/>
+    <nd ref="12331014770"/>
+    <nd ref="12331014771"/>
+    <nd ref="12331014772"/>
+    <nd ref="12331014773"/>
+    <nd ref="12331014774"/>
+    <nd ref="12393325337"/>
+    <nd ref="12331014775"/>
+    <nd ref="12331014763"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="School House"/>
+  </way>
+  <way id="1339793211" version="1" timestamp="2024-12-03T09:54:37Z" changeset="159873590" uid="18051360" user="NTClumberPark">
+    <nd ref="12393325331"/>
+    <nd ref="12393325332"/>
+    <nd ref="12393325333"/>
+    <nd ref="12393325334"/>
+    <nd ref="12393325335"/>
+    <nd ref="12393325336"/>
+    <nd ref="12393325331"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hardwick Village Hall"/>
+  </way>
+  <way id="1382584285" version="2" timestamp="2025-05-01T12:51:34Z" changeset="165674769" uid="22685594" user="NTTrailsMEE">
+    <nd ref="950308002"/>
+    <nd ref="803992822"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="1382758148" version="4" timestamp="2025-06-14T10:35:06Z" changeset="167606957" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="367052943"/>
+    <nd ref="175882869"/>
+    <nd ref="59746326"/>
+    <nd ref="3481041477"/>
+    <nd ref="3481055662"/>
+    <nd ref="59746325"/>
+    <nd ref="59746324"/>
+    <nd ref="59746323"/>
+    <nd ref="800842005"/>
+    <nd ref="59746322"/>
+    <nd ref="3481055676"/>
+    <nd ref="800841999"/>
+    <nd ref="800841997"/>
+    <nd ref="1887836255"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1382758150" version="3" timestamp="2025-06-04T09:18:41Z" changeset="167168592" uid="22685594" user="NTTrailsMEE">
+    <nd ref="175882830"/>
+    <nd ref="3481033571"/>
+    <nd ref="59746327"/>
+    <nd ref="367052943"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1382762436" version="2" timestamp="2025-05-21T13:06:46Z" changeset="166568385" uid="22685594" user="NTTrailsMEE">
+    <nd ref="803992822"/>
+    <nd ref="803989403"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1382764798" version="4" timestamp="2025-06-04T09:18:41Z" changeset="167168592" uid="22685594" user="NTTrailsMEE">
+    <nd ref="3481033563"/>
+    <nd ref="316225023"/>
+    <nd ref="59746328"/>
+    <nd ref="175882830"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <relation id="1930041" version="3" timestamp="2022-12-31T12:04:06Z" changeset="130717864" uid="18051360" user="NTClumberPark">
+    <member type="way" ref="142617217" role="outer"/>
+    <member type="way" ref="135475997" role="inner"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Park Offices"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+
+</osm>

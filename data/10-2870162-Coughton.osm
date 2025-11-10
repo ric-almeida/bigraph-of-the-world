@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T16:53:47Z" areas="2025-10-23T08:56:18Z"/>
+
+  <node id="21294675" lat="52.2353412" lon="-1.8818909" version="3" timestamp="2017-02-22T17:31:55Z" changeset="46313834" uid="545369" user="bigfatfrog67"/>
+  <node id="21294694" lat="52.2576118" lon="-1.8892376" version="1" timestamp="2006-11-27T10:07:11Z" changeset="158695" uid="735" user="blackadder">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="30040649" lat="52.2409968" lon="-1.8839058" version="7" timestamp="2015-08-24T17:00:43Z" changeset="33551965" uid="9065" user="brianboru"/>
+  <node id="30042201" lat="52.2475898" lon="-1.9046651" version="2" timestamp="2010-02-06T14:36:41Z" changeset="3805643" uid="208499" user="Steve Lockwood"/>
+  <node id="70995150" lat="52.2590496" lon="-1.8625261" version="3" timestamp="2013-06-23T08:58:37Z" changeset="16666171" uid="9065" user="brianboru"/>
+  <node id="158675826" lat="52.2398852" lon="-1.9258868" version="3" timestamp="2011-05-13T22:55:38Z" changeset="8136453" uid="186212" user="srbrook"/>
+  <node id="432785506" lat="52.2329098" lon="-1.8508438" version="1" timestamp="2009-07-03T06:48:41Z" changeset="1715496" uid="35576" user="pdgtips"/>
+  <node id="2339643735" lat="52.2539199" lon="-1.9150321" version="2" timestamp="2014-05-04T22:22:51Z" changeset="22136284" uid="411244" user="RobJN"/>
+  <node id="2646242481" lat="52.2252177" lon="-1.8710341" version="1" timestamp="2014-01-31T22:05:35Z" changeset="20308328" uid="411244" user="RobJN"/>
+  <way id="4717726" version="6" timestamp="2017-03-19T21:52:25Z" changeset="46994717" uid="545369" user="bigfatfrog67">
+    <nd ref="30040647"/>
+    <nd ref="3712302394"/>
+    <nd ref="30040649"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coughton Fields Lane"/>
+  </way>
+  <way id="4717731" version="12" timestamp="2023-08-28T23:28:41Z" changeset="140516000" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="30040664"/>
+    <nd ref="11151910472"/>
+    <nd ref="30040649"/>
+    <nd ref="4699637389"/>
+    <nd ref="21294682"/>
+    <nd ref="2356473022"/>
+    <nd ref="21294681"/>
+    <nd ref="2356473010"/>
+    <nd ref="21294680"/>
+    <nd ref="21294679"/>
+    <nd ref="21294678"/>
+    <nd ref="21294677"/>
+    <nd ref="8027987460"/>
+    <nd ref="21294676"/>
+    <nd ref="4699633463"/>
+    <nd ref="21294675"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Birmingham Road"/>
+    <tag k="ref" v="A435"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="4717732" version="5" timestamp="2020-01-07T20:50:32Z" changeset="79310659" uid="115894" user="DaveF">
+    <nd ref="21294683"/>
+    <nd ref="2356442980"/>
+    <nd ref="30040664"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="ref" v="A435"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="4717819" version="5" timestamp="2015-08-24T17:00:42Z" changeset="33551965" uid="9065" user="brianboru">
+    <nd ref="21294683"/>
+    <nd ref="3712302396"/>
+    <nd ref="452486838"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Sambourne Lane"/>
+    <tag k="note" v="arbitrary point chosen to end this name and commence Wike Lane"/>
+  </way>
+  <way id="9368043" version="13" timestamp="2018-03-14T18:08:04Z" changeset="57186511" uid="545369" user="bigfatfrog67">
+    <nd ref="70995150"/>
+    <nd ref="2356930421"/>
+    <nd ref="300659869"/>
+    <nd ref="2300984301"/>
+    <nd ref="617747090"/>
+    <nd ref="2300984290"/>
+    <nd ref="2300984277"/>
+    <nd ref="70995152"/>
+    <nd ref="70995153"/>
+    <nd ref="2300984216"/>
+    <nd ref="2300984200"/>
+    <nd ref="70995157"/>
+    <nd ref="5478572052"/>
+    <nd ref="628953079"/>
+    <nd ref="2356930320"/>
+    <nd ref="617747088"/>
+    <nd ref="70995160"/>
+    <nd ref="2356194738"/>
+    <nd ref="617747077"/>
+    <nd ref="2356194673"/>
+    <nd ref="70995161"/>
+    <nd ref="2252099877"/>
+    <nd ref="617747074"/>
+    <nd ref="617747075"/>
+    <nd ref="617747076"/>
+    <nd ref="2356194608"/>
+    <nd ref="3390455923"/>
+    <nd ref="70995164"/>
+    <nd ref="2356194583"/>
+    <nd ref="354560213"/>
+    <nd ref="2356194567"/>
+    <nd ref="70995168"/>
+    <nd ref="2356194564"/>
+    <nd ref="274074826"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Spernal Lane"/>
+  </way>
+  <way id="15801485" version="20" timestamp="2022-10-05T06:52:38Z" changeset="127030381" uid="9026132" user="PulisakZ">
+    <nd ref="158675826"/>
+    <nd ref="158675827"/>
+    <nd ref="1283438732"/>
+    <nd ref="1283438601"/>
+    <nd ref="624413669"/>
+    <nd ref="1283438125"/>
+    <nd ref="158675828"/>
+    <nd ref="1283438267"/>
+    <nd ref="1283438403"/>
+    <nd ref="1283437759"/>
+    <nd ref="1283438892"/>
+    <nd ref="1283438511"/>
+    <nd ref="158675829"/>
+    <nd ref="158675830"/>
+    <nd ref="1283438350"/>
+    <nd ref="158675831"/>
+    <nd ref="1283438080"/>
+    <nd ref="158675832"/>
+    <nd ref="158675833"/>
+    <nd ref="158675834"/>
+    <nd ref="158675835"/>
+    <nd ref="1283438628"/>
+    <nd ref="1283438161"/>
+    <nd ref="158675836"/>
+    <nd ref="158675837"/>
+    <nd ref="158675839"/>
+    <nd ref="1283438033"/>
+    <nd ref="1283437508"/>
+    <nd ref="158675840"/>
+    <nd ref="1283438288"/>
+    <nd ref="1283437792"/>
+    <nd ref="158675841"/>
+    <nd ref="158675842"/>
+    <nd ref="158675843"/>
+    <nd ref="158675844"/>
+    <nd ref="158675845"/>
+    <nd ref="1283438240"/>
+    <nd ref="158675846"/>
+    <nd ref="5676608585"/>
+    <nd ref="439984408"/>
+    <nd ref="158675847"/>
+    <nd ref="1283437924"/>
+    <nd ref="158675848"/>
+    <nd ref="1283438759"/>
+    <nd ref="2356472840"/>
+    <nd ref="158675849"/>
+    <nd ref="2356472831"/>
+    <nd ref="8399738344"/>
+    <nd ref="6782403575"/>
+    <nd ref="8874680269"/>
+    <nd ref="158675850"/>
+    <nd ref="5676608597"/>
+    <nd ref="8473142530"/>
+    <nd ref="1673281309"/>
+    <nd ref="5676608529"/>
+    <nd ref="158675851"/>
+    <nd ref="5676608531"/>
+    <nd ref="8875384243"/>
+    <nd ref="158675852"/>
+    <nd ref="790768511"/>
+    <nd ref="158675853"/>
+    <nd ref="1283437645"/>
+    <nd ref="1673267621"/>
+    <nd ref="158675854"/>
+    <nd ref="6555694782"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Alcester Heath"/>
+    <tag k="ref" v="B4090"/>
+    <tag k="source:name" v="OS_OpenData_Streetview"/>
+  </way>
+  <way id="37552948" version="7" timestamp="2023-08-28T23:28:41Z" changeset="140516000" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="30040649"/>
+    <nd ref="11151910473"/>
+    <nd ref="1165785809"/>
+    <nd ref="2356384499"/>
+    <nd ref="3455731766"/>
+    <nd ref="439984397"/>
+    <nd ref="2356384484"/>
+    <nd ref="2356384477"/>
+    <nd ref="439984398"/>
+    <nd ref="439984399"/>
+    <nd ref="1673267693"/>
+    <nd ref="439984400"/>
+    <nd ref="439984401"/>
+    <nd ref="439984402"/>
+    <nd ref="439984403"/>
+    <nd ref="2356384422"/>
+    <nd ref="439984404"/>
+    <nd ref="439984405"/>
+    <nd ref="2356384410"/>
+    <nd ref="2356384407"/>
+    <nd ref="439984406"/>
+    <nd ref="2356384403"/>
+    <nd ref="2356384402"/>
+    <nd ref="2356384401"/>
+    <nd ref="439984407"/>
+    <nd ref="439984408"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Coughton Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="38322502" version="4" timestamp="2019-04-12T22:41:06Z" changeset="69164215" uid="322039" user="MacLondon">
+    <nd ref="30042201"/>
+    <nd ref="30042202"/>
+    <nd ref="30042203"/>
+    <nd ref="30042204"/>
+    <nd ref="30042205"/>
+    <nd ref="2836935540"/>
+    <nd ref="30042206"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Wike Lane"/>
+    <tag k="note" v="arbitrary point chosen to end this name and commence Sambourne Lane"/>
+  </way>
+  <way id="38322504" version="10" timestamp="2022-04-19T18:36:29Z" changeset="119920658" uid="11626527" user="Janescott">
+    <nd ref="452486838"/>
+    <nd ref="30042179"/>
+    <nd ref="3712302397"/>
+    <nd ref="2356443064"/>
+    <nd ref="9654604884"/>
+    <nd ref="2356443081"/>
+    <nd ref="30042180"/>
+    <nd ref="30042181"/>
+    <nd ref="30042182"/>
+    <nd ref="1673267659"/>
+    <nd ref="30042183"/>
+    <nd ref="2356443738"/>
+    <nd ref="30042184"/>
+    <nd ref="30042185"/>
+    <nd ref="30042186"/>
+    <nd ref="9678027054"/>
+    <nd ref="1673284014"/>
+    <nd ref="7181594016"/>
+    <nd ref="30042187"/>
+    <nd ref="30042188"/>
+    <nd ref="2585407972"/>
+    <nd ref="30042200"/>
+    <nd ref="30042201"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Sambourne Lane"/>
+    <tag k="note" v="arbitrary point chosen to end this name and commence Wike Lane"/>
+  </way>
+  <way id="98511685" version="17" timestamp="2022-07-17T20:30:57Z" changeset="123734606" uid="411244" user="RobJN">
+    <nd ref="432785506"/>
+    <nd ref="30038769"/>
+    <nd ref="30038770"/>
+    <nd ref="2356929749"/>
+    <nd ref="30038771"/>
+    <nd ref="4019583884"/>
+    <nd ref="2356929815"/>
+    <nd ref="30038772"/>
+    <nd ref="2356929826"/>
+    <nd ref="30040612"/>
+    <nd ref="2356929838"/>
+    <nd ref="30040613"/>
+    <nd ref="30040614"/>
+    <nd ref="2356929824"/>
+    <nd ref="30040615"/>
+    <nd ref="2356929840"/>
+    <nd ref="30040616"/>
+    <nd ref="632646534"/>
+    <nd ref="9893926248"/>
+    <nd ref="2356929891"/>
+    <nd ref="30040617"/>
+    <nd ref="30040618"/>
+    <nd ref="30040619"/>
+    <nd ref="30040620"/>
+    <nd ref="6555852486"/>
+    <nd ref="30040621"/>
+    <nd ref="30040622"/>
+    <nd ref="30040623"/>
+    <nd ref="2371676920"/>
+    <nd ref="2356929883"/>
+    <nd ref="30040624"/>
+    <nd ref="2356929885"/>
+    <nd ref="632651986"/>
+    <nd ref="30040625"/>
+    <nd ref="30040626"/>
+    <nd ref="30040627"/>
+    <nd ref="2356929910"/>
+    <nd ref="30040628"/>
+    <nd ref="30040629"/>
+    <nd ref="30040630"/>
+    <nd ref="2356929914"/>
+    <nd ref="30040631"/>
+    <nd ref="30040632"/>
+    <nd ref="2356929955"/>
+    <nd ref="30040633"/>
+    <nd ref="30040634"/>
+    <nd ref="30040635"/>
+    <nd ref="2371703885"/>
+    <nd ref="30040636"/>
+    <nd ref="2356929929"/>
+    <nd ref="30040637"/>
+    <nd ref="2356929939"/>
+    <nd ref="2356929948"/>
+    <nd ref="30040638"/>
+    <nd ref="632651983"/>
+    <nd ref="8537315820"/>
+    <nd ref="6510438830"/>
+    <nd ref="30040639"/>
+    <nd ref="1673276029"/>
+    <nd ref="2371676976"/>
+    <nd ref="30040640"/>
+    <nd ref="2371676978"/>
+    <nd ref="30040641"/>
+    <nd ref="1783089037"/>
+    <nd ref="30040642"/>
+    <nd ref="30040643"/>
+    <nd ref="632651984"/>
+    <nd ref="632651985"/>
+    <nd ref="4743939375"/>
+    <nd ref="274074813"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Coughton Fields Lane"/>
+  </way>
+  <way id="119011001" version="8" timestamp="2017-10-08T09:29:57Z" changeset="52725813" uid="545369" user="bigfatfrog67">
+    <nd ref="2442993864"/>
+    <nd ref="2443089122"/>
+    <nd ref="21294685"/>
+    <nd ref="5154889731"/>
+    <nd ref="5154889730"/>
+    <nd ref="274074812"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Birmingham Road"/>
+    <tag k="ref" v="A435"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="129748424" version="13" timestamp="2024-03-29T21:47:39Z" changeset="149331617" uid="13097056" user="PCarew_EG">
+    <nd ref="1430817258"/>
+    <nd ref="1430817253"/>
+    <nd ref="2356443582"/>
+    <nd ref="1430817252"/>
+    <nd ref="2356443495"/>
+    <nd ref="1430817250"/>
+    <nd ref="2356443492"/>
+    <nd ref="1430817251"/>
+    <nd ref="1430817248"/>
+    <nd ref="2356443458"/>
+    <nd ref="2356443454"/>
+    <nd ref="1430817247"/>
+    <nd ref="1430817246"/>
+    <nd ref="1430817245"/>
+    <nd ref="2356443466"/>
+    <nd ref="2356443465"/>
+    <nd ref="5154991146"/>
+    <nd ref="2356443531"/>
+    <nd ref="2356443539"/>
+    <nd ref="1430817255"/>
+    <nd ref="2356443606"/>
+    <nd ref="1430817257"/>
+    <nd ref="1430817254"/>
+    <nd ref="1430817258"/>
+    <tag k="HE_ref" v="1183632"/>
+    <tag k="addr:postcode" v="B49 5JA"/>
+    <tag k="building" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="Coughton Court"/>
+    <tag k="operator" v="National Trust"/>
+    <tag k="seasonal" v="yes"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="website" v="https://www.nationaltrust.org.uk/visit/warwickshire/coughton-court"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5176083"/>
+  </way>
+  <way id="144449474" version="14" timestamp="2022-10-05T06:52:38Z" changeset="127030381" uid="9026132" user="PulisakZ">
+    <nd ref="21294675"/>
+    <nd ref="8084552367"/>
+    <nd ref="21294674"/>
+    <nd ref="7916261099"/>
+    <nd ref="21294673"/>
+    <nd ref="21294672"/>
+    <nd ref="4699637390"/>
+    <nd ref="1599366567"/>
+    <nd ref="1673281285"/>
+    <nd ref="21294671"/>
+    <nd ref="1599443825"/>
+    <nd ref="21294670"/>
+    <nd ref="21294669"/>
+    <nd ref="2356472724"/>
+    <nd ref="2356472703"/>
+    <nd ref="21294668"/>
+    <nd ref="790768503"/>
+    <nd ref="21294667"/>
+    <nd ref="1600620572"/>
+    <nd ref="21294666"/>
+    <nd ref="7615492871"/>
+    <nd ref="21294665"/>
+    <nd ref="7615492864"/>
+    <nd ref="7799218770"/>
+    <nd ref="21294664"/>
+    <nd ref="1600620736"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Birmingham Road"/>
+    <tag k="ref" v="A435"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="144449475" version="6" timestamp="2021-03-19T12:24:12Z" changeset="101329362" uid="10170576" user="sabodige">
+    <nd ref="1579978516"/>
+    <nd ref="21294688"/>
+    <nd ref="8536788098"/>
+    <nd ref="8536788101"/>
+    <nd ref="21294687"/>
+    <nd ref="2442994054"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Birmingham Road"/>
+    <tag k="ref" v="A435"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="144449477" version="2" timestamp="2017-11-08T00:46:23Z" changeset="53597215" uid="545369" user="bigfatfrog67">
+    <nd ref="21294694"/>
+    <nd ref="21294693"/>
+    <nd ref="5217229405"/>
+    <nd ref="21294692"/>
+    <nd ref="847692245"/>
+    <nd ref="847692238"/>
+    <nd ref="21294691"/>
+    <nd ref="21294690"/>
+    <nd ref="21294689"/>
+    <nd ref="1579978516"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Haydon Way"/>
+    <tag k="ref" v="A435"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="226918028" version="7" timestamp="2023-11-30T20:41:20Z" changeset="144639610" uid="504708" user="HillWithSmallFields">
+    <nd ref="2356443357"/>
+    <nd ref="2356443384"/>
+    <nd ref="2356443358"/>
+    <nd ref="2356443359"/>
+    <nd ref="2356443321"/>
+    <nd ref="2356443313"/>
+    <nd ref="2356443295"/>
+    <nd ref="2356443271"/>
+    <nd ref="2356443260"/>
+    <nd ref="2356443258"/>
+    <nd ref="2356443257"/>
+    <nd ref="2356443269"/>
+    <nd ref="2356443267"/>
+    <nd ref="2356443281"/>
+    <nd ref="2356443273"/>
+    <nd ref="2356443323"/>
+    <nd ref="2356443330"/>
+    <nd ref="2356443357"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="St Peter"/>
+    <tag k="ref:dove" v="10058"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q17528301"/>
+  </way>
+  <way id="226918066" version="6" timestamp="2022-12-04T12:12:44Z" changeset="129702633" uid="9065" user="brianboru">
+    <nd ref="2356443034"/>
+    <nd ref="2356443043"/>
+    <nd ref="2356443045"/>
+    <nd ref="2356443046"/>
+    <nd ref="2356443031"/>
+    <nd ref="2356443029"/>
+    <nd ref="2356443013"/>
+    <nd ref="2356447755"/>
+    <nd ref="2356443007"/>
+    <nd ref="2356443021"/>
+    <nd ref="2356443018"/>
+    <nd ref="2356443012"/>
+    <nd ref="2356443009"/>
+    <nd ref="2356443017"/>
+    <nd ref="2356443014"/>
+    <nd ref="2356443034"/>
+    <tag k="addr:city" v="Alcester"/>
+    <tag k="addr:postcode" v="B49 5JA"/>
+    <tag k="addr:street" v="Coughton Fields Lane"/>
+    <tag k="addr:suburb" v="Coughton"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="name" v="St Peter &amp; St Paul &amp; St Elizabeth"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="bing"/>
+    <tag k="wikidata" v="Q17551626"/>
+  </way>
+  <way id="236248386" version="4" timestamp="2017-01-22T13:59:29Z" changeset="45369902" uid="545369" user="bigfatfrog67">
+    <nd ref="2442993866"/>
+    <nd ref="2442993868"/>
+    <nd ref="2442993870"/>
+    <nd ref="2442993883"/>
+    <nd ref="2442993881"/>
+    <nd ref="2442993889"/>
+    <nd ref="2442993887"/>
+    <nd ref="2442993893"/>
+    <nd ref="2442993891"/>
+    <nd ref="2442993856"/>
+    <nd ref="2442993854"/>
+    <nd ref="2442993862"/>
+    <nd ref="2442993866"/>
+    <tag k="addr:postcode" v="B49 5HX"/>
+    <tag k="addr:street" v="Coughton Hill"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Throckmorton Arms"/>
+    <tag k="source" v="bing"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="236257722" version="1" timestamp="2013-09-02T15:00:19Z" changeset="17637631" uid="545369" user="bigfatfrog67">
+    <nd ref="274074812"/>
+    <nd ref="2443089091"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Birmingham Road"/>
+    <tag k="ref" v="A435"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="236257723" version="2" timestamp="2017-02-22T17:21:10Z" changeset="46313583" uid="545369" user="bigfatfrog67">
+    <nd ref="2443089091"/>
+    <nd ref="1430817270"/>
+    <nd ref="4699618364"/>
+    <nd ref="4699618363"/>
+    <nd ref="2356443452"/>
+    <nd ref="21294684"/>
+    <nd ref="21294683"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Birmingham Road"/>
+    <tag k="ref" v="A435"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="277626354" version="6" timestamp="2023-11-05T18:06:20Z" changeset="143660954" uid="545369" user="bigfatfrog67">
+    <nd ref="9751798300"/>
+    <nd ref="452481484"/>
+    <nd ref="1778183673"/>
+    <nd ref="30040645"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="name" v="Coughton Fields Lane"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="279472120" version="5" timestamp="2022-04-09T19:57:09Z" changeset="119516305" uid="11626527" user="Janescott">
+    <nd ref="2339643735"/>
+    <nd ref="621352349"/>
+    <nd ref="2867462577"/>
+    <nd ref="2836935803"/>
+    <nd ref="2288155009"/>
+    <nd ref="6122324166"/>
+    <nd ref="621352330"/>
+    <nd ref="621352333"/>
+    <nd ref="621352336"/>
+    <nd ref="621352338"/>
+    <nd ref="2836935581"/>
+    <nd ref="2836935577"/>
+    <nd ref="621352340"/>
+    <nd ref="2836935569"/>
+    <nd ref="2836935561"/>
+    <nd ref="621352343"/>
+    <nd ref="621352346"/>
+    <nd ref="621352306"/>
+    <nd ref="621352310"/>
+    <nd ref="1283437799"/>
+    <nd ref="621352314"/>
+    <nd ref="6569427055"/>
+    <nd ref="621352317"/>
+    <nd ref="621352320"/>
+    <nd ref="621352324"/>
+    <nd ref="621352327"/>
+    <nd ref="621352286"/>
+    <nd ref="1283437936"/>
+    <nd ref="621352278"/>
+    <nd ref="1283438437"/>
+    <nd ref="9654595672"/>
+    <nd ref="1283437651"/>
+    <nd ref="621352290"/>
+    <nd ref="1283438166"/>
+    <nd ref="1283438298"/>
+    <nd ref="621352296"/>
+    <nd ref="1283437699"/>
+    <nd ref="2585407955"/>
+    <nd ref="158675832"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Whitemoor Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="331935241" version="3" timestamp="2018-03-17T01:26:50Z" changeset="57256957" uid="545369" user="bigfatfrog67">
+    <nd ref="3390368629"/>
+    <nd ref="3390368625"/>
+    <nd ref="3390368621"/>
+    <nd ref="3390368623"/>
+    <nd ref="3390368629"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Windmillhill Barn"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="481458970" version="2" timestamp="2019-04-12T22:41:41Z" changeset="69164215" uid="322039" user="MacLondon">
+    <nd ref="30040645"/>
+    <nd ref="1430817242"/>
+    <nd ref="30040646"/>
+    <nd ref="30040647"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coughton Fields Lane"/>
+  </way>
+  <way id="500286118" version="1" timestamp="2017-06-13T23:57:06Z" changeset="49514947" uid="545369" user="bigfatfrog67">
+    <nd ref="2442994054"/>
+    <nd ref="2442993906"/>
+    <nd ref="21294686"/>
+    <nd ref="2442993885"/>
+    <nd ref="2442993864"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Birmingham Road"/>
+    <tag k="ref" v="A435"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="895573331" version="7" timestamp="2022-07-11T14:35:37Z" changeset="123478490" uid="9065" user="brianboru">
+    <nd ref="2646242481"/>
+    <nd ref="3054445512"/>
+    <nd ref="3054445530"/>
+    <nd ref="8567886535"/>
+    <nd ref="9595291629"/>
+    <nd ref="8324743205"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Arden Forest Way"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="896496135" version="5" timestamp="2022-10-17T13:31:43Z" changeset="127673640" uid="9065" user="brianboru">
+    <nd ref="8333679393"/>
+    <nd ref="8333679394"/>
+    <nd ref="8333679395"/>
+    <nd ref="8333679396"/>
+    <nd ref="8333679393"/>
+    <tag k="addr:city" v="Alcester"/>
+    <tag k="addr:housenumber" v="Unit A"/>
+    <tag k="addr:postcode" v="B49 6HT"/>
+    <tag k="addr:street" v="Arden Forest Way"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Unit 11A"/>
+    <tag k="postal_code" v="B49 6HT"/>
+  </way>
+  <way id="896496870" version="4" timestamp="2022-10-17T13:31:43Z" changeset="127673640" uid="9065" user="brianboru">
+    <nd ref="8333685085"/>
+    <nd ref="8333685086"/>
+    <nd ref="8333685087"/>
+    <nd ref="8333685088"/>
+    <nd ref="8333685085"/>
+    <tag k="addr:city" v="Alcester"/>
+    <tag k="addr:housenumber" v="Unit B"/>
+    <tag k="addr:postcode" v="B49 6HT"/>
+    <tag k="addr:street" v="Arden Forest Way"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Unit 11B"/>
+  </way>
+  <way id="1042362499" version="4" timestamp="2024-12-15T00:47:15Z" changeset="160295808" uid="411244" user="RobJN">
+    <nd ref="9595268005"/>
+    <nd ref="8324743205"/>
+    <nd ref="9595268008"/>
+    <nd ref="9595268004"/>
+    <nd ref="9595291628"/>
+    <nd ref="8333710628"/>
+    <nd ref="9595268006"/>
+    <nd ref="11963489438"/>
+    <nd ref="11963489437"/>
+    <nd ref="11963489436"/>
+    <nd ref="11963489435"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Arden Forest Way"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1061395252" version="3" timestamp="2023-11-05T18:07:16Z" changeset="143660954" uid="545369" user="bigfatfrog67">
+    <nd ref="9751798299"/>
+    <nd ref="30040644"/>
+    <nd ref="9751798300"/>
+    <tag k="ford" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="name" v="Coughton Fields Lane"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="1061395253" version="3" timestamp="2023-11-05T18:07:13Z" changeset="143660954" uid="545369" user="bigfatfrog67">
+    <nd ref="274074813"/>
+    <nd ref="452481474"/>
+    <nd ref="9751798299"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="name" v="Coughton Fields Lane"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

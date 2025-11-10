@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:38:56Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="324373005" lat="53.1726039" lon="-0.9199211" version="6" timestamp="2011-01-13T21:28:37Z" changeset="6961979" uid="61942" user="SomeoneElse"/>
+  <node id="324373851" lat="53.1740916" lon="-0.8686314" version="7" timestamp="2021-03-29T23:15:36Z" changeset="101943790" uid="5443821" user="◪ Jarv"/>
+  <node id="324374252" lat="53.1746626" lon="-0.8498739" version="2" timestamp="2009-03-02T15:16:44Z" changeset="727158" uid="91225" user="tms13">
+    <tag k="created_by" v="Merkaartor 0.12"/>
+  </node>
+  <node id="324374543" lat="53.1763433" lon="-0.8490739" version="3" timestamp="2013-01-08T12:18:28Z" changeset="14573870" uid="188349" user="MatSmith"/>
+  <node id="1753168124" lat="53.1506433" lon="-0.8476834" version="2" timestamp="2012-12-18T00:43:28Z" changeset="14313515" uid="61942" user="SomeoneElse"/>
+  <way id="29432029" version="5" timestamp="2012-12-19T01:11:04Z" changeset="14325913" uid="61942" user="SomeoneElse">
+    <nd ref="324374252"/>
+    <nd ref="324374543"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:NB" v="interpolation"/>
+  </way>
+  <way id="29432096" version="12" timestamp="2021-03-29T23:15:36Z" changeset="101943790" uid="5443821" user="◪ Jarv">
+    <nd ref="324373851"/>
+    <nd ref="1458105048"/>
+    <nd ref="2101343106"/>
+    <nd ref="7192660046"/>
+    <nd ref="324374761"/>
+    <nd ref="324374762"/>
+    <nd ref="324374763"/>
+    <nd ref="1653583982"/>
+    <nd ref="324374764"/>
+    <nd ref="1653583831"/>
+    <nd ref="324374765"/>
+    <nd ref="324374766"/>
+    <nd ref="8573190947"/>
+    <nd ref="8087933569"/>
+    <nd ref="324374767"/>
+    <nd ref="324374768"/>
+    <nd ref="324374769"/>
+    <nd ref="3214043739"/>
+    <nd ref="3214043738"/>
+    <nd ref="3214043727"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ossington Road"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="31720302" version="8" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="324373855"/>
+    <nd ref="2072371893"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="31720317" version="7" timestamp="2021-03-29T23:15:36Z" changeset="101943790" uid="5443821" user="◪ Jarv">
+    <nd ref="324373855"/>
+    <nd ref="354908018"/>
+    <nd ref="354908020"/>
+    <nd ref="354908021"/>
+    <nd ref="8034564477"/>
+    <nd ref="354908023"/>
+    <nd ref="354908025"/>
+    <nd ref="354908026"/>
+    <nd ref="2101331157"/>
+    <nd ref="354908028"/>
+    <nd ref="8396220287"/>
+    <nd ref="354908029"/>
+    <nd ref="8573190935"/>
+    <nd ref="354908030"/>
+    <nd ref="354908031"/>
+    <nd ref="354908032"/>
+    <nd ref="354908034"/>
+    <nd ref="354908035"/>
+    <nd ref="8573190933"/>
+    <nd ref="354908036"/>
+    <nd ref="354908037"/>
+    <nd ref="2101341119"/>
+    <nd ref="354908039"/>
+    <nd ref="354908040"/>
+    <nd ref="354908041"/>
+    <nd ref="354908043"/>
+    <nd ref="324374543"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="60437515" version="9" timestamp="2021-08-23T09:14:04Z" changeset="110102400" uid="13859447" user="pmandapr">
+    <nd ref="324373851"/>
+    <nd ref="1458105080"/>
+    <nd ref="324373852"/>
+    <nd ref="1458105108"/>
+    <nd ref="9028201160"/>
+    <nd ref="1653583954"/>
+    <nd ref="324373853"/>
+    <nd ref="1653583915"/>
+    <nd ref="1458105112"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="GPS;Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="196940082" version="4" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="2072343734"/>
+    <nd ref="2072358354"/>
+    <nd ref="2072358360"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="npe;GPS;OS_OpenData_StreetView"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="196940083" version="7" timestamp="2021-08-23T09:14:04Z" changeset="110102400" uid="13859447" user="pmandapr">
+    <nd ref="1458105112"/>
+    <nd ref="1653583883"/>
+    <nd ref="324373854"/>
+    <nd ref="9028201165"/>
+    <nd ref="1458105113"/>
+    <nd ref="9028201170"/>
+    <nd ref="9028201172"/>
+    <nd ref="2072374306"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="GPS;Bing"/>
+  </way>
+  <way id="196940315" version="2" timestamp="2012-12-18T00:22:34Z" changeset="14313515" uid="61942" user="SomeoneElse">
+    <nd ref="2072358360"/>
+    <nd ref="324373848"/>
+    <nd ref="2072358382"/>
+    <nd ref="1102533765"/>
+    <nd ref="1653583767"/>
+    <nd ref="324373849"/>
+    <nd ref="1653583979"/>
+    <nd ref="1653584075"/>
+    <nd ref="324373850"/>
+    <nd ref="1458105154"/>
+    <nd ref="324373851"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="npe;GPS;OS_OpenData_StreetView"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="196940316" version="1" timestamp="2012-12-18T00:08:49Z" changeset="14313060" uid="61942" user="SomeoneElse">
+    <nd ref="1102533758"/>
+    <nd ref="2072343734"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="source" v="npe;GPS;OS_OpenData_StreetView"/>
+  </way>
+  <way id="196941422" version="5" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
+    <nd ref="2072371893"/>
+    <nd ref="324373856"/>
+    <nd ref="324373857"/>
+    <nd ref="324373858"/>
+    <nd ref="324373859"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="Sign at W"/>
+  </way>
+  <way id="196942218" version="7" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
+    <nd ref="324374286"/>
+    <nd ref="324374289"/>
+    <nd ref="8113747263"/>
+    <nd ref="6895600341"/>
+    <nd ref="9909108080"/>
+    <nd ref="324374292"/>
+    <nd ref="6895600347"/>
+    <nd ref="9909108079"/>
+    <nd ref="324374297"/>
+    <nd ref="324374300"/>
+    <nd ref="324374303"/>
+    <nd ref="324374306"/>
+    <nd ref="324374310"/>
+    <nd ref="324373859"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:ref" v="NPE"/>
+  </way>
+  <way id="196942484" version="9" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
+    <nd ref="1753168124"/>
+    <nd ref="324374168"/>
+    <nd ref="324374264"/>
+    <nd ref="324374266"/>
+    <nd ref="324374268"/>
+    <nd ref="324374270"/>
+    <nd ref="8370868894"/>
+    <nd ref="2072379485"/>
+    <nd ref="324374271"/>
+    <nd ref="2072379451"/>
+    <nd ref="324374273"/>
+    <nd ref="2072377282"/>
+    <nd ref="2073957806"/>
+    <nd ref="324374274"/>
+    <nd ref="2073957805"/>
+    <nd ref="324374275"/>
+    <nd ref="2072377265"/>
+    <nd ref="2072377310"/>
+    <nd ref="324374276"/>
+    <nd ref="324374278"/>
+    <nd ref="2073957804"/>
+    <nd ref="324374280"/>
+    <nd ref="2073957807"/>
+    <nd ref="2072377308"/>
+    <nd ref="324374281"/>
+    <nd ref="324374283"/>
+    <nd ref="324374286"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Ossington Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:ref" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="197101475" version="3" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="2072374306"/>
+    <nd ref="324373855"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS;Bing"/>
+  </way>
+  <way id="197101621" version="6" timestamp="2021-07-09T03:36:39Z" changeset="107668667" uid="11558607" user="pachilam">
+    <nd ref="324374543"/>
+    <nd ref="2101341146"/>
+    <nd ref="324374544"/>
+    <nd ref="330946628"/>
+    <nd ref="324374545"/>
+    <nd ref="324374546"/>
+    <nd ref="8905979851"/>
+    <nd ref="324374547"/>
+    <nd ref="3741931163"/>
+    <nd ref="3741931172"/>
+    <nd ref="324374548"/>
+    <nd ref="2513154604"/>
+    <nd ref="3741931177"/>
+    <nd ref="324374549"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="197101622" version="7" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
+    <nd ref="324374252"/>
+    <nd ref="354907793"/>
+    <nd ref="324373862"/>
+    <nd ref="324373863"/>
+    <nd ref="324373864"/>
+    <nd ref="324373865"/>
+    <nd ref="324373866"/>
+    <nd ref="324373867"/>
+    <nd ref="324373868"/>
+    <nd ref="3741166685"/>
+    <nd ref="324373869"/>
+    <nd ref="324373870"/>
+    <nd ref="3741167075"/>
+    <nd ref="324373871"/>
+    <nd ref="3103775561"/>
+    <nd ref="354907782"/>
+    <nd ref="3741106321"/>
+    <nd ref="2262941019"/>
+    <nd ref="3741117883"/>
+    <nd ref="354907780"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="Sign at W"/>
+  </way>
+  <way id="197101623" version="3" timestamp="2023-06-23T09:57:08Z" changeset="137681513" uid="242345" user="confusedbuffalo">
+    <nd ref="324373859"/>
+    <nd ref="324373860"/>
+    <nd ref="324374252"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:NB" v="interpolation"/>
+    <tag k="source:maxspeed" v="Sign at W"/>
+  </way>
+  <way id="200147181" version="2" timestamp="2024-11-11T04:27:00Z" changeset="158992936" uid="20574418" user="jampabhi">
+    <nd ref="12329985643"/>
+    <nd ref="2101341119"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="227730665" version="3" timestamp="2019-06-30T18:15:07Z" changeset="71762289" uid="9310280" user="rsakunth">
+    <nd ref="324373005"/>
+    <nd ref="324373824"/>
+    <nd ref="1102533691"/>
+    <nd ref="324373825"/>
+    <nd ref="324373826"/>
+    <nd ref="324373827"/>
+    <nd ref="324373828"/>
+    <nd ref="324373829"/>
+    <nd ref="1102533707"/>
+    <nd ref="324373830"/>
+    <nd ref="324373831"/>
+    <nd ref="324373832"/>
+    <nd ref="324373833"/>
+    <nd ref="324373834"/>
+    <nd ref="324373835"/>
+    <nd ref="324373836"/>
+    <nd ref="3213950589"/>
+    <nd ref="324373837"/>
+    <nd ref="3213950620"/>
+    <nd ref="3213950588"/>
+    <nd ref="324373838"/>
+    <nd ref="1102533739"/>
+    <nd ref="324373839"/>
+    <nd ref="324373840"/>
+    <nd ref="324373841"/>
+    <nd ref="1102533744"/>
+    <nd ref="324373842"/>
+    <nd ref="6580278900"/>
+    <nd ref="1102533746"/>
+    <nd ref="324373843"/>
+    <nd ref="324373844"/>
+    <nd ref="1102533750"/>
+    <nd ref="324373845"/>
+    <nd ref="324373846"/>
+    <nd ref="324373847"/>
+    <nd ref="1102533758"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="npe;GPS;OS_OpenData_StreetView"/>
+  </way>
+  <way id="878867922" version="3" timestamp="2023-11-30T19:44:16Z" changeset="144638015" uid="504708" user="HillWithSmallFields">
+    <nd ref="2101343088"/>
+    <nd ref="8176130134"/>
+    <nd ref="8176130117"/>
+    <nd ref="8176130119"/>
+    <nd ref="8176130123"/>
+    <nd ref="2101343088"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Holy Rood"/>
+    <tag k="ref:dove" v="16167"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q15224687"/>
+    <tag k="wikipedia" v="en:Holy Rood Church, Ossington"/>
+  </way>
+  <way id="1215439217" version="1" timestamp="2023-10-13T19:11:08Z" changeset="142536621" uid="504708" user="HillWithSmallFields">
+    <nd ref="11261241850"/>
+    <nd ref="11261241851"/>
+    <nd ref="11261241852"/>
+    <nd ref="11261241853"/>
+    <nd ref="11261241854"/>
+    <nd ref="11261241855"/>
+    <nd ref="11261241856"/>
+    <nd ref="11261241857"/>
+    <nd ref="11261241858"/>
+    <nd ref="11261241859"/>
+    <nd ref="11261241860"/>
+    <nd ref="11261241862"/>
+    <nd ref="11261241861"/>
+    <nd ref="324373845"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+
+</osm>

@@ -1,0 +1,2244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:28:33Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="101276000" lat="52.9409083" lon="-1.1140117" version="32" timestamp="2021-01-19T22:34:15Z" changeset="97795172" uid="345975" user="VlIvYur"/>
+  <node id="101279987" lat="52.9381921" lon="-1.1164724" version="25" timestamp="2021-01-12T21:49:41Z" changeset="97398315" uid="345975" user="VlIvYur"/>
+  <node id="255088158" lat="52.9372372" lon="-1.0637973" version="4" timestamp="2016-03-27T22:56:51Z" changeset="38108999" uid="207845" user="will_p"/>
+  <node id="345215115" lat="52.9383877" lon="-1.1061508" version="7" timestamp="2021-01-25T16:47:12Z" changeset="98135016" uid="345975" user="VlIvYur"/>
+  <node id="366931328" lat="52.9472426" lon="-1.0527172" version="5" timestamp="2013-03-10T22:07:31Z" changeset="15321851" uid="1091339" user="King Sad"/>
+  <node id="425763887" lat="52.9276744" lon="-1.0978632" version="3" timestamp="2020-03-21T16:22:43Z" changeset="82463278" uid="84075" user="kevjs1982"/>
+  <node id="876114320" lat="52.9377692" lon="-1.0643590" version="6" timestamp="2025-04-21T13:43:31Z" changeset="165240801" uid="5008136" user="JayTurnr"/>
+  <node id="1035609806" lat="52.9332067" lon="-1.0933763" version="3" timestamp="2022-10-19T11:35:24Z" changeset="127777084" uid="8774347" user="Misa_zumba"/>
+  <node id="6877452031" lat="52.9406500" lon="-1.0573524" version="1" timestamp="2019-10-14T08:49:54Z" changeset="75650812" uid="10170582" user="priymose"/>
+  <node id="10113908350" lat="52.9334089" lon="-1.0939803" version="1" timestamp="2022-10-19T11:35:24Z" changeset="127777084" uid="8774347" user="Misa_zumba"/>
+  <way id="5205291" version="33" timestamp="2025-04-21T13:35:43Z" changeset="165240422" uid="5008136" user="JayTurnr">
+    <nd ref="1035609406"/>
+    <nd ref="36427743"/>
+    <nd ref="1035609860"/>
+    <nd ref="36427745"/>
+    <nd ref="2194957116"/>
+    <nd ref="36427747"/>
+    <nd ref="36427750"/>
+    <nd ref="36427751"/>
+    <nd ref="389962272"/>
+    <nd ref="12772182366"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="11384695" version="16" timestamp="2023-09-06T07:14:39Z" changeset="140880404" uid="84075" user="kevjs1982">
+    <nd ref="101276000"/>
+    <nd ref="4072636244"/>
+    <nd ref="4072636243"/>
+    <nd ref="4072636241"/>
+    <nd ref="101278083"/>
+    <nd ref="101278086"/>
+    <nd ref="101278087"/>
+    <nd ref="4072634959"/>
+    <nd ref="4072634946"/>
+    <nd ref="4072634933"/>
+    <nd ref="11171245988"/>
+    <nd ref="101278089"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Adbolton Grove"/>
+    <tag k="parking:condition:both" v="free"/>
+    <tag k="parking:lane:both" v="parallel"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="11385378" version="12" timestamp="2023-09-06T07:14:39Z" changeset="140880404" uid="84075" user="kevjs1982">
+    <nd ref="101287311"/>
+    <nd ref="11171245980"/>
+    <nd ref="8313080222"/>
+    <nd ref="8313070113"/>
+    <nd ref="3805700956"/>
+    <nd ref="101287648"/>
+    <nd ref="3805700955"/>
+    <nd ref="1571020641"/>
+    <nd ref="1571020670"/>
+    <nd ref="8313080218"/>
+    <nd ref="8313080217"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Moore Close"/>
+  </way>
+  <way id="11386637" version="25" timestamp="2023-09-07T08:32:15Z" changeset="140928560" uid="84075" user="kevjs1982">
+    <nd ref="101287311"/>
+    <nd ref="3805703729"/>
+    <nd ref="4072634927"/>
+    <nd ref="101287313"/>
+    <nd ref="8313045015"/>
+    <nd ref="8313045011"/>
+    <nd ref="345216081"/>
+    <nd ref="11173633000"/>
+    <nd ref="317212593"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="rumble_strip"/>
+  </way>
+  <way id="23556552" version="13" timestamp="2025-04-14T16:20:15Z" changeset="164947021" uid="5229644" user="Nathan_A_RF">
+    <nd ref="876114320"/>
+    <nd ref="4248003421"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Stragglethorpe Road"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="28921070" version="7" timestamp="2012-04-10T15:20:38Z" changeset="11253609" uid="508" user="Welshie">
+    <nd ref="317919040"/>
+    <nd ref="317919042"/>
+    <nd ref="1571020571"/>
+    <nd ref="317919044"/>
+    <nd ref="101287648"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Moore Close"/>
+  </way>
+  <way id="28937150" version="15" timestamp="2021-01-22T19:37:31Z" changeset="97993879" uid="345975" user="VlIvYur">
+    <nd ref="101278089"/>
+    <nd ref="4072634926"/>
+    <nd ref="101287311"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="rumble_strip"/>
+  </way>
+  <way id="28937203" version="27" timestamp="2023-05-13T15:57:36Z" changeset="136058220" uid="5008136" user="JayTurnr">
+    <nd ref="101287320"/>
+    <nd ref="9543427818"/>
+    <nd ref="1076868584"/>
+    <nd ref="213818766"/>
+    <nd ref="1076869364"/>
+    <nd ref="1076868594"/>
+    <nd ref="685473076"/>
+    <nd ref="213818767"/>
+    <nd ref="1076869931"/>
+    <nd ref="474774827"/>
+    <nd ref="1076869747"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="28937236" version="29" timestamp="2024-09-26T16:22:12Z" changeset="157137354" uid="84075" user="kevjs1982">
+    <nd ref="364730149"/>
+    <nd ref="624763044"/>
+    <nd ref="624763046"/>
+    <nd ref="213818779"/>
+    <nd ref="8361420855"/>
+    <nd ref="8361420854"/>
+    <nd ref="8361442706"/>
+    <nd ref="324224576"/>
+    <nd ref="213818781"/>
+    <nd ref="474777241"/>
+    <nd ref="213818782"/>
+    <nd ref="1033576985"/>
+    <nd ref="213818784"/>
+    <nd ref="213818785"/>
+    <nd ref="1033576933"/>
+    <nd ref="213818786"/>
+    <nd ref="912252808"/>
+    <nd ref="213818788"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="29106936" version="13" timestamp="2021-01-25T16:47:21Z" changeset="98135016" uid="345975" user="VlIvYur">
+    <nd ref="317212598"/>
+    <nd ref="4072634956"/>
+    <nd ref="101287316"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="rumble_strip"/>
+  </way>
+  <way id="29139073" version="12" timestamp="2023-09-07T08:32:15Z" changeset="140928560" uid="84075" user="kevjs1982">
+    <nd ref="317212593"/>
+    <nd ref="4072634954"/>
+    <nd ref="101287314"/>
+    <nd ref="11173633003"/>
+    <nd ref="1571021405"/>
+    <nd ref="317212598"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="31055038" version="9" timestamp="2023-05-13T15:57:33Z" changeset="136058220" uid="5008136" user="JayTurnr">
+    <nd ref="101287320"/>
+    <nd ref="345215115"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Regatta Way"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="31055067" version="17" timestamp="2023-05-13T15:57:38Z" changeset="136058220" uid="5008136" user="JayTurnr">
+    <nd ref="345215115"/>
+    <nd ref="1076869458"/>
+    <nd ref="213818764"/>
+    <nd ref="912252674"/>
+    <nd ref="912252677"/>
+    <nd ref="213818763"/>
+    <nd ref="9644054432"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Regatta Way"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="31055283" version="16" timestamp="2021-01-25T16:47:21Z" changeset="98135016" uid="345975" user="VlIvYur">
+    <nd ref="101287316"/>
+    <nd ref="715434948"/>
+    <nd ref="1147936063"/>
+    <nd ref="1147936732"/>
+    <nd ref="685472900"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="rumble_strip"/>
+  </way>
+  <way id="32636145" version="15" timestamp="2019-04-16T09:19:49Z" changeset="69263223" uid="84075" user="kevjs1982">
+    <nd ref="282291200"/>
+    <nd ref="685494450"/>
+    <nd ref="1060295337"/>
+    <nd ref="3881102471"/>
+    <nd ref="366931226"/>
+    <nd ref="366931227"/>
+    <nd ref="366931228"/>
+    <nd ref="685494470"/>
+    <nd ref="685494437"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Holme Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="34027346" version="8" timestamp="2023-06-18T19:22:27Z" changeset="137490289" uid="84681" user="SK53">
+    <nd ref="867356190"/>
+    <nd ref="6564255986"/>
+    <nd ref="10984747520"/>
+    <nd ref="389951802"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Nathans Lane"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="34114872" version="11" timestamp="2019-04-16T09:19:49Z" changeset="69263223" uid="84075" user="kevjs1982">
+    <nd ref="213818788"/>
+    <nd ref="431455532"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="37100822" version="9" timestamp="2019-04-16T09:19:49Z" changeset="69263223" uid="84075" user="kevjs1982">
+    <nd ref="431455532"/>
+    <nd ref="431455533"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="37100825" version="21" timestamp="2023-05-15T11:10:47Z" changeset="136121398" uid="84075" user="kevjs1982">
+    <nd ref="431455533"/>
+    <nd ref="393918725"/>
+    <nd ref="2195030956"/>
+    <nd ref="213818792"/>
+    <nd ref="1033576575"/>
+    <nd ref="1033577892"/>
+    <nd ref="213818793"/>
+    <nd ref="2338307884"/>
+    <nd ref="3426543906"/>
+    <nd ref="1033576661"/>
+    <nd ref="1033577374"/>
+    <nd ref="213818794"/>
+    <nd ref="366930912"/>
+    <nd ref="366930915"/>
+    <nd ref="366930918"/>
+    <nd ref="366930921"/>
+    <nd ref="1033577577"/>
+    <nd ref="10899182773"/>
+    <nd ref="366930924"/>
+    <nd ref="366930927"/>
+    <nd ref="366930930"/>
+    <nd ref="2195030962"/>
+    <nd ref="366930933"/>
+    <nd ref="2195030950"/>
+    <nd ref="366930936"/>
+    <nd ref="2195030961"/>
+    <nd ref="3665175556"/>
+    <nd ref="3424947655"/>
+    <nd ref="374102851"/>
+    <nd ref="366930937"/>
+    <nd ref="3665175618"/>
+    <nd ref="366930940"/>
+    <nd ref="366930942"/>
+    <nd ref="366930943"/>
+    <nd ref="366930946"/>
+    <nd ref="366930948"/>
+    <nd ref="366930950"/>
+    <nd ref="374103930"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39606978" version="1" timestamp="2009-08-26T20:57:47Z" changeset="2271526" uid="84075" user="kevjs1982">
+    <nd ref="474777241"/>
+    <nd ref="474777243"/>
+    <nd ref="474777246"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="54407130" version="10" timestamp="2025-07-11T11:55:06Z" changeset="168792368" uid="5359" user="user_5359">
+    <nd ref="685472667"/>
+    <nd ref="8361468250"/>
+    <nd ref="8361468249"/>
+    <nd ref="685472682"/>
+    <nd ref="685472697"/>
+    <nd ref="8361468247"/>
+    <nd ref="8361468248"/>
+    <nd ref="4072636198"/>
+    <nd ref="4072636196"/>
+    <nd ref="8361468246"/>
+    <nd ref="8361468245"/>
+    <nd ref="4072634987"/>
+    <nd ref="4072634985"/>
+    <nd ref="4072634978"/>
+    <nd ref="4072634981"/>
+    <nd ref="8361468243"/>
+    <nd ref="8361468242"/>
+    <nd ref="8361468244"/>
+    <nd ref="8361468240"/>
+    <nd ref="8361468239"/>
+    <nd ref="8361468241"/>
+    <nd ref="8361468238"/>
+    <nd ref="4072634977"/>
+    <nd ref="8361468237"/>
+    <nd ref="8361468236"/>
+    <nd ref="4072634984"/>
+    <nd ref="4072634986"/>
+    <nd ref="8361468234"/>
+    <nd ref="8361468235"/>
+    <nd ref="8361468232"/>
+    <nd ref="8361468231"/>
+    <nd ref="8361468230"/>
+    <nd ref="8361468233"/>
+    <nd ref="685472748"/>
+    <nd ref="4072636194"/>
+    <nd ref="4072636201"/>
+    <nd ref="8361468254"/>
+    <nd ref="8361468252"/>
+    <nd ref="8361468251"/>
+    <nd ref="8361468253"/>
+    <nd ref="4072636212"/>
+    <nd ref="4072636210"/>
+    <nd ref="685472667"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:postcode" v="NG2 5AS"/>
+    <tag k="addr:street" v="Adbolton Lane"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="residential"/>
+    <tag k="fhrs:id" v="590860"/>
+    <tag k="name" v="Church Farm at Skylarks"/>
+    <tag k="ref:GB:cqc_location" v="1-809205436"/>
+    <tag k="ref:GB:uprn" v="3040047151"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="elderly"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+    <tag k="website" v="http://www.churchfarm-skylarks.co.uk/"/>
+  </way>
+  <way id="54407156" version="6" timestamp="2023-09-07T14:42:30Z" changeset="140944717" uid="84075" user="kevjs1982">
+    <nd ref="685473245"/>
+    <nd ref="863410899"/>
+    <nd ref="1076884599"/>
+    <nd ref="685473028"/>
+    <nd ref="8361468079"/>
+    <nd ref="685473040"/>
+    <nd ref="1076884353"/>
+    <nd ref="912252756"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Green Acres"/>
+  </way>
+  <way id="54407166" version="3" timestamp="2011-01-01T13:18:19Z" changeset="6827495" uid="84075" user="kevjs1982">
+    <nd ref="1076884505"/>
+    <nd ref="1076884416"/>
+    <nd ref="685473291"/>
+    <nd ref="685473237"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="os_streetview"/>
+  </way>
+  <way id="54407171" version="5" timestamp="2023-09-07T14:42:30Z" changeset="140944717" uid="84075" user="kevjs1982">
+    <nd ref="1076884722"/>
+    <nd ref="1076884800"/>
+    <nd ref="685473350"/>
+    <nd ref="1076884510"/>
+    <nd ref="863410906"/>
+    <nd ref="863410899"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="54407174" version="4" timestamp="2021-01-25T16:47:21Z" changeset="98135016" uid="345975" user="VlIvYur">
+    <nd ref="1076884888"/>
+    <nd ref="1076884745"/>
+    <nd ref="685473396"/>
+    <nd ref="1076884309"/>
+    <nd ref="685473399"/>
+    <nd ref="1076884413"/>
+    <nd ref="685473405"/>
+    <nd ref="685473028"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="54411843" version="9" timestamp="2025-06-07T11:27:08Z" changeset="167304626" uid="8857" user="philipcullen">
+    <nd ref="685494503"/>
+    <nd ref="685494504"/>
+    <nd ref="2626543739"/>
+    <nd ref="2626543737"/>
+    <nd ref="2626543736"/>
+    <nd ref="2626543738"/>
+    <nd ref="685494505"/>
+    <nd ref="2626543741"/>
+    <nd ref="2626543740"/>
+    <nd ref="2626543742"/>
+    <nd ref="2626543743"/>
+    <nd ref="685494506"/>
+    <nd ref="2626543744"/>
+    <nd ref="2626543746"/>
+    <nd ref="2626543747"/>
+    <nd ref="2626543745"/>
+    <nd ref="685494503"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG12 2LD"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="St. Edmund's Church"/>
+    <tag k="ref:GB:uprn" v="3040055698"/>
+    <tag k="ref:dove" v="11290"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source:listed_status" v="English Heritage"/>
+    <tag k="wikidata" v="Q7587789"/>
+    <tag k="wikipedia" v="en:St Edmund's Church, Holme Pierrepont"/>
+  </way>
+  <way id="54411856" version="9" timestamp="2022-06-22T14:13:03Z" changeset="122714639" uid="7345137" user="magrej">
+    <nd ref="685494507"/>
+    <nd ref="685494508"/>
+    <nd ref="1060295473"/>
+    <nd ref="1060296371"/>
+    <nd ref="1060296919"/>
+    <nd ref="685494509"/>
+    <nd ref="685494510"/>
+    <nd ref="685494511"/>
+    <nd ref="685494521"/>
+    <nd ref="1571187545"/>
+    <nd ref="685494532"/>
+    <nd ref="1060296127"/>
+    <nd ref="685494539"/>
+    <nd ref="1571187544"/>
+    <nd ref="2626543752"/>
+    <nd ref="2626543755"/>
+    <nd ref="685494575"/>
+    <nd ref="685494576"/>
+    <nd ref="685494507"/>
+    <tag k="amenity" v="events_venue"/>
+    <tag k="building" v="house"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="Holme Pierrepont Hall"/>
+    <tag k="source:listed_status" v="English Heritage"/>
+    <tag k="website" v="https://www.holmepierreponthall.com/"/>
+    <tag k="wikidata" v="Q5883398"/>
+    <tag k="wikipedia" v="en:Holme Pierrepont Hall"/>
+  </way>
+  <way id="55789056" version="10" timestamp="2024-09-26T16:22:12Z" changeset="157137354" uid="84075" user="kevjs1982">
+    <nd ref="1571188021"/>
+    <nd ref="3688948276"/>
+    <nd ref="1571188025"/>
+    <nd ref="3614494268"/>
+    <nd ref="3688270251"/>
+    <nd ref="3611028590"/>
+    <nd ref="1571188027"/>
+    <nd ref="1571188029"/>
+    <nd ref="1571188041"/>
+    <nd ref="1571188043"/>
+    <nd ref="1571188044"/>
+    <nd ref="700782584"/>
+    <nd ref="1571188047"/>
+    <nd ref="1571188049"/>
+    <nd ref="1571188051"/>
+    <nd ref="1571188052"/>
+    <nd ref="700782585"/>
+    <nd ref="1571188057"/>
+    <nd ref="1571188067"/>
+    <nd ref="1571188054"/>
+    <nd ref="1571188072"/>
+    <nd ref="1571188056"/>
+    <nd ref="1571188077"/>
+    <nd ref="1571188078"/>
+    <nd ref="700782587"/>
+    <nd ref="1571187925"/>
+    <nd ref="3688270285"/>
+    <nd ref="1571188021"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:postcode" v="NG12 2LU"/>
+    <tag k="addr:street" v="Adbolton Lane"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Paddle UK"/>
+    <tag k="old_fhrs:id" v="266023"/>
+    <tag k="old_name" v="British Canoeing"/>
+  </way>
+  <way id="55789057" version="13" timestamp="2025-06-06T21:35:45Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="700782592"/>
+    <nd ref="3428217422"/>
+    <nd ref="3428217423"/>
+    <nd ref="3428217425"/>
+    <nd ref="3612312367"/>
+    <nd ref="700782593"/>
+    <nd ref="3604577735"/>
+    <nd ref="3604577742"/>
+    <nd ref="700782595"/>
+    <nd ref="3604577750"/>
+    <nd ref="3604577736"/>
+    <nd ref="700782597"/>
+    <nd ref="3688948277"/>
+    <nd ref="3665092812"/>
+    <nd ref="3376600252"/>
+    <nd ref="3376600156"/>
+    <nd ref="3667192942"/>
+    <nd ref="3667192941"/>
+    <nd ref="3376600247"/>
+    <nd ref="700782598"/>
+    <nd ref="3688270283"/>
+    <nd ref="3688270242"/>
+    <nd ref="700782601"/>
+    <nd ref="3428217424"/>
+    <nd ref="1571188091"/>
+    <nd ref="700782603"/>
+    <nd ref="3688270273"/>
+    <nd ref="3688270258"/>
+    <nd ref="3688270240"/>
+    <nd ref="700782604"/>
+    <nd ref="3688270247"/>
+    <nd ref="1571188100"/>
+    <nd ref="3688270265"/>
+    <nd ref="1571188101"/>
+    <nd ref="1571188093"/>
+    <nd ref="3688270274"/>
+    <nd ref="1571188089"/>
+    <nd ref="700782605"/>
+    <nd ref="3688270241"/>
+    <nd ref="700782608"/>
+    <nd ref="700782592"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Lakeside"/>
+    <tag k="ref:GB:uprn" v="3040029351"/>
+  </way>
+  <way id="57700896" version="8" timestamp="2024-02-27T14:19:55Z" changeset="147975308" uid="84075" user="kevjs1982">
+    <nd ref="715434948"/>
+    <nd ref="1550912046"/>
+    <nd ref="11664877986"/>
+    <nd ref="715435040"/>
+    <nd ref="845815473"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="name" v="Simkins Barns"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="57967757" version="26" timestamp="2025-04-21T13:54:52Z" changeset="165241412" uid="5008136" user="JayTurnr">
+    <nd ref="10032236341"/>
+    <nd ref="36427772"/>
+    <nd ref="36427770"/>
+    <nd ref="36427768"/>
+    <nd ref="4248003424"/>
+    <nd ref="847798718"/>
+    <nd ref="255087904"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="62305943" version="18" timestamp="2025-08-18T10:56:30Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="425763887"/>
+    <nd ref="3657995487"/>
+    <nd ref="389952005"/>
+    <nd ref="7315843829"/>
+    <nd ref="7315843815"/>
+    <nd ref="389952003"/>
+    <nd ref="389952002"/>
+    <nd ref="3657995488"/>
+    <nd ref="389952000"/>
+    <nd ref="3657995489"/>
+    <nd ref="389951999"/>
+    <nd ref="389951998"/>
+    <nd ref="389951996"/>
+    <nd ref="1015103981"/>
+    <nd ref="3657995495"/>
+    <nd ref="3657995498"/>
+    <nd ref="389951995"/>
+    <nd ref="3657995499"/>
+    <nd ref="3657995497"/>
+    <nd ref="3657995496"/>
+    <nd ref="389951994"/>
+    <nd ref="3657995500"/>
+    <nd ref="3657995501"/>
+    <nd ref="3657995504"/>
+    <nd ref="389951992"/>
+    <nd ref="3657995505"/>
+    <nd ref="3657995503"/>
+    <nd ref="389951991"/>
+    <nd ref="3657995494"/>
+    <nd ref="389951989"/>
+    <nd ref="3657995490"/>
+    <nd ref="867356169"/>
+    <nd ref="3657995491"/>
+    <nd ref="3657995492"/>
+    <nd ref="3657995493"/>
+    <nd ref="389951988"/>
+    <nd ref="3657995502"/>
+    <nd ref="8366606071"/>
+    <nd ref="867356176"/>
+    <nd ref="3657995511"/>
+    <nd ref="867356245"/>
+    <nd ref="6557381536"/>
+    <nd ref="867356180"/>
+    <nd ref="6557381545"/>
+    <nd ref="867356265"/>
+    <nd ref="389951987"/>
+    <nd ref="7068435128"/>
+    <nd ref="3657995514"/>
+    <nd ref="8077932791"/>
+    <nd ref="431223138"/>
+    <nd ref="389951802"/>
+    <nd ref="10984747519"/>
+    <nd ref="8077932798"/>
+    <nd ref="389951803"/>
+    <nd ref="8366603091"/>
+    <nd ref="1571825383"/>
+    <nd ref="3657995515"/>
+    <nd ref="8366634387"/>
+    <nd ref="389951804"/>
+    <nd ref="11378183561"/>
+    <nd ref="3657995517"/>
+    <nd ref="389951805"/>
+    <nd ref="389951806"/>
+    <nd ref="389961532"/>
+    <nd ref="389951807"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Bassingfield Lane"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="70978540" version="2" timestamp="2025-06-06T21:35:45Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="845815487"/>
+    <nd ref="845815489"/>
+    <nd ref="845815494"/>
+    <nd ref="845815498"/>
+    <nd ref="845815500"/>
+    <nd ref="845815487"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Millers Cottage"/>
+    <tag k="ref:GB:uprn" v="3040070134"/>
+  </way>
+  <way id="70978541" version="3" timestamp="2025-06-06T21:35:45Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="845815504"/>
+    <nd ref="845815508"/>
+    <nd ref="4072634983"/>
+    <nd ref="4072634982"/>
+    <nd ref="845815498"/>
+    <nd ref="845815500"/>
+    <nd ref="845815504"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="The Coach House"/>
+    <tag k="ref:GB:uprn" v="3040070135"/>
+  </way>
+  <way id="70978542" version="2" timestamp="2025-06-06T21:35:45Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="845815508"/>
+    <nd ref="845815512"/>
+    <nd ref="845815516"/>
+    <nd ref="845815504"/>
+    <nd ref="845815508"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="The Granary"/>
+    <tag k="ref:GB:uprn" v="3040070136"/>
+  </way>
+  <way id="70978543" version="2" timestamp="2025-06-06T21:35:45Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="845815516"/>
+    <nd ref="845815523"/>
+    <nd ref="845815527"/>
+    <nd ref="845815531"/>
+    <nd ref="845815535"/>
+    <nd ref="845815536"/>
+    <nd ref="845815512"/>
+    <nd ref="845815516"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="The Forge"/>
+    <tag k="ref:GB:uprn" v="3040070137"/>
+  </way>
+  <way id="70978544" version="2" timestamp="2025-06-06T21:35:45Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="845815545"/>
+    <nd ref="845815546"/>
+    <nd ref="845815547"/>
+    <nd ref="845815549"/>
+    <nd ref="845815545"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Wheelwrights Cottage"/>
+    <tag k="ref:GB:uprn" v="3040070138"/>
+  </way>
+  <way id="70978545" version="8" timestamp="2025-06-06T21:35:45Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="845815558"/>
+    <nd ref="11664869067"/>
+    <nd ref="845815560"/>
+    <nd ref="845815573"/>
+    <nd ref="845815578"/>
+    <nd ref="845815582"/>
+    <nd ref="845815584"/>
+    <nd ref="845815585"/>
+    <nd ref="845815586"/>
+    <nd ref="845815590"/>
+    <nd ref="845815558"/>
+    <tag k="addr:housename" v="Simkin's Farmhouse"/>
+    <tag k="addr:street" v="Adbolton Lane"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Simkin's Farmhouse"/>
+    <tag k="ref:GB:uprn" v="3040049112"/>
+    <tag k="wikidata" v="Q26541354"/>
+  </way>
+  <way id="70978551" version="9" timestamp="2025-06-06T21:35:45Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="8361468321"/>
+    <nd ref="8361468319"/>
+    <nd ref="11183471222"/>
+    <nd ref="845815702"/>
+    <nd ref="845815705"/>
+    <nd ref="845815707"/>
+    <nd ref="845815697"/>
+    <nd ref="8361468318"/>
+    <nd ref="8361468320"/>
+    <nd ref="8361468321"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:postcode" v="NG2 5AS"/>
+    <tag k="addr:street" v="Adbolton Lane"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="building" v="yes"/>
+    <tag k="kindergarten" v="day_nursery"/>
+    <tag k="name" v="Kindred West Bridgford"/>
+    <tag k="old_name" v="Alphabet House Day Nursery"/>
+    <tag k="ref:GB:uprn" v="3040049101"/>
+    <tag k="source:addr:postcode" v="FHRS Open Data"/>
+  </way>
+  <way id="70978553" version="8" timestamp="2025-08-28T09:24:58Z" changeset="171123351" uid="616774" user="mueschel">
+    <nd ref="845815740"/>
+    <nd ref="845815741"/>
+    <nd ref="845815746"/>
+    <nd ref="845815752"/>
+    <nd ref="845815753"/>
+    <nd ref="845815759"/>
+    <nd ref="4072636224"/>
+    <nd ref="4072636225"/>
+    <nd ref="845815764"/>
+    <nd ref="845815774"/>
+    <nd ref="4072636218"/>
+    <nd ref="4072636222"/>
+    <nd ref="4072636221"/>
+    <nd ref="8361460905"/>
+    <nd ref="8361460903"/>
+    <nd ref="4072636214"/>
+    <nd ref="8361460902"/>
+    <nd ref="8361460904"/>
+    <nd ref="845815779"/>
+    <nd ref="845815784"/>
+    <nd ref="845815786"/>
+    <nd ref="4072636217"/>
+    <nd ref="4072636216"/>
+    <nd ref="845815787"/>
+    <nd ref="845815792"/>
+    <nd ref="4072636204"/>
+    <nd ref="4072636203"/>
+    <nd ref="4072636206"/>
+    <nd ref="4072636208"/>
+    <nd ref="845815797"/>
+    <nd ref="845815798"/>
+    <nd ref="4072636215"/>
+    <nd ref="845815804"/>
+    <nd ref="845815810"/>
+    <nd ref="845815817"/>
+    <nd ref="845815821"/>
+    <nd ref="845815822"/>
+    <nd ref="845815827"/>
+    <nd ref="845815740"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:postcode" v="NG2 5AS"/>
+    <tag k="addr:street" v="Adbolton Lane"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Adbolton Hall"/>
+    <tag k="old_fhrs:id" v="265858"/>
+    <tag k="old_name" v="Adbolton Hall Care Home"/>
+    <tag k="old_operator" v="Adbolton Hall Ltd"/>
+    <tag k="ref:GB:cqc_location" v="1-151679411"/>
+    <tag k="source:addr:postcode" v="FHRS Open Data"/>
+    <tag k="was:amenity" v="social_facility"/>
+    <tag k="was:social_facility" v="care_home"/>
+    <tag k="was:social_facility:for" v="elderly"/>
+  </way>
+  <way id="70978607" version="3" timestamp="2023-09-07T14:42:30Z" changeset="140944717" uid="84075" user="kevjs1982">
+    <nd ref="1076884536"/>
+    <nd ref="1076884985"/>
+    <nd ref="1076884880"/>
+    <nd ref="1076884786"/>
+    <nd ref="845816236"/>
+    <nd ref="1076884676"/>
+    <nd ref="685473237"/>
+    <nd ref="11174688636"/>
+    <nd ref="685473245"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="os_streetview"/>
+  </way>
+  <way id="71221480" version="4" timestamp="2024-04-17T13:48:17Z" changeset="150131030" uid="84075" user="kevjs1982">
+    <nd ref="847805747"/>
+    <nd ref="847805750"/>
+    <nd ref="3263534253"/>
+    <nd ref="847805751"/>
+    <nd ref="847804223"/>
+    <nd ref="847805752"/>
+    <nd ref="847805747"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="John Dudderidge House"/>
+  </way>
+  <way id="71222612" version="4" timestamp="2013-03-10T22:07:33Z" changeset="15321851" uid="1091339" user="King Sad">
+    <nd ref="374104022"/>
+    <nd ref="374104023"/>
+    <nd ref="374104024"/>
+    <nd ref="374104027"/>
+    <nd ref="374104028"/>
+    <nd ref="374104029"/>
+    <nd ref="847833292"/>
+    <nd ref="374104030"/>
+    <nd ref="2195030954"/>
+    <nd ref="1033576746"/>
+    <nd ref="374104031"/>
+    <nd ref="1033576401"/>
+    <nd ref="374104032"/>
+    <nd ref="374103930"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="72496119" version="7" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="860652908"/>
+    <nd ref="860652909"/>
+    <nd ref="860652911"/>
+    <nd ref="13213952962"/>
+    <nd ref="860652912"/>
+    <nd ref="12204667812"/>
+    <nd ref="860652908"/>
+    <tag k="building" v="yes"/>
+    <tag k="club" v="rugby"/>
+    <tag k="name" v="Nottinghamians RFC"/>
+    <tag k="source" v="os_opendata_streetview"/>
+    <tag k="sport" v="rugby_union"/>
+    <tag k="wikidata" v="Q17015680"/>
+    <tag k="wikipedia" v="en:Nottinghamians"/>
+  </way>
+  <way id="72496139" version="3" timestamp="2015-02-20T17:44:28Z" changeset="28982891" uid="84075" user="kevjs1982">
+    <nd ref="860652997"/>
+    <nd ref="860652998"/>
+    <nd ref="860653000"/>
+    <nd ref="3362063293"/>
+    <nd ref="860653001"/>
+    <nd ref="3362063297"/>
+    <nd ref="860652997"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Desperate Measures"/>
+    <tag k="source" v="os_opendata_streetview"/>
+  </way>
+  <way id="72496141" version="3" timestamp="2015-10-18T11:27:59Z" changeset="34708973" uid="84075" user="kevjs1982">
+    <nd ref="860653002"/>
+    <nd ref="860653003"/>
+    <nd ref="3791241512"/>
+    <nd ref="860653004"/>
+    <nd ref="860653006"/>
+    <nd ref="860653002"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Crows Nest"/>
+    <tag k="source" v="os_opendata_streetview"/>
+  </way>
+  <way id="73085478" version="2" timestamp="2021-01-27T07:52:00Z" changeset="98210123" uid="1431482" user="JonOrchard">
+    <nd ref="867356299"/>
+    <nd ref="8366552607"/>
+    <nd ref="8366552608"/>
+    <nd ref="867356301"/>
+    <nd ref="867356305"/>
+    <nd ref="867356309"/>
+    <nd ref="867356315"/>
+    <nd ref="8366552606"/>
+    <nd ref="8366552605"/>
+    <nd ref="8366552604"/>
+    <nd ref="8366552603"/>
+    <nd ref="8366552602"/>
+    <nd ref="8366552601"/>
+    <nd ref="867356317"/>
+    <nd ref="8366552600"/>
+    <nd ref="8366552599"/>
+    <nd ref="867356299"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bassingfield Wood Yard"/>
+  </way>
+  <way id="76912090" version="6" timestamp="2021-08-07T08:40:30Z" changeset="109299939" uid="84075" user="kevjs1982">
+    <nd ref="366931328"/>
+    <nd ref="2334732385"/>
+    <nd ref="366931327"/>
+    <nd ref="366931326"/>
+    <nd ref="366931325"/>
+    <nd ref="366931324"/>
+    <nd ref="366931323"/>
+    <nd ref="366931321"/>
+    <nd ref="366931320"/>
+    <nd ref="2195030957"/>
+    <nd ref="366931319"/>
+    <nd ref="366931317"/>
+    <nd ref="366931316"/>
+    <nd ref="366931315"/>
+    <nd ref="282291200"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Holme Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="77505086" version="4" timestamp="2024-04-26T14:33:11Z" changeset="150542336" uid="84075" user="kevjs1982">
+    <nd ref="912252756"/>
+    <nd ref="912252753"/>
+    <tag k="access" v="private"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Green Acres"/>
+    <tag k="source" v="os_streetview"/>
+  </way>
+  <way id="77505089" version="3" timestamp="2023-09-07T14:42:30Z" changeset="140944717" uid="84075" user="kevjs1982">
+    <nd ref="912252753"/>
+    <nd ref="11174764944"/>
+    <nd ref="685473052"/>
+    <nd ref="685473067"/>
+    <nd ref="474777011"/>
+    <nd ref="685473076"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="5 mph"/>
+    <tag k="name" v="Green Acres"/>
+    <tag k="source" v="os_streetview"/>
+  </way>
+  <way id="78190794" version="5" timestamp="2025-08-22T12:51:32Z" changeset="170830281" uid="84075" user="kevjs1982">
+    <nd ref="918433157"/>
+    <nd ref="918433169"/>
+    <nd ref="918433173"/>
+    <nd ref="918433174"/>
+    <nd ref="918433157"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Adbolton Grove"/>
+    <tag k="building" v="detached"/>
+    <tag k="ref:GB:uprn" v="3040022573"/>
+  </way>
+  <way id="78191646" version="5" timestamp="2025-08-22T12:51:24Z" changeset="170830281" uid="84075" user="kevjs1982">
+    <nd ref="918440550"/>
+    <nd ref="8342995073"/>
+    <nd ref="8342995074"/>
+    <nd ref="918440551"/>
+    <nd ref="918440552"/>
+    <nd ref="918440553"/>
+    <nd ref="918440550"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Adbolton Grove"/>
+    <tag k="building" v="detached"/>
+    <tag k="ref:GB:uprn" v="3040022571"/>
+  </way>
+  <way id="78193416" version="6" timestamp="2025-06-06T21:35:48Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="918452998"/>
+    <nd ref="8313067606"/>
+    <nd ref="918453002"/>
+    <nd ref="1571021358"/>
+    <nd ref="1571021354"/>
+    <nd ref="1571021351"/>
+    <nd ref="1571021348"/>
+    <nd ref="1571021346"/>
+    <nd ref="1571021343"/>
+    <nd ref="918453005"/>
+    <nd ref="918453009"/>
+    <nd ref="1571021367"/>
+    <nd ref="918452998"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:housename" v="Tarkwa"/>
+    <tag k="addr:postcode" v="NG2 5AS"/>
+    <tag k="addr:street" v="Adbolton Lane"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="building" v="yes"/>
+    <tag k="fhrs:id" v="266146"/>
+    <tag k="kindergarten" v="day_nursery"/>
+    <tag k="name" v="Little Friends Day Nursery"/>
+    <tag k="ref:GB:uprn" v="3040073747;3040049102;3040073748"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </way>
+  <way id="78193520" version="5" timestamp="2025-06-06T21:35:48Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="918454263"/>
+    <nd ref="8342995057"/>
+    <nd ref="8342995058"/>
+    <nd ref="8342995060"/>
+    <nd ref="8342995059"/>
+    <nd ref="918454272"/>
+    <nd ref="8342995061"/>
+    <nd ref="8342995062"/>
+    <nd ref="918454274"/>
+    <nd ref="918454275"/>
+    <nd ref="8342995064"/>
+    <nd ref="8342995063"/>
+    <nd ref="918454263"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Adbolton Grove"/>
+    <tag k="building" v="detached"/>
+    <tag k="ref:GB:uprn" v="3040022575"/>
+  </way>
+  <way id="80946704" version="9" timestamp="2025-06-06T21:35:56Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="943754654"/>
+    <nd ref="943794128"/>
+    <nd ref="943788933"/>
+    <nd ref="943768558"/>
+    <nd ref="943754654"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:postcode" v="NG2 5AS"/>
+    <tag k="addr:street" v="Adbolton Lane"/>
+    <tag k="building" v="boathouse"/>
+    <tag k="club" v="sailing"/>
+    <tag k="name" v="The Nottingham Sailing Club"/>
+    <tag k="old_fhrs:id" v="266079"/>
+    <tag k="ref:GB:uprn" v="3040058322"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
+  </way>
+  <way id="80947178" version="4" timestamp="2025-06-06T21:35:56Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="943791871"/>
+    <nd ref="943786755"/>
+    <nd ref="943780040"/>
+    <nd ref="943758248"/>
+    <nd ref="943791871"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Elsan Point"/>
+    <tag k="ref:GB:uprn" v="3040049107"/>
+  </way>
+  <way id="80947235" version="2" timestamp="2015-01-01T15:36:02Z" changeset="27842387" uid="84075" user="kevjs1982">
+    <nd ref="943767415"/>
+    <nd ref="3263534251"/>
+    <nd ref="943760758"/>
+    <nd ref="943754134"/>
+    <nd ref="943757300"/>
+    <nd ref="943767415"/>
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cycle and Segway Hire"/>
+    <tag k="source" v="Auto_OS_OpenData_StreetView"/>
+  </way>
+  <way id="80947298" version="2" timestamp="2015-12-06T22:58:45Z" changeset="35796482" uid="207845" user="will_p">
+    <nd ref="943793189"/>
+    <nd ref="3881097199"/>
+    <nd ref="3881097210"/>
+    <nd ref="3881097208"/>
+    <nd ref="3881097198"/>
+    <nd ref="943777290"/>
+    <nd ref="943767209"/>
+    <nd ref="943760579"/>
+    <nd ref="943793189"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Home Farm"/>
+    <tag k="source" v="Auto_OS_OpenData_StreetView"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="80947558" version="4" timestamp="2023-09-11T12:52:46Z" changeset="141109112" uid="84075" user="kevjs1982">
+    <nd ref="943760256"/>
+    <nd ref="943753449"/>
+    <nd ref="943756717"/>
+    <nd ref="943795426"/>
+    <nd ref="943760256"/>
+    <tag k="building" v="hut"/>
+    <tag k="name" v="Reception"/>
+  </way>
+  <way id="80947607" version="4" timestamp="2018-06-23T13:55:27Z" changeset="60101643" uid="84075" user="kevjs1982">
+    <nd ref="943787941"/>
+    <nd ref="3263429427"/>
+    <nd ref="943782836"/>
+    <nd ref="3263429429"/>
+    <nd ref="3263429430"/>
+    <nd ref="943770013"/>
+    <nd ref="943763029"/>
+    <nd ref="3263429428"/>
+    <nd ref="3612464594"/>
+    <nd ref="943787941"/>
+    <tag k="alt_name" v="Elms House"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Elms"/>
+    <tag k="source" v="Auto_OS_OpenData_StreetView"/>
+    <tag k="tourism" v="chalet"/>
+  </way>
+  <way id="80947672" version="3" timestamp="2025-06-06T21:35:56Z" changeset="167286729" uid="8857" user="philipcullen">
+    <nd ref="943754214"/>
+    <nd ref="943793774"/>
+    <nd ref="943788636"/>
+    <nd ref="943791467"/>
+    <nd ref="943754214"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Holme Grange Cottage"/>
+    <tag k="ref:GB:uprn" v="3040029347"/>
+    <tag k="source" v="Auto_OS_OpenData_StreetView"/>
+  </way>
+  <way id="80947695" version="2" timestamp="2015-06-27T15:41:58Z" changeset="32245344" uid="84075" user="kevjs1982">
+    <nd ref="943785089"/>
+    <nd ref="943774738"/>
+    <nd ref="943782009"/>
+    <nd ref="943769277"/>
+    <nd ref="943785089"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ski Tow"/>
+    <tag k="source" v="Auto_OS_OpenData_StreetView"/>
+  </way>
+  <way id="80948272" version="10" timestamp="2025-09-24T07:23:32Z" changeset="172378172" uid="84075" user="kevjs1982">
+    <nd ref="943787553"/>
+    <nd ref="943757734"/>
+    <nd ref="943796361"/>
+    <nd ref="936714002"/>
+    <nd ref="2579331758"/>
+    <nd ref="2579331746"/>
+    <nd ref="13167076243"/>
+    <nd ref="683878064"/>
+    <nd ref="2579331755"/>
+    <nd ref="943787553"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG12 2LF"/>
+    <tag k="addr:street" v="Radcliffe Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Starbucks Pierrepont"/>
+    <tag k="old_name" v="Haveli"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="91329708" version="2" timestamp="2015-02-28T16:13:09Z" changeset="29159041" uid="84075" user="kevjs1982">
+    <nd ref="1060295739"/>
+    <nd ref="1060295842"/>
+    <nd ref="3376600175"/>
+    <nd ref="1060295515"/>
+    <nd ref="1060296612"/>
+    <nd ref="1060295739"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="1500"/>
+  </way>
+  <way id="91329776" version="3" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="1060296880"/>
+    <nd ref="1060296497"/>
+    <nd ref="13218136307"/>
+    <nd ref="3376600231"/>
+    <nd ref="1060296481"/>
+    <nd ref="1060295436"/>
+    <nd ref="1060296880"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Start"/>
+  </way>
+  <way id="91329778" version="3" timestamp="2018-09-03T07:45:57Z" changeset="62238250" uid="384887" user="robw">
+    <nd ref="1060296810"/>
+    <nd ref="1060296798"/>
+    <nd ref="3376600241"/>
+    <nd ref="1060296844"/>
+    <nd ref="1060296999"/>
+    <nd ref="1060296810"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="1000"/>
+  </way>
+  <way id="91329789" version="2" timestamp="2015-02-28T16:13:09Z" changeset="29159041" uid="84075" user="kevjs1982">
+    <nd ref="1060296902"/>
+    <nd ref="1060295278"/>
+    <nd ref="1060296228"/>
+    <nd ref="1060296717"/>
+    <nd ref="1060296902"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="500"/>
+  </way>
+  <way id="91329791" version="2" timestamp="2015-02-28T16:13:09Z" changeset="29159041" uid="84075" user="kevjs1982">
+    <nd ref="1060295490"/>
+    <nd ref="1060295590"/>
+    <nd ref="1060295270"/>
+    <nd ref="1060297053"/>
+    <nd ref="1060295490"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="750"/>
+  </way>
+  <way id="92871534" version="3" timestamp="2021-01-25T16:47:22Z" changeset="98135016" uid="345975" user="VlIvYur">
+    <nd ref="1076884741"/>
+    <nd ref="1076884342"/>
+    <nd ref="1076884588"/>
+    <nd ref="1076884726"/>
+    <nd ref="1076884349"/>
+    <nd ref="1076884346"/>
+    <nd ref="1076884684"/>
+    <nd ref="3657858836"/>
+    <nd ref="1076884475"/>
+    <nd ref="1076884415"/>
+    <nd ref="1076884353"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Green Acres"/>
+  </way>
+  <way id="92871548" version="1" timestamp="2011-01-01T13:17:59Z" changeset="6827495" uid="84075" user="kevjs1982">
+    <nd ref="1076884548"/>
+    <nd ref="1076884857"/>
+    <nd ref="1076884800"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="os_streetview"/>
+  </way>
+  <way id="105758777" version="9" timestamp="2025-10-21T18:44:49Z" changeset="173596994" uid="23413341" user="LachDown">
+    <nd ref="255088158"/>
+    <nd ref="3164163914"/>
+    <nd ref="1923783970"/>
+    <nd ref="255088159"/>
+    <nd ref="1923783954"/>
+    <nd ref="255088160"/>
+    <nd ref="1923783933"/>
+    <nd ref="255088161"/>
+    <nd ref="389953391"/>
+    <nd ref="255088162"/>
+    <nd ref="255088163"/>
+    <nd ref="255088164"/>
+    <nd ref="255088165"/>
+    <nd ref="2280493494"/>
+    <nd ref="255088166"/>
+    <nd ref="2280493495"/>
+    <nd ref="255088167"/>
+    <nd ref="255088168"/>
+    <nd ref="255088170"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Stragglethorpe Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="132013840" version="1" timestamp="2011-10-02T17:28:18Z" changeset="9452985" uid="84075" user="kevjs1982">
+    <nd ref="472354157"/>
+    <nd ref="472354165"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="136181980" version="14" timestamp="2022-10-28T19:14:50Z" changeset="128188162" uid="13666626" user="RedAuburn">
+    <nd ref="1494226028"/>
+    <nd ref="36427749"/>
+    <nd ref="36427748"/>
+    <nd ref="2194956954"/>
+    <nd ref="36427746"/>
+    <nd ref="2194956967"/>
+    <nd ref="36427744"/>
+    <nd ref="1035609806"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="136181986" version="11" timestamp="2022-10-28T19:14:50Z" changeset="128188162" uid="13666626" user="RedAuburn">
+    <nd ref="1494226034"/>
+    <nd ref="36427756"/>
+    <nd ref="7514722270"/>
+    <nd ref="1923657900"/>
+    <nd ref="36427754"/>
+    <nd ref="2194957161"/>
+    <nd ref="389951807"/>
+    <nd ref="389962280"/>
+    <nd ref="1494226028"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="143574451" version="1" timestamp="2011-12-31T14:00:48Z" changeset="10254993" uid="84075" user="kevjs1982">
+    <nd ref="1571188166"/>
+    <nd ref="1571188168"/>
+    <nd ref="1571188174"/>
+    <nd ref="1571188176"/>
+    <nd ref="1571188166"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Gatehouse"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="167806267" version="8" timestamp="2025-10-23T09:58:11Z" changeset="173665139" uid="20538459" user="ITWB">
+    <nd ref="685472900"/>
+    <nd ref="845815987"/>
+    <nd ref="9562498822"/>
+    <nd ref="101287317"/>
+    <nd ref="1076868396"/>
+    <nd ref="101287319"/>
+    <nd ref="1076869776"/>
+    <nd ref="9562476588"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="rumble_strip"/>
+  </way>
+  <way id="169305455" version="3" timestamp="2023-05-13T16:10:19Z" changeset="136058257" uid="5008136" user="JayTurnr">
+    <nd ref="364730014"/>
+    <nd ref="364758998"/>
+    <nd ref="364730024"/>
+    <nd ref="213818777"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="169305456" version="5" timestamp="2025-03-25T15:24:22Z" changeset="164082493" uid="84075" user="kevjs1982">
+    <nd ref="685494437"/>
+    <nd ref="366931230"/>
+    <nd ref="366931182"/>
+    <nd ref="2266664432"/>
+    <nd ref="374106467"/>
+    <nd ref="1060295670"/>
+    <nd ref="12699133837"/>
+    <nd ref="366931181"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Holme Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="cushion"/>
+  </way>
+  <way id="251749850" version="4" timestamp="2025-04-21T13:39:31Z" changeset="165240597" uid="5008136" user="JayTurnr">
+    <nd ref="943792286"/>
+    <nd ref="2579331766"/>
+    <nd ref="2579331774"/>
+    <nd ref="2579331769"/>
+    <nd ref="2579331772"/>
+    <nd ref="2579331765"/>
+    <nd ref="2579331764"/>
+    <nd ref="2579331753"/>
+    <nd ref="2579331749"/>
+    <nd ref="943755829"/>
+    <nd ref="943792286"/>
+    <tag k="branch" v="Pierrepont"/>
+    <tag k="brand" v="Londis"/>
+    <tag k="brand:wikidata" v="Q21008564"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Londis"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="319876210" version="5" timestamp="2025-09-24T07:04:36Z" changeset="172377484" uid="417748" user="Dave Venables">
+    <nd ref="3263534258"/>
+    <nd ref="3263534232"/>
+    <nd ref="3263536473"/>
+    <nd ref="3263534248"/>
+    <nd ref="3263536475"/>
+    <nd ref="3263534258"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG12 2LU"/>
+    <tag k="addr:street" v="Adbolton Lane"/>
+    <tag k="alt_name" v="1066 Country Park Cafe"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="fhrs:id" v="1401772"/>
+    <tag k="name" v="Ten66 Country Park Coffee Shop"/>
+  </way>
+  <way id="319876211" version="1" timestamp="2015-01-01T15:36:01Z" changeset="27842387" uid="84075" user="kevjs1982">
+    <nd ref="1571229232"/>
+    <nd ref="847804234"/>
+    <nd ref="847804236"/>
+    <nd ref="847804240"/>
+    <nd ref="3263534257"/>
+    <nd ref="1571229387"/>
+    <nd ref="1571229207"/>
+    <nd ref="3263534227"/>
+    <nd ref="3263536464"/>
+    <nd ref="1571229232"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Changing Rooms"/>
+  </way>
+  <way id="319876213" version="3" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="3263536465"/>
+    <nd ref="3263534259"/>
+    <nd ref="3263534260"/>
+    <nd ref="3263534238"/>
+    <nd ref="3263536465"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Holme Pierrepont Canoe Club"/>
+    <tag k="old_name" v="Nottingham Canoe Club"/>
+  </way>
+  <way id="320015336" version="1" timestamp="2015-01-02T13:04:38Z" changeset="27862164" uid="84075" user="kevjs1982">
+    <nd ref="3265210834"/>
+    <nd ref="3265209957"/>
+    <nd ref="3265210762"/>
+    <nd ref="3265210805"/>
+    <nd ref="3265210834"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="scoreboard"/>
+  </way>
+  <way id="330610595" version="3" timestamp="2023-09-11T12:46:15Z" changeset="141109112" uid="84075" user="kevjs1982">
+    <nd ref="3376068032"/>
+    <nd ref="3376068034"/>
+    <nd ref="3376068033"/>
+    <nd ref="3376068029"/>
+    <nd ref="3376068032"/>
+    <tag k="building" v="hut"/>
+    <tag k="name" v="Regatta Marshall"/>
+  </way>
+  <way id="330668799" version="1" timestamp="2015-02-28T16:13:04Z" changeset="29159041" uid="84075" user="kevjs1982">
+    <nd ref="3376600235"/>
+    <nd ref="3376600159"/>
+    <nd ref="3376600169"/>
+    <nd ref="3376600167"/>
+    <nd ref="3376600235"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="200"/>
+  </way>
+  <way id="330668812" version="3" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="3376600170"/>
+    <nd ref="3376600186"/>
+    <nd ref="3376600248"/>
+    <nd ref="3376600187"/>
+    <nd ref="3376600176"/>
+    <nd ref="3665092815"/>
+    <nd ref="3376600171"/>
+    <nd ref="3376600170"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Finish"/>
+  </way>
+  <way id="356787729" version="1" timestamp="2015-06-27T15:41:57Z" changeset="32245344" uid="84075" user="kevjs1982">
+    <nd ref="3621927783"/>
+    <nd ref="3621927784"/>
+    <nd ref="3621927785"/>
+    <nd ref="3621927786"/>
+    <nd ref="3621927783"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Ski Tow Reception"/>
+  </way>
+  <way id="361346701" version="9" timestamp="2025-04-21T13:54:52Z" changeset="165241412" uid="5008136" user="JayTurnr">
+    <nd ref="876114320"/>
+    <nd ref="847798724"/>
+    <nd ref="36427767"/>
+    <nd ref="36427769"/>
+    <nd ref="36427771"/>
+    <nd ref="2194957134"/>
+    <nd ref="36427773"/>
+    <nd ref="12772217262"/>
+    <nd ref="2194957006"/>
+    <nd ref="36427775"/>
+    <nd ref="2334746061"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="365868670" version="3" timestamp="2019-04-16T11:04:04Z" changeset="69266822" uid="84075" user="kevjs1982">
+    <nd ref="3424947639"/>
+    <nd ref="366930952"/>
+    <nd ref="366930954"/>
+    <nd ref="472354165"/>
+    <nd ref="3424947672"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="365868675" version="7" timestamp="2024-08-13T12:11:55Z" changeset="155192689" uid="84075" user="kevjs1982">
+    <nd ref="3424947672"/>
+    <nd ref="366930956"/>
+    <nd ref="685494628"/>
+    <nd ref="366930959"/>
+    <nd ref="3698692400"/>
+    <nd ref="366930961"/>
+    <nd ref="366930962"/>
+    <nd ref="366930964"/>
+    <nd ref="2444940605"/>
+    <nd ref="847833100"/>
+    <nd ref="685494404"/>
+    <nd ref="3039702299"/>
+    <nd ref="685494402"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="designation" v="byway_open_to_all_traffic"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="horse" v="yes"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="ref" v="12"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="source:designation" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tracktype" v="grade1"/>
+    <tag k="traffic_calming" v="cushion"/>
+  </way>
+  <way id="366221273" version="11" timestamp="2024-04-26T07:23:19Z" changeset="150524209" uid="84075" user="kevjs1982">
+    <nd ref="1923657975"/>
+    <nd ref="36427761"/>
+    <nd ref="1923657971"/>
+    <nd ref="36427760"/>
+    <nd ref="1923657966"/>
+    <nd ref="11849630238"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="425499559" version="4" timestamp="2025-04-21T13:43:31Z" changeset="165240801" uid="5008136" user="JayTurnr">
+    <nd ref="255087904"/>
+    <nd ref="4248003428"/>
+    <nd ref="4248003427"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Stragglethorpe Road"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="425499560" version="2" timestamp="2025-04-14T16:20:15Z" changeset="164947021" uid="5229644" user="Nathan_A_RF">
+    <nd ref="4248003421"/>
+    <nd ref="255087904"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Stragglethorpe Road"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="425499561" version="8" timestamp="2025-04-21T13:40:50Z" changeset="165240670" uid="5008136" user="JayTurnr">
+    <nd ref="1923784018"/>
+    <nd ref="4248003422"/>
+    <nd ref="4248003423"/>
+    <nd ref="4248003421"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Stragglethorpe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="425499562" version="4" timestamp="2025-04-21T13:43:31Z" changeset="165240801" uid="5008136" user="JayTurnr">
+    <nd ref="4248003427"/>
+    <nd ref="4248003429"/>
+    <nd ref="4466513185"/>
+    <nd ref="4248003425"/>
+    <nd ref="4248003426"/>
+    <tag k="highway" v="tertiary_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="674089238" version="1" timestamp="2019-03-02T16:41:01Z" changeset="67717853" uid="84075" user="kevjs1982">
+    <nd ref="6312775211"/>
+    <nd ref="6312775213"/>
+    <nd ref="6312775210"/>
+    <nd ref="6312775212"/>
+    <nd ref="6312775211"/>
+    <tag k="building" v="yes"/>
+    <tag k="man_made" v="pumping_station"/>
+    <tag k="name" v="Sewage Pumping Station"/>
+    <tag k="operator" v="Severn Trent"/>
+    <tag k="pumping_station" v="sewage"/>
+  </way>
+  <way id="677201334" version="5" timestamp="2023-09-06T06:06:12Z" changeset="140877962" uid="84075" user="kevjs1982">
+    <nd ref="101279987"/>
+    <nd ref="9487457132"/>
+    <nd ref="11171146351"/>
+    <nd ref="101279070"/>
+    <nd ref="11171146363"/>
+    <nd ref="846922091"/>
+    <nd ref="101287309"/>
+    <nd ref="4072634925"/>
+    <nd ref="101278089"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lcn" v="yes"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Trent Boulevard"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="rumble_strip"/>
+  </way>
+  <way id="679067560" version="4" timestamp="2023-05-13T16:02:39Z" changeset="136058257" uid="5008136" user="JayTurnr">
+    <nd ref="1076869747"/>
+    <nd ref="1076868646"/>
+    <nd ref="1076868387"/>
+    <nd ref="213818769"/>
+    <nd ref="366930376"/>
+    <nd ref="213818771"/>
+    <nd ref="474774933"/>
+    <nd ref="1076869969"/>
+    <nd ref="1076869232"/>
+    <nd ref="213818773"/>
+    <nd ref="1076869675"/>
+    <nd ref="3376562418"/>
+    <nd ref="1033577112"/>
+    <nd ref="364730014"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="684105624" version="2" timestamp="2019-04-16T11:04:04Z" changeset="69266822" uid="84075" user="kevjs1982">
+    <nd ref="374103930"/>
+    <nd ref="2338307964"/>
+    <nd ref="3424947639"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="690921812" version="1" timestamp="2019-05-18T17:12:26Z" changeset="70392387" uid="84075" user="kevjs1982">
+    <nd ref="6482651981"/>
+    <nd ref="6482651982"/>
+    <nd ref="6482652585"/>
+    <nd ref="6482652588"/>
+    <nd ref="6482651981"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Lagoon Wipeout"/>
+  </way>
+  <way id="1038239713" version="3" timestamp="2025-10-23T10:00:12Z" changeset="173665218" uid="20538459" user="ITWB">
+    <nd ref="9562476589"/>
+    <nd ref="8495337848"/>
+    <nd ref="13251524273"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="rumble_strip"/>
+  </way>
+  <way id="1038239714" version="5" timestamp="2025-10-23T09:59:16Z" changeset="173665183" uid="20538459" user="ITWB">
+    <nd ref="9562476588"/>
+    <nd ref="345215211"/>
+    <nd ref="8983751146"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="table"/>
+  </way>
+  <way id="1063694138" version="3" timestamp="2023-05-13T16:11:44Z" changeset="136058257" uid="5008136" user="JayTurnr">
+    <nd ref="213818777"/>
+    <nd ref="364730149"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1095466365" version="2" timestamp="2022-10-28T19:16:26Z" changeset="128188239" uid="13666626" user="RedAuburn">
+    <nd ref="4248003426"/>
+    <nd ref="1923783996"/>
+    <nd ref="1923783937"/>
+    <nd ref="36427766"/>
+    <nd ref="36427764"/>
+    <nd ref="1923657962"/>
+    <nd ref="1923657975"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1095466366" version="2" timestamp="2022-10-28T19:16:26Z" changeset="128188239" uid="13666626" user="RedAuburn">
+    <nd ref="255087904"/>
+    <nd ref="4248003426"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1095466367" version="3" timestamp="2025-04-21T13:54:52Z" changeset="165241412" uid="5008136" user="JayTurnr">
+    <nd ref="6877452031"/>
+    <nd ref="36427776"/>
+    <nd ref="2194957142"/>
+    <nd ref="36427774"/>
+    <nd ref="10032236341"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1095472042" version="3" timestamp="2025-10-21T18:44:49Z" changeset="173596994" uid="23413341" user="LachDown">
+    <nd ref="4248003427"/>
+    <nd ref="255088158"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Stragglethorpe Road"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="1095481147" version="3" timestamp="2024-04-26T07:23:19Z" changeset="150524209" uid="84075" user="kevjs1982">
+    <nd ref="1923657950"/>
+    <nd ref="1923657886"/>
+    <nd ref="36427759"/>
+    <nd ref="1923657827"/>
+    <nd ref="36427762"/>
+    <nd ref="1923657892"/>
+    <nd ref="10032340502"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1095481148" version="3" timestamp="2025-04-21T13:40:50Z" changeset="165240670" uid="5008136" user="JayTurnr">
+    <nd ref="10032340502"/>
+    <nd ref="36427763"/>
+    <nd ref="12772194603"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1105202648" version="2" timestamp="2022-10-28T19:16:26Z" changeset="128188239" uid="13666626" user="RedAuburn">
+    <nd ref="10113908350"/>
+    <nd ref="1035609406"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1105202649" version="2" timestamp="2022-10-28T19:16:26Z" changeset="128188239" uid="13666626" user="RedAuburn">
+    <nd ref="1035609806"/>
+    <nd ref="10113908349"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1205900654" version="1" timestamp="2023-09-07T14:42:30Z" changeset="140944717" uid="84075" user="kevjs1982">
+    <nd ref="11174764942"/>
+    <nd ref="11174764941"/>
+    <nd ref="11174764940"/>
+    <nd ref="11174764939"/>
+    <nd ref="11174764938"/>
+    <nd ref="11174764937"/>
+    <nd ref="11174688636"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="os_streetview"/>
+  </way>
+  <way id="1254615011" version="1" timestamp="2024-02-25T15:06:23Z" changeset="147895377" uid="84075" user="kevjs1982">
+    <nd ref="11662957207"/>
+    <nd ref="11662957206"/>
+    <nd ref="11662957205"/>
+    <nd ref="11662957209"/>
+    <nd ref="11662957207"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="name" v="Romano's"/>
+  </way>
+  <way id="1254615013" version="1" timestamp="2024-02-25T15:06:23Z" changeset="147895377" uid="84075" user="kevjs1982">
+    <nd ref="11662957212"/>
+    <nd ref="11662957210"/>
+    <nd ref="11662957208"/>
+    <nd ref="11662957211"/>
+    <nd ref="11662957212"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Romano's Pizza &amp; Drinks"/>
+  </way>
+  <way id="1254836134" version="4" timestamp="2024-02-27T14:19:40Z" changeset="147975308" uid="84075" user="kevjs1982">
+    <nd ref="715435040"/>
+    <nd ref="11664877987"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="name" v="Simkins Barns"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="1273367321" version="2" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="11824853446"/>
+    <nd ref="11824853445"/>
+    <nd ref="11824853444"/>
+    <nd ref="11824853443"/>
+    <nd ref="11824853446"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Rapids Refreshments"/>
+  </way>
+  <way id="1273367323" version="1" timestamp="2024-04-17T13:48:17Z" changeset="150131030" uid="84075" user="kevjs1982">
+    <nd ref="11824853454"/>
+    <nd ref="11824853453"/>
+    <nd ref="11824853452"/>
+    <nd ref="11824853451"/>
+    <nd ref="11824853454"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Rafting Lounge"/>
+  </way>
+  <way id="1276323921" version="1" timestamp="2024-04-26T07:23:19Z" changeset="150524209" uid="84075" user="kevjs1982">
+    <nd ref="11849630237"/>
+    <nd ref="1923657950"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1276323922" version="1" timestamp="2024-04-26T07:23:19Z" changeset="150524209" uid="84075" user="kevjs1982">
+    <nd ref="1572581220"/>
+    <nd ref="1923657874"/>
+    <nd ref="36427757"/>
+    <nd ref="11849630237"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1276323923" version="1" timestamp="2024-04-26T07:23:19Z" changeset="150524209" uid="84075" user="kevjs1982">
+    <nd ref="1923657753"/>
+    <nd ref="36427758"/>
+    <nd ref="1923657777"/>
+    <nd ref="1494226034"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1276323924" version="1" timestamp="2024-04-26T07:23:19Z" changeset="150524209" uid="84075" user="kevjs1982">
+    <nd ref="11849630238"/>
+    <nd ref="1923657753"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1378397643" version="2" timestamp="2025-10-23T09:59:35Z" changeset="173665201" uid="20538459" user="ITWB">
+    <nd ref="8983751146"/>
+    <nd ref="9562476589"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="table"/>
+  </way>
+  <way id="1379318215" version="2" timestamp="2025-09-24T07:23:32Z" changeset="172378172" uid="84075" user="kevjs1982">
+    <nd ref="2579331728"/>
+    <nd ref="1923657859"/>
+    <nd ref="7514722264"/>
+    <nd ref="36427755"/>
+    <nd ref="13167076258"/>
+    <nd ref="1572581220"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1379318216" version="1" timestamp="2025-04-21T13:35:43Z" changeset="165240422" uid="5008136" user="JayTurnr">
+    <nd ref="12772182366"/>
+    <nd ref="36427753"/>
+    <nd ref="2579331728"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1379319324" version="1" timestamp="2025-04-21T13:40:50Z" changeset="165240670" uid="5008136" user="JayTurnr">
+    <nd ref="12772194603"/>
+    <nd ref="36427765"/>
+    <nd ref="1923784018"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1379319325" version="1" timestamp="2025-04-21T13:40:50Z" changeset="165240670" uid="5008136" user="JayTurnr">
+    <nd ref="1923784018"/>
+    <nd ref="1923783990"/>
+    <nd ref="876114320"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Radcliffe Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A52"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="1439423073" version="1" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="13213952977"/>
+    <nd ref="13213952966"/>
+    <nd ref="13213952965"/>
+    <nd ref="13213952976"/>
+    <nd ref="13213952977"/>
+    <tag k="building" v="boathouse"/>
+    <tag k="name" v="Regatta Lake Receiption"/>
+  </way>
+  <way id="1439423074" version="1" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="13213952978"/>
+    <nd ref="13213952967"/>
+    <nd ref="13213952966"/>
+    <nd ref="13213952977"/>
+    <nd ref="13213952978"/>
+    <tag k="building" v="boathouse"/>
+    <tag k="name" v="University of Nottingham Boat Club"/>
+  </way>
+  <way id="1439423075" version="1" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="13213952979"/>
+    <nd ref="13213952968"/>
+    <nd ref="13213952967"/>
+    <nd ref="13213952978"/>
+    <nd ref="13213952979"/>
+    <tag k="building" v="boathouse"/>
+    <tag k="name" v="British Canoeing"/>
+  </way>
+  <way id="1439423076" version="1" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="13213952980"/>
+    <nd ref="13213952969"/>
+    <nd ref="13213952968"/>
+    <nd ref="13213952979"/>
+    <nd ref="13213952980"/>
+    <tag k="building" v="boathouse"/>
+    <tag k="name" v="Beckett School"/>
+  </way>
+  <way id="1439423078" version="1" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="13213952982"/>
+    <nd ref="13213952971"/>
+    <nd ref="13213952970"/>
+    <nd ref="13213952981"/>
+    <nd ref="13213952982"/>
+    <tag k="building" v="boathouse"/>
+    <tag k="name" v="GB Rowing Performance Academy"/>
+  </way>
+  <way id="1439423079" version="1" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="13213952983"/>
+    <nd ref="13213952972"/>
+    <nd ref="13213952971"/>
+    <nd ref="13213952982"/>
+    <nd ref="13213952983"/>
+    <tag k="building" v="boathouse"/>
+    <tag k="name" v="Nottinghamshire County Rowing Associatation"/>
+  </way>
+  <way id="1439423080" version="1" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="13213952984"/>
+    <nd ref="13213952973"/>
+    <nd ref="13213952972"/>
+    <nd ref="13213952983"/>
+    <nd ref="13213952984"/>
+    <tag k="building" v="boathouse"/>
+    <tag k="name" v="Nottinghamshire County Rowing Associatation"/>
+  </way>
+  <way id="1439423082" version="1" timestamp="2025-10-11T17:32:55Z" changeset="173148314" uid="84075" user="kevjs1982">
+    <nd ref="13213952996"/>
+    <nd ref="13213952995"/>
+    <nd ref="13213952994"/>
+    <nd ref="13213952993"/>
+    <nd ref="13213952996"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="250"/>
+  </way>
+  <way id="1444149729" version="2" timestamp="2025-10-23T10:00:36Z" changeset="173665230" uid="20538459" user="ITWB">
+    <nd ref="13251524273"/>
+    <nd ref="13251524274"/>
+    <nd ref="9562476587"/>
+    <nd ref="101287320"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Adbolton Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_calming" v="rumble_strip"/>
+  </way>
+
+</osm>

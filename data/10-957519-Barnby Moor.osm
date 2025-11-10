@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:50:02Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="1578096" lat="53.3444241" lon="-1.0305992" version="13" timestamp="2021-04-25T16:15:57Z" changeset="103581707" uid="5589496" user="willisturm">
+    <tag k="junction" v="yes"/>
+    <tag k="name" v="Bilby Gate"/>
+  </node>
+  <node id="28265408" lat="53.3430765" lon="-0.9806474" version="5" timestamp="2014-05-16T04:08:09Z" changeset="22364046" uid="2011702" user="krd_mapper"/>
+  <node id="28265425" lat="53.3534118" lon="-0.9827124" version="7" timestamp="2023-06-16T09:39:20Z" changeset="137406295" uid="12616743" user="BassetlawMapper"/>
+  <node id="321780869" lat="53.3358370" lon="-1.0285546" version="4" timestamp="2009-01-22T15:31:52Z" changeset="824848" uid="4559" user="RichardB"/>
+  <node id="461150513" lat="53.3549709" lon="-1.0072378" version="3" timestamp="2014-10-13T19:54:42Z" changeset="26057691" uid="91225" user="tms13"/>
+  <node id="634161408" lat="53.3202687" lon="-1.0279280" version="2" timestamp="2018-08-30T21:06:13Z" changeset="62153985" uid="2773866" user="kreuzschnabel"/>
+  <node id="3978383580" lat="53.3510218" lon="-1.0353383" version="2" timestamp="2018-08-30T21:06:13Z" changeset="62153985" uid="2773866" user="kreuzschnabel"/>
+  <node id="4683832859" lat="53.3515546" lon="-1.0062526" version="1" timestamp="2017-02-13T17:34:50Z" changeset="46054168" uid="5296090" user="TR42"/>
+  <node id="4683832864" lat="53.3542833" lon="-1.0083400" version="2" timestamp="2023-06-15T13:18:17Z" changeset="137370134" uid="12616743" user="BassetlawMapper"/>
+  <way id="4541735" version="8" timestamp="2022-08-29T13:20:51Z" changeset="125523980" uid="14513054" user="dmanddee">
+    <nd ref="28265448"/>
+    <nd ref="393181049"/>
+    <nd ref="4683832841"/>
+    <nd ref="393181051"/>
+    <nd ref="28265457"/>
+    <nd ref="4683832848"/>
+    <nd ref="9986066101"/>
+    <nd ref="4683832859"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Old London Road"/>
+  </way>
+  <way id="25974626" version="12" timestamp="2025-07-25T14:20:12Z" changeset="169457539" uid="22178592" user="Fahmid5987">
+    <nd ref="1578096"/>
+    <nd ref="2386971171"/>
+    <nd ref="1435012491"/>
+    <nd ref="283351897"/>
+    <nd ref="283351898"/>
+    <nd ref="3339194867"/>
+    <nd ref="5895088499"/>
+    <nd ref="6785660726"/>
+    <nd ref="28265459"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="28898705" version="16" timestamp="2023-06-15T13:18:17Z" changeset="137370134" uid="12616743" user="BassetlawMapper">
+    <nd ref="28265447"/>
+    <nd ref="356386917"/>
+    <nd ref="10978884541"/>
+    <nd ref="4683832864"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Retford Road"/>
+    <tag k="ref" v="A634"/>
+  </way>
+  <way id="29419435" version="26" timestamp="2024-07-20T15:46:01Z" changeset="154184982" uid="21771580" user="HappySword">
+    <nd ref="321780869"/>
+    <nd ref="321780868"/>
+    <nd ref="321780867"/>
+    <nd ref="335402389"/>
+    <nd ref="5869394875"/>
+    <nd ref="321780866"/>
+    <nd ref="321780699"/>
+    <nd ref="321780698"/>
+    <nd ref="2386971162"/>
+    <nd ref="2386971181"/>
+    <nd ref="321780697"/>
+    <nd ref="5869390036"/>
+    <nd ref="321780696"/>
+    <nd ref="5869390034"/>
+    <nd ref="321780695"/>
+    <nd ref="5869390033"/>
+    <nd ref="5869390031"/>
+    <nd ref="321780680"/>
+    <nd ref="5869390029"/>
+    <nd ref="321780694"/>
+    <nd ref="5869390027"/>
+    <nd ref="5869390026"/>
+    <nd ref="321780693"/>
+    <nd ref="5869390025"/>
+    <nd ref="321780692"/>
+    <nd ref="5869390023"/>
+    <nd ref="335402392"/>
+    <nd ref="5869390021"/>
+    <nd ref="321780691"/>
+    <nd ref="5869390019"/>
+    <nd ref="321780690"/>
+    <nd ref="5869390017"/>
+    <nd ref="5869390015"/>
+    <nd ref="321780689"/>
+    <nd ref="321780688"/>
+    <nd ref="5869390013"/>
+    <nd ref="321780687"/>
+    <nd ref="5869390011"/>
+    <nd ref="335402394"/>
+    <nd ref="5869390009"/>
+    <nd ref="321780686"/>
+    <nd ref="321780685"/>
+    <nd ref="5119809481"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="35937957" version="9" timestamp="2024-12-28T18:04:37Z" changeset="160720737" uid="8857" user="philipcullen">
+    <nd ref="28265408"/>
+    <nd ref="2861370092"/>
+    <nd ref="2861371803"/>
+    <nd ref="28265407"/>
+    <nd ref="3128355369"/>
+    <nd ref="2861370089"/>
+    <nd ref="2861370100"/>
+    <nd ref="28265406"/>
+    <nd ref="12459307408"/>
+    <nd ref="28265452"/>
+    <nd ref="771405862"/>
+    <nd ref="28265451"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="49898766" version="18" timestamp="2023-12-31T19:33:34Z" changeset="145744865" uid="242345" user="confusedbuffalo">
+    <nd ref="634161408"/>
+    <nd ref="335402375"/>
+    <nd ref="335402376"/>
+    <nd ref="335402380"/>
+    <nd ref="2659118166"/>
+    <nd ref="634164755"/>
+    <nd ref="5869390048"/>
+    <nd ref="335402381"/>
+    <nd ref="2659118160"/>
+    <nd ref="335402383"/>
+    <nd ref="5869390039"/>
+    <nd ref="335402384"/>
+    <nd ref="5869390041"/>
+    <nd ref="335402367"/>
+    <nd ref="335402385"/>
+    <nd ref="321759661"/>
+    <nd ref="321780869"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="61897182" version="2" timestamp="2015-02-09T16:15:55Z" changeset="28731135" uid="2020484" user="Nigel Greens">
+    <nd ref="771403846"/>
+    <nd ref="3340010887"/>
+    <nd ref="771403849"/>
+    <nd ref="28265449"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kennel Drive"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="61897183" version="1" timestamp="2010-06-13T14:00:29Z" changeset="4978911" uid="26825" user="Warofdreams">
+    <nd ref="771403849"/>
+    <nd ref="771403953"/>
+    <nd ref="771403959"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Drive"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="61897184" version="1" timestamp="2010-06-13T14:00:38Z" changeset="4978911" uid="26825" user="Warofdreams">
+    <nd ref="771404395"/>
+    <nd ref="771404401"/>
+    <nd ref="771404406"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Coppice"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="61897209" version="1" timestamp="2010-06-13T14:00:41Z" changeset="4978911" uid="26825" user="Warofdreams">
+    <nd ref="771404401"/>
+    <nd ref="771404536"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Coppice"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="166769790" version="6" timestamp="2023-06-16T09:39:20Z" changeset="137406295" uid="12616743" user="BassetlawMapper">
+    <nd ref="28265425"/>
+    <nd ref="1782077343"/>
+    <nd ref="771406300"/>
+    <nd ref="1782077345"/>
+    <nd ref="1782077360"/>
+    <nd ref="1782077358"/>
+    <nd ref="10980386165"/>
+    <nd ref="771406301"/>
+    <nd ref="28265455"/>
+    <nd ref="3103882902"/>
+    <nd ref="771405728"/>
+    <nd ref="10980380940"/>
+    <nd ref="28265454"/>
+    <nd ref="1782077367"/>
+    <nd ref="10978885223"/>
+    <nd ref="28265453"/>
+    <nd ref="771405862"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxweight" v="18"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="O_OpenData_StreetView"/>
+  </way>
+  <way id="166770015" version="3" timestamp="2015-02-09T17:17:48Z" changeset="28732551" uid="2020484" user="Nigel Greens">
+    <nd ref="28265447"/>
+    <nd ref="3340148987"/>
+    <nd ref="3340148981"/>
+    <nd ref="461150513"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="source:name" v="local_knowledge"/>
+    <tag k="source:ref" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="168567666" version="17" timestamp="2023-12-31T19:37:39Z" changeset="145744865" uid="242345" user="confusedbuffalo">
+    <nd ref="3978383580"/>
+    <nd ref="1578028"/>
+    <nd ref="5869390028"/>
+    <nd ref="1578030"/>
+    <nd ref="5869390030"/>
+    <nd ref="5869390032"/>
+    <nd ref="1578032"/>
+    <nd ref="5869390035"/>
+    <nd ref="1578091"/>
+    <nd ref="5869390037"/>
+    <nd ref="1578110"/>
+    <nd ref="5869394878"/>
+    <nd ref="2386971180"/>
+    <nd ref="1578096"/>
+    <nd ref="5869394877"/>
+    <nd ref="1578099"/>
+    <nd ref="1578212"/>
+    <nd ref="5869394876"/>
+    <nd ref="335402388"/>
+    <nd ref="1578214"/>
+    <nd ref="1578217"/>
+    <nd ref="1578284"/>
+    <nd ref="1578290"/>
+    <nd ref="1578293"/>
+    <nd ref="1578351"/>
+    <nd ref="5869390040"/>
+    <nd ref="1578355"/>
+    <nd ref="5869390038"/>
+    <nd ref="648864707"/>
+    <nd ref="1578360"/>
+    <nd ref="5869390045"/>
+    <nd ref="634164757"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="307637750" version="5" timestamp="2019-11-05T18:12:33Z" changeset="76662260" uid="8270424" user="theArchDruid">
+    <nd ref="461150513"/>
+    <nd ref="461150512"/>
+    <nd ref="461150517"/>
+    <nd ref="461150510"/>
+    <nd ref="461150519"/>
+    <nd ref="28265496"/>
+    <nd ref="1680406151"/>
+    <nd ref="1680406066"/>
+    <nd ref="1680406131"/>
+    <nd ref="6784627743"/>
+    <nd ref="1680406155"/>
+    <nd ref="1680406121"/>
+    <nd ref="3340142036"/>
+    <nd ref="3340142033"/>
+    <nd ref="6949194707"/>
+    <nd ref="3340142021"/>
+    <nd ref="1680406158"/>
+    <nd ref="6949194705"/>
+    <nd ref="1680406100"/>
+    <nd ref="1680406164"/>
+    <nd ref="1680406200"/>
+    <nd ref="3372051439"/>
+    <nd ref="3372051433"/>
+    <nd ref="1680406159"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+    <tag k="source" v="Bing;GPS"/>
+    <tag k="source:name" v="local_knowledge"/>
+    <tag k="source:ref" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="307637751" version="5" timestamp="2023-06-15T13:18:17Z" changeset="137370134" uid="12616743" user="BassetlawMapper">
+    <nd ref="28265451"/>
+    <nd ref="10978885178"/>
+    <nd ref="771404536"/>
+    <nd ref="461150528"/>
+    <nd ref="10978885248"/>
+    <nd ref="1782077349"/>
+    <nd ref="28265450"/>
+    <nd ref="6307516435"/>
+    <nd ref="6784571647"/>
+    <nd ref="393181056"/>
+    <nd ref="2659118155"/>
+    <nd ref="6307516423"/>
+    <nd ref="28265449"/>
+    <nd ref="7305518928"/>
+    <nd ref="2659118165"/>
+    <nd ref="6307516429"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="474423712" version="3" timestamp="2019-10-14T11:17:22Z" changeset="75659676" uid="10252562" user="puppalg">
+    <nd ref="4683832864"/>
+    <nd ref="356386922"/>
+    <nd ref="356386930"/>
+    <nd ref="2659118161"/>
+    <nd ref="28265462"/>
+    <nd ref="356386907"/>
+    <nd ref="356386905"/>
+    <nd ref="4683832858"/>
+    <nd ref="356386902"/>
+    <nd ref="28265463"/>
+    <nd ref="356386899"/>
+    <nd ref="4683832860"/>
+    <nd ref="28265464"/>
+    <nd ref="356386897"/>
+    <nd ref="356386894"/>
+    <nd ref="393181048"/>
+    <nd ref="28265474"/>
+    <nd ref="4683832866"/>
+    <nd ref="393181047"/>
+    <nd ref="4683832862"/>
+    <nd ref="28265473"/>
+    <nd ref="2514770022"/>
+    <nd ref="28265472"/>
+    <nd ref="6785549766"/>
+    <nd ref="6877869603"/>
+    <nd ref="393181044"/>
+    <nd ref="3372026797"/>
+    <nd ref="393181045"/>
+    <nd ref="4683832847"/>
+    <nd ref="4683832863"/>
+    <nd ref="28265471"/>
+    <nd ref="28265470"/>
+    <nd ref="4683832855"/>
+    <nd ref="393181043"/>
+    <nd ref="393181042"/>
+    <nd ref="28265469"/>
+    <nd ref="3373829680"/>
+    <nd ref="481331407"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Retford Road"/>
+    <tag k="ref" v="A634"/>
+  </way>
+  <way id="474423717" version="2" timestamp="2018-09-09T21:36:28Z" changeset="62435336" uid="583378" user="mike142sl">
+    <nd ref="4683832859"/>
+    <nd ref="393181052"/>
+    <nd ref="393181055"/>
+    <nd ref="5895088492"/>
+    <nd ref="4683832842"/>
+    <nd ref="393181054"/>
+    <nd ref="4683832856"/>
+    <nd ref="28265458"/>
+    <nd ref="4683832844"/>
+    <nd ref="4683832867"/>
+    <nd ref="28265459"/>
+    <nd ref="393181057"/>
+    <nd ref="118227190"/>
+    <nd ref="118227181"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old London Road"/>
+  </way>
+  <way id="621314277" version="1" timestamp="2018-08-30T21:06:11Z" changeset="62153985" uid="2773866" user="kreuzschnabel">
+    <nd ref="2386971178"/>
+    <nd ref="2386971169"/>
+    <nd ref="2386971162"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="673536147" version="1" timestamp="2019-02-28T05:56:45Z" changeset="67639942" uid="9218359" user="rojganes">
+    <nd ref="6307516423"/>
+    <nd ref="6307516424"/>
+    <nd ref="6307516428"/>
+    <nd ref="6307516425"/>
+    <nd ref="6307516426"/>
+    <nd ref="6307516427"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="673536149" version="3" timestamp="2024-01-29T12:52:43Z" changeset="146820680" uid="705850" user="Cebderby">
+    <nd ref="6307516429"/>
+    <nd ref="461150525"/>
+    <nd ref="11564075329"/>
+    <nd ref="2659118156"/>
+    <nd ref="28265448"/>
+    <nd ref="6532044503"/>
+    <nd ref="6532044492"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="695619568" version="1" timestamp="2019-06-07T13:20:14Z" changeset="71023621" uid="9641464" user="tmmanish">
+    <nd ref="6532044492"/>
+    <nd ref="461150521"/>
+    <nd ref="461150523"/>
+    <nd ref="28265447"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Great North Road"/>
+    <tag k="ref" v="A638"/>
+  </way>
+  <way id="974978518" version="2" timestamp="2022-10-06T11:57:21Z" changeset="127099481" uid="17299016" user="Russ (mechanical edit account)">
+    <nd ref="9022694863"/>
+    <nd ref="9022694860"/>
+    <nd ref="9022694861"/>
+    <nd ref="9022694862"/>
+    <nd ref="9022694863"/>
+    <tag k="brand" v="National Grid"/>
+    <tag k="brand:wikidata" v="Q1465461"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Moat Farm Solar Farm"/>
+    <tag k="operator" v="National Grid Electricity Distribution Plc"/>
+    <tag k="operator:old" v="Western Power Distribution"/>
+    <tag k="operator:wikidata" v="Q7988183"/>
+    <tag k="owner" v="National Grid Electricity Distribution (East Midlands) Plc"/>
+    <tag k="owner:wikidata" v="Q114348127"/>
+    <tag k="power" v="substation"/>
+    <tag k="ref:GB:wpd_site" v="898324"/>
+    <tag k="voltage" v="33000"/>
+  </way>
+
+</osm>

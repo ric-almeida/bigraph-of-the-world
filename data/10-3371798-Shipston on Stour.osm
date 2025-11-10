@@ -1,0 +1,4673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:20:26Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="323216" lat="52.0543511" lon="-1.6225645" version="3" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby"/>
+  <node id="375449" lat="52.0619957" lon="-1.6221382" version="5" timestamp="2017-07-17T00:20:24Z" changeset="50337331" uid="545369" user="bigfatfrog67"/>
+  <node id="671826111" lat="52.0756562" lon="-1.6214098" version="2" timestamp="2011-11-11T16:58:21Z" changeset="9797985" uid="243152" user="ChinnorBoy"/>
+  <node id="1538285824" lat="52.0563295" lon="-1.6605502" version="3" timestamp="2025-02-02T14:18:02Z" changeset="162048337" uid="19756269" user="RyanBush"/>
+  <node id="1787239242" lat="52.0455134" lon="-1.6208033" version="1" timestamp="2012-06-14T12:48:51Z" changeset="11894937" uid="55693" user="spiffy mapper"/>
+  <node id="12244978130" lat="52.0672378" lon="-1.6335584" version="1" timestamp="2024-10-11T21:35:41Z" changeset="157774183" uid="19970540" user="SakiWolf"/>
+  <way id="2953438" version="11" timestamp="2025-08-03T08:44:10Z" changeset="169893099" uid="1150946" user="letsridebikes">
+    <nd ref="1540773383"/>
+    <nd ref="1540773393"/>
+    <nd ref="1601287416"/>
+    <nd ref="1540773328"/>
+    <nd ref="11542739593"/>
+    <nd ref="11514883147"/>
+    <nd ref="13797324"/>
+    <nd ref="13797323"/>
+    <nd ref="1599054661"/>
+    <nd ref="13797228"/>
+    <nd ref="1540773325"/>
+    <nd ref="1540773293"/>
+    <nd ref="1609492597"/>
+    <nd ref="30247381"/>
+    <nd ref="1540773282"/>
+    <nd ref="10235524220"/>
+    <nd ref="13797226"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Telegraph Street"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="2953442" version="6" timestamp="2025-04-11T11:49:35Z" changeset="164812129" uid="1195658" user="mycae-gmx">
+    <nd ref="1498906930"/>
+    <nd ref="1498907002"/>
+    <nd ref="323202"/>
+    <nd ref="28324349"/>
+    <nd ref="24359100"/>
+    <nd ref="1540773383"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="2953443" version="11" timestamp="2019-04-12T22:40:16Z" changeset="69164215" uid="322039" user="MacLondon">
+    <nd ref="375448"/>
+    <nd ref="1609414150"/>
+    <nd ref="4770129137"/>
+    <nd ref="28324060"/>
+    <nd ref="1599054302"/>
+    <nd ref="375449"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Mill Street"/>
+    <tag k="ref" v="B4035"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="2953445" version="7" timestamp="2022-09-03T14:59:20Z" changeset="125741691" uid="5589" user="user_5589">
+    <nd ref="13797247"/>
+    <nd ref="1498906955"/>
+    <nd ref="375445"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="advisory"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Mill Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="2953459" version="8" timestamp="2022-09-03T08:27:54Z" changeset="125726088" uid="5589" user="user_5589">
+    <nd ref="375445"/>
+    <nd ref="1498907021"/>
+    <nd ref="7197366040"/>
+    <nd ref="2642267342"/>
+    <nd ref="1498907056"/>
+    <nd ref="7197366044"/>
+    <nd ref="2642267340"/>
+    <nd ref="375447"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="2953460" version="8" timestamp="2023-08-25T14:41:26Z" changeset="140376028" uid="5589" user="user_5589">
+    <nd ref="375446"/>
+    <nd ref="7197366036"/>
+    <nd ref="1498907049"/>
+    <nd ref="7197366042"/>
+    <nd ref="323208"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4306101" version="7" timestamp="2022-09-03T14:59:40Z" changeset="125741661" uid="5589" user="user_5589">
+    <nd ref="375448"/>
+    <nd ref="375447"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Mill Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4306102" version="9" timestamp="2022-09-03T14:59:42Z" changeset="125741661" uid="5589" user="user_5589">
+    <nd ref="375445"/>
+    <nd ref="2642267344"/>
+    <nd ref="1498906915"/>
+    <nd ref="375448"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Mill Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4746077" version="10" timestamp="2023-08-25T14:40:57Z" changeset="140375930" uid="5589" user="user_5589">
+    <nd ref="1540773430"/>
+    <nd ref="24359103"/>
+    <nd ref="1540773383"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4746082" version="7" timestamp="2022-09-03T14:59:10Z" changeset="125741661" uid="5589" user="user_5589">
+    <nd ref="375446"/>
+    <nd ref="7197366041"/>
+    <nd ref="7197366038"/>
+    <nd ref="7197366043"/>
+    <nd ref="1498907009"/>
+    <nd ref="323209"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4746083" version="7" timestamp="2022-09-03T14:59:23Z" changeset="125741691" uid="5589" user="user_5589">
+    <nd ref="375447"/>
+    <nd ref="375446"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="advisory"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4746084" version="10" timestamp="2022-09-03T14:59:31Z" changeset="125741691" uid="5589" user="user_5589">
+    <nd ref="323208"/>
+    <nd ref="1609335319"/>
+    <nd ref="2642267428"/>
+    <nd ref="1609335338"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="advisory"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4746085" version="7" timestamp="2025-04-11T11:49:34Z" changeset="164812129" uid="1195658" user="mycae-gmx">
+    <nd ref="1601327912"/>
+    <nd ref="323206"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8056224" version="10" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1540773393"/>
+    <nd ref="24359100"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Telegraph Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8056273" version="6" timestamp="2022-09-03T14:59:03Z" changeset="125741661" uid="5589" user="user_5589">
+    <nd ref="323209"/>
+    <nd ref="323208"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8056274" version="7" timestamp="2022-09-03T14:59:33Z" changeset="125741661" uid="5589" user="user_5589">
+    <nd ref="323206"/>
+    <nd ref="1498906982"/>
+    <nd ref="7197366037"/>
+    <nd ref="13797247"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8056275" version="7" timestamp="2022-09-03T08:27:43Z" changeset="125726088" uid="5589" user="user_5589">
+    <nd ref="323206"/>
+    <nd ref="7197366035"/>
+    <nd ref="1498906985"/>
+    <nd ref="7197366039"/>
+    <nd ref="323205"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="53053452" version="11" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="671826111"/>
+    <nd ref="1498907075"/>
+    <nd ref="323187"/>
+    <nd ref="1498906960"/>
+    <nd ref="1498907041"/>
+    <nd ref="1498907000"/>
+    <nd ref="9049997013"/>
+    <nd ref="323190"/>
+    <nd ref="323191"/>
+    <nd ref="1498907026"/>
+    <nd ref="323192"/>
+    <nd ref="323193"/>
+    <nd ref="1498907051"/>
+    <nd ref="1498906949"/>
+    <nd ref="323194"/>
+    <nd ref="1498907054"/>
+    <nd ref="12469386975"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Stratford Road"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="dictacam"/>
+    <tag k="source_ref:name" v="80n:dsc10352.mpg"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="53053453" version="13" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="12244978130"/>
+    <nd ref="1609320308"/>
+    <nd ref="1609320545"/>
+    <nd ref="1609320266"/>
+    <nd ref="1609319979"/>
+    <nd ref="1609321124"/>
+    <nd ref="1609320614"/>
+    <nd ref="1609320356"/>
+    <nd ref="1609320353"/>
+    <nd ref="1609321059"/>
+    <nd ref="1609320028"/>
+    <nd ref="1609321279"/>
+    <nd ref="1609319963"/>
+    <nd ref="1609320776"/>
+    <nd ref="1609246981"/>
+    <nd ref="1609246860"/>
+    <nd ref="5896478369"/>
+    <nd ref="1609247036"/>
+    <nd ref="1609246924"/>
+    <nd ref="5896478367"/>
+    <nd ref="1609247075"/>
+    <nd ref="2456550022"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Darlingscote Road"/>
+  </way>
+  <way id="60690041" version="13" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="28324556"/>
+    <nd ref="28324679"/>
+    <nd ref="4769952469"/>
+    <nd ref="2025908678"/>
+    <nd ref="323196"/>
+    <nd ref="28324650"/>
+    <nd ref="28324407"/>
+    <nd ref="323197"/>
+    <nd ref="12855099622"/>
+    <nd ref="12855099617"/>
+    <nd ref="6524373283"/>
+    <nd ref="28324237"/>
+    <nd ref="1498907010"/>
+    <nd ref="323200"/>
+    <nd ref="1498906962"/>
+    <nd ref="1601328060"/>
+    <nd ref="13164786428"/>
+    <nd ref="323201"/>
+    <nd ref="1498906930"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Stratford Road"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="60691027" version="10" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1540773430"/>
+    <nd ref="323204"/>
+    <nd ref="1601327951"/>
+    <nd ref="1540773447"/>
+    <nd ref="10235524241"/>
+    <nd ref="1601287393"/>
+    <nd ref="1601327934"/>
+    <nd ref="323205"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="138012935" version="3" timestamp="2023-10-30T09:18:50Z" changeset="143353772" uid="20518322" user="Dan1el69">
+    <nd ref="1513266614"/>
+    <nd ref="1513266709"/>
+    <nd ref="1513266457"/>
+    <nd ref="1513266466"/>
+    <nd ref="1513266543"/>
+    <nd ref="1513266542"/>
+    <nd ref="1513266759"/>
+    <nd ref="1513266629"/>
+    <nd ref="1513266552"/>
+    <nd ref="1513266659"/>
+    <nd ref="1513266656"/>
+    <nd ref="1513266638"/>
+    <nd ref="1513266749"/>
+    <nd ref="1513266747"/>
+    <nd ref="1513266731"/>
+    <nd ref="1513266518"/>
+    <nd ref="1513266762"/>
+    <nd ref="1513266643"/>
+    <nd ref="1513266769"/>
+    <nd ref="1513266727"/>
+    <nd ref="1513266493"/>
+    <nd ref="1513266485"/>
+    <nd ref="1513266705"/>
+    <nd ref="1513266642"/>
+    <nd ref="1513266702"/>
+    <nd ref="1513266550"/>
+    <nd ref="1513266729"/>
+    <nd ref="1513266588"/>
+    <nd ref="1513266614"/>
+    <tag k="building" v="school"/>
+    <tag k="name" v="Shipston High School"/>
+    <tag k="source" v="local knowledge"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="138012942" version="2" timestamp="2018-02-14T14:50:26Z" changeset="56355474" uid="9065" user="brianboru">
+    <nd ref="1513266459"/>
+    <nd ref="5412436364"/>
+    <nd ref="1513266571"/>
+    <nd ref="1513266632"/>
+    <nd ref="5412436366"/>
+    <nd ref="1513266548"/>
+    <nd ref="1513266459"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Townsend Hall"/>
+    <tag k="source" v="Survey"/>
+  </way>
+  <way id="138013591" version="3" timestamp="2022-01-15T20:07:34Z" changeset="116195734" uid="12424494" user="lovelyfurball88">
+    <nd ref="1513282691"/>
+    <nd ref="1513282748"/>
+    <nd ref="1513282737"/>
+    <nd ref="1513282764"/>
+    <nd ref="1513282691"/>
+    <tag k="building" v="yes"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="Shipston Leisure Centre"/>
+    <tag k="sport" v="swimming"/>
+  </way>
+  <way id="138157321" version="3" timestamp="2021-09-20T08:59:00Z" changeset="111438963" uid="12637824" user="MrMapperBanbury">
+    <nd ref="7927571589"/>
+    <nd ref="7854419923"/>
+    <nd ref="1514516914"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Railway Cresent"/>
+  </way>
+  <way id="138157324" version="4" timestamp="2023-12-28T12:06:43Z" changeset="145616426" uid="20775344" user="Pete A Cox">
+    <nd ref="1753725073"/>
+    <nd ref="1514516846"/>
+    <nd ref="6121872657"/>
+    <nd ref="6121872656"/>
+    <nd ref="1514516836"/>
+    <nd ref="6121872655"/>
+    <nd ref="6121872654"/>
+    <nd ref="1514516838"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Darnley Close"/>
+  </way>
+  <way id="138157325" version="6" timestamp="2020-08-27T14:23:31Z" changeset="90032550" uid="9065" user="brianboru">
+    <nd ref="4769952464"/>
+    <nd ref="6477155579"/>
+    <nd ref="7850213531"/>
+    <nd ref="4769952465"/>
+    <nd ref="6477155583"/>
+    <nd ref="4769952466"/>
+    <nd ref="1514516907"/>
+    <nd ref="2025908683"/>
+    <nd ref="5514340107"/>
+    <nd ref="5514340110"/>
+    <nd ref="5514340109"/>
+    <nd ref="5514340108"/>
+    <nd ref="1514516904"/>
+    <nd ref="1514516899"/>
+    <nd ref="28324679"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hornsby Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="138157326" version="3" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1514516851"/>
+    <nd ref="1514516830"/>
+    <nd ref="1514516805"/>
+    <nd ref="13164786446"/>
+    <nd ref="28324407"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Badgers Crescent"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="138157327" version="10" timestamp="2025-08-03T08:37:26Z" changeset="169892834" uid="1150946" user="letsridebikes">
+    <nd ref="1601328078"/>
+    <nd ref="1612028300"/>
+    <nd ref="1601328075"/>
+    <nd ref="1514516761"/>
+    <nd ref="1601328065"/>
+    <nd ref="1612028299"/>
+    <nd ref="1601328047"/>
+    <nd ref="1601328042"/>
+    <nd ref="5819759848"/>
+    <nd ref="1601328040"/>
+    <nd ref="5412437038"/>
+    <nd ref="1592873573"/>
+    <nd ref="5412437039"/>
+    <nd ref="8239224954"/>
+    <nd ref="13045141972"/>
+    <nd ref="13045141970"/>
+    <nd ref="5412437040"/>
+    <nd ref="1514516721"/>
+    <nd ref="1599054672"/>
+    <nd ref="13797228"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Driftway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="138157329" version="4" timestamp="2012-11-30T06:43:40Z" changeset="14095178" uid="4951" user="PeterEastern">
+    <nd ref="1514516761"/>
+    <nd ref="1514516749"/>
+    <nd ref="2041530492"/>
+    <nd ref="2041530489"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Husbandmans Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="138157330" version="7" timestamp="2020-09-21T08:32:40Z" changeset="91212992" uid="10126622" user="hvannere">
+    <nd ref="1514516871"/>
+    <nd ref="7927571608"/>
+    <nd ref="6121911183"/>
+    <nd ref="1514516881"/>
+    <nd ref="1609414226"/>
+    <nd ref="1609414168"/>
+    <nd ref="6121911285"/>
+    <nd ref="1609414230"/>
+    <nd ref="1514516893"/>
+    <nd ref="5514340103"/>
+    <nd ref="5514340104"/>
+    <nd ref="1514516878"/>
+    <nd ref="2025908676"/>
+    <nd ref="5514340098"/>
+    <nd ref="5514340097"/>
+    <nd ref="6121885586"/>
+    <nd ref="1514516856"/>
+    <nd ref="7927571610"/>
+    <nd ref="1514516851"/>
+    <nd ref="7927571603"/>
+    <nd ref="1514516834"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Donnington Road"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="138157332" version="4" timestamp="2020-11-15T15:47:49Z" changeset="94152753" uid="11286310" user="Manateedriver">
+    <nd ref="1514516930"/>
+    <nd ref="1514516909"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Torigni Avenue"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:name" v="OS_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="138157334" version="8" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609246943"/>
+    <nd ref="10235524214"/>
+    <nd ref="1609321152"/>
+    <nd ref="1514516789"/>
+    <nd ref="3429060132"/>
+    <nd ref="3429060133"/>
+    <nd ref="1609492806"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="138157335" version="5" timestamp="2020-09-21T08:32:40Z" changeset="91212992" uid="10126622" user="hvannere">
+    <nd ref="1601328119"/>
+    <nd ref="1611630954"/>
+    <nd ref="7927571617"/>
+    <nd ref="7927571618"/>
+    <nd ref="1514516801"/>
+    <nd ref="1611630957"/>
+    <nd ref="1611630946"/>
+    <nd ref="1514516799"/>
+    <nd ref="1611630926"/>
+    <nd ref="1611630925"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="138157336" version="4" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1601328095"/>
+    <nd ref="1601328102"/>
+    <nd ref="1601328106"/>
+    <nd ref="1601328119"/>
+    <nd ref="1601328121"/>
+    <nd ref="1601328123"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="138157338" version="7" timestamp="2020-11-15T15:47:35Z" changeset="94152753" uid="11286310" user="Manateedriver">
+    <nd ref="1514516801"/>
+    <nd ref="1611630942"/>
+    <nd ref="7927571619"/>
+    <nd ref="1514516828"/>
+    <nd ref="5514340094"/>
+    <nd ref="1514516834"/>
+    <nd ref="1514516871"/>
+    <nd ref="1609414208"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mayo Road"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="140396312" version="22" timestamp="2025-01-02T12:07:59Z" changeset="160904126" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1538285824"/>
+    <nd ref="1538285825"/>
+    <nd ref="1538285827"/>
+    <nd ref="1538285828"/>
+    <nd ref="1538285848"/>
+    <nd ref="1538285736"/>
+    <nd ref="1538285846"/>
+    <nd ref="1538285850"/>
+    <nd ref="1538285852"/>
+    <nd ref="1538285831"/>
+    <nd ref="1538285832"/>
+    <nd ref="1538285857"/>
+    <nd ref="1538285859"/>
+    <nd ref="1538285891"/>
+    <nd ref="1538285693"/>
+    <nd ref="1538285738"/>
+    <nd ref="1538285768"/>
+    <nd ref="1538285781"/>
+    <nd ref="1538285834"/>
+    <nd ref="1538285741"/>
+    <nd ref="1538285695"/>
+    <nd ref="1538285788"/>
+    <nd ref="1538285701"/>
+    <nd ref="1538285829"/>
+    <nd ref="1538285844"/>
+    <nd ref="1538285871"/>
+    <nd ref="1538285872"/>
+    <nd ref="1538285883"/>
+    <nd ref="1538285885"/>
+    <nd ref="1538285750"/>
+    <nd ref="6327730351"/>
+    <nd ref="1538285862"/>
+    <nd ref="1538285865"/>
+    <nd ref="1538285874"/>
+    <nd ref="1538285886"/>
+    <nd ref="1538285894"/>
+    <nd ref="1538285821"/>
+    <nd ref="6908028186"/>
+    <nd ref="6327730353"/>
+    <nd ref="8563862939"/>
+    <nd ref="8563958984"/>
+    <nd ref="1538285873"/>
+    <nd ref="1538285747"/>
+    <nd ref="1609492495"/>
+    <nd ref="1538285895"/>
+    <nd ref="1538285897"/>
+    <nd ref="1609492764"/>
+    <nd ref="1538285686"/>
+    <nd ref="1538285696"/>
+    <nd ref="1538285698"/>
+    <nd ref="1538285707"/>
+    <nd ref="1538285732"/>
+    <nd ref="1538285743"/>
+    <nd ref="1538285867"/>
+    <nd ref="9620414691"/>
+    <nd ref="1538285752"/>
+    <nd ref="1538285898"/>
+    <nd ref="1538285715"/>
+    <nd ref="1538285754"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Campden Road"/>
+    <tag k="ref" v="B4035"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="145973095" version="12" timestamp="2023-08-25T14:42:29Z" changeset="140375930" uid="5589" user="user_5589">
+    <nd ref="28324562"/>
+    <nd ref="1502776215"/>
+    <nd ref="323211"/>
+    <nd ref="1609414261"/>
+    <nd ref="1609414121"/>
+    <nd ref="28323986"/>
+    <nd ref="1602326697"/>
+    <nd ref="1602326683"/>
+    <nd ref="10235531983"/>
+    <nd ref="1599054177"/>
+    <nd ref="10235531960"/>
+    <nd ref="323212"/>
+    <nd ref="1611715743"/>
+    <nd ref="1611715754"/>
+    <nd ref="2500825218"/>
+    <nd ref="1611715763"/>
+    <nd ref="323213"/>
+    <nd ref="1502776271"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="London Road"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="145975446" version="3" timestamp="2020-11-15T15:46:29Z" changeset="94152753" uid="11286310" user="Manateedriver">
+    <nd ref="1514516750"/>
+    <nd ref="5819759799"/>
+    <nd ref="1592873553"/>
+    <nd ref="5819759800"/>
+    <nd ref="1592873555"/>
+    <nd ref="5819759801"/>
+    <nd ref="5819759802"/>
+    <nd ref="5819759803"/>
+    <nd ref="1592873565"/>
+    <nd ref="5819759804"/>
+    <nd ref="1592873574"/>
+    <nd ref="5819759805"/>
+    <nd ref="1592873575"/>
+    <nd ref="1592873568"/>
+    <nd ref="1540773325"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Manor Lane"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="146636430" version="4" timestamp="2019-04-08T16:08:11Z" changeset="69013033" uid="9065" user="brianboru">
+    <nd ref="1599054177"/>
+    <nd ref="1602326663"/>
+    <nd ref="1599054176"/>
+    <nd ref="1599054175"/>
+    <nd ref="1611715756"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Furze Hill Road"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="146636431" version="8" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1609414185"/>
+    <nd ref="1609414114"/>
+    <nd ref="1601287409"/>
+    <nd ref="5697498136"/>
+    <nd ref="1599054606"/>
+    <nd ref="1599054616"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Market Place"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="146636433" version="4" timestamp="2019-04-12T22:41:23Z" changeset="69164215" uid="322039" user="MacLondon">
+    <nd ref="375449"/>
+    <nd ref="1599054286"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Mill Street"/>
+    <tag k="ref" v="B4035"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="146636434" version="5" timestamp="2022-09-03T08:28:16Z" changeset="125726116" uid="5589" user="user_5589">
+    <nd ref="323209"/>
+    <nd ref="1601287327"/>
+    <nd ref="1599054279"/>
+    <nd ref="28324115"/>
+    <nd ref="28324338"/>
+    <nd ref="1599054259"/>
+    <nd ref="28324519"/>
+    <nd ref="1599054243"/>
+    <nd ref="1599054237"/>
+    <nd ref="1599054231"/>
+    <nd ref="1599054230"/>
+    <nd ref="1599054229"/>
+    <nd ref="1599054225"/>
+    <nd ref="28324562"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="New Street"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="146636440" version="5" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1599054556"/>
+    <nd ref="1599054572"/>
+    <nd ref="1609414085"/>
+    <nd ref="11545668589"/>
+    <nd ref="1599054621"/>
+    <nd ref="13164786427"/>
+    <nd ref="1609414152"/>
+    <nd ref="1609414189"/>
+    <nd ref="1599054616"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Sheep Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="146636444" version="5" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1601287390"/>
+    <nd ref="1609414075"/>
+    <nd ref="11585680037"/>
+    <nd ref="1599054442"/>
+    <nd ref="1599054492"/>
+    <nd ref="1599054556"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Sheep Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="146636453" version="11" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1599054556"/>
+    <nd ref="1599054472"/>
+    <nd ref="13164786426"/>
+    <nd ref="1599054470"/>
+    <nd ref="1609414185"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="maxspeed:type" v="GB:zone20"/>
+    <tag k="name" v="High Street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="146636493" version="3" timestamp="2020-11-22T05:42:10Z" changeset="94569049" uid="5589" user="user_5589">
+    <nd ref="1599054587"/>
+    <nd ref="1599054583"/>
+    <nd ref="1599054579"/>
+    <nd ref="1599054570"/>
+    <nd ref="5697498151"/>
+    <nd ref="5697498150"/>
+    <nd ref="1599054602"/>
+    <nd ref="5697498149"/>
+    <nd ref="1599054587"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="name" v="Shipston Therapy Centre"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="146636497" version="12" timestamp="2024-12-29T22:53:32Z" changeset="160770738" uid="21226027" user="DorneyLake123">
+    <nd ref="1599054383"/>
+    <nd ref="1599054381"/>
+    <nd ref="1599054361"/>
+    <nd ref="5695516629"/>
+    <nd ref="5695516630"/>
+    <nd ref="1599054353"/>
+    <nd ref="3438531525"/>
+    <nd ref="1599054389"/>
+    <nd ref="5697636051"/>
+    <nd ref="5695516505"/>
+    <nd ref="5697636050"/>
+    <nd ref="1599054383"/>
+    <tag k="addr:housenumber" v="3-5"/>
+    <tag k="addr:postcode" v="CV36 4AB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="Co-op Food"/>
+    <tag k="brand:wikidata" v="Q3277439"/>
+    <tag k="brand:wikipedia" v="en:Co-op Food"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2024-07-15"/>
+    <tag k="check_date:opening_hours" v="2024-07-15"/>
+    <tag k="fhrs:id" v="503971"/>
+    <tag k="name" v="Co-op Food"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-22:00; Su 10:00-16:00"/>
+    <tag k="operator" v="The Co-operative Group"/>
+    <tag k="operator:wikidata" v="Q117202"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="bing"/>
+    <tag k="website" v="https://www.coop.co.uk/store-finder/CV36-4AB/11-high-street"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="146636509" version="3" timestamp="2025-08-03T09:00:46Z" changeset="169893673" uid="1150946" user="letsridebikes">
+    <nd ref="1599054509"/>
+    <nd ref="1599054481"/>
+    <nd ref="11542710773"/>
+    <nd ref="1599054485"/>
+    <nd ref="1599054512"/>
+    <nd ref="1599054509"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Shipston Fish Bar"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="146636515" version="8" timestamp="2024-12-27T15:16:14Z" changeset="160680668" uid="21226027" user="DorneyLake123">
+    <nd ref="5695516509"/>
+    <nd ref="5695516508"/>
+    <nd ref="5695516507"/>
+    <nd ref="5695516506"/>
+    <nd ref="1599054526"/>
+    <nd ref="1599054566"/>
+    <nd ref="5695516480"/>
+    <nd ref="5695516465"/>
+    <nd ref="5695516464"/>
+    <nd ref="5695516509"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="fhrs:id" v="503173"/>
+    <tag k="name" v="Mrs Browns Tea Rooms"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="source" v="visual survey;bing"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="146636519" version="6" timestamp="2025-02-24T21:05:59Z" changeset="162908940" uid="19608930" user="j_field_25">
+    <nd ref="1599054348"/>
+    <nd ref="1599054351"/>
+    <nd ref="5695516655"/>
+    <nd ref="1599054352"/>
+    <nd ref="1599054343"/>
+    <nd ref="1599054342"/>
+    <nd ref="1599054348"/>
+    <tag k="addr:city" v="Shipston-on-Stour"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="CV36 4AJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="hairdresser" v="barber"/>
+    <tag k="name" v="Golden Scissors Traditional Turkish Barbers"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00 Sa 08:00-19:00 Su 10:00-17:00"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="+44 7876 842716"/>
+    <tag k="shop" v="hairdresser"/>
+  </way>
+  <way id="146636520" version="2" timestamp="2018-06-17T21:45:29Z" changeset="59924396" uid="14846" user="ndm">
+    <nd ref="1599054584"/>
+    <nd ref="1599054588"/>
+    <nd ref="1599054563"/>
+    <nd ref="1599054555"/>
+    <nd ref="1599054553"/>
+    <nd ref="1599054564"/>
+    <nd ref="1599054559"/>
+    <nd ref="1599054584"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Seccombes"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="146636525" version="8" timestamp="2024-12-27T15:16:14Z" changeset="160680668" uid="21226027" user="DorneyLake123">
+    <nd ref="5695516641"/>
+    <nd ref="5695516503"/>
+    <nd ref="1599054461"/>
+    <nd ref="1599054507"/>
+    <nd ref="1599054480"/>
+    <nd ref="5695516644"/>
+    <nd ref="5695516643"/>
+    <nd ref="5695516642"/>
+    <nd ref="1599054445"/>
+    <nd ref="5695516641"/>
+    <tag k="addr:housenumber" v="12-14"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="fhrs:id" v="944441"/>
+    <tag k="name" v="The Bower House"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="146636530" version="3" timestamp="2024-07-06T13:03:29Z" changeset="153622966" uid="545369" user="bigfatfrog67">
+    <nd ref="1599054344"/>
+    <nd ref="1599054345"/>
+    <nd ref="1599054349"/>
+    <nd ref="1599054346"/>
+    <nd ref="1599054347"/>
+    <nd ref="1599054341"/>
+    <nd ref="1599054339"/>
+    <nd ref="1599054344"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="John Lyne Home Hardware"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="146652360" version="7" timestamp="2024-12-27T15:16:14Z" changeset="160680668" uid="21226027" user="DorneyLake123">
+    <nd ref="1599188330"/>
+    <nd ref="5695516656"/>
+    <nd ref="5695516657"/>
+    <nd ref="5695516658"/>
+    <nd ref="1599188311"/>
+    <nd ref="1599188313"/>
+    <nd ref="1599188299"/>
+    <nd ref="5695516650"/>
+    <nd ref="1599188293"/>
+    <nd ref="5695516632"/>
+    <nd ref="1599188326"/>
+    <nd ref="1599188330"/>
+    <tag k="addr:city" v="Shipston-on-Stour"/>
+    <tag k="addr:postcode" v="CV36 4AJ"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="fhrs:id" v="1684326"/>
+    <tag k="name" v="The White Bear"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="source" v="bing"/>
+    <tag k="website" v="https://www.whitebearinn.com/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q26480817"/>
+  </way>
+  <way id="146652361" version="4" timestamp="2024-07-06T13:07:42Z" changeset="153622966" uid="545369" user="bigfatfrog67">
+    <nd ref="1599188350"/>
+    <nd ref="1599188339"/>
+    <nd ref="1599188352"/>
+    <nd ref="1599188355"/>
+    <nd ref="1599188356"/>
+    <nd ref="1599188353"/>
+    <nd ref="1599188358"/>
+    <nd ref="1599054447"/>
+    <nd ref="1599054468"/>
+    <nd ref="5695516640"/>
+    <nd ref="5695516646"/>
+    <nd ref="1599054416"/>
+    <nd ref="5695516645"/>
+    <nd ref="5695516647"/>
+    <nd ref="1599188350"/>
+    <tag k="addr:postcode" v="CV36 4AJ"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The George Townhouse"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="source" v="bing"/>
+    <tag k="website" v="http://georgehotelshipston.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="146909034" version="2" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1601287358"/>
+    <nd ref="1601287374"/>
+    <nd ref="1601287388"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Darlingscote Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="146909035" version="4" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1601287388"/>
+    <nd ref="1601287390"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Darlingscote Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="146909037" version="2" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1601287285"/>
+    <nd ref="1601287288"/>
+    <nd ref="13164786430"/>
+    <nd ref="1601287300"/>
+    <nd ref="1601287301"/>
+    <nd ref="1601287313"/>
+    <nd ref="1601287307"/>
+    <nd ref="1601287306"/>
+    <nd ref="1601287302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gerrards Road"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="146909039" version="3" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1601287369"/>
+    <nd ref="1609335324"/>
+    <nd ref="1601287285"/>
+    <nd ref="1601287273"/>
+    <nd ref="1601287241"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Green Lane"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="146909040" version="4" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1538285864"/>
+    <nd ref="1601287377"/>
+    <nd ref="1601287368"/>
+    <nd ref="1601287354"/>
+    <nd ref="1601287343"/>
+    <nd ref="1601287326"/>
+    <nd ref="1601287317"/>
+    <nd ref="1609414242"/>
+    <nd ref="1601287289"/>
+    <nd ref="1601287281"/>
+    <nd ref="1601287266"/>
+    <nd ref="1601287263"/>
+    <nd ref="1601287257"/>
+    <nd ref="1601287251"/>
+    <nd ref="1601287250"/>
+    <nd ref="1601287246"/>
+    <nd ref="1601287244"/>
+    <nd ref="28324562"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Old Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="146909041" version="2" timestamp="2018-02-14T14:50:27Z" changeset="56355474" uid="9065" user="brianboru">
+    <nd ref="1538285792"/>
+    <nd ref="1601287360"/>
+    <nd ref="1601287352"/>
+    <nd ref="1601287351"/>
+    <nd ref="1601287348"/>
+    <nd ref="1601287345"/>
+    <nd ref="1601287337"/>
+    <nd ref="1601287335"/>
+    <nd ref="1601287332"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Orchard Close"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="146909046" version="1" timestamp="2012-01-22T15:49:07Z" changeset="10466013" uid="9065" user="brianboru">
+    <nd ref="1601287275"/>
+    <nd ref="1601287283"/>
+    <nd ref="1601287286"/>
+    <nd ref="1601287287"/>
+    <nd ref="1601287292"/>
+    <nd ref="1601287289"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Stour Court"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="146909048" version="1" timestamp="2012-01-22T15:49:08Z" changeset="10466013" uid="9065" user="brianboru">
+    <nd ref="1601287263"/>
+    <nd ref="1601287255"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Wellington Field"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="146909056" version="1" timestamp="2012-01-22T15:49:10Z" changeset="10466013" uid="9065" user="brianboru">
+    <nd ref="28324519"/>
+    <nd ref="1601287281"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="146911956" version="8" timestamp="2024-12-27T15:16:14Z" changeset="160680668" uid="21226027" user="DorneyLake123">
+    <nd ref="1601328037"/>
+    <nd ref="1601328039"/>
+    <nd ref="5695516466"/>
+    <nd ref="1601328034"/>
+    <nd ref="1601328031"/>
+    <nd ref="1601328030"/>
+    <nd ref="1601328029"/>
+    <nd ref="1601328028"/>
+    <nd ref="5407738184"/>
+    <nd ref="5407738235"/>
+    <nd ref="5407738238"/>
+    <nd ref="1601328037"/>
+    <tag k="brand" v="Tesco Express"/>
+    <tag k="brand:wikidata" v="Q98456772"/>
+    <tag k="building" v="yes"/>
+    <tag k="fhrs:id" v="1467820"/>
+    <tag k="name" v="Tesco Express"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="visual survey;bing"/>
+    <tag k="website" v="https://www.tesco.com/store-locator/warwickshire/church-street"/>
+  </way>
+  <way id="146911957" version="1" timestamp="2012-01-22T16:12:59Z" changeset="10466290" uid="9065" user="brianboru">
+    <nd ref="1601328047"/>
+    <nd ref="1601328050"/>
+    <nd ref="1601328049"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pound Close"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="146911958" version="4" timestamp="2023-12-01T09:06:34Z" changeset="144654010" uid="504708" user="HillWithSmallFields">
+    <nd ref="1601327982"/>
+    <nd ref="1601327983"/>
+    <nd ref="1601327985"/>
+    <nd ref="1601327991"/>
+    <nd ref="1601327984"/>
+    <nd ref="1601327995"/>
+    <nd ref="1601327996"/>
+    <nd ref="1601327998"/>
+    <nd ref="1601327986"/>
+    <nd ref="1601327990"/>
+    <nd ref="1601327980"/>
+    <nd ref="1601327979"/>
+    <nd ref="1601327970"/>
+    <nd ref="1601327966"/>
+    <nd ref="1601327961"/>
+    <nd ref="1601327959"/>
+    <nd ref="1601327964"/>
+    <nd ref="1601327962"/>
+    <nd ref="1601327969"/>
+    <nd ref="1601327967"/>
+    <nd ref="1601327972"/>
+    <nd ref="1601327978"/>
+    <nd ref="1601327982"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="name" v="Saint Edmund"/>
+    <tag k="ref:dove" v="15279"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17551012"/>
+  </way>
+  <way id="146911959" version="2" timestamp="2012-01-30T17:44:43Z" changeset="10541976" uid="64" user="lsces">
+    <nd ref="1601328054"/>
+    <nd ref="1601328059"/>
+    <nd ref="1601328064"/>
+    <nd ref="1601328067"/>
+    <nd ref="1601328068"/>
+    <nd ref="1601328070"/>
+    <nd ref="1601328074"/>
+    <nd ref="1601328076"/>
+    <nd ref="1601328077"/>
+    <nd ref="1601328078"/>
+    <nd ref="1601328079"/>
+    <nd ref="1601328081"/>
+    <nd ref="1601328087"/>
+    <nd ref="1601328091"/>
+    <nd ref="1601328095"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="146911961" version="4" timestamp="2023-08-25T14:40:40Z" changeset="140374874" uid="5589" user="user_5589">
+    <nd ref="1601328054"/>
+    <nd ref="1601328055"/>
+    <nd ref="1601328056"/>
+    <nd ref="1601328060"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="146911962" version="3" timestamp="2022-08-10T14:25:56Z" changeset="124734688" uid="165" user="Richard">
+    <nd ref="1601328010"/>
+    <nd ref="1601328013"/>
+    <nd ref="1601328008"/>
+    <nd ref="1601328009"/>
+    <nd ref="1601328004"/>
+    <nd ref="1601328001"/>
+    <nd ref="5695516443"/>
+    <nd ref="1601328010"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Lazy Pug"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="146911963" version="2" timestamp="2021-04-01T15:27:28Z" changeset="102136393" uid="30587" user="IknowJoseph">
+    <nd ref="1601327927"/>
+    <nd ref="1601327929"/>
+    <nd ref="1601327924"/>
+    <nd ref="1601327926"/>
+    <nd ref="1601327923"/>
+    <nd ref="1601327921"/>
+    <nd ref="1601327916"/>
+    <nd ref="1601327919"/>
+    <nd ref="1601327915"/>
+    <nd ref="1601327914"/>
+    <nd ref="1601327913"/>
+    <nd ref="1601327927"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Horseshoe Inn"/>
+    <tag k="source" v="visual survey;bing"/>
+    <tag k="wikidata" v="Q26587018"/>
+  </way>
+  <way id="146911964" version="8" timestamp="2024-05-26T11:56:34Z" changeset="151847950" uid="19970540" user="SakiWolf">
+    <nd ref="1609545633"/>
+    <nd ref="1609545632"/>
+    <nd ref="1601328122"/>
+    <nd ref="3429060146"/>
+    <nd ref="1601328124"/>
+    <nd ref="1601328133"/>
+    <nd ref="6782601519"/>
+    <nd ref="1601328138"/>
+    <nd ref="1601328144"/>
+    <nd ref="1601328147"/>
+    <nd ref="1601328152"/>
+    <nd ref="1601328146"/>
+    <nd ref="1601328143"/>
+    <nd ref="6469773408"/>
+    <nd ref="1609247092"/>
+    <nd ref="1609320223"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Tilemans Lane"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="146911965" version="2" timestamp="2012-11-22T03:31:27Z" changeset="13981027" uid="4951" user="PeterEastern">
+    <nd ref="28324237"/>
+    <nd ref="1601328080"/>
+    <nd ref="1601328082"/>
+    <nd ref="2025908675"/>
+    <nd ref="1601328089"/>
+    <nd ref="1601328092"/>
+    <nd ref="1601328094"/>
+    <nd ref="1601328095"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Watery Lane"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="146911966" version="2" timestamp="2012-01-30T17:44:44Z" changeset="10541976" uid="64" user="lsces">
+    <nd ref="1601328053"/>
+    <nd ref="1601328051"/>
+    <nd ref="1612028299"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Weavers Close"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="146911967" version="4" timestamp="2023-06-21T23:00:19Z" changeset="137624370" uid="19354165" user="DracFury">
+    <nd ref="1601328095"/>
+    <nd ref="1601328097"/>
+    <nd ref="1601328098"/>
+    <nd ref="1609492814"/>
+    <nd ref="1601328100"/>
+    <nd ref="1601328101"/>
+    <nd ref="1601328103"/>
+    <nd ref="1601328105"/>
+    <nd ref="1609492696"/>
+    <nd ref="1601328108"/>
+    <nd ref="1601328111"/>
+    <nd ref="1601328118"/>
+    <nd ref="10996195817"/>
+    <nd ref="1609545633"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="146912222" version="3" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="323216"/>
+    <nd ref="10235531981"/>
+    <nd ref="1601332326"/>
+    <nd ref="1601332324"/>
+    <nd ref="1601332321"/>
+    <nd ref="1601332318"/>
+    <nd ref="1601332317"/>
+    <nd ref="1601332315"/>
+    <nd ref="1601332313"/>
+    <nd ref="1601332311"/>
+    <nd ref="10235532036"/>
+    <nd ref="1601332295"/>
+    <nd ref="1601332292"/>
+    <nd ref="1601332290"/>
+    <nd ref="1601333850"/>
+    <nd ref="1601332287"/>
+    <nd ref="1601332285"/>
+    <nd ref="1601332283"/>
+    <nd ref="1601332281"/>
+    <nd ref="1601332280"/>
+    <nd ref="1601332279"/>
+    <nd ref="1601332263"/>
+    <nd ref="1601332259"/>
+    <nd ref="1601332257"/>
+    <nd ref="1601332255"/>
+    <nd ref="1601332253"/>
+    <nd ref="1601332251"/>
+    <nd ref="1601332249"/>
+    <nd ref="1601332248"/>
+    <nd ref="1601332245"/>
+    <nd ref="1601332229"/>
+    <nd ref="1601332226"/>
+    <nd ref="1601332223"/>
+    <nd ref="1601332221"/>
+    <nd ref="1601332219"/>
+    <nd ref="1601332217"/>
+    <nd ref="1601332214"/>
+    <nd ref="1601332213"/>
+    <nd ref="1601332211"/>
+    <nd ref="1601332209"/>
+    <nd ref="1601332207"/>
+    <nd ref="1601332205"/>
+    <nd ref="1601332203"/>
+    <nd ref="1601332202"/>
+    <nd ref="1231537473"/>
+    <nd ref="1601332199"/>
+    <nd ref="1601332196"/>
+    <nd ref="1601332193"/>
+    <nd ref="1601332191"/>
+    <nd ref="1601332188"/>
+    <nd ref="1601332179"/>
+    <nd ref="1601332178"/>
+    <nd ref="1601332176"/>
+    <nd ref="1601332174"/>
+    <nd ref="1601332172"/>
+    <nd ref="1601332171"/>
+    <nd ref="1601332168"/>
+    <nd ref="1601332166"/>
+    <nd ref="1601332164"/>
+    <nd ref="1601332163"/>
+    <nd ref="1601332161"/>
+    <nd ref="1601332160"/>
+    <nd ref="1601332158"/>
+    <nd ref="1550995568"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Shoulderway Lane"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="147037646" version="3" timestamp="2018-02-12T17:27:53Z" changeset="56300540" uid="9065" user="brianboru">
+    <nd ref="1602322646"/>
+    <nd ref="1602322643"/>
+    <nd ref="2500825219"/>
+    <nd ref="1602322641"/>
+    <nd ref="5407737597"/>
+    <nd ref="1602322635"/>
+    <nd ref="2500825217"/>
+    <nd ref="5407737596"/>
+    <nd ref="1602322632"/>
+    <nd ref="1602322628"/>
+    <nd ref="1602322624"/>
+    <nd ref="2500825213"/>
+    <nd ref="5407737568"/>
+    <nd ref="2500825211"/>
+    <nd ref="1602322605"/>
+    <nd ref="2500825210"/>
+    <nd ref="1602322588"/>
+    <nd ref="1602322584"/>
+    <nd ref="1602322581"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Angela's Meadow"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147037647" version="1" timestamp="2012-01-23T15:27:07Z" changeset="10476217" uid="9065" user="brianboru">
+    <nd ref="1602322635"/>
+    <nd ref="1602322630"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Angela's Meadow"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147037648" version="6" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1602322644"/>
+    <nd ref="1611715762"/>
+    <nd ref="10235531954"/>
+    <nd ref="1602322631"/>
+    <nd ref="6073241836"/>
+    <nd ref="6073241837"/>
+    <nd ref="6391303474"/>
+    <nd ref="1602322627"/>
+    <nd ref="4989794370"/>
+    <nd ref="1602322625"/>
+    <nd ref="1602322614"/>
+    <nd ref="6391303475"/>
+    <nd ref="1602322607"/>
+    <nd ref="6391303476"/>
+    <nd ref="1602322603"/>
+    <nd ref="6391303477"/>
+    <nd ref="1602322597"/>
+    <nd ref="6391303478"/>
+    <nd ref="1602322580"/>
+    <nd ref="1602322576"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ashgrove"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147037649" version="2" timestamp="2012-01-29T00:26:31Z" changeset="10526262" uid="64" user="lsces">
+    <nd ref="1602322583"/>
+    <nd ref="1602322568"/>
+    <nd ref="1602322560"/>
+    <nd ref="1602322558"/>
+    <nd ref="1602322556"/>
+    <nd ref="1609545622"/>
+    <nd ref="1602322538"/>
+    <nd ref="1609545694"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Elm Road"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147037650" version="7" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1602322537"/>
+    <nd ref="10235532023"/>
+    <nd ref="1602322539"/>
+    <nd ref="10235532020"/>
+    <nd ref="1602322553"/>
+    <nd ref="1602322563"/>
+    <nd ref="10235531969"/>
+    <nd ref="1602322571"/>
+    <nd ref="8002517584"/>
+    <nd ref="1602322589"/>
+    <nd ref="1602322599"/>
+    <nd ref="1602322602"/>
+    <nd ref="1602322609"/>
+    <nd ref="1602322611"/>
+    <nd ref="1602322623"/>
+    <nd ref="1602322621"/>
+    <nd ref="1602322620"/>
+    <nd ref="1602322610"/>
+    <nd ref="10235531972"/>
+    <nd ref="1602322600"/>
+    <nd ref="1602322587"/>
+    <nd ref="1602322579"/>
+    <nd ref="1602322561"/>
+    <nd ref="1602322555"/>
+    <nd ref="1602322541"/>
+    <nd ref="1609545694"/>
+    <nd ref="1602322533"/>
+    <nd ref="10235532042"/>
+    <nd ref="1602322530"/>
+    <nd ref="1602322529"/>
+    <nd ref="1602322527"/>
+    <nd ref="1602322521"/>
+    <nd ref="6391362882"/>
+    <nd ref="1602322519"/>
+    <nd ref="1602322516"/>
+    <nd ref="1602322513"/>
+    <nd ref="6391362781"/>
+    <nd ref="1602322514"/>
+    <nd ref="1602322517"/>
+    <nd ref="1602322520"/>
+    <nd ref="1602322526"/>
+    <nd ref="1602322531"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hawthorn Way"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147037651" version="1" timestamp="2012-01-23T15:27:08Z" changeset="10476217" uid="9065" user="brianboru">
+    <nd ref="1592869697"/>
+    <nd ref="1602322585"/>
+    <nd ref="1602322583"/>
+    <nd ref="1602322578"/>
+    <nd ref="1602322576"/>
+    <nd ref="1602322569"/>
+    <nd ref="1602322564"/>
+    <nd ref="1602322561"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Holly Road"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147037918" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1602326678"/>
+    <nd ref="1602326676"/>
+    <nd ref="1602326688"/>
+    <nd ref="1602326690"/>
+    <nd ref="1602326685"/>
+    <nd ref="10235531989"/>
+    <nd ref="1602326683"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Furlong Meadow"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147037921" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1602326663"/>
+    <nd ref="1602326666"/>
+    <nd ref="1602326668"/>
+    <nd ref="1602326672"/>
+    <nd ref="1602326674"/>
+    <nd ref="1602326680"/>
+    <nd ref="1602326695"/>
+    <nd ref="10235531958"/>
+    <tag k="fixme" v="addresses London Road?"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="147038614" version="8" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609320102"/>
+    <nd ref="1602334206"/>
+    <nd ref="1602334204"/>
+    <nd ref="1602334202"/>
+    <nd ref="1602334195"/>
+    <nd ref="10235532014"/>
+    <nd ref="1602334194"/>
+    <nd ref="1609414200"/>
+    <nd ref="1609414229"/>
+    <nd ref="1602334189"/>
+    <nd ref="6412432870"/>
+    <nd ref="1602334185"/>
+    <nd ref="10235531953"/>
+    <nd ref="1602334177"/>
+    <nd ref="1602334174"/>
+    <nd ref="6412432871"/>
+    <nd ref="1602334172"/>
+    <nd ref="1602334170"/>
+    <nd ref="1602334153"/>
+    <nd ref="1609414116"/>
+    <nd ref="1609414077"/>
+    <nd ref="1602334136"/>
+    <nd ref="6391281829"/>
+    <nd ref="1602334130"/>
+    <nd ref="1602334126"/>
+    <nd ref="6391281830"/>
+    <nd ref="1602334132"/>
+    <nd ref="1753726785"/>
+    <nd ref="1602334141"/>
+    <nd ref="1611715756"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Banister Way"/>
+  </way>
+  <way id="147038615" version="2" timestamp="2012-01-28T23:00:04Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1602334150"/>
+    <nd ref="1602334145"/>
+    <nd ref="1609414198"/>
+    <nd ref="1609414077"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Keetley Close"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147038629" version="4" timestamp="2012-11-30T06:43:37Z" changeset="14095178" uid="4951" user="PeterEastern">
+    <nd ref="1611715756"/>
+    <nd ref="1611715760"/>
+    <nd ref="1611715747"/>
+    <nd ref="1602334179"/>
+    <nd ref="1602334183"/>
+    <nd ref="1602334187"/>
+    <nd ref="1609414111"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Springfield Road"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147038631" version="3" timestamp="2012-05-15T09:19:56Z" changeset="11603010" uid="606741" user="tomrobin29">
+    <nd ref="1753726785"/>
+    <nd ref="1602334128"/>
+    <nd ref="1602334124"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="147728983" version="5" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609247000"/>
+    <nd ref="10235524213"/>
+    <nd ref="1513282710"/>
+    <nd ref="1609246753"/>
+    <nd ref="1513282713"/>
+    <nd ref="1609246706"/>
+    <nd ref="1609247125"/>
+    <nd ref="1609246919"/>
+    <nd ref="1609247040"/>
+    <nd ref="1609247095"/>
+    <nd ref="1609246976"/>
+    <nd ref="6121886417"/>
+    <nd ref="6121886415"/>
+    <nd ref="1609246672"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Hay Meadow"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147728984" version="3" timestamp="2021-09-20T08:59:00Z" changeset="111438963" uid="12637824" user="MrMapperBanbury">
+    <nd ref="1609246796"/>
+    <nd ref="1609246917"/>
+    <nd ref="1609246728"/>
+    <nd ref="1609247070"/>
+    <nd ref="1609246666"/>
+    <nd ref="1609321057"/>
+    <nd ref="1609246946"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Worcester Place"/>
+    <tag k="source:name" v="dictacam"/>
+    <tag k="source_ref:name" v="80n:dsc10436.mpg"/>
+  </way>
+  <way id="147728985" version="2" timestamp="2018-09-10T14:35:23Z" changeset="62456723" uid="9065" user="brianboru">
+    <nd ref="1609247011"/>
+    <nd ref="1609246879"/>
+    <nd ref="1609247020"/>
+    <nd ref="1609247013"/>
+    <nd ref="1609246876"/>
+    <nd ref="1609246934"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147728992" version="5" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609247101"/>
+    <nd ref="1609247118"/>
+    <nd ref="6121885747"/>
+    <nd ref="6121886416"/>
+    <nd ref="1609246672"/>
+    <nd ref="1609246937"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Hay Meadow"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147728993" version="5" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609246842"/>
+    <nd ref="1609246974"/>
+    <nd ref="1609246847"/>
+    <nd ref="1609247095"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Farm Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147728998" version="3" timestamp="2020-11-15T15:45:12Z" changeset="94152758" uid="11286310" user="Manateedriver">
+    <nd ref="1609247073"/>
+    <nd ref="1609247118"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Hay Meadow"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147729000" version="4" timestamp="2020-11-15T15:46:00Z" changeset="94152753" uid="11286310" user="Manateedriver">
+    <nd ref="1609246787"/>
+    <nd ref="5896478209"/>
+    <nd ref="1609247013"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brickhill Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147739025" version="3" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1609320273"/>
+    <nd ref="1609320057"/>
+    <nd ref="1609320253"/>
+    <nd ref="1609320597"/>
+    <nd ref="1609320826"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Berry Close"/>
+  </way>
+  <way id="147739027" version="1" timestamp="2012-01-28T21:34:17Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609321173"/>
+    <nd ref="1609320466"/>
+    <nd ref="1609321002"/>
+    <nd ref="1609320765"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739032" version="1" timestamp="2012-01-28T21:34:17Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609321376"/>
+    <nd ref="1609320008"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739034" version="5" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1538285756"/>
+    <nd ref="1609319941"/>
+    <nd ref="4770129163"/>
+    <nd ref="1609319900"/>
+    <nd ref="1609319916"/>
+    <nd ref="1609319950"/>
+    <nd ref="1609321100"/>
+    <nd ref="1609320038"/>
+    <nd ref="10235524231"/>
+    <nd ref="1609320005"/>
+    <nd ref="1609321317"/>
+    <nd ref="1609321301"/>
+    <nd ref="10235524236"/>
+    <nd ref="1538285739"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Campden Road"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147739038" version="2" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1609320526"/>
+    <nd ref="1609320903"/>
+    <nd ref="1609320626"/>
+    <nd ref="1609319903"/>
+    <nd ref="1609320469"/>
+    <nd ref="1609320116"/>
+    <nd ref="1609320976"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pittway Avenue"/>
+  </way>
+  <way id="147739042" version="2" timestamp="2019-01-02T08:21:01Z" changeset="65951380" uid="9065" user="brianboru">
+    <nd ref="1609320009"/>
+    <nd ref="6178025477"/>
+    <nd ref="1609320003"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Costard Avenue"/>
+  </way>
+  <way id="147739045" version="1" timestamp="2012-01-28T21:34:19Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320898"/>
+    <nd ref="1609320345"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739046" version="3" timestamp="2020-10-07T18:48:13Z" changeset="92128342" uid="11286310" user="Manateedriver">
+    <nd ref="1609320552"/>
+    <nd ref="6073220478"/>
+    <nd ref="1609321045"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hanson Avenue"/>
+  </way>
+  <way id="147739051" version="1" timestamp="2012-01-28T21:34:20Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320412"/>
+    <nd ref="1609319966"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739052" version="1" timestamp="2012-01-28T21:34:20Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320064"/>
+    <nd ref="1609320766"/>
+    <nd ref="1609321001"/>
+    <nd ref="1609320858"/>
+    <nd ref="1609320895"/>
+    <nd ref="1609320006"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Glen Close"/>
+  </way>
+  <way id="147739056" version="1" timestamp="2012-01-28T21:34:20Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609321037"/>
+    <nd ref="1609319903"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739058" version="3" timestamp="2018-08-09T06:18:26Z" changeset="61488394" uid="9065" user="brianboru">
+    <nd ref="1609320160"/>
+    <nd ref="1609320114"/>
+    <nd ref="1609319945"/>
+    <nd ref="5819759160"/>
+    <nd ref="1609320163"/>
+    <nd ref="1609320259"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oldbutt Road"/>
+  </way>
+  <way id="147739060" version="2" timestamp="2013-02-25T14:45:43Z" changeset="15162466" uid="322785" user="BCNorwich">
+    <nd ref="1609321063"/>
+    <nd ref="1609320114"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oldbutt Road"/>
+  </way>
+  <way id="147739063" version="2" timestamp="2012-11-30T06:43:38Z" changeset="14095178" uid="4951" user="PeterEastern">
+    <nd ref="1609320330"/>
+    <nd ref="1609320416"/>
+    <nd ref="2041530496"/>
+    <nd ref="1609319969"/>
+    <nd ref="1609321051"/>
+    <nd ref="1609319904"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sadlers Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="147739064" version="1" timestamp="2012-01-28T21:34:21Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609321383"/>
+    <nd ref="1609320336"/>
+    <nd ref="1609320462"/>
+    <nd ref="1609320824"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sadlers Avenue"/>
+  </way>
+  <way id="147739065" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609320576"/>
+    <nd ref="1609320813"/>
+    <nd ref="1609319976"/>
+    <nd ref="1609319999"/>
+    <nd ref="1609320152"/>
+    <nd ref="1609320051"/>
+    <nd ref="1609320450"/>
+    <nd ref="1609320917"/>
+    <nd ref="10235532002"/>
+    <nd ref="1609320586"/>
+    <nd ref="1609321210"/>
+    <nd ref="1609320212"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marshall Avenue"/>
+  </way>
+  <way id="147739067" version="2" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1609321005"/>
+    <nd ref="1609320057"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Berry Close"/>
+  </way>
+  <way id="147739069" version="6" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1538285731"/>
+    <nd ref="1609414245"/>
+    <nd ref="1609320877"/>
+    <nd ref="1609320474"/>
+    <nd ref="1609320499"/>
+    <nd ref="1609320537"/>
+    <nd ref="1609414129"/>
+    <nd ref="1609320581"/>
+    <nd ref="1609319898"/>
+    <nd ref="1609321340"/>
+    <nd ref="4770129164"/>
+    <nd ref="1609320035"/>
+    <nd ref="1609320216"/>
+    <nd ref="1609320366"/>
+    <nd ref="1609319948"/>
+    <nd ref="2041530488"/>
+    <nd ref="1609320626"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Queens Avenue"/>
+    <tag k="source:name" v="dictacam"/>
+    <tag k="source_ref:name" v="80n:dsc10420.mpg"/>
+  </way>
+  <way id="147739071" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609320422"/>
+    <nd ref="1609320099"/>
+    <nd ref="1609320395"/>
+    <nd ref="1609320890"/>
+    <nd ref="1609321258"/>
+    <nd ref="1609321328"/>
+    <nd ref="1609320483"/>
+    <nd ref="1609320762"/>
+    <nd ref="10235532001"/>
+    <nd ref="1609320036"/>
+    <nd ref="1609320870"/>
+    <nd ref="1609320516"/>
+    <nd ref="1609320059"/>
+    <nd ref="1609321113"/>
+    <nd ref="1609320972"/>
+    <nd ref="1609320765"/>
+    <nd ref="1609320040"/>
+    <nd ref="1609319921"/>
+    <nd ref="1609320043"/>
+    <nd ref="1609320805"/>
+    <nd ref="1609320358"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Clark Close"/>
+  </way>
+  <way id="147739073" version="1" timestamp="2012-01-28T21:34:24Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320541"/>
+    <nd ref="1609320270"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739076" version="1" timestamp="2012-01-28T21:34:24Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320814"/>
+    <nd ref="1609320766"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Glen Close"/>
+  </way>
+  <way id="147739077" version="1" timestamp="2012-01-28T21:34:24Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320664"/>
+    <nd ref="1609320303"/>
+    <nd ref="1609320307"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739078" version="1" timestamp="2012-01-28T21:34:24Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320668"/>
+    <nd ref="1609320693"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739083" version="2" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="1538285726"/>
+    <nd ref="1609320458"/>
+    <nd ref="1609321030"/>
+    <nd ref="1609321049"/>
+    <nd ref="1609320065"/>
+    <nd ref="1609321188"/>
+    <nd ref="1609320874"/>
+    <nd ref="1609321196"/>
+    <nd ref="1609321379"/>
+    <nd ref="1609320109"/>
+    <nd ref="1609321333"/>
+    <nd ref="9620404953"/>
+    <nd ref="1609320822"/>
+    <nd ref="1538285889"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739086" version="1" timestamp="2012-01-28T21:34:25Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320770"/>
+    <nd ref="1609320263"/>
+    <nd ref="1609320202"/>
+    <nd ref="1609320209"/>
+    <nd ref="1609321168"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hanson Avenue"/>
+    <tag k="source" v="Repositioned using Bing imagery"/>
+  </way>
+  <way id="147739098" version="1" timestamp="2012-01-28T21:34:26Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320096"/>
+    <nd ref="1609320576"/>
+    <nd ref="1609320534"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739106" version="1" timestamp="2012-01-28T21:34:27Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320885"/>
+    <nd ref="1609320200"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739108" version="3" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609320102"/>
+    <nd ref="10235531948"/>
+    <nd ref="1609319902"/>
+    <nd ref="1609320980"/>
+    <nd ref="1609321120"/>
+    <nd ref="1609321127"/>
+    <nd ref="1609320600"/>
+    <nd ref="1609321176"/>
+    <nd ref="1609320256"/>
+    <nd ref="1609320105"/>
+    <nd ref="1609320729"/>
+    <nd ref="1609320398"/>
+    <nd ref="1609320817"/>
+    <nd ref="1609320195"/>
+    <nd ref="1609320145"/>
+    <nd ref="6073220480"/>
+    <nd ref="1609321168"/>
+    <nd ref="1609320250"/>
+    <nd ref="1609320592"/>
+    <nd ref="1609320301"/>
+    <nd ref="6073220479"/>
+    <nd ref="1609320067"/>
+    <nd ref="1609321045"/>
+    <nd ref="1609320414"/>
+    <nd ref="1609320932"/>
+    <nd ref="1609320003"/>
+    <nd ref="1609320062"/>
+    <nd ref="1609320362"/>
+    <nd ref="1609320212"/>
+    <nd ref="1609320706"/>
+    <nd ref="1609320555"/>
+    <nd ref="1609320358"/>
+    <nd ref="1609321345"/>
+    <nd ref="1609320866"/>
+    <nd ref="1609321034"/>
+    <nd ref="1538285689"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hanson Avenue"/>
+    <tag k="source" v="Repositioned using Bing imagery"/>
+  </way>
+  <way id="147739120" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609320303"/>
+    <nd ref="1609320942"/>
+    <nd ref="10235532006"/>
+    <nd ref="10235532007"/>
+    <nd ref="1609320105"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hanson Avenue"/>
+    <tag k="source" v="Repositioned using Bing imagery"/>
+  </way>
+  <way id="147739122" version="1" timestamp="2012-01-28T21:34:28Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320311"/>
+    <nd ref="1609320345"/>
+    <nd ref="1609320141"/>
+    <nd ref="1609320148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oldbutt Road"/>
+  </way>
+  <way id="147739132" version="2" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1609319948"/>
+    <nd ref="1609321005"/>
+    <nd ref="1609320862"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Berry Avenue"/>
+  </way>
+  <way id="147739135" version="4" timestamp="2021-02-17T08:14:18Z" changeset="99433262" uid="10126622" user="hvannere">
+    <nd ref="1609321066"/>
+    <nd ref="1609321299"/>
+    <nd ref="8431110518"/>
+    <nd ref="1609320054"/>
+    <nd ref="1609320137"/>
+    <nd ref="5819759159"/>
+    <nd ref="1609320259"/>
+    <nd ref="5819759158"/>
+    <nd ref="1609321186"/>
+    <nd ref="5819759157"/>
+    <nd ref="1609320165"/>
+    <nd ref="1609320693"/>
+    <nd ref="1609321290"/>
+    <nd ref="1609320008"/>
+    <nd ref="1609321106"/>
+    <nd ref="1609320004"/>
+    <nd ref="6073212139"/>
+    <nd ref="1609320001"/>
+    <nd ref="1609320032"/>
+    <nd ref="1609320148"/>
+    <nd ref="1609321142"/>
+    <nd ref="1609320010"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oldbutt Road"/>
+  </way>
+  <way id="147739145" version="2" timestamp="2012-11-30T06:43:39Z" changeset="14095178" uid="4951" user="PeterEastern">
+    <nd ref="1609320703"/>
+    <nd ref="1609319969"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sadlers Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="147739150" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609320818"/>
+    <nd ref="10235532008"/>
+    <nd ref="1609319966"/>
+    <nd ref="1609320491"/>
+    <nd ref="1609320821"/>
+    <nd ref="1609320729"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739157" version="1" timestamp="2012-01-28T21:34:31Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609321190"/>
+    <nd ref="1609320297"/>
+    <nd ref="1609319939"/>
+    <nd ref="1609319960"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Warwick Place"/>
+  </way>
+  <way id="147739160" version="1" timestamp="2012-01-28T21:34:31Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320714"/>
+    <nd ref="1609320668"/>
+    <nd ref="1609321237"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739163" version="1" timestamp="2012-01-28T21:34:31Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609321147"/>
+    <nd ref="1609320200"/>
+    <nd ref="1609319976"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Marshall Avenue"/>
+  </way>
+  <way id="147739170" version="1" timestamp="2012-01-28T21:34:32Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320214"/>
+    <nd ref="1609320270"/>
+    <nd ref="1609320025"/>
+    <nd ref="1609321109"/>
+    <nd ref="1609321103"/>
+    <nd ref="1609320946"/>
+    <nd ref="1609321155"/>
+    <nd ref="1609320600"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Maldens"/>
+  </way>
+  <way id="147739172" version="1" timestamp="2012-01-28T21:34:32Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609320157"/>
+    <nd ref="1609320099"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147739173" version="2" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1609320469"/>
+    <nd ref="1609321271"/>
+    <nd ref="1609320030"/>
+    <nd ref="1609319904"/>
+    <nd ref="1609321354"/>
+    <nd ref="1609320824"/>
+    <nd ref="1609320530"/>
+    <nd ref="1609320092"/>
+    <nd ref="1609319973"/>
+    <nd ref="1538285772"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sadlers Avenue"/>
+  </way>
+  <way id="147743220" version="3" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1609335363"/>
+    <nd ref="1609335324"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Green Lane Close"/>
+    <tag k="source" v="visual survey;bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="147743221" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609335326"/>
+    <nd ref="10235531994"/>
+    <nd ref="1609335316"/>
+    <nd ref="1609335355"/>
+    <nd ref="1609335333"/>
+    <nd ref="1609335351"/>
+    <nd ref="1609335377"/>
+    <nd ref="1609335328"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greenfields Close"/>
+  </way>
+  <way id="147743222" version="1" timestamp="2012-01-28T21:49:38Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609335298"/>
+    <nd ref="1609335336"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147743223" version="1" timestamp="2012-01-28T21:49:38Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609335362"/>
+    <nd ref="1609335308"/>
+    <nd ref="1609335375"/>
+    <nd ref="1609335321"/>
+    <nd ref="1609335350"/>
+    <nd ref="1609335325"/>
+    <nd ref="1609335334"/>
+    <nd ref="1609335374"/>
+    <nd ref="1609335307"/>
+    <nd ref="1609320102"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Simpson Road"/>
+  </way>
+  <way id="147743224" version="1" timestamp="2012-01-28T21:49:38Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609335368"/>
+    <nd ref="1609335346"/>
+    <nd ref="1609335315"/>
+    <nd ref="1609335299"/>
+    <nd ref="1609335311"/>
+    <nd ref="1609335362"/>
+    <nd ref="1609335312"/>
+    <nd ref="1609335342"/>
+    <nd ref="1609335313"/>
+    <nd ref="1609335344"/>
+    <nd ref="1609335365"/>
+    <nd ref="1609335335"/>
+    <nd ref="1609335300"/>
+    <nd ref="1609335371"/>
+    <nd ref="1609335364"/>
+    <nd ref="1609335304"/>
+    <nd ref="1609335355"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greenfields Close"/>
+  </way>
+  <way id="147743226" version="1" timestamp="2012-01-28T21:49:39Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609335323"/>
+    <nd ref="1609335366"/>
+    <nd ref="1609335352"/>
+    <nd ref="1609335373"/>
+    <nd ref="1609335321"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Parsons Close"/>
+  </way>
+  <way id="147743227" version="5" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1601287369"/>
+    <nd ref="1601287370"/>
+    <nd ref="1538285792"/>
+    <nd ref="1599188266"/>
+    <nd ref="1609335353"/>
+    <nd ref="1538285864"/>
+    <nd ref="1609335370"/>
+    <nd ref="1538285868"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="West Street"/>
+    <tag k="ref" v="B4035"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="147743229" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609335360"/>
+    <nd ref="10235531947"/>
+    <nd ref="1609335358"/>
+    <nd ref="1609335323"/>
+    <nd ref="1609320609"/>
+    <nd ref="1609335310"/>
+    <nd ref="1609335348"/>
+    <nd ref="1609335336"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Parsons Close"/>
+  </way>
+  <way id="147743231" version="1" timestamp="2012-01-28T21:49:40Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609335356"/>
+    <nd ref="1609335328"/>
+    <nd ref="1609335343"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147743232" version="4" timestamp="2019-04-08T15:44:46Z" changeset="69012206" uid="9065" user="brianboru">
+    <nd ref="1609335330"/>
+    <nd ref="1753725075"/>
+    <nd ref="1609335329"/>
+    <nd ref="1609335341"/>
+    <nd ref="1609335306"/>
+    <nd ref="1609335347"/>
+    <nd ref="1609335340"/>
+    <nd ref="6391313126"/>
+    <nd ref="1609335303"/>
+    <nd ref="1609335357"/>
+    <nd ref="1609335339"/>
+    <nd ref="1609335337"/>
+    <nd ref="1609321120"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Hobbins"/>
+  </way>
+  <way id="147743233" version="2" timestamp="2019-04-08T15:44:46Z" changeset="69012206" uid="9065" user="brianboru">
+    <nd ref="1609335349"/>
+    <nd ref="1609335309"/>
+    <nd ref="6391313942"/>
+    <nd ref="1609335314"/>
+    <nd ref="1609335340"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147743234" version="1" timestamp="2012-01-28T21:49:40Z" changeset="10525217" uid="64" user="lsces">
+    <nd ref="1609335320"/>
+    <nd ref="1609335335"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147760790" version="1" timestamp="2012-01-28T22:59:54Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609414158"/>
+    <nd ref="1609414111"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Springfield Road"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="147760797" version="2" timestamp="2018-11-19T12:48:36Z" changeset="64655101" uid="9065" user="brianboru">
+    <nd ref="1609414141"/>
+    <nd ref="1609414158"/>
+    <nd ref="1609335368"/>
+    <nd ref="1609414232"/>
+    <nd ref="1609414246"/>
+    <nd ref="1609414258"/>
+    <nd ref="1609414086"/>
+    <nd ref="1609414121"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Callaways Road"/>
+  </way>
+  <way id="147760798" version="1" timestamp="2012-01-28T22:59:55Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609414079"/>
+    <nd ref="1609414249"/>
+    <nd ref="1609414237"/>
+    <nd ref="1609414157"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Queens Close"/>
+  </way>
+  <way id="147760802" version="1" timestamp="2012-01-28T22:59:56Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609414110"/>
+    <nd ref="1609414163"/>
+    <nd ref="1609414068"/>
+    <nd ref="1609414223"/>
+    <nd ref="1609414103"/>
+    <nd ref="1609414213"/>
+    <nd ref="1609414115"/>
+    <nd ref="1538285690"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Horsefair"/>
+  </way>
+  <way id="147760804" version="1" timestamp="2012-01-28T22:59:56Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609414237"/>
+    <nd ref="1609414245"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Queens Close"/>
+  </way>
+  <way id="147760805" version="1" timestamp="2012-01-28T22:59:57Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609414145"/>
+    <nd ref="1609414243"/>
+    <nd ref="1609414129"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147760806" version="2" timestamp="2023-07-14T09:07:51Z" changeset="138497645" uid="7436199" user="aleksaJov">
+    <nd ref="1609414160"/>
+    <nd ref="1609414081"/>
+    <nd ref="1609414092"/>
+    <nd ref="1609414138"/>
+    <nd ref="1609414257"/>
+    <nd ref="1609414136"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Lynn Gardens"/>
+  </way>
+  <way id="147760809" version="1" timestamp="2012-01-28T22:59:57Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609414227"/>
+    <nd ref="1609414170"/>
+    <nd ref="1609414168"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147760813" version="1" timestamp="2012-01-28T22:59:58Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609414253"/>
+    <nd ref="1609414202"/>
+    <nd ref="1609414084"/>
+    <nd ref="1609414260"/>
+    <nd ref="1609414159"/>
+    <nd ref="1609414142"/>
+    <nd ref="1609414253"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Shipston Fire Station"/>
+  </way>
+  <way id="147760814" version="4" timestamp="2023-08-25T14:41:43Z" changeset="140376028" uid="5589" user="user_5589">
+    <nd ref="1609414072"/>
+    <nd ref="1609414088"/>
+    <nd ref="1609414225"/>
+    <nd ref="11144085909"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cherry Orchard"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="147760819" version="1" timestamp="2012-01-28T22:59:58Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609414155"/>
+    <nd ref="1609414251"/>
+    <nd ref="1609414203"/>
+    <nd ref="1609414108"/>
+    <nd ref="1609414200"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bosley Close"/>
+  </way>
+  <way id="147760824" version="3" timestamp="2020-10-07T20:24:05Z" changeset="92131456" uid="11286310" user="Manateedriver">
+    <nd ref="1609414178"/>
+    <nd ref="1609414118"/>
+    <nd ref="1609414174"/>
+    <nd ref="1609414254"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bosley Close"/>
+  </way>
+  <way id="147760826" version="2" timestamp="2018-06-16T22:31:26Z" changeset="59903643" uid="14846" user="ndm">
+    <nd ref="1609414085"/>
+    <nd ref="1609414114"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="The Bury"/>
+  </way>
+  <way id="147760827" version="1" timestamp="2012-01-28T23:00:00Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609414139"/>
+    <nd ref="1609414122"/>
+    <nd ref="1609414160"/>
+    <nd ref="1609414113"/>
+    <nd ref="1609414095"/>
+    <nd ref="1609414117"/>
+    <nd ref="1609414136"/>
+    <nd ref="1609414167"/>
+    <nd ref="1609414210"/>
+    <nd ref="1609414172"/>
+    <nd ref="1609414261"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Lynn Gardens"/>
+  </way>
+  <way id="147760829" version="9" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1609414185"/>
+    <nd ref="13164786425"/>
+    <nd ref="1609414065"/>
+    <nd ref="1538285868"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="maxspeed:type" v="GB:zone20"/>
+    <tag k="name" v="High Street"/>
+    <tag k="postal_code" v="CV36 4AJ"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="12"/>
+  </way>
+  <way id="147770229" version="1" timestamp="2012-01-28T23:46:15Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609492527"/>
+    <nd ref="1609492543"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147770247" version="1" timestamp="2012-01-28T23:46:16Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609492636"/>
+    <nd ref="1540773251"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147770260" version="3" timestamp="2020-11-15T15:46:16Z" changeset="94152753" uid="11286310" user="Manateedriver">
+    <nd ref="1514516747"/>
+    <nd ref="1609492607"/>
+    <nd ref="1609492602"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greenway Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147770262" version="3" timestamp="2020-11-15T15:46:13Z" changeset="94152753" uid="11286310" user="Manateedriver">
+    <nd ref="1609492670"/>
+    <nd ref="1609492602"/>
+    <nd ref="1609492390"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greenway Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147770264" version="2" timestamp="2012-01-29T00:26:30Z" changeset="10526262" uid="64" user="lsces">
+    <nd ref="1609492281"/>
+    <nd ref="1609492782"/>
+    <nd ref="1609492808"/>
+    <nd ref="1609492642"/>
+    <nd ref="1609492281"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Shipston on Stour Sports and Social Club"/>
+  </way>
+  <way id="147770275" version="2" timestamp="2023-05-23T01:25:20Z" changeset="136434649" uid="19354165" user="DracFury">
+    <nd ref="1609492601"/>
+    <nd ref="1609492674"/>
+    <nd ref="10920646115"/>
+    <nd ref="1609492279"/>
+    <nd ref="1609492788"/>
+    <nd ref="1609492731"/>
+    <nd ref="1609492601"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="name" v="Our Lady and Saint Michael"/>
+    <tag k="religion" v="christian"/>
+  </way>
+  <way id="147770280" version="1" timestamp="2012-01-28T23:46:20Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609492288"/>
+    <nd ref="1609492786"/>
+    <nd ref="1609492394"/>
+    <nd ref="1609492553"/>
+    <nd ref="1609492241"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="147770281" version="1" timestamp="2012-01-28T23:46:20Z" changeset="10525847" uid="64" user="lsces">
+    <nd ref="1609492460"/>
+    <nd ref="1609492568"/>
+    <nd ref="1609492252"/>
+    <nd ref="1609492553"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="148053686" version="1" timestamp="2012-01-30T10:58:56Z" changeset="10538659" uid="64" user="lsces">
+    <nd ref="1611630928"/>
+    <nd ref="1611630937"/>
+    <nd ref="1611630951"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="148053687" version="2" timestamp="2012-01-30T11:01:03Z" changeset="10538659" uid="64" user="lsces">
+    <nd ref="1611630931"/>
+    <nd ref="1611630934"/>
+    <nd ref="1611630948"/>
+    <nd ref="1611630924"/>
+    <nd ref="1611630931"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Former weighbridge office for Shipston Railway Station"/>
+    <tag k="note" v="Plaque on wall - Shipston Station 1836-1953"/>
+    <tag k="start_date" v="1836"/>
+  </way>
+  <way id="148053688" version="1" timestamp="2012-01-30T10:58:57Z" changeset="10538659" uid="64" user="lsces">
+    <nd ref="1611630952"/>
+    <nd ref="1611630926"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="148053689" version="1" timestamp="2012-01-30T10:58:57Z" changeset="10538659" uid="64" user="lsces">
+    <nd ref="1611630955"/>
+    <nd ref="1611630951"/>
+    <nd ref="1611630946"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="148060245" version="3" timestamp="2023-06-21T01:38:19Z" changeset="137583475" uid="19354165" user="DracFury">
+    <nd ref="1611707393"/>
+    <nd ref="1611707265"/>
+    <nd ref="1611707283"/>
+    <nd ref="1611707342"/>
+    <nd ref="1611707355"/>
+    <nd ref="1611707344"/>
+    <nd ref="1611707393"/>
+    <tag k="building" v="yes"/>
+    <tag k="club" v="sport"/>
+    <tag k="name" v="Rams Head"/>
+  </way>
+  <way id="148060972" version="2" timestamp="2022-09-03T14:58:09Z" changeset="125741638" uid="5589" user="user_5589">
+    <nd ref="1611715757"/>
+    <nd ref="1611715762"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ashgrove"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="155305431" version="2" timestamp="2021-03-26T10:32:34Z" changeset="101783532" uid="9065" user="brianboru">
+    <nd ref="1514516909"/>
+    <nd ref="8563376720"/>
+    <nd ref="1514516872"/>
+    <nd ref="1609492484"/>
+    <nd ref="1609492767"/>
+    <nd ref="1609492524"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Sheldons"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="155305595" version="1" timestamp="2012-03-16T17:19:58Z" changeset="11000433" uid="9065" user="brianboru">
+    <nd ref="1677055405"/>
+    <nd ref="1677055403"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="River Way"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="155305597" version="1" timestamp="2012-03-16T17:19:58Z" changeset="11000433" uid="9065" user="brianboru">
+    <nd ref="1677055382"/>
+    <nd ref="1677055391"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="River Way"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="155305599" version="1" timestamp="2012-03-16T17:19:58Z" changeset="11000433" uid="9065" user="brianboru">
+    <nd ref="1677055399"/>
+    <nd ref="1677055391"/>
+    <nd ref="1677055389"/>
+    <nd ref="1677055381"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="River Way"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="155305601" version="3" timestamp="2020-05-08T03:27:49Z" changeset="84861994" uid="10455631" user="skanduk">
+    <nd ref="1677055406"/>
+    <nd ref="1677055403"/>
+    <nd ref="1677055397"/>
+    <nd ref="5514340209"/>
+    <nd ref="1677055393"/>
+    <nd ref="5514340208"/>
+    <nd ref="1677055395"/>
+    <nd ref="1677055399"/>
+    <nd ref="7495838063"/>
+    <nd ref="1677055401"/>
+    <nd ref="323196"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="River Way"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="182089980" version="4" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609335338"/>
+    <nd ref="10235524244"/>
+    <nd ref="1601327912"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="182089981" version="3" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1538285868"/>
+    <nd ref="13164786424"/>
+    <nd ref="10235531945"/>
+    <nd ref="1609335338"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="West Street"/>
+    <tag k="ref" v="B4035"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="184401906" version="6" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1599054616"/>
+    <nd ref="4977437545"/>
+    <nd ref="1540773430"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Market Place"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="184401907" version="2" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="13797226"/>
+    <nd ref="1601287390"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Darlingscote Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="191357828" version="7" timestamp="2023-06-17T22:10:38Z" changeset="137462451" uid="19608930" user="j_field_25">
+    <nd ref="1787239242"/>
+    <nd ref="1502777354"/>
+    <nd ref="1502777342"/>
+    <nd ref="1502777355"/>
+    <nd ref="1538285764"/>
+    <nd ref="1502777341"/>
+    <nd ref="323221"/>
+    <nd ref="1509639730"/>
+    <nd ref="1502777344"/>
+    <nd ref="323220"/>
+    <nd ref="10235532094"/>
+    <nd ref="1502777351"/>
+    <nd ref="10235532103"/>
+    <nd ref="1502777340"/>
+    <nd ref="1538285762"/>
+    <nd ref="10235532093"/>
+    <nd ref="1502777345"/>
+    <nd ref="1502777343"/>
+    <nd ref="10235532098"/>
+    <nd ref="1502777347"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="London Road"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="191357831" version="12" timestamp="2024-04-24T20:36:22Z" changeset="150466615" uid="20775344" user="Pete A Cox">
+    <nd ref="1502777347"/>
+    <nd ref="10235532097"/>
+    <nd ref="1502777346"/>
+    <nd ref="643627591"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="192025140" version="2" timestamp="2012-11-30T06:43:39Z" changeset="14095178" uid="4951" user="PeterEastern">
+    <nd ref="2025908680"/>
+    <nd ref="2025908675"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Norluck Court"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="192025141" version="2" timestamp="2012-11-30T06:43:39Z" changeset="14095178" uid="4951" user="PeterEastern">
+    <nd ref="1601328154"/>
+    <nd ref="1601328170"/>
+    <nd ref="1609492524"/>
+    <nd ref="1601328175"/>
+    <nd ref="1601328176"/>
+    <nd ref="1601328183"/>
+    <nd ref="1601328186"/>
+    <nd ref="1514516890"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Sidlings"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="192025142" version="2" timestamp="2022-09-03T08:26:29Z" changeset="125726088" uid="5589" user="user_5589">
+    <nd ref="2025908677"/>
+    <nd ref="2025908678"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Old Brewery Close"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="192025143" version="1" timestamp="2012-11-22T03:31:26Z" changeset="13981027" uid="4951" user="PeterEastern">
+    <nd ref="1514516912"/>
+    <nd ref="1514516914"/>
+    <nd ref="1514516926"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="192025144" version="2" timestamp="2018-03-29T14:30:05Z" changeset="57635753" uid="9065" user="brianboru">
+    <nd ref="5514340207"/>
+    <nd ref="2025908681"/>
+    <nd ref="5514340101"/>
+    <nd ref="2025908676"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="192025145" version="4" timestamp="2020-07-13T10:33:13Z" changeset="87917603" uid="10252543" user="srikmar">
+    <nd ref="1609492632"/>
+    <nd ref="1609492454"/>
+    <nd ref="1609492805"/>
+    <nd ref="1609492717"/>
+    <nd ref="1609492263"/>
+    <nd ref="6121872650"/>
+    <nd ref="1609492580"/>
+    <nd ref="1609492356"/>
+    <nd ref="1514516902"/>
+    <nd ref="6121872651"/>
+    <nd ref="6121872652"/>
+    <nd ref="1514516890"/>
+    <nd ref="6121872653"/>
+    <nd ref="7710290742"/>
+    <nd ref="1601328173"/>
+    <nd ref="7710290740"/>
+    <nd ref="1601328145"/>
+    <nd ref="2041530498"/>
+    <nd ref="1753725073"/>
+    <nd ref="1601328140"/>
+    <nd ref="1601328135"/>
+    <nd ref="1601328131"/>
+    <nd ref="1609545633"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Beecham Road"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="192025148" version="5" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1601328123"/>
+    <nd ref="1601328125"/>
+    <nd ref="1601328130"/>
+    <nd ref="1601328167"/>
+    <nd ref="1601328171"/>
+    <nd ref="1601328172"/>
+    <nd ref="1609492346"/>
+    <nd ref="1601328149"/>
+    <nd ref="1609492460"/>
+    <nd ref="1601328150"/>
+    <nd ref="1601328154"/>
+    <nd ref="1514516875"/>
+    <nd ref="7854419967"/>
+    <nd ref="7854419968"/>
+    <nd ref="1514516900"/>
+    <nd ref="7854419969"/>
+    <nd ref="7854419970"/>
+    <nd ref="1514516912"/>
+    <nd ref="1514516909"/>
+    <nd ref="1609492463"/>
+    <nd ref="1514516929"/>
+    <nd ref="1609492263"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Railway Crescent"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="192025149" version="6" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1609492275"/>
+    <nd ref="1609492426"/>
+    <nd ref="1609492543"/>
+    <nd ref="1609492229"/>
+    <nd ref="9107299309"/>
+    <nd ref="9107299306"/>
+    <nd ref="7850236803"/>
+    <nd ref="1514516928"/>
+    <nd ref="6121885054"/>
+    <nd ref="6121885053"/>
+    <nd ref="6121885055"/>
+    <nd ref="1514516926"/>
+    <nd ref="1514516898"/>
+    <nd ref="6121885051"/>
+    <nd ref="6121885050"/>
+    <nd ref="6121885052"/>
+    <nd ref="7927571599"/>
+    <nd ref="1609492346"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Signal Road"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="192025150" version="1" timestamp="2012-11-22T03:31:27Z" changeset="13981027" uid="4951" user="PeterEastern">
+    <nd ref="2025908682"/>
+    <nd ref="2025908685"/>
+    <nd ref="2025908674"/>
+    <nd ref="2025908679"/>
+    <nd ref="2025908683"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Basket Hall"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="193627507" version="1" timestamp="2012-11-30T06:43:36Z" changeset="14095178" uid="4951" user="PeterEastern">
+    <nd ref="1609414111"/>
+    <nd ref="1602334191"/>
+    <nd ref="1609414071"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Springfield Close"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="193627508" version="1" timestamp="2012-11-30T06:43:36Z" changeset="14095178" uid="4951" user="PeterEastern">
+    <nd ref="2041530491"/>
+    <nd ref="2041530498"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Wharf"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="193627509" version="1" timestamp="2012-11-30T06:43:36Z" changeset="14095178" uid="4951" user="PeterEastern">
+    <nd ref="2041530497"/>
+    <nd ref="2041530492"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Husbandmans Close"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="193627513" version="3" timestamp="2020-11-15T15:46:21Z" changeset="94152753" uid="11286310" user="Manateedriver">
+    <nd ref="2041530493"/>
+    <nd ref="1514516750"/>
+    <nd ref="6121885668"/>
+    <nd ref="1514516748"/>
+    <nd ref="6121885669"/>
+    <nd ref="1514516747"/>
+    <nd ref="6121885670"/>
+    <nd ref="1540773236"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greenway Road"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="235352108" version="1" timestamp="2013-08-27T17:45:23Z" changeset="17541022" uid="782788" user="GordonFS">
+    <nd ref="1538285754"/>
+    <nd ref="1538285772"/>
+    <nd ref="1538285734"/>
+    <nd ref="1538285739"/>
+    <nd ref="1609320410"/>
+    <nd ref="1538285784"/>
+    <nd ref="1609321066"/>
+    <nd ref="1538285786"/>
+    <nd ref="1538285854"/>
+    <nd ref="1538285756"/>
+    <nd ref="1538285889"/>
+    <nd ref="1538285699"/>
+    <nd ref="1538285749"/>
+    <nd ref="1538285702"/>
+    <nd ref="1538285703"/>
+    <nd ref="1538285706"/>
+    <nd ref="1538285710"/>
+    <nd ref="1538285726"/>
+    <nd ref="1538285712"/>
+    <nd ref="1538285731"/>
+    <nd ref="1538285728"/>
+    <nd ref="1538285689"/>
+    <nd ref="1538285690"/>
+    <nd ref="1538285729"/>
+    <nd ref="1538285745"/>
+    <nd ref="1601287358"/>
+    <nd ref="1601287369"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Campden Road"/>
+    <tag k="ref" v="B4035"/>
+  </way>
+  <way id="235352109" version="6" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="323205"/>
+    <nd ref="8270534834"/>
+    <nd ref="10235524243"/>
+    <nd ref="13797247"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="237779490" version="3" timestamp="2019-12-12T08:32:15Z" changeset="78304548" uid="10255276" user="contrai1">
+    <nd ref="2456550002"/>
+    <nd ref="7051354852"/>
+    <nd ref="6469773414"/>
+    <nd ref="2456550004"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="237779491" version="1" timestamp="2013-09-13T08:20:29Z" changeset="17813110" uid="9065" user="brianboru">
+    <nd ref="1601328152"/>
+    <nd ref="2456550002"/>
+    <nd ref="2456550003"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="258919264" version="2" timestamp="2024-01-13T23:33:44Z" changeset="146230278" uid="20775344" user="Pete A Cox">
+    <nd ref="2642267593"/>
+    <nd ref="2642267601"/>
+    <nd ref="2642267607"/>
+    <nd ref="2642267610"/>
+    <nd ref="2642267599"/>
+    <nd ref="2642267593"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Cotswold Tailor"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="source" v="Warwicks Aerial Imagery OGLv2"/>
+  </way>
+  <way id="258919280" version="3" timestamp="2018-10-23T13:18:40Z" changeset="63795856" uid="281267" user="smb1001">
+    <nd ref="2642267319"/>
+    <nd ref="2642267317"/>
+    <nd ref="2642267313"/>
+    <nd ref="2642267315"/>
+    <nd ref="2642267309"/>
+    <nd ref="5407738414"/>
+    <nd ref="2642267306"/>
+    <nd ref="2642267319"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="methodist"/>
+    <tag k="name" v="Shipston-on-Stour Methodist Church"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Warwicks Aerial Imagery OGLv2"/>
+  </way>
+  <way id="294820976" version="1" timestamp="2014-07-28T13:11:51Z" changeset="24401895" uid="2218698" user="Matt Carus">
+    <nd ref="2984431913"/>
+    <nd ref="2984431914"/>
+    <nd ref="2984431915"/>
+    <nd ref="2984431916"/>
+    <nd ref="2984431913"/>
+    <tag k="building" v="school"/>
+    <tag k="name" v="Shipston Scout HQ"/>
+  </way>
+  <way id="335791526" version="1" timestamp="2015-03-31T18:25:31Z" changeset="29885095" uid="9065" user="brianboru">
+    <nd ref="3429060143"/>
+    <nd ref="3429060145"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brickfield Lane"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="335791527" version="1" timestamp="2015-03-31T18:25:31Z" changeset="29885095" uid="9065" user="brianboru">
+    <nd ref="3429060140"/>
+    <nd ref="3429060138"/>
+    <nd ref="3429060137"/>
+    <nd ref="3429060136"/>
+    <nd ref="3429060135"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brickfield Lane"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="335791528" version="1" timestamp="2015-03-31T18:25:31Z" changeset="29885095" uid="9065" user="brianboru">
+    <nd ref="3429060146"/>
+    <nd ref="3429060142"/>
+    <nd ref="3429060139"/>
+    <nd ref="3429060140"/>
+    <nd ref="3429060141"/>
+    <nd ref="3429060143"/>
+    <nd ref="3429060144"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brickfield Lane"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="336771057" version="3" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="3438531516"/>
+    <nd ref="3438531502"/>
+    <nd ref="13164786423"/>
+    <nd ref="3438531509"/>
+    <nd ref="3438531515"/>
+    <nd ref="3438531511"/>
+    <nd ref="3438531519"/>
+    <nd ref="3438531516"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Shipston on Stour Town Council"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="484251941" version="3" timestamp="2018-03-29T14:30:06Z" changeset="57635753" uid="9065" user="brianboru">
+    <nd ref="4769952467"/>
+    <nd ref="5514340279"/>
+    <nd ref="5514340452"/>
+    <nd ref="5514340280"/>
+    <nd ref="4769952468"/>
+    <nd ref="5514340281"/>
+    <nd ref="5514340282"/>
+    <nd ref="4769952469"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Caudlewell Drive"/>
+    <tag k="source" v="gps survey"/>
+  </way>
+  <way id="560774563" version="4" timestamp="2023-08-25T14:42:40Z" changeset="140374874" uid="5589" user="user_5589">
+    <nd ref="1592869697"/>
+    <nd ref="1602322581"/>
+    <nd ref="323216"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="London Road"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="560774567" version="4" timestamp="2023-08-25T14:42:36Z" changeset="140374874" uid="5589" user="user_5589">
+    <nd ref="1502776271"/>
+    <nd ref="1592869694"/>
+    <nd ref="5407737573"/>
+    <nd ref="1592869697"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="London Road"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:forward" v="through|right"/>
+  </way>
+  <way id="560774636" version="2" timestamp="2024-02-05T00:19:02Z" changeset="147073724" uid="20775344" user="Pete A Cox">
+    <nd ref="5407737170"/>
+    <nd ref="5407737169"/>
+    <nd ref="1599188304"/>
+    <nd ref="1599188291"/>
+    <nd ref="5407738065"/>
+    <nd ref="5407737170"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Shipston Museum"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="tourism" v="museum"/>
+  </way>
+  <way id="560774695" version="2" timestamp="2018-06-16T22:31:26Z" changeset="59903643" uid="14846" user="ndm">
+    <nd ref="5695516461"/>
+    <nd ref="5695516463"/>
+    <nd ref="5695516462"/>
+    <nd ref="5407738191"/>
+    <nd ref="5407738190"/>
+    <nd ref="5407738189"/>
+    <nd ref="5407738188"/>
+    <nd ref="5695516460"/>
+    <nd ref="5695516461"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Rightons of Shipston"/>
+    <tag k="shop" v="vacant"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="560774710" version="2" timestamp="2018-06-16T22:31:27Z" changeset="59903643" uid="14846" user="ndm">
+    <nd ref="5695516447"/>
+    <nd ref="1601328007"/>
+    <nd ref="5407738212"/>
+    <nd ref="5695516442"/>
+    <nd ref="5695516447"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Katherine House Hospice"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="560774760" version="2" timestamp="2024-01-23T17:24:57Z" changeset="146601703" uid="20775344" user="Pete A Cox">
+    <nd ref="5407738316"/>
+    <nd ref="5407738315"/>
+    <nd ref="5407738314"/>
+    <nd ref="5407738313"/>
+    <nd ref="5407738312"/>
+    <nd ref="5407738311"/>
+    <nd ref="5407738316"/>
+    <tag k="building" v="garage"/>
+    <tag k="name" v="Bradley T Motor Services"/>
+    <tag k="shop" v="car_repair"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="560774786" version="4" timestamp="2024-01-14T00:22:15Z" changeset="146230928" uid="20775344" user="Pete A Cox">
+    <nd ref="5407738353"/>
+    <nd ref="5407738345"/>
+    <nd ref="5407738352"/>
+    <nd ref="5407738351"/>
+    <nd ref="5407738350"/>
+    <nd ref="11515054387"/>
+    <nd ref="5407738349"/>
+    <nd ref="5407738348"/>
+    <nd ref="5407738347"/>
+    <nd ref="5407738346"/>
+    <nd ref="5407738353"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cotswold Computers"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="560774833" version="2" timestamp="2023-12-28T12:13:56Z" changeset="145616714" uid="20775344" user="Pete A Cox">
+    <nd ref="5407738524"/>
+    <nd ref="5407738523"/>
+    <nd ref="5407738522"/>
+    <nd ref="5407738521"/>
+    <nd ref="5407738524"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Shipston Town Band"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="560774858" version="1" timestamp="2018-02-12T17:27:49Z" changeset="56300540" uid="9065" user="brianboru">
+    <nd ref="5407738413"/>
+    <nd ref="5407738412"/>
+    <nd ref="5407738411"/>
+    <nd ref="5407738410"/>
+    <nd ref="5407738409"/>
+    <nd ref="5407738408"/>
+    <nd ref="5407738407"/>
+    <nd ref="5407738406"/>
+    <nd ref="5407738413"/>
+    <tag k="addr:city" v="Shipston-on-Stour"/>
+    <tag k="addr:postcode" v="CV36 4AW"/>
+    <tag k="addr:street" v="Mill Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Old Mill"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.theoldmillshipston.co.uk/"/>
+  </way>
+  <way id="561281559" version="2" timestamp="2024-02-04T23:33:37Z" changeset="147073097" uid="20775344" user="Pete A Cox">
+    <nd ref="5412437162"/>
+    <nd ref="5412437161"/>
+    <nd ref="5412437160"/>
+    <nd ref="5412437159"/>
+    <nd ref="5412437158"/>
+    <nd ref="5412437157"/>
+    <nd ref="5412436379"/>
+    <nd ref="5412437156"/>
+    <nd ref="5412437165"/>
+    <nd ref="5412437162"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Halford Round"/>
+    <tag k="shop" v="optician"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="561281560" version="2" timestamp="2024-02-04T23:31:17Z" changeset="147073066" uid="20775344" user="Pete A Cox">
+    <nd ref="5412437170"/>
+    <nd ref="5412437169"/>
+    <nd ref="5412437168"/>
+    <nd ref="5412437167"/>
+    <nd ref="5412437166"/>
+    <nd ref="5412437165"/>
+    <nd ref="5412437162"/>
+    <nd ref="5412437164"/>
+    <nd ref="5412437163"/>
+    <nd ref="5412437170"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Salon"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="561281571" version="1" timestamp="2018-02-14T14:50:22Z" changeset="56355474" uid="9065" user="brianboru">
+    <nd ref="5412437214"/>
+    <nd ref="1601287339"/>
+    <nd ref="1601287324"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Orchard Close"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="561281572" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1601287332"/>
+    <nd ref="5412437214"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Orchard Close"/>
+    <tag k="source" v="visual survey;bing"/>
+    <tag k="tunnel" v="building_passage"/>
+  </way>
+  <way id="574510498" version="1" timestamp="2018-03-29T14:29:58Z" changeset="57635753" uid="9065" user="brianboru">
+    <nd ref="5514340452"/>
+    <nd ref="5514340278"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Caudlewell Drive"/>
+    <tag k="source" v="gps survey"/>
+  </way>
+  <way id="598414030" version="1" timestamp="2018-06-16T22:31:17Z" changeset="59903643" uid="14846" user="ndm">
+    <nd ref="5695516452"/>
+    <nd ref="5695516451"/>
+    <nd ref="5695516450"/>
+    <nd ref="5407738208"/>
+    <nd ref="5695516452"/>
+    <tag k="addr:housename" v="Sheldon House"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="foxwist"/>
+    <tag k="shop" v="frame"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="598414031" version="2" timestamp="2023-08-21T15:30:34Z" changeset="140188398" uid="20033850" user="Tag Upgrade Bot">
+    <nd ref="5695516453"/>
+    <nd ref="5695516467"/>
+    <nd ref="5695516468"/>
+    <nd ref="5695516455"/>
+    <nd ref="5695516454"/>
+    <nd ref="5695516453"/>
+    <tag k="addr:housename" v="Sheldon House"/>
+    <tag k="brand" v="NFU Mutual"/>
+    <tag k="brand:wikidata" v="Q6953815"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="NFU Mutual"/>
+    <tag k="office" v="insurance"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="598414032" version="3" timestamp="2024-04-21T08:28:40Z" changeset="150291514" uid="6816132" user="CjMalone">
+    <nd ref="5695516457"/>
+    <nd ref="5407738200"/>
+    <nd ref="5407738199"/>
+    <nd ref="5695516469"/>
+    <nd ref="5695516457"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Boots"/>
+    <tag k="brand:wikidata" v="Q6123139"/>
+    <tag k="brand:wikipedia" v="en:Boots UK"/>
+    <tag k="building" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Boots"/>
+    <tag k="source" v="Bing"/>
+    <tag k="website" v="https://www.boots.com/stores/6113-shipston-on-stour-cv36-4af"/>
+  </way>
+  <way id="598414033" version="2" timestamp="2023-06-20T16:39:36Z" changeset="137571471" uid="19635403" user="Geoff Powell">
+    <nd ref="5695516459"/>
+    <nd ref="5695516458"/>
+    <nd ref="5407738194"/>
+    <nd ref="5695516472"/>
+    <nd ref="5407738196"/>
+    <nd ref="5407738195"/>
+    <nd ref="5695516459"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Blue Bean Cafe"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="598414035" version="2" timestamp="2018-06-17T22:32:43Z" changeset="59925084" uid="14846" user="ndm">
+    <nd ref="5695516495"/>
+    <nd ref="1599054549"/>
+    <nd ref="1599054593"/>
+    <nd ref="5695516501"/>
+    <nd ref="5697636059"/>
+    <nd ref="5695516495"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sheldon Bosley Knight"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598414036" version="2" timestamp="2024-02-04T23:06:57Z" changeset="147072634" uid="20775344" user="Pete A Cox">
+    <nd ref="5695516462"/>
+    <nd ref="5695516463"/>
+    <nd ref="5407738193"/>
+    <nd ref="5407738192"/>
+    <nd ref="5695516462"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Sheep Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Niche"/>
+    <tag k="shop" v="vacant"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="598414038" version="1" timestamp="2018-06-16T22:31:17Z" changeset="59903643" uid="14846" user="ndm">
+    <nd ref="5695516477"/>
+    <nd ref="5695516479"/>
+    <nd ref="5412437172"/>
+    <nd ref="5412437173"/>
+    <nd ref="5695516478"/>
+    <nd ref="5412437185"/>
+    <nd ref="5695516477"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Bumble &amp; Wild"/>
+    <tag k="shop" v="florist"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="598414039" version="1" timestamp="2018-06-16T22:31:18Z" changeset="59903643" uid="14846" user="ndm">
+    <nd ref="5695516510"/>
+    <nd ref="5695516512"/>
+    <nd ref="5695516514"/>
+    <nd ref="5695516513"/>
+    <nd ref="5695516464"/>
+    <nd ref="5695516465"/>
+    <nd ref="1599054589"/>
+    <nd ref="5695516511"/>
+    <nd ref="5695516510"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="A Clarke"/>
+    <tag k="shop" v="electrical"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="598414042" version="3" timestamp="2021-07-03T15:36:23Z" changeset="107359012" uid="11421680" user="Mastrick_Mapper">
+    <nd ref="5695516484"/>
+    <nd ref="5412437194"/>
+    <nd ref="5412437193"/>
+    <nd ref="5695516483"/>
+    <nd ref="5695516482"/>
+    <nd ref="5412437204"/>
+    <nd ref="5695516484"/>
+    <tag k="addr:city" v="Shipston-on-Stour"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="CV36 4AF"/>
+    <tag k="addr:street" v="Sheep Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Home"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="shop" v="gift"/>
+    <tag k="source" v="local knowledge"/>
+    <tag k="website" v="https://homegift.uk"/>
+  </way>
+  <way id="598414043" version="5" timestamp="2024-07-15T08:04:30Z" changeset="153959555" uid="21425661" user="CjMalone">
+    <nd ref="5695516503"/>
+    <nd ref="5695516641"/>
+    <nd ref="5695516640"/>
+    <nd ref="5695516646"/>
+    <nd ref="5695516503"/>
+    <tag k="beauty" v="aesthetic;hair_removal"/>
+    <tag k="brand" v="Thérapie Clinic"/>
+    <tag k="brand:wikidata" v="Q123034602"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2024-07-06"/>
+    <tag k="name" v="Thérapie Clinic"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="598414044" version="2" timestamp="2018-06-17T22:32:43Z" changeset="59925084" uid="14846" user="ndm">
+    <nd ref="5695516512"/>
+    <nd ref="5695516510"/>
+    <nd ref="5695516511"/>
+    <nd ref="5697636052"/>
+    <nd ref="5697636053"/>
+    <nd ref="5697636054"/>
+    <nd ref="5697636055"/>
+    <nd ref="1599054539"/>
+    <nd ref="5695516512"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Lucy Walker Flowers"/>
+    <tag k="shop" v="florist"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="598414045" version="5" timestamp="2024-07-06T12:59:30Z" changeset="153622966" uid="545369" user="bigfatfrog67">
+    <nd ref="1599054526"/>
+    <nd ref="5695516506"/>
+    <nd ref="5695516488"/>
+    <nd ref="5695516513"/>
+    <nd ref="5695516514"/>
+    <nd ref="1599054487"/>
+    <nd ref="5695516489"/>
+    <nd ref="1599054526"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="Lloyds Bank"/>
+    <tag k="brand:wikidata" v="Q1152847"/>
+    <tag k="brand:wikipedia" v="en:Lloyds Bank"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:website" v="https://branches.lloydsbank.com/shipston-on-stour/25-high-street"/>
+    <tag k="name" v="Lloyds Bank"/>
+    <tag k="source" v="visual survey;bing"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q26638354"/>
+  </way>
+  <way id="598414046" version="4" timestamp="2024-07-06T13:06:10Z" changeset="153622966" uid="545369" user="bigfatfrog67">
+    <nd ref="5697636035"/>
+    <nd ref="1599188278"/>
+    <nd ref="5695516650"/>
+    <nd ref="1599188293"/>
+    <nd ref="5697636036"/>
+    <nd ref="5697636035"/>
+    <tag k="addr:housename" v="Granville Court Shops"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Campden Couture"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="598640281" version="5" timestamp="2024-07-06T13:00:17Z" changeset="153622966" uid="545369" user="bigfatfrog67">
+    <nd ref="1599054437"/>
+    <nd ref="5697498122"/>
+    <nd ref="5697498123"/>
+    <nd ref="1599054420"/>
+    <nd ref="5695516625"/>
+    <nd ref="5695516626"/>
+    <nd ref="5695516627"/>
+    <nd ref="1599054414"/>
+    <nd ref="1599054431"/>
+    <nd ref="5695516624"/>
+    <nd ref="5695516623"/>
+    <nd ref="1599054439"/>
+    <nd ref="5697498130"/>
+    <nd ref="1599054437"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="London House"/>
+    <tag k="shop" v="antiques"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q26480824"/>
+  </way>
+  <way id="598640282" version="6" timestamp="2024-12-27T15:16:14Z" changeset="160680668" uid="21226027" user="DorneyLake123">
+    <nd ref="5697498126"/>
+    <nd ref="5697498130"/>
+    <nd ref="1599054439"/>
+    <nd ref="5697498127"/>
+    <nd ref="5697498126"/>
+    <tag k="brand" v="Morrisons Daily"/>
+    <tag k="brand:wikidata" v="Q99752411"/>
+    <tag k="building" v="yes"/>
+    <tag k="fhrs:id" v="1688450"/>
+    <tag k="name" v="Morrisons Daily"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="bing"/>
+    <tag k="website" v="https://my.morrisons.com/storefinder/60443/morrisons-daily-shipston-on-stour-high-st"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="598640283" version="2" timestamp="2024-07-06T12:58:16Z" changeset="153622966" uid="545369" user="bigfatfrog67">
+    <nd ref="5697498128"/>
+    <nd ref="1599054537"/>
+    <nd ref="1599054535"/>
+    <nd ref="5697498129"/>
+    <nd ref="1599054484"/>
+    <nd ref="1599054494"/>
+    <nd ref="5697498128"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="The Air Ambulance Service"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="598640284" version="4" timestamp="2024-07-06T12:56:14Z" changeset="153622966" uid="545369" user="bigfatfrog67">
+    <nd ref="5697498127"/>
+    <nd ref="1599054475"/>
+    <nd ref="1599054484"/>
+    <nd ref="5697498129"/>
+    <nd ref="5697498126"/>
+    <nd ref="5697498127"/>
+    <tag k="building" v="yes"/>
+    <tag k="female" v="yes"/>
+    <tag k="name" v="L'Academie"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="598640286" version="2" timestamp="2023-01-04T17:44:09Z" changeset="130876597" uid="84263" user="Robert Whittaker">
+    <nd ref="5697498131"/>
+    <nd ref="1599054530"/>
+    <nd ref="5697498132"/>
+    <nd ref="1599054510"/>
+    <nd ref="5697498131"/>
+    <tag k="brand:wikidata" v="Q5288441"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Dogs Trust"/>
+    <tag k="shop" v="charity"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598640287" version="1" timestamp="2018-06-17T21:45:26Z" changeset="59924396" uid="14846" user="ndm">
+    <nd ref="5697498132"/>
+    <nd ref="1599054551"/>
+    <nd ref="1599054541"/>
+    <nd ref="5697498135"/>
+    <nd ref="1599054543"/>
+    <nd ref="1599054513"/>
+    <nd ref="5697498134"/>
+    <nd ref="1599054510"/>
+    <nd ref="5697498132"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Creature Comforts"/>
+    <tag k="shop" v="pet"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598640291" version="1" timestamp="2018-06-17T21:45:26Z" changeset="59924396" uid="14846" user="ndm">
+    <nd ref="5697498142"/>
+    <nd ref="5697498143"/>
+    <nd ref="1599054614"/>
+    <nd ref="1599054618"/>
+    <nd ref="1599054610"/>
+    <nd ref="1599054613"/>
+    <nd ref="1599054604"/>
+    <nd ref="5697498138"/>
+    <nd ref="5697498137"/>
+    <nd ref="5695516493"/>
+    <nd ref="5697498139"/>
+    <nd ref="5697498141"/>
+    <nd ref="5697498142"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="E.H. Spencer"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598640293" version="1" timestamp="2018-06-17T21:45:26Z" changeset="59924396" uid="14846" user="ndm">
+    <nd ref="1599054591"/>
+    <nd ref="1599054607"/>
+    <nd ref="1599054611"/>
+    <nd ref="1599054609"/>
+    <nd ref="1599054586"/>
+    <nd ref="1599054585"/>
+    <nd ref="1599054591"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Time In Hand"/>
+    <tag k="shop" v="clock"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598640294" version="1" timestamp="2018-06-17T21:45:26Z" changeset="59924396" uid="14846" user="ndm">
+    <nd ref="1599054602"/>
+    <nd ref="5697498150"/>
+    <nd ref="5697498151"/>
+    <nd ref="1599054561"/>
+    <nd ref="1599054568"/>
+    <nd ref="1599054563"/>
+    <nd ref="1599054588"/>
+    <nd ref="1599054602"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Head Hunters"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598646672" version="2" timestamp="2025-07-02T19:35:43Z" changeset="168414818" uid="23060867" user="TheCornerHouse">
+    <nd ref="5697636028"/>
+    <nd ref="2642267386"/>
+    <nd ref="2642267414"/>
+    <nd ref="2642267417"/>
+    <nd ref="5697636045"/>
+    <nd ref="5697636044"/>
+    <nd ref="5697636034"/>
+    <nd ref="5697636029"/>
+    <nd ref="2642267421"/>
+    <nd ref="2642267426"/>
+    <nd ref="5697636027"/>
+    <nd ref="5697636026"/>
+    <nd ref="5697636028"/>
+    <tag k="addr:city" v="Shipston-on-Stour"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="New Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="Warwicks Aerial Imagery OGLv2"/>
+  </way>
+  <way id="598646679" version="3" timestamp="2025-07-02T19:41:29Z" changeset="168415035" uid="23060867" user="TheCornerHouse">
+    <nd ref="5697636033"/>
+    <nd ref="2642267393"/>
+    <nd ref="2642267390"/>
+    <nd ref="5697636029"/>
+    <nd ref="5697636034"/>
+    <nd ref="5697636043"/>
+    <nd ref="5697636042"/>
+    <nd ref="2642267388"/>
+    <nd ref="5697636030"/>
+    <nd ref="5697636033"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="residential"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Casa Italian Restuarant"/>
+    <tag k="source" v="Warwicks Aerial Imagery OGLv2"/>
+  </way>
+  <way id="598646682" version="4" timestamp="2024-07-06T13:07:12Z" changeset="153623360" uid="545369" user="bigfatfrog67">
+    <nd ref="5697636036"/>
+    <nd ref="1599054348"/>
+    <nd ref="1599054351"/>
+    <nd ref="1599188274"/>
+    <nd ref="5697636035"/>
+    <nd ref="5697636036"/>
+    <tag k="addr:housename" v="Granville Court Shops"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="ArchiWildish"/>
+    <tag k="office" v="architect"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598646685" version="1" timestamp="2018-06-17T22:32:40Z" changeset="59925084" uid="14846" user="ndm">
+    <nd ref="1599054382"/>
+    <nd ref="5697636047"/>
+    <nd ref="1599054380"/>
+    <nd ref="1599054364"/>
+    <nd ref="1599054382"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598646686" version="3" timestamp="2024-07-06T13:02:00Z" changeset="153622966" uid="545369" user="bigfatfrog67">
+    <nd ref="5697636047"/>
+    <nd ref="1599054382"/>
+    <nd ref="5697636046"/>
+    <nd ref="1599054368"/>
+    <nd ref="5697636048"/>
+    <nd ref="5697636049"/>
+    <nd ref="1599054383"/>
+    <nd ref="5697636050"/>
+    <nd ref="5697636047"/>
+    <tag k="addr:city" v="Shipston-on-Stour"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CV36 4AB"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Post Office"/>
+    <tag k="brand:wikidata" v="Q1783168"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Shipton-on-Stour Post Office"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-22:00; Su 08:00-21:00"/>
+    <tag k="ref:pol_id" v="15239"/>
+    <tag k="source" v="bing"/>
+    <tag k="website" v="https://www.postoffice.co.uk/branch-finder/4542460/shipston-on-stour"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="598646687" version="2" timestamp="2024-07-06T13:00:48Z" changeset="153622966" uid="545369" user="bigfatfrog67">
+    <nd ref="1599054389"/>
+    <nd ref="1599054408"/>
+    <nd ref="1599054403"/>
+    <nd ref="1599054410"/>
+    <nd ref="1599054405"/>
+    <nd ref="1599054391"/>
+    <nd ref="1599054385"/>
+    <nd ref="1599054387"/>
+    <nd ref="1599054418"/>
+    <nd ref="5695516628"/>
+    <nd ref="5697498125"/>
+    <nd ref="5697498124"/>
+    <nd ref="5697498122"/>
+    <nd ref="1599054437"/>
+    <nd ref="5697636051"/>
+    <nd ref="1599054389"/>
+    <tag k="addr:housenumber" v="13-15"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Peter Clarke"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="598646689" version="1" timestamp="2018-06-17T22:32:40Z" changeset="59925084" uid="14846" user="ndm">
+    <nd ref="5697636058"/>
+    <nd ref="5695516491"/>
+    <nd ref="5695516494"/>
+    <nd ref="5697636057"/>
+    <nd ref="5697636058"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Turners of Shipston"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598646690" version="1" timestamp="2018-06-17T22:32:40Z" changeset="59925084" uid="14846" user="ndm">
+    <nd ref="5697636057"/>
+    <nd ref="5695516494"/>
+    <nd ref="5695516495"/>
+    <nd ref="5697636059"/>
+    <nd ref="5697636057"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="ivyheart"/>
+    <tag k="shop" v="gift"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="598646691" version="1" timestamp="2018-06-17T22:32:41Z" changeset="59925084" uid="14846" user="ndm">
+    <nd ref="5695516492"/>
+    <nd ref="5695516491"/>
+    <nd ref="5697636058"/>
+    <nd ref="5697636056"/>
+    <nd ref="5695516492"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Market Place"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="No 7 Market Place"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="646358623" version="3" timestamp="2022-09-28T16:42:17Z" changeset="126748398" uid="2969887" user="eastender">
+    <nd ref="6073212173"/>
+    <nd ref="6073212172"/>
+    <nd ref="6073212171"/>
+    <nd ref="6073212170"/>
+    <nd ref="6073212173"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="CV36 4EG"/>
+    <tag k="addr:street" v="Oldbutt Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="646359920" version="2" timestamp="2020-10-07T18:48:13Z" changeset="92128342" uid="11286310" user="Manateedriver">
+    <nd ref="6073220478"/>
+    <nd ref="6073220477"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hanson Avenue"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="646359921" version="2" timestamp="2020-10-07T18:48:14Z" changeset="92128342" uid="11286310" user="Manateedriver">
+    <nd ref="1609320155"/>
+    <nd ref="1609320263"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hanson Avenue"/>
+  </way>
+  <way id="653203855" version="2" timestamp="2021-09-20T08:59:00Z" changeset="111438963" uid="12637824" user="MrMapperBanbury">
+    <nd ref="1609319907"/>
+    <nd ref="1540773251"/>
+    <nd ref="1609492321"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Oxway Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="659862089" version="1" timestamp="2019-01-02T08:21:00Z" changeset="65951380" uid="9065" user="brianboru">
+    <nd ref="6178025477"/>
+    <nd ref="6178025476"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Costard Avenue"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="675686501" version="5" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6327730358"/>
+    <nd ref="6582592516"/>
+    <nd ref="6327730354"/>
+    <nd ref="6582592515"/>
+    <nd ref="6582592518"/>
+    <nd ref="9620414623"/>
+    <nd ref="6327730355"/>
+    <nd ref="9620405001"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Norgren Crescent"/>
+    <tag k="source" v="GPS survey"/>
+  </way>
+  <way id="675686502" version="3" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6327730357"/>
+    <nd ref="9620405014"/>
+    <nd ref="6582592513"/>
+    <nd ref="6582592517"/>
+    <nd ref="6327730354"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carr Close"/>
+    <tag k="source" v="GPS survey"/>
+  </way>
+  <way id="675686503" version="3" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6327730359"/>
+    <nd ref="6582592510"/>
+    <nd ref="9620404978"/>
+    <nd ref="6582592511"/>
+    <nd ref="9620404977"/>
+    <nd ref="6327730358"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Norgren Crescent"/>
+    <tag k="source" v="GPS survey"/>
+  </way>
+  <way id="675686504" version="3" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6327730359"/>
+    <nd ref="9620404982"/>
+    <nd ref="8563862937"/>
+    <nd ref="8563862934"/>
+    <nd ref="6327730360"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Symons Way"/>
+    <tag k="source" v="GPS survey"/>
+  </way>
+  <way id="675686505" version="4" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="1538285707"/>
+    <nd ref="6817230344"/>
+    <nd ref="6817230345"/>
+    <nd ref="9620414719"/>
+    <nd ref="6582590981"/>
+    <nd ref="6327730361"/>
+    <nd ref="6327730362"/>
+    <nd ref="6327730363"/>
+    <nd ref="6327730364"/>
+    <nd ref="6327730365"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Webb Road"/>
+  </way>
+  <way id="682461631" version="1" timestamp="2019-04-08T15:14:30Z" changeset="69011214" uid="9065" user="brianboru">
+    <nd ref="1609335331"/>
+    <nd ref="1753725075"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="682468292" version="1" timestamp="2019-04-08T15:44:45Z" changeset="69012206" uid="9065" user="brianboru">
+    <nd ref="1609335354"/>
+    <nd ref="1609335309"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="682469298" version="1" timestamp="2019-04-08T15:49:10Z" changeset="69012363" uid="9065" user="brianboru">
+    <nd ref="1609414083"/>
+    <nd ref="1609414155"/>
+    <nd ref="1609414143"/>
+    <nd ref="1609414178"/>
+    <nd ref="1609414252"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bosley Close"/>
+  </way>
+  <way id="700937844" version="6" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6582590978"/>
+    <nd ref="6817230348"/>
+    <nd ref="9620414702"/>
+    <nd ref="6582590973"/>
+    <nd ref="8563869888"/>
+    <nd ref="6817230352"/>
+    <nd ref="6582590972"/>
+    <nd ref="6582590971"/>
+    <nd ref="6327730363"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Webb Road"/>
+    <tag k="source" v="Maxar Imagery"/>
+  </way>
+  <way id="700937845" version="4" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6582590976"/>
+    <nd ref="6582590975"/>
+    <nd ref="9620414707"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Maxar-Premium"/>
+  </way>
+  <way id="700937847" version="3" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6582590983"/>
+    <nd ref="8556120828"/>
+    <nd ref="9620414734"/>
+    <nd ref="6582590982"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bailey Road"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="700937848" version="6" timestamp="2023-12-31T19:14:16Z" changeset="145744515" uid="19354165" user="DracFury">
+    <nd ref="1538285752"/>
+    <nd ref="9620414736"/>
+    <nd ref="6817230343"/>
+    <nd ref="11473838357"/>
+    <nd ref="6582572041"/>
+    <nd ref="6582572040"/>
+    <nd ref="6582572039"/>
+    <nd ref="9620414735"/>
+    <nd ref="9620414727"/>
+    <nd ref="6582572038"/>
+    <nd ref="6582592187"/>
+    <nd ref="6582592186"/>
+    <nd ref="9620414724"/>
+    <nd ref="6582590983"/>
+    <nd ref="6582592185"/>
+    <nd ref="6582590984"/>
+    <nd ref="9620414731"/>
+    <nd ref="10235524223"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bailey Road"/>
+    <tag k="source" v="Maxar Imagery"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="700937905" version="1" timestamp="2019-07-01T20:21:05Z" changeset="71798639" uid="9065" user="brianboru">
+    <nd ref="6582592504"/>
+    <nd ref="6327730360"/>
+    <nd ref="6582592503"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Symons Way"/>
+    <tag k="source" v="Maxar Imagery"/>
+  </way>
+  <way id="700937906" version="3" timestamp="2021-03-26T12:27:50Z" changeset="101791636" uid="9065" user="brianboru">
+    <nd ref="6582592505"/>
+    <nd ref="8563958994"/>
+    <nd ref="7962724171"/>
+    <nd ref="8563958992"/>
+    <nd ref="6327730356"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Maxar Imagery"/>
+  </way>
+  <way id="700937907" version="6" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6327730359"/>
+    <nd ref="8563958995"/>
+    <nd ref="6582592509"/>
+    <nd ref="6582592508"/>
+    <nd ref="8563862933"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Norgren Crescent"/>
+    <tag k="source" v="Maxar Imagery"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="727446872" version="5" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6817230342"/>
+    <nd ref="9620414717"/>
+    <nd ref="6817230347"/>
+    <nd ref="6817230350"/>
+    <nd ref="8563852811"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bland Grove"/>
+    <tag k="source" v="Maxar-Premium"/>
+    <tag k="source:name" v="OS_OpenData_LocalMap2021"/>
+  </way>
+  <way id="836269823" version="6" timestamp="2023-12-28T23:54:40Z" changeset="145641001" uid="19354165" user="DracFury">
+    <nd ref="7805355844"/>
+    <nd ref="7805355847"/>
+    <nd ref="7805355848"/>
+    <nd ref="7805355849"/>
+    <nd ref="7805355850"/>
+    <nd ref="7805355851"/>
+    <nd ref="7805355852"/>
+    <nd ref="7805355853"/>
+    <nd ref="7805355854"/>
+    <nd ref="7805355855"/>
+    <nd ref="7805355857"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bradley Drive"/>
+    <tag k="source" v="Maxar Imagery"/>
+    <tag k="source:name" v="OS_OpenData_LocalMap2021"/>
+  </way>
+  <way id="841362543" version="1" timestamp="2020-08-27T14:23:31Z" changeset="90032550" uid="9065" user="brianboru">
+    <nd ref="6477155579"/>
+    <nd ref="6477155580"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="841887936" version="1" timestamp="2020-08-28T16:10:32Z" changeset="90090727" uid="9065" user="brianboru">
+    <nd ref="7854419924"/>
+    <nd ref="7854419923"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Driftway"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="841887938" version="2" timestamp="2020-11-15T15:47:48Z" changeset="94152753" uid="11286310" user="Manateedriver">
+    <nd ref="7854419930"/>
+    <nd ref="1514516930"/>
+    <nd ref="7854419929"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Torigni Avenue"/>
+    <tag k="source" v="bing"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="841887956" version="3" timestamp="2023-07-27T17:48:38Z" changeset="139099862" uid="242345" user="confusedbuffalo">
+    <nd ref="7854456820"/>
+    <nd ref="7854456819"/>
+    <nd ref="7854456818"/>
+    <nd ref="7854460422"/>
+    <nd ref="7854460421"/>
+    <nd ref="7854460420"/>
+    <nd ref="7854460419"/>
+    <nd ref="7854460418"/>
+    <nd ref="7854456820"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Railway Cresent"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="845385373" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="7887226333"/>
+    <nd ref="10235532089"/>
+    <nd ref="7887226334"/>
+    <nd ref="7887226335"/>
+    <nd ref="7887226336"/>
+    <nd ref="7887226337"/>
+    <nd ref="7887226338"/>
+    <nd ref="7887226339"/>
+    <nd ref="7887226340"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lomas Lane"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="845385374" version="3" timestamp="2024-01-07T13:50:03Z" changeset="145991921" uid="20775344" user="Pete A Cox">
+    <nd ref="7887226327"/>
+    <nd ref="7887226328"/>
+    <nd ref="7887226329"/>
+    <nd ref="7887226330"/>
+    <nd ref="7887226331"/>
+    <nd ref="11497175368"/>
+    <nd ref="7887226332"/>
+    <nd ref="7887226349"/>
+    <nd ref="10235532088"/>
+    <nd ref="7887226333"/>
+    <nd ref="10235532090"/>
+    <nd ref="10235532099"/>
+    <nd ref="7887226344"/>
+    <nd ref="7887226345"/>
+    <nd ref="7887226346"/>
+    <nd ref="10235532075"/>
+    <nd ref="7887226347"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brewer Hill"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="845385375" version="4" timestamp="2023-12-28T12:32:43Z" changeset="145617491" uid="20775344" user="Pete A Cox">
+    <nd ref="7887226349"/>
+    <nd ref="7887226350"/>
+    <nd ref="7887226351"/>
+    <nd ref="7887226352"/>
+    <nd ref="7887226353"/>
+    <nd ref="7887226354"/>
+    <nd ref="10235532069"/>
+    <nd ref="7887226355"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Sutton End"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="845385376" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="7887226335"/>
+    <nd ref="7887226356"/>
+    <nd ref="7887226357"/>
+    <nd ref="7887226358"/>
+    <nd ref="7887226359"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carter Close"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="849710995" version="1" timestamp="2020-09-21T08:32:40Z" changeset="91212992" uid="10126622" user="hvannere">
+    <nd ref="7927571603"/>
+    <nd ref="7927571604"/>
+    <nd ref="7927571605"/>
+    <nd ref="7927571606"/>
+    <nd ref="7927571607"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="849710996" version="1" timestamp="2020-09-21T08:32:40Z" changeset="91212992" uid="10126622" user="hvannere">
+    <nd ref="7927571608"/>
+    <nd ref="7927571609"/>
+    <nd ref="7927571611"/>
+    <nd ref="7927571612"/>
+    <nd ref="7927571613"/>
+    <nd ref="7927571614"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="921589192" version="2" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="8556120830"/>
+    <nd ref="6582590982"/>
+    <nd ref="8556120829"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bailey Road"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="922253713" version="4" timestamp="2024-04-19T00:47:22Z" changeset="150198754" uid="19354165" user="DracFury">
+    <nd ref="8561766499"/>
+    <nd ref="9620414652"/>
+    <nd ref="9620414651"/>
+    <nd ref="11829398054"/>
+    <nd ref="9620414650"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Maxar Imagery;bing"/>
+  </way>
+  <way id="922253714" version="3" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="8561766502"/>
+    <nd ref="8561766503"/>
+    <nd ref="8561766504"/>
+    <nd ref="9620414656"/>
+    <nd ref="8561766505"/>
+    <nd ref="9620414657"/>
+    <nd ref="8561766506"/>
+    <nd ref="9235961554"/>
+    <nd ref="8561766507"/>
+    <nd ref="9235961526"/>
+    <nd ref="8561766508"/>
+    <nd ref="9620414640"/>
+    <nd ref="8561766509"/>
+    <nd ref="7805355868"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Barrett Place"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="922253715" version="4" timestamp="2023-12-28T23:54:40Z" changeset="145641001" uid="19354165" user="DracFury">
+    <nd ref="9620414691"/>
+    <nd ref="11464371069"/>
+    <nd ref="11464348368"/>
+    <nd ref="7805355857"/>
+    <nd ref="7805355859"/>
+    <nd ref="7805355860"/>
+    <nd ref="7805355861"/>
+    <nd ref="7805355862"/>
+    <nd ref="7805355863"/>
+    <nd ref="7805355865"/>
+    <nd ref="7805355867"/>
+    <nd ref="9620414685"/>
+    <nd ref="7805355868"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nason Way"/>
+    <tag k="source" v="Maxar Imagery;OS_OpenMap_Local"/>
+    <tag k="source:name" v="OS_OpenData_LocalMap2021"/>
+  </way>
+  <way id="922472072" version="1" timestamp="2021-03-26T11:42:01Z" changeset="101788678" uid="9065" user="brianboru">
+    <nd ref="8563852811"/>
+    <nd ref="8563852810"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Webb Road"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="922472083" version="2" timestamp="2021-11-08T17:10:33Z" changeset="113530904" uid="9065" user="brianboru">
+    <nd ref="8563869888"/>
+    <nd ref="8563869887"/>
+    <nd ref="8563869886"/>
+    <nd ref="8563869885"/>
+    <nd ref="8563869884"/>
+    <nd ref="8563869883"/>
+    <nd ref="8563869882"/>
+    <nd ref="8563869881"/>
+    <nd ref="8563869865"/>
+    <nd ref="8563869880"/>
+    <nd ref="8563869879"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Joy Drive"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_OpenData_LocalMap2021"/>
+  </way>
+  <way id="922472092" version="5" timestamp="2023-12-28T23:54:40Z" changeset="145641001" uid="19354165" user="DracFury">
+    <nd ref="7805355844"/>
+    <nd ref="8563868956"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bradley Drive"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="922481726" version="1" timestamp="2021-03-26T12:11:44Z" changeset="101790618" uid="9065" user="brianboru">
+    <nd ref="1602322531"/>
+    <nd ref="8563937615"/>
+    <nd ref="8563937616"/>
+    <nd ref="1602322537"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hawthorn Way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="922481727" version="1" timestamp="2021-03-26T12:11:44Z" changeset="101790618" uid="9065" user="brianboru">
+    <nd ref="1602322537"/>
+    <nd ref="8563937614"/>
+    <nd ref="8563937613"/>
+    <nd ref="8563937612"/>
+    <nd ref="1602322531"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hawthorn Way"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="922481729" version="2" timestamp="2023-12-28T12:55:49Z" changeset="145618526" uid="20775344" user="Pete A Cox">
+    <nd ref="8563946834"/>
+    <nd ref="8563946833"/>
+    <nd ref="8563946832"/>
+    <nd ref="8563946831"/>
+    <nd ref="8563946830"/>
+    <nd ref="8563946829"/>
+    <nd ref="8563946828"/>
+    <nd ref="8563946827"/>
+    <nd ref="8563946826"/>
+    <nd ref="8563946825"/>
+    <nd ref="8563946824"/>
+    <nd ref="8563946823"/>
+    <nd ref="8563946834"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="0"/>
+    <tag k="name" v="Cemetery Chapels x2"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="985085804" version="1" timestamp="2021-09-20T08:59:00Z" changeset="111438963" uid="12637824" user="MrMapperBanbury">
+    <nd ref="9107299306"/>
+    <nd ref="9107299307"/>
+    <nd ref="9107299308"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Signal Road"/>
+  </way>
+  <way id="1000584414" version="1" timestamp="2021-11-08T17:10:33Z" changeset="113530904" uid="9065" user="brianboru">
+    <nd ref="8563852811"/>
+    <nd ref="6327730365"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Maxar-Premium"/>
+  </way>
+  <way id="1000584415" version="2" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="8563869879"/>
+    <nd ref="8563869878"/>
+    <nd ref="8563869877"/>
+    <nd ref="9620414723"/>
+    <nd ref="6817230342"/>
+    <nd ref="8563869873"/>
+    <nd ref="8563869876"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bland Grove"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_OpenData_LocalMap2021"/>
+  </way>
+  <way id="1000584417" version="2" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6582590978"/>
+    <nd ref="6817230341"/>
+    <nd ref="6582590976"/>
+    <nd ref="6582590977"/>
+    <nd ref="9620414716"/>
+    <nd ref="9620414715"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Webb Road"/>
+    <tag k="source" v="Maxar Imagery"/>
+  </way>
+  <way id="1000585824" version="3" timestamp="2023-08-15T00:49:31Z" changeset="139893391" uid="19354165" user="DracFury">
+    <nd ref="7805355850"/>
+    <nd ref="9620414690"/>
+    <nd ref="9235961527"/>
+    <nd ref="9620414686"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1000585828" version="2" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="9235961537"/>
+    <nd ref="9235961536"/>
+    <tag k="fixme" v="check name - part of Coe Avenue or Barrett Place?"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1000585829" version="2" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="9235961538"/>
+    <nd ref="9235961540"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Coe Avenue"/>
+    <tag k="source" v="maxar"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="1000585830" version="3" timestamp="2023-08-15T00:49:31Z" changeset="139893391" uid="19354165" user="DracFury">
+    <nd ref="9235961541"/>
+    <nd ref="11115358315"/>
+    <nd ref="9235961537"/>
+    <nd ref="9620414682"/>
+    <nd ref="9620414681"/>
+    <nd ref="9235961540"/>
+    <nd ref="9235961539"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Coe Avenue"/>
+    <tag k="source" v="maxar"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="1000585831" version="2" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="9620414674"/>
+    <nd ref="9235961542"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Barrett Place"/>
+    <tag k="source" v="maxar"/>
+    <tag k="source:name" v="OS_OpenData_LocalMap2021"/>
+  </way>
+  <way id="1000585832" version="3" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="7805355868"/>
+    <nd ref="9235961550"/>
+    <nd ref="9235961549"/>
+    <nd ref="9235961536"/>
+    <nd ref="9235961547"/>
+    <nd ref="9620414670"/>
+    <nd ref="9235961546"/>
+    <nd ref="9620414683"/>
+    <nd ref="9620414684"/>
+    <nd ref="9235961542"/>
+    <nd ref="9620414673"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Barrett Place"/>
+    <tag k="source" v="maxar"/>
+    <tag k="source:name" v="OS_OpenData_LocalMap2021"/>
+  </way>
+  <way id="1046113513" version="1" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="9620404973"/>
+    <nd ref="8563862933"/>
+    <nd ref="6582592507"/>
+    <nd ref="6582592505"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Norgren Crescent"/>
+    <tag k="source" v="Maxar Imagery"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1046113516" version="1" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6327730353"/>
+    <nd ref="9620405005"/>
+    <nd ref="6582592526"/>
+    <nd ref="9620405010"/>
+    <nd ref="6582592512"/>
+    <nd ref="6327730358"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Norgren Crescent"/>
+    <tag k="source" v="GPS survey"/>
+  </way>
+  <way id="1046113518" version="1" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="9620404983"/>
+    <nd ref="9620404988"/>
+    <nd ref="9620404987"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Atcheson Close"/>
+    <tag k="source" v="Maxar Imagery"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1046113520" version="1" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6582592505"/>
+    <nd ref="9620404989"/>
+    <nd ref="6582592506"/>
+    <nd ref="9620404988"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Atcheson Close"/>
+    <tag k="source" v="Maxar Imagery"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1046113522" version="1" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6327730355"/>
+    <nd ref="6582591343"/>
+    <nd ref="9620414624"/>
+    <nd ref="6327730356"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Norgren Crescent"/>
+    <tag k="source" v="GPS survey"/>
+  </way>
+  <way id="1046113528" version="1" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="9620414622"/>
+    <nd ref="6327730357"/>
+    <nd ref="9620414621"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carr Close"/>
+    <tag k="source" v="GPS survey"/>
+  </way>
+  <way id="1046113529" version="3" timestamp="2023-08-15T00:49:31Z" changeset="139893391" uid="19354165" user="DracFury">
+    <nd ref="9620414628"/>
+    <nd ref="11115358305"/>
+    <nd ref="9620414627"/>
+    <nd ref="8561766503"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1046113530" version="2" timestamp="2023-08-15T00:39:00Z" changeset="139893248" uid="19354165" user="DracFury">
+    <nd ref="9620414636"/>
+    <nd ref="11115238776"/>
+    <nd ref="9620414635"/>
+    <nd ref="9620414634"/>
+    <nd ref="9620414633"/>
+    <nd ref="9620414632"/>
+    <nd ref="9620414631"/>
+    <nd ref="9620414630"/>
+    <nd ref="9620414629"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1046113531" version="3" timestamp="2023-12-28T23:54:40Z" changeset="145641001" uid="19354165" user="DracFury">
+    <nd ref="9620414639"/>
+    <nd ref="11464371111"/>
+    <nd ref="11464371112"/>
+    <nd ref="11464371113"/>
+    <nd ref="9235961541"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1046113533" version="1" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="8561766506"/>
+    <nd ref="9620414641"/>
+    <nd ref="9620414658"/>
+    <nd ref="8561766499"/>
+    <nd ref="9620414629"/>
+    <nd ref="9620414649"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nichols Court"/>
+    <tag k="source" v="bing;OS_OpenMap_Local"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="1046113534" version="3" timestamp="2024-04-19T00:47:22Z" changeset="150198754" uid="19354165" user="DracFury">
+    <nd ref="9620414649"/>
+    <nd ref="9620414648"/>
+    <nd ref="11829398055"/>
+    <nd ref="9620414647"/>
+    <nd ref="9620414646"/>
+    <nd ref="9620414644"/>
+    <nd ref="9620414643"/>
+    <nd ref="11829398053"/>
+    <nd ref="9620414642"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Maxar Imagery"/>
+  </way>
+  <way id="1046113535" version="3" timestamp="2023-12-28T23:54:40Z" changeset="145641001" uid="19354165" user="DracFury">
+    <nd ref="8561766502"/>
+    <nd ref="8561766501"/>
+    <nd ref="9620414655"/>
+    <nd ref="11464371106"/>
+    <nd ref="9620414654"/>
+    <nd ref="8561766500"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="1046113537" version="2" timestamp="2023-08-15T00:23:32Z" changeset="139893044" uid="19354165" user="DracFury">
+    <nd ref="9620414665"/>
+    <nd ref="9620414664"/>
+    <nd ref="9620414663"/>
+    <nd ref="9620414662"/>
+    <nd ref="9620414661"/>
+    <nd ref="7805355841"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1046113541" version="2" timestamp="2023-08-15T00:49:31Z" changeset="139893391" uid="19354165" user="DracFury">
+    <nd ref="9620414675"/>
+    <nd ref="9235961539"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1046113542" version="2" timestamp="2023-08-15T00:49:31Z" changeset="139893391" uid="19354165" user="DracFury">
+    <nd ref="9620414676"/>
+    <nd ref="9235961538"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1046113543" version="2" timestamp="2023-08-15T00:49:31Z" changeset="139893391" uid="19354165" user="DracFury">
+    <nd ref="9620414680"/>
+    <nd ref="9620414679"/>
+    <nd ref="9620414678"/>
+    <nd ref="9620414677"/>
+    <nd ref="9235961537"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1046113544" version="2" timestamp="2023-08-15T00:49:31Z" changeset="139893391" uid="19354165" user="DracFury">
+    <nd ref="9620414687"/>
+    <nd ref="9620414688"/>
+    <nd ref="9235961526"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1046113546" version="3" timestamp="2023-12-28T23:54:40Z" changeset="145641001" uid="19354165" user="DracFury">
+    <nd ref="7805355841"/>
+    <nd ref="7805355842"/>
+    <nd ref="7805355843"/>
+    <nd ref="7805355844"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bradley Drive"/>
+    <tag k="source" v="Maxar Imagery"/>
+  </way>
+  <way id="1046113547" version="2" timestamp="2023-08-15T00:53:42Z" changeset="139893436" uid="19354165" user="DracFury">
+    <nd ref="9620414694"/>
+    <nd ref="9620414726"/>
+    <nd ref="9620414693"/>
+    <nd ref="9620414692"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1046113552" version="1" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="6582590975"/>
+    <nd ref="9620414708"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Maxar-Premium"/>
+  </way>
+  <way id="1046113555" version="1" timestamp="2022-03-29T09:02:56Z" changeset="119058360" uid="705850" user="Cebderby">
+    <nd ref="9620414713"/>
+    <nd ref="9620414715"/>
+    <nd ref="9620414714"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Webb Road"/>
+    <tag k="source" v="Maxar Imagery"/>
+  </way>
+  <way id="1046113556" version="2" timestamp="2023-12-31T19:14:16Z" changeset="145744515" uid="19354165" user="DracFury">
+    <nd ref="9620414718"/>
+    <nd ref="11150381735"/>
+    <nd ref="6582590978"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Webb Road"/>
+    <tag k="source" v="Maxar Imagery"/>
+  </way>
+  <way id="1046113558" version="2" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="9620414726"/>
+    <nd ref="9620414725"/>
+    <nd ref="9620414724"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rowett Drive"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="1091630848" version="5" timestamp="2024-04-24T20:36:22Z" changeset="150466615" uid="20775344" user="Pete A Cox">
+    <nd ref="643627591"/>
+    <nd ref="10235532057"/>
+    <nd ref="7887226347"/>
+    <nd ref="323216"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1119159335" version="1" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1609246974"/>
+    <nd ref="10235524210"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Farm Close"/>
+  </way>
+  <way id="1119159338" version="2" timestamp="2024-03-08T16:17:29Z" changeset="148391456" uid="21176455" user="GlibTidings">
+    <nd ref="6582590984"/>
+    <nd ref="10235524224"/>
+    <nd ref="11704491715"/>
+    <nd ref="11704491714"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Hibberd Road"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1119159345" version="1" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="10235531947"/>
+    <nd ref="10235531946"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Parsons Close"/>
+  </way>
+  <way id="1119159346" version="1" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1602334204"/>
+    <nd ref="10235531949"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Banister Way"/>
+  </way>
+  <way id="1119159350" version="1" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="1602326695"/>
+    <nd ref="1602326692"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="1119159357" version="1" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="10235531994"/>
+    <nd ref="10235531993"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Greenfields Close"/>
+  </way>
+  <way id="1119159372" version="1" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="10235532057"/>
+    <nd ref="10235532058"/>
+    <nd ref="10235532059"/>
+    <nd ref="10235532060"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Haddon Fields"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="1119159373" version="3" timestamp="2023-12-29T09:09:43Z" changeset="145651476" uid="20775344" user="Pete A Cox">
+    <nd ref="10235532060"/>
+    <nd ref="10235532061"/>
+    <nd ref="10235532062"/>
+    <nd ref="10235532063"/>
+    <nd ref="10235532064"/>
+    <nd ref="10235532065"/>
+    <nd ref="10235532067"/>
+    <nd ref="10235532066"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Haddon Fields"/>
+  </way>
+  <way id="1119159374" version="2" timestamp="2023-12-29T09:09:43Z" changeset="145651476" uid="20775344" user="Pete A Cox">
+    <nd ref="10235532068"/>
+    <nd ref="10235532067"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1119159380" version="2" timestamp="2023-12-29T09:10:29Z" changeset="145651511" uid="20775344" user="Pete A Cox">
+    <nd ref="10235532086"/>
+    <nd ref="10235532085"/>
+    <nd ref="10235532084"/>
+    <nd ref="10235532087"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1119159381" version="1" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="10235532087"/>
+    <nd ref="7887226340"/>
+    <nd ref="7887226341"/>
+    <nd ref="7887226342"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lomas Lane"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="1119159383" version="1" timestamp="2022-12-03T12:42:34Z" changeset="129674959" uid="705850" user="Cebderby">
+    <nd ref="10235532101"/>
+    <nd ref="7887226327"/>
+    <nd ref="10235532100"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brewer Hill"/>
+    <tag k="source:name" v="OS_OpenMap_Local"/>
+  </way>
+  <way id="1198159211" version="2" timestamp="2023-12-28T23:54:40Z" changeset="145641001" uid="19354165" user="DracFury">
+    <nd ref="7805355863"/>
+    <nd ref="11115281044"/>
+    <nd ref="11115281043"/>
+    <nd ref="11115281042"/>
+    <nd ref="11115281026"/>
+    <nd ref="11115281033"/>
+    <nd ref="11115281027"/>
+    <nd ref="11115281045"/>
+    <nd ref="11115281040"/>
+    <nd ref="11115281041"/>
+    <nd ref="11115281037"/>
+    <nd ref="11115281036"/>
+    <nd ref="11115281028"/>
+    <nd ref="11115281035"/>
+    <nd ref="11115281032"/>
+    <nd ref="11115281034"/>
+    <nd ref="11115281030"/>
+    <nd ref="11115281031"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Hands Place"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1198159212" version="1" timestamp="2023-08-15T00:22:19Z" changeset="139893027" uid="19354165" user="DracFury">
+    <nd ref="11115281031"/>
+    <nd ref="11115281038"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1198159213" version="1" timestamp="2023-08-15T00:22:19Z" changeset="139893027" uid="19354165" user="DracFury">
+    <nd ref="11115281031"/>
+    <nd ref="11115281039"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1202020014" version="2" timestamp="2023-08-25T14:40:41Z" changeset="140374874" uid="5589" user="user_5589">
+    <nd ref="1498906930"/>
+    <nd ref="1601328052"/>
+    <nd ref="1601328054"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="bing"/>
+    <tag k="source:name" v="OS_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1202020189" version="2" timestamp="2023-08-25T14:41:41Z" changeset="140376028" uid="5589" user="user_5589">
+    <nd ref="11144085909"/>
+    <nd ref="28324115"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cherry Orchard"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1235069368" version="2" timestamp="2024-06-16T13:46:48Z" changeset="152761442" uid="19354165" user="DracFury">
+    <nd ref="8563868956"/>
+    <nd ref="11464371101"/>
+    <nd ref="11464371102"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1235069369" version="1" timestamp="2023-12-28T23:54:40Z" changeset="145641001" uid="19354165" user="DracFury">
+    <nd ref="8561766500"/>
+    <nd ref="11464371105"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1235069370" version="1" timestamp="2023-12-28T23:54:40Z" changeset="145641001" uid="19354165" user="DracFury">
+    <nd ref="8561766500"/>
+    <nd ref="11464371107"/>
+    <nd ref="11464371108"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1273962827" version="1" timestamp="2024-04-19T00:47:22Z" changeset="150198754" uid="19354165" user="DracFury">
+    <nd ref="11829398055"/>
+    <nd ref="11829398056"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1281255795" version="1" timestamp="2024-05-09T19:25:27Z" changeset="151116529" uid="19354165" user="DracFury">
+    <nd ref="11115281027"/>
+    <nd ref="11892076241"/>
+    <nd ref="11892076240"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hands Place"/>
+    <tag k="oneway" v="alternating"/>
+    <tag k="service" v="driveway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1323279279" version="1" timestamp="2024-10-11T21:35:41Z" changeset="157774183" uid="19970540" user="SakiWolf">
+    <nd ref="13797226"/>
+    <nd ref="1609414127"/>
+    <nd ref="1609320862"/>
+    <nd ref="1609320006"/>
+    <nd ref="1609320419"/>
+    <nd ref="1609319907"/>
+    <nd ref="1609319960"/>
+    <nd ref="1609247164"/>
+    <nd ref="1609246946"/>
+    <nd ref="1540773236"/>
+    <nd ref="1609246796"/>
+    <nd ref="10235524215"/>
+    <nd ref="1609246943"/>
+    <nd ref="1609246787"/>
+    <nd ref="1609246789"/>
+    <nd ref="5896478312"/>
+    <nd ref="1609247000"/>
+    <nd ref="1609320223"/>
+    <nd ref="12244978130"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Darlingscote Road"/>
+  </way>
+  <way id="1348041572" version="2" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="12469386975"/>
+    <nd ref="13164786429"/>
+    <nd ref="323195"/>
+    <nd ref="1498906998"/>
+    <nd ref="28324556"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Stratford Road"/>
+    <tag k="ref" v="A3400"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:name" v="dictacam"/>
+    <tag k="source_ref:name" v="80n:dsc10352.mpg"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1387023491" version="1" timestamp="2025-05-15T14:39:14Z" changeset="166308603" uid="20775344" user="Pete A Cox">
+    <nd ref="2456550003"/>
+    <nd ref="12840157833"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="1388733671" version="1" timestamp="2025-05-22T09:41:02Z" changeset="166603632" uid="20775344" user="Pete A Cox">
+    <nd ref="12855099617"/>
+    <nd ref="12855099618"/>
+    <nd ref="12855099619"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1388733672" version="1" timestamp="2025-05-22T09:41:02Z" changeset="166603632" uid="20775344" user="Pete A Cox">
+    <nd ref="12855099619"/>
+    <nd ref="12855099620"/>
+    <nd ref="12855099621"/>
+    <nd ref="12855099622"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hospital car park entrance/exit"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1419616155" version="1" timestamp="2025-08-03T11:21:46Z" changeset="169899541" uid="20775344" user="Pete A Cox">
+    <nd ref="13045411054"/>
+    <nd ref="13045411055"/>
+    <nd ref="13045411056"/>
+    <nd ref="13045411057"/>
+    <nd ref="13045411054"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="name" v="Ellen Badger Hospital"/>
+  </way>
+  <way id="1432239107" version="1" timestamp="2025-09-23T09:02:51Z" changeset="172332352" uid="346601" user="Russ McD">
+    <nd ref="1601287388"/>
+    <nd ref="1601287372"/>
+    <nd ref="1601287370"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Darlingscote Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <relation id="9084068" version="3" timestamp="2025-04-11T13:59:02Z" changeset="164817854" uid="84263" user="Robert Whittaker">
+    <member type="way" ref="653207122" role="inner"/>
+    <member type="way" ref="484275821" role="outer"/>
+    <tag k="addr:city" v="Shipston-on-Stour"/>
+    <tag k="addr:postcode" v="CV36 4BQ"/>
+    <tag k="addr:street" v="Badgers Crescent"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="name" v="Shipston on Stour Medical Centre"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="website" v="https://www.shipstonmc.warwickshire.nhs.uk/"/>
+  </relation>
+
+</osm>

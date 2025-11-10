@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:07:00Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="15831051" lat="52.3307776" lon="-1.5608404" version="10" timestamp="2023-02-22T22:49:28Z" changeset="132902486" uid="5589" user="user_5589"/>
+  <node id="15831070" lat="52.3280263" lon="-1.5654521" version="11" timestamp="2022-11-18T14:54:59Z" changeset="129090491" uid="705850" user="Cebderby">
+    <tag k="exit_to" v="Leamington A452"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Thickthorn Roundabout"/>
+  </node>
+  <node id="27477095" lat="52.3201282" lon="-1.5305242" version="4" timestamp="2019-03-29T20:19:22Z" changeset="68678303" uid="9065" user="brianboru"/>
+  <node id="102982569" lat="52.3311765" lon="-1.5636257" version="8" timestamp="2023-02-22T22:49:28Z" changeset="132902486" uid="5589" user="user_5589"/>
+  <node id="102983157" lat="52.3320389" lon="-1.5644064" version="10" timestamp="2023-02-21T18:00:25Z" changeset="132847237" uid="5589" user="user_5589"/>
+  <node id="299783090" lat="52.3299907" lon="-1.5609703" version="3" timestamp="2023-02-22T22:56:40Z" changeset="132902627" uid="5589" user="user_5589"/>
+  <node id="330143662" lat="52.3272839" lon="-1.5587239" version="31" timestamp="2023-06-27T00:06:47Z" changeset="137812152" uid="5589" user="user_5589">
+    <tag k="crossing:markings" v="no"/>
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="538116200" lat="52.3480274" lon="-1.5405992" version="2" timestamp="2012-05-01T21:06:03Z" changeset="11474479" uid="12667" user="Curran1980"/>
+  <node id="560638065" lat="52.3343626" lon="-1.5577636" version="7" timestamp="2022-11-18T14:54:59Z" changeset="129090491" uid="705850" user="Cebderby">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Thickthorn Roundabout"/>
+  </node>
+  <node id="1269808831" lat="52.3202249" lon="-1.5301215" version="2" timestamp="2019-03-29T20:19:23Z" changeset="68678303" uid="9065" user="brianboru"/>
+  <node id="1837905231" lat="52.3319066" lon="-1.5622739" version="2" timestamp="2023-02-22T22:49:28Z" changeset="132902486" uid="5589" user="user_5589">
+    <tag k="direction" v="forward"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="traffic_sign" v="maxspeed"/>
+  </node>
+  <node id="2418905805" lat="52.3378486" lon="-1.5183839" version="2" timestamp="2015-07-24T14:44:33Z" changeset="32851476" uid="154484" user="PeterP"/>
+  <node id="9911498374" lat="52.3484130" lon="-1.5324136" version="2" timestamp="2024-11-18T21:13:39Z" changeset="159301064" uid="11496552" user="PhilBike24"/>
+  <way id="8003583" version="23" timestamp="2024-05-28T16:55:43Z" changeset="151954728" uid="624500" user="stingly">
+    <nd ref="15831051"/>
+    <nd ref="1837905366"/>
+    <nd ref="1837905272"/>
+    <nd ref="27476913"/>
+    <nd ref="10687109180"/>
+    <nd ref="2187303088"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="approach"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8284485" version="23" timestamp="2025-04-15T13:21:29Z" changeset="164984895" uid="384887" user="robw">
+    <nd ref="15831048"/>
+    <nd ref="10687096081"/>
+    <nd ref="849557504"/>
+    <nd ref="1837905231"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8284486" version="28" timestamp="2025-04-15T13:21:29Z" changeset="164984895" uid="384887" user="robw">
+    <nd ref="10199729808"/>
+    <nd ref="1737721072"/>
+    <nd ref="560638068"/>
+    <nd ref="2047169369"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="national_highways:area" v="9"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8284489" version="20" timestamp="2023-02-22T22:49:28Z" changeset="132902486" uid="5589" user="user_5589">
+    <nd ref="15831048"/>
+    <nd ref="10687096080"/>
+    <nd ref="1837905276"/>
+    <nd ref="1837905362"/>
+    <nd ref="1269532187"/>
+    <nd ref="2187249287"/>
+    <nd ref="849557401"/>
+    <nd ref="2187249292"/>
+    <nd ref="1837905378"/>
+    <nd ref="849556872"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Thickthorn Roundabout"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8419057" version="19" timestamp="2025-01-08T20:17:21Z" changeset="161147004" uid="5229644" user="Nathan_A_RF">
+    <nd ref="27477095"/>
+    <nd ref="1269808809"/>
+    <nd ref="1269808818"/>
+    <nd ref="254596087"/>
+    <nd ref="1269808826"/>
+    <nd ref="27477093"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="11549953" version="23" timestamp="2022-10-29T17:06:05Z" changeset="128219920" uid="5589" user="user_5589">
+    <nd ref="102983157"/>
+    <nd ref="2187249282"/>
+    <nd ref="849553903"/>
+    <nd ref="2614771200"/>
+    <nd ref="102983155"/>
+    <nd ref="849553905"/>
+    <nd ref="1837905331"/>
+    <nd ref="102982572"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="approach"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="11550921" version="26" timestamp="2023-07-18T08:07:58Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="330143662"/>
+    <nd ref="1428002445"/>
+    <nd ref="8235245127"/>
+    <nd ref="7250375341"/>
+    <nd ref="10687069733"/>
+    <nd ref="1617082030"/>
+    <nd ref="2187303078"/>
+    <nd ref="1617082035"/>
+    <nd ref="2187303091"/>
+    <nd ref="2187303085"/>
+    <nd ref="10683858591"/>
+    <nd ref="1617082040"/>
+    <nd ref="2187303087"/>
+    <nd ref="10683858598"/>
+    <nd ref="1617082051"/>
+    <nd ref="10683858594"/>
+    <nd ref="2187303077"/>
+    <nd ref="10683858592"/>
+    <nd ref="27476914"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39303027" version="14" timestamp="2024-05-28T16:55:43Z" changeset="151954728" uid="624500" user="stingly">
+    <nd ref="15831051"/>
+    <nd ref="1837905359"/>
+    <nd ref="1837905294"/>
+    <nd ref="1837905357"/>
+    <nd ref="1837905409"/>
+    <nd ref="849556331"/>
+    <nd ref="1837905316"/>
+    <nd ref="102982563"/>
+    <nd ref="1837905356"/>
+    <nd ref="849556333"/>
+    <nd ref="1837905385"/>
+    <nd ref="102982564"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Thickthorn Roundabout"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39303041" version="34" timestamp="2024-11-01T21:26:01Z" changeset="158637574" uid="21081459" user="Flynn_">
+    <nd ref="560638065"/>
+    <nd ref="1737721178"/>
+    <nd ref="15831056"/>
+    <nd ref="1737721231"/>
+    <nd ref="15831061"/>
+    <nd ref="1837905236"/>
+    <nd ref="1837905297"/>
+    <nd ref="1837905232"/>
+    <nd ref="1837905337"/>
+    <nd ref="1837905286"/>
+    <nd ref="15831063"/>
+    <nd ref="15831064"/>
+    <nd ref="15831065"/>
+    <nd ref="2047169482"/>
+    <nd ref="2047169570"/>
+    <nd ref="15831066"/>
+    <nd ref="2047169574"/>
+    <nd ref="2047169518"/>
+    <nd ref="2047169379"/>
+    <nd ref="16181052"/>
+    <nd ref="2047169601"/>
+    <nd ref="2047169471"/>
+    <nd ref="16181027"/>
+    <nd ref="1167205580"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:forward" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="name" v="Warwick Bypass"/>
+    <tag k="national_highways:area" v="9"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_stopping"/>
+    <tag k="parking:both:restriction:reason" v="clearway"/>
+    <tag k="ref" v="A46"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="39303043" version="12" timestamp="2023-02-22T22:49:28Z" changeset="132902486" uid="5589" user="user_5589">
+    <nd ref="15831049"/>
+    <nd ref="849556647"/>
+    <nd ref="849556438"/>
+    <nd ref="102982562"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Thickthorn Roundabout"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="40394535" version="16" timestamp="2024-11-01T21:26:01Z" changeset="158637574" uid="21081459" user="Flynn_">
+    <nd ref="102982569"/>
+    <nd ref="10687096083"/>
+    <nd ref="10687096085"/>
+    <nd ref="1837905292"/>
+    <nd ref="10687096084"/>
+    <nd ref="1837905290"/>
+    <nd ref="1837905266"/>
+    <nd ref="849554268"/>
+    <nd ref="1837905245"/>
+    <nd ref="849554269"/>
+    <nd ref="2187249285"/>
+    <nd ref="849554272"/>
+    <nd ref="2187249286"/>
+    <nd ref="102982570"/>
+    <nd ref="102982572"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Thickthorn Roundabout"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="40394540" version="14" timestamp="2023-07-18T08:09:00Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="102982572"/>
+    <nd ref="1837905335"/>
+    <nd ref="102982573"/>
+    <nd ref="15831048"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Thickthorn Roundabout"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="42962098" version="28" timestamp="2024-11-01T21:26:01Z" changeset="158637574" uid="21081459" user="Flynn_">
+    <nd ref="538116200"/>
+    <nd ref="14219669"/>
+    <nd ref="14219671"/>
+    <nd ref="1737721357"/>
+    <nd ref="299770180"/>
+    <nd ref="1737721043"/>
+    <nd ref="14219674"/>
+    <nd ref="1737721329"/>
+    <nd ref="299770177"/>
+    <nd ref="1737721230"/>
+    <nd ref="15831057"/>
+    <nd ref="560638065"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:forward" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="name" v="Kenilworth Bypass"/>
+    <tag k="national_highways:area" v="9"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_stopping"/>
+    <tag k="parking:both:restriction:reason" v="clearway"/>
+    <tag k="ref" v="A46"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="44051991" version="10" timestamp="2024-08-15T07:58:10Z" changeset="155270632" uid="7819986" user="Howling0">
+    <nd ref="560004248"/>
+    <nd ref="1408242864"/>
+    <nd ref="1408242869"/>
+    <nd ref="1408242859"/>
+    <nd ref="560004250"/>
+    <nd ref="1408242871"/>
+    <nd ref="1408242857"/>
+    <nd ref="1408242866"/>
+    <nd ref="1408242868"/>
+    <nd ref="1408242872"/>
+    <nd ref="5812541330"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ashow Road"/>
+    <tag k="source" v="NPE"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D2234"/>
+  </way>
+  <way id="44051992" version="5" timestamp="2024-08-15T07:58:10Z" changeset="155270632" uid="7819986" user="Howling0">
+    <nd ref="27476904"/>
+    <nd ref="1408243664"/>
+    <nd ref="1408243663"/>
+    <nd ref="1408243668"/>
+    <nd ref="1408243653"/>
+    <nd ref="1408252563"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ashow Road"/>
+    <tag k="source" v="NPE"/>
+    <tag k="unsigned_ref" v="D2234"/>
+  </way>
+  <way id="44060314" version="12" timestamp="2022-12-20T00:43:50Z" changeset="130267736" uid="5589" user="user_5589">
+    <nd ref="560059116"/>
+    <nd ref="2349713545"/>
+    <nd ref="2349713543"/>
+    <nd ref="8235225906"/>
+    <nd ref="1269808831"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="44060315" version="12" timestamp="2025-01-08T20:17:21Z" changeset="161147004" uid="5229644" user="Nathan_A_RF">
+    <nd ref="27477093"/>
+    <nd ref="2349713547"/>
+    <nd ref="560059116"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="45255491" version="10" timestamp="2023-08-24T09:15:12Z" changeset="140311811" uid="5589" user="user_5589">
+    <nd ref="102982562"/>
+    <nd ref="15831051"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Thickthorn Roundabout"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="61836437" version="5" timestamp="2021-07-10T19:22:43Z" changeset="107759898" uid="10551174" user="Calebbo">
+    <nd ref="770457951"/>
+    <nd ref="1408246323"/>
+    <nd ref="770457952"/>
+    <nd ref="1408252550"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Grove Lane"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="71396607" version="13" timestamp="2023-02-22T22:49:28Z" changeset="132902486" uid="5589" user="user_5589">
+    <nd ref="849556872"/>
+    <nd ref="15831049"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Thickthorn Roundabout"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="127174743" version="3" timestamp="2024-08-15T07:58:10Z" changeset="155270632" uid="7819986" user="Howling0">
+    <nd ref="1408243651"/>
+    <nd ref="560004258"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ashow Road"/>
+    <tag k="source" v="NPE"/>
+    <tag k="unsigned_ref" v="D2234"/>
+  </way>
+  <way id="127174744" version="4" timestamp="2024-08-15T07:58:10Z" changeset="155270632" uid="7819986" user="Howling0">
+    <nd ref="5812541330"/>
+    <nd ref="1408242856"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ashow Road"/>
+    <tag k="source" v="NPE"/>
+    <tag k="unsigned_ref" v="D2234"/>
+  </way>
+  <way id="127174745" version="8" timestamp="2024-08-15T07:58:10Z" changeset="155270632" uid="7819986" user="Howling0">
+    <nd ref="1408242856"/>
+    <nd ref="1408242860"/>
+    <nd ref="1408242865"/>
+    <nd ref="1408242870"/>
+    <nd ref="560004254"/>
+    <nd ref="560004256"/>
+    <nd ref="7305925096"/>
+    <nd ref="560004258"/>
+    <nd ref="1408246321"/>
+    <nd ref="1408246327"/>
+    <nd ref="1408246322"/>
+    <nd ref="6776396610"/>
+    <nd ref="560004260"/>
+    <nd ref="1408246331"/>
+    <nd ref="1408246324"/>
+    <nd ref="1408246329"/>
+    <nd ref="2357942484"/>
+    <nd ref="770457951"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ashow Road"/>
+    <tag k="source" v="NPE"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D2234"/>
+  </way>
+  <way id="127174747" version="2" timestamp="2013-06-23T21:56:10Z" changeset="16676673" uid="9065" user="brianboru">
+    <nd ref="1408252550"/>
+    <nd ref="1408246328"/>
+    <nd ref="770457956"/>
+    <nd ref="1408252549"/>
+    <nd ref="1408252538"/>
+    <nd ref="770457955"/>
+    <nd ref="1408246330"/>
+    <nd ref="1408246326"/>
+    <nd ref="2357942498"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Grove Lane"/>
+  </way>
+  <way id="127174748" version="2" timestamp="2024-08-15T07:58:10Z" changeset="155270632" uid="7819986" user="Howling0">
+    <nd ref="770457951"/>
+    <nd ref="560004262"/>
+    <nd ref="1408242862"/>
+    <nd ref="1408242863"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="source" v="NPE"/>
+  </way>
+  <way id="127174753" version="6" timestamp="2024-08-15T07:58:10Z" changeset="155270632" uid="7819986" user="Howling0">
+    <nd ref="1408252563"/>
+    <nd ref="1408243667"/>
+    <nd ref="1408243666"/>
+    <nd ref="560004274"/>
+    <nd ref="1408243652"/>
+    <nd ref="1408243661"/>
+    <nd ref="1408243665"/>
+    <nd ref="5812208190"/>
+    <nd ref="1408243651"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ashow Road"/>
+    <tag k="source" v="NPE"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D2234"/>
+  </way>
+  <way id="127174756" version="4" timestamp="2024-08-15T07:58:10Z" changeset="155270632" uid="7819986" user="Howling0">
+    <nd ref="1408242863"/>
+    <nd ref="1408242867"/>
+    <nd ref="1408242858"/>
+    <nd ref="560004265"/>
+    <nd ref="1408242873"/>
+    <nd ref="1408242861"/>
+    <nd ref="560004267"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="source" v="NPE"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147047606" version="23" timestamp="2025-10-17T09:47:10Z" changeset="173401851" uid="384887" user="robw">
+    <nd ref="9911498374"/>
+    <nd ref="12352305871"/>
+    <nd ref="9911498373"/>
+    <nd ref="1737721130"/>
+    <nd ref="1602423742"/>
+    <nd ref="1737721255"/>
+    <nd ref="1737721330"/>
+    <nd ref="1737721208"/>
+    <nd ref="1602423741"/>
+    <nd ref="14219667"/>
+    <nd ref="1602423740"/>
+    <nd ref="5487234717"/>
+    <nd ref="2340439324"/>
+    <nd ref="1602423739"/>
+    <nd ref="1602423738"/>
+    <nd ref="1602423737"/>
+    <nd ref="1602423736"/>
+    <nd ref="27476897"/>
+    <nd ref="9911582272"/>
+    <nd ref="9911582273"/>
+    <nd ref="1602423734"/>
+    <nd ref="9911621543"/>
+    <nd ref="1602423733"/>
+    <nd ref="1602423732"/>
+    <nd ref="1602423731"/>
+    <nd ref="560004248"/>
+    <nd ref="1602423730"/>
+    <nd ref="1602423729"/>
+    <nd ref="1602423728"/>
+    <nd ref="1602423727"/>
+    <nd ref="1602423726"/>
+    <nd ref="1602423725"/>
+    <nd ref="1602423724"/>
+    <nd ref="7250375361"/>
+    <nd ref="27476904"/>
+    <nd ref="1602423723"/>
+    <nd ref="1602423722"/>
+    <nd ref="1602423721"/>
+    <nd ref="1602423720"/>
+    <nd ref="1602423719"/>
+    <nd ref="1602423718"/>
+    <nd ref="1602423717"/>
+    <nd ref="1602423716"/>
+    <nd ref="1602423715"/>
+    <nd ref="2187303083"/>
+    <nd ref="1602423714"/>
+    <nd ref="1602423713"/>
+    <nd ref="6338980227"/>
+    <nd ref="6338980234"/>
+    <nd ref="2187303080"/>
+    <nd ref="1602423712"/>
+    <nd ref="2187303089"/>
+    <nd ref="1602423711"/>
+    <nd ref="2187303072"/>
+    <nd ref="1602423710"/>
+    <nd ref="2187303075"/>
+    <nd ref="1602423709"/>
+    <nd ref="10687069738"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Ashow Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4115"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="148631577" version="14" timestamp="2024-05-28T16:55:43Z" changeset="151954728" uid="624500" user="stingly">
+    <nd ref="27476914"/>
+    <nd ref="849556024"/>
+    <nd ref="1837905268"/>
+    <nd ref="299783090"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="approach"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="194200745" version="11" timestamp="2024-05-28T16:55:43Z" changeset="151954728" uid="624500" user="stingly">
+    <nd ref="2047169369"/>
+    <nd ref="560638067"/>
+    <nd ref="849557750"/>
+    <nd ref="9522966268"/>
+    <nd ref="1837905376"/>
+    <nd ref="560638066"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="202165054" version="4" timestamp="2023-11-30T20:41:20Z" changeset="144639610" uid="504708" user="HillWithSmallFields">
+    <nd ref="2121414648"/>
+    <nd ref="2121414644"/>
+    <nd ref="2121414666"/>
+    <nd ref="2121414660"/>
+    <nd ref="2121414653"/>
+    <nd ref="2121414639"/>
+    <nd ref="2121414595"/>
+    <nd ref="2121414625"/>
+    <nd ref="2121414593"/>
+    <nd ref="2121414615"/>
+    <nd ref="2121414589"/>
+    <nd ref="2121414591"/>
+    <nd ref="2121414620"/>
+    <nd ref="2121414630"/>
+    <nd ref="2121414648"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="The Assumption of Our Lady"/>
+    <tag k="ref:dove" v="11516"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17528502"/>
+  </way>
+  <way id="217202398" version="22" timestamp="2024-11-01T21:26:01Z" changeset="158637574" uid="21081459" user="Flynn_">
+    <nd ref="15831070"/>
+    <nd ref="1837905361"/>
+    <nd ref="1837905410"/>
+    <nd ref="1837905369"/>
+    <nd ref="1837905342"/>
+    <nd ref="15831071"/>
+    <nd ref="15831058"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:forward" v="3"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="name" v="Kenilworth Bypass"/>
+    <tag k="national_highways:area" v="9"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_stopping"/>
+    <tag k="parking:both:restriction:reason" v="clearway"/>
+    <tag k="ref" v="A46"/>
+    <tag k="shoulder" v="both"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="444466290" version="8" timestamp="2024-11-01T21:26:01Z" changeset="158637574" uid="21081459" user="Flynn_">
+    <nd ref="2187303088"/>
+    <nd ref="10683858597"/>
+    <nd ref="27476914"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="approach"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="876094192" version="9" timestamp="2025-01-08T20:17:21Z" changeset="161147004" uid="5229644" user="Nathan_A_RF">
+    <nd ref="2418905805"/>
+    <nd ref="27477302"/>
+    <nd ref="1269814063"/>
+    <nd ref="3664654298"/>
+    <nd ref="15831022"/>
+    <nd ref="1269814089"/>
+    <nd ref="874963217"/>
+    <nd ref="3664654297"/>
+    <nd ref="15831021"/>
+    <nd ref="15831019"/>
+    <nd ref="299783209"/>
+    <nd ref="27477303"/>
+    <nd ref="1269814076"/>
+    <nd ref="8255214517"/>
+    <nd ref="1269814080"/>
+    <nd ref="2380198842"/>
+    <nd ref="1269814059"/>
+    <nd ref="8255214523"/>
+    <nd ref="27477304"/>
+    <nd ref="1269814077"/>
+    <nd ref="8255214519"/>
+    <nd ref="15831018"/>
+    <nd ref="1269814074"/>
+    <nd ref="8255214522"/>
+    <nd ref="8255214518"/>
+    <nd ref="27477305"/>
+    <nd ref="1269814075"/>
+    <nd ref="8255214520"/>
+    <nd ref="1269814079"/>
+    <nd ref="15831017"/>
+    <nd ref="1269814078"/>
+    <nd ref="8255189916"/>
+    <nd ref="1269814087"/>
+    <nd ref="1836911745"/>
+    <nd ref="1836911746"/>
+    <nd ref="1269814057"/>
+    <nd ref="10274459651"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="889968282" version="5" timestamp="2025-01-08T20:17:21Z" changeset="161147004" uid="5229644" user="Nathan_A_RF">
+    <nd ref="27477093"/>
+    <nd ref="1269808806"/>
+    <nd ref="1269808828"/>
+    <nd ref="27477097"/>
+    <nd ref="6371011989"/>
+    <nd ref="1269808831"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="889968283" version="8" timestamp="2025-01-08T20:17:21Z" changeset="161147004" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1269808831"/>
+    <nd ref="6371011990"/>
+    <nd ref="27477131"/>
+    <nd ref="6371011992"/>
+    <nd ref="6371011991"/>
+    <nd ref="1269808808"/>
+    <nd ref="15831016"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1115248191" version="4" timestamp="2024-05-28T16:55:43Z" changeset="151954728" uid="624500" user="stingly">
+    <nd ref="560638065"/>
+    <nd ref="1737721219"/>
+    <nd ref="10199729808"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="national_highways:area" v="9"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1123476049" version="3" timestamp="2025-01-08T20:17:21Z" changeset="161147004" uid="5229644" user="Nathan_A_RF">
+    <nd ref="10274459651"/>
+    <nd ref="8255214521"/>
+    <nd ref="1269814060"/>
+    <nd ref="560059116"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1148677838" version="4" timestamp="2025-04-15T13:21:29Z" changeset="164984895" uid="384887" user="robw">
+    <nd ref="560638066"/>
+    <nd ref="1837905321"/>
+    <nd ref="102982562"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1148677839" version="5" timestamp="2025-04-15T13:21:29Z" changeset="164984895" uid="384887" user="robw">
+    <nd ref="1837905231"/>
+    <nd ref="849557505"/>
+    <nd ref="1837905311"/>
+    <nd ref="299783091"/>
+    <nd ref="1837905274"/>
+    <nd ref="1269534087"/>
+    <nd ref="1837905326"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1148678722" version="2" timestamp="2023-07-18T08:08:25Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="299783090"/>
+    <nd ref="1837905277"/>
+    <nd ref="10687109179"/>
+    <nd ref="849556026"/>
+    <nd ref="1837905360"/>
+    <nd ref="9522966266"/>
+    <nd ref="102982564"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="approach"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

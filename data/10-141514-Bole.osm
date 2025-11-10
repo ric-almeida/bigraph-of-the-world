@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T16:32:36Z" areas="2025-10-23T08:56:18Z"/>
+
+  <node id="68507742" lat="53.3708589" lon="-0.8172604" version="5" timestamp="2024-12-27T22:11:08Z" changeset="160694162" uid="8857" user="philipcullen">
+    <tag k="ref:GB:uprn" v="10013981174"/>
+  </node>
+  <node id="68507769" lat="53.3780320" lon="-0.8202484" version="5" timestamp="2023-11-05T09:15:26Z" changeset="143641264" uid="10860083" user="jordie8396"/>
+  <node id="4986005522" lat="53.3768584" lon="-0.8211405" version="1" timestamp="2017-07-22T02:16:39Z" changeset="50472779" uid="5296090" user="TR42"/>
+  <way id="9195399" version="13" timestamp="2025-01-01T14:11:04Z" changeset="160864463" uid="8857" user="philipcullen">
+    <nd ref="68507768"/>
+    <nd ref="12236224109"/>
+    <nd ref="12236224105"/>
+    <nd ref="366723894"/>
+    <nd ref="366723892"/>
+    <nd ref="4986005522"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A620"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="9195400" version="14" timestamp="2025-09-24T08:59:00Z" changeset="172382044" uid="8857" user="philipcullen">
+    <nd ref="68507768"/>
+    <nd ref="4986002712"/>
+    <nd ref="12236224107"/>
+    <nd ref="389588621"/>
+    <nd ref="4986002713"/>
+    <nd ref="12236224106"/>
+    <nd ref="389588623"/>
+    <nd ref="4986002715"/>
+    <nd ref="389588602"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="ref" v="A620"/>
+  </way>
+  <way id="16883508" version="6" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="175129598"/>
+    <nd ref="3315113865"/>
+    <nd ref="3315113866"/>
+    <nd ref="175129606"/>
+    <nd ref="175129613"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207516"/>
+  </way>
+  <way id="16883511" version="10" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="175129730"/>
+    <nd ref="175129736"/>
+    <nd ref="175129744"/>
+    <nd ref="175129598"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207516"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="16883512" version="6" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="175129749"/>
+    <nd ref="12232373595"/>
+    <nd ref="175129756"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="East Street"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2203347"/>
+  </way>
+  <way id="22733324" version="5" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="175129730"/>
+    <nd ref="13155261073"/>
+    <nd ref="243856491"/>
+    <nd ref="2179982105"/>
+    <nd ref="13155261077"/>
+    <nd ref="243856492"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Sturton Road"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207555"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="22733325" version="3" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="175129730"/>
+    <nd ref="243856493"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207516"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="34006695" version="11" timestamp="2023-11-05T09:15:26Z" changeset="143641264" uid="10860083" user="jordie8396">
+    <nd ref="389588602"/>
+    <nd ref="4986002716"/>
+    <nd ref="367564895"/>
+    <nd ref="4986002717"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Saundby Road"/>
+    <tag k="ref" v="A620"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="61510821" version="6" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="175129749"/>
+    <nd ref="175129618"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Street"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2203373"/>
+  </way>
+  <way id="61510822" version="4" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="767570602"/>
+    <nd ref="767570603"/>
+    <nd ref="175129756"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ducie Lane"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2203346"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="225223779" version="8" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="68507742"/>
+    <nd ref="393178547"/>
+    <nd ref="68507740"/>
+    <nd ref="393178545"/>
+    <nd ref="393178541"/>
+    <nd ref="393178543"/>
+    <nd ref="68507738"/>
+    <nd ref="393178539"/>
+    <nd ref="68507735"/>
+    <nd ref="243856492"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Sturton Road"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207555;82907761"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="509350594" version="5" timestamp="2025-01-01T14:10:23Z" changeset="160864463" uid="8857" user="philipcullen">
+    <nd ref="4986005522"/>
+    <nd ref="11323211249"/>
+    <nd ref="68507726"/>
+    <nd ref="4986005521"/>
+    <nd ref="68507725"/>
+    <nd ref="7849495576"/>
+    <nd ref="366723896"/>
+    <nd ref="68507722"/>
+    <nd ref="367564884"/>
+    <nd ref="31414937"/>
+    <nd ref="31414936"/>
+    <nd ref="1426342869"/>
+    <nd ref="31414935"/>
+    <nd ref="31414934"/>
+    <nd ref="367564880"/>
+    <nd ref="367564873"/>
+    <nd ref="31414933"/>
+    <nd ref="367564862"/>
+    <nd ref="367564856"/>
+    <nd ref="31414931"/>
+    <nd ref="367564867"/>
+    <nd ref="367564853"/>
+    <nd ref="31414930"/>
+    <nd ref="367564850"/>
+    <nd ref="31414929"/>
+    <nd ref="31414928"/>
+    <nd ref="367564845"/>
+    <nd ref="31414927"/>
+    <nd ref="31414926"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A620"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="509350596" version="6" timestamp="2024-12-26T13:46:04Z" changeset="160637936" uid="8857" user="philipcullen">
+    <nd ref="68507769"/>
+    <nd ref="68507773"/>
+    <nd ref="366723904"/>
+    <nd ref="366723901"/>
+    <nd ref="366723902"/>
+    <nd ref="366723899"/>
+    <nd ref="366723905"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Saundby Road"/>
+    <tag k="ref" v="A620"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="518426069" version="4" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="243856492"/>
+    <nd ref="68507733"/>
+    <nd ref="393178535"/>
+    <nd ref="393178534"/>
+    <nd ref="13155261076"/>
+    <nd ref="393178537"/>
+    <nd ref="243856490"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Sturton Road"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207555;82907761"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="verge" v="both"/>
+  </way>
+  <way id="767501848" version="6" timestamp="2025-09-23T18:00:20Z" changeset="172357171" uid="8857" user="philipcullen">
+    <nd ref="175129863"/>
+    <nd ref="7166035846"/>
+    <nd ref="7166035847"/>
+    <nd ref="7166035848"/>
+    <nd ref="175129863"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:postcode" v="DN22 9EW"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Martin"/>
+    <tag k="ref:GB:uprn" v="10090591672"/>
+    <tag k="ref:dove" v="11802"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q15979400"/>
+    <tag k="wikipedia" v="en:St Martin's Church, Bole"/>
+  </way>
+  <way id="1221237907" version="2" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="243856490"/>
+    <nd ref="13155261080"/>
+    <nd ref="13155261079"/>
+    <nd ref="13155261078"/>
+    <nd ref="243856489"/>
+    <nd ref="243856488"/>
+    <nd ref="243856487"/>
+    <nd ref="175129730"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207516"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="verge" v="both"/>
+  </way>
+  <way id="1221237908" version="2" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="243856490"/>
+    <nd ref="68507732"/>
+    <nd ref="393178533"/>
+    <nd ref="393178532"/>
+    <nd ref="4986002720"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Sturton Road"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207555;82907761"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="verge" v="both"/>
+  </way>
+  <way id="1221237909" version="1" timestamp="2023-11-05T09:15:26Z" changeset="143641264" uid="10860083" user="jordie8396">
+    <nd ref="4986002717"/>
+    <nd ref="68507769"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Saundby Road"/>
+    <tag k="ref" v="A620"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="1221237910" version="3" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="4986002720"/>
+    <nd ref="393178531"/>
+    <nd ref="13155261075"/>
+    <nd ref="68507729"/>
+    <nd ref="11323211248"/>
+    <nd ref="13155261074"/>
+    <nd ref="389588598"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Sturton Road"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207555;82907761"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="verge" v="both"/>
+  </way>
+  <way id="1321901045" version="3" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="175129618"/>
+    <nd ref="12240706871"/>
+    <nd ref="175129626"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Street"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2203373"/>
+  </way>
+  <way id="1322345357" version="2" timestamp="2025-09-24T08:59:00Z" changeset="172382044" uid="8857" user="philipcullen">
+    <nd ref="389588598"/>
+    <nd ref="389588613"/>
+    <nd ref="389588616"/>
+    <nd ref="12236224104"/>
+    <nd ref="389588617"/>
+    <nd ref="4986002708"/>
+    <nd ref="389588619"/>
+    <nd ref="68507768"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="ref" v="A620"/>
+  </way>
+  <way id="1322345358" version="2" timestamp="2025-09-24T08:59:00Z" changeset="172382044" uid="8857" user="philipcullen">
+    <nd ref="389588602"/>
+    <nd ref="389588609"/>
+    <nd ref="4986002709"/>
+    <nd ref="389588611"/>
+    <nd ref="4986002711"/>
+    <nd ref="12236224108"/>
+    <nd ref="389588598"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="ref" v="A620"/>
+  </way>
+  <way id="1322345359" version="2" timestamp="2025-09-19T12:47:18Z" changeset="172161285" uid="3951648" user="rskedgell">
+    <nd ref="175129613"/>
+    <nd ref="175129749"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="postal_code" v="DN22"/>
+    <tag k="ref:GB:usrn" v="2207516"/>
+  </way>
+  <way id="1425407511" version="1" timestamp="2025-08-27T21:24:12Z" changeset="171105203" uid="17427" user="dysteleologist">
+    <nd ref="13101662607"/>
+    <nd ref="13101662608"/>
+    <nd ref="13101662609"/>
+    <nd ref="13101662610"/>
+    <nd ref="13101662607"/>
+    <tag k="building" v="yes"/>
+    <tag k="man_made" v="pumping_station"/>
+    <tag k="name" v="Bole Ings Punmping Station"/>
+    <tag k="operator" v="Trent Valley Internal Drainage Board"/>
+  </way>
+
+</osm>

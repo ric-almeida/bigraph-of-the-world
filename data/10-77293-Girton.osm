@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:20:26Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="27393946" lat="53.1912448" lon="-0.7386452" version="5" timestamp="2010-09-24T18:52:44Z" changeset="5865412" uid="84681" user="SK53"/>
+  <node id="375057320" lat="53.2135609" lon="-0.7574341" version="6" timestamp="2015-12-22T22:46:55Z" changeset="36115546" uid="61942" user="SomeoneElse"/>
+  <node id="924438333" lat="53.1906006" lon="-0.7621954" version="3" timestamp="2015-12-27T15:19:28Z" changeset="36197983" uid="61942" user="SomeoneElse"/>
+  <node id="924438334" lat="53.1883518" lon="-0.7621396" version="1" timestamp="2010-09-24T18:47:24Z" changeset="5865412" uid="84681" user="SK53"/>
+  <node id="2353228101" lat="53.1815945" lon="-0.7640897" version="2" timestamp="2014-05-07T15:27:39Z" changeset="22189891" uid="2011702" user="krd_mapper"/>
+  <way id="30628565" version="10" timestamp="2023-06-23T09:27:01Z" changeset="137680224" uid="242345" user="confusedbuffalo">
+    <nd ref="27393946"/>
+    <nd ref="338761667"/>
+    <nd ref="8039739589"/>
+    <nd ref="338761669"/>
+    <nd ref="924438445"/>
+    <nd ref="338761578"/>
+    <nd ref="3912849413"/>
+    <nd ref="924438334"/>
+    <tag k="FIXME:nsl" v="inferred single-carriageway NSL - remove this tag once verified"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Girton Lane"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="79113531" version="14" timestamp="2025-05-08T18:28:56Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="924438333"/>
+    <nd ref="924438351"/>
+    <nd ref="924438352"/>
+    <nd ref="924438353"/>
+    <nd ref="924438354"/>
+    <nd ref="924438355"/>
+    <nd ref="8081165481"/>
+    <nd ref="924438356"/>
+    <nd ref="924438358"/>
+    <nd ref="924438360"/>
+    <nd ref="924438362"/>
+    <nd ref="6888736236"/>
+    <nd ref="924438364"/>
+    <nd ref="924438366"/>
+    <nd ref="924438368"/>
+    <nd ref="924438369"/>
+    <nd ref="7325949462"/>
+    <nd ref="924438371"/>
+    <nd ref="924438372"/>
+    <nd ref="924438374"/>
+    <nd ref="924438375"/>
+    <nd ref="924438376"/>
+    <nd ref="924438377"/>
+    <nd ref="924438378"/>
+    <nd ref="924438379"/>
+    <nd ref="924438380"/>
+    <nd ref="924438381"/>
+    <nd ref="924438384"/>
+    <nd ref="924438386"/>
+    <nd ref="924438389"/>
+    <nd ref="924438391"/>
+    <nd ref="924438394"/>
+    <nd ref="924438398"/>
+    <nd ref="6904686268"/>
+    <nd ref="924438399"/>
+    <nd ref="924438400"/>
+    <nd ref="924438401"/>
+    <nd ref="924438402"/>
+    <nd ref="924438403"/>
+    <nd ref="924438405"/>
+    <nd ref="924438408"/>
+    <nd ref="924438410"/>
+    <nd ref="924438412"/>
+    <nd ref="5624216265"/>
+    <nd ref="924438414"/>
+    <nd ref="924438416"/>
+    <nd ref="924438418"/>
+    <nd ref="924438419"/>
+    <nd ref="924438420"/>
+    <nd ref="924438421"/>
+    <nd ref="924438422"/>
+    <nd ref="924438007"/>
+    <nd ref="3912904515"/>
+    <nd ref="924438423"/>
+    <nd ref="924438429"/>
+    <nd ref="924438432"/>
+    <nd ref="924438434"/>
+    <nd ref="7211010148"/>
+    <nd ref="1426066489"/>
+    <nd ref="924438435"/>
+    <nd ref="924438332"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="New Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="226525848" version="4" timestamp="2025-05-08T18:29:11Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="2353190385"/>
+    <nd ref="2353190358"/>
+    <nd ref="3912849131"/>
+    <nd ref="2353190368"/>
+    <nd ref="2353190367"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="West Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at east"/>
+  </way>
+  <way id="226525850" version="2" timestamp="2015-12-27T15:19:28Z" changeset="36197983" uid="61942" user="SomeoneElse">
+    <nd ref="2353190385"/>
+    <nd ref="2353190370"/>
+    <nd ref="2353190363"/>
+    <nd ref="3912849396"/>
+    <nd ref="3912849369"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High Street"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="226525852" version="3" timestamp="2019-09-09T11:27:49Z" changeset="74257087" uid="10219368" user="vanguruh">
+    <nd ref="2353190373"/>
+    <nd ref="6782550584"/>
+    <nd ref="2353190357"/>
+    <nd ref="2353190375"/>
+    <nd ref="2353190372"/>
+    <nd ref="2353190385"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Procters Drive"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="226527231" version="5" timestamp="2025-07-07T15:00:31Z" changeset="168610056" uid="808803" user="Andidy">
+    <nd ref="2353228101"/>
+    <nd ref="2353228009"/>
+    <nd ref="2353228084"/>
+    <nd ref="2353228052"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="name" v="Tinker's Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="280015306" version="3" timestamp="2021-03-11T15:40:24Z" changeset="100851261" uid="5443821" user="◪ Jarv">
+    <nd ref="8507534641"/>
+    <nd ref="2353228005"/>
+    <nd ref="2353228002"/>
+    <nd ref="2353228071"/>
+    <nd ref="6782550579"/>
+    <nd ref="2353190381"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Tinker's Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="387239947" version="12" timestamp="2024-01-25T22:10:35Z" changeset="146690295" uid="84681" user="SK53">
+    <nd ref="375057320"/>
+    <nd ref="3746550449"/>
+    <nd ref="318494306"/>
+    <nd ref="2612530713"/>
+    <nd ref="318494307"/>
+    <nd ref="318494308"/>
+    <nd ref="646920385"/>
+    <nd ref="646920396"/>
+    <nd ref="318494309"/>
+    <nd ref="318494310"/>
+    <nd ref="646920400"/>
+    <nd ref="646920404"/>
+    <nd ref="646920407"/>
+    <nd ref="318494311"/>
+    <nd ref="8507534704"/>
+    <nd ref="318494312"/>
+    <nd ref="318494313"/>
+    <nd ref="646920411"/>
+    <nd ref="5624657559"/>
+    <nd ref="924438332"/>
+    <nd ref="318494314"/>
+    <nd ref="646920418"/>
+    <nd ref="8024149887"/>
+    <nd ref="2353190380"/>
+    <nd ref="646920421"/>
+    <nd ref="8024149895"/>
+    <nd ref="6784888850"/>
+    <nd ref="8024149892"/>
+    <nd ref="646920423"/>
+    <nd ref="318494315"/>
+    <nd ref="318494316"/>
+    <nd ref="646919697"/>
+    <nd ref="646919700"/>
+    <nd ref="646919702"/>
+    <nd ref="3912860741"/>
+    <nd ref="646919705"/>
+    <nd ref="318494317"/>
+    <nd ref="8573501549"/>
+    <nd ref="318494318"/>
+    <nd ref="3912861503"/>
+    <nd ref="646919709"/>
+    <nd ref="3912849137"/>
+    <nd ref="318494319"/>
+    <nd ref="924438333"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A1133"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="387265543" version="1" timestamp="2015-12-23T01:45:55Z" changeset="36116600" uid="61942" user="SomeoneElse">
+    <nd ref="2353190382"/>
+    <nd ref="3905780788"/>
+    <nd ref="646919713"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Trent Lane"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="387265546" version="2" timestamp="2021-03-11T15:40:24Z" changeset="100851261" uid="5443821" user="◪ Jarv">
+    <nd ref="2353190377"/>
+    <nd ref="2353190386"/>
+    <nd ref="2353190382"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="designation" v="byway_open_to_all_traffic"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="horse" v="designated"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Trent Lane"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="prow_ref" v="144/7"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="vehicle" v="yes"/>
+  </way>
+  <way id="387265807" version="2" timestamp="2021-03-11T15:40:24Z" changeset="100851261" uid="5443821" user="◪ Jarv">
+    <nd ref="2353190373"/>
+    <nd ref="8507534648"/>
+    <nd ref="8507534647"/>
+    <nd ref="2353190381"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="designation" v="restricted_byway"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="residential"/>
+    <tag k="horse" v="designated"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="name" v="Green Lane"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="prow_ref" v="144/7"/>
+    <tag k="vehicle" v="yes"/>
+  </way>
+  <way id="388084836" version="2" timestamp="2025-05-08T18:29:55Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="2353190360"/>
+    <nd ref="2353190362"/>
+    <nd ref="2353190382"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="High Street"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="388084842" version="6" timestamp="2022-12-29T15:53:09Z" changeset="130652090" uid="49323" user="Ben Page">
+    <nd ref="924438334"/>
+    <nd ref="318494320"/>
+    <nd ref="318494321"/>
+    <nd ref="646919434"/>
+    <nd ref="6654499179"/>
+    <nd ref="646919437"/>
+    <nd ref="646919439"/>
+    <nd ref="318494322"/>
+    <nd ref="318494323"/>
+    <nd ref="8507534646"/>
+    <nd ref="646919236"/>
+    <nd ref="6784750551"/>
+    <nd ref="318494324"/>
+    <nd ref="2353228101"/>
+    <nd ref="318494325"/>
+    <nd ref="318494326"/>
+    <nd ref="646919237"/>
+    <nd ref="646919238"/>
+    <nd ref="262254931"/>
+    <nd ref="646919239"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A1133"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="388084843" version="2" timestamp="2025-05-08T18:29:55Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="3912849369"/>
+    <nd ref="3912849405"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High Street"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="388084845" version="2" timestamp="2025-05-08T18:29:56Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="3912849371"/>
+    <nd ref="646919713"/>
+    <nd ref="924438334"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A1133"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="388084847" version="2" timestamp="2025-05-08T18:29:56Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="3912849405"/>
+    <nd ref="2353190360"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="High Street"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="388084854" version="1" timestamp="2015-12-27T15:19:27Z" changeset="36197983" uid="61942" user="SomeoneElse">
+    <nd ref="924438333"/>
+    <nd ref="3912849371"/>
+    <tag k="highway" v="primary"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A1133"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="388084856" version="3" timestamp="2020-10-14T10:33:03Z" changeset="92466266" uid="281267" user="smb1001">
+    <nd ref="3912849368"/>
+    <nd ref="3912849379"/>
+    <nd ref="3912849407"/>
+    <nd ref="3912849406"/>
+    <nd ref="3912849368"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Cecilia"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="View from west;Bing"/>
+    <tag k="wikidata" v="Q15979328"/>
+  </way>
+  <way id="723111052" version="1" timestamp="2019-09-09T11:27:49Z" changeset="74257087" uid="10219368" user="vanguruh">
+    <nd ref="6782550579"/>
+    <nd ref="6782550580"/>
+    <nd ref="6782550581"/>
+    <nd ref="6782550582"/>
+    <nd ref="6782550583"/>
+    <nd ref="6782550584"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="915915164" version="1" timestamp="2021-03-11T15:40:24Z" changeset="100851261" uid="5443821" user="◪ Jarv">
+    <nd ref="8507534640"/>
+    <nd ref="8507534641"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Tinker's Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="915915165" version="1" timestamp="2021-03-11T15:40:24Z" changeset="100851261" uid="5443821" user="◪ Jarv">
+    <nd ref="2353228052"/>
+    <nd ref="2353228124"/>
+    <nd ref="2353227981"/>
+    <nd ref="8507534642"/>
+    <nd ref="8507534640"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Tinker's Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+
+</osm>

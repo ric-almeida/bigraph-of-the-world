@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T16:49:45Z" areas="2025-10-23T08:56:18Z"/>
+
+  <node id="137549356" lat="53.0336165" lon="-1.0501267" version="8" timestamp="2024-04-17T15:17:34Z" changeset="150134843" uid="6714692" user="Fingrmouse"/>
+  <node id="137549416" lat="53.0246856" lon="-1.0318098" version="2" timestamp="2017-02-05T23:55:43Z" changeset="45842470" uid="2762871" user="Sam888"/>
+  <node id="221565756" lat="53.0516571" lon="-1.0679604" version="9" timestamp="2025-04-22T16:22:19Z" changeset="165294426" uid="5229644" user="Nathan_A_RF"/>
+  <node id="289035703" lat="53.0493621" lon="-1.0620280" version="10" timestamp="2025-04-22T20:43:56Z" changeset="165303825" uid="5229644" user="Nathan_A_RF"/>
+  <node id="406711607" lat="53.0275707" lon="-1.0483629" version="3" timestamp="2011-04-21T00:35:57Z" changeset="7921234" uid="61942" user="SomeoneElse"/>
+  <node id="659269500" lat="53.0304865" lon="-1.0406973" version="3" timestamp="2024-05-21T17:01:41Z" changeset="151638714" uid="6714692" user="Fingrmouse"/>
+  <node id="1253234570" lat="53.0240187" lon="-1.0286337" version="2" timestamp="2024-05-20T19:44:02Z" changeset="151597724" uid="6714692" user="Fingrmouse"/>
+  <node id="12776687490" lat="53.0268333" lon="-1.0231973" version="1" timestamp="2025-04-22T16:46:08Z" changeset="165295386" uid="5229644" user="Nathan_A_RF"/>
+  <way id="14310421" version="6" timestamp="2025-08-18T10:56:25Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="3584561165"/>
+    <nd ref="11825042545"/>
+    <nd ref="11825042546"/>
+    <nd ref="3584561166"/>
+    <nd ref="11825042547"/>
+    <nd ref="11825042548"/>
+    <nd ref="11825042549"/>
+    <nd ref="137549362"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+  </way>
+  <way id="26638264" version="23" timestamp="2025-08-18T10:56:25Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="289035703"/>
+    <nd ref="11769810592"/>
+    <nd ref="3594842594"/>
+    <nd ref="2193226531"/>
+    <nd ref="292181915"/>
+    <nd ref="3594857837"/>
+    <nd ref="2356133341"/>
+    <nd ref="292181916"/>
+    <nd ref="2356133340"/>
+    <nd ref="11825042224"/>
+    <nd ref="292181895"/>
+    <nd ref="11825042223"/>
+    <nd ref="292181896"/>
+    <nd ref="292181917"/>
+    <nd ref="2356133339"/>
+    <nd ref="11825042222"/>
+    <nd ref="292181898"/>
+    <nd ref="11825042221"/>
+    <nd ref="11825042220"/>
+    <nd ref="11825042219"/>
+    <nd ref="1253293322"/>
+    <nd ref="406846233"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Epperstone Road"/>
+    <tag k="ref" v="B6386"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="26638272" version="22" timestamp="2025-08-18T10:56:25Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="659000162"/>
+    <nd ref="11920493291"/>
+    <nd ref="11920493292"/>
+    <nd ref="292182046"/>
+    <nd ref="4177020796"/>
+    <nd ref="11920493293"/>
+    <nd ref="7804001554"/>
+    <nd ref="292182047"/>
+    <nd ref="292182048"/>
+    <nd ref="3924274599"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Main Street"/>
+  </way>
+  <way id="34680677" version="18" timestamp="2024-05-20T17:31:57Z" changeset="151592372" uid="6714692" user="Fingrmouse">
+    <nd ref="495562023"/>
+    <nd ref="11920265600"/>
+    <nd ref="406678405"/>
+    <nd ref="11920265612"/>
+    <nd ref="11920265530"/>
+    <nd ref="11920266129"/>
+    <nd ref="11920265531"/>
+    <nd ref="11920266123"/>
+    <nd ref="406678404"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Bland Lane"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="34680685" version="14" timestamp="2024-05-20T17:31:57Z" changeset="151592372" uid="6714692" user="Fingrmouse">
+    <nd ref="495560846"/>
+    <nd ref="11920131328"/>
+    <nd ref="11920266548"/>
+    <nd ref="11920131300"/>
+    <nd ref="11912310712"/>
+    <nd ref="11920131295"/>
+    <nd ref="11920116741"/>
+    <nd ref="403542092"/>
+    <nd ref="1249254765"/>
+    <nd ref="403541084"/>
+    <nd ref="403541087"/>
+    <nd ref="1249331947"/>
+    <nd ref="403543206"/>
+    <nd ref="11685990188"/>
+    <nd ref="403543980"/>
+    <tag k="designation" v="public_bridleway"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="horse" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="34788865" version="2" timestamp="2024-05-20T17:31:57Z" changeset="151592372" uid="6714692" user="Fingrmouse">
+    <nd ref="406674069"/>
+    <nd ref="11920266695"/>
+    <nd ref="406674580"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Neeps Croft"/>
+    <tag k="note" v="FIXME - longer than this"/>
+  </way>
+  <way id="34788900" version="10" timestamp="2024-05-20T19:44:02Z" changeset="151597724" uid="6714692" user="Fingrmouse">
+    <nd ref="406676045"/>
+    <nd ref="11920493976"/>
+    <nd ref="406676053"/>
+    <nd ref="406675349"/>
+    <nd ref="11920493967"/>
+    <nd ref="406675355"/>
+    <nd ref="11920492930"/>
+    <nd ref="11920493779"/>
+    <nd ref="495560755"/>
+    <nd ref="11920492917"/>
+    <nd ref="406675360"/>
+    <nd ref="11920493706"/>
+    <nd ref="406675364"/>
+    <nd ref="11914108000"/>
+    <nd ref="11914108055"/>
+    <nd ref="11914108001"/>
+    <nd ref="11920493646"/>
+    <nd ref="406674062"/>
+    <nd ref="11920266778"/>
+    <nd ref="406674069"/>
+    <nd ref="11920265393"/>
+    <nd ref="403542088"/>
+    <nd ref="7332167841"/>
+    <nd ref="406671949"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Chapel Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="34788929" version="10" timestamp="2024-05-20T17:31:57Z" changeset="151592372" uid="6714692" user="Fingrmouse">
+    <nd ref="406671949"/>
+    <nd ref="11920131505"/>
+    <nd ref="11920266557"/>
+    <nd ref="11920131446"/>
+    <nd ref="495560846"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="34788935" version="11" timestamp="2024-05-20T17:31:57Z" changeset="151592372" uid="6714692" user="Fingrmouse">
+    <nd ref="406677953"/>
+    <nd ref="11920265937"/>
+    <nd ref="11920265938"/>
+    <nd ref="11920265939"/>
+    <nd ref="11920266119"/>
+    <nd ref="406677765"/>
+    <nd ref="11920266116"/>
+    <nd ref="11920265940"/>
+    <nd ref="406677769"/>
+    <nd ref="406676046"/>
+    <nd ref="11920265941"/>
+    <nd ref="406676049"/>
+    <nd ref="11920266257"/>
+    <nd ref="11920265942"/>
+    <nd ref="406676045"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Toad Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="34788949" version="6" timestamp="2024-05-20T17:31:57Z" changeset="151592372" uid="6714692" user="Fingrmouse">
+    <nd ref="406679617"/>
+    <nd ref="11920265706"/>
+    <nd ref="11920265689"/>
+    <nd ref="9021383851"/>
+    <nd ref="406679283"/>
+    <nd ref="11920265777"/>
+    <nd ref="11920265688"/>
+    <nd ref="406678404"/>
+    <nd ref="406677953"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Parr Lane"/>
+    <tag k="oneway" v="no"/>
+  </way>
+  <way id="34790643" version="10" timestamp="2025-08-18T10:56:30Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="406711607"/>
+    <nd ref="1253293969"/>
+    <nd ref="4177062661"/>
+    <nd ref="6782632100"/>
+    <nd ref="1253293970"/>
+    <nd ref="7284101631"/>
+    <nd ref="1253293971"/>
+    <nd ref="6782632089"/>
+    <nd ref="8034501186"/>
+    <nd ref="1253293972"/>
+    <nd ref="1253293973"/>
+    <nd ref="4177062645"/>
+    <nd ref="406712608"/>
+    <nd ref="4177062631"/>
+    <nd ref="1253293974"/>
+    <nd ref="1253293975"/>
+    <nd ref="9020153682"/>
+    <nd ref="1253293976"/>
+    <nd ref="1253293977"/>
+    <nd ref="137549374"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Shelt Hill"/>
+    <tag k="source" v="OS_OpenData_StreetView;View from South"/>
+  </way>
+  <way id="37090200" version="18" timestamp="2025-04-22T16:22:19Z" changeset="165294426" uid="5229644" user="Nathan_A_RF">
+    <nd ref="221565756"/>
+    <nd ref="11825042148"/>
+    <nd ref="221565758"/>
+    <nd ref="11825042147"/>
+    <nd ref="11825042144"/>
+    <nd ref="11825042145"/>
+    <nd ref="11825042146"/>
+    <nd ref="1249226879"/>
+    <nd ref="3594404156"/>
+    <nd ref="3594406926"/>
+    <nd ref="406846233"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Oxton Bypass"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="ref" v="A6097"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="39652666" version="13" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="508466919"/>
+    <nd ref="11920493592"/>
+    <nd ref="11922728085"/>
+    <nd ref="11920493593"/>
+    <nd ref="475344805"/>
+    <nd ref="11922728065"/>
+    <nd ref="11922728062"/>
+    <nd ref="11922717866"/>
+    <nd ref="11922728060"/>
+    <nd ref="11920493594"/>
+    <nd ref="11922728036"/>
+    <nd ref="11922728034"/>
+    <nd ref="11920493595"/>
+    <nd ref="11922728031"/>
+    <nd ref="11922728029"/>
+    <nd ref="11922728026"/>
+    <nd ref="495560444"/>
+    <nd ref="475344806"/>
+    <nd ref="475344807"/>
+    <nd ref="11914107661"/>
+    <nd ref="1249286750"/>
+    <nd ref="11914107662"/>
+    <nd ref="1249286701"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Hagg Lane"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="41522710" version="15" timestamp="2025-08-18T10:56:30Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="1253234602"/>
+    <nd ref="11544744297"/>
+    <nd ref="11922728127"/>
+    <nd ref="11922728259"/>
+    <nd ref="11922728273"/>
+    <nd ref="292182055"/>
+    <nd ref="11922728133"/>
+    <nd ref="11922728137"/>
+    <nd ref="11922728287"/>
+    <nd ref="11922728296"/>
+    <nd ref="11922728144"/>
+    <nd ref="11922728384"/>
+    <nd ref="4177020795"/>
+    <nd ref="11922728392"/>
+    <nd ref="11922728410"/>
+    <nd ref="11920493591"/>
+    <nd ref="292182056"/>
+    <nd ref="12776687490"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Gonalston Lane"/>
+  </way>
+  <way id="41522711" version="21" timestamp="2025-08-18T10:56:30Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="495560651"/>
+    <nd ref="8349060417"/>
+    <nd ref="292182051"/>
+    <nd ref="11914108103"/>
+    <nd ref="495562023"/>
+    <nd ref="11914108104"/>
+    <nd ref="406676045"/>
+    <nd ref="11920266263"/>
+    <nd ref="11920266235"/>
+    <nd ref="11920266277"/>
+    <nd ref="11920266506"/>
+    <nd ref="1249273440"/>
+    <nd ref="11920266515"/>
+    <nd ref="1249273503"/>
+    <nd ref="9021383853"/>
+    <nd ref="7305615024"/>
+    <nd ref="4177019364"/>
+    <nd ref="11920266505"/>
+    <nd ref="11920266491"/>
+    <nd ref="4177019356"/>
+    <nd ref="292182053"/>
+    <nd ref="11920493597"/>
+    <nd ref="11922717843"/>
+    <nd ref="1249273320"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="51556071" version="6" timestamp="2017-02-05T23:55:44Z" changeset="45842470" uid="2762871" user="Sam888">
+    <nd ref="659269500"/>
+    <nd ref="659269504"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Epperstone By-Pass"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A6097"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="109012675" version="14" timestamp="2025-08-22T14:33:08Z" changeset="170835606" uid="22101269" user="AnaVrbica">
+    <nd ref="1249273320"/>
+    <nd ref="1249273322"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="109012676" version="13" timestamp="2025-08-18T10:56:30Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="1249273322"/>
+    <nd ref="11922717846"/>
+    <nd ref="292182054"/>
+    <nd ref="11922717860"/>
+    <nd ref="11922728170"/>
+    <nd ref="11922728186"/>
+    <nd ref="508466919"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Main Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="109013042" version="9" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="1249286701"/>
+    <nd ref="475344808"/>
+    <nd ref="1249286703"/>
+    <nd ref="11914107663"/>
+    <nd ref="11922727955"/>
+    <nd ref="475344809"/>
+    <nd ref="475346429"/>
+    <nd ref="475346426"/>
+    <nd ref="475346424"/>
+    <nd ref="11914107664"/>
+    <nd ref="475346421"/>
+    <nd ref="1249286709"/>
+    <nd ref="11914107665"/>
+    <nd ref="475346418"/>
+    <nd ref="495559214"/>
+    <nd ref="11909750367"/>
+    <nd ref="11909750368"/>
+    <nd ref="11909750366"/>
+    <nd ref="11909750641"/>
+    <nd ref="475346416"/>
+    <nd ref="11909750365"/>
+    <nd ref="11909750364"/>
+    <nd ref="1249286710"/>
+    <nd ref="11909750361"/>
+    <nd ref="1249286713"/>
+    <nd ref="11909750362"/>
+    <nd ref="475346413"/>
+    <nd ref="11909750359"/>
+    <nd ref="11909750360"/>
+    <nd ref="1249286714"/>
+    <nd ref="11909750358"/>
+    <nd ref="1249286645"/>
+    <nd ref="11909750357"/>
+    <nd ref="11909750356"/>
+    <nd ref="11909750355"/>
+    <nd ref="475346410"/>
+    <nd ref="1249286716"/>
+    <nd ref="1249286718"/>
+    <nd ref="11909750354"/>
+    <nd ref="475346154"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hagg Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:highway" v="Looks like a maintained road"/>
+  </way>
+  <way id="109487843" version="9" timestamp="2025-08-18T10:56:30Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="1253234570"/>
+    <nd ref="1253234573"/>
+    <nd ref="11920493033"/>
+    <nd ref="11920493034"/>
+    <nd ref="11920493035"/>
+    <nd ref="11920493036"/>
+    <nd ref="1253234575"/>
+    <nd ref="11920493032"/>
+    <nd ref="11920493031"/>
+    <nd ref="4177062671"/>
+    <nd ref="1253234577"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Lowdham Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="OS_OpenData_StreetView"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="109487851" version="11" timestamp="2025-08-18T10:56:30Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="1253234585"/>
+    <nd ref="11920493029"/>
+    <nd ref="11920493030"/>
+    <nd ref="1253234588"/>
+    <nd ref="11920266059"/>
+    <nd ref="1253234590"/>
+    <nd ref="1253234591"/>
+    <nd ref="11920266060"/>
+    <nd ref="1253234592"/>
+    <nd ref="11920266061"/>
+    <nd ref="1253234593"/>
+    <nd ref="11920266062"/>
+    <nd ref="1253234595"/>
+    <nd ref="11920266063"/>
+    <nd ref="3924282065"/>
+    <nd ref="12776687491"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Lowdham Road"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="109487857" version="8" timestamp="2025-08-22T14:33:08Z" changeset="170835606" uid="22101269" user="AnaVrbica">
+    <nd ref="1253234577"/>
+    <nd ref="1253234585"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Lowdham Road"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:name" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="183661560" version="3" timestamp="2024-05-20T19:44:02Z" changeset="151597724" uid="6714692" user="Fingrmouse">
+    <nd ref="1940736752"/>
+    <nd ref="11914108050"/>
+    <nd ref="11914108065"/>
+    <nd ref="11914108051"/>
+    <nd ref="11914108052"/>
+    <nd ref="11920473427"/>
+    <nd ref="11920473425"/>
+    <nd ref="11914108053"/>
+    <nd ref="11920473444"/>
+    <nd ref="11914108054"/>
+    <nd ref="406675364"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Church Lane"/>
+  </way>
+  <way id="183661573" version="4" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="7016663768"/>
+    <nd ref="11920132376"/>
+    <nd ref="7016663767"/>
+    <nd ref="7016663770"/>
+    <nd ref="7016663766"/>
+    <nd ref="11920132358"/>
+    <nd ref="11920132355"/>
+    <nd ref="11920132385"/>
+    <nd ref="11920132305"/>
+    <nd ref="6044329307"/>
+    <nd ref="6044329306"/>
+    <nd ref="11920132395"/>
+    <nd ref="11920132393"/>
+    <nd ref="6044329305"/>
+    <nd ref="11920132339"/>
+    <nd ref="1940736832"/>
+    <nd ref="11920132304"/>
+    <nd ref="6044329304"/>
+    <nd ref="1940736792"/>
+    <nd ref="11920132324"/>
+    <nd ref="1940736834"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Manor Park"/>
+    <tag k="source:name" v="OS Locator Open Data"/>
+  </way>
+  <way id="183661596" version="5" timestamp="2024-05-20T17:31:57Z" changeset="151592372" uid="6714692" user="Fingrmouse">
+    <nd ref="406674062"/>
+    <nd ref="11914108056"/>
+    <nd ref="11914108057"/>
+    <nd ref="11920263762"/>
+    <nd ref="1940736829"/>
+    <nd ref="11914108058"/>
+    <nd ref="1940736720"/>
+    <nd ref="11914108059"/>
+    <nd ref="1940736833"/>
+    <nd ref="11914108047"/>
+    <nd ref="11914108048"/>
+    <nd ref="11920131576"/>
+    <nd ref="1940736738"/>
+    <nd ref="7917242022"/>
+    <nd ref="7917242023"/>
+    <nd ref="11914108049"/>
+    <nd ref="1940736752"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="207657314" version="7" timestamp="2025-04-22T17:14:17Z" changeset="165296407" uid="5229644" user="Nathan_A_RF">
+    <nd ref="659000162"/>
+    <nd ref="11922816850"/>
+    <nd ref="137549378"/>
+    <nd ref="11922816849"/>
+    <nd ref="659000141"/>
+    <nd ref="11922816848"/>
+    <nd ref="137549382"/>
+    <nd ref="11922816847"/>
+    <nd ref="659000142"/>
+    <nd ref="2194093888"/>
+    <nd ref="659000143"/>
+    <nd ref="2194093889"/>
+    <nd ref="137549386"/>
+    <nd ref="7370601504"/>
+    <nd ref="659269500"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Epperstone By-Pass"/>
+    <tag k="ref" v="A6097"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="207657317" version="8" timestamp="2025-04-22T20:43:56Z" changeset="165303825" uid="5229644" user="Nathan_A_RF">
+    <nd ref="406846233"/>
+    <nd ref="12777093349"/>
+    <nd ref="1253293347"/>
+    <nd ref="221562788"/>
+    <nd ref="659000280"/>
+    <nd ref="659000281"/>
+    <nd ref="5418534979"/>
+    <nd ref="221562790"/>
+    <nd ref="2356133342"/>
+    <nd ref="11825042291"/>
+    <nd ref="11825042290"/>
+    <nd ref="4666401259"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A6097"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="209108257" version="5" timestamp="2025-08-18T10:56:34Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="12776687490"/>
+    <nd ref="11922728453"/>
+    <nd ref="11922728454"/>
+    <nd ref="11922728455"/>
+    <nd ref="11922728456"/>
+    <nd ref="11923170740"/>
+    <nd ref="292182057"/>
+    <nd ref="11922728457"/>
+    <nd ref="11923170680"/>
+    <nd ref="11922728458"/>
+    <nd ref="11922728459"/>
+    <nd ref="292182058"/>
+    <nd ref="11922728461"/>
+    <nd ref="11922728460"/>
+    <nd ref="11922728462"/>
+    <nd ref="4177019369"/>
+    <nd ref="11922728470"/>
+    <nd ref="292182059"/>
+    <nd ref="11922728471"/>
+    <nd ref="11922728472"/>
+    <nd ref="12331516515"/>
+    <nd ref="4177019357"/>
+    <nd ref="292182060"/>
+    <nd ref="11923170525"/>
+    <nd ref="11923170526"/>
+    <nd ref="11923170527"/>
+    <nd ref="11923170528"/>
+    <nd ref="11923170529"/>
+    <nd ref="11923170524"/>
+    <nd ref="11923170530"/>
+    <nd ref="292182061"/>
+    <nd ref="6782637318"/>
+    <nd ref="11923170531"/>
+    <nd ref="4177019374"/>
+    <nd ref="11923170532"/>
+    <nd ref="11923170533"/>
+    <nd ref="11923170534"/>
+    <nd ref="11923170535"/>
+    <nd ref="11923170536"/>
+    <nd ref="11923170537"/>
+    <nd ref="292182062"/>
+    <nd ref="11923170538"/>
+    <nd ref="11923170539"/>
+    <nd ref="1940736732"/>
+    <nd ref="475339400"/>
+    <nd ref="12330891882"/>
+    <nd ref="292182063"/>
+    <nd ref="12330891860"/>
+    <nd ref="8359665054"/>
+    <nd ref="292182064"/>
+    <nd ref="12330891756"/>
+    <nd ref="12330891757"/>
+    <nd ref="12330891758"/>
+    <nd ref="12330891759"/>
+    <nd ref="12330891760"/>
+    <nd ref="292182065"/>
+    <nd ref="12330891761"/>
+    <nd ref="4177019363"/>
+    <nd ref="12330891762"/>
+    <nd ref="292182066"/>
+    <nd ref="12330891763"/>
+    <nd ref="292182067"/>
+    <nd ref="292182068"/>
+    <nd ref="12330891764"/>
+    <nd ref="12330891765"/>
+    <nd ref="12330891766"/>
+    <nd ref="503710740"/>
+    <nd ref="12330891767"/>
+    <nd ref="12330891768"/>
+    <nd ref="292182069"/>
+    <nd ref="6567568220"/>
+    <nd ref="12330891543"/>
+    <nd ref="12330891544"/>
+    <nd ref="12776687489"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Gonalston Lane"/>
+  </way>
+  <way id="389266092" version="10" timestamp="2025-08-18T10:56:34Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="3924274599"/>
+    <nd ref="292182049"/>
+    <nd ref="11920132137"/>
+    <nd ref="11920132136"/>
+    <nd ref="1940736834"/>
+    <nd ref="11920131829"/>
+    <nd ref="11920131856"/>
+    <nd ref="11920131827"/>
+    <nd ref="11920131989"/>
+    <nd ref="11920131828"/>
+    <nd ref="11920131866"/>
+    <nd ref="11920131958"/>
+    <nd ref="8905982840"/>
+    <nd ref="11920131826"/>
+    <nd ref="292182050"/>
+    <nd ref="6044329308"/>
+    <nd ref="11914108077"/>
+    <nd ref="495560651"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Main Street"/>
+  </way>
+  <way id="389266095" version="3" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="3924274608"/>
+    <nd ref="3924274609"/>
+    <nd ref="3924274610"/>
+    <nd ref="3924274611"/>
+    <nd ref="11922728391"/>
+    <nd ref="3924274608"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Epperstone Village Hall"/>
+  </way>
+  <way id="389274936" version="6" timestamp="2025-08-18T10:56:34Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="12776687491"/>
+    <nd ref="11920266064"/>
+    <nd ref="11922728255"/>
+    <nd ref="1253234600"/>
+    <nd ref="1253234602"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Lowdham Road"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="472427342" version="6" timestamp="2025-04-22T17:14:17Z" changeset="165296407" uid="5229644" user="Nathan_A_RF">
+    <nd ref="4666401259"/>
+    <nd ref="137558929"/>
+    <nd ref="11825042289"/>
+    <nd ref="2194093504"/>
+    <nd ref="137549362"/>
+    <nd ref="11825042288"/>
+    <nd ref="11825042287"/>
+    <nd ref="137549366"/>
+    <nd ref="2194093497"/>
+    <nd ref="6782565416"/>
+    <nd ref="6901803651"/>
+    <nd ref="11922816852"/>
+    <nd ref="659000158"/>
+    <nd ref="2194093502"/>
+    <nd ref="137549374"/>
+    <nd ref="659000159"/>
+    <nd ref="11922816851"/>
+    <nd ref="659000162"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="ref" v="A6097"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="750409472" version="2" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="7016663769"/>
+    <nd ref="11920132306"/>
+    <nd ref="7016663770"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="West Manor Park"/>
+    <tag k="source:name" v="OS Locator Open Data"/>
+  </way>
+  <way id="884296385" version="3" timestamp="2024-05-17T19:42:39Z" changeset="151469694" uid="6714692" user="Fingrmouse">
+    <nd ref="422509215"/>
+    <nd ref="8223864053"/>
+    <nd ref="9474181496"/>
+    <nd ref="9474181495"/>
+    <nd ref="9474181494"/>
+    <nd ref="11914108070"/>
+    <nd ref="11914108069"/>
+    <nd ref="9474181493"/>
+    <nd ref="9474181492"/>
+    <nd ref="9474181491"/>
+    <nd ref="8223864051"/>
+    <nd ref="9474181490"/>
+    <nd ref="8223864052"/>
+    <nd ref="9474181489"/>
+    <nd ref="9474181488"/>
+    <nd ref="9474181485"/>
+    <nd ref="9474181486"/>
+    <nd ref="9474181487"/>
+    <nd ref="422509215"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Holy Cross"/>
+    <tag k="religion" v="christian"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q15224619"/>
+  </way>
+  <way id="905610052" version="2" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="8410080524"/>
+    <nd ref="8410080987"/>
+    <nd ref="11922728265"/>
+    <nd ref="11922728266"/>
+    <nd ref="11922728264"/>
+    <nd ref="8410080986"/>
+    <nd ref="11922728263"/>
+    <nd ref="8410080523"/>
+    <nd ref="8410080524"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610053" version="2" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="8410080526"/>
+    <nd ref="8410080991"/>
+    <nd ref="11922728291"/>
+    <nd ref="11922728290"/>
+    <nd ref="8410080990"/>
+    <nd ref="8410080525"/>
+    <nd ref="8410080526"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610054" version="2" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="8410080528"/>
+    <nd ref="8410080995"/>
+    <nd ref="8410080994"/>
+    <nd ref="11922728374"/>
+    <nd ref="11922728375"/>
+    <nd ref="11922728373"/>
+    <nd ref="11922728372"/>
+    <nd ref="8410080527"/>
+    <nd ref="8410080528"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610055" version="2" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="8410080530"/>
+    <nd ref="8410080528"/>
+    <nd ref="8410080527"/>
+    <nd ref="11922728371"/>
+    <nd ref="11922728370"/>
+    <nd ref="8410080529"/>
+    <nd ref="8410080530"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610056" version="2" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="8410080532"/>
+    <nd ref="8410080530"/>
+    <nd ref="8410080529"/>
+    <nd ref="11922728376"/>
+    <nd ref="11922728377"/>
+    <nd ref="8410080531"/>
+    <nd ref="8410080532"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610057" version="1" timestamp="2021-02-09T21:27:34Z" changeset="99000853" uid="11519576" user="coolmule0">
+    <nd ref="8410080536"/>
+    <nd ref="8410080533"/>
+    <nd ref="8410080534"/>
+    <nd ref="8410080535"/>
+    <nd ref="8410080536"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610058" version="1" timestamp="2021-02-09T21:27:34Z" changeset="99000853" uid="11519576" user="coolmule0">
+    <nd ref="8410080540"/>
+    <nd ref="8410080537"/>
+    <nd ref="8410080538"/>
+    <nd ref="8410080539"/>
+    <nd ref="8410080540"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610059" version="2" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="8410080544"/>
+    <nd ref="8410080541"/>
+    <nd ref="11922728131"/>
+    <nd ref="11922728132"/>
+    <nd ref="8410080542"/>
+    <nd ref="8410080543"/>
+    <nd ref="8410080544"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610060" version="1" timestamp="2021-02-09T21:27:34Z" changeset="99000853" uid="11519576" user="coolmule0">
+    <nd ref="8410080550"/>
+    <nd ref="8410080547"/>
+    <nd ref="8410080548"/>
+    <nd ref="8410080549"/>
+    <nd ref="8410080545"/>
+    <nd ref="8410080546"/>
+    <nd ref="8410080550"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610134" version="2" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="8410080988"/>
+    <nd ref="11922728268"/>
+    <nd ref="11922728267"/>
+    <nd ref="8410080524"/>
+    <nd ref="8410080523"/>
+    <nd ref="8410080985"/>
+    <nd ref="8410080988"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610135" version="1" timestamp="2021-02-09T21:27:34Z" changeset="99000853" uid="11519576" user="coolmule0">
+    <nd ref="8410080992"/>
+    <nd ref="8410080526"/>
+    <nd ref="8410080525"/>
+    <nd ref="8410080989"/>
+    <nd ref="8410080992"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="905610136" version="2" timestamp="2024-05-21T16:24:05Z" changeset="151636889" uid="6714692" user="Fingrmouse">
+    <nd ref="8410080996"/>
+    <nd ref="8410080532"/>
+    <nd ref="8410080531"/>
+    <nd ref="11922728378"/>
+    <nd ref="11922728379"/>
+    <nd ref="8410080993"/>
+    <nd ref="8410080996"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Gonalston Lane"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396907" version="3" timestamp="2025-02-01T19:01:27Z" changeset="162022514" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="8434845443"/>
+    <nd ref="8434845442"/>
+    <nd ref="11920493895"/>
+    <nd ref="11920493888"/>
+    <nd ref="11920493890"/>
+    <nd ref="11920493891"/>
+    <nd ref="11920493889"/>
+    <nd ref="8434845441"/>
+    <nd ref="8434845440"/>
+    <nd ref="8434845443"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:postcode" v="NG14 6AD"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:suburb" v="Epperstone"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="beer_garden" v="yes"/>
+    <tag k="building" v="yes"/>
+    <tag k="car_park" v="yes"/>
+    <tag k="country" v="GB"/>
+    <tag k="name" v="Cross Keys"/>
+    <tag k="real_ale" v="Greene King IPA,, Olde Trip, Thwaites Wainwright's"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="908396965" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434845797"/>
+    <nd ref="8434845794"/>
+    <nd ref="8434845792"/>
+    <nd ref="8434845793"/>
+    <nd ref="8434845795"/>
+    <nd ref="8434845791"/>
+    <nd ref="8434845790"/>
+    <nd ref="8434845796"/>
+    <nd ref="8434845797"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396966" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434845803"/>
+    <nd ref="8434845804"/>
+    <nd ref="8434845805"/>
+    <nd ref="8434845802"/>
+    <nd ref="8434845801"/>
+    <nd ref="8434845799"/>
+    <nd ref="8434845803"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396967" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434845807"/>
+    <nd ref="8434845803"/>
+    <nd ref="8434845799"/>
+    <nd ref="8434845798"/>
+    <nd ref="8434845800"/>
+    <nd ref="8434845806"/>
+    <nd ref="8434845807"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396968" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434845815"/>
+    <nd ref="8434845812"/>
+    <nd ref="8434845810"/>
+    <nd ref="8434845809"/>
+    <nd ref="8434845808"/>
+    <nd ref="8434845811"/>
+    <nd ref="8434845813"/>
+    <nd ref="8434845814"/>
+    <nd ref="8434845815"/>
+    <tag k="addr:housenumber" v="3a"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396972" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434845837"/>
+    <nd ref="8434845831"/>
+    <nd ref="8434845830"/>
+    <nd ref="8434845834"/>
+    <nd ref="8434845828"/>
+    <nd ref="8434845829"/>
+    <nd ref="8434845832"/>
+    <nd ref="8434845833"/>
+    <nd ref="8434845835"/>
+    <nd ref="8434845836"/>
+    <nd ref="8434845837"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396973" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434845845"/>
+    <nd ref="8434845842"/>
+    <nd ref="8434845843"/>
+    <nd ref="8434845839"/>
+    <nd ref="8434845838"/>
+    <nd ref="8434845840"/>
+    <nd ref="8434845841"/>
+    <nd ref="8434845844"/>
+    <nd ref="8434845845"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396974" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434845851"/>
+    <nd ref="8434845848"/>
+    <nd ref="8434845846"/>
+    <nd ref="8434845847"/>
+    <nd ref="8434845849"/>
+    <nd ref="8434845850"/>
+    <nd ref="8434845851"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396975" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434845863"/>
+    <nd ref="8434845862"/>
+    <nd ref="8434845861"/>
+    <nd ref="8434845858"/>
+    <nd ref="8434845855"/>
+    <nd ref="8434845854"/>
+    <nd ref="8434845857"/>
+    <nd ref="8434845853"/>
+    <nd ref="8434845852"/>
+    <nd ref="8434845856"/>
+    <nd ref="8434845859"/>
+    <nd ref="8434845860"/>
+    <nd ref="8434845863"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396976" version="3" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="8434845877"/>
+    <nd ref="8434845874"/>
+    <nd ref="8434845872"/>
+    <nd ref="8434845873"/>
+    <nd ref="8434845869"/>
+    <nd ref="8434845866"/>
+    <nd ref="8434845865"/>
+    <nd ref="8434845868"/>
+    <nd ref="8434845875"/>
+    <nd ref="8434845864"/>
+    <nd ref="8434845867"/>
+    <nd ref="8434845876"/>
+    <nd ref="8434845870"/>
+    <nd ref="8434845871"/>
+    <nd ref="11920132363"/>
+    <nd ref="11920132362"/>
+    <nd ref="8434845877"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396977" version="3" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="8434845889"/>
+    <nd ref="8434845888"/>
+    <nd ref="11920132342"/>
+    <nd ref="11920132344"/>
+    <nd ref="11920132345"/>
+    <nd ref="11920132343"/>
+    <nd ref="8434845887"/>
+    <nd ref="8434845886"/>
+    <nd ref="8434845885"/>
+    <nd ref="8434845884"/>
+    <nd ref="8434845883"/>
+    <nd ref="8434845882"/>
+    <nd ref="8434845881"/>
+    <nd ref="8434845880"/>
+    <nd ref="8434845879"/>
+    <nd ref="8434845878"/>
+    <nd ref="8434845889"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396978" version="3" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="8434845901"/>
+    <nd ref="8434845898"/>
+    <nd ref="11920132335"/>
+    <nd ref="11920132337"/>
+    <nd ref="11920132338"/>
+    <nd ref="11920132336"/>
+    <nd ref="8434845897"/>
+    <nd ref="8434845896"/>
+    <nd ref="8434845899"/>
+    <nd ref="8434845894"/>
+    <nd ref="8434845895"/>
+    <nd ref="8434845900"/>
+    <nd ref="8434845892"/>
+    <nd ref="8434845891"/>
+    <nd ref="8434845890"/>
+    <nd ref="8434845893"/>
+    <nd ref="8434845901"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396979" version="3" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="8434845905"/>
+    <nd ref="8434845904"/>
+    <nd ref="8434845903"/>
+    <nd ref="11920132326"/>
+    <nd ref="11920132327"/>
+    <nd ref="11920132328"/>
+    <nd ref="11920132331"/>
+    <nd ref="8434845902"/>
+    <nd ref="11920132329"/>
+    <nd ref="11920132330"/>
+    <nd ref="8434845905"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396981" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434845915"/>
+    <nd ref="8434845914"/>
+    <nd ref="8434845911"/>
+    <nd ref="8434845910"/>
+    <nd ref="8434845913"/>
+    <nd ref="8434845912"/>
+    <nd ref="8434845915"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="West Manor Park"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396997" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434846013"/>
+    <nd ref="8436015292"/>
+    <nd ref="8436015291"/>
+    <nd ref="8434846012"/>
+    <nd ref="8434846013"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396998" version="3" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="8434846017"/>
+    <nd ref="8434846016"/>
+    <nd ref="11920131836"/>
+    <nd ref="11920131838"/>
+    <nd ref="11920131839"/>
+    <nd ref="11920131837"/>
+    <nd ref="8434846015"/>
+    <nd ref="8434846014"/>
+    <nd ref="8434846017"/>
+    <tag k="addr:housenumber" v="14-17"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908396999" version="3" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="8434846021"/>
+    <nd ref="11920131846"/>
+    <nd ref="11920131847"/>
+    <nd ref="11920131844"/>
+    <nd ref="8436015294"/>
+    <nd ref="8436015293"/>
+    <nd ref="8434846020"/>
+    <nd ref="11920131845"/>
+    <nd ref="8434846021"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908397000" version="3" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="8434846022"/>
+    <nd ref="8436015296"/>
+    <nd ref="8436015295"/>
+    <nd ref="11920131833"/>
+    <nd ref="8434846023"/>
+    <nd ref="11920131834"/>
+    <nd ref="11920131835"/>
+    <nd ref="11920131832"/>
+    <nd ref="8434846022"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908397001" version="3" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="8434846029"/>
+    <nd ref="8434846026"/>
+    <nd ref="11920131830"/>
+    <nd ref="11920131831"/>
+    <nd ref="8434846027"/>
+    <nd ref="8434846028"/>
+    <nd ref="8434846029"/>
+    <tag k="addr:housenumber" v="9-12"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908397002" version="2" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8434846030"/>
+    <nd ref="8436015298"/>
+    <nd ref="8436015297"/>
+    <nd ref="8434846031"/>
+    <nd ref="8434846030"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908537673" version="1" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8436015292"/>
+    <nd ref="8434846010"/>
+    <nd ref="8434846011"/>
+    <nd ref="8436015291"/>
+    <nd ref="8436015292"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908537674" version="2" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="8436015294"/>
+    <nd ref="11920131840"/>
+    <nd ref="11920131842"/>
+    <nd ref="11920131843"/>
+    <nd ref="11920131841"/>
+    <nd ref="8434846018"/>
+    <nd ref="8434846019"/>
+    <nd ref="8436015293"/>
+    <nd ref="8436015294"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908537675" version="1" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8436015296"/>
+    <nd ref="8434846025"/>
+    <nd ref="8434846024"/>
+    <nd ref="8436015295"/>
+    <nd ref="8436015296"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="908537676" version="1" timestamp="2021-02-18T21:15:10Z" changeset="99549013" uid="11519576" user="coolmule0">
+    <nd ref="8436015298"/>
+    <nd ref="8434846033"/>
+    <nd ref="8434846032"/>
+    <nd ref="8436015297"/>
+    <nd ref="8436015298"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="1242377129" version="4" timestamp="2025-08-18T10:56:39Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="508466919"/>
+    <nd ref="11922728201"/>
+    <nd ref="11922728125"/>
+    <nd ref="1253234602"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="Gonalston Lane"/>
+  </way>
+  <way id="1242377130" version="2" timestamp="2025-04-22T16:08:23Z" changeset="165293786" uid="5229644" user="Nathan_A_RF">
+    <nd ref="137549416"/>
+    <nd ref="4666401258"/>
+    <nd ref="1253247051"/>
+    <nd ref="422509242"/>
+    <nd ref="137549420"/>
+    <nd ref="1253234570"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Epperstone By-Pass"/>
+    <tag k="ref" v="A6097"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="1273389759" version="3" timestamp="2025-08-18T10:56:39Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="137549356"/>
+    <nd ref="11825042541"/>
+    <nd ref="11825042538"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+  </way>
+  <way id="1273389760" version="3" timestamp="2025-08-22T14:31:39Z" changeset="170835518" uid="22101269" user="AnaVrbica">
+    <nd ref="11825042538"/>
+    <nd ref="3584561165"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+  </way>
+  <way id="1283920251" version="1" timestamp="2024-05-17T11:14:28Z" changeset="151448807" uid="6714692" user="Fingrmouse">
+    <nd ref="11912310192"/>
+    <nd ref="11912310193"/>
+    <nd ref="11912310194"/>
+    <nd ref="11912310195"/>
+    <nd ref="11912310196"/>
+    <nd ref="11912310197"/>
+    <nd ref="11912310198"/>
+    <nd ref="11912310199"/>
+    <nd ref="11912310200"/>
+    <nd ref="11912310201"/>
+    <nd ref="11912310192"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Oxton Hill Hideaway"/>
+  </way>
+  <way id="1284223622" version="2" timestamp="2024-05-20T16:20:27Z" changeset="151588883" uid="6714692" user="Fingrmouse">
+    <nd ref="1940736682"/>
+    <nd ref="11920131601"/>
+    <nd ref="1940736752"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Church Lane"/>
+  </way>
+  <way id="1284223623" version="1" timestamp="2024-05-17T19:42:39Z" changeset="151469694" uid="6714692" user="Fingrmouse">
+    <nd ref="1940736833"/>
+    <nd ref="11914108062"/>
+    <nd ref="11914108060"/>
+    <tag k="highway" v="residential"/>
+  </way>
+
+</osm>

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:49:02Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="263350534" lat="53.2279379" lon="-1.2072882" version="23" timestamp="2014-04-15T21:05:27Z" changeset="21717978" uid="2011702" user="krd_mapper"/>
+  <node id="312665319" lat="53.2315897" lon="-1.2034327" version="4" timestamp="2012-10-30T19:36:56Z" changeset="13689853" uid="61942" user="SomeoneElse"/>
+  <node id="312667255" lat="53.2261780" lon="-1.1785326" version="5" timestamp="2014-04-13T20:27:50Z" changeset="21672436" uid="2011702" user="krd_mapper"/>
+  <node id="560139091" lat="53.2320726" lon="-1.2034529" version="3" timestamp="2014-04-30T20:00:21Z" changeset="22049066" uid="2011702" user="krd_mapper"/>
+  <node id="885893832" lat="53.2301880" lon="-1.2076035" version="3" timestamp="2014-04-20T15:19:56Z" changeset="21817154" uid="2011702" user="krd_mapper">
+    <tag k="highway" v="mini_roundabout"/>
+  </node>
+  <node id="885894175" lat="53.2308351" lon="-1.2052275" version="3" timestamp="2014-04-20T15:19:56Z" changeset="21817154" uid="2011702" user="krd_mapper"/>
+  <node id="885894760" lat="53.2321176" lon="-1.2051863" version="3" timestamp="2014-04-30T20:00:19Z" changeset="22049066" uid="2011702" user="krd_mapper"/>
+  <node id="1989946487" lat="53.2349525" lon="-1.2042202" version="2" timestamp="2014-04-20T15:47:44Z" changeset="21817154" uid="2011702" user="krd_mapper"/>
+  <node id="1989969141" lat="53.2380292" lon="-1.2023310" version="2" timestamp="2014-04-20T15:47:43Z" changeset="21817154" uid="2011702" user="krd_mapper"/>
+  <node id="3643501085" lat="53.2218645" lon="-1.1749235" version="1" timestamp="2015-07-10T00:55:17Z" changeset="32532895" uid="61942" user="SomeoneElse"/>
+  <way id="28459992" version="16" timestamp="2021-06-08T00:15:51Z" changeset="105999114" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="312667255"/>
+    <nd ref="2789214214"/>
+    <nd ref="2789214202"/>
+    <nd ref="3643501031"/>
+    <nd ref="2789214182"/>
+    <nd ref="2789214187"/>
+    <nd ref="2789214227"/>
+    <nd ref="312667285"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Wood Lane"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:maxspeed" v="Sign at southeast"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="44023729" version="5" timestamp="2014-04-30T20:00:23Z" changeset="22049066" uid="2011702" user="krd_mapper">
+    <nd ref="559727655"/>
+    <nd ref="2827499773"/>
+    <nd ref="559727656"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Farm Court"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:name" v="Sign at W"/>
+  </way>
+  <way id="44023731" version="5" timestamp="2014-04-30T20:00:23Z" changeset="22049066" uid="2011702" user="krd_mapper">
+    <nd ref="1558684271"/>
+    <nd ref="559727657"/>
+    <nd ref="559727661"/>
+    <nd ref="2827499793"/>
+    <nd ref="1265549444"/>
+    <nd ref="2827499792"/>
+    <nd ref="2827499788"/>
+    <nd ref="1558684277"/>
+    <nd ref="2827499783"/>
+    <nd ref="559727655"/>
+    <nd ref="1558684290"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fairfield Close"/>
+    <tag k="source" v="GPS;Bing"/>
+    <tag k="source:name" v="Sign at S"/>
+  </way>
+  <way id="44023734" version="1" timestamp="2009-11-08T20:35:19Z" changeset="3066623" uid="61942" user="SomeoneElse">
+    <nd ref="559727679"/>
+    <nd ref="559727682"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Lime Acres"/>
+  </way>
+  <way id="44068571" version="18" timestamp="2022-04-27T12:29:57Z" changeset="120257737" uid="5589" user="user_5589">
+    <nd ref="312665278"/>
+    <nd ref="263350541"/>
+    <nd ref="2803909683"/>
+    <nd ref="263350542"/>
+    <nd ref="2803952116"/>
+    <nd ref="862167807"/>
+    <nd ref="1352004382"/>
+    <nd ref="263350543"/>
+    <nd ref="2803952102"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Langwith Road"/>
+    <tag k="ref" v="A632"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="44068603" version="8" timestamp="2021-06-08T00:16:00Z" changeset="105999114" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="263350534"/>
+    <nd ref="559727793"/>
+    <nd ref="2793640230"/>
+    <nd ref="2793640255"/>
+    <nd ref="2793640257"/>
+    <nd ref="2803909692"/>
+    <nd ref="2641641248"/>
+    <nd ref="2793640242"/>
+    <nd ref="2793640248"/>
+    <nd ref="2793640256"/>
+    <nd ref="263350535"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="ref" v="A632"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="44068610" version="6" timestamp="2014-01-29T01:09:25Z" changeset="20257022" uid="61942" user="SomeoneElse">
+    <nd ref="312665319"/>
+    <nd ref="2641653386"/>
+    <nd ref="560139091"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Portland Road"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="58118974" version="7" timestamp="2016-04-25T14:29:26Z" changeset="38858318" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="312665228"/>
+    <nd ref="4146903043"/>
+    <nd ref="2804013295"/>
+    <nd ref="2804013247"/>
+    <nd ref="1265549431"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cockshut Lane"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="72641483" version="5" timestamp="2014-04-30T20:00:22Z" changeset="22049066" uid="2011702" user="krd_mapper">
+    <nd ref="312665278"/>
+    <nd ref="559727712"/>
+    <nd ref="2827500009"/>
+    <nd ref="2827499775"/>
+    <nd ref="2827500003"/>
+    <nd ref="2827500019"/>
+    <nd ref="2827499800"/>
+    <nd ref="559727715"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Limes Avenue"/>
+    <tag k="source:name" v="Sign at S"/>
+  </way>
+  <way id="75045398" version="6" timestamp="2014-04-20T15:19:57Z" changeset="21817154" uid="2011702" user="krd_mapper">
+    <nd ref="885893832"/>
+    <nd ref="2803952122"/>
+    <nd ref="2803952134"/>
+    <nd ref="885895129"/>
+    <nd ref="885894170"/>
+    <nd ref="1990077955"/>
+    <nd ref="885894173"/>
+    <nd ref="2803952139"/>
+    <nd ref="2803952132"/>
+    <nd ref="2803952119"/>
+    <nd ref="2803952131"/>
+    <nd ref="1265549528"/>
+    <nd ref="885894175"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Kitchener Terrace"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at each end"/>
+  </way>
+  <way id="75045427" version="4" timestamp="2014-05-04T19:22:43Z" changeset="22132253" uid="2011702" user="krd_mapper">
+    <nd ref="885894175"/>
+    <nd ref="2803952137"/>
+    <nd ref="1265549514"/>
+    <nd ref="885894360"/>
+    <nd ref="2836455210"/>
+    <nd ref="2836455216"/>
+    <nd ref="885894361"/>
+    <nd ref="2836455213"/>
+    <nd ref="885894362"/>
+    <nd ref="2836455217"/>
+    <nd ref="2836455214"/>
+    <nd ref="885894363"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="French Terrace"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="75045456" version="6" timestamp="2014-04-20T15:19:58Z" changeset="21817154" uid="2011702" user="krd_mapper">
+    <nd ref="885894760"/>
+    <nd ref="885896862"/>
+    <nd ref="1265549507"/>
+    <nd ref="885895868"/>
+    <nd ref="2803909699"/>
+    <nd ref="2803909700"/>
+    <nd ref="885894175"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Jellicoe Street"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at S"/>
+  </way>
+  <way id="120555195" version="9" timestamp="2022-04-27T12:29:57Z" changeset="120257737" uid="5589" user="user_5589">
+    <nd ref="862182460"/>
+    <nd ref="2803909695"/>
+    <nd ref="862182470"/>
+    <nd ref="2803909687"/>
+    <nd ref="263350551"/>
+    <nd ref="563427753"/>
+    <nd ref="263350553"/>
+    <nd ref="263349920"/>
+    <nd ref="312667255"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Langwith Road"/>
+    <tag k="ref" v="A632"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="120555198" version="12" timestamp="2022-09-22T13:59:36Z" changeset="126506950" uid="13713189" user="edgovard">
+    <nd ref="312667255"/>
+    <nd ref="2788667659"/>
+    <nd ref="2788667583"/>
+    <nd ref="2788667680"/>
+    <nd ref="862269228"/>
+    <nd ref="2788667568"/>
+    <nd ref="263349921"/>
+    <nd ref="862269235"/>
+    <nd ref="2788667567"/>
+    <nd ref="2788667641"/>
+    <nd ref="309496851"/>
+    <nd ref="2788667562"/>
+    <nd ref="2788667676"/>
+    <nd ref="2788667649"/>
+    <nd ref="263349922"/>
+    <nd ref="2788667627"/>
+    <nd ref="2788667669"/>
+    <nd ref="2788667598"/>
+    <nd ref="309496967"/>
+    <nd ref="2788667684"/>
+    <nd ref="2788667661"/>
+    <nd ref="263349923"/>
+    <nd ref="2788667596"/>
+    <nd ref="2788667565"/>
+    <nd ref="862269240"/>
+    <nd ref="2788667593"/>
+    <nd ref="1351928186"/>
+    <nd ref="1351522375"/>
+    <nd ref="263349925"/>
+    <nd ref="6895266021"/>
+    <nd ref="1558667579"/>
+    <nd ref="2788667656"/>
+    <nd ref="2788667595"/>
+    <nd ref="1558667576"/>
+    <nd ref="309496971"/>
+    <nd ref="10044974985"/>
+    <nd ref="2788667701"/>
+    <nd ref="2788667700"/>
+    <nd ref="263349926"/>
+    <nd ref="263349927"/>
+    <nd ref="263349928"/>
+    <nd ref="1558667585"/>
+    <nd ref="1558667609"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Langwith Road"/>
+    <tag k="ref" v="A632"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at east"/>
+  </way>
+  <way id="142432316" version="4" timestamp="2014-05-04T19:44:46Z" changeset="22132253" uid="2011702" user="krd_mapper">
+    <nd ref="1558682348"/>
+    <nd ref="1558682358"/>
+    <nd ref="1558682356"/>
+    <nd ref="2836503699"/>
+    <nd ref="1558682354"/>
+    <nd ref="2836507305"/>
+    <nd ref="1558682347"/>
+    <nd ref="559727715"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Welfitt Grove"/>
+    <tag k="source" v="View from W;Bing;OS_OpenData_StreetView"/>
+  </way>
+  <way id="142432557" version="1" timestamp="2011-12-22T23:44:30Z" changeset="10183920" uid="61942" user="SomeoneElse">
+    <nd ref="1558684272"/>
+    <nd ref="1558684269"/>
+    <nd ref="1558684271"/>
+    <nd ref="559727769"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fairfield Close"/>
+    <tag k="source" v="View from middle;Bing"/>
+  </way>
+  <way id="142432558" version="4" timestamp="2014-04-30T20:00:22Z" changeset="22049066" uid="2011702" user="krd_mapper">
+    <nd ref="559727712"/>
+    <nd ref="1558684287"/>
+    <nd ref="2827499778"/>
+    <nd ref="2827499782"/>
+    <nd ref="2827499790"/>
+    <nd ref="1265549475"/>
+    <nd ref="2827500004"/>
+    <nd ref="1558684639"/>
+    <nd ref="1558684290"/>
+    <nd ref="2827500006"/>
+    <nd ref="1558684266"/>
+    <nd ref="1558684292"/>
+    <nd ref="2827500008"/>
+    <nd ref="559727795"/>
+    <nd ref="1558684275"/>
+    <nd ref="2827499772"/>
+    <nd ref="1558684274"/>
+    <nd ref="2827499786"/>
+    <nd ref="559727794"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Queens Walk"/>
+    <tag k="not:name" v="Queen's Walk"/>
+    <tag k="source" v="GPS;Bing"/>
+  </way>
+  <way id="188366942" version="4" timestamp="2020-04-02T07:53:23Z" changeset="82962827" uid="3735896" user="alexkemp">
+    <nd ref="1989946487"/>
+    <nd ref="4146898388"/>
+    <nd ref="2804013228"/>
+    <nd ref="2804013209"/>
+    <nd ref="2804013283"/>
+    <nd ref="2804013296"/>
+    <nd ref="2804013205"/>
+    <nd ref="312665227"/>
+    <nd ref="2804013238"/>
+    <nd ref="2804013310"/>
+    <nd ref="2804013242"/>
+    <nd ref="7357993310"/>
+    <nd ref="312665228"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Woodland View"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="188366943" version="6" timestamp="2025-04-09T09:43:32Z" changeset="164715370" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1265549431"/>
+    <nd ref="2804013279"/>
+    <nd ref="4146900203"/>
+    <nd ref="2804013275"/>
+    <nd ref="312665321"/>
+    <nd ref="862233879"/>
+    <nd ref="862233723"/>
+    <nd ref="862233881"/>
+    <nd ref="2804013274"/>
+    <nd ref="2804013260"/>
+    <nd ref="312665322"/>
+    <nd ref="862233716"/>
+    <nd ref="312665324"/>
+    <nd ref="1989969141"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Cockshut Lane"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source:maxspeed" v="Sign at S"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="188367830" version="6" timestamp="2025-04-09T09:43:32Z" changeset="164715370" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1989969141"/>
+    <nd ref="2804013229"/>
+    <nd ref="2804013277"/>
+    <nd ref="862233889"/>
+    <nd ref="2804013293"/>
+    <nd ref="2804013303"/>
+    <nd ref="2804013268"/>
+    <nd ref="312665325"/>
+    <nd ref="2804013290"/>
+    <nd ref="2804013234"/>
+    <nd ref="312665326"/>
+    <nd ref="2804013333"/>
+    <nd ref="2804013230"/>
+    <nd ref="2804013307"/>
+    <nd ref="2804013294"/>
+    <nd ref="2804013276"/>
+    <nd ref="2804013336"/>
+    <nd ref="312665327"/>
+    <nd ref="2804013319"/>
+    <nd ref="2678007760"/>
+    <nd ref="2804013312"/>
+    <nd ref="286469220"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Cockshut Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="Sign at S"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="188374282" version="1" timestamp="2012-10-30T19:24:06Z" changeset="13689853" uid="61942" user="SomeoneElse">
+    <nd ref="1990050693"/>
+    <nd ref="1990050676"/>
+    <nd ref="1990050681"/>
+    <nd ref="1990050682"/>
+    <nd ref="1990050693"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Portland Terrace"/>
+    <tag k="source" v="View from W;Bing"/>
+    <tag k="source:name" v="Sign at NW"/>
+  </way>
+  <way id="188374284" version="1" timestamp="2012-10-30T19:24:06Z" changeset="13689853" uid="61942" user="SomeoneElse">
+    <nd ref="1990050698"/>
+    <nd ref="1990050684"/>
+    <nd ref="1990050677"/>
+    <nd ref="1990050697"/>
+    <nd ref="1990050698"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Portland Terrace"/>
+    <tag k="source" v="View from W;Bing"/>
+    <tag k="source:name" v="Sign at NW"/>
+  </way>
+  <way id="188374290" version="1" timestamp="2012-10-30T19:24:06Z" changeset="13689853" uid="61942" user="SomeoneElse">
+    <nd ref="1990050683"/>
+    <nd ref="1990050687"/>
+    <nd ref="1990050692"/>
+    <nd ref="1990050695"/>
+    <nd ref="1990050683"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Portland Terrace"/>
+    <tag k="source" v="View from W;Bing"/>
+    <tag k="source:name" v="Sign at NW"/>
+  </way>
+  <way id="188374292" version="1" timestamp="2012-10-30T19:24:06Z" changeset="13689853" uid="61942" user="SomeoneElse">
+    <nd ref="1990050688"/>
+    <nd ref="1990050694"/>
+    <nd ref="1990050675"/>
+    <nd ref="1990050699"/>
+    <nd ref="1990050688"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Portland Terrace"/>
+    <tag k="source" v="View from W;Bing"/>
+    <tag k="source:name" v="Sign at NW"/>
+  </way>
+  <way id="188374294" version="1" timestamp="2012-10-30T19:24:06Z" changeset="13689853" uid="61942" user="SomeoneElse">
+    <nd ref="1990050685"/>
+    <nd ref="1990050696"/>
+    <nd ref="1990050691"/>
+    <nd ref="1990050689"/>
+    <nd ref="1990050685"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Portland Terrace"/>
+    <tag k="source" v="View from W;Bing"/>
+    <tag k="source:name" v="Sign at NW"/>
+  </way>
+  <way id="226254948" version="3" timestamp="2014-04-30T20:00:21Z" changeset="22049066" uid="2011702" user="krd_mapper">
+    <nd ref="559727715"/>
+    <nd ref="2827499796"/>
+    <nd ref="559727718"/>
+    <nd ref="312665316"/>
+    <nd ref="2827499797"/>
+    <nd ref="559727722"/>
+    <nd ref="2827500018"/>
+    <nd ref="559727679"/>
+    <nd ref="559727660"/>
+    <nd ref="2827499785"/>
+    <nd ref="312665317"/>
+    <nd ref="2827499791"/>
+    <nd ref="2827500014"/>
+    <nd ref="2641614178"/>
+    <nd ref="2827499776"/>
+    <nd ref="2641614183"/>
+    <nd ref="312665318"/>
+    <nd ref="2827499780"/>
+    <nd ref="1990077942"/>
+    <nd ref="312665319"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Portland Road"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="226256757" version="4" timestamp="2021-06-08T00:16:16Z" changeset="105999114" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="263350535"/>
+    <nd ref="2803909689"/>
+    <nd ref="2803909685"/>
+    <nd ref="263350537"/>
+    <nd ref="559727794"/>
+    <nd ref="263350538"/>
+    <nd ref="2803952146"/>
+    <nd ref="2803952106"/>
+    <nd ref="263350539"/>
+    <nd ref="1265549428"/>
+    <nd ref="2803952118"/>
+    <nd ref="1265549463"/>
+    <nd ref="2803909688"/>
+    <nd ref="2803909698"/>
+    <nd ref="1265549496"/>
+    <nd ref="2803952126"/>
+    <nd ref="2803952128"/>
+    <nd ref="2803952130"/>
+    <nd ref="1265549415"/>
+    <nd ref="2803952113"/>
+    <nd ref="263350540"/>
+    <nd ref="2803952143"/>
+    <nd ref="2803952135"/>
+    <nd ref="312665278"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="ref" v="A632"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="258850557" version="4" timestamp="2016-04-25T14:29:26Z" changeset="38858318" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="560139091"/>
+    <nd ref="2827500007"/>
+    <nd ref="312665320"/>
+    <nd ref="2827500005"/>
+    <nd ref="1990050679"/>
+    <nd ref="2641653412"/>
+    <nd ref="4146903042"/>
+    <nd ref="525591840"/>
+    <nd ref="4146900240"/>
+    <nd ref="4146903041"/>
+    <nd ref="312665228"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Portland Road"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="359674432" version="6" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="312667285"/>
+    <nd ref="2789214203"/>
+    <nd ref="2789214183"/>
+    <nd ref="2789214192"/>
+    <nd ref="2789214196"/>
+    <nd ref="862260423"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Wood Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="Sign at SE"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="370220781" version="4" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="862155335"/>
+    <nd ref="862260610"/>
+    <nd ref="2789214207"/>
+    <nd ref="3643501085"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Wood Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="Sign at SE"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="verge" v="both"/>
+  </way>
+  <way id="473892096" version="5" timestamp="2022-04-27T12:29:57Z" changeset="120257737" uid="5589" user="user_5589">
+    <nd ref="2803952102"/>
+    <nd ref="862167812"/>
+    <nd ref="2803952154"/>
+    <nd ref="2803909691"/>
+    <nd ref="263350544"/>
+    <nd ref="2803952147"/>
+    <nd ref="263350545"/>
+    <nd ref="1352004387"/>
+    <nd ref="862260579"/>
+    <nd ref="862260586"/>
+    <nd ref="263350546"/>
+    <nd ref="263350547"/>
+    <nd ref="2803909684"/>
+    <nd ref="263350548"/>
+    <nd ref="862182488"/>
+    <nd ref="1265549400"/>
+    <nd ref="862182455"/>
+    <nd ref="263350549"/>
+    <nd ref="2803952145"/>
+    <nd ref="563427739"/>
+    <nd ref="2803952149"/>
+    <nd ref="263350550"/>
+    <nd ref="862182460"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Langwith Road"/>
+    <tag k="ref" v="A632"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="531787614" version="3" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="3643501085"/>
+    <nd ref="862260432"/>
+    <nd ref="2789214218"/>
+    <nd ref="2789214197"/>
+    <nd ref="2789214213"/>
+    <nd ref="312667290"/>
+    <nd ref="2789214219"/>
+    <nd ref="2789214199"/>
+    <nd ref="312667292"/>
+    <nd ref="2789214188"/>
+    <nd ref="559675447"/>
+    <nd ref="559675026"/>
+    <nd ref="5161634678"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Wood Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="Sign at SE"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="verge" v="right"/>
+  </way>
+  <way id="531789648" version="2" timestamp="2021-06-08T00:16:37Z" changeset="105999114" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="862260423"/>
+    <nd ref="2789214222"/>
+    <nd ref="2789214217"/>
+    <nd ref="312667287"/>
+    <nd ref="2789214221"/>
+    <nd ref="312667289"/>
+    <nd ref="2789214191"/>
+    <nd ref="862155335"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Wood Lane"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:maxspeed" v="Sign at SE"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="836414337" version="1" timestamp="2020-08-12T13:25:01Z" changeset="89307357" uid="52797" user="hofoen">
+    <nd ref="7806772603"/>
+    <nd ref="7806772602"/>
+    <nd ref="7806772601"/>
+    <nd ref="7806772600"/>
+    <nd ref="7806772603"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="Langwith Mill House"/>
+    <tag k="wikidata" v="Q26518260"/>
+  </way>
+
+</osm>

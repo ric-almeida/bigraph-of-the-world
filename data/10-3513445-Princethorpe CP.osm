@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:37:55Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="25880178" lat="52.3378256" lon="-1.4088068" version="2" timestamp="2013-08-26T13:00:01Z" changeset="17516731" uid="12667" user="Curran1980"/>
+  <node id="254303549" lat="52.3242730" lon="-1.4615838" version="3" timestamp="2015-05-31T14:38:15Z" changeset="31608489" uid="154484" user="PeterP"/>
+  <node id="519627682" lat="52.3353359" lon="-1.4400322" version="3" timestamp="2015-07-31T18:03:59Z" changeset="33014034" uid="154484" user="PeterP"/>
+  <node id="522281390" lat="52.3241257" lon="-1.4072457" version="1" timestamp="2009-10-06T02:42:43Z" changeset="2756626" uid="22445" user="PhilH"/>
+  <node id="539133347" lat="52.3360471" lon="-1.3654670" version="2" timestamp="2010-10-04T22:45:00Z" changeset="5958033" uid="2274" user="Ben"/>
+  <node id="1338764377" lat="52.3260420" lon="-1.4177463" version="2" timestamp="2017-08-28T09:54:46Z" changeset="51503205" uid="84681" user="SK53"/>
+  <node id="2276490889" lat="52.3402833" lon="-1.4176751" version="2" timestamp="2024-09-29T22:59:21Z" changeset="157273477" uid="230654" user="C2L"/>
+  <way id="4288522" version="9" timestamp="2024-08-21T15:15:37Z" changeset="155563671" uid="5589" user="user_5589">
+    <nd ref="21132020"/>
+    <nd ref="15830950"/>
+    <nd ref="25880156"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:backward" v="left|right"/>
+  </way>
+  <way id="10881333" version="24" timestamp="2025-10-04T00:26:50Z" changeset="172813069" uid="13247722" user="TheCanMan">
+    <nd ref="25880178"/>
+    <nd ref="8404829306"/>
+    <nd ref="2432294208"/>
+    <nd ref="25880179"/>
+    <nd ref="2432294465"/>
+    <nd ref="2432294332"/>
+    <nd ref="25880180"/>
+    <nd ref="2432294334"/>
+    <nd ref="25880181"/>
+    <nd ref="2432294429"/>
+    <nd ref="2432294498"/>
+    <nd ref="2432294451"/>
+    <nd ref="2432294269"/>
+    <nd ref="25880182"/>
+    <nd ref="25880183"/>
+    <nd ref="2432294246"/>
+    <nd ref="25880184"/>
+    <nd ref="2432294408"/>
+    <nd ref="2432294379"/>
+    <nd ref="2432294448"/>
+    <nd ref="2432294206"/>
+    <nd ref="25880186"/>
+    <nd ref="2432294504"/>
+    <nd ref="2432294395"/>
+    <nd ref="25880187"/>
+    <nd ref="3671602876"/>
+    <nd ref="2432294319"/>
+    <nd ref="25880188"/>
+    <nd ref="2432294410"/>
+    <nd ref="25880190"/>
+    <nd ref="2432294223"/>
+    <nd ref="2432294398"/>
+    <nd ref="7887053570"/>
+    <nd ref="2432294460"/>
+    <nd ref="25880191"/>
+    <nd ref="2432294407"/>
+    <nd ref="2432294462"/>
+    <nd ref="25880193"/>
+    <nd ref="2432294449"/>
+    <nd ref="2432294355"/>
+    <nd ref="25880196"/>
+    <nd ref="2432294270"/>
+    <nd ref="25880197"/>
+    <nd ref="25880194"/>
+    <nd ref="2432294323"/>
+    <nd ref="2432294512"/>
+    <nd ref="25880198"/>
+    <nd ref="2432294330"/>
+    <nd ref="25880199"/>
+    <nd ref="2432294389"/>
+    <nd ref="2432294471"/>
+    <nd ref="2432294411"/>
+    <nd ref="13191724244"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="26477191" version="10" timestamp="2024-04-16T22:14:33Z" changeset="150104601" uid="7463" user="kesterlester">
+    <nd ref="11823031566"/>
+    <nd ref="11823031565"/>
+    <nd ref="11823031564"/>
+    <nd ref="2276501864"/>
+    <nd ref="2276501867"/>
+    <nd ref="290177702"/>
+    <nd ref="2276501873"/>
+    <nd ref="2276501875"/>
+    <nd ref="2276501877"/>
+    <nd ref="290177703"/>
+    <nd ref="2276501882"/>
+    <nd ref="11823039573"/>
+    <nd ref="290177704"/>
+    <nd ref="290177706"/>
+    <nd ref="11823039574"/>
+    <nd ref="290177707"/>
+    <nd ref="3675313680"/>
+    <nd ref="519627682"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Burnthurst Lane"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="73185370" version="7" timestamp="2025-10-04T00:26:16Z" changeset="172813059" uid="13247722" user="TheCanMan">
+    <nd ref="868321757"/>
+    <nd ref="1338757107"/>
+    <nd ref="1338757103"/>
+    <nd ref="868321871"/>
+    <nd ref="1338757110"/>
+    <nd ref="1338757113"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Sheep Dip Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73185489" version="3" timestamp="2013-08-26T13:00:09Z" changeset="17516731" uid="12667" user="Curran1980">
+    <nd ref="868322663"/>
+    <nd ref="868322665"/>
+    <nd ref="2432294485"/>
+    <nd ref="2432294384"/>
+    <nd ref="2432294268"/>
+    <nd ref="868322667"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fosse Crescent"/>
+  </way>
+  <way id="73186381" version="2" timestamp="2010-08-19T09:59:29Z" changeset="5533992" uid="44659" user="Phil Shipley">
+    <nd ref="868322665"/>
+    <nd ref="868325494"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Fosse Crescent"/>
+  </way>
+  <way id="74000004" version="24" timestamp="2025-10-04T00:22:03Z" changeset="172813005" uid="13247722" user="TheCanMan">
+    <nd ref="539133347"/>
+    <nd ref="938106573"/>
+    <nd ref="6878322319"/>
+    <nd ref="938119538"/>
+    <nd ref="153415828"/>
+    <nd ref="2512589137"/>
+    <nd ref="2512589139"/>
+    <nd ref="153415832"/>
+    <nd ref="938119537"/>
+    <nd ref="2500753413"/>
+    <nd ref="153415840"/>
+    <nd ref="153415842"/>
+    <nd ref="2512589149"/>
+    <nd ref="153415844"/>
+    <nd ref="153415847"/>
+    <nd ref="2500753418"/>
+    <nd ref="2500753421"/>
+    <nd ref="153415855"/>
+    <nd ref="153415856"/>
+    <nd ref="153415858"/>
+    <nd ref="938119536"/>
+    <nd ref="412199868"/>
+    <nd ref="10275061754"/>
+    <nd ref="153415860"/>
+    <nd ref="938118336"/>
+    <nd ref="153415861"/>
+    <nd ref="7713913755"/>
+    <nd ref="7713913743"/>
+    <nd ref="938118334"/>
+    <nd ref="153415862"/>
+    <nd ref="153415864"/>
+    <nd ref="153415865"/>
+    <nd ref="153415867"/>
+    <nd ref="153415870"/>
+    <nd ref="153415872"/>
+    <nd ref="153415874"/>
+    <nd ref="938118332"/>
+    <nd ref="153415876"/>
+    <nd ref="153415877"/>
+    <nd ref="153415880"/>
+    <nd ref="7612560295"/>
+    <nd ref="153415882"/>
+    <nd ref="153415886"/>
+    <nd ref="153415887"/>
+    <nd ref="2500712784"/>
+    <nd ref="153415888"/>
+    <nd ref="2500712774"/>
+    <nd ref="153415890"/>
+    <nd ref="153415892"/>
+    <nd ref="7713913756"/>
+    <nd ref="2500712770"/>
+    <nd ref="2512627820"/>
+    <nd ref="2500712768"/>
+    <nd ref="153415896"/>
+    <nd ref="153415898"/>
+    <nd ref="153415900"/>
+    <nd ref="2500712762"/>
+    <nd ref="153415904"/>
+    <nd ref="153415905"/>
+    <nd ref="7936393624"/>
+    <nd ref="153415906"/>
+    <nd ref="6304914299"/>
+    <nd ref="153415908"/>
+    <nd ref="153415910"/>
+    <nd ref="6518686578"/>
+    <nd ref="6518686579"/>
+    <nd ref="10274471271"/>
+    <nd ref="153415911"/>
+    <nd ref="8816747035"/>
+    <nd ref="153415914"/>
+    <nd ref="2500712738"/>
+    <nd ref="10274471270"/>
+    <nd ref="10274471268"/>
+    <nd ref="153415916"/>
+    <nd ref="10274471269"/>
+    <nd ref="153415918"/>
+    <nd ref="153415921"/>
+    <nd ref="153415922"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75041040" version="12" timestamp="2021-06-04T14:48:05Z" changeset="105845821" uid="10252558" user="prddym">
+    <nd ref="519627682"/>
+    <nd ref="3675313532"/>
+    <nd ref="290177708"/>
+    <nd ref="3675310060"/>
+    <nd ref="1383258736"/>
+    <nd ref="3675313595"/>
+    <nd ref="8448340536"/>
+    <nd ref="6524108842"/>
+    <nd ref="6618338320"/>
+    <nd ref="1383258728"/>
+    <nd ref="3675313757"/>
+    <nd ref="290177709"/>
+    <nd ref="3675313546"/>
+    <nd ref="3675310065"/>
+    <nd ref="8386287863"/>
+    <nd ref="290177710"/>
+    <nd ref="3675313706"/>
+    <nd ref="8804480114"/>
+    <nd ref="6902617028"/>
+    <nd ref="3675313701"/>
+    <nd ref="3675313572"/>
+    <nd ref="8804512421"/>
+    <nd ref="3675313697"/>
+    <nd ref="290177711"/>
+    <nd ref="1383258733"/>
+    <nd ref="3675313746"/>
+    <nd ref="3675310076"/>
+    <nd ref="3675310057"/>
+    <nd ref="3675313663"/>
+    <nd ref="290177712"/>
+    <nd ref="1383258756"/>
+    <nd ref="3675313604"/>
+    <nd ref="1383258737"/>
+    <nd ref="3675313737"/>
+    <nd ref="290177713"/>
+    <nd ref="1383258725"/>
+    <nd ref="290177714"/>
+    <nd ref="3675313533"/>
+    <nd ref="290177715"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Burnthurst Lane"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="75171127" version="9" timestamp="2025-09-09T21:08:32Z" changeset="171706932" uid="13247722" user="TheCanMan">
+    <nd ref="887126537"/>
+    <nd ref="1338765073"/>
+    <nd ref="1338765075"/>
+    <nd ref="887126539"/>
+    <nd ref="887126546"/>
+    <nd ref="1338765079"/>
+    <nd ref="1338765074"/>
+    <nd ref="1338765081"/>
+    <nd ref="887126548"/>
+    <nd ref="1338765076"/>
+    <nd ref="1338765077"/>
+    <nd ref="1338765078"/>
+    <nd ref="15830949"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Barn Lane"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="86021118" version="13" timestamp="2025-01-08T20:10:53Z" changeset="161146840" uid="5229644" user="Nathan_A_RF">
+    <nd ref="21132020"/>
+    <nd ref="1338752704"/>
+    <nd ref="1338752721"/>
+    <nd ref="1030588404"/>
+    <nd ref="1338752718"/>
+    <nd ref="6307844774"/>
+    <nd ref="6307844781"/>
+    <nd ref="1030588344"/>
+    <nd ref="21132364"/>
+    <nd ref="1338752715"/>
+    <nd ref="1030588339"/>
+    <nd ref="1338752714"/>
+    <nd ref="25880231"/>
+    <nd ref="12209901638"/>
+    <nd ref="1030588393"/>
+    <nd ref="539131464"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Oxford Road"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="88807657" version="3" timestamp="2011-08-22T18:57:35Z" changeset="9097056" uid="112997" user="sobbomapper">
+    <nd ref="1030588113"/>
+    <nd ref="1030588352"/>
+    <nd ref="1030588170"/>
+    <nd ref="1030588418"/>
+    <nd ref="1030588376"/>
+    <nd ref="1030588323"/>
+    <nd ref="1030588204"/>
+    <nd ref="1030588118"/>
+    <nd ref="1030588177"/>
+    <nd ref="1030588408"/>
+    <nd ref="1030588322"/>
+    <nd ref="1030588239"/>
+    <nd ref="1030588191"/>
+    <nd ref="1030588105"/>
+    <nd ref="25880239"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="88807662" version="2" timestamp="2011-08-22T18:57:35Z" changeset="9097056" uid="112997" user="sobbomapper">
+    <nd ref="1030588170"/>
+    <nd ref="1030588132"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="119082169" version="8" timestamp="2025-01-08T20:10:53Z" changeset="161146840" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1338764377"/>
+    <nd ref="21132006"/>
+    <nd ref="1338764378"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="119082173" version="12" timestamp="2025-01-08T20:10:53Z" changeset="161146840" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1338764378"/>
+    <nd ref="2290508847"/>
+    <nd ref="21132007"/>
+    <nd ref="2290508841"/>
+    <nd ref="15830949"/>
+    <nd ref="21132009"/>
+    <nd ref="5063779055"/>
+    <nd ref="21132008"/>
+    <nd ref="21132011"/>
+    <nd ref="21132010"/>
+    <nd ref="5063779052"/>
+    <nd ref="21132012"/>
+    <nd ref="1338752716"/>
+    <nd ref="1338752708"/>
+    <nd ref="1338752729"/>
+    <nd ref="21132013"/>
+    <nd ref="1338752731"/>
+    <nd ref="21132015"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="124190596" version="7" timestamp="2023-11-15T23:48:06Z" changeset="144071935" uid="5589" user="user_5589">
+    <nd ref="254303582"/>
+    <nd ref="1382927400"/>
+    <nd ref="3671539836"/>
+    <nd ref="1030573064"/>
+    <nd ref="1030572883"/>
+    <nd ref="1030572926"/>
+    <nd ref="254303583"/>
+    <nd ref="5864804047"/>
+    <nd ref="3671539853"/>
+    <nd ref="254303584"/>
+    <nd ref="3671539945"/>
+    <nd ref="6270677018"/>
+    <nd ref="254303585"/>
+    <nd ref="1338752717"/>
+    <nd ref="6524569601"/>
+    <nd ref="1338752720"/>
+    <nd ref="539131464"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="124190773" version="7" timestamp="2023-03-24T05:22:32Z" changeset="134048403" uid="5589" user="user_5589">
+    <nd ref="868321757"/>
+    <nd ref="1338757108"/>
+    <nd ref="1030588156"/>
+    <nd ref="25880233"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Oxford Road"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="124190774" version="6" timestamp="2023-03-24T05:22:37Z" changeset="134048403" uid="5589" user="user_5589">
+    <nd ref="539131464"/>
+    <nd ref="868321757"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Oxford Road"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="124190775" version="3" timestamp="2025-10-04T00:26:16Z" changeset="172813059" uid="13247722" user="TheCanMan">
+    <nd ref="1338757113"/>
+    <nd ref="868321873"/>
+    <nd ref="1338757104"/>
+    <nd ref="1338757105"/>
+    <nd ref="1338757102"/>
+    <nd ref="868321875"/>
+    <nd ref="1338757111"/>
+    <nd ref="1338757112"/>
+    <nd ref="868321876"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Sheep Dip Lane"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="126761443" version="3" timestamp="2023-03-28T10:48:00Z" changeset="134214664" uid="12100774" user="Dr Hague">
+    <nd ref="1404373076"/>
+    <nd ref="1404373074"/>
+    <nd ref="6307844776"/>
+    <nd ref="6307844777"/>
+    <nd ref="1404373075"/>
+    <nd ref="1404373073"/>
+    <nd ref="1404373078"/>
+    <nd ref="10768407899"/>
+    <nd ref="1404373072"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hightown"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="217298310" version="10" timestamp="2024-09-29T22:59:21Z" changeset="157273477" uid="230654" user="C2L">
+    <nd ref="522281390"/>
+    <nd ref="12209901646"/>
+    <nd ref="12209901645"/>
+    <nd ref="887126511"/>
+    <nd ref="12209901644"/>
+    <nd ref="12209901643"/>
+    <nd ref="21132357"/>
+    <nd ref="2265757014"/>
+    <nd ref="2512604637"/>
+    <nd ref="2265757015"/>
+    <nd ref="2265757016"/>
+    <nd ref="12209901642"/>
+    <nd ref="21132359"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Oxford Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+  </way>
+  <way id="218407305" version="7" timestamp="2025-01-08T20:10:53Z" changeset="161146840" uid="5229644" user="Nathan_A_RF">
+    <nd ref="25880233"/>
+    <nd ref="1030588102"/>
+    <nd ref="1030588367"/>
+    <nd ref="1338757109"/>
+    <nd ref="25880236"/>
+    <nd ref="1338757114"/>
+    <nd ref="1030588349"/>
+    <nd ref="1030588189"/>
+    <nd ref="1030588279"/>
+    <nd ref="1030588268"/>
+    <nd ref="12209901637"/>
+    <nd ref="12209901636"/>
+    <nd ref="868321761"/>
+    <nd ref="1030588164"/>
+    <nd ref="1030588113"/>
+    <nd ref="25880240"/>
+    <nd ref="12209901635"/>
+    <nd ref="1030588413"/>
+    <nd ref="1030588372"/>
+    <nd ref="25880239"/>
+    <nd ref="12209901634"/>
+    <nd ref="6612934178"/>
+    <nd ref="1030588312"/>
+    <nd ref="2276490889"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Oxford Road"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="218407306" version="4" timestamp="2024-08-16T22:48:55Z" changeset="155347442" uid="5589" user="user_5589">
+    <nd ref="21132359"/>
+    <nd ref="5896997952"/>
+    <nd ref="2265757017"/>
+    <nd ref="7068755633"/>
+    <nd ref="21132019"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Oxford Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A423"/>
+  </way>
+  <way id="257516345" version="1" timestamp="2014-01-20T18:33:33Z" changeset="20108906" uid="9065" user="brianboru">
+    <nd ref="2630198900"/>
+    <nd ref="2630198896"/>
+    <nd ref="2630198892"/>
+    <nd ref="2630198886"/>
+    <nd ref="2630198888"/>
+    <nd ref="2630198884"/>
+    <nd ref="2630198881"/>
+    <nd ref="2630198874"/>
+    <nd ref="2630198872"/>
+    <nd ref="2630198870"/>
+    <nd ref="2630198868"/>
+    <nd ref="2630198866"/>
+    <nd ref="2630198890"/>
+    <nd ref="2630198894"/>
+    <nd ref="2630198898"/>
+    <nd ref="2630198900"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="name" v="The Three Horseshoes"/>
+    <tag k="source" v="Warwicks Aerial Imagery OGLv2"/>
+  </way>
+  <way id="296654989" version="12" timestamp="2024-04-16T22:09:29Z" changeset="150104520" uid="7463" user="kesterlester">
+    <nd ref="254303549"/>
+    <nd ref="3561174442"/>
+    <nd ref="3561174436"/>
+    <nd ref="3561174443"/>
+    <nd ref="254303550"/>
+    <nd ref="254303551"/>
+    <nd ref="3857137918"/>
+    <nd ref="254303552"/>
+    <nd ref="6885825261"/>
+    <nd ref="2428119507"/>
+    <nd ref="2428119508"/>
+    <nd ref="254303553"/>
+    <nd ref="3857137911"/>
+    <nd ref="1382920357"/>
+    <nd ref="254303554"/>
+    <nd ref="3857137915"/>
+    <nd ref="1382920380"/>
+    <nd ref="3857137912"/>
+    <nd ref="254303555"/>
+    <nd ref="254303556"/>
+    <nd ref="1382920394"/>
+    <nd ref="1382920283"/>
+    <nd ref="1382920363"/>
+    <nd ref="2377031652"/>
+    <nd ref="254303557"/>
+    <nd ref="254303558"/>
+    <nd ref="2276501817"/>
+    <nd ref="3670653176"/>
+    <nd ref="1382920280"/>
+    <nd ref="1382920352"/>
+    <nd ref="254303559"/>
+    <nd ref="2276501818"/>
+    <nd ref="254303560"/>
+    <nd ref="2276501819"/>
+    <nd ref="2276501820"/>
+    <nd ref="254303561"/>
+    <nd ref="2276501821"/>
+    <nd ref="254303562"/>
+    <nd ref="254303563"/>
+    <nd ref="3671952747"/>
+    <nd ref="2276501822"/>
+    <nd ref="254303564"/>
+    <nd ref="501593509"/>
+    <nd ref="2276501823"/>
+    <nd ref="254303565"/>
+    <nd ref="2276501824"/>
+    <nd ref="2276501825"/>
+    <nd ref="254303566"/>
+    <nd ref="2276501826"/>
+    <nd ref="254303567"/>
+    <nd ref="9039378809"/>
+    <nd ref="254303568"/>
+    <nd ref="3445369314"/>
+    <nd ref="2276501844"/>
+    <nd ref="254303569"/>
+    <nd ref="2276501853"/>
+    <nd ref="1030573098"/>
+    <nd ref="290177291"/>
+    <nd ref="2276501858"/>
+    <nd ref="11823031566"/>
+    <nd ref="1030573248"/>
+    <nd ref="254303570"/>
+    <nd ref="254303571"/>
+    <nd ref="1030573290"/>
+    <nd ref="254303572"/>
+    <nd ref="1030572866"/>
+    <nd ref="254303573"/>
+    <nd ref="1030573003"/>
+    <nd ref="1030573212"/>
+    <nd ref="1030572958"/>
+    <nd ref="254303574"/>
+    <nd ref="1030573185"/>
+    <nd ref="254303575"/>
+    <nd ref="254303576"/>
+    <nd ref="254303577"/>
+    <nd ref="1030573307"/>
+    <nd ref="254303578"/>
+    <nd ref="2434001287"/>
+    <nd ref="254303579"/>
+    <nd ref="254303580"/>
+    <nd ref="11352792686"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="491796796" version="3" timestamp="2022-12-01T18:08:11Z" changeset="129614550" uid="13001300" user="simonc11">
+    <nd ref="4838845266"/>
+    <nd ref="5637256049"/>
+    <nd ref="5637256050"/>
+    <nd ref="5637256048"/>
+    <nd ref="5637256047"/>
+    <nd ref="4838845267"/>
+    <nd ref="4838845268"/>
+    <nd ref="4838845269"/>
+    <nd ref="4838845266"/>
+    <tag k="addr:city" v="Princethorpe"/>
+    <tag k="addr:postcode" v="CV23 9PT"/>
+    <tag k="addr:street" v="Oxford Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Gulf"/>
+    <tag k="brand:wikidata" v="Q5617505"/>
+    <tag k="building" v="yes"/>
+    <tag k="fhrs:id" v="928899"/>
+    <tag k="name" v="Princethorpe Service Station"/>
+  </way>
+  <way id="542776495" version="1" timestamp="2017-11-25T15:32:39Z" changeset="54075050" uid="346039" user="fitzsimons">
+    <nd ref="5247355030"/>
+    <nd ref="5247355031"/>
+    <nd ref="5247355032"/>
+    <nd ref="5247355033"/>
+    <nd ref="5247355030"/>
+    <tag k="addr:city" v="Princethorpe"/>
+    <tag k="addr:postcode" v="CV23 9PQ"/>
+    <tag k="addr:street" v="Fosse Crescent"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Queen B's Beauty"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.queenbsbeauty.co.uk/index.html"/>
+  </way>
+  <way id="624133781" version="6" timestamp="2024-09-29T22:59:21Z" changeset="157273477" uid="230654" user="C2L">
+    <nd ref="21132015"/>
+    <nd ref="12209901641"/>
+    <nd ref="21132016"/>
+    <nd ref="12209901640"/>
+    <nd ref="1338752710"/>
+    <nd ref="21132017"/>
+    <nd ref="21132363"/>
+    <nd ref="21132362"/>
+    <nd ref="1338752732"/>
+    <nd ref="5896997974"/>
+    <nd ref="12209901639"/>
+    <nd ref="1338752712"/>
+    <nd ref="21132018"/>
+    <nd ref="21132019"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="624469642" version="5" timestamp="2024-08-21T15:15:47Z" changeset="155563671" uid="5589" user="user_5589">
+    <nd ref="25880165"/>
+    <nd ref="25880164"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="624469643" version="6" timestamp="2024-08-21T15:15:41Z" changeset="155563671" uid="5589" user="user_5589">
+    <nd ref="25880156"/>
+    <nd ref="25880165"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="624469647" version="8" timestamp="2025-01-08T20:10:53Z" changeset="161146840" uid="5229644" user="Nathan_A_RF">
+    <nd ref="21132019"/>
+    <nd ref="7462825253"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Oxford Road"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:backward" v="through|right"/>
+  </way>
+  <way id="669616426" version="3" timestamp="2021-06-10T23:23:56Z" changeset="106181189" uid="13533596" user="Commander Coder">
+    <nd ref="868321757"/>
+    <nd ref="6524569600"/>
+    <nd ref="8822661483"/>
+    <nd ref="6270677013"/>
+    <nd ref="6270677014"/>
+    <nd ref="6270677015"/>
+    <nd ref="6270677016"/>
+    <nd ref="6270677017"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="797895910" version="5" timestamp="2025-01-08T20:10:53Z" changeset="161146840" uid="5229644" user="Nathan_A_RF">
+    <nd ref="7462825253"/>
+    <nd ref="21132020"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Oxford Road"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:forward" v="through|right"/>
+  </way>
+  <way id="996818342" version="4" timestamp="2024-08-16T22:49:49Z" changeset="155347442" uid="5589" user="user_5589">
+    <nd ref="887126511"/>
+    <nd ref="1338765080"/>
+    <nd ref="887126537"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Barn Lane"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1157896587" version="1" timestamp="2023-03-28T10:48:00Z" changeset="134214664" uid="12100774" user="Dr Hague">
+    <nd ref="1404373079"/>
+    <nd ref="10768407899"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Three Horse Shoes"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="1223971754" version="1" timestamp="2023-11-15T23:53:15Z" changeset="144072753" uid="5589" user="user_5589">
+    <nd ref="11352792686"/>
+    <nd ref="254303581"/>
+    <nd ref="254303582"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1273199105" version="1" timestamp="2024-04-16T22:09:29Z" changeset="150104520" uid="7463" user="kesterlester">
+    <nd ref="290177291"/>
+    <nd ref="11823031567"/>
+    <nd ref="11823031563"/>
+    <nd ref="2276501864"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Burnthurst Lane"/>
+    <tag k="source" v="local_knowledge"/>
+  </way>
+  <way id="1349621310" version="1" timestamp="2025-01-08T20:10:53Z" changeset="161146840" uid="5229644" user="Nathan_A_RF">
+    <nd ref="2276490889"/>
+    <nd ref="12209901633"/>
+    <nd ref="868321766"/>
+    <nd ref="12209901632"/>
+    <nd ref="1030588197"/>
+    <nd ref="6039180648"/>
+    <nd ref="25880238"/>
+    <nd ref="12209901631"/>
+    <nd ref="3675313652"/>
+    <nd ref="12209901630"/>
+    <nd ref="12209901629"/>
+    <nd ref="25880243"/>
+    <nd ref="12209901628"/>
+    <nd ref="6909073191"/>
+    <nd ref="3675313614"/>
+    <nd ref="25880242"/>
+    <nd ref="6527720446"/>
+    <nd ref="3675313676"/>
+    <nd ref="1383258727"/>
+    <nd ref="12209901625"/>
+    <nd ref="12209901624"/>
+    <nd ref="1383258751"/>
+    <nd ref="290177355"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Oxford Road"/>
+    <tag k="ref" v="A423"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1435215156" version="1" timestamp="2025-10-04T00:22:03Z" changeset="172813005" uid="13247722" user="TheCanMan">
+    <nd ref="153415922"/>
+    <nd ref="1338757115"/>
+    <nd ref="1338757106"/>
+    <nd ref="6270677001"/>
+    <nd ref="153415923"/>
+    <nd ref="25880164"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1435215393" version="1" timestamp="2025-10-04T00:24:47Z" changeset="172813043" uid="13247722" user="TheCanMan">
+    <nd ref="25880164"/>
+    <nd ref="25880162"/>
+    <nd ref="6270677023"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1435215493" version="1" timestamp="2025-10-04T00:26:50Z" changeset="172813069" uid="13247722" user="TheCanMan">
+    <nd ref="6270677023"/>
+    <nd ref="13191724243"/>
+    <nd ref="25880157"/>
+    <nd ref="25880168"/>
+    <nd ref="1404373072"/>
+    <nd ref="25880167"/>
+    <nd ref="2432294529"/>
+    <nd ref="25880166"/>
+    <nd ref="25880170"/>
+    <nd ref="6270677010"/>
+    <nd ref="6776163357"/>
+    <nd ref="25880169"/>
+    <nd ref="2432294250"/>
+    <nd ref="25880171"/>
+    <nd ref="25880172"/>
+    <nd ref="2432294220"/>
+    <nd ref="868321876"/>
+    <nd ref="25880173"/>
+    <nd ref="868322667"/>
+    <nd ref="25880175"/>
+    <nd ref="2432294352"/>
+    <nd ref="25880176"/>
+    <nd ref="25880174"/>
+    <nd ref="2432294254"/>
+    <nd ref="2432294236"/>
+    <nd ref="25880177"/>
+    <nd ref="25880178"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <relation id="1314080" version="3" timestamp="2019-08-12T14:56:19Z" changeset="73272792" uid="9065" user="brianboru">
+    <member type="way" ref="88806215" role="inner"/>
+    <member type="way" ref="88806221" role="outer"/>
+    <member type="way" ref="713092248" role="outer"/>
+    <member type="way" ref="713092246" role="outer"/>
+    <member type="way" ref="713092247" role="outer"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Princethorpe College"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="9910580" version="2" timestamp="2019-08-12T14:57:50Z" changeset="73272871" uid="9065" user="brianboru">
+    <member type="way" ref="713092249" role="outer"/>
+    <member type="way" ref="713092248" role="outer"/>
+    <member type="way" ref="713092250" role="outer"/>
+    <member type="way" ref="713092247" role="outer"/>
+    <tag k="alt_name" v="St Mary's Priory"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="name" v="Church of Our Lady and All Angels"/>
+    <tag k="religion" v="christian"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+
+</osm>

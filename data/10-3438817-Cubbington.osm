@@ -1,0 +1,5020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:25:30Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="27477105" lat="52.3181679" lon="-1.5257903" version="4" timestamp="2014-01-14T15:43:04Z" changeset="19993300" uid="9065" user="brianboru"/>
+  <node id="27477349" lat="52.3299821" lon="-1.5009740" version="7" timestamp="2015-07-27T10:03:41Z" changeset="32904324" uid="154484" user="PeterP"/>
+  <node id="279230882" lat="52.3140394" lon="-1.5151240" version="4" timestamp="2012-01-16T16:30:15Z" changeset="10409400" uid="5589" user="user_5589"/>
+  <node id="279231144" lat="52.3129929" lon="-1.5205825" version="3" timestamp="2012-01-16T16:30:15Z" changeset="10409400" uid="5589" user="user_5589"/>
+  <node id="311081167" lat="52.3053088" lon="-1.5243626" version="8" timestamp="2020-10-13T17:06:39Z" changeset="92430438" uid="5589" user="user_5589"/>
+  <node id="457500394" lat="52.3127122" lon="-1.5236731" version="2" timestamp="2012-01-06T00:11:14Z" changeset="10307020" uid="5589" user="user_5589"/>
+  <node id="489842316" lat="52.3093153" lon="-1.5129680" version="6" timestamp="2020-09-15T23:53:53Z" changeset="90950188" uid="5589" user="user_5589"/>
+  <node id="703815981" lat="52.3146166" lon="-1.4970776" version="6" timestamp="2022-04-13T14:53:46Z" changeset="119672440" uid="5589" user="user_5589">
+    <tag k="direction" v="forward"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="traffic_sign" v="maxspeed"/>
+    <tag k="traffic_sign:direction" v="forward"/>
+  </node>
+  <node id="2421585030" lat="52.2920820" lon="-1.4761618" version="2" timestamp="2013-08-17T10:10:07Z" changeset="17381944" uid="9065" user="brianboru"/>
+  <node id="9593051766" lat="52.3174414" lon="-1.4992625" version="5" timestamp="2022-05-08T20:11:14Z" changeset="120717888" uid="5589" user="user_5589">
+    <tag k="direction" v="forward"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="traffic_sign" v="maxspeed"/>
+    <tag k="traffic_sign:direction" v="forward"/>
+  </node>
+  <way id="8419041" version="22" timestamp="2024-08-11T19:13:34Z" changeset="155117516" uid="5589" user="user_5589">
+    <nd ref="27477122"/>
+    <nd ref="9591207186"/>
+    <nd ref="1592949635"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="8419044" version="23" timestamp="2024-08-19T14:04:03Z" changeset="155462742" uid="5589" user="user_5589">
+    <nd ref="27477116"/>
+    <nd ref="539830951"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8419048" version="19" timestamp="2024-08-11T21:18:01Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="27477120"/>
+    <nd ref="9591207183"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8419049" version="20" timestamp="2024-08-11T19:13:50Z" changeset="155117516" uid="5589" user="user_5589">
+    <nd ref="254596379"/>
+    <nd ref="1592949662"/>
+    <nd ref="27477115"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Westhill Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8419050" version="18" timestamp="2024-08-11T19:13:43Z" changeset="155117516" uid="5589" user="user_5589">
+    <nd ref="27477115"/>
+    <nd ref="1592949616"/>
+    <nd ref="1592949579"/>
+    <nd ref="8004181594"/>
+    <nd ref="27477116"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Westhill Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8419070" version="18" timestamp="2022-12-20T00:24:48Z" changeset="130267736" uid="5589" user="user_5589">
+    <nd ref="27477361"/>
+    <nd ref="1578879773"/>
+    <nd ref="8004181592"/>
+    <nd ref="539830954"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8419082" version="19" timestamp="2024-08-11T19:13:10Z" changeset="155117516" uid="5589" user="user_5589">
+    <nd ref="27477362"/>
+    <nd ref="1578879767"/>
+    <nd ref="1578879777"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leicester Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="10275804" version="40" timestamp="2023-05-01T17:22:13Z" changeset="135584069" uid="5589" user="user_5589">
+    <nd ref="247657201"/>
+    <nd ref="10860463882"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_parking"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="22975064" version="31" timestamp="2024-08-11T21:30:28Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="247657201"/>
+    <nd ref="8235212494"/>
+    <nd ref="875023853"/>
+    <nd ref="9657194826"/>
+    <nd ref="1762570504"/>
+    <nd ref="1762570435"/>
+    <nd ref="1762570476"/>
+    <nd ref="10860503068"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_parking"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="23482166" version="23" timestamp="2023-05-01T17:22:13Z" changeset="135584069" uid="5589" user="user_5589">
+    <nd ref="247657201"/>
+    <nd ref="10860464649"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_parking"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25620121" version="21" timestamp="2022-03-08T20:02:53Z" changeset="118250913" uid="5589" user="user_5589">
+    <nd ref="279231144"/>
+    <nd ref="8004257253"/>
+    <nd ref="9532744696"/>
+    <nd ref="279230877"/>
+    <nd ref="1593145302"/>
+    <nd ref="1593145293"/>
+    <nd ref="1593145290"/>
+    <nd ref="1593145284"/>
+    <nd ref="1593145291"/>
+    <nd ref="1593145286"/>
+    <nd ref="8265411212"/>
+    <nd ref="1593145288"/>
+    <nd ref="279230878"/>
+    <nd ref="4028924663"/>
+    <nd ref="489337838"/>
+    <nd ref="279230881"/>
+    <nd ref="8265411200"/>
+    <nd ref="1593145295"/>
+    <nd ref="8265411199"/>
+    <nd ref="1593145287"/>
+    <nd ref="8265411198"/>
+    <nd ref="1593145285"/>
+    <nd ref="8265411197"/>
+    <nd ref="1593145292"/>
+    <nd ref="8265411196"/>
+    <nd ref="1593145297"/>
+    <nd ref="8265411195"/>
+    <nd ref="1593145299"/>
+    <nd ref="8265411194"/>
+    <nd ref="1593145305"/>
+    <nd ref="8265411193"/>
+    <nd ref="279230882"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Kelvin Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25620128" version="24" timestamp="2023-05-01T12:51:16Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="279230882"/>
+    <nd ref="279230883"/>
+    <nd ref="489337839"/>
+    <nd ref="279230884"/>
+    <nd ref="1593137179"/>
+    <nd ref="8265411185"/>
+    <nd ref="1593137171"/>
+    <nd ref="8265411180"/>
+    <nd ref="1593137173"/>
+    <nd ref="8265411184"/>
+    <nd ref="1593137176"/>
+    <nd ref="8265411183"/>
+    <nd ref="1593137150"/>
+    <nd ref="8265411182"/>
+    <nd ref="1593137145"/>
+    <nd ref="8265411181"/>
+    <nd ref="1593137149"/>
+    <nd ref="279230885"/>
+    <nd ref="279230886"/>
+    <nd ref="8674392478"/>
+    <nd ref="4028924666"/>
+    <nd ref="279231144"/>
+    <nd ref="3257309806"/>
+    <nd ref="1593137144"/>
+    <nd ref="1593137146"/>
+    <nd ref="9532744669"/>
+    <nd ref="8004181609"/>
+    <nd ref="461902842"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Stirling Avenue"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25620148" version="15" timestamp="2022-03-20T03:15:16Z" changeset="118684313" uid="5589" user="user_5589">
+    <nd ref="27477125"/>
+    <nd ref="8004257257"/>
+    <nd ref="9532744675"/>
+    <nd ref="9591207185"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Balmoral Way"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25620182" version="24" timestamp="2024-08-12T02:18:10Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="279231511"/>
+    <nd ref="1768480832"/>
+    <nd ref="1768480833"/>
+    <nd ref="1768480838"/>
+    <nd ref="1768480834"/>
+    <nd ref="1768480839"/>
+    <nd ref="279231512"/>
+    <nd ref="1768480837"/>
+    <nd ref="1768480815"/>
+    <nd ref="279231513"/>
+    <nd ref="1768480830"/>
+    <nd ref="1768480817"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4551"/>
+  </way>
+  <way id="25620184" version="30" timestamp="2024-08-12T02:22:13Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="703820215"/>
+    <nd ref="1762574058"/>
+    <nd ref="1762574055"/>
+    <nd ref="10860388292"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Lane"/>
+    <tag k="parking:left" v="lane"/>
+    <tag k="parking:left:orientation" v="parallel"/>
+    <tag k="parking:right" v="no"/>
+    <tag k="parking:right:restriction" v="no_parking"/>
+    <tag k="parking:right:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25620188" version="16" timestamp="2024-08-12T02:20:25Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="415369759"/>
+    <nd ref="1768479106"/>
+    <nd ref="1768479127"/>
+    <nd ref="1768479153"/>
+    <nd ref="10860425105"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Hill"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="28326785" version="36" timestamp="2024-04-28T01:36:06Z" changeset="150601495" uid="5589" user="user_5589">
+    <nd ref="311081167"/>
+    <nd ref="8004181601"/>
+    <nd ref="9532744618"/>
+    <nd ref="1592552917"/>
+    <nd ref="1592552922"/>
+    <nd ref="475228319"/>
+    <nd ref="1592552929"/>
+    <nd ref="1592552920"/>
+    <nd ref="4014788841"/>
+    <nd ref="1592552892"/>
+    <nd ref="1592552924"/>
+    <nd ref="875033066"/>
+    <nd ref="1592552919"/>
+    <nd ref="452631068"/>
+    <nd ref="9532744630"/>
+    <nd ref="6703497035"/>
+    <nd ref="455992616"/>
+    <nd ref="6703497036"/>
+    <nd ref="9532744627"/>
+    <nd ref="1592949677"/>
+    <nd ref="483409428"/>
+    <nd ref="1592949614"/>
+    <nd ref="1592949574"/>
+    <nd ref="469926002"/>
+    <nd ref="469926005"/>
+    <nd ref="7998218950"/>
+    <nd ref="9532744660"/>
+    <nd ref="8004181612"/>
+    <nd ref="456050411"/>
+    <nd ref="8004181613"/>
+    <nd ref="9532744663"/>
+    <nd ref="7998218949"/>
+    <nd ref="8262769972"/>
+    <nd ref="483413060"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Kinross Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4507"/>
+  </way>
+  <way id="35409046" version="22" timestamp="2024-08-11T21:29:45Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="279231553"/>
+    <nd ref="875018945"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="40425894" version="13" timestamp="2023-02-10T18:43:50Z" changeset="132375743" uid="5589" user="user_5589">
+    <nd ref="489337839"/>
+    <nd ref="8004257255"/>
+    <nd ref="9657162977"/>
+    <nd ref="489337840"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Roxburgh Croft"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4525"/>
+  </way>
+  <way id="40425895" version="16" timestamp="2022-03-20T03:15:16Z" changeset="118684313" uid="5589" user="user_5589">
+    <nd ref="489337838"/>
+    <nd ref="8004257254"/>
+    <nd ref="9532744693"/>
+    <nd ref="489337841"/>
+    <nd ref="1593164352"/>
+    <nd ref="1593164362"/>
+    <nd ref="1593164348"/>
+    <nd ref="489337842"/>
+    <nd ref="1593164336"/>
+    <nd ref="1593164359"/>
+    <nd ref="1593164380"/>
+    <nd ref="489337843"/>
+    <nd ref="489337844"/>
+    <nd ref="6751855464"/>
+    <nd ref="6751855463"/>
+    <nd ref="489337845"/>
+    <nd ref="489337846"/>
+    <nd ref="9591207184"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Beaufort Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="40425896" version="21" timestamp="2024-03-26T21:41:10Z" changeset="149196629" uid="6460170" user="Anon1412108">
+    <nd ref="489337846"/>
+    <nd ref="8004257259"/>
+    <nd ref="9532744681"/>
+    <nd ref="489337848"/>
+    <nd ref="489337850"/>
+    <nd ref="1593164345"/>
+    <nd ref="1593164375"/>
+    <nd ref="1593164365"/>
+    <nd ref="1593164378"/>
+    <nd ref="1593164355"/>
+    <nd ref="1593164334"/>
+    <nd ref="1593164343"/>
+    <nd ref="489337851"/>
+    <nd ref="9022267621"/>
+    <nd ref="489337852"/>
+    <nd ref="11764775078"/>
+    <nd ref="489337853"/>
+    <nd ref="1593164381"/>
+    <nd ref="1593164376"/>
+    <nd ref="1593164350"/>
+    <nd ref="1593164377"/>
+    <nd ref="1593164379"/>
+    <nd ref="1593164382"/>
+    <nd ref="1593164338"/>
+    <nd ref="489337854"/>
+    <nd ref="489337855"/>
+    <nd ref="489337856"/>
+    <nd ref="7986442249"/>
+    <nd ref="7986442252"/>
+    <nd ref="9532744690"/>
+    <nd ref="8004257260"/>
+    <nd ref="489337844"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Dunblane Drive"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="40425897" version="16" timestamp="2023-05-01T16:27:34Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="489337856"/>
+    <nd ref="8004257261"/>
+    <nd ref="9532744687"/>
+    <nd ref="9532744684"/>
+    <nd ref="8004257266"/>
+    <nd ref="489337848"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Girvan Grove"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="40447264" version="17" timestamp="2022-04-15T00:29:02Z" changeset="119732832" uid="5589" user="user_5589">
+    <nd ref="489842316"/>
+    <nd ref="8004257262"/>
+    <nd ref="9377504108"/>
+    <nd ref="6383437353"/>
+    <nd ref="8239682537"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="South View Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="40447265" version="12" timestamp="2022-06-11T17:12:29Z" changeset="122257996" uid="5589" user="user_5589">
+    <nd ref="489842314"/>
+    <nd ref="8004257263"/>
+    <nd ref="9377504111"/>
+    <nd ref="9811252834"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High View Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="40447266" version="15" timestamp="2024-08-16T21:20:27Z" changeset="155347442" uid="5589" user="user_5589">
+    <nd ref="489842310"/>
+    <nd ref="8004257265"/>
+    <nd ref="9377522219"/>
+    <nd ref="1593164364"/>
+    <nd ref="489842364"/>
+    <nd ref="11764775077"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="West View Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="43091201" version="16" timestamp="2024-08-11T21:17:33Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="539830965"/>
+    <nd ref="1578879787"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Leicester Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="43091249" version="13" timestamp="2022-12-20T00:25:24Z" changeset="130267736" uid="5589" user="user_5589">
+    <nd ref="539830951"/>
+    <nd ref="539831839"/>
+    <nd ref="27477361"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="56073178" version="21" timestamp="2024-08-12T02:20:25Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="279231548"/>
+    <nd ref="1768479118"/>
+    <nd ref="1768479104"/>
+    <nd ref="9657194880"/>
+    <nd ref="1768479120"/>
+    <nd ref="9657194879"/>
+    <nd ref="875019624"/>
+    <nd ref="279231527"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="New Street"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961733" version="20" timestamp="2024-08-11T21:29:24Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1374765511"/>
+    <nd ref="1762574053"/>
+    <nd ref="279231554"/>
+    <nd ref="1762574113"/>
+    <nd ref="279231553"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Queen Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4541"/>
+  </way>
+  <way id="73961833" version="14" timestamp="2024-08-12T02:20:25Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="415369759"/>
+    <nd ref="1768479083"/>
+    <nd ref="1768479109"/>
+    <nd ref="1768479133"/>
+    <nd ref="1768479137"/>
+    <nd ref="6518586769"/>
+    <nd ref="875019982"/>
+    <tag k="check_date:sidewalk:surface" v="2023-05-01"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Austen Court"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961834" version="18" timestamp="2024-08-12T02:18:23Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875020103"/>
+    <nd ref="1768479093"/>
+    <nd ref="1768479086"/>
+    <nd ref="1768479132"/>
+    <nd ref="875020105"/>
+    <nd ref="1768479096"/>
+    <nd ref="1768479144"/>
+    <nd ref="1768479130"/>
+    <nd ref="875020108"/>
+    <nd ref="875020111"/>
+    <nd ref="1768479095"/>
+    <nd ref="1768479089"/>
+    <nd ref="1768479145"/>
+    <nd ref="1768479088"/>
+    <nd ref="1768479128"/>
+    <nd ref="1768479087"/>
+    <nd ref="1768479099"/>
+    <nd ref="1768479131"/>
+    <nd ref="1768479140"/>
+    <nd ref="1768479124"/>
+    <nd ref="1768479156"/>
+    <nd ref="9657194864"/>
+    <nd ref="1768479116"/>
+    <nd ref="7986442246"/>
+    <nd ref="1171132346"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Grange"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961836" version="17" timestamp="2024-08-12T02:18:09Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="279231516"/>
+    <nd ref="1768480840"/>
+    <nd ref="1768480831"/>
+    <nd ref="1768480819"/>
+    <nd ref="1768480824"/>
+    <nd ref="1768480835"/>
+    <nd ref="875020469"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4551"/>
+  </way>
+  <way id="73961838" version="16" timestamp="2024-08-11T21:32:34Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="703819589"/>
+    <nd ref="8235212512"/>
+    <nd ref="9657194867"/>
+    <nd ref="875020894"/>
+    <nd ref="1768480117"/>
+    <nd ref="1768480118"/>
+    <nd ref="1768480123"/>
+    <nd ref="1768480122"/>
+    <nd ref="1768480129"/>
+    <nd ref="1768480119"/>
+    <nd ref="875020895"/>
+    <nd ref="6651549602"/>
+    <nd ref="875020896"/>
+    <nd ref="1768480115"/>
+    <nd ref="1768480125"/>
+    <nd ref="1768480110"/>
+    <nd ref="1768480128"/>
+    <nd ref="1768480114"/>
+    <nd ref="1768480120"/>
+    <nd ref="6442712319"/>
+    <nd ref="1768480126"/>
+    <nd ref="875020897"/>
+    <nd ref="6651549675"/>
+    <nd ref="1768480127"/>
+    <nd ref="9657194854"/>
+    <nd ref="8235212501"/>
+    <nd ref="27191547"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Price Road"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4550"/>
+  </way>
+  <way id="73961840" version="22" timestamp="2024-08-11T21:28:24Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1171132344"/>
+    <nd ref="8235718139"/>
+    <nd ref="1762550547"/>
+    <nd ref="8235718138"/>
+    <nd ref="8794951508"/>
+    <nd ref="279231557"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="73961843" version="16" timestamp="2024-08-11T21:28:55Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875021271"/>
+    <nd ref="875021418"/>
+    <nd ref="9657162994"/>
+    <nd ref="8235212509"/>
+    <nd ref="703814290"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="North Close"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961844" version="16" timestamp="2022-06-30T14:54:51Z" changeset="123046869" uid="5589" user="user_5589">
+    <nd ref="27191550"/>
+    <nd ref="8235212489"/>
+    <nd ref="9657194851"/>
+    <nd ref="875021415"/>
+    <nd ref="1768462700"/>
+    <nd ref="1768462720"/>
+    <nd ref="1768462711"/>
+    <nd ref="1768462722"/>
+    <nd ref="875021512"/>
+    <nd ref="1768462721"/>
+    <nd ref="875021416"/>
+    <nd ref="1768462717"/>
+    <nd ref="875021417"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Ladycroft"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4549"/>
+  </way>
+  <way id="73961845" version="17" timestamp="2024-08-11T21:29:04Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875021418"/>
+    <nd ref="8235212503"/>
+    <nd ref="9657162997"/>
+    <nd ref="875021502"/>
+    <nd ref="1768462703"/>
+    <nd ref="1768462718"/>
+    <nd ref="1768462704"/>
+    <nd ref="875021504"/>
+    <nd ref="6651563286"/>
+    <nd ref="875021506"/>
+    <nd ref="1768462715"/>
+    <nd ref="1768462716"/>
+    <nd ref="1768462702"/>
+    <nd ref="875021508"/>
+    <nd ref="1768462714"/>
+    <nd ref="1768462719"/>
+    <nd ref="1768462701"/>
+    <nd ref="875021510"/>
+    <nd ref="1768462707"/>
+    <nd ref="1768462709"/>
+    <nd ref="1768462713"/>
+    <nd ref="1768462708"/>
+    <nd ref="8235212500"/>
+    <nd ref="875021512"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Brookfield Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4548"/>
+  </way>
+  <way id="73961846" version="16" timestamp="2024-08-11T21:29:45Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875021576"/>
+    <nd ref="875021577"/>
+    <nd ref="1768471668"/>
+    <nd ref="1768471651"/>
+    <nd ref="1768471656"/>
+    <nd ref="9657194897"/>
+    <nd ref="1768471649"/>
+    <nd ref="1768471646"/>
+    <nd ref="1768471647"/>
+    <nd ref="1768471652"/>
+    <nd ref="875021578"/>
+    <nd ref="9657194895"/>
+    <nd ref="9657194896"/>
+    <nd ref="875021579"/>
+    <nd ref="1768471644"/>
+    <nd ref="1768471666"/>
+    <nd ref="1768471654"/>
+    <nd ref="6651559383"/>
+    <nd ref="875021580"/>
+    <nd ref="1768471664"/>
+    <nd ref="875021581"/>
+    <nd ref="1768471642"/>
+    <nd ref="1768471665"/>
+    <nd ref="9657194894"/>
+    <nd ref="8235212492"/>
+    <nd ref="279231553"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Hill Crest"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961847" version="13" timestamp="2024-08-11T21:34:24Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875021612"/>
+    <nd ref="1768473258"/>
+    <nd ref="1768473261"/>
+    <nd ref="11764775080"/>
+    <nd ref="1768473259"/>
+    <nd ref="875021613"/>
+    <nd ref="9657194900"/>
+    <nd ref="8235212484"/>
+    <nd ref="875021614"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Penns Close"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961850" version="14" timestamp="2024-08-11T21:38:31Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875021731"/>
+    <nd ref="875021732"/>
+    <nd ref="1768480116"/>
+    <nd ref="1768480112"/>
+    <nd ref="1768480111"/>
+    <nd ref="1768480121"/>
+    <nd ref="1768480113"/>
+    <nd ref="1768480124"/>
+    <nd ref="1768480130"/>
+    <nd ref="875021733"/>
+    <nd ref="9657194870"/>
+    <nd ref="8235212498"/>
+    <nd ref="875020895"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Knightley Close"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961853" version="12" timestamp="2024-08-12T02:18:54Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875021734"/>
+    <nd ref="875021786"/>
+    <nd ref="875021788"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="New Street"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961858" version="17" timestamp="2024-08-11T21:25:04Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875021805"/>
+    <nd ref="8235212486"/>
+    <nd ref="9657162980"/>
+    <nd ref="1762558936"/>
+    <nd ref="9657162982"/>
+    <nd ref="875021871"/>
+    <nd ref="9657162981"/>
+    <nd ref="1762558918"/>
+    <nd ref="1762558947"/>
+    <nd ref="1762558917"/>
+    <nd ref="875021872"/>
+    <nd ref="8268497153"/>
+    <nd ref="875021873"/>
+    <nd ref="1762558930"/>
+    <nd ref="8268497159"/>
+    <nd ref="1762558922"/>
+    <nd ref="8268497158"/>
+    <nd ref="1762558919"/>
+    <nd ref="8268497157"/>
+    <nd ref="875021874"/>
+    <nd ref="1762558972"/>
+    <nd ref="1762558945"/>
+    <nd ref="1762558950"/>
+    <nd ref="1762558926"/>
+    <nd ref="875021875"/>
+    <nd ref="875021876"/>
+    <nd ref="1762558946"/>
+    <nd ref="1762564610"/>
+    <nd ref="875021877"/>
+    <nd ref="875021878"/>
+    <nd ref="1762558931"/>
+    <nd ref="1762558934"/>
+    <nd ref="1762558955"/>
+    <nd ref="875021879"/>
+    <nd ref="1762564615"/>
+    <nd ref="1762558927"/>
+    <nd ref="1762564609"/>
+    <nd ref="1762558959"/>
+    <nd ref="1762558952"/>
+    <nd ref="875021880"/>
+    <nd ref="1762558969"/>
+    <nd ref="875021881"/>
+    <nd ref="9657162991"/>
+    <nd ref="8235212504"/>
+    <nd ref="875021882"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Stonehouse Close"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961859" version="16" timestamp="2024-08-11T21:28:35Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875021879"/>
+    <nd ref="8235212507"/>
+    <nd ref="9657162988"/>
+    <nd ref="875021973"/>
+    <nd ref="1762575488"/>
+    <nd ref="1762575479"/>
+    <nd ref="1762575482"/>
+    <nd ref="1762575477"/>
+    <nd ref="1762575476"/>
+    <nd ref="1762575472"/>
+    <nd ref="875021974"/>
+    <nd ref="875021975"/>
+    <nd ref="1762575487"/>
+    <nd ref="1762575485"/>
+    <nd ref="1762575481"/>
+    <nd ref="875021976"/>
+    <nd ref="875021977"/>
+    <nd ref="875021978"/>
+    <nd ref="1768459607"/>
+    <nd ref="1762575475"/>
+    <nd ref="1768459611"/>
+    <nd ref="1762575483"/>
+    <nd ref="1768459609"/>
+    <nd ref="1762575491"/>
+    <nd ref="875021979"/>
+    <nd ref="1762575489"/>
+    <nd ref="1762575478"/>
+    <nd ref="9657194891"/>
+    <nd ref="8235212497"/>
+    <nd ref="875018945"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Ledbrook Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961861" version="15" timestamp="2024-08-11T21:27:58Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875021878"/>
+    <nd ref="9657162985"/>
+    <nd ref="1762564632"/>
+    <nd ref="875022314"/>
+    <nd ref="1762564612"/>
+    <nd ref="1762564634"/>
+    <nd ref="6442711574"/>
+    <nd ref="875022318"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Stonehouse Close"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961862" version="12" timestamp="2024-08-11T21:27:40Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875021875"/>
+    <nd ref="1762564611"/>
+    <nd ref="875022370"/>
+    <nd ref="1762564616"/>
+    <nd ref="1762564606"/>
+    <nd ref="1762564607"/>
+    <nd ref="1762564600"/>
+    <nd ref="875022372"/>
+    <nd ref="1762564619"/>
+    <nd ref="1762564614"/>
+    <nd ref="1762564617"/>
+    <nd ref="875022376"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Stonehouse Close"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961863" version="11" timestamp="2024-08-11T21:26:03Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875022376"/>
+    <nd ref="1762564603"/>
+    <nd ref="1762564613"/>
+    <nd ref="1762564608"/>
+    <nd ref="1762564598"/>
+    <nd ref="1762564605"/>
+    <nd ref="875021874"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Stonehouse Close"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961867" version="12" timestamp="2024-08-11T21:29:10Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875022568"/>
+    <nd ref="875022569"/>
+    <nd ref="1762575474"/>
+    <nd ref="1762575469"/>
+    <nd ref="1762575470"/>
+    <nd ref="875022570"/>
+    <nd ref="9657194848"/>
+    <nd ref="8235212510"/>
+    <nd ref="875021977"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Boddington Close"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961868" version="12" timestamp="2024-08-11T21:31:17Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875022607"/>
+    <nd ref="875022568"/>
+    <nd ref="1762575473"/>
+    <nd ref="1762575468"/>
+    <nd ref="1762575480"/>
+    <nd ref="1762575484"/>
+    <nd ref="875022589"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Boddington Close"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961870" version="16" timestamp="2024-08-11T21:29:15Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875022758"/>
+    <nd ref="8235212514"/>
+    <nd ref="9657194823"/>
+    <nd ref="875023026"/>
+    <nd ref="1762576486"/>
+    <nd ref="1762576464"/>
+    <nd ref="875023027"/>
+    <nd ref="9657194842"/>
+    <nd ref="1762576474"/>
+    <nd ref="9657194841"/>
+    <nd ref="1762576478"/>
+    <nd ref="9657194840"/>
+    <nd ref="1762576466"/>
+    <nd ref="9657194839"/>
+    <nd ref="875023028"/>
+    <nd ref="8013810758"/>
+    <nd ref="6230926968"/>
+    <nd ref="875023029"/>
+    <nd ref="1762576465"/>
+    <nd ref="1762576470"/>
+    <nd ref="1762576463"/>
+    <nd ref="875023030"/>
+    <nd ref="1762576477"/>
+    <nd ref="1762576473"/>
+    <nd ref="1762576485"/>
+    <nd ref="875023031"/>
+    <nd ref="1762576469"/>
+    <nd ref="1762576467"/>
+    <nd ref="1762576472"/>
+    <nd ref="875023032"/>
+    <nd ref="1762576481"/>
+    <nd ref="875023033"/>
+    <nd ref="875023034"/>
+    <nd ref="1762576462"/>
+    <nd ref="1762576483"/>
+    <nd ref="1762576476"/>
+    <nd ref="875023035"/>
+    <nd ref="1762576479"/>
+    <nd ref="875023036"/>
+    <nd ref="1762576475"/>
+    <nd ref="1762576480"/>
+    <nd ref="1762576468"/>
+    <nd ref="875023037"/>
+    <nd ref="1762576471"/>
+    <nd ref="1762576482"/>
+    <nd ref="875023038"/>
+    <nd ref="8235212490"/>
+    <nd ref="8235212495"/>
+    <nd ref="9657194845"/>
+    <nd ref="8235212496"/>
+    <nd ref="875021979"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Broadway"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961871" version="19" timestamp="2024-08-12T02:20:28Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="254300249"/>
+    <nd ref="8235212502"/>
+    <nd ref="9657194838"/>
+    <nd ref="875023621"/>
+    <nd ref="8268475751"/>
+    <nd ref="875023622"/>
+    <nd ref="8268475752"/>
+    <nd ref="1762583960"/>
+    <nd ref="875023623"/>
+    <nd ref="875023724"/>
+    <nd ref="1762583961"/>
+    <nd ref="1762583951"/>
+    <nd ref="1762583959"/>
+    <nd ref="875023626"/>
+    <nd ref="1762583939"/>
+    <nd ref="1762583962"/>
+    <nd ref="9855815799"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961873" version="13" timestamp="2024-08-12T02:21:19Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="8602194740"/>
+    <nd ref="1762583971"/>
+    <nd ref="1762583970"/>
+    <nd ref="1762583957"/>
+    <nd ref="1762583965"/>
+    <nd ref="875023722"/>
+    <nd ref="9855789203"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="service" v="driveway"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961880" version="13" timestamp="2024-08-12T02:21:18Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875023752"/>
+    <nd ref="1762583967"/>
+    <nd ref="1762583955"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961881" version="12" timestamp="2024-08-12T02:21:57Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875023776"/>
+    <nd ref="1762583940"/>
+    <nd ref="9854485187"/>
+    <nd ref="875023777"/>
+    <nd ref="1762583969"/>
+    <nd ref="875023637"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961885" version="15" timestamp="2025-03-08T20:38:40Z" changeset="163378827" uid="5589" user="user_5589">
+    <nd ref="9855819275"/>
+    <nd ref="1762570517"/>
+    <nd ref="1762570495"/>
+    <nd ref="1762570460"/>
+    <nd ref="1762570449"/>
+    <nd ref="1762570556"/>
+    <nd ref="1762570441"/>
+    <nd ref="875024237"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="frontage_road" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961888" version="17" timestamp="2024-08-12T02:22:44Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875024256"/>
+    <nd ref="8235203902"/>
+    <nd ref="9657194908"/>
+    <nd ref="875024803"/>
+    <nd ref="1762570481"/>
+    <nd ref="1762570484"/>
+    <nd ref="10873828013"/>
+    <nd ref="875024804"/>
+    <nd ref="1762570524"/>
+    <nd ref="1762570463"/>
+    <nd ref="1762570511"/>
+    <nd ref="1762570531"/>
+    <nd ref="875024805"/>
+    <nd ref="8268438902"/>
+    <nd ref="1762570528"/>
+    <nd ref="875024807"/>
+    <nd ref="1762570534"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cotton Mill Spinney"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961897" version="12" timestamp="2024-08-12T02:23:50Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875024979"/>
+    <nd ref="9853568214"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Thorn Stile Close"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="73961918" version="14" timestamp="2024-08-11T21:27:33Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875026271"/>
+    <nd ref="1762550546"/>
+    <nd ref="1762550532"/>
+    <nd ref="1762550500"/>
+    <nd ref="1762550530"/>
+    <nd ref="1762550526"/>
+    <nd ref="1762550535"/>
+    <nd ref="875026272"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73961919" version="11" timestamp="2024-08-11T21:24:41Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875027084"/>
+    <nd ref="875027086"/>
+    <nd ref="875027089"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lindop Close"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73962693" version="25" timestamp="2024-08-16T12:38:55Z" changeset="155325873" uid="20640449" user="Nathaniel Taulbut">
+    <nd ref="27191558"/>
+    <nd ref="6371010930"/>
+    <nd ref="9657194817"/>
+    <nd ref="6339360311"/>
+    <nd ref="7911276527"/>
+    <nd ref="875027089"/>
+    <nd ref="7911276526"/>
+    <nd ref="1446214027"/>
+    <nd ref="7911276525"/>
+    <nd ref="1446214018"/>
+    <nd ref="4014788346"/>
+    <nd ref="8223564246"/>
+    <nd ref="489842310"/>
+    <nd ref="12114796080"/>
+    <nd ref="7325396343"/>
+    <nd ref="1446214026"/>
+    <nd ref="7986442250"/>
+    <nd ref="2452243174"/>
+    <nd ref="7986442251"/>
+    <nd ref="8674392477"/>
+    <nd ref="7325396331"/>
+    <nd ref="27191560"/>
+    <nd ref="489842314"/>
+    <nd ref="7911276522"/>
+    <nd ref="7911276523"/>
+    <nd ref="489842316"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75403314" version="14" timestamp="2024-08-21T09:51:21Z" changeset="155548065" uid="5589" user="user_5589">
+    <nd ref="27477354"/>
+    <nd ref="1898848936"/>
+    <nd ref="1898848903"/>
+    <nd ref="1898848904"/>
+    <nd ref="27477355"/>
+    <nd ref="6544295498"/>
+    <nd ref="6544295506"/>
+    <nd ref="27477356"/>
+    <nd ref="1898848940"/>
+    <nd ref="1898848922"/>
+    <nd ref="1898848901"/>
+    <nd ref="1898848944"/>
+    <nd ref="1898848902"/>
+    <nd ref="27477357"/>
+    <nd ref="27477359"/>
+    <nd ref="27477360"/>
+    <nd ref="6442745385"/>
+    <nd ref="27477361"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Leamington Road"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75403588" version="15" timestamp="2024-08-12T02:22:40Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="890391036"/>
+    <nd ref="890391037"/>
+    <nd ref="890391038"/>
+    <nd ref="1762570482"/>
+    <nd ref="1762570485"/>
+    <nd ref="1762570456"/>
+    <nd ref="1762570497"/>
+    <nd ref="9657194912"/>
+    <nd ref="890391039"/>
+    <nd ref="9657194911"/>
+    <nd ref="8235203903"/>
+    <nd ref="890390976"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Willow Sheets Meadow"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4903"/>
+  </way>
+  <way id="75403589" version="12" timestamp="2024-08-12T02:23:15Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="890391040"/>
+    <nd ref="1762570480"/>
+    <nd ref="9853556536"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Three Cornered Close"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="75403692" version="9" timestamp="2024-08-11T21:28:29Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="890394558"/>
+    <nd ref="890394561"/>
+    <nd ref="8996503154"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Chamberlain Close"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="101426721" version="16" timestamp="2022-12-15T22:34:44Z" changeset="130133293" uid="5589" user="user_5589">
+    <nd ref="27477105"/>
+    <nd ref="27477106"/>
+    <nd ref="27477107"/>
+    <nd ref="1836911744"/>
+    <nd ref="27477108"/>
+    <nd ref="1836911717"/>
+    <nd ref="27477109"/>
+    <nd ref="1836911772"/>
+    <nd ref="2357634506"/>
+    <nd ref="27477111"/>
+    <nd ref="9705572409"/>
+    <nd ref="1836911719"/>
+    <nd ref="27477110"/>
+    <nd ref="1836911723"/>
+    <nd ref="27477112"/>
+    <nd ref="7986442248"/>
+    <nd ref="27477113"/>
+    <nd ref="27477114"/>
+    <nd ref="1836911729"/>
+    <nd ref="27477115"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Westhill Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="101431681" version="23" timestamp="2024-08-11T21:25:47Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1171132343"/>
+    <nd ref="10860298513"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_stopping"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="101431682" version="18" timestamp="2024-08-11T21:43:07Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="279231516"/>
+    <nd ref="1768480821"/>
+    <nd ref="1768480823"/>
+    <nd ref="8235212508"/>
+    <nd ref="279231517"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4551"/>
+  </way>
+  <way id="101431690" version="19" timestamp="2023-05-01T13:35:27Z" changeset="135572597" uid="5589" user="user_5589">
+    <nd ref="875020469"/>
+    <nd ref="10623994129"/>
+    <nd ref="703814280"/>
+    <nd ref="10623994130"/>
+    <nd ref="1762550539"/>
+    <nd ref="1762550496"/>
+    <nd ref="1762550502"/>
+    <nd ref="7986442245"/>
+    <nd ref="27191547"/>
+    <nd ref="1762550524"/>
+    <nd ref="1762550489"/>
+    <nd ref="1762550531"/>
+    <nd ref="1762550528"/>
+    <nd ref="27191548"/>
+    <nd ref="1762550515"/>
+    <nd ref="1762550519"/>
+    <nd ref="1762550517"/>
+    <nd ref="1762550509"/>
+    <nd ref="27191550"/>
+    <nd ref="1762550534"/>
+    <nd ref="1762550543"/>
+    <nd ref="1362137625"/>
+    <nd ref="9858327283"/>
+    <nd ref="703814284"/>
+    <nd ref="1762550525"/>
+    <nd ref="1762550521"/>
+    <nd ref="1762550499"/>
+    <nd ref="703814286"/>
+    <nd ref="1762550544"/>
+    <nd ref="1762550540"/>
+    <nd ref="703814290"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Offchurch Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="101431693" version="14" timestamp="2024-08-11T21:28:41Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1171132350"/>
+    <nd ref="279231557"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Offchurch Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="101431694" version="20" timestamp="2024-08-11T21:24:55Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="27191558"/>
+    <nd ref="1762550512"/>
+    <nd ref="9657163008"/>
+    <nd ref="6371010927"/>
+    <nd ref="1171132343"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_parking"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="102487688" version="9" timestamp="2024-08-12T02:18:45Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1171132346"/>
+    <nd ref="8084616238"/>
+    <nd ref="279231511"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Grange"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="113470401" version="17" timestamp="2024-02-16T18:10:43Z" changeset="147543417" uid="1429809" user="Rublistoi">
+    <nd ref="703815981"/>
+    <nd ref="1348859217"/>
+    <nd ref="254300250"/>
+    <nd ref="254300251"/>
+    <nd ref="703815987"/>
+    <nd ref="1905039781"/>
+    <nd ref="254300252"/>
+    <nd ref="1905039801"/>
+    <nd ref="254300253"/>
+    <nd ref="415369762"/>
+    <nd ref="1905039790"/>
+    <nd ref="1905039792"/>
+    <nd ref="1905039786"/>
+    <nd ref="7688888364"/>
+    <nd ref="254300254"/>
+    <nd ref="1905039803"/>
+    <nd ref="11352803266"/>
+    <nd ref="1905039788"/>
+    <nd ref="1905039811"/>
+    <nd ref="254300256"/>
+    <nd ref="254300257"/>
+    <nd ref="1905039807"/>
+    <nd ref="254300258"/>
+    <nd ref="1905039796"/>
+    <nd ref="11631464843"/>
+    <nd ref="1905039809"/>
+    <nd ref="254300260"/>
+    <nd ref="11352803268"/>
+    <nd ref="1905039805"/>
+    <nd ref="1905039798"/>
+    <nd ref="11165864122"/>
+    <nd ref="1905039794"/>
+    <nd ref="254300265"/>
+    <nd ref="415369796"/>
+    <nd ref="6419988019"/>
+    <nd ref="254300268"/>
+    <nd ref="254300269"/>
+    <nd ref="11352803267"/>
+    <nd ref="254300272"/>
+    <nd ref="254300273"/>
+    <nd ref="2428119192"/>
+    <nd ref="2428119196"/>
+    <nd ref="254300274"/>
+    <nd ref="254300275"/>
+    <nd ref="254300277"/>
+    <nd ref="3561151538"/>
+    <nd ref="254300278"/>
+    <nd ref="1381778063"/>
+    <nd ref="254300279"/>
+    <nd ref="3561151530"/>
+    <nd ref="1286482463"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120258106" version="18" timestamp="2023-03-09T23:59:58Z" changeset="133498632" uid="5589" user="user_5589">
+    <nd ref="27477122"/>
+    <nd ref="5863748483"/>
+    <nd ref="1592949630"/>
+    <nd ref="1592949669"/>
+    <nd ref="9705516995"/>
+    <nd ref="1592949572"/>
+    <nd ref="1592949592"/>
+    <nd ref="1885195056"/>
+    <nd ref="27477124"/>
+    <nd ref="10724645068"/>
+    <nd ref="1592949674"/>
+    <nd ref="27477125"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="120258110" version="13" timestamp="2024-08-11T21:18:26Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="27477119"/>
+    <nd ref="539830965"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120258114" version="14" timestamp="2024-08-11T21:18:20Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="539830965"/>
+    <nd ref="539830966"/>
+    <nd ref="27477118"/>
+    <nd ref="539830968"/>
+    <nd ref="27477117"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120258570" version="20" timestamp="2023-05-01T16:17:34Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="1348859222"/>
+    <nd ref="875022758"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120258571" version="14" timestamp="2023-05-01T16:17:28Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="1348859215"/>
+    <nd ref="8602194744"/>
+    <nd ref="9654947963"/>
+    <nd ref="247657711"/>
+    <nd ref="1348859222"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120258601" version="17" timestamp="2024-02-16T18:10:43Z" changeset="147543417" uid="1429809" user="Rublistoi">
+    <nd ref="9593051766"/>
+    <nd ref="9856927346"/>
+    <nd ref="1905043901"/>
+    <nd ref="1905043865"/>
+    <nd ref="1905043898"/>
+    <nd ref="1905043896"/>
+    <nd ref="9654948005"/>
+    <nd ref="247657205"/>
+    <nd ref="1905043914"/>
+    <nd ref="9856927345"/>
+    <nd ref="1905043886"/>
+    <nd ref="1905043890"/>
+    <nd ref="7924848825"/>
+    <nd ref="1905043879"/>
+    <nd ref="2418905445"/>
+    <nd ref="1905043833"/>
+    <nd ref="1905043839"/>
+    <nd ref="1905043859"/>
+    <nd ref="1905043913"/>
+    <nd ref="1905043924"/>
+    <nd ref="1905043858"/>
+    <nd ref="247657207"/>
+    <nd ref="1905043847"/>
+    <nd ref="1905043872"/>
+    <nd ref="1905043882"/>
+    <nd ref="1905043863"/>
+    <nd ref="1905043922"/>
+    <nd ref="1905043907"/>
+    <nd ref="1905043909"/>
+    <nd ref="11631464878"/>
+    <nd ref="247657208"/>
+    <nd ref="1905043853"/>
+    <nd ref="1905043916"/>
+    <nd ref="11631464877"/>
+    <nd ref="1905043891"/>
+    <nd ref="1905043870"/>
+    <nd ref="1905043880"/>
+    <nd ref="1905043899"/>
+    <nd ref="1905043888"/>
+    <nd ref="247657210"/>
+    <nd ref="1905043869"/>
+    <nd ref="1905043887"/>
+    <nd ref="1905043918"/>
+    <nd ref="1905043844"/>
+    <nd ref="1905043835"/>
+    <nd ref="1905043908"/>
+    <nd ref="247657211"/>
+    <nd ref="1905043861"/>
+    <nd ref="1905043884"/>
+    <nd ref="1905043832"/>
+    <nd ref="415369805"/>
+    <nd ref="1905043862"/>
+    <nd ref="247657212"/>
+    <nd ref="1905043917"/>
+    <nd ref="1905043849"/>
+    <nd ref="2428014026"/>
+    <nd ref="6774928197"/>
+    <nd ref="1905043894"/>
+    <nd ref="247657213"/>
+    <nd ref="1905043920"/>
+    <nd ref="1905043846"/>
+    <nd ref="1905043900"/>
+    <nd ref="247657214"/>
+    <nd ref="1905043868"/>
+    <nd ref="1905043892"/>
+    <nd ref="247657215"/>
+    <nd ref="1905043903"/>
+    <nd ref="1905043860"/>
+    <nd ref="247657217"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120258602" version="19" timestamp="2024-08-12T02:23:00Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="6230824343"/>
+    <nd ref="890390976"/>
+    <nd ref="9657194905"/>
+    <nd ref="1762570502"/>
+    <nd ref="1762570443"/>
+    <nd ref="1762570437"/>
+    <nd ref="9021507513"/>
+    <nd ref="875024256"/>
+    <nd ref="8084616241"/>
+    <nd ref="1905043874"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="122028112" version="12" timestamp="2022-03-21T02:06:16Z" changeset="118715627" uid="5589" user="user_5589">
+    <nd ref="1364537278"/>
+    <nd ref="1836911778"/>
+    <nd ref="1836911738"/>
+    <nd ref="1836911733"/>
+    <nd ref="27191543"/>
+    <nd ref="1836911770"/>
+    <nd ref="703814274"/>
+    <nd ref="1836911749"/>
+    <nd ref="1898837537"/>
+    <nd ref="1898837547"/>
+    <nd ref="27191544"/>
+    <nd ref="1836911737"/>
+    <nd ref="1836911766"/>
+    <nd ref="1898837625"/>
+    <nd ref="1836911716"/>
+    <nd ref="703814276"/>
+    <nd ref="6470694346"/>
+    <nd ref="6470694377"/>
+    <nd ref="27191546"/>
+    <nd ref="1836911743"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Offchurch Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="123184551" version="16" timestamp="2023-05-01T13:26:27Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="1362137518"/>
+    <nd ref="1762550497"/>
+    <nd ref="27191551"/>
+    <nd ref="9657162998"/>
+    <nd ref="1762550504"/>
+    <nd ref="9657162999"/>
+    <nd ref="1762550494"/>
+    <nd ref="1762550514"/>
+    <nd ref="9657163000"/>
+    <nd ref="1762550542"/>
+    <nd ref="1762550498"/>
+    <nd ref="27191552"/>
+    <nd ref="1762550491"/>
+    <nd ref="1762550548"/>
+    <nd ref="9657163001"/>
+    <nd ref="1762550507"/>
+    <nd ref="9657163002"/>
+    <nd ref="1762550503"/>
+    <nd ref="27191554"/>
+    <nd ref="1762550522"/>
+    <nd ref="1171132350"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Offchurch Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="123184553" version="19" timestamp="2023-05-01T17:22:13Z" changeset="135584069" uid="5589" user="user_5589">
+    <nd ref="1768479158"/>
+    <nd ref="10860357863"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Church Hill"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_parking"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="123213176" version="25" timestamp="2024-08-11T21:28:18Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="279231557"/>
+    <nd ref="8235212485"/>
+    <nd ref="9657163005"/>
+    <nd ref="1762574086"/>
+    <nd ref="10860299579"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Queen Street"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4541"/>
+  </way>
+  <way id="123213177" version="15" timestamp="2024-08-12T02:24:32Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="703814290"/>
+    <nd ref="1362137518"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Offchurch Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="124067642" version="14" timestamp="2024-08-21T09:51:31Z" changeset="155548065" uid="5589" user="user_5589">
+    <nd ref="27477349"/>
+    <nd ref="1898848913"/>
+    <nd ref="1381789972"/>
+    <nd ref="1898848909"/>
+    <nd ref="1381778111"/>
+    <nd ref="1898848908"/>
+    <nd ref="1898848931"/>
+    <nd ref="27477350"/>
+    <nd ref="2078402139"/>
+    <nd ref="3668383977"/>
+    <nd ref="1898848941"/>
+    <nd ref="1898848910"/>
+    <nd ref="27477351"/>
+    <nd ref="1898848905"/>
+    <nd ref="1898848945"/>
+    <nd ref="1898848929"/>
+    <nd ref="27477352"/>
+    <nd ref="1898848933"/>
+    <nd ref="1898848927"/>
+    <nd ref="1898848900"/>
+    <nd ref="1898848935"/>
+    <nd ref="27477353"/>
+    <nd ref="1898848924"/>
+    <nd ref="1898848943"/>
+    <nd ref="27477354"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Leicester Lane"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="131397397" version="16" timestamp="2024-08-12T02:20:24Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="279231548"/>
+    <nd ref="8235212491"/>
+    <nd ref="1762574098"/>
+    <nd ref="703820215"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Hill"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="146018121" version="10" timestamp="2022-06-11T17:46:58Z" changeset="122259003" uid="5589" user="user_5589">
+    <nd ref="1593151906"/>
+    <nd ref="489842362"/>
+    <nd ref="1593151907"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="High View Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="146019340" version="12" timestamp="2024-08-16T21:20:31Z" changeset="155347442" uid="5589" user="user_5589">
+    <nd ref="1593164364"/>
+    <nd ref="1593164341"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="West View Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="164646984" version="10" timestamp="2024-08-12T02:23:01Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1762570478"/>
+    <nd ref="1762570509"/>
+    <nd ref="875024814"/>
+    <nd ref="1762570472"/>
+    <nd ref="1762570522"/>
+    <nd ref="1762570526"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cotton Mill Spinney"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="164646985" version="12" timestamp="2024-08-12T02:23:51Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875024804"/>
+    <nd ref="9853572461"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cotton Mill Spinney"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="164646986" version="10" timestamp="2024-08-12T02:23:19Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1762570480"/>
+    <nd ref="1762570465"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Three Cornered Close"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="164646987" version="10" timestamp="2024-08-12T02:23:34Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1762570519"/>
+    <nd ref="1762570467"/>
+    <nd ref="1762570439"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cotton Mill Spinney"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="164646988" version="10" timestamp="2024-08-12T02:23:09Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1762570500"/>
+    <nd ref="1762570486"/>
+    <nd ref="875024979"/>
+    <nd ref="1762570458"/>
+    <nd ref="1762570515"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Thorn Stile Close"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="164647523" version="9" timestamp="2024-08-11T21:31:40Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1762575490"/>
+    <nd ref="875022607"/>
+    <nd ref="1762575492"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Boddington Close"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="164647524" version="9" timestamp="2024-08-11T21:31:47Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1762575471"/>
+    <nd ref="875022589"/>
+    <nd ref="1762575486"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Boddington Close"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="164648432" version="10" timestamp="2024-08-12T02:21:45Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1762583943"/>
+    <nd ref="1762583964"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165288006" version="10" timestamp="2022-12-07T07:56:34Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="1768462705"/>
+    <nd ref="875021417"/>
+    <nd ref="1768462712"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Ladycroft"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4549"/>
+  </way>
+  <way id="165288007" version="10" timestamp="2024-08-11T21:28:56Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1768462710"/>
+    <nd ref="875021271"/>
+    <nd ref="1768462699"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="North Close"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165288517" version="12" timestamp="2024-08-11T21:40:51Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1768471640"/>
+    <nd ref="875021576"/>
+    <nd ref="11764775079"/>
+    <nd ref="1768471667"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Hill Crest"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165288602" version="11" timestamp="2024-08-11T21:35:03Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1768473260"/>
+    <nd ref="1768473258"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Penns Close"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165289246" version="11" timestamp="2024-08-12T02:18:33Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1768479097"/>
+    <nd ref="875020103"/>
+    <nd ref="1768479090"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Grange"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165289247" version="15" timestamp="2024-08-12T02:18:53Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1768479122"/>
+    <nd ref="8235212505"/>
+    <nd ref="9657194876"/>
+    <nd ref="1768479126"/>
+    <nd ref="875021734"/>
+    <nd ref="6518586439"/>
+    <nd ref="875021735"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="New Street"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="165289248" version="13" timestamp="2024-08-12T02:18:41Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1768479131"/>
+    <nd ref="1768479146"/>
+    <nd ref="1768479098"/>
+    <nd ref="1768479100"/>
+    <nd ref="1768479111"/>
+    <nd ref="1768479113"/>
+    <nd ref="1768479136"/>
+    <nd ref="1768479139"/>
+    <nd ref="1768479143"/>
+    <nd ref="1768479155"/>
+    <nd ref="1768479135"/>
+    <nd ref="1768479092"/>
+    <nd ref="1768479089"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Grange"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="190344317" version="13" timestamp="2024-05-06T08:43:06Z" changeset="150952976" uid="5589" user="user_5589">
+    <nd ref="2009615063"/>
+    <nd ref="10724566240"/>
+    <nd ref="27477367"/>
+    <nd ref="1885196225"/>
+    <nd ref="10724566236"/>
+    <nd ref="27477366"/>
+    <nd ref="8004181589"/>
+    <nd ref="1885196221"/>
+    <nd ref="10724566243"/>
+    <nd ref="1885196227"/>
+    <nd ref="1885196226"/>
+    <nd ref="10724566241"/>
+    <nd ref="8004181590"/>
+    <nd ref="9667088722"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leicester Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="233835124" version="4" timestamp="2021-09-27T17:39:03Z" changeset="111780223" uid="5589" user="user_5589">
+    <nd ref="2421585030"/>
+    <nd ref="27191532"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Welsh Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="233835125" version="8" timestamp="2021-09-27T17:39:25Z" changeset="111780223" uid="5589" user="user_5589">
+    <nd ref="703812081"/>
+    <nd ref="27191535"/>
+    <nd ref="27191537"/>
+    <nd ref="8820031821"/>
+    <nd ref="703812098"/>
+    <nd ref="703812101"/>
+    <nd ref="703812104"/>
+    <nd ref="703812107"/>
+    <nd ref="703814259"/>
+    <nd ref="2421585093"/>
+    <nd ref="1836911768"/>
+    <nd ref="1836911741"/>
+    <nd ref="1836911780"/>
+    <nd ref="27191539"/>
+    <nd ref="1836911753"/>
+    <nd ref="703814262"/>
+    <nd ref="1836911767"/>
+    <nd ref="27191540"/>
+    <nd ref="1836911751"/>
+    <nd ref="1836911759"/>
+    <nd ref="1836911736"/>
+    <nd ref="7263421100"/>
+    <nd ref="27191541"/>
+    <nd ref="1836911779"/>
+    <nd ref="703814268"/>
+    <nd ref="1836911739"/>
+    <nd ref="1836911727"/>
+    <nd ref="1836911735"/>
+    <nd ref="27191542"/>
+    <nd ref="1364537278"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Welsh Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="296642996" version="13" timestamp="2023-02-10T18:43:50Z" changeset="132375743" uid="5589" user="user_5589">
+    <nd ref="6371012356"/>
+    <nd ref="27477128"/>
+    <nd ref="1592949619"/>
+    <nd ref="6339360303"/>
+    <nd ref="27477129"/>
+    <nd ref="8969079249"/>
+    <nd ref="8223572855"/>
+    <nd ref="6339360306"/>
+    <nd ref="1592949666"/>
+    <nd ref="9657163014"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="305779547" version="9" timestamp="2024-08-11T21:17:26Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="27477120"/>
+    <nd ref="539830957"/>
+    <nd ref="539830959"/>
+    <nd ref="27477119"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="345580040" version="8" timestamp="2023-11-30T20:41:20Z" changeset="144639610" uid="504708" user="HillWithSmallFields">
+    <nd ref="3522257569"/>
+    <nd ref="3522257567"/>
+    <nd ref="3522257566"/>
+    <nd ref="3522257563"/>
+    <nd ref="3522257562"/>
+    <nd ref="3522257565"/>
+    <nd ref="3522257564"/>
+    <nd ref="3522257568"/>
+    <nd ref="3522257570"/>
+    <nd ref="3522257572"/>
+    <nd ref="3522257573"/>
+    <nd ref="3522257571"/>
+    <nd ref="3522257569"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="St Mary"/>
+    <tag k="ref:dove" v="14710"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="website" v="https://www.stmaryscubbington.co.uk/"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q17528561"/>
+  </way>
+  <way id="359423566" version="2" timestamp="2020-08-05T06:50:12Z" changeset="88963416" uid="9065" user="brianboru">
+    <nd ref="3641469823"/>
+    <nd ref="7786446128"/>
+    <nd ref="3641469821"/>
+    <nd ref="3641469829"/>
+    <nd ref="3641469826"/>
+    <nd ref="3641469834"/>
+    <nd ref="3641469835"/>
+    <nd ref="7786446132"/>
+    <nd ref="3641469823"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Cubbington Sports &amp; Social Club"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="549325245" version="6" timestamp="2025-08-26T12:39:43Z" changeset="171027692" uid="23227040" user="GladGrip">
+    <nd ref="5306326771"/>
+    <nd ref="5306326772"/>
+    <nd ref="12607375595"/>
+    <nd ref="12607375594"/>
+    <nd ref="12607375593"/>
+    <nd ref="9811252849"/>
+    <nd ref="5306326773"/>
+    <nd ref="5306326774"/>
+    <nd ref="5306326771"/>
+    <tag k="addr:city" v="Leamington Spa"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="CV32 7HZ"/>
+    <tag k="addr:street" v="Cubbington Road"/>
+    <tag k="branch" v="Cubbington Rugby Road"/>
+    <tag k="brand" v="Sainsbury's Local"/>
+    <tag k="brand:wikidata" v="Q13218434"/>
+    <tag k="brand:wikipedia" v="en:Sainsbury's Local"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Sainsbury's Local"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="operator" v="J. S. Sainsbury"/>
+    <tag k="phone" v="+44 330 013 7815"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://stores.sainsburys.co.uk/6562/cubbington-rugby-road-local"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="551244545" version="11" timestamp="2022-06-11T16:52:32Z" changeset="122257221" uid="5589" user="user_5589">
+    <nd ref="489842316"/>
+    <nd ref="875034306"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cubbington Road"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="665670317" version="2" timestamp="2025-02-14T02:33:26Z" changeset="162487130" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="6230926967"/>
+    <nd ref="12586555088"/>
+    <nd ref="6230926966"/>
+    <nd ref="6230926965"/>
+    <nd ref="6230926964"/>
+    <nd ref="6230926963"/>
+    <nd ref="6230926962"/>
+    <nd ref="6230926961"/>
+    <nd ref="6230926960"/>
+    <nd ref="6230926959"/>
+    <nd ref="6230926958"/>
+    <nd ref="6230926957"/>
+    <nd ref="6230926956"/>
+    <nd ref="6230926967"/>
+    <tag k="addr:street" v="Broadway"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Cubbington Village Hall"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="676991854" version="6" timestamp="2022-12-07T07:55:30Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="6339360303"/>
+    <nd ref="6339360304"/>
+    <nd ref="6339360305"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="680428395" version="12" timestamp="2023-05-01T13:38:41Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="1836911743"/>
+    <nd ref="9725341950"/>
+    <nd ref="6470694376"/>
+    <nd ref="703814278"/>
+    <nd ref="1762550538"/>
+    <nd ref="1762550541"/>
+    <nd ref="1762550501"/>
+    <nd ref="1762550510"/>
+    <nd ref="6470694368"/>
+    <nd ref="279231517"/>
+    <nd ref="10623994128"/>
+    <nd ref="1762550493"/>
+    <nd ref="1762550533"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Offchurch Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="680428507" version="8" timestamp="2023-03-09T23:59:58Z" changeset="133498632" uid="5589" user="user_5589">
+    <nd ref="27477125"/>
+    <nd ref="1592949615"/>
+    <nd ref="1592949627"/>
+    <nd ref="10724645067"/>
+    <nd ref="1592949600"/>
+    <nd ref="489337847"/>
+    <nd ref="10724645066"/>
+    <nd ref="6683200460"/>
+    <nd ref="1592949585"/>
+    <nd ref="6371012356"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="680428508" version="4" timestamp="2023-12-07T03:42:16Z" changeset="144851150" uid="6816132" user="CjMalone">
+    <nd ref="6371012371"/>
+    <nd ref="6371012370"/>
+    <nd ref="6371012369"/>
+    <nd ref="6371012368"/>
+    <nd ref="6371012367"/>
+    <nd ref="6371012366"/>
+    <nd ref="6371012365"/>
+    <nd ref="6371012364"/>
+    <nd ref="6371012363"/>
+    <nd ref="6371012362"/>
+    <nd ref="6371012361"/>
+    <nd ref="6371012360"/>
+    <nd ref="6371012371"/>
+    <tag k="addr:postcode" v="CV32 7HZ"/>
+    <tag k="addr:street" v="Rugby Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brand" v="Greene King"/>
+    <tag k="brand:wikidata" v="Q5564162"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date:opening_hours" v="2022-06-11"/>
+    <tag k="name" v="Rugby Tavern"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="website" v="https://www.greeneking.co.uk/pubs/warwickshire/rugby-tavern"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="680428509" version="2" timestamp="2024-08-14T09:10:23Z" changeset="155229603" uid="20640449" user="Nathaniel Taulbut">
+    <nd ref="6371012375"/>
+    <nd ref="6371012374"/>
+    <nd ref="6371012373"/>
+    <nd ref="6371012372"/>
+    <nd ref="6371012375"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Town &amp; Country Landrover"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="680428551" version="9" timestamp="2024-04-22T22:51:38Z" changeset="150369039" uid="6816132" user="CjMalone">
+    <nd ref="6371012712"/>
+    <nd ref="6371012706"/>
+    <nd ref="6371012705"/>
+    <nd ref="6371012703"/>
+    <nd ref="6371012712"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:postcode" v="CV32 7HY"/>
+    <tag k="addr:street" v="Rugby Road"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Shell"/>
+    <tag k="brand:wikidata" v="Q110716465"/>
+    <tag k="brand:wikipedia" v="en:Royal Dutch Shell"/>
+    <tag k="building" v="roof"/>
+    <tag k="compressed_air" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="name" v="Comptons Garage"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-17:00"/>
+    <tag k="operator" v="Motor Fuel Group"/>
+    <tag k="operator:website" v="https://www.motorfuelgroup.com/locations/cubbington-fs461/"/>
+    <tag k="operator:wikidata" v="Q107271358"/>
+    <tag k="phone" v="+44 1926 423477"/>
+    <tag k="ref:navads" v="NVDS353_10019141"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="https://find.shell.com/gb/fuel/10019141-mfg-cubbington"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="692038893" version="3" timestamp="2023-11-29T11:49:28Z" changeset="144584806" uid="384887" user="robw">
+    <nd ref="703812077"/>
+    <nd ref="5586450373"/>
+    <nd ref="703811019"/>
+    <nd ref="6495949030"/>
+    <nd ref="27191534"/>
+    <nd ref="2421585045"/>
+    <nd ref="2421585047"/>
+    <nd ref="703812081"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Welsh Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="694304531" version="10" timestamp="2024-08-12T02:20:24Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="6518586769"/>
+    <nd ref="6518586768"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Austen Court"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="694304554" version="9" timestamp="2024-08-12T02:20:25Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="6518586937"/>
+    <nd ref="875023752"/>
+    <nd ref="6518586936"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="694698029" version="7" timestamp="2022-10-13T23:15:55Z" changeset="127495298" uid="5589" user="user_5589">
+    <nd ref="6524143111"/>
+    <nd ref="6524156216"/>
+    <nd ref="6524156215"/>
+    <nd ref="6524156214"/>
+    <nd ref="6524143111"/>
+    <tag k="brand" v="National Grid"/>
+    <tag k="brand:wikidata" v="Q1465461"/>
+    <tag k="building" v="service"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="indoor"/>
+    <tag k="name" v="Grange (The)"/>
+    <tag k="operator" v="National Grid Electricity Distribution"/>
+    <tag k="operator:old" v="Western Power Distribution"/>
+    <tag k="operator:wikidata" v="Q7988183"/>
+    <tag k="owner" v="National Grid Electricity Distribution (East Midlands) Plc"/>
+    <tag k="owner:wikidata" v="Q114348127"/>
+    <tag k="power" v="substation"/>
+    <tag k="ref" v="42D 2138"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="substation" v="minor_distribution"/>
+    <tag k="voltage" v="11000"/>
+  </way>
+  <way id="694699323" version="3" timestamp="2023-07-16T09:44:43Z" changeset="138571398" uid="545369" user="bigfatfrog67">
+    <nd ref="6524145079"/>
+    <nd ref="6524145078"/>
+    <nd ref="6524145077"/>
+    <nd ref="6524145076"/>
+    <nd ref="6524145075"/>
+    <nd ref="6524145074"/>
+    <nd ref="6524145073"/>
+    <nd ref="6524145072"/>
+    <nd ref="6524145071"/>
+    <nd ref="6524145070"/>
+    <nd ref="6524145069"/>
+    <nd ref="6524145079"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Offchurch Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="694704265" version="9" timestamp="2024-08-11T21:24:53Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875027082"/>
+    <nd ref="875027084"/>
+    <nd ref="6524220952"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lindop Close"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="707863654" version="14" timestamp="2024-08-12T02:18:10Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875020709"/>
+    <nd ref="9657194861"/>
+    <nd ref="8235212488"/>
+    <nd ref="279231513"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="867301627" version="10" timestamp="2024-08-12T02:20:25Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875019981"/>
+    <nd ref="1768479151"/>
+    <nd ref="1768479154"/>
+    <nd ref="415369759"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Austen Court"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="884516213" version="11" timestamp="2024-08-11T19:13:55Z" changeset="155117516" uid="5589" user="user_5589">
+    <nd ref="27477117"/>
+    <nd ref="254596379"/>
+    <nd ref="539830969"/>
+    <nd ref="539830970"/>
+    <nd ref="27477116"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="884516214" version="10" timestamp="2024-08-19T14:04:01Z" changeset="155462742" uid="5589" user="user_5589">
+    <nd ref="539830954"/>
+    <nd ref="539830955"/>
+    <nd ref="27477120"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="884516216" version="10" timestamp="2024-08-11T21:17:17Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="539830951"/>
+    <nd ref="1885195060"/>
+    <nd ref="27477121"/>
+    <nd ref="539830953"/>
+    <nd ref="539830954"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="972033379" version="8" timestamp="2024-08-12T02:24:49Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="8996503154"/>
+    <nd ref="890394543"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Chamberlain Close"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858869" version="14" timestamp="2024-08-12T02:24:01Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="10860523790"/>
+    <nd ref="9654947974"/>
+    <nd ref="9021507516"/>
+    <nd ref="9021518217"/>
+    <nd ref="9021518218"/>
+    <nd ref="9021518219"/>
+    <nd ref="9654948015"/>
+    <nd ref="9021518220"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Roman Way"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858870" version="11" timestamp="2025-05-28T12:09:05Z" changeset="166873062" uid="5589" user="user_5589">
+    <nd ref="9021518220"/>
+    <nd ref="9021518225"/>
+    <nd ref="9021518226"/>
+    <nd ref="9021518233"/>
+    <nd ref="9021518227"/>
+    <nd ref="10860804836"/>
+    <nd ref="10860804843"/>
+    <nd ref="9021518228"/>
+    <nd ref="10860804839"/>
+    <nd ref="9021518229"/>
+    <nd ref="9021518230"/>
+    <nd ref="10860804846"/>
+    <nd ref="9021518231"/>
+    <nd ref="9021518232"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Sandwell Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858871" version="11" timestamp="2025-05-28T12:09:15Z" changeset="166873062" uid="5589" user="user_5589">
+    <nd ref="9021518233"/>
+    <nd ref="9654947971"/>
+    <nd ref="9021518235"/>
+    <nd ref="9021518236"/>
+    <nd ref="9021518237"/>
+    <nd ref="10860804840"/>
+    <nd ref="9021518238"/>
+    <nd ref="9021518239"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="St Marys Mews"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858872" version="13" timestamp="2025-05-28T12:09:33Z" changeset="166873062" uid="5589" user="user_5589">
+    <nd ref="9021518240"/>
+    <nd ref="11147636463"/>
+    <nd ref="9021518279"/>
+    <nd ref="9021518241"/>
+    <nd ref="11110596134"/>
+    <nd ref="9021518242"/>
+    <nd ref="10860804837"/>
+    <nd ref="9021518243"/>
+    <nd ref="9021518244"/>
+    <nd ref="10860804838"/>
+    <nd ref="9021518245"/>
+    <nd ref="10860804845"/>
+    <nd ref="9021518246"/>
+    <nd ref="10860804842"/>
+    <nd ref="9021518247"/>
+    <nd ref="9021518248"/>
+    <nd ref="10860804844"/>
+    <nd ref="9021518249"/>
+    <nd ref="10860804835"/>
+    <nd ref="9021518250"/>
+    <nd ref="10860804841"/>
+    <nd ref="9021518232"/>
+    <nd ref="9654947972"/>
+    <nd ref="9021518251"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Woodland Way"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858873" version="6" timestamp="2024-04-12T16:29:16Z" changeset="149919216" uid="6460170" user="Anon1412108">
+    <nd ref="9654947963"/>
+    <nd ref="9654947964"/>
+    <nd ref="9021518252"/>
+    <nd ref="9021518253"/>
+    <nd ref="9021518254"/>
+    <nd ref="9021518255"/>
+    <nd ref="9021518256"/>
+    <nd ref="9021518257"/>
+    <nd ref="9021518258"/>
+    <nd ref="9021518259"/>
+    <nd ref="9021518260"/>
+    <nd ref="9021518261"/>
+    <nd ref="11812200198"/>
+    <nd ref="9021518264"/>
+    <tag k="check_date" v="2024-04-12"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Blackberry Way"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858875" version="6" timestamp="2025-05-28T12:02:25Z" changeset="166872740" uid="5589" user="user_5589">
+    <nd ref="9021518261"/>
+    <nd ref="9021518267"/>
+    <nd ref="9021518268"/>
+    <nd ref="9021518269"/>
+    <nd ref="9021518270"/>
+    <nd ref="9021518271"/>
+    <nd ref="9021518272"/>
+    <tag k="check_date" v="2024-04-12"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Apple Tree Close"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858876" version="6" timestamp="2025-05-28T12:02:25Z" changeset="166872740" uid="5589" user="user_5589">
+    <nd ref="9021518273"/>
+    <nd ref="9021518272"/>
+    <nd ref="9021518274"/>
+    <tag k="check_date" v="2023-05-01"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Apple Tree Close"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858877" version="8" timestamp="2023-05-01T15:59:36Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="9021518275"/>
+    <nd ref="9021518276"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Pear Tree Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858878" version="9" timestamp="2023-05-01T15:55:30Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="9021518277"/>
+    <nd ref="9021518239"/>
+    <nd ref="9021518278"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="St Marys Mews"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="974858879" version="9" timestamp="2023-05-01T15:50:09Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="9021518279"/>
+    <nd ref="9021518280"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Woodland Way"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1041848719" version="7" timestamp="2024-08-11T21:17:43Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1578879777"/>
+    <nd ref="8004181591"/>
+    <nd ref="27477117"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Leicester Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1041848720" version="8" timestamp="2024-08-11T21:18:15Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1592949635"/>
+    <nd ref="8004181593"/>
+    <nd ref="27477119"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1041848721" version="7" timestamp="2024-08-11T19:13:28Z" changeset="155117516" uid="5589" user="user_5589">
+    <nd ref="9591207183"/>
+    <nd ref="1592949642"/>
+    <nd ref="27477122"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1041848722" version="7" timestamp="2024-08-11T19:13:15Z" changeset="155117516" uid="5589" user="user_5589">
+    <nd ref="1578879787"/>
+    <nd ref="539831111"/>
+    <nd ref="27477362"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leicester Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1041848723" version="6" timestamp="2023-05-01T16:27:43Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="9591207185"/>
+    <nd ref="9705612027"/>
+    <nd ref="8004257256"/>
+    <nd ref="279230883"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Balmoral Way"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1041848725" version="1" timestamp="2022-03-20T03:15:16Z" changeset="118684313" uid="5589" user="user_5589">
+    <nd ref="9591207184"/>
+    <nd ref="9532744678"/>
+    <nd ref="8004257258"/>
+    <nd ref="489337847"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Beaufort Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1042071309" version="6" timestamp="2023-05-01T15:34:05Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="1905043874"/>
+    <nd ref="9593051766"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1050655016" version="11" timestamp="2025-05-28T12:09:09Z" changeset="166873062" uid="5589" user="user_5589">
+    <nd ref="9021518221"/>
+    <nd ref="9654948011"/>
+    <nd ref="9021518276"/>
+    <nd ref="11700976772"/>
+    <nd ref="11700976771"/>
+    <nd ref="9021518222"/>
+    <nd ref="11110596132"/>
+    <nd ref="9021518220"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Pear Tree Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1051578217" version="12" timestamp="2024-08-12T02:19:21Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="415369758"/>
+    <nd ref="11251349037"/>
+    <nd ref="11251328036"/>
+    <nd ref="1768479157"/>
+    <nd ref="1768479105"/>
+    <nd ref="10860406889"/>
+    <nd ref="10860357864"/>
+    <nd ref="1768479158"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Hill"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_parking"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1051956473" version="3" timestamp="2025-01-02T18:01:21Z" changeset="160919528" uid="20640449" user="Nathaniel Taulbut">
+    <nd ref="8239682537"/>
+    <nd ref="8262757329"/>
+    <nd ref="8262757328"/>
+    <nd ref="12469380923"/>
+    <nd ref="8262757327"/>
+    <nd ref="9857635651"/>
+    <nd ref="489842348"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="South View Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1051956485" version="2" timestamp="2023-02-10T18:43:50Z" changeset="132375743" uid="5589" user="user_5589">
+    <nd ref="9657163014"/>
+    <nd ref="6371010929"/>
+    <nd ref="27191558"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1051956490" version="3" timestamp="2022-08-01T14:37:13Z" changeset="124349712" uid="5589" user="user_5589">
+    <nd ref="9667088722"/>
+    <nd ref="27477362"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leicester Lane"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1051956491" version="5" timestamp="2023-03-09T23:22:09Z" changeset="133498140" uid="5589" user="user_5589">
+    <nd ref="457500394"/>
+    <nd ref="10724566238"/>
+    <nd ref="27477371"/>
+    <nd ref="10724566244"/>
+    <nd ref="1885196222"/>
+    <nd ref="27477370"/>
+    <nd ref="1885196223"/>
+    <nd ref="1885196224"/>
+    <nd ref="1885196228"/>
+    <nd ref="2009615063"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Leicester Lane"/>
+    <tag k="ref" v="A445"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1068838073" version="1" timestamp="2022-06-11T17:12:29Z" changeset="122257996" uid="5589" user="user_5589">
+    <nd ref="9811252834"/>
+    <nd ref="489842360"/>
+    <nd ref="489842362"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High View Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074246231" version="9" timestamp="2024-08-12T02:23:27Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="9853556536"/>
+    <nd ref="890391037"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Three Cornered Close"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074247348" version="9" timestamp="2024-08-12T02:22:35Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1762570534"/>
+    <nd ref="875024811"/>
+    <nd ref="1762570527"/>
+    <nd ref="1762570513"/>
+    <nd ref="1762570474"/>
+    <nd ref="1762570529"/>
+    <nd ref="11147636461"/>
+    <nd ref="875024814"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cotton Mill Spinney"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1074247600" version="9" timestamp="2024-08-12T02:23:28Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="9853568214"/>
+    <nd ref="1762570469"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Thorn Stile Close"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1074247601" version="9" timestamp="2024-08-12T02:23:59Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1762570469"/>
+    <nd ref="875024807"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Thorn Stile Close"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074248440" version="8" timestamp="2024-08-12T02:23:00Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="9853572461"/>
+    <nd ref="1762570467"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cotton Mill Spinney"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1074504781" version="4" timestamp="2024-08-11T21:27:49Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875022376"/>
+    <nd ref="875022379"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Stonehouse Close"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074521785" version="8" timestamp="2024-08-12T02:21:18Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875023637"/>
+    <nd ref="9854485184"/>
+    <nd ref="9854485186"/>
+    <nd ref="1762583963"/>
+    <nd ref="1762583943"/>
+    <nd ref="875023638"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074522211" version="9" timestamp="2024-08-12T02:21:49Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="9855815799"/>
+    <nd ref="1762583966"/>
+    <nd ref="875023630"/>
+    <nd ref="1762583942"/>
+    <nd ref="875023635"/>
+    <nd ref="1762583935"/>
+    <nd ref="1762583941"/>
+    <nd ref="875023637"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074522367" version="9" timestamp="2024-08-12T02:21:44Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="9855789203"/>
+    <nd ref="875023724"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074523178" version="9" timestamp="2024-08-12T02:21:36Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1762583955"/>
+    <nd ref="875023622"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Pinehurst"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074525011" version="6" timestamp="2023-08-19T16:22:03Z" changeset="140100877" uid="5589" user="user_5589">
+    <nd ref="9855789488"/>
+    <nd ref="875024238"/>
+    <nd ref="703815981"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074525325" version="9" timestamp="2025-03-08T20:38:40Z" changeset="163378827" uid="5589" user="user_5589">
+    <nd ref="875024237"/>
+    <nd ref="1762570454"/>
+    <nd ref="1762570553"/>
+    <nd ref="875024238"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="frontage_road" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction:reason" v="narrow"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074526398" version="10" timestamp="2025-03-08T20:38:40Z" changeset="163378827" uid="5589" user="user_5589">
+    <nd ref="875023853"/>
+    <nd ref="8084616240"/>
+    <nd ref="8084616239"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="frontage_road" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_parking"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074751607" version="6" timestamp="2024-05-10T16:34:15Z" changeset="151154976" uid="5589" user="user_5589">
+    <nd ref="9857635652"/>
+    <nd ref="9857635651"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="South View Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074828776" version="7" timestamp="2024-08-12T02:18:10Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="8268626915"/>
+    <nd ref="875020709"/>
+    <nd ref="6651549636"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074832033" version="5" timestamp="2023-05-01T13:36:51Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="1762550533"/>
+    <nd ref="1762550492"/>
+    <nd ref="875020469"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Offchurch Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1074845950" version="4" timestamp="2024-08-11T21:27:20Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875026235"/>
+    <nd ref="8235212487"/>
+    <nd ref="9657194820"/>
+    <nd ref="875026271"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167734909" version="6" timestamp="2024-08-11T21:26:21Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860298510"/>
+    <nd ref="1762550508"/>
+    <nd ref="8223572853"/>
+    <nd ref="10860298512"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:left:restriction" v="no_stopping"/>
+    <tag k="parking:left:restriction:reason" v="bus_stop"/>
+    <tag k="parking:right" v="street_side"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167734910" version="6" timestamp="2024-08-11T21:25:55Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860298512"/>
+    <nd ref="1762550511"/>
+    <nd ref="10860306385"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="street_side"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167734911" version="6" timestamp="2024-08-11T21:25:10Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860298511"/>
+    <nd ref="10860298510"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:left:restriction" v="no_stopping"/>
+    <tag k="parking:left:restriction:reason" v="markings"/>
+    <tag k="parking:right" v="street_side"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167734912" version="6" timestamp="2024-08-11T21:26:27Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860298513"/>
+    <nd ref="8859105239"/>
+    <nd ref="10860298511"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_stopping"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167735815" version="7" timestamp="2024-08-11T21:25:32Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860306385"/>
+    <nd ref="875021805"/>
+    <nd ref="10860300383"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:left" v="lane"/>
+    <tag k="parking:left:orientation" v="parallel"/>
+    <tag k="parking:right" v="no"/>
+    <tag k="parking:right:restriction" v="no_stopping"/>
+    <tag k="parking:right:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167735961" version="6" timestamp="2024-08-11T21:26:39Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860300383"/>
+    <nd ref="1762550520"/>
+    <nd ref="10860300382"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:left" v="street_side"/>
+    <tag k="parking:left:orientation" v="parallel"/>
+    <tag k="parking:right" v="no"/>
+    <tag k="parking:right:restriction" v="no_stopping"/>
+    <tag k="parking:right:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167735962" version="5" timestamp="2024-08-11T21:25:17Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860300382"/>
+    <nd ref="27191557"/>
+    <nd ref="1762550537"/>
+    <nd ref="10860300384"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="street_side"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167735963" version="6" timestamp="2024-08-11T21:25:22Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860300384"/>
+    <nd ref="1762550518"/>
+    <nd ref="8235718132"/>
+    <nd ref="1762550523"/>
+    <nd ref="1762550513"/>
+    <nd ref="10860294265"/>
+    <nd ref="10860294266"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167736541" version="5" timestamp="2024-08-11T21:26:12Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860294264"/>
+    <nd ref="875021882"/>
+    <nd ref="27191555"/>
+    <nd ref="1171132344"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167736542" version="5" timestamp="2024-08-11T21:26:53Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860294266"/>
+    <nd ref="1762550495"/>
+    <nd ref="3641469830"/>
+    <nd ref="703814293"/>
+    <nd ref="10860294264"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Windmill Hill"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="street_side"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C36"/>
+  </way>
+  <way id="1167737114" version="2" timestamp="2024-08-11T21:27:14Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860299578"/>
+    <nd ref="279231556"/>
+    <nd ref="1762574072"/>
+    <nd ref="1762574092"/>
+    <nd ref="890394543"/>
+    <nd ref="9858402834"/>
+    <nd ref="1762574077"/>
+    <nd ref="279231555"/>
+    <nd ref="6442712415"/>
+    <nd ref="1762574102"/>
+    <nd ref="1762574060"/>
+    <nd ref="1762574115"/>
+    <nd ref="8223572856"/>
+    <nd ref="1374765511"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Queen Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4541"/>
+  </way>
+  <way id="1167737115" version="5" timestamp="2024-08-11T21:27:08Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860299579"/>
+    <nd ref="8223572854"/>
+    <nd ref="10860299578"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Queen Street"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:left:restriction" v="no_stopping"/>
+    <tag k="parking:left:restriction:reason" v="bus_stop"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4541"/>
+  </way>
+  <way id="1167742352" version="4" timestamp="2024-08-12T02:18:10Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="10860308004"/>
+    <nd ref="279231514"/>
+    <nd ref="10860368205"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="lane"/>
+    <tag k="parking:right" v="street_side"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4551"/>
+  </way>
+  <way id="1167742353" version="4" timestamp="2024-08-12T02:18:14Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1768480817"/>
+    <nd ref="1768480826"/>
+    <nd ref="1768480828"/>
+    <nd ref="10860368206"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="lane"/>
+    <tag k="parking:right" v="street_side"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4551"/>
+  </way>
+  <way id="1167742354" version="4" timestamp="2024-08-11T21:40:43Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860368206"/>
+    <nd ref="703818207"/>
+    <nd ref="10860308004"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4551"/>
+  </way>
+  <way id="1167742355" version="4" timestamp="2024-08-11T21:38:14Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860368205"/>
+    <nd ref="279231515"/>
+    <nd ref="1768480836"/>
+    <nd ref="279231516"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D4551"/>
+  </way>
+  <way id="1167743326" version="4" timestamp="2024-08-12T02:19:09Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="10860370410"/>
+    <nd ref="1768479101"/>
+    <nd ref="1768479121"/>
+    <nd ref="1768479138"/>
+    <nd ref="1768479094"/>
+    <nd ref="703819864"/>
+    <nd ref="1768479102"/>
+    <nd ref="1768479122"/>
+    <nd ref="703819589"/>
+    <nd ref="703819590"/>
+    <nd ref="1768479103"/>
+    <nd ref="1768479152"/>
+    <nd ref="1768479085"/>
+    <nd ref="279231511"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="New Street"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167743327" version="5" timestamp="2024-08-12T02:19:17Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="279231527"/>
+    <nd ref="6470691440"/>
+    <nd ref="703819861"/>
+    <nd ref="10860370410"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="New Street"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_stopping"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167748236" version="5" timestamp="2024-08-12T02:20:25Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="10860357863"/>
+    <nd ref="1768479142"/>
+    <nd ref="415369757"/>
+    <nd ref="1768479119"/>
+    <nd ref="1768479107"/>
+    <nd ref="9657194881"/>
+    <nd ref="10860388291"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Hill"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167748353" version="6" timestamp="2024-08-12T02:20:25Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="10860425105"/>
+    <nd ref="1768479115"/>
+    <nd ref="11251349040"/>
+    <nd ref="1768479108"/>
+    <nd ref="11251349039"/>
+    <nd ref="1768479141"/>
+    <nd ref="11251349038"/>
+    <nd ref="1768479123"/>
+    <nd ref="415369758"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Hill"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_parking"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167751023" version="4" timestamp="2024-08-12T02:22:02Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="10860388291"/>
+    <nd ref="1768479114"/>
+    <nd ref="8235212513"/>
+    <nd ref="703820215"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Hill"/>
+    <tag k="parking:left" v="lane"/>
+    <tag k="parking:left:orientation" v="parallel"/>
+    <tag k="parking:right" v="no"/>
+    <tag k="parking:right:restriction" v="no_parking"/>
+    <tag k="parking:right:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167751182" version="5" timestamp="2024-08-12T02:21:19Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="10860388292"/>
+    <nd ref="279231525"/>
+    <nd ref="6470691436"/>
+    <nd ref="3522364182"/>
+    <nd ref="9663656645"/>
+    <nd ref="9593064849"/>
+    <nd ref="9663656648"/>
+    <nd ref="1762574050"/>
+    <nd ref="1762574099"/>
+    <nd ref="6230927604"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167751521" version="5" timestamp="2024-08-12T02:21:19Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="1762574037"/>
+    <nd ref="1762574045"/>
+    <nd ref="1762574059"/>
+    <nd ref="1762574070"/>
+    <nd ref="279231523"/>
+    <nd ref="1762574104"/>
+    <nd ref="1762574048"/>
+    <nd ref="1762574075"/>
+    <nd ref="1762574041"/>
+    <nd ref="9856178245"/>
+    <nd ref="1762574054"/>
+    <nd ref="8239207822"/>
+    <nd ref="1762574096"/>
+    <nd ref="1762574052"/>
+    <nd ref="10860445779"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Lane"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167751522" version="3" timestamp="2023-05-01T15:09:42Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="6230927604"/>
+    <nd ref="279231524"/>
+    <nd ref="1762574037"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Church Lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="street_side"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167752681" version="5" timestamp="2024-08-11T21:31:07Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="10860445779"/>
+    <nd ref="1762574090"/>
+    <nd ref="6230926973"/>
+    <nd ref="9657194835"/>
+    <nd ref="8235212511"/>
+    <nd ref="247657201"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Lane"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction" v="no_parking"/>
+    <tag k="parking:both:restriction:reason" v="markings"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167752821" version="3" timestamp="2023-05-01T14:59:40Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="10860464648"/>
+    <nd ref="254300248"/>
+    <nd ref="7986442247"/>
+    <nd ref="254300249"/>
+    <nd ref="9855789488"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167752822" version="4" timestamp="2023-05-01T17:22:13Z" changeset="135584069" uid="5589" user="user_5589">
+    <nd ref="10860464649"/>
+    <nd ref="254300247"/>
+    <nd ref="1762574043"/>
+    <nd ref="10860464648"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:left:restriction" v="no_stopping"/>
+    <tag k="parking:left:restriction:reason" v="bus_stop"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167752823" version="7" timestamp="2025-03-08T20:38:40Z" changeset="163378827" uid="5589" user="user_5589">
+    <nd ref="8084616239"/>
+    <nd ref="10860473760"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="frontage_road" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:left:restriction:reason" v="narrow"/>
+    <tag k="parking:right" v="street_side"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167753835" version="5" timestamp="2025-03-08T20:38:40Z" changeset="163378827" uid="5589" user="user_5589">
+    <nd ref="10860473760"/>
+    <nd ref="1762570451"/>
+    <nd ref="9855819275"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="frontage_road" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:both:restriction:reason" v="narrow"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167755769" version="3" timestamp="2023-05-01T16:05:53Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="10860463883"/>
+    <nd ref="8235609165"/>
+    <nd ref="1348859215"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167755770" version="4" timestamp="2023-05-01T17:22:13Z" changeset="135584069" uid="5589" user="user_5589">
+    <nd ref="10860463882"/>
+    <nd ref="10860463883"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:left:restriction" v="no_parking"/>
+    <tag k="parking:left:restriction:reason" v="markings"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167756651" version="4" timestamp="2024-08-12T02:21:19Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="10860503068"/>
+    <nd ref="247657202"/>
+    <nd ref="8838205412"/>
+    <nd ref="1762570507"/>
+    <nd ref="6230824343"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167759556" version="10" timestamp="2024-08-12T02:24:07Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="9021507513"/>
+    <nd ref="10860523790"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Roman Way"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167765318" version="3" timestamp="2023-05-01T16:16:16Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="10860560904"/>
+    <nd ref="8602194745"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167765319" version="3" timestamp="2023-05-01T16:18:03Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="8602194749"/>
+    <nd ref="875026235"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="lane"/>
+    <tag k="parking:right" v="street_side"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167765320" version="3" timestamp="2023-05-01T16:17:52Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="8602194745"/>
+    <nd ref="1446214020"/>
+    <nd ref="8602194749"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="street_side"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167765321" version="3" timestamp="2023-05-01T16:16:38Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="875022758"/>
+    <nd ref="6442667559"/>
+    <nd ref="10860560904"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="lane"/>
+    <tag k="parking:right" v="street_side"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167765322" version="4" timestamp="2023-05-01T16:24:34Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="875026235"/>
+    <nd ref="8602442871"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167767951" version="4" timestamp="2023-05-01T16:24:47Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="7986442242"/>
+    <nd ref="10860614478"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="street_side"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167767952" version="4" timestamp="2023-05-01T16:24:53Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="8602442875"/>
+    <nd ref="10860614479"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="lane"/>
+    <tag k="parking:right" v="street_side"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167767953" version="3" timestamp="2023-05-01T16:23:42Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="10860614480"/>
+    <nd ref="8602442875"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="street_side"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167767954" version="3" timestamp="2023-05-01T16:24:58Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="10860614479"/>
+    <nd ref="7986442242"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167767955" version="5" timestamp="2023-05-01T17:22:13Z" changeset="135584069" uid="5589" user="user_5589">
+    <nd ref="10860614478"/>
+    <nd ref="8223564237"/>
+    <nd ref="10860617263"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:left:restriction" v="no_stopping"/>
+    <tag k="parking:left:restriction:reason" v="bus_stop"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167767956" version="4" timestamp="2023-05-01T16:24:41Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="8602442871"/>
+    <nd ref="10860614480"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="street_side"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167768307" version="1" timestamp="2023-05-01T16:25:43Z" changeset="135581756" uid="5589" user="user_5589">
+    <nd ref="1446214029"/>
+    <nd ref="1446214021"/>
+    <nd ref="247657709"/>
+    <nd ref="8223564245"/>
+    <nd ref="8223564244"/>
+    <nd ref="1446214028"/>
+    <nd ref="7986442244"/>
+    <nd ref="9657163011"/>
+    <nd ref="6371010928"/>
+    <nd ref="27191558"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1167768308" version="3" timestamp="2023-05-01T16:25:59Z" changeset="135572484" uid="5589" user="user_5589">
+    <nd ref="10860617263"/>
+    <nd ref="7986442243"/>
+    <nd ref="1446214029"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:left" v="street_side"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="ref" v="B4453"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1213291246" version="2" timestamp="2024-08-11T21:35:25Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="1762574083"/>
+    <nd ref="1762574105"/>
+    <nd ref="279231550"/>
+    <nd ref="8223572857"/>
+    <nd ref="279231549"/>
+    <nd ref="1762574103"/>
+    <nd ref="1762574089"/>
+    <nd ref="1762574117"/>
+    <nd ref="279231548"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1213291247" version="2" timestamp="2024-08-11T21:30:18Z" changeset="155122296" uid="5589" user="user_5589">
+    <nd ref="875018945"/>
+    <nd ref="1762574034"/>
+    <nd ref="1762574039"/>
+    <nd ref="1762574119"/>
+    <nd ref="279231552"/>
+    <nd ref="1768462706"/>
+    <nd ref="1762574079"/>
+    <nd ref="9657194904"/>
+    <nd ref="1762574101"/>
+    <nd ref="9657194903"/>
+    <nd ref="279231551"/>
+    <nd ref="1762574081"/>
+    <nd ref="9657194902"/>
+    <nd ref="875021614"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1213291248" version="2" timestamp="2024-08-12T02:21:19Z" changeset="155126867" uid="5589" user="user_5589">
+    <nd ref="875021614"/>
+    <nd ref="1762574094"/>
+    <nd ref="1762574083"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1227562815" version="1" timestamp="2023-11-29T11:49:28Z" changeset="144584806" uid="384887" user="robw">
+    <nd ref="27191532"/>
+    <nd ref="2421609111"/>
+    <nd ref="703812077"/>
+    <tag k="flood_prone" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Welsh Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1272043498" version="1" timestamp="2024-04-12T16:29:16Z" changeset="149919216" uid="6460170" user="Anon1412108">
+    <nd ref="11812200199"/>
+    <nd ref="9021518264"/>
+    <nd ref="11812200200"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="20 mph"/>
+    <tag k="name" v="Blackberry Way"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

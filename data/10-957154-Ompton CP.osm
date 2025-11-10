@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:38:56Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="324375905" lat="53.1682442" lon="-0.9923094" version="5" timestamp="2012-08-24T15:23:20Z" changeset="12845840" uid="61942" user="SomeoneElse"/>
+  <node id="1880903309" lat="53.1863151" lon="-0.9924567" version="1" timestamp="2012-08-24T14:36:04Z" changeset="12845840" uid="61942" user="SomeoneElse"/>
+  <node id="2402865974" lat="53.1768676" lon="-0.9656901" version="1" timestamp="2013-07-31T21:16:17Z" changeset="17171980" uid="464727" user="CompactDstrxion"/>
+  <way id="132790855" version="3" timestamp="2017-02-10T20:54:47Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="1460904570"/>
+    <nd ref="1460904584"/>
+    <nd ref="3704438908"/>
+    <nd ref="1460904585"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Flash Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="146415211" version="10" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="324375905"/>
+    <nd ref="324375906"/>
+    <nd ref="1596881386"/>
+    <nd ref="324375908"/>
+    <nd ref="324375909"/>
+    <nd ref="1596873749"/>
+    <nd ref="1596879282"/>
+    <nd ref="532563941"/>
+    <nd ref="324375910"/>
+    <nd ref="6454762307"/>
+    <nd ref="1265844441"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Red Hill Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+  </way>
+  <way id="177671400" version="9" timestamp="2022-01-25T15:32:00Z" changeset="116590327" uid="5589" user="user_5589">
+    <nd ref="1880903309"/>
+    <nd ref="666476866"/>
+    <nd ref="4145447935"/>
+    <nd ref="61276555"/>
+    <nd ref="4145447909"/>
+    <nd ref="61276556"/>
+    <nd ref="1880903191"/>
+    <nd ref="1880903171"/>
+    <nd ref="61276557"/>
+    <nd ref="61276558"/>
+    <nd ref="1880903176"/>
+    <nd ref="61276559"/>
+    <nd ref="1460852813"/>
+    <nd ref="61276560"/>
+    <nd ref="1596873105"/>
+    <nd ref="61276561"/>
+    <nd ref="61276562"/>
+    <nd ref="3704438912"/>
+    <nd ref="61276563"/>
+    <nd ref="3704438911"/>
+    <nd ref="3704438913"/>
+    <nd ref="61276564"/>
+    <nd ref="3704438919"/>
+    <nd ref="61276565"/>
+    <nd ref="61276566"/>
+    <nd ref="666476867"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="local_knowledge"/>
+  </way>
+  <way id="177678552" version="7" timestamp="2022-09-11T19:07:48Z" changeset="126061600" uid="5589" user="user_5589">
+    <nd ref="666476867"/>
+    <nd ref="1880985803"/>
+    <nd ref="1880985831"/>
+    <nd ref="61276567"/>
+    <nd ref="1460904570"/>
+    <nd ref="7953246081"/>
+    <nd ref="61276568"/>
+    <nd ref="532565026"/>
+    <nd ref="1880985808"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="View from path;Bing"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="local_knowledge"/>
+  </way>
+  <way id="231965137" version="7" timestamp="2022-09-11T19:07:48Z" changeset="126061600" uid="5589" user="user_5589">
+    <nd ref="2402865974"/>
+    <nd ref="1880985804"/>
+    <nd ref="1880985805"/>
+    <nd ref="61276570"/>
+    <nd ref="666476868"/>
+    <nd ref="61276571"/>
+    <nd ref="6335997118"/>
+    <nd ref="666476869"/>
+    <nd ref="1880985809"/>
+    <nd ref="666476870"/>
+    <nd ref="61276572"/>
+    <nd ref="61276573"/>
+    <nd ref="666476871"/>
+    <nd ref="1880985818"/>
+    <nd ref="61276574"/>
+    <nd ref="61276575"/>
+    <nd ref="9625123912"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="View from path;Bing"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="local_knowledge"/>
+  </way>
+  <way id="473879535" version="4" timestamp="2022-09-11T19:07:48Z" changeset="126061600" uid="5589" user="user_5589">
+    <nd ref="1880985808"/>
+    <nd ref="61276569"/>
+    <nd ref="2402865974"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Newark Road"/>
+    <tag k="ref" v="A616"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="View from path;Bing"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:ref" v="local_knowledge"/>
+  </way>
+
+</osm>

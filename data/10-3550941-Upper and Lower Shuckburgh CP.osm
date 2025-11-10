@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:43:00Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="21132639" lat="52.2510340" lon="-1.2451587" version="4" timestamp="2012-12-02T11:29:28Z" changeset="14122915" uid="705850" user="Cebderby"/>
+  <node id="25258894" lat="52.2420295" lon="-1.2936682" version="2" timestamp="2013-04-02T16:15:08Z" changeset="15583586" uid="9065" user="brianboru"/>
+  <node id="280156550" lat="52.2757065" lon="-1.2708400" version="2" timestamp="2011-11-07T23:25:06Z" changeset="9769916" uid="185805" user="Jon Iles"/>
+  <node id="6317026061" lat="52.2586911" lon="-1.3032407" version="1" timestamp="2019-03-04T21:00:21Z" changeset="67782261" uid="9065" user="brianboru"/>
+  <node id="9865888824" lat="52.2496382" lon="-1.2348958" version="1" timestamp="2022-07-04T13:00:31Z" changeset="123191245" uid="474655" user="slartyfartbast"/>
+  <way id="23585036" version="8" timestamp="2022-08-09T20:04:27Z" changeset="124701647" uid="115894" user="DaveF">
+    <nd ref="25258894"/>
+    <nd ref="2245078822"/>
+    <nd ref="255398901"/>
+    <nd ref="255398902"/>
+    <nd ref="255398903"/>
+    <nd ref="2008062026"/>
+    <nd ref="255398904"/>
+    <nd ref="2008062222"/>
+    <nd ref="255398905"/>
+    <nd ref="2008062310"/>
+    <nd ref="255398906"/>
+    <nd ref="255398907"/>
+    <nd ref="2663117051"/>
+    <nd ref="255398908"/>
+    <nd ref="255398909"/>
+    <nd ref="255398910"/>
+    <nd ref="2257589013"/>
+    <nd ref="255398911"/>
+    <nd ref="2257589018"/>
+    <nd ref="255398912"/>
+    <nd ref="255398913"/>
+    <nd ref="255398914"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="highway_authority_ref" v="C197"/>
+  </way>
+  <way id="23654011" version="16" timestamp="2014-03-31T09:21:47Z" changeset="21415791" uid="9065" user="brianboru">
+    <nd ref="280156550"/>
+    <nd ref="1494753535"/>
+    <nd ref="1494753510"/>
+    <nd ref="280156311"/>
+    <nd ref="256267919"/>
+    <nd ref="1494753549"/>
+    <nd ref="256267937"/>
+    <nd ref="1494753494"/>
+    <nd ref="1494753559"/>
+    <nd ref="1494753492"/>
+    <nd ref="256267938"/>
+    <nd ref="256267939"/>
+    <nd ref="1494753540"/>
+    <nd ref="256267940"/>
+    <nd ref="1494753547"/>
+    <nd ref="1494735770"/>
+    <nd ref="1494739239"/>
+    <nd ref="256267941"/>
+    <nd ref="390208922"/>
+    <nd ref="390208924"/>
+    <nd ref="2499088133"/>
+    <nd ref="256267942"/>
+    <nd ref="2499088128"/>
+    <nd ref="1494735768"/>
+    <nd ref="390208920"/>
+    <nd ref="256267943"/>
+    <nd ref="1494735754"/>
+    <nd ref="1494735780"/>
+    <nd ref="256267944"/>
+    <nd ref="1494735763"/>
+    <nd ref="1257699919"/>
+    <nd ref="1494189659"/>
+    <nd ref="256267945"/>
+    <nd ref="2444615186"/>
+    <nd ref="2755750723"/>
+    <nd ref="2755750704"/>
+    <nd ref="2755750698"/>
+    <nd ref="2755750694"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="25696419" version="11" timestamp="2022-10-10T09:56:24Z" changeset="127292709" uid="8775772" user="LakatosVL">
+    <nd ref="2755750690"/>
+    <nd ref="1494189690"/>
+    <nd ref="2444615160"/>
+    <nd ref="1494189663"/>
+    <nd ref="390208929"/>
+    <nd ref="2444615152"/>
+    <nd ref="2755750637"/>
+    <nd ref="390208927"/>
+    <nd ref="2444615147"/>
+    <nd ref="390208931"/>
+    <nd ref="256267948"/>
+    <nd ref="1494189654"/>
+    <nd ref="2444615126"/>
+    <nd ref="1494189695"/>
+    <nd ref="2755750614"/>
+    <nd ref="1409833619"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25696420" version="10" timestamp="2015-08-17T08:06:39Z" changeset="33384029" uid="873940" user="Mike Baggaley">
+    <nd ref="2755750694"/>
+    <nd ref="2755750690"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="Shuckburgh Road Bridge"/>
+    <tag k="bridge:ref" v="104"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="42088638" version="13" timestamp="2022-12-04T16:58:18Z" changeset="129711316" uid="13001300" user="simonc11">
+    <nd ref="10238187109"/>
+    <nd ref="6317026059"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="Nimrod Bridge"/>
+    <tag k="bridge:ref" v="108"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="42088639" version="6" timestamp="2021-10-07T09:45:46Z" changeset="112207194" uid="34867" user="SammyTheSnake">
+    <nd ref="6317026059"/>
+    <nd ref="6317026061"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="42088640" version="13" timestamp="2021-10-07T09:46:19Z" changeset="112207194" uid="34867" user="SammyTheSnake">
+    <nd ref="522902060"/>
+    <nd ref="522902059"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="Garners Bridge"/>
+    <tag k="bridge:ref" v="107"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="42088641" version="11" timestamp="2022-12-04T16:58:18Z" changeset="129711316" uid="13001300" user="simonc11">
+    <nd ref="522902059"/>
+    <nd ref="1628132487"/>
+    <nd ref="21132573"/>
+    <nd ref="885821755"/>
+    <nd ref="21132574"/>
+    <nd ref="1492891419"/>
+    <nd ref="21132575"/>
+    <nd ref="21132571"/>
+    <nd ref="21132570"/>
+    <nd ref="21132520"/>
+    <nd ref="1492891408"/>
+    <nd ref="1492891412"/>
+    <nd ref="21132565"/>
+    <nd ref="21132566"/>
+    <nd ref="1492891428"/>
+    <nd ref="21132567"/>
+    <nd ref="429511014"/>
+    <nd ref="10238187111"/>
+    <nd ref="10238187109"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="49857222" version="19" timestamp="2025-02-11T02:52:21Z" changeset="162374226" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="21132639"/>
+    <nd ref="2045938847"/>
+    <nd ref="633484742"/>
+    <nd ref="2755778914"/>
+    <nd ref="633484743"/>
+    <nd ref="6865749178"/>
+    <nd ref="2755778915"/>
+    <nd ref="8386152895"/>
+    <nd ref="1578862524"/>
+    <nd ref="2755778916"/>
+    <nd ref="6865760391"/>
+    <nd ref="633484744"/>
+    <nd ref="1578862521"/>
+    <nd ref="2755778918"/>
+    <nd ref="1578862518"/>
+    <nd ref="2478881530"/>
+    <nd ref="1578862508"/>
+    <nd ref="1578862515"/>
+    <nd ref="2478909703"/>
+    <nd ref="633484745"/>
+    <nd ref="1578862536"/>
+    <nd ref="761375384"/>
+    <nd ref="1578862519"/>
+    <nd ref="761375387"/>
+    <nd ref="1578862514"/>
+    <nd ref="1578862516"/>
+    <nd ref="2755778920"/>
+    <nd ref="633484746"/>
+    <nd ref="633484747"/>
+    <nd ref="1578862527"/>
+    <nd ref="2478898546"/>
+    <nd ref="1578862532"/>
+    <nd ref="8266023146"/>
+    <nd ref="633484748"/>
+    <nd ref="2478898562"/>
+    <nd ref="2755778924"/>
+    <nd ref="633484749"/>
+    <nd ref="2478898577"/>
+    <nd ref="2755778976"/>
+    <nd ref="633484750"/>
+    <nd ref="2321326323"/>
+    <nd ref="2321326320"/>
+    <nd ref="2321326322"/>
+    <nd ref="633484751"/>
+    <nd ref="2755778982"/>
+    <nd ref="633484752"/>
+    <nd ref="761375405"/>
+    <nd ref="633484753"/>
+    <nd ref="761375411"/>
+    <nd ref="2755722904"/>
+    <nd ref="2321326325"/>
+    <nd ref="2321326324"/>
+    <nd ref="2321326321"/>
+    <nd ref="761375206"/>
+    <nd ref="2755722932"/>
+    <nd ref="12577397571"/>
+    <nd ref="2755722934"/>
+    <nd ref="633484754"/>
+    <nd ref="2755722948"/>
+    <nd ref="1578862534"/>
+    <nd ref="2755722954"/>
+    <nd ref="633484755"/>
+    <nd ref="1578862529"/>
+    <nd ref="2755722967"/>
+    <nd ref="633484756"/>
+    <nd ref="1578862533"/>
+    <nd ref="1578862520"/>
+    <nd ref="633484757"/>
+    <nd ref="2755722984"/>
+    <nd ref="2755722985"/>
+    <nd ref="2755722986"/>
+    <nd ref="1494753550"/>
+    <nd ref="1494753521"/>
+    <nd ref="1494753501"/>
+    <nd ref="633484758"/>
+    <nd ref="1494753564"/>
+    <nd ref="633484759"/>
+    <nd ref="2756021594"/>
+    <nd ref="2756021596"/>
+    <nd ref="2756021616"/>
+    <nd ref="2756021622"/>
+    <nd ref="2756026724"/>
+    <nd ref="2756026734"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxweight" v="7.5"/>
+  </way>
+  <way id="75038344" version="1" timestamp="2010-08-29T06:38:25Z" changeset="5622348" uid="44659" user="Phil Shipley">
+    <nd ref="885821704"/>
+    <nd ref="885821671"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Park Lane"/>
+  </way>
+  <way id="75038345" version="9" timestamp="2022-08-09T20:04:27Z" changeset="124701647" uid="115894" user="DaveF">
+    <nd ref="255398914"/>
+    <nd ref="1257712536"/>
+    <nd ref="255398922"/>
+    <nd ref="255398923"/>
+    <nd ref="255398924"/>
+    <nd ref="7281716359"/>
+    <nd ref="255398925"/>
+    <nd ref="1494189657"/>
+    <nd ref="255398926"/>
+    <nd ref="255398927"/>
+    <nd ref="255398928"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="highway_authority_ref" v="C197"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="name" v="Jubilee Avenue"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75038358" version="4" timestamp="2021-10-13T09:43:54Z" changeset="112453071" uid="34867" user="SammyTheSnake">
+    <nd ref="885821750"/>
+    <nd ref="2499088040"/>
+    <nd ref="885821754"/>
+    <nd ref="1492891417"/>
+    <nd ref="1492891414"/>
+    <nd ref="1492891415"/>
+    <nd ref="885821755"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75038359" version="20" timestamp="2022-08-25T08:59:32Z" changeset="125349218" uid="10836727" user="taindow">
+    <nd ref="6317026061"/>
+    <nd ref="6317026064"/>
+    <nd ref="6317026068"/>
+    <nd ref="21132563"/>
+    <nd ref="21132556"/>
+    <nd ref="21132557"/>
+    <nd ref="6317026070"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Shuckburgh Road"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="136229713" version="5" timestamp="2023-05-29T23:15:16Z" changeset="136719894" uid="19423533" user="john_steelen">
+    <nd ref="1494707667"/>
+    <nd ref="1494707663"/>
+    <nd ref="2755750627"/>
+    <nd ref="1494707664"/>
+    <nd ref="1494707675"/>
+    <nd ref="1494707667"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="name" v="Church of Saint John the Baptist in the Wilderness"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q26638213"/>
+  </way>
+  <way id="169250287" version="7" timestamp="2022-06-23T12:25:47Z" changeset="122758060" uid="8775772" user="LakatosVL">
+    <nd ref="1804158972"/>
+    <nd ref="1804158977"/>
+    <nd ref="1804158991"/>
+    <nd ref="1804159011"/>
+    <nd ref="1804159050"/>
+    <nd ref="1804159028"/>
+    <nd ref="1804159024"/>
+    <nd ref="1804159019"/>
+    <nd ref="1804159046"/>
+    <nd ref="1804159029"/>
+    <nd ref="1804159020"/>
+    <nd ref="1804159015"/>
+    <nd ref="1804158985"/>
+    <nd ref="1804158981"/>
+    <nd ref="1804158973"/>
+    <nd ref="1804158976"/>
+    <nd ref="1804158972"/>
+    <tag k="HE_ref" v="1024393"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="name" v="Shuckburgh Hall"/>
+    <tag k="source" v="Bing"/>
+    <tag k="wikidata" v="Q7504611"/>
+    <tag k="wikipedia" v="en:Shuckburgh Hall"/>
+  </way>
+  <way id="169250347" version="5" timestamp="2023-05-29T23:15:16Z" changeset="136719894" uid="19423533" user="john_steelen">
+    <nd ref="1804158925"/>
+    <nd ref="1804158922"/>
+    <nd ref="2478881301"/>
+    <nd ref="1804158908"/>
+    <nd ref="2478881296"/>
+    <nd ref="2478881302"/>
+    <nd ref="1804158912"/>
+    <nd ref="1804158925"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="name" v="Church of Saint John the Baptist"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17551109"/>
+  </way>
+  <way id="191358855" version="8" timestamp="2021-10-11T09:44:07Z" changeset="112366140" uid="34867" user="SammyTheSnake">
+    <nd ref="1804159130"/>
+    <nd ref="1804159139"/>
+    <nd ref="2478881379"/>
+    <nd ref="1804159158"/>
+    <nd ref="21132599"/>
+    <nd ref="21132598"/>
+    <nd ref="1804159176"/>
+    <nd ref="21132597"/>
+    <nd ref="21132596"/>
+    <nd ref="21132595"/>
+    <nd ref="21132591"/>
+    <nd ref="21132590"/>
+    <nd ref="21132589"/>
+    <nd ref="21132588"/>
+    <nd ref="21132587"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Park Hill"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="191358856" version="7" timestamp="2022-10-10T09:56:24Z" changeset="127292709" uid="8775772" user="LakatosVL">
+    <nd ref="885821671"/>
+    <nd ref="21132583"/>
+    <nd ref="21132582"/>
+    <nd ref="21132581"/>
+    <nd ref="21132580"/>
+    <nd ref="21132579"/>
+    <nd ref="1409833661"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Daventry Road"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="242436663" version="1" timestamp="2013-10-17T06:41:45Z" changeset="18397759" uid="9065" user="brianboru">
+    <nd ref="885821746"/>
+    <nd ref="1492891409"/>
+    <nd ref="885821747"/>
+    <nd ref="885821748"/>
+    <nd ref="2499088020"/>
+    <nd ref="885821749"/>
+    <nd ref="1492891429"/>
+    <nd ref="885821750"/>
+    <nd ref="885821751"/>
+    <nd ref="885821752"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="270554768" version="5" timestamp="2021-10-05T09:42:06Z" changeset="112113129" uid="34867" user="SammyTheSnake">
+    <nd ref="21132577"/>
+    <nd ref="21132576"/>
+    <nd ref="1494189661"/>
+    <nd ref="2444615124"/>
+    <nd ref="21132572"/>
+    <nd ref="522902060"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Daventry Road"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="270554770" version="5" timestamp="2021-08-12T09:25:59Z" changeset="109559872" uid="5589" user="user_5589">
+    <nd ref="21132587"/>
+    <nd ref="2755750551"/>
+    <nd ref="8405231766"/>
+    <nd ref="885821671"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Park Hill"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="376158413" version="9" timestamp="2022-07-04T13:00:31Z" changeset="123191245" uid="474655" user="slartyfartbast">
+    <nd ref="9865888823"/>
+    <nd ref="21132642"/>
+    <nd ref="21132641"/>
+    <nd ref="21132603"/>
+    <nd ref="21132640"/>
+    <nd ref="21132639"/>
+    <nd ref="21132602"/>
+    <nd ref="21132638"/>
+    <nd ref="21132637"/>
+    <nd ref="21132636"/>
+    <nd ref="21132635"/>
+    <nd ref="21132634"/>
+    <nd ref="21132633"/>
+    <nd ref="21132632"/>
+    <nd ref="21132601"/>
+    <nd ref="21132631"/>
+    <nd ref="21132630"/>
+    <nd ref="21132629"/>
+    <nd ref="21132600"/>
+    <nd ref="21132628"/>
+    <nd ref="21132626"/>
+    <nd ref="21132625"/>
+    <nd ref="21132622"/>
+    <nd ref="21132623"/>
+    <nd ref="1804159130"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Shuckburgh Road"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1075767379" version="2" timestamp="2024-05-06T14:14:25Z" changeset="150967434" uid="5589" user="user_5589">
+    <nd ref="9865888824"/>
+    <nd ref="9865888823"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Shuckburgh Road"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1102561898" version="1" timestamp="2022-10-10T09:56:24Z" changeset="127292709" uid="8775772" user="LakatosVL">
+    <nd ref="1409833619"/>
+    <nd ref="2755750602"/>
+    <nd ref="6606254699"/>
+    <nd ref="21132578"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxweight" v="7.5"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1102561899" version="1" timestamp="2022-10-10T09:56:24Z" changeset="127292709" uid="8775772" user="LakatosVL">
+    <nd ref="1409833661"/>
+    <nd ref="21132578"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Daventry Road"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1102561900" version="1" timestamp="2022-10-10T09:56:24Z" changeset="127292709" uid="8775772" user="LakatosVL">
+    <nd ref="21132578"/>
+    <nd ref="1494714196"/>
+    <nd ref="1494727162"/>
+    <nd ref="255398928"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Daventry Road"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1102561901" version="1" timestamp="2022-10-10T09:56:24Z" changeset="127292709" uid="8775772" user="LakatosVL">
+    <nd ref="255398928"/>
+    <nd ref="21132577"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Daventry Road"/>
+    <tag k="passing" v="normal"/>
+    <tag k="ref" v="A425"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

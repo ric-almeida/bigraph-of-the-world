@@ -1,0 +1,2645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:16:15Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="249331412" lat="52.4094581" lon="-1.3991050" version="4" timestamp="2015-02-27T18:24:56Z" changeset="29141510" uid="154484" user="PeterP"/>
+  <node id="264272992" lat="52.4104630" lon="-1.3490615" version="8" timestamp="2023-02-12T12:02:13Z" changeset="132442267" uid="2963768" user="Mar Mar"/>
+  <node id="321770970" lat="52.4025147" lon="-1.3224331" version="6" timestamp="2013-10-09T22:10:51Z" changeset="18272887" uid="69984" user="richardwest"/>
+  <node id="382626911" lat="52.4220513" lon="-1.3541767" version="7" timestamp="2014-04-06T13:35:24Z" changeset="21532619" uid="69984" user="richardwest"/>
+  <node id="1881381072" lat="52.4208438" lon="-1.3795762" version="3" timestamp="2015-01-09T18:28:54Z" changeset="28025184" uid="154484" user="PeterP"/>
+  <node id="3375202306" lat="52.3919360" lon="-1.3674200" version="1" timestamp="2015-02-27T18:24:54Z" changeset="29141510" uid="154484" user="PeterP"/>
+  <way id="24019074" version="17" timestamp="2021-08-14T15:01:41Z" changeset="109672329" uid="5589" user="user_5589">
+    <nd ref="13784102"/>
+    <nd ref="3375209092"/>
+    <nd ref="3375209091"/>
+    <nd ref="4810242217"/>
+    <nd ref="3375210493"/>
+    <nd ref="7624507681"/>
+    <nd ref="881574075"/>
+    <nd ref="8922468127"/>
+    <nd ref="1389589534"/>
+    <nd ref="8922468122"/>
+    <nd ref="4537696364"/>
+    <nd ref="2459595883"/>
+    <nd ref="3375209089"/>
+    <nd ref="8835906506"/>
+    <nd ref="13784104"/>
+    <nd ref="881574848"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Broad Street"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24019075" version="14" timestamp="2023-03-24T05:18:27Z" changeset="134048403" uid="5589" user="user_5589">
+    <nd ref="1353879195"/>
+    <nd ref="7998553352"/>
+    <nd ref="7998553353"/>
+    <nd ref="3375201965"/>
+    <nd ref="3375201937"/>
+    <nd ref="1881380723"/>
+    <nd ref="13784114"/>
+    <nd ref="6620597310"/>
+    <nd ref="6627819706"/>
+    <nd ref="1881380680"/>
+    <nd ref="13784119"/>
+    <nd ref="881574866"/>
+    <nd ref="881574870"/>
+    <nd ref="13784116"/>
+    <nd ref="1881380493"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Crescent"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24019076" version="16" timestamp="2023-03-24T05:18:12Z" changeset="134048403" uid="5589" user="user_5589">
+    <nd ref="1389902713"/>
+    <nd ref="2466172742"/>
+    <nd ref="3375201932"/>
+    <nd ref="3375202315"/>
+    <nd ref="13784130"/>
+    <nd ref="13784131"/>
+    <nd ref="13784129"/>
+    <nd ref="13784121"/>
+    <nd ref="10653150679"/>
+    <nd ref="13784128"/>
+    <nd ref="10653150680"/>
+    <nd ref="6906293968"/>
+    <nd ref="13784127"/>
+    <nd ref="6522623300"/>
+    <nd ref="13784122"/>
+    <nd ref="6522623305"/>
+    <nd ref="13784126"/>
+    <nd ref="13784123"/>
+    <nd ref="13784125"/>
+    <nd ref="13784117"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lutterworth Road"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24019077" version="11" timestamp="2013-08-04T16:48:48Z" changeset="17217307" uid="154484" user="PeterP">
+    <nd ref="249331425"/>
+    <nd ref="1389589510"/>
+    <nd ref="260471073"/>
+    <nd ref="260471074"/>
+    <nd ref="260471075"/>
+    <nd ref="260471076"/>
+    <nd ref="260471077"/>
+    <nd ref="260471079"/>
+    <nd ref="2372070986"/>
+    <nd ref="2372070987"/>
+    <nd ref="260471081"/>
+    <nd ref="260471082"/>
+    <nd ref="1881733594"/>
+    <nd ref="260471083"/>
+    <nd ref="260471084"/>
+    <nd ref="260471085"/>
+    <nd ref="260471086"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="B4029"/>
+  </way>
+  <way id="24360602" version="10" timestamp="2023-02-12T12:02:13Z" changeset="132442267" uid="2963768" user="Mar Mar">
+    <nd ref="264272992"/>
+    <nd ref="264272993"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge_ref" v="34"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Brinklow Road"/>
+  </way>
+  <way id="24360603" version="10" timestamp="2023-02-12T12:02:13Z" changeset="132442267" uid="2963768" user="Mar Mar">
+    <nd ref="264272993"/>
+    <nd ref="1881380455"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Brinklow Road"/>
+  </way>
+  <way id="33535391" version="12" timestamp="2021-08-14T15:00:06Z" changeset="109673547" uid="5589" user="user_5589">
+    <nd ref="382626911"/>
+    <nd ref="3204524064"/>
+    <nd ref="13784139"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge_ref" v="30"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Lutterworth Road"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="45172503" version="10" timestamp="2023-02-12T12:11:40Z" changeset="132442589" uid="2963768" user="Mar Mar">
+    <nd ref="634579756"/>
+    <nd ref="10651527117"/>
+    <nd ref="1881380474"/>
+    <nd ref="1881380476"/>
+    <nd ref="573256626"/>
+    <nd ref="2466172647"/>
+    <nd ref="10651531881"/>
+    <nd ref="634579795"/>
+    <nd ref="10651527107"/>
+    <nd ref="2466172667"/>
+    <nd ref="2466172673"/>
+    <nd ref="10651527106"/>
+    <nd ref="634579797"/>
+    <nd ref="2466172680"/>
+    <nd ref="2894074198"/>
+    <nd ref="2466172683"/>
+    <nd ref="573256627"/>
+    <nd ref="10651514704"/>
+    <nd ref="10651527105"/>
+    <nd ref="10651514703"/>
+    <nd ref="634579803"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ell Lane"/>
+    <tag k="source" v="NPE; survey"/>
+  </way>
+  <way id="47030945" version="9" timestamp="2021-06-08T11:08:44Z" changeset="106029924" uid="10455645" user="viplavm">
+    <nd ref="599934867"/>
+    <nd ref="3375201957"/>
+    <nd ref="1389589498"/>
+    <nd ref="881574163"/>
+    <nd ref="3375201959"/>
+    <nd ref="1389589495"/>
+    <nd ref="599934868"/>
+    <nd ref="1389589467"/>
+    <nd ref="881574168"/>
+    <nd ref="599934869"/>
+    <nd ref="3375201916"/>
+    <nd ref="881574169"/>
+    <nd ref="8814434668"/>
+    <nd ref="3375201968"/>
+    <nd ref="1385011765"/>
+    <nd ref="646741622"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Heath Lane"/>
+  </way>
+  <way id="49938842" version="4" timestamp="2023-02-12T12:02:13Z" changeset="132442267" uid="2963768" user="Mar Mar">
+    <nd ref="573256626"/>
+    <nd ref="634579758"/>
+    <nd ref="5302055867"/>
+    <nd ref="10651527118"/>
+    <nd ref="264272997"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ell Lane"/>
+    <tag k="source" v="NPE; survey"/>
+  </way>
+  <way id="74618512" version="1" timestamp="2010-08-26T23:03:29Z" changeset="5603524" uid="44659" user="Phil Shipley">
+    <nd ref="881573988"/>
+    <nd ref="881573993"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="George Birch Close"/>
+  </way>
+  <way id="74618514" version="4" timestamp="2025-02-27T18:25:36Z" changeset="163024106" uid="2014259" user="nickjohnston">
+    <nd ref="881573996"/>
+    <nd ref="1878069192"/>
+    <nd ref="881573997"/>
+    <nd ref="881573998"/>
+    <nd ref="881573999"/>
+    <nd ref="881574000"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Skipwith Close"/>
+  </way>
+  <way id="74618524" version="6" timestamp="2025-05-25T16:22:53Z" changeset="166742335" uid="3999" user="BarryMyles">
+    <nd ref="599934863"/>
+    <nd ref="1878068684"/>
+    <nd ref="1389662495"/>
+    <nd ref="1389662475"/>
+    <nd ref="881574020"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Green Lane"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="74618526" version="2" timestamp="2012-08-22T18:10:14Z" changeset="12823946" uid="411244" user="RobJN">
+    <nd ref="599934861"/>
+    <nd ref="881574010"/>
+    <nd ref="881574028"/>
+    <nd ref="1878069047"/>
+    <nd ref="881574029"/>
+    <nd ref="1878069060"/>
+    <nd ref="881573993"/>
+    <nd ref="881574000"/>
+    <nd ref="249331427"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Great Balance"/>
+  </way>
+  <way id="74618529" version="4" timestamp="2025-05-15T09:52:52Z" changeset="166295429" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="881574033"/>
+    <nd ref="881574035"/>
+    <nd ref="2459654606"/>
+    <nd ref="881574037"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rooks Nest"/>
+    <tag k="note" v="Private road (probably not maintained by the Local Authority)"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="74618532" version="5" timestamp="2021-07-15T12:22:55Z" changeset="108051921" uid="9641463" user="branib">
+    <nd ref="881574041"/>
+    <nd ref="1878069041"/>
+    <nd ref="1878069037"/>
+    <nd ref="881574042"/>
+    <nd ref="8922468134"/>
+    <nd ref="1878069034"/>
+    <nd ref="881574043"/>
+    <nd ref="2150567949"/>
+    <nd ref="1389662487"/>
+    <nd ref="2150567994"/>
+    <nd ref="2150568028"/>
+    <nd ref="881574044"/>
+    <nd ref="2150568068"/>
+    <nd ref="249331429"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Yew Tree Hill"/>
+  </way>
+  <way id="74618534" version="6" timestamp="2013-02-11T16:40:58Z" changeset="14996135" uid="411244" user="RobJN">
+    <nd ref="881574044"/>
+    <nd ref="1878069074"/>
+    <nd ref="1878069102"/>
+    <nd ref="881574052"/>
+    <nd ref="2150568135"/>
+    <nd ref="1389662498"/>
+    <nd ref="1878069147"/>
+    <nd ref="1878069171"/>
+    <nd ref="881574053"/>
+    <nd ref="1878069187"/>
+    <nd ref="881574054"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="74618540" version="3" timestamp="2021-07-15T12:22:55Z" changeset="108051921" uid="9641463" user="branib">
+    <nd ref="881574066"/>
+    <nd ref="8922468130"/>
+    <nd ref="881574067"/>
+    <nd ref="1878068473"/>
+    <nd ref="1878068477"/>
+    <nd ref="881574069"/>
+    <nd ref="8922468131"/>
+    <nd ref="1878068487"/>
+    <nd ref="881574071"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brays Close"/>
+  </way>
+  <way id="74618542" version="2" timestamp="2015-02-27T18:29:49Z" changeset="29141510" uid="154484" user="PeterP">
+    <nd ref="881574074"/>
+    <nd ref="3375209090"/>
+    <nd ref="881574075"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Butchers Close"/>
+  </way>
+  <way id="74618543" version="3" timestamp="2017-08-30T17:50:51Z" changeset="51588479" uid="22643" user="James Derrick">
+    <nd ref="881574076"/>
+    <nd ref="5069877789"/>
+    <nd ref="599934865"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dun Cow Close"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="74618545" version="4" timestamp="2015-02-27T18:25:09Z" changeset="29141510" uid="154484" user="PeterP">
+    <nd ref="881574083"/>
+    <nd ref="881574085"/>
+    <nd ref="1880767208"/>
+    <nd ref="1880767205"/>
+    <nd ref="1878068920"/>
+    <nd ref="881574086"/>
+    <nd ref="881574088"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Potters Close"/>
+  </way>
+  <way id="74618548" version="4" timestamp="2024-07-21T00:33:07Z" changeset="154200045" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="12065432989"/>
+    <nd ref="881574089"/>
+    <nd ref="881574091"/>
+    <nd ref="1878068902"/>
+    <nd ref="1878068895"/>
+    <nd ref="1878068853"/>
+    <nd ref="1878068738"/>
+    <nd ref="881574092"/>
+    <nd ref="881574094"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Colledge Close"/>
+    <tag k="sidewalk" v="both"/>
+  </way>
+  <way id="74618556" version="5" timestamp="2023-02-12T12:02:13Z" changeset="132442267" uid="2963768" user="Mar Mar">
+    <nd ref="264272997"/>
+    <nd ref="10651527119"/>
+    <nd ref="1385011723"/>
+    <nd ref="1385011718"/>
+    <nd ref="264273001"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Rugby Road"/>
+  </way>
+  <way id="74618558" version="8" timestamp="2021-08-14T15:02:20Z" changeset="109673011" uid="5589" user="user_5589">
+    <nd ref="13784110"/>
+    <nd ref="3375202305"/>
+    <nd ref="13784106"/>
+    <nd ref="13784108"/>
+    <nd ref="1353879115"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="74618563" version="4" timestamp="2025-05-15T09:52:53Z" changeset="166295429" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="881574137"/>
+    <nd ref="1881733066"/>
+    <nd ref="599934863"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="1"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="74618824" version="4" timestamp="2015-02-27T18:25:09Z" changeset="29141510" uid="154484" user="PeterP">
+    <nd ref="881574851"/>
+    <nd ref="881574853"/>
+    <nd ref="3375202303"/>
+    <nd ref="881574855"/>
+    <nd ref="881574857"/>
+    <nd ref="634579730"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Hall Grove"/>
+  </way>
+  <way id="74618825" version="8" timestamp="2021-08-14T15:01:05Z" changeset="109672329" uid="5589" user="user_5589">
+    <nd ref="881574865"/>
+    <nd ref="881574864"/>
+    <nd ref="881574862"/>
+    <nd ref="881574861"/>
+    <nd ref="1881380512"/>
+    <nd ref="1881380499"/>
+    <nd ref="1881380493"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Crescent"/>
+    <tag k="source:name" v="OS OpenData Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="74618826" version="3" timestamp="2021-08-14T15:01:02Z" changeset="109672329" uid="5589" user="user_5589">
+    <nd ref="881574866"/>
+    <nd ref="881574862"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Crescent"/>
+    <tag k="source:name" v="OS OpenData Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="74618827" version="3" timestamp="2021-08-09T16:01:31Z" changeset="109415612" uid="5589" user="user_5589">
+    <nd ref="881574861"/>
+    <nd ref="881574870"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Crescent"/>
+    <tag k="source:name" v="OS OpenData Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120831016" version="8" timestamp="2021-08-14T15:01:59Z" changeset="109672329" uid="5589" user="user_5589">
+    <nd ref="13784102"/>
+    <nd ref="1878068696"/>
+    <nd ref="1353879141"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="source" v="npe"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120831017" version="7" timestamp="2023-02-12T12:02:13Z" changeset="132442267" uid="2963768" user="Mar Mar">
+    <nd ref="634579803"/>
+    <nd ref="573256628"/>
+    <nd ref="10651514698"/>
+    <nd ref="3375202309"/>
+    <nd ref="10651514699"/>
+    <nd ref="634579755"/>
+    <nd ref="10651514700"/>
+    <nd ref="10651514702"/>
+    <nd ref="634579754"/>
+    <nd ref="7095181664"/>
+    <nd ref="10651514701"/>
+    <nd ref="3375201947"/>
+    <nd ref="13784117"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ell Lane"/>
+    <tag k="source" v="NPE; survey"/>
+  </way>
+  <way id="120831019" version="3" timestamp="2021-08-14T15:00:59Z" changeset="109672329" uid="5589" user="user_5589">
+    <nd ref="881574865"/>
+    <nd ref="13784119"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Crescent"/>
+    <tag k="source:name" v="OS OpenData Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120831020" version="4" timestamp="2012-08-24T22:45:56Z" changeset="12850442" uid="411244" user="RobJN">
+    <nd ref="1353879112"/>
+    <nd ref="599934873"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Heath Lane"/>
+    <tag k="sidewalk" v="right"/>
+  </way>
+  <way id="120831021" version="5" timestamp="2011-09-29T14:07:52Z" changeset="9426340" uid="5589" user="user_5589">
+    <nd ref="646741622"/>
+    <nd ref="1385011702"/>
+    <nd ref="599934870"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Heath Lane"/>
+  </way>
+  <way id="120831022" version="13" timestamp="2025-05-25T16:22:53Z" changeset="166742335" uid="3999" user="BarryMyles">
+    <nd ref="1353879115"/>
+    <nd ref="13784097"/>
+    <nd ref="1878068436"/>
+    <nd ref="1878068475"/>
+    <nd ref="13784096"/>
+    <nd ref="8835906496"/>
+    <nd ref="881574071"/>
+    <nd ref="4810242218"/>
+    <nd ref="13784102"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="120831023" version="8" timestamp="2021-08-09T16:01:16Z" changeset="109416042" uid="5589" user="user_5589">
+    <nd ref="13784117"/>
+    <nd ref="1353879195"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="The Crescent"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="121825772" version="7" timestamp="2019-05-23T08:39:08Z" changeset="70542870" uid="9259465" user="alivelis">
+    <nd ref="599934870"/>
+    <nd ref="3375201961"/>
+    <nd ref="2431848633"/>
+    <nd ref="1389662490"/>
+    <nd ref="3375201917"/>
+    <nd ref="599934871"/>
+    <nd ref="2431848641"/>
+    <nd ref="6494460106"/>
+    <nd ref="881574173"/>
+    <nd ref="3375201967"/>
+    <nd ref="599934872"/>
+    <nd ref="1880793198"/>
+    <nd ref="1353879112"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Heath Lane"/>
+  </way>
+  <way id="124424943" version="4" timestamp="2021-08-14T15:02:31Z" changeset="109672327" uid="5589" user="user_5589">
+    <nd ref="13784111"/>
+    <nd ref="13784110"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="125004670" version="4" timestamp="2015-01-09T18:28:56Z" changeset="28025184" uid="154484" user="PeterP">
+    <nd ref="260471091"/>
+    <nd ref="260471092"/>
+    <nd ref="3278951511"/>
+    <nd ref="1881380992"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="B4029"/>
+  </way>
+  <way id="125004674" version="9" timestamp="2021-08-14T15:01:29Z" changeset="109672329" uid="5589" user="user_5589">
+    <nd ref="634579730"/>
+    <nd ref="13784105"/>
+    <nd ref="881574848"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Broad Street"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="125004676" version="4" timestamp="2015-01-11T16:26:13Z" changeset="28066242" uid="154484" user="PeterP">
+    <nd ref="260471086"/>
+    <nd ref="3282411993"/>
+    <nd ref="3282412003"/>
+    <nd ref="260471087"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="B4029"/>
+  </way>
+  <way id="125006443" version="10" timestamp="2025-05-25T16:22:53Z" changeset="166742335" uid="3999" user="BarryMyles">
+    <nd ref="881574137"/>
+    <nd ref="881574175"/>
+    <nd ref="1389662473"/>
+    <nd ref="881574020"/>
+    <nd ref="1878068673"/>
+    <nd ref="1878068683"/>
+    <nd ref="1389662485"/>
+    <nd ref="1878068689"/>
+    <nd ref="1878068690"/>
+    <nd ref="599934864"/>
+    <nd ref="1878068695"/>
+    <nd ref="881574094"/>
+    <nd ref="5069852148"/>
+    <nd ref="1878068709"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Heath Lane"/>
+    <tag k="sidewalk" v="right"/>
+  </way>
+  <way id="125006997" version="11" timestamp="2025-05-15T15:38:56Z" changeset="166311249" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="249331412"/>
+    <nd ref="1882957990"/>
+    <nd ref="1882957988"/>
+    <nd ref="249331413"/>
+    <nd ref="1882957982"/>
+    <nd ref="1882957986"/>
+    <nd ref="249331414"/>
+    <nd ref="249331415"/>
+    <nd ref="1882957993"/>
+    <nd ref="1882957994"/>
+    <nd ref="8259221538"/>
+    <nd ref="1882957995"/>
+    <nd ref="1882957996"/>
+    <nd ref="249331416"/>
+    <nd ref="1882957998"/>
+    <nd ref="1882958001"/>
+    <nd ref="1882958003"/>
+    <nd ref="249331417"/>
+    <nd ref="1882958004"/>
+    <nd ref="1882958005"/>
+    <nd ref="3329027865"/>
+    <nd ref="1882958006"/>
+    <nd ref="2372070936"/>
+    <nd ref="249331418"/>
+    <nd ref="1882958008"/>
+    <nd ref="2431848682"/>
+    <nd ref="1882958011"/>
+    <nd ref="1882958010"/>
+    <nd ref="249331419"/>
+    <nd ref="1882958012"/>
+    <nd ref="1882958013"/>
+    <nd ref="1882958014"/>
+    <nd ref="249331420"/>
+    <nd ref="2372070943"/>
+    <nd ref="1882958015"/>
+    <nd ref="249331421"/>
+    <nd ref="2431848691"/>
+    <nd ref="1882958016"/>
+    <nd ref="1882958017"/>
+    <nd ref="249331422"/>
+    <nd ref="1882958021"/>
+    <nd ref="1882958023"/>
+    <nd ref="1882958024"/>
+    <nd ref="1882958027"/>
+    <nd ref="249331423"/>
+    <nd ref="1882958029"/>
+    <nd ref="1882958028"/>
+    <nd ref="249331424"/>
+    <nd ref="1882958026"/>
+    <nd ref="1882958025"/>
+    <nd ref="1882958022"/>
+    <nd ref="1882958020"/>
+    <nd ref="1882958019"/>
+    <nd ref="1882958018"/>
+    <nd ref="249331425"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="npe"/>
+  </way>
+  <way id="125024241" version="7" timestamp="2020-03-27T07:19:13Z" changeset="82698297" uid="10219386" user="bathines">
+    <nd ref="881574848"/>
+    <nd ref="1353879155"/>
+    <nd ref="1389589536"/>
+    <nd ref="881574846"/>
+    <nd ref="7334151868"/>
+    <nd ref="1389878470"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Barr Lane"/>
+  </way>
+  <way id="125024251" version="3" timestamp="2023-02-12T12:02:13Z" changeset="132442267" uid="2963768" user="Mar Mar">
+    <nd ref="634579756"/>
+    <nd ref="10651527114"/>
+    <nd ref="2466172640"/>
+    <nd ref="10651527116"/>
+    <nd ref="10651527115"/>
+    <nd ref="264272997"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Brinklow Road"/>
+  </way>
+  <way id="134117269" version="5" timestamp="2023-11-30T20:41:20Z" changeset="144639610" uid="504708" user="HillWithSmallFields">
+    <nd ref="1474988843"/>
+    <nd ref="1880827410"/>
+    <nd ref="1474988852"/>
+    <nd ref="1474988848"/>
+    <nd ref="1474988834"/>
+    <nd ref="1474988836"/>
+    <nd ref="1474988855"/>
+    <nd ref="1474988832"/>
+    <nd ref="1474988833"/>
+    <nd ref="1474988844"/>
+    <nd ref="1474988842"/>
+    <nd ref="1474988850"/>
+    <nd ref="1474988843"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="name" v="St John the Baptist"/>
+    <tag k="ref:dove" v="16910"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Bing"/>
+    <tag k="wikidata" v="Q17550814"/>
+  </way>
+  <way id="169863870" version="4" timestamp="2025-08-30T22:20:18Z" changeset="171247650" uid="13247722" user="TheCanMan">
+    <nd ref="321770970"/>
+    <nd ref="321770972"/>
+    <nd ref="705005333"/>
+    <nd ref="705005334"/>
+    <nd ref="1810217256"/>
+    <nd ref="321770976"/>
+    <nd ref="705005335"/>
+    <nd ref="1223263423"/>
+    <nd ref="1223270624"/>
+    <nd ref="10276908058"/>
+    <nd ref="321770978"/>
+    <nd ref="10276908059"/>
+    <nd ref="321770980"/>
+    <nd ref="10276908060"/>
+    <nd ref="10276908061"/>
+    <nd ref="1223263420"/>
+    <nd ref="1223270623"/>
+    <nd ref="1223270626"/>
+    <nd ref="321770981"/>
+    <nd ref="321771000"/>
+    <nd ref="321770998"/>
+    <nd ref="321771004"/>
+    <nd ref="385347621"/>
+    <nd ref="321771003"/>
+    <nd ref="321770986"/>
+    <nd ref="321770989"/>
+    <nd ref="2894053447"/>
+    <nd ref="321770991"/>
+    <nd ref="1224118126"/>
+    <nd ref="321770993"/>
+    <nd ref="321770996"/>
+    <nd ref="321770997"/>
+    <nd ref="13109326077"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Cathiron Lane"/>
+    <tag k="source" v="survey;gps"/>
+  </way>
+  <way id="169863880" version="1" timestamp="2012-07-02T17:59:27Z" changeset="12091888" uid="22643" user="James Derrick">
+    <nd ref="1810217634"/>
+    <nd ref="1810217615"/>
+    <nd ref="1810217622"/>
+    <nd ref="1810217610"/>
+    <nd ref="1810217598"/>
+    <nd ref="1810217602"/>
+    <nd ref="1810217604"/>
+    <nd ref="1810217631"/>
+    <nd ref="1810217634"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Rose Boatyard"/>
+    <tag k="source" v="Bing"/>
+    <tag k="waterway" v="boatyard"/>
+  </way>
+  <way id="177364744" version="2" timestamp="2012-08-24T13:00:21Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068851"/>
+    <nd ref="1878068859"/>
+    <nd ref="1878068901"/>
+    <nd ref="1878068899"/>
+    <nd ref="1878068851"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364748" version="3" timestamp="2017-08-30T17:45:10Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1878068837"/>
+    <nd ref="1878068846"/>
+    <nd ref="1878068889"/>
+    <nd ref="1878068857"/>
+    <nd ref="1878068837"/>
+    <tag k="addr:housenumber" v="1A"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364755" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767426"/>
+    <nd ref="1878069269"/>
+    <nd ref="1878069278"/>
+    <nd ref="1880767445"/>
+    <nd ref="1880767426"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364757" version="2" timestamp="2012-08-24T13:00:22Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068845"/>
+    <nd ref="1878068850"/>
+    <nd ref="1878068893"/>
+    <nd ref="1878068884"/>
+    <nd ref="1878068845"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364758" version="2" timestamp="2012-08-24T13:00:25Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068849"/>
+    <nd ref="1878068881"/>
+    <nd ref="1878068813"/>
+    <nd ref="1878068788"/>
+    <nd ref="1878068849"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364759" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069204"/>
+    <nd ref="1878069218"/>
+    <nd ref="1878069223"/>
+    <nd ref="1878069211"/>
+    <nd ref="1878069204"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364762" version="2" timestamp="2012-08-24T13:00:21Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068963"/>
+    <nd ref="1878068967"/>
+    <nd ref="1878068931"/>
+    <nd ref="1878068926"/>
+    <nd ref="1878068963"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364767" version="2" timestamp="2012-08-24T13:00:23Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068959"/>
+    <nd ref="1878068923"/>
+    <nd ref="1878068928"/>
+    <nd ref="1878068962"/>
+    <nd ref="1878068959"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364769" version="2" timestamp="2012-08-24T13:00:26Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068910"/>
+    <nd ref="1878068916"/>
+    <nd ref="1878068891"/>
+    <nd ref="1878068855"/>
+    <nd ref="1878068910"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364770" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069202"/>
+    <nd ref="1878069215"/>
+    <nd ref="1878069219"/>
+    <nd ref="1878069205"/>
+    <nd ref="1878069202"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364771" version="2" timestamp="2012-08-24T13:00:24Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068958"/>
+    <nd ref="1878068924"/>
+    <nd ref="1878068917"/>
+    <nd ref="1878068954"/>
+    <nd ref="1878068958"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364772" version="2" timestamp="2012-08-24T13:00:21Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068843"/>
+    <nd ref="1878068762"/>
+    <nd ref="1878068786"/>
+    <nd ref="1878068848"/>
+    <nd ref="1878068843"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364774" version="2" timestamp="2012-08-24T13:00:24Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068886"/>
+    <nd ref="1878068919"/>
+    <nd ref="1878068930"/>
+    <nd ref="1878068900"/>
+    <nd ref="1878068886"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364776" version="2" timestamp="2012-08-24T13:00:23Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068961"/>
+    <nd ref="1878068929"/>
+    <nd ref="1878068936"/>
+    <nd ref="1878068966"/>
+    <nd ref="1878068961"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364777" version="2" timestamp="2012-08-24T13:00:24Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068856"/>
+    <nd ref="1878068882"/>
+    <nd ref="1878068911"/>
+    <nd ref="1878068906"/>
+    <nd ref="1878068856"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364778" version="2" timestamp="2012-08-24T13:00:21Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068810"/>
+    <nd ref="1878068820"/>
+    <nd ref="1878068746"/>
+    <nd ref="1878068741"/>
+    <nd ref="1878068810"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364780" version="2" timestamp="2012-08-24T13:00:23Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068794"/>
+    <nd ref="1878068802"/>
+    <nd ref="1878068854"/>
+    <nd ref="1878068852"/>
+    <nd ref="1878068794"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364787" version="2" timestamp="2012-08-24T13:00:27Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068861"/>
+    <nd ref="1878068885"/>
+    <nd ref="1878068907"/>
+    <nd ref="1878068903"/>
+    <nd ref="1878068861"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364789" version="3" timestamp="2017-08-30T17:45:10Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1878068735"/>
+    <nd ref="1878068744"/>
+    <nd ref="1878068806"/>
+    <nd ref="1878068790"/>
+    <nd ref="1878068735"/>
+    <tag k="addr:housenumber" v="2A"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364790" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069284"/>
+    <nd ref="1878069296"/>
+    <nd ref="1878069298"/>
+    <nd ref="1878069292"/>
+    <nd ref="1878069284"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364791" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069185"/>
+    <nd ref="1878069170"/>
+    <nd ref="1878069186"/>
+    <nd ref="1878069196"/>
+    <nd ref="1878069185"/>
+    <tag k="addr:housenumber" v="26A"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364794" version="2" timestamp="2012-08-24T13:00:27Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068888"/>
+    <nd ref="1878068897"/>
+    <nd ref="1878068914"/>
+    <nd ref="1878068909"/>
+    <nd ref="1878068888"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364798" version="2" timestamp="2012-08-24T13:00:21Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068743"/>
+    <nd ref="1878068719"/>
+    <nd ref="1878068721"/>
+    <nd ref="1878068749"/>
+    <nd ref="1878068743"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364799" version="2" timestamp="2012-08-24T13:00:22Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068985"/>
+    <nd ref="1878068987"/>
+    <nd ref="1878068973"/>
+    <nd ref="1878068969"/>
+    <nd ref="1878068985"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364813" version="2" timestamp="2012-08-24T13:00:22Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068941"/>
+    <nd ref="1878068948"/>
+    <nd ref="1878068979"/>
+    <nd ref="1878068976"/>
+    <nd ref="1878068941"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364815" version="2" timestamp="2012-08-24T13:00:20Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068974"/>
+    <nd ref="1878068943"/>
+    <nd ref="1878068953"/>
+    <nd ref="1878068978"/>
+    <nd ref="1878068974"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364830" version="2" timestamp="2012-08-24T13:00:26Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068944"/>
+    <nd ref="1878068951"/>
+    <nd ref="1878068981"/>
+    <nd ref="1878068977"/>
+    <nd ref="1878068944"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364837" version="2" timestamp="2012-08-24T13:00:26Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068912"/>
+    <nd ref="1878068913"/>
+    <nd ref="1878068946"/>
+    <nd ref="1878068940"/>
+    <nd ref="1878068912"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364840" version="2" timestamp="2012-08-24T13:00:27Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068982"/>
+    <nd ref="1878068983"/>
+    <nd ref="1878068995"/>
+    <nd ref="1878068993"/>
+    <nd ref="1878068982"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364843" version="2" timestamp="2012-08-24T13:00:27Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068949"/>
+    <nd ref="1878068942"/>
+    <nd ref="1878068975"/>
+    <nd ref="1878068980"/>
+    <nd ref="1878068949"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364846" version="2" timestamp="2012-08-24T13:00:22Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068904"/>
+    <nd ref="1878068908"/>
+    <nd ref="1878068938"/>
+    <nd ref="1878068937"/>
+    <nd ref="1878068904"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Potters Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364847" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069252"/>
+    <nd ref="1878069249"/>
+    <nd ref="1878069238"/>
+    <nd ref="1878069243"/>
+    <nd ref="1878069252"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364852" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069294"/>
+    <nd ref="1878069286"/>
+    <nd ref="1878069280"/>
+    <nd ref="1878069282"/>
+    <nd ref="1878069294"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364860" version="2" timestamp="2012-08-24T13:00:20Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068835"/>
+    <nd ref="1878068757"/>
+    <nd ref="1878068766"/>
+    <nd ref="1878068841"/>
+    <nd ref="1878068835"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364882" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069212"/>
+    <nd ref="1878069207"/>
+    <nd ref="1878069191"/>
+    <nd ref="1878069195"/>
+    <nd ref="1878069197"/>
+    <nd ref="1878069200"/>
+    <nd ref="1878069212"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364884" version="2" timestamp="2012-08-24T13:00:23Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068759"/>
+    <nd ref="1878068792"/>
+    <nd ref="1878068737"/>
+    <nd ref="1878068745"/>
+    <nd ref="1878068729"/>
+    <nd ref="1878068720"/>
+    <nd ref="1878068759"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364887" version="2" timestamp="2012-08-24T13:00:23Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878069135"/>
+    <nd ref="1878069129"/>
+    <nd ref="1878069121"/>
+    <nd ref="1878069137"/>
+    <nd ref="1878069140"/>
+    <nd ref="1878069132"/>
+    <nd ref="1878069135"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Rooks Nest"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364888" version="2" timestamp="2012-08-24T13:00:20Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878069142"/>
+    <nd ref="1878069138"/>
+    <nd ref="1878069152"/>
+    <nd ref="1878069166"/>
+    <nd ref="1878069148"/>
+    <nd ref="1878069146"/>
+    <nd ref="1878069142"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Rooks Nest"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364890" version="2" timestamp="2012-08-24T13:00:27Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878068950"/>
+    <nd ref="1878068915"/>
+    <nd ref="1878068927"/>
+    <nd ref="1878068970"/>
+    <nd ref="1878068960"/>
+    <nd ref="1878068955"/>
+    <nd ref="1878068950"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364892" version="2" timestamp="2012-08-24T13:00:26Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878069115"/>
+    <nd ref="1878069108"/>
+    <nd ref="1878069094"/>
+    <nd ref="1878069100"/>
+    <nd ref="1878069088"/>
+    <nd ref="1878069096"/>
+    <nd ref="1878069115"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Rooks Nest"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364894" version="2" timestamp="2012-08-24T13:00:24Z" changeset="12844789" uid="411244" user="RobJN">
+    <nd ref="1878069106"/>
+    <nd ref="1878069097"/>
+    <nd ref="1878069070"/>
+    <nd ref="1878069077"/>
+    <nd ref="1878069086"/>
+    <nd ref="1878069091"/>
+    <nd ref="1878069106"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Rooks Nest"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364895" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069235"/>
+    <nd ref="1878069231"/>
+    <nd ref="1878069216"/>
+    <nd ref="1878069220"/>
+    <nd ref="1878069227"/>
+    <nd ref="1878069228"/>
+    <nd ref="1878069235"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364896" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069230"/>
+    <nd ref="1878069226"/>
+    <nd ref="1878069199"/>
+    <nd ref="1878069201"/>
+    <nd ref="1878069210"/>
+    <nd ref="1878069213"/>
+    <nd ref="1878069230"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364897" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767360"/>
+    <nd ref="1878069236"/>
+    <nd ref="1878069240"/>
+    <nd ref="1878069242"/>
+    <nd ref="1878069248"/>
+    <nd ref="1880767388"/>
+    <nd ref="1880767360"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177364907" version="3" timestamp="2024-07-21T00:33:07Z" changeset="154200045" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="1878068709"/>
+    <nd ref="1880767201"/>
+    <nd ref="1880767202"/>
+    <nd ref="1878068971"/>
+    <nd ref="12065432990"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Potters Close"/>
+  </way>
+  <way id="177659388" version="6" timestamp="2024-02-06T19:59:08Z" changeset="147149573" uid="563773" user="mrpacmanmap">
+    <nd ref="2407097067"/>
+    <nd ref="3404656119"/>
+    <nd ref="3404656121"/>
+    <nd ref="1414724734"/>
+    <nd ref="3404656115"/>
+    <nd ref="249331427"/>
+    <nd ref="881574037"/>
+    <nd ref="1880767322"/>
+    <nd ref="881574054"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="bing;npe"/>
+  </way>
+  <way id="177659389" version="3" timestamp="2021-07-15T12:22:55Z" changeset="108051921" uid="9641463" user="branib">
+    <nd ref="1878068709"/>
+    <nd ref="1878068712"/>
+    <nd ref="1878068724"/>
+    <nd ref="881574088"/>
+    <nd ref="599934865"/>
+    <nd ref="1878068764"/>
+    <nd ref="1878068804"/>
+    <nd ref="1389662492"/>
+    <nd ref="8922468133"/>
+    <nd ref="8922468132"/>
+    <nd ref="249331430"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Heath Lane"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="177659391" version="2" timestamp="2012-08-24T13:32:07Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767358"/>
+    <nd ref="1880767362"/>
+    <nd ref="1880767375"/>
+    <nd ref="1880767374"/>
+    <nd ref="1880767358"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Green Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659392" version="2" timestamp="2012-08-24T13:32:07Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767227"/>
+    <nd ref="1880767218"/>
+    <nd ref="1880767226"/>
+    <nd ref="1880767231"/>
+    <nd ref="1880767227"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659393" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069101"/>
+    <nd ref="1880767280"/>
+    <nd ref="1880767293"/>
+    <nd ref="1878069109"/>
+    <nd ref="1878069101"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659394" version="4" timestamp="2022-03-28T17:30:30Z" changeset="119032200" uid="242345" user="confusedbuffalo">
+    <nd ref="1880767214"/>
+    <nd ref="1878069004"/>
+    <nd ref="1878069020"/>
+    <nd ref="1880767223"/>
+    <nd ref="1880767214"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+  </way>
+  <way id="177659395" version="2" timestamp="2012-08-24T13:32:08Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878068800"/>
+    <nd ref="1880767198"/>
+    <nd ref="1880767195"/>
+    <nd ref="1878068734"/>
+    <nd ref="1878068800"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659396" version="2" timestamp="2012-08-24T13:32:08Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878069002"/>
+    <nd ref="1880767215"/>
+    <nd ref="1880767224"/>
+    <nd ref="1878069015"/>
+    <nd ref="1878069002"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659397" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767280"/>
+    <nd ref="1878069117"/>
+    <nd ref="1878069128"/>
+    <nd ref="1880767293"/>
+    <nd ref="1880767280"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659398" version="2" timestamp="2012-08-24T13:32:08Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878068972"/>
+    <nd ref="1880767210"/>
+    <nd ref="1880767207"/>
+    <nd ref="1878068939"/>
+    <nd ref="1878068972"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659399" version="2" timestamp="2012-08-24T13:32:08Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767215"/>
+    <nd ref="1878069010"/>
+    <nd ref="1878069023"/>
+    <nd ref="1880767224"/>
+    <nd ref="1880767215"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659400" version="2" timestamp="2012-08-24T13:32:08Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767198"/>
+    <nd ref="1878068784"/>
+    <nd ref="1878068727"/>
+    <nd ref="1880767195"/>
+    <nd ref="1880767198"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659401" version="2" timestamp="2012-08-24T13:32:09Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878069039"/>
+    <nd ref="1880767236"/>
+    <nd ref="1880767235"/>
+    <nd ref="1878069036"/>
+    <nd ref="1878069039"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659402" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069130"/>
+    <nd ref="1880767298"/>
+    <nd ref="1880767300"/>
+    <nd ref="1878069136"/>
+    <nd ref="1878069130"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659403" version="2" timestamp="2012-08-24T13:32:09Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767210"/>
+    <nd ref="1878068964"/>
+    <nd ref="1878068933"/>
+    <nd ref="1880767207"/>
+    <nd ref="1880767210"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659404" version="2" timestamp="2012-08-24T13:32:09Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767236"/>
+    <nd ref="1880767239"/>
+    <nd ref="1880767238"/>
+    <nd ref="1880767235"/>
+    <nd ref="1880767236"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659405" version="2" timestamp="2012-08-24T13:32:09Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767239"/>
+    <nd ref="1880767244"/>
+    <nd ref="1880767243"/>
+    <nd ref="1880767238"/>
+    <nd ref="1880767239"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659406" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767298"/>
+    <nd ref="1878069139"/>
+    <nd ref="1878069145"/>
+    <nd ref="1880767300"/>
+    <nd ref="1880767298"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659407" version="2" timestamp="2012-08-24T13:32:09Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878068965"/>
+    <nd ref="1880767209"/>
+    <nd ref="1880767206"/>
+    <nd ref="1878068934"/>
+    <nd ref="1878068965"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659408" version="2" timestamp="2012-08-24T13:32:10Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767244"/>
+    <nd ref="1878069080"/>
+    <nd ref="1878069076"/>
+    <nd ref="1880767243"/>
+    <nd ref="1880767244"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659409" version="2" timestamp="2012-08-24T13:32:10Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878069082"/>
+    <nd ref="1880767267"/>
+    <nd ref="1880767274"/>
+    <nd ref="1878069104"/>
+    <nd ref="1878069082"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659410" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069143"/>
+    <nd ref="1880767302"/>
+    <nd ref="1880767304"/>
+    <nd ref="1878069149"/>
+    <nd ref="1878069143"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659411" version="2" timestamp="2012-08-24T13:32:10Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767209"/>
+    <nd ref="1878068956"/>
+    <nd ref="1878068921"/>
+    <nd ref="1880767206"/>
+    <nd ref="1880767209"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659412" version="2" timestamp="2012-08-24T13:32:11Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767267"/>
+    <nd ref="1880767263"/>
+    <nd ref="1880767272"/>
+    <nd ref="1880767274"/>
+    <nd ref="1880767267"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659413" version="2" timestamp="2012-08-24T13:32:11Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767263"/>
+    <nd ref="1880767261"/>
+    <nd ref="1880767270"/>
+    <nd ref="1880767272"/>
+    <nd ref="1880767263"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659414" version="2" timestamp="2012-08-24T13:32:11Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767352"/>
+    <nd ref="1880767358"/>
+    <nd ref="1880767374"/>
+    <nd ref="1880767364"/>
+    <nd ref="1880767352"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Green Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659415" version="2" timestamp="2012-08-24T13:32:11Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767232"/>
+    <nd ref="1880767227"/>
+    <nd ref="1880767231"/>
+    <nd ref="1880767234"/>
+    <nd ref="1880767232"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659418" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767302"/>
+    <nd ref="1878069151"/>
+    <nd ref="1878069168"/>
+    <nd ref="1880767304"/>
+    <nd ref="1880767302"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659420" version="2" timestamp="2012-08-24T13:32:11Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767261"/>
+    <nd ref="1878069067"/>
+    <nd ref="1878069087"/>
+    <nd ref="1880767270"/>
+    <nd ref="1880767261"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659422" version="2" timestamp="2012-08-24T13:32:12Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878069059"/>
+    <nd ref="1880767242"/>
+    <nd ref="1880767259"/>
+    <nd ref="1878069069"/>
+    <nd ref="1878069059"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659423" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069164"/>
+    <nd ref="1880767306"/>
+    <nd ref="1880767310"/>
+    <nd ref="1878069174"/>
+    <nd ref="1878069164"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659424" version="2" timestamp="2012-08-24T13:32:12Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767242"/>
+    <nd ref="1880767241"/>
+    <nd ref="1880767247"/>
+    <nd ref="1880767259"/>
+    <nd ref="1880767242"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659430" version="2" timestamp="2012-08-24T13:32:12Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767241"/>
+    <nd ref="1880767240"/>
+    <nd ref="1880767245"/>
+    <nd ref="1880767247"/>
+    <nd ref="1880767241"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659433" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767306"/>
+    <nd ref="1878069173"/>
+    <nd ref="1878069182"/>
+    <nd ref="1880767310"/>
+    <nd ref="1880767306"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659434" version="2" timestamp="2012-08-24T13:32:12Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767240"/>
+    <nd ref="1878069051"/>
+    <nd ref="1878069062"/>
+    <nd ref="1880767245"/>
+    <nd ref="1880767240"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659437" version="2" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767308"/>
+    <nd ref="1880767307"/>
+    <nd ref="1880767312"/>
+    <nd ref="1880767313"/>
+    <nd ref="1880767308"/>
+    <tag k="addr:housenumber" v="24A"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659438" version="2" timestamp="2012-08-24T13:32:12Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878069058"/>
+    <nd ref="1880767257"/>
+    <nd ref="1880767246"/>
+    <nd ref="1878069054"/>
+    <nd ref="1878069058"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659440" version="2" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767311"/>
+    <nd ref="1880767309"/>
+    <nd ref="1880767315"/>
+    <nd ref="1880767319"/>
+    <nd ref="1880767311"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659446" version="2" timestamp="2012-08-24T13:32:13Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767257"/>
+    <nd ref="1878069079"/>
+    <nd ref="1878069075"/>
+    <nd ref="1880767246"/>
+    <nd ref="1880767257"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659449" version="2" timestamp="2012-08-24T13:32:13Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878068839"/>
+    <nd ref="1880767200"/>
+    <nd ref="1880767197"/>
+    <nd ref="1878068768"/>
+    <nd ref="1878068839"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659450" version="2" timestamp="2012-08-24T13:32:13Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878069006"/>
+    <nd ref="1880767217"/>
+    <nd ref="1880767229"/>
+    <nd ref="1878069022"/>
+    <nd ref="1878069006"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659451" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069229"/>
+    <nd ref="1880767356"/>
+    <nd ref="1880767372"/>
+    <nd ref="1878069241"/>
+    <nd ref="1878069229"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659452" version="2" timestamp="2012-08-24T13:32:14Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767217"/>
+    <nd ref="1880767221"/>
+    <nd ref="1880767230"/>
+    <nd ref="1880767229"/>
+    <nd ref="1880767217"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659457" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767356"/>
+    <nd ref="1878069234"/>
+    <nd ref="1878069245"/>
+    <nd ref="1880767372"/>
+    <nd ref="1880767356"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659460" version="2" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767388"/>
+    <nd ref="1878069247"/>
+    <nd ref="1878069237"/>
+    <nd ref="1878069239"/>
+    <nd ref="1878069233"/>
+    <nd ref="1880767360"/>
+    <nd ref="1880767388"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659462" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767393"/>
+    <nd ref="1878069253"/>
+    <nd ref="1878069244"/>
+    <nd ref="1880767377"/>
+    <nd ref="1880767393"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659463" version="2" timestamp="2012-08-24T13:32:15Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767200"/>
+    <nd ref="1878068817"/>
+    <nd ref="1878068751"/>
+    <nd ref="1880767197"/>
+    <nd ref="1880767200"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659465" version="2" timestamp="2012-08-24T13:32:15Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767221"/>
+    <nd ref="1880767225"/>
+    <nd ref="1880767233"/>
+    <nd ref="1880767230"/>
+    <nd ref="1880767221"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659470" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069255"/>
+    <nd ref="1880767393"/>
+    <nd ref="1880767377"/>
+    <nd ref="1878069250"/>
+    <nd ref="1878069255"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659472" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069256"/>
+    <nd ref="1880767395"/>
+    <nd ref="1880767390"/>
+    <nd ref="1878069251"/>
+    <nd ref="1878069256"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659474" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767395"/>
+    <nd ref="1878069258"/>
+    <nd ref="1878069254"/>
+    <nd ref="1880767390"/>
+    <nd ref="1880767395"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659475" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069259"/>
+    <nd ref="1880767405"/>
+    <nd ref="1880767397"/>
+    <nd ref="1878069257"/>
+    <nd ref="1878069259"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659476" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767405"/>
+    <nd ref="1880767406"/>
+    <nd ref="1880767399"/>
+    <nd ref="1880767397"/>
+    <nd ref="1880767405"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659477" version="2" timestamp="2012-08-24T13:32:17Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767225"/>
+    <nd ref="1878069030"/>
+    <nd ref="1878069035"/>
+    <nd ref="1880767233"/>
+    <nd ref="1880767225"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659482" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767406"/>
+    <nd ref="1880767408"/>
+    <nd ref="1880767401"/>
+    <nd ref="1880767399"/>
+    <nd ref="1880767406"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659484" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767408"/>
+    <nd ref="1878069262"/>
+    <nd ref="1878069260"/>
+    <nd ref="1880767401"/>
+    <nd ref="1880767408"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659487" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069263"/>
+    <nd ref="1880767412"/>
+    <nd ref="1880767407"/>
+    <nd ref="1878069261"/>
+    <nd ref="1878069263"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659488" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767412"/>
+    <nd ref="1880767414"/>
+    <nd ref="1880767409"/>
+    <nd ref="1880767407"/>
+    <nd ref="1880767412"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659489" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767414"/>
+    <nd ref="1880767415"/>
+    <nd ref="1880767410"/>
+    <nd ref="1880767409"/>
+    <nd ref="1880767414"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659490" version="2" timestamp="2012-08-24T13:32:18Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1878068815"/>
+    <nd ref="1880767199"/>
+    <nd ref="1880767196"/>
+    <nd ref="1878068755"/>
+    <nd ref="1878068815"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659495" version="4" timestamp="2022-03-28T17:30:30Z" changeset="119032200" uid="242345" user="confusedbuffalo">
+    <nd ref="1878068998"/>
+    <nd ref="1880767212"/>
+    <nd ref="1880767220"/>
+    <nd ref="1878069017"/>
+    <nd ref="1878068998"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+  </way>
+  <way id="177659497" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767415"/>
+    <nd ref="1878069270"/>
+    <nd ref="1878069265"/>
+    <nd ref="1880767410"/>
+    <nd ref="1880767415"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659499" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767436"/>
+    <nd ref="1878069272"/>
+    <nd ref="1878069264"/>
+    <nd ref="1880767413"/>
+    <nd ref="1880767436"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659500" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878069276"/>
+    <nd ref="1880767436"/>
+    <nd ref="1880767413"/>
+    <nd ref="1878069268"/>
+    <nd ref="1878069276"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659501" version="2" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767445"/>
+    <nd ref="1878069275"/>
+    <nd ref="1878069267"/>
+    <nd ref="1880767426"/>
+    <nd ref="1880767445"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659505" version="4" timestamp="2022-03-28T17:30:30Z" changeset="119032200" uid="242345" user="confusedbuffalo">
+    <nd ref="1880767212"/>
+    <nd ref="1880767213"/>
+    <nd ref="1880767222"/>
+    <nd ref="1880767220"/>
+    <nd ref="1880767212"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+  </way>
+  <way id="177659506" version="2" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767447"/>
+    <nd ref="1880767446"/>
+    <nd ref="1880767428"/>
+    <nd ref="1880767430"/>
+    <nd ref="1880767447"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659507" version="2" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767430"/>
+    <nd ref="1880767432"/>
+    <nd ref="1880767448"/>
+    <nd ref="1880767447"/>
+    <nd ref="1880767430"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659508" version="2" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880767450"/>
+    <nd ref="1880767449"/>
+    <nd ref="1880767434"/>
+    <nd ref="1880767438"/>
+    <nd ref="1880767450"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659510" version="2" timestamp="2012-08-24T13:32:20Z" changeset="12845142" uid="411244" user="RobJN">
+    <nd ref="1880767199"/>
+    <nd ref="1878068796"/>
+    <nd ref="1878068736"/>
+    <nd ref="1880767196"/>
+    <nd ref="1880767199"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Colledge Close"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177659511" version="4" timestamp="2022-03-28T17:30:30Z" changeset="119032200" uid="242345" user="confusedbuffalo">
+    <nd ref="1880767213"/>
+    <nd ref="1880767214"/>
+    <nd ref="1880767223"/>
+    <nd ref="1880767222"/>
+    <nd ref="1880767213"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Yew Tree Hill"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+  </way>
+  <way id="177662304" version="3" timestamp="2017-08-30T17:45:10Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1878068665"/>
+    <nd ref="1880793247"/>
+    <nd ref="1880793230"/>
+    <nd ref="1878068613"/>
+    <nd ref="1878068665"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662305" version="3" timestamp="2017-08-30T17:45:10Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1880793247"/>
+    <nd ref="1878068662"/>
+    <nd ref="1878068599"/>
+    <nd ref="1880793230"/>
+    <nd ref="1880793247"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662306" version="3" timestamp="2017-08-30T17:45:10Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1878068663"/>
+    <nd ref="1880793245"/>
+    <nd ref="1880793225"/>
+    <nd ref="1878068595"/>
+    <nd ref="1878068663"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662307" version="3" timestamp="2017-08-30T17:45:10Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1880793245"/>
+    <nd ref="1878068656"/>
+    <nd ref="1878068572"/>
+    <nd ref="1880793225"/>
+    <nd ref="1880793245"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662311" version="3" timestamp="2017-08-30T17:45:10Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1878068652"/>
+    <nd ref="1880793244"/>
+    <nd ref="1880793221"/>
+    <nd ref="1878068570"/>
+    <nd ref="1878068652"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662312" version="3" timestamp="2017-08-30T17:45:10Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1880793244"/>
+    <nd ref="1878068643"/>
+    <nd ref="1878068563"/>
+    <nd ref="1880793221"/>
+    <nd ref="1880793244"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662314" version="3" timestamp="2017-08-30T17:45:10Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1878068619"/>
+    <nd ref="1880793231"/>
+    <nd ref="1880793220"/>
+    <nd ref="1878068556"/>
+    <nd ref="1878068619"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662315" version="3" timestamp="2017-08-30T17:45:11Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1880793231"/>
+    <nd ref="1878068603"/>
+    <nd ref="1878068533"/>
+    <nd ref="1880793220"/>
+    <nd ref="1880793231"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662316" version="3" timestamp="2017-08-30T17:45:11Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1878068605"/>
+    <nd ref="1880793227"/>
+    <nd ref="1880793217"/>
+    <nd ref="1878068531"/>
+    <nd ref="1878068605"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662318" version="3" timestamp="2017-08-30T17:45:11Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="1880793227"/>
+    <nd ref="1878068592"/>
+    <nd ref="1878068526"/>
+    <nd ref="1880793217"/>
+    <nd ref="1880793227"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662319" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878068574"/>
+    <nd ref="1880793222"/>
+    <nd ref="1880793215"/>
+    <nd ref="1878068523"/>
+    <nd ref="1878068574"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662320" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880793222"/>
+    <nd ref="1878068561"/>
+    <nd ref="1878068518"/>
+    <nd ref="1880793215"/>
+    <nd ref="1880793222"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662321" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878068579"/>
+    <nd ref="1880793223"/>
+    <nd ref="1880793214"/>
+    <nd ref="1878068520"/>
+    <nd ref="1878068579"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662322" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880793223"/>
+    <nd ref="1878068564"/>
+    <nd ref="1878068515"/>
+    <nd ref="1880793214"/>
+    <nd ref="1880793223"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662323" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878068597"/>
+    <nd ref="1880793226"/>
+    <nd ref="1880793216"/>
+    <nd ref="1878068529"/>
+    <nd ref="1878068597"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662324" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880793226"/>
+    <nd ref="1878068576"/>
+    <nd ref="1878068521"/>
+    <nd ref="1880793216"/>
+    <nd ref="1880793226"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662325" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878068611"/>
+    <nd ref="1880793229"/>
+    <nd ref="1880793218"/>
+    <nd ref="1878068552"/>
+    <nd ref="1878068611"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662326" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880793229"/>
+    <nd ref="1878068594"/>
+    <nd ref="1878068525"/>
+    <nd ref="1880793218"/>
+    <nd ref="1880793229"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662327" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878068620"/>
+    <nd ref="1880793242"/>
+    <nd ref="1880793219"/>
+    <nd ref="1878068555"/>
+    <nd ref="1878068620"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662328" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880793242"/>
+    <nd ref="1878068601"/>
+    <nd ref="1878068527"/>
+    <nd ref="1880793219"/>
+    <nd ref="1880793242"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662329" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878068485"/>
+    <nd ref="1880793212"/>
+    <nd ref="1880793213"/>
+    <nd ref="1878068486"/>
+    <nd ref="1878068485"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662330" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880793212"/>
+    <nd ref="1878068469"/>
+    <nd ref="1878068471"/>
+    <nd ref="1880793213"/>
+    <nd ref="1880793212"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662332" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878068449"/>
+    <nd ref="1880793211"/>
+    <nd ref="1880793210"/>
+    <nd ref="1878068448"/>
+    <nd ref="1878068449"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662333" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880793211"/>
+    <nd ref="1878068444"/>
+    <nd ref="1878068443"/>
+    <nd ref="1880793210"/>
+    <nd ref="1880793211"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662334" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878068441"/>
+    <nd ref="1880793208"/>
+    <nd ref="1880793207"/>
+    <nd ref="1878068439"/>
+    <nd ref="1878068441"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662335" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880793208"/>
+    <nd ref="1878068434"/>
+    <nd ref="1878068432"/>
+    <nd ref="1880793207"/>
+    <nd ref="1880793208"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662336" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1880793200"/>
+    <nd ref="1878068429"/>
+    <nd ref="1878068431"/>
+    <nd ref="1880793201"/>
+    <nd ref="1880793200"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177662337" version="3" timestamp="2020-09-21T13:12:50Z" changeset="91232040" uid="5589" user="user_5589">
+    <nd ref="1878068424"/>
+    <nd ref="1880793200"/>
+    <nd ref="1880793201"/>
+    <nd ref="1878068427"/>
+    <nd ref="1878068424"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:street" v="Heath Lane"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="177705498" version="1" timestamp="2012-08-24T19:27:23Z" changeset="12848727" uid="411244" user="RobJN">
+    <nd ref="1881380992"/>
+    <nd ref="1881381072"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="ref" v="B4029"/>
+  </way>
+  <way id="177705499" version="8" timestamp="2015-06-18T16:41:58Z" changeset="32055728" uid="154484" user="PeterP">
+    <nd ref="1881381072"/>
+    <nd ref="3278951499"/>
+    <nd ref="260471093"/>
+    <nd ref="260471094"/>
+    <nd ref="260471095"/>
+    <nd ref="260471096"/>
+    <nd ref="260471097"/>
+    <nd ref="260471098"/>
+    <nd ref="3278951507"/>
+    <nd ref="260471099"/>
+    <nd ref="2408002281"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="B4029"/>
+  </way>
+  <way id="177705501" version="4" timestamp="2021-08-14T15:01:17Z" changeset="109672329" uid="5589" user="user_5589">
+    <nd ref="634579730"/>
+    <nd ref="1881380493"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Broad Street"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="177705504" version="4" timestamp="2017-08-30T07:50:07Z" changeset="51566053" uid="22643" user="James Derrick">
+    <nd ref="1881380483"/>
+    <nd ref="634579730"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Town Yard"/>
+    <tag k="tracktype" v="grade2"/>
+  </way>
+  <way id="177705505" version="3" timestamp="2021-06-08T13:43:05Z" changeset="106039265" uid="10252543" user="srikmar">
+    <nd ref="617024746"/>
+    <nd ref="8814778741"/>
+    <nd ref="1389589519"/>
+    <nd ref="1881380875"/>
+    <nd ref="1389589520"/>
+    <nd ref="1881380871"/>
+    <tag k="designation" v="public_bridleway"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Walkers Terrace"/>
+    <tag k="source:designation" v="survey"/>
+  </way>
+  <way id="177759343" version="2" timestamp="2016-03-04T23:36:21Z" changeset="37619067" uid="1834625" user="urViator">
+    <nd ref="881574054"/>
+    <nd ref="249331428"/>
+    <nd ref="1878069175"/>
+    <nd ref="1878069165"/>
+    <nd ref="1878069144"/>
+    <nd ref="1878069123"/>
+    <nd ref="249331429"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="bing;npe"/>
+  </way>
+  <way id="177759346" version="4" timestamp="2017-08-30T17:50:51Z" changeset="51588479" uid="22643" user="James Derrick">
+    <nd ref="249331429"/>
+    <nd ref="2150567961"/>
+    <nd ref="881574197"/>
+    <nd ref="1878069021"/>
+    <nd ref="1878068990"/>
+    <nd ref="1878068945"/>
+    <nd ref="249331430"/>
+    <nd ref="5069877723"/>
+    <nd ref="1353879141"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="source" v="bing;npe"/>
+  </way>
+  <way id="194917470" version="5" timestamp="2020-09-21T12:57:14Z" changeset="91231295" uid="5589" user="user_5589">
+    <nd ref="2054275927"/>
+    <nd ref="2054275893"/>
+    <nd ref="4537684357"/>
+    <nd ref="4537684310"/>
+    <nd ref="4537686104"/>
+    <nd ref="4537684387"/>
+    <nd ref="2054275891"/>
+    <nd ref="2054275919"/>
+    <nd ref="2054275917"/>
+    <nd ref="2054275899"/>
+    <nd ref="2054275915"/>
+    <nd ref="2054275923"/>
+    <nd ref="2054275921"/>
+    <nd ref="2054275931"/>
+    <nd ref="2054275929"/>
+    <nd ref="2054275895"/>
+    <nd ref="2054275927"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="name" v="Revel Surgery"/>
+  </way>
+  <way id="232355034" version="5" timestamp="2025-05-25T16:22:53Z" changeset="166742335" uid="3999" user="BarryMyles">
+    <nd ref="2407097067"/>
+    <nd ref="2407097088"/>
+    <nd ref="2407097083"/>
+    <nd ref="1389662488"/>
+    <nd ref="1880767468"/>
+    <nd ref="599934860"/>
+    <nd ref="881574155"/>
+    <nd ref="1389662497"/>
+    <nd ref="881574156"/>
+    <nd ref="1880767314"/>
+    <nd ref="12862865336"/>
+    <nd ref="881574158"/>
+    <nd ref="7999038586"/>
+    <nd ref="599934861"/>
+    <nd ref="3375201982"/>
+    <nd ref="599934862"/>
+    <nd ref="1881733123"/>
+    <nd ref="12862865337"/>
+    <nd ref="599934863"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="name" v="Green Lane"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="238103776" version="4" timestamp="2025-08-30T22:20:18Z" changeset="171247650" uid="13247722" user="TheCanMan">
+    <nd ref="13109326076"/>
+    <nd ref="2459654599"/>
+    <nd ref="2459654597"/>
+    <nd ref="264273005"/>
+    <nd ref="1385011742"/>
+    <nd ref="3375201989"/>
+    <nd ref="2459654593"/>
+    <nd ref="264273006"/>
+    <nd ref="13784110"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Rugby Road"/>
+  </way>
+  <way id="238103777" version="2" timestamp="2025-08-30T22:20:18Z" changeset="171247650" uid="13247722" user="TheCanMan">
+    <nd ref="264273001"/>
+    <nd ref="2459654603"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Rugby Road"/>
+  </way>
+  <way id="314875538" version="1" timestamp="2014-11-28T15:42:56Z" changeset="27092716" uid="154484" user="PeterP">
+    <nd ref="1881380871"/>
+    <nd ref="1881380868"/>
+    <nd ref="260471086"/>
+    <tag k="designation" v="public_bridleway"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Walkers Terrace"/>
+    <tag k="source:designation" v="survey"/>
+  </way>
+  <way id="314895419" version="1" timestamp="2014-11-28T18:15:35Z" changeset="27095865" uid="154484" user="PeterP">
+    <nd ref="1389878470"/>
+    <nd ref="881574844"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Barr Lane"/>
+  </way>
+  <way id="314897129" version="3" timestamp="2023-02-12T12:02:13Z" changeset="132442267" uid="2963768" user="Mar Mar">
+    <nd ref="1881380455"/>
+    <nd ref="1225112157"/>
+    <nd ref="264272994"/>
+    <nd ref="10651527108"/>
+    <nd ref="1881380468"/>
+    <nd ref="1881380465"/>
+    <nd ref="1225112172"/>
+    <nd ref="1881380463"/>
+    <nd ref="10651527134"/>
+    <nd ref="1881380447"/>
+    <nd ref="264272995"/>
+    <nd ref="1881380433"/>
+    <nd ref="1881380449"/>
+    <nd ref="264272996"/>
+    <nd ref="1881380460"/>
+    <nd ref="1881380471"/>
+    <nd ref="634579756"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Brinklow Road"/>
+  </way>
+  <way id="321490120" version="1" timestamp="2015-01-11T16:26:09Z" changeset="28066242" uid="154484" user="PeterP">
+    <nd ref="260471087"/>
+    <nd ref="260471088"/>
+    <nd ref="260471089"/>
+    <nd ref="260471090"/>
+    <nd ref="260471091"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="ref" v="B4029"/>
+  </way>
+  <way id="355131501" version="1" timestamp="2015-06-20T15:04:03Z" changeset="32098670" uid="154484" user="PeterP">
+    <nd ref="597839732"/>
+    <nd ref="599934867"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Heath Lane"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="379064315" version="5" timestamp="2021-08-14T15:00:36Z" changeset="109672458" uid="5589" user="user_5589">
+    <nd ref="3824194788"/>
+    <nd ref="3824194793"/>
+    <nd ref="13784133"/>
+    <nd ref="2459607836"/>
+    <nd ref="1881381415"/>
+    <nd ref="2466172795"/>
+    <nd ref="382626911"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Lutterworth Road"/>
+    <tag k="old_name" v="Fosse Way"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="379064321" version="9" timestamp="2021-08-14T15:00:42Z" changeset="109673547" uid="5589" user="user_5589">
+    <nd ref="3824194788"/>
+    <nd ref="1389902713"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Lutterworth Road"/>
+    <tag k="old_name" v="Fosse Way"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="456802128" version="3" timestamp="2016-12-04T14:45:12Z" changeset="44158943" uid="154484" user="PeterP">
+    <nd ref="4530375698"/>
+    <nd ref="4537814126"/>
+    <nd ref="4530375689"/>
+    <nd ref="4530375690"/>
+    <nd ref="4530375695"/>
+    <nd ref="4530375698"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Scout Hut"/>
+  </way>
+  <way id="456802129" version="2" timestamp="2016-12-04T13:12:05Z" changeset="44157251" uid="154484" user="PeterP">
+    <nd ref="4530375694"/>
+    <nd ref="4530375701"/>
+    <nd ref="4530375702"/>
+    <nd ref="4530375699"/>
+    <nd ref="4530375693"/>
+    <nd ref="4530375696"/>
+    <nd ref="4530375694"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Brinklow Community Hall"/>
+  </way>
+  <way id="519876271" version="3" timestamp="2024-07-15T18:56:18Z" changeset="153985880" uid="6274199" user="gnesss">
+    <nd ref="5068380029"/>
+    <nd ref="5068380026"/>
+    <nd ref="5069852143"/>
+    <nd ref="5069852142"/>
+    <nd ref="5069852141"/>
+    <nd ref="5069852144"/>
+    <nd ref="5068380027"/>
+    <nd ref="5068380028"/>
+    <nd ref="5068380029"/>
+    <tag k="addr:city" v="Brinklow"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="CV23 0NE"/>
+    <tag k="addr:street" v="Coventry Road"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="fhrs:id" v="1727178"/>
+    <tag k="name" v="The Bulls Head"/>
+    <tag k="source" v="Bing"/>
+    <tag k="website" v="https://www.bullsheadinnbrinklow.co.uk/"/>
+  </way>
+  <way id="519876284" version="1" timestamp="2017-08-30T07:45:24Z" changeset="51565952" uid="22643" user="James Derrick">
+    <nd ref="5068380103"/>
+    <nd ref="5068380100"/>
+    <nd ref="5068380101"/>
+    <nd ref="5068380102"/>
+    <nd ref="5068380103"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="united_reformed"/>
+    <tag k="name" v="Brinklow URC"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="519876345" version="1" timestamp="2017-08-30T07:45:27Z" changeset="51565952" uid="22643" user="James Derrick">
+    <nd ref="5068380181"/>
+    <nd ref="5068380178"/>
+    <nd ref="5068380179"/>
+    <nd ref="5068380176"/>
+    <nd ref="5068380177"/>
+    <nd ref="5068380180"/>
+    <nd ref="5068380181"/>
+    <tag k="addr:city" v="Brinklow"/>
+    <tag k="addr:postcode" v="CV23 0LN"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="fhrs:id" v="210698"/>
+    <tag k="name" v="The Raven"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="520068336" version="1" timestamp="2017-08-30T17:45:08Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="5069852151"/>
+    <nd ref="5069852147"/>
+    <nd ref="5069852150"/>
+    <nd ref="5069852145"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Poppy Close"/>
+    <tag k="source" v="DigitalGlobe"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="520068337" version="1" timestamp="2017-08-30T17:45:08Z" changeset="51588342" uid="22643" user="James Derrick">
+    <nd ref="5069852150"/>
+    <nd ref="5069852149"/>
+    <nd ref="5069852148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Poppy Close"/>
+    <tag k="source" v="DigitalGlobe"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="520069983" version="1" timestamp="2017-08-30T17:50:50Z" changeset="51588479" uid="22643" user="James Derrick">
+    <nd ref="5069873520"/>
+    <nd ref="5069873519"/>
+    <nd ref="5069877790"/>
+    <nd ref="5069877789"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dun Cow Close"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="668211011" version="3" timestamp="2025-08-30T22:20:18Z" changeset="171247650" uid="13247722" user="TheCanMan">
+    <nd ref="3375202306"/>
+    <nd ref="599934880"/>
+    <nd ref="3375202316"/>
+    <nd ref="3375201956"/>
+    <nd ref="13784091"/>
+    <nd ref="2485191074"/>
+    <nd ref="2372070831"/>
+    <nd ref="3375201985"/>
+    <nd ref="333279751"/>
+    <nd ref="13784092"/>
+    <nd ref="13784093"/>
+    <nd ref="13109326075"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="964595046" version="1" timestamp="2021-07-15T12:22:55Z" changeset="108051921" uid="9641463" user="branib">
+    <nd ref="8922468149"/>
+    <nd ref="8922468150"/>
+    <nd ref="8922468151"/>
+    <nd ref="1389662471"/>
+    <nd ref="8922468135"/>
+    <nd ref="8922468136"/>
+    <nd ref="8922468137"/>
+    <nd ref="8922468138"/>
+    <nd ref="8922468139"/>
+    <nd ref="8922468145"/>
+    <nd ref="8922468146"/>
+    <nd ref="8922468147"/>
+    <nd ref="8922468148"/>
+    <nd ref="881574041"/>
+    <nd ref="8922468140"/>
+    <nd ref="8922468141"/>
+    <nd ref="8922468142"/>
+    <nd ref="8922468143"/>
+    <nd ref="8922468144"/>
+    <nd ref="8922468149"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1246977913" version="1" timestamp="2024-02-06T19:59:08Z" changeset="147149573" uid="563773" user="mrpacmanmap">
+    <nd ref="249331425"/>
+    <nd ref="2407097067"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coventry Road"/>
+    <tag k="ref" v="B4428"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="bing;npe"/>
+  </way>
+  <way id="1246977914" version="1" timestamp="2024-02-06T19:59:08Z" changeset="147149573" uid="563773" user="mrpacmanmap">
+    <nd ref="599934873"/>
+    <nd ref="3375201918"/>
+    <nd ref="1389662486"/>
+    <nd ref="881574137"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Heath Lane"/>
+    <tag k="sidewalk" v="right"/>
+  </way>
+  <way id="1302779446" version="1" timestamp="2024-07-21T00:33:07Z" changeset="154200045" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="12065432991"/>
+    <nd ref="881573988"/>
+    <nd ref="881573990"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="George Birch Close"/>
+  </way>
+  <way id="1389591991" version="1" timestamp="2025-05-25T16:22:53Z" changeset="166742335" uid="3999" user="BarryMyles">
+    <nd ref="12862865334"/>
+    <nd ref="12862865333"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Percy Close"/>
+  </way>
+  <way id="1389591992" version="1" timestamp="2025-05-25T16:22:53Z" changeset="166742335" uid="3999" user="BarryMyles">
+    <nd ref="12862865336"/>
+    <nd ref="12862865334"/>
+    <nd ref="12862865335"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Percy Close"/>
+  </way>
+  <way id="1426111898" version="1" timestamp="2025-08-30T22:20:18Z" changeset="171247650" uid="13247722" user="TheCanMan">
+    <nd ref="13109326075"/>
+    <nd ref="13784112"/>
+    <nd ref="13784094"/>
+    <nd ref="13784111"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Fosse Way"/>
+    <tag k="ref" v="B4455"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1426111899" version="1" timestamp="2025-08-30T22:20:18Z" changeset="171247650" uid="13247722" user="TheCanMan">
+    <nd ref="2459654603"/>
+    <nd ref="264273002"/>
+    <nd ref="264273004"/>
+    <nd ref="13109326076"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Rugby Road"/>
+  </way>
+  <way id="1426111900" version="1" timestamp="2025-08-30T22:20:18Z" changeset="171247650" uid="13247722" user="TheCanMan">
+    <nd ref="13109326077"/>
+    <nd ref="1224118124"/>
+    <nd ref="264273005"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cathiron Lane"/>
+    <tag k="source" v="survey;gps"/>
+  </way>
+
+</osm>

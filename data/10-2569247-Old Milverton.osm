@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T16:44:42Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="250557789" lat="52.3147644" lon="-1.5370128" version="6" timestamp="2025-07-23T11:09:41Z" changeset="169337675" uid="5589" user="user_5589"/>
+  <node id="704904095" lat="52.2978942" lon="-1.5564836" version="3" timestamp="2021-11-07T01:24:23Z" changeset="113465370" uid="5589" user="user_5589">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="751822213" lat="52.2967673" lon="-1.5572486" version="7" timestamp="2021-04-23T23:27:56Z" changeset="103509408" uid="5589" user="user_5589">
+    <tag k="direction" v="both"/>
+    <tag k="traffic_calming" v="hump"/>
+  </node>
+  <node id="1348856015" lat="52.3048255" lon="-1.5376481" version="3" timestamp="2014-06-30T08:59:20Z" changeset="23321234" uid="9065" user="brianboru"/>
+  <node id="1479553346" lat="52.3171614" lon="-1.5410988" version="1" timestamp="2011-10-24T22:33:16Z" changeset="9648244" uid="12667" user="Curran1980"/>
+  <node id="1534248621" lat="52.3176107" lon="-1.5419675" version="2" timestamp="2020-12-23T16:11:16Z" changeset="96337058" uid="5589" user="user_5589"/>
+  <node id="9168565367" lat="52.3042206" lon="-1.5374752" version="6" timestamp="2024-10-03T08:48:14Z" changeset="157406894" uid="5589" user="user_5589">
+    <tag k="bicycle" v="no"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <way id="4954441" version="22" timestamp="2022-12-07T07:43:04Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="32679877"/>
+    <nd ref="9938194837"/>
+    <nd ref="2757559505"/>
+    <nd ref="32679876"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8284484" version="22" timestamp="2023-07-18T08:00:50Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="849570173"/>
+    <nd ref="849570178"/>
+    <nd ref="849570179"/>
+    <nd ref="32679891"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8487690" version="20" timestamp="2023-07-18T08:01:26Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="32679886"/>
+    <nd ref="849569180"/>
+    <nd ref="849569181"/>
+    <nd ref="9667044934"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8487691" version="20" timestamp="2023-07-18T08:01:04Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="8343422068"/>
+    <nd ref="488401014"/>
+    <nd ref="849569185"/>
+    <nd ref="849569186"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8487692" version="22" timestamp="2025-05-08T18:42:49Z" changeset="165998277" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="849570180"/>
+    <nd ref="849570181"/>
+    <nd ref="849570183"/>
+    <nd ref="32679892"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="8487693" version="21" timestamp="2022-12-07T07:42:40Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="32679891"/>
+    <nd ref="849570190"/>
+    <nd ref="849570191"/>
+    <nd ref="8255166779"/>
+    <nd ref="849569065"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="23173700" version="15" timestamp="2024-08-21T09:48:50Z" changeset="155547951" uid="5589" user="user_5589">
+    <nd ref="1479553346"/>
+    <nd ref="1479553360"/>
+    <nd ref="1534248618"/>
+    <nd ref="1479553347"/>
+    <nd ref="1534248632"/>
+    <nd ref="1479553368"/>
+    <nd ref="1534248655"/>
+    <nd ref="1479553342"/>
+    <nd ref="1534248619"/>
+    <nd ref="32679872"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25620191" version="25" timestamp="2023-07-18T08:01:37Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="279231568"/>
+    <nd ref="849570187"/>
+    <nd ref="849570188"/>
+    <nd ref="849570189"/>
+    <nd ref="474353999"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="25620192" version="34" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="279231582"/>
+    <nd ref="1269914317"/>
+    <nd ref="9461928077"/>
+    <nd ref="1269914318"/>
+    <nd ref="1269914326"/>
+    <nd ref="1269914340"/>
+    <nd ref="749604241"/>
+    <nd ref="1269914332"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Old Milverton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="39575554" version="21" timestamp="2023-07-18T08:01:41Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="849570184"/>
+    <nd ref="849570185"/>
+    <nd ref="849569079"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="39575559" version="28" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="534472512"/>
+    <nd ref="279231569"/>
+    <nd ref="9646984774"/>
+    <nd ref="279231570"/>
+    <nd ref="9646984776"/>
+    <nd ref="1269918942"/>
+    <nd ref="1269918966"/>
+    <nd ref="279231571"/>
+    <nd ref="8343405444"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="56166469" version="14" timestamp="2023-04-15T18:39:32Z" changeset="134950254" uid="5589" user="user_5589">
+    <nd ref="704904095"/>
+    <nd ref="1187293174"/>
+    <nd ref="704904099"/>
+    <nd ref="704904085"/>
+    <nd ref="704904103"/>
+    <nd ref="704904110"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Penrith Close"/>
+    <tag k="oneway" v="no"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="ref:GB:usrn" v="42301173"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="source" v="os_streetview"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="60277133" version="21" timestamp="2022-12-07T07:40:50Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="1269920141"/>
+    <nd ref="7905725506"/>
+    <nd ref="1427980320"/>
+    <nd ref="514399810"/>
+    <nd ref="7905725507"/>
+    <nd ref="1427980376"/>
+    <nd ref="514399812"/>
+    <nd ref="7905725508"/>
+    <nd ref="7905725505"/>
+    <nd ref="7905725509"/>
+    <nd ref="514399814"/>
+    <nd ref="1427982029"/>
+    <nd ref="1269920210"/>
+    <nd ref="1427982044"/>
+    <nd ref="514399816"/>
+    <nd ref="7905725504"/>
+    <nd ref="514399819"/>
+    <nd ref="514399820"/>
+    <nd ref="7905725503"/>
+    <nd ref="514399822"/>
+    <nd ref="3138715664"/>
+    <nd ref="514399825"/>
+    <nd ref="514399828"/>
+    <nd ref="7905725502"/>
+    <nd ref="514399830"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:width" v="estimated"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="60277207" version="23" timestamp="2022-08-15T16:13:29Z" changeset="124932844" uid="5589" user="user_5589">
+    <nd ref="1269920133"/>
+    <nd ref="1269920209"/>
+    <nd ref="514399830"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="source:width" v="estimated"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D2238"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="60387953" version="22" timestamp="2023-05-13T18:39:36Z" changeset="136061546" uid="5589" user="user_5589">
+    <nd ref="751822213"/>
+    <nd ref="751822209"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Old Milverton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="parking:both:staggered" v="yes"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="71398705" version="16" timestamp="2023-07-18T08:00:52Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="849570173"/>
+    <nd ref="15831011"/>
+    <nd ref="488401602"/>
+    <nd ref="849569056"/>
+    <nd ref="849569059"/>
+    <nd ref="32679888"/>
+    <nd ref="849569065"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="71398778" version="17" timestamp="2022-12-07T07:52:15Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="32679877"/>
+    <nd ref="849569200"/>
+    <nd ref="8827993049"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="71399472" version="16" timestamp="2022-12-07T07:52:22Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="849569065"/>
+    <nd ref="849569067"/>
+    <nd ref="279231568"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="71399485" version="17" timestamp="2023-07-18T08:01:23Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="32679878"/>
+    <nd ref="849570165"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="71399494" version="17" timestamp="2023-07-18T08:01:28Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="32679886"/>
+    <nd ref="1269918548"/>
+    <nd ref="849569094"/>
+    <nd ref="849570177"/>
+    <nd ref="849569097"/>
+    <nd ref="849569099"/>
+    <nd ref="849569101"/>
+    <nd ref="1269918543"/>
+    <nd ref="1269918546"/>
+    <nd ref="8255166780"/>
+    <nd ref="32679878"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="73965197" version="26" timestamp="2025-07-23T08:59:53Z" changeset="169331279" uid="5589" user="user_5589">
+    <nd ref="279231573"/>
+    <nd ref="12913137454"/>
+    <nd ref="1269918946"/>
+    <nd ref="5577833117"/>
+    <nd ref="1269918965"/>
+    <nd ref="1269918936"/>
+    <nd ref="3655183052"/>
+    <nd ref="1269918940"/>
+    <nd ref="3655300777"/>
+    <nd ref="3655300779"/>
+    <nd ref="3655183070"/>
+    <nd ref="1269918951"/>
+    <nd ref="12913137462"/>
+    <nd ref="3655183061"/>
+    <nd ref="279231574"/>
+    <nd ref="1269918962"/>
+    <nd ref="1269918941"/>
+    <nd ref="12913137480"/>
+    <nd ref="1269918945"/>
+    <nd ref="12913137453"/>
+    <nd ref="1269918956"/>
+    <nd ref="12913137473"/>
+    <nd ref="1269918954"/>
+    <nd ref="7911307514"/>
+    <nd ref="1269918947"/>
+    <nd ref="279231575"/>
+    <nd ref="279231576"/>
+    <nd ref="7911307513"/>
+    <nd ref="12913137466"/>
+    <nd ref="1269918955"/>
+    <nd ref="1269918959"/>
+    <nd ref="1269918968"/>
+    <nd ref="279231577"/>
+    <nd ref="1269918958"/>
+    <nd ref="12913137482"/>
+    <nd ref="749605897"/>
+    <nd ref="12913137461"/>
+    <nd ref="1269918949"/>
+    <nd ref="1269918944"/>
+    <nd ref="1269918964"/>
+    <nd ref="9588857036"/>
+    <nd ref="1269918957"/>
+    <nd ref="1269918939"/>
+    <nd ref="279231578"/>
+    <nd ref="13018710390"/>
+    <nd ref="1269918967"/>
+    <nd ref="1269918948"/>
+    <nd ref="13018710389"/>
+    <nd ref="1269918938"/>
+    <nd ref="12913137458"/>
+    <nd ref="749605909"/>
+    <nd ref="12913137467"/>
+    <nd ref="1269918952"/>
+    <nd ref="1269918953"/>
+    <nd ref="279231579"/>
+    <nd ref="12913137469"/>
+    <nd ref="1269918963"/>
+    <nd ref="1269918950"/>
+    <nd ref="9401100016"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="103738763" version="21" timestamp="2025-02-19T16:11:45Z" changeset="162707949" uid="22417091" user="satchUK">
+    <nd ref="1197638460"/>
+    <nd ref="8827993046"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="108140078" version="22" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="1241136978"/>
+    <nd ref="7514151432"/>
+    <nd ref="3112341757"/>
+    <nd ref="2066315057"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="108140079" version="22" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="1241136979"/>
+    <nd ref="749601151"/>
+    <nd ref="1158294735"/>
+    <nd ref="2962759456"/>
+    <nd ref="279231588"/>
+    <nd ref="10182497412"/>
+    <nd ref="8660047933"/>
+    <nd ref="1269916646"/>
+    <nd ref="8188449363"/>
+    <nd ref="10182497414"/>
+    <nd ref="279231589"/>
+    <nd ref="8660047937"/>
+    <nd ref="8660047941"/>
+    <nd ref="751822213"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Old Milverton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="111466927" version="16" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="749605914"/>
+    <nd ref="1269914322"/>
+    <nd ref="1269914342"/>
+    <nd ref="1269914338"/>
+    <nd ref="1269914316"/>
+    <nd ref="1269914324"/>
+    <nd ref="1269914328"/>
+    <nd ref="279231581"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="111466928" version="19" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="279231580"/>
+    <nd ref="7905725499"/>
+    <nd ref="7905725498"/>
+    <nd ref="749605914"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:ref" v="3"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="120258116" version="24" timestamp="2025-07-23T10:29:20Z" changeset="169335824" uid="5589" user="user_5589">
+    <nd ref="1348856015"/>
+    <nd ref="15831009"/>
+    <nd ref="9667044936"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="129408145" version="24" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="1187315559"/>
+    <nd ref="279231583"/>
+    <nd ref="2962759462"/>
+    <nd ref="9401100015"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Old Milverton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="131491406" version="14" timestamp="2023-07-18T08:01:20Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="849570165"/>
+    <nd ref="32679881"/>
+    <nd ref="849570166"/>
+    <nd ref="849570167"/>
+    <nd ref="849570168"/>
+    <nd ref="849570169"/>
+    <nd ref="849569186"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="131491407" version="14" timestamp="2023-07-18T08:01:10Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="849569186"/>
+    <nd ref="849570170"/>
+    <nd ref="849570171"/>
+    <nd ref="849570172"/>
+    <nd ref="849570173"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="140017964" version="12" timestamp="2023-07-18T08:06:31Z" changeset="138654461" uid="5589" user="user_5589">
+    <nd ref="1534248621"/>
+    <nd ref="1534248654"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="196285792" version="16" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="2066315057"/>
+    <nd ref="9546309377"/>
+    <nd ref="1928142986"/>
+    <nd ref="1928142791"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="224969837" version="3" timestamp="2022-11-14T10:25:41Z" changeset="128883185" uid="384887" user="robw">
+    <nd ref="2338093358"/>
+    <nd ref="2338093361"/>
+    <nd ref="2338093353"/>
+    <nd ref="2338093350"/>
+    <nd ref="2338093348"/>
+    <nd ref="10182403153"/>
+    <nd ref="2338093347"/>
+    <nd ref="2338093356"/>
+    <nd ref="2338093357"/>
+    <nd ref="2338093358"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St. James the Great"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q26286748"/>
+  </way>
+  <way id="306353321" version="4" timestamp="2022-06-27T07:57:58Z" changeset="122895684" uid="8775772" user="LakatosVL">
+    <nd ref="3112341781"/>
+    <nd ref="3112341774"/>
+    <nd ref="3112341773"/>
+    <nd ref="3112341791"/>
+    <nd ref="3112341790"/>
+    <nd ref="3112341776"/>
+    <nd ref="3112341768"/>
+    <nd ref="3112341756"/>
+    <nd ref="3112341820"/>
+    <nd ref="3112341787"/>
+    <nd ref="3112341766"/>
+    <nd ref="3112341813"/>
+    <nd ref="3112341805"/>
+    <nd ref="3112341817"/>
+    <nd ref="3112341758"/>
+    <nd ref="3112341816"/>
+    <nd ref="3112341808"/>
+    <nd ref="3112341759"/>
+    <nd ref="3112341786"/>
+    <nd ref="3112341826"/>
+    <nd ref="3112341780"/>
+    <nd ref="3112341783"/>
+    <nd ref="3112341765"/>
+    <nd ref="3112341794"/>
+    <nd ref="3112341825"/>
+    <nd ref="3112341796"/>
+    <nd ref="3112341781"/>
+    <tag k="building" v="hospital"/>
+    <tag k="emergency" v="no"/>
+    <tag k="name" v="Nuffield Blackdown Hospital"/>
+    <tag k="wikidata" v="Q7971238"/>
+    <tag k="wikipedia" v="en:Warwickshire Nuffield Hospital"/>
+  </way>
+  <way id="306353326" version="2" timestamp="2019-04-25T12:00:06Z" changeset="69561812" uid="9065" user="brianboru">
+    <nd ref="3112341824"/>
+    <nd ref="3112341763"/>
+    <nd ref="6427981342"/>
+    <nd ref="3112341792"/>
+    <nd ref="3112341804"/>
+    <nd ref="6427981341"/>
+    <nd ref="6427981340"/>
+    <nd ref="6427981339"/>
+    <nd ref="6427981338"/>
+    <nd ref="6427981343"/>
+    <nd ref="3112341824"/>
+    <tag k="amenity" v="nursing_home"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Priors House"/>
+  </way>
+  <way id="308608295" version="1" timestamp="2014-10-19T16:32:27Z" changeset="26195981" uid="346039" user="fitzsimons">
+    <nd ref="3138715427"/>
+    <nd ref="3138715643"/>
+    <nd ref="3138715668"/>
+    <nd ref="3138715397"/>
+    <nd ref="3138715399"/>
+    <nd ref="3138715673"/>
+    <nd ref="3138715661"/>
+    <nd ref="3138715379"/>
+    <nd ref="3138715698"/>
+    <nd ref="3138715427"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="The Old Vicarage"/>
+  </way>
+  <way id="308608296" version="3" timestamp="2018-10-02T08:33:03Z" changeset="63116938" uid="364" user="Edward">
+    <nd ref="3138715400"/>
+    <nd ref="3138715371"/>
+    <nd ref="3138715666"/>
+    <nd ref="3138715407"/>
+    <nd ref="3138715419"/>
+    <nd ref="3138715650"/>
+    <nd ref="3138715696"/>
+    <nd ref="3138715644"/>
+    <nd ref="3138715400"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Holly Cottage"/>
+    <tag k="source" v="bing;survey"/>
+  </way>
+  <way id="308608299" version="2" timestamp="2021-04-08T12:31:43Z" changeset="102564812" uid="384887" user="robw">
+    <nd ref="3138715391"/>
+    <nd ref="3138715381"/>
+    <nd ref="3138715670"/>
+    <nd ref="3138715380"/>
+    <nd ref="3138715656"/>
+    <nd ref="3138715654"/>
+    <nd ref="3138715649"/>
+    <nd ref="3138715420"/>
+    <nd ref="3138715391"/>
+    <tag k="HE_ref" v="1299038"/>
+    <tag k="building" v="yes"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="name" v="Park House Farmhouse"/>
+  </way>
+  <way id="308608300" version="1" timestamp="2014-10-19T16:32:27Z" changeset="26195981" uid="346039" user="fitzsimons">
+    <nd ref="3138715404"/>
+    <nd ref="3138715375"/>
+    <nd ref="3138715658"/>
+    <nd ref="3138715402"/>
+    <nd ref="3138715406"/>
+    <nd ref="3138715366"/>
+    <nd ref="3138715404"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Old Milverton Cottage"/>
+    <tag k="source" v="bing; survey"/>
+  </way>
+  <way id="308608304" version="2" timestamp="2025-02-15T01:05:06Z" changeset="162523122" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="3138715651"/>
+    <nd ref="3138715386"/>
+    <nd ref="3138715689"/>
+    <nd ref="3138715671"/>
+    <nd ref="3138715651"/>
+    <tag k="addr:street" v="Church Road"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Old Milverton Village Hall"/>
+  </way>
+  <way id="308608305" version="1" timestamp="2014-10-19T16:32:28Z" changeset="26195981" uid="346039" user="fitzsimons">
+    <nd ref="3138715413"/>
+    <nd ref="3138715390"/>
+    <nd ref="3138715637"/>
+    <nd ref="3138715686"/>
+    <nd ref="3138715669"/>
+    <nd ref="3138715691"/>
+    <nd ref="3138715382"/>
+    <nd ref="3138715376"/>
+    <nd ref="3138715632"/>
+    <nd ref="3138715413"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Church Farm House"/>
+    <tag k="source" v="bing; survey"/>
+  </way>
+  <way id="308608307" version="1" timestamp="2014-10-19T16:32:28Z" changeset="26195981" uid="346039" user="fitzsimons">
+    <nd ref="3138715684"/>
+    <nd ref="3138715388"/>
+    <nd ref="3138715667"/>
+    <nd ref="3138715370"/>
+    <nd ref="3138715368"/>
+    <nd ref="3138715687"/>
+    <nd ref="3138715655"/>
+    <nd ref="3138715672"/>
+    <nd ref="3138715684"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="The Stables"/>
+    <tag k="source" v="bing; survey"/>
+  </way>
+  <way id="308608308" version="2" timestamp="2021-04-27T16:07:45Z" changeset="103718463" uid="384887" user="robw">
+    <nd ref="3138715403"/>
+    <nd ref="3138715423"/>
+    <nd ref="3138715638"/>
+    <nd ref="3138715642"/>
+    <nd ref="3138715693"/>
+    <nd ref="3138715373"/>
+    <nd ref="3138715403"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Millfield House"/>
+    <tag k="old_name" v="Llandrecies"/>
+    <tag k="source" v="bing;survey"/>
+  </way>
+  <way id="308608310" version="1" timestamp="2014-10-19T16:32:28Z" changeset="26195981" uid="346039" user="fitzsimons">
+    <nd ref="3138715681"/>
+    <nd ref="3138715704"/>
+    <nd ref="3138715636"/>
+    <nd ref="3138715639"/>
+    <nd ref="3138715699"/>
+    <nd ref="3138715683"/>
+    <nd ref="3138715681"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Church Side Barn"/>
+  </way>
+  <way id="308608311" version="2" timestamp="2014-10-22T20:36:36Z" changeset="26265101" uid="38588" user="mentor">
+    <nd ref="3138715411"/>
+    <nd ref="3138715680"/>
+    <nd ref="3138715369"/>
+    <nd ref="3138715401"/>
+    <nd ref="3138715396"/>
+    <nd ref="3138715690"/>
+    <nd ref="3138715411"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Avon Cottage No 1"/>
+    <tag k="source" v="bing; Survey"/>
+  </way>
+  <way id="679283697" version="4" timestamp="2022-07-30T11:02:55Z" changeset="124263628" uid="10551174" user="Calebbo">
+    <nd ref="6360819849"/>
+    <nd ref="6360819848"/>
+    <nd ref="6360819847"/>
+    <nd ref="6360819846"/>
+    <nd ref="6360819849"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:street" v="Guy's Cliffe Avenue"/>
+    <tag k="building" v="residential"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="679312223" version="2" timestamp="2020-10-07T16:09:35Z" changeset="92122684" uid="5589" user="user_5589">
+    <nd ref="6361122487"/>
+    <nd ref="6361122486"/>
+    <nd ref="6361122485"/>
+    <nd ref="6361122084"/>
+    <nd ref="6361122487"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Old Milverton Road"/>
+    <tag k="building" v="garage"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="679312228" version="2" timestamp="2020-10-07T16:35:56Z" changeset="92123821" uid="5589" user="user_5589">
+    <nd ref="6361122513"/>
+    <nd ref="6361122512"/>
+    <nd ref="6361122511"/>
+    <nd ref="6361122510"/>
+    <nd ref="6361122513"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Old Milverton Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="894656560" version="11" timestamp="2022-12-15T22:34:44Z" changeset="130133293" uid="5589" user="user_5589">
+    <nd ref="8343445892"/>
+    <nd ref="6817591973"/>
+    <nd ref="9795510397"/>
+    <nd ref="560059132"/>
+    <nd ref="2056645254"/>
+    <nd ref="2056645255"/>
+    <nd ref="560059133"/>
+    <nd ref="2056645257"/>
+    <nd ref="9647011645"/>
+    <nd ref="2056645256"/>
+    <nd ref="2056645250"/>
+    <nd ref="15831012"/>
+    <nd ref="9647011642"/>
+    <nd ref="6759168611"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="897732044" version="9" timestamp="2023-07-18T08:00:54Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="474353999"/>
+    <nd ref="849570184"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="897732428" version="6" timestamp="2023-07-18T08:01:06Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="32679892"/>
+    <nd ref="8343422068"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="897732624" version="8" timestamp="2023-07-18T08:01:13Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="8827993049"/>
+    <nd ref="849569201"/>
+    <nd ref="8343408619"/>
+    <nd ref="849569202"/>
+    <nd ref="32679878"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="897735224" version="7" timestamp="2023-07-18T08:01:35Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="474353999"/>
+    <nd ref="1502766447"/>
+    <nd ref="1502766462"/>
+    <nd ref="1502767071"/>
+    <nd ref="534472512"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="897735225" version="9" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="8343405444"/>
+    <nd ref="1928142907"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="897735226" version="8" timestamp="2025-05-08T18:43:11Z" changeset="165998277" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="1928142907"/>
+    <nd ref="1241136978"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="897736068" version="7" timestamp="2023-07-18T08:01:16Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="849570165"/>
+    <nd ref="10266361820"/>
+    <nd ref="849570180"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="897736388" version="6" timestamp="2022-12-15T22:34:44Z" changeset="130133293" uid="5589" user="user_5589">
+    <nd ref="250557789"/>
+    <nd ref="1836915226"/>
+    <nd ref="8343445892"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="897766123" version="7" timestamp="2024-11-01T22:12:38Z" changeset="158638971" uid="21081459" user="Flynn_">
+    <nd ref="279231581"/>
+    <nd ref="1269914314"/>
+    <nd ref="1269914334"/>
+    <nd ref="1269914333"/>
+    <nd ref="1269914330"/>
+    <nd ref="279231582"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Old Milverton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="897766404" version="6" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="1269914332"/>
+    <nd ref="1187315559"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Old Milverton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="897766477" version="6" timestamp="2024-11-01T22:12:38Z" changeset="158638971" uid="21081459" user="Flynn_">
+    <nd ref="279231581"/>
+    <nd ref="7905725501"/>
+    <nd ref="8343726366"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D2238"/>
+  </way>
+  <way id="917698300" version="6" timestamp="2023-07-18T08:01:32Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="849569079"/>
+    <nd ref="488401545"/>
+    <nd ref="849569086"/>
+    <nd ref="32679886"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="917698301" version="6" timestamp="2023-07-18T08:01:30Z" changeset="138654187" uid="5589" user="user_5589">
+    <nd ref="279231568"/>
+    <nd ref="849569071"/>
+    <nd ref="849569072"/>
+    <nd ref="849569074"/>
+    <nd ref="849569076"/>
+    <nd ref="849569077"/>
+    <nd ref="260313891"/>
+    <nd ref="849569079"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="917698302" version="5" timestamp="2022-12-15T22:34:44Z" changeset="130133293" uid="5589" user="user_5589">
+    <nd ref="6759168611"/>
+    <nd ref="2056645252"/>
+    <nd ref="560059135"/>
+    <nd ref="2056645258"/>
+    <nd ref="2056645251"/>
+    <nd ref="32679892"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Stoneleigh Road"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="B4113"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="953803550" version="7" timestamp="2022-12-07T07:42:08Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="7941309714"/>
+    <nd ref="8464108426"/>
+    <nd ref="8464108425"/>
+    <nd ref="8464108424"/>
+    <nd ref="1348856015"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="953803555" version="9" timestamp="2025-02-19T16:11:45Z" changeset="162707949" uid="22417091" user="satchUK">
+    <nd ref="8827993046"/>
+    <nd ref="7941309714"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="961886841" version="5" timestamp="2023-07-18T08:06:07Z" changeset="138654461" uid="5589" user="user_5589">
+    <nd ref="32679872"/>
+    <nd ref="2056655936"/>
+    <nd ref="1479553366"/>
+    <nd ref="1534248621"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1019278027" version="7" timestamp="2023-02-09T20:56:08Z" changeset="132327552" uid="5589" user="user_5589">
+    <nd ref="9401100016"/>
+    <nd ref="1269918960"/>
+    <nd ref="9461928076"/>
+    <nd ref="1269918961"/>
+    <nd ref="7905725500"/>
+    <nd ref="9912849721"/>
+    <nd ref="279231580"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="1019278028" version="10" timestamp="2025-06-13T18:27:23Z" changeset="167587326" uid="5589" user="user_5589">
+    <nd ref="9401100015"/>
+    <nd ref="279231584"/>
+    <nd ref="1269916635"/>
+    <nd ref="1269916639"/>
+    <nd ref="2962759463"/>
+    <nd ref="749604256"/>
+    <nd ref="1269916634"/>
+    <nd ref="1269916637"/>
+    <nd ref="749604263"/>
+    <nd ref="1269916633"/>
+    <nd ref="1269916636"/>
+    <nd ref="279231585"/>
+    <nd ref="7905725497"/>
+    <nd ref="9595579070"/>
+    <nd ref="279231586"/>
+    <nd ref="1269916640"/>
+    <nd ref="1269916647"/>
+    <nd ref="1269916648"/>
+    <nd ref="749604271"/>
+    <nd ref="1269916642"/>
+    <nd ref="749601135"/>
+    <nd ref="7905725496"/>
+    <nd ref="1269916649"/>
+    <nd ref="279231587"/>
+    <nd ref="1427904629"/>
+    <nd ref="12913112599"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Old Milverton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="1020851070" version="6" timestamp="2022-01-31T02:37:16Z" changeset="116802271" uid="5589" user="user_5589">
+    <nd ref="514399830"/>
+    <nd ref="1269920211"/>
+    <nd ref="1269920208"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:width" v="estimated"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="1020851071" version="3" timestamp="2022-12-07T07:40:53Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="1269920141"/>
+    <nd ref="1269920139"/>
+    <nd ref="1269920135"/>
+    <nd ref="1269920137"/>
+    <nd ref="1269920134"/>
+    <nd ref="1269920140"/>
+    <nd ref="514399808"/>
+    <nd ref="1269920138"/>
+    <nd ref="1269920131"/>
+    <nd ref="1269920136"/>
+    <nd ref="1187266263"/>
+    <nd ref="1269920141"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:width" v="estimated"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="1020852815" version="8" timestamp="2022-08-15T16:13:32Z" changeset="124932844" uid="5589" user="user_5589">
+    <nd ref="1269920208"/>
+    <nd ref="1269920132"/>
+    <nd ref="279231582"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1020852816" version="3" timestamp="2022-08-15T16:13:36Z" changeset="124932844" uid="5589" user="user_5589">
+    <nd ref="8343726366"/>
+    <nd ref="749612128"/>
+    <nd ref="1269920133"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Church Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="D2238"/>
+  </way>
+  <way id="1038348556" version="6" timestamp="2025-02-19T16:11:45Z" changeset="162707949" uid="22417091" user="satchUK">
+    <nd ref="9168565367"/>
+    <nd ref="1197638460"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="ref:GB:usrn" v="42300831"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1051949504" version="4" timestamp="2022-12-07T07:42:34Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="9667044936"/>
+    <nd ref="8192317597"/>
+    <nd ref="15831010"/>
+    <nd ref="9667044933"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1051949505" version="4" timestamp="2022-12-07T07:42:34Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="9667044933"/>
+    <nd ref="8647048391"/>
+    <nd ref="1479553349"/>
+    <nd ref="6565466743"/>
+    <nd ref="8647048392"/>
+    <nd ref="8647048393"/>
+    <nd ref="1479553362"/>
+    <nd ref="9667044935"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1051949506" version="4" timestamp="2022-12-07T07:42:34Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="9667044935"/>
+    <nd ref="8647048395"/>
+    <nd ref="1479553357"/>
+    <nd ref="8192317592"/>
+    <nd ref="7911307518"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1051949507" version="4" timestamp="2025-05-08T18:43:11Z" changeset="165998277" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="9667044934"/>
+    <nd ref="849569183"/>
+    <nd ref="32679877"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1067618505" version="8" timestamp="2023-08-24T09:13:30Z" changeset="140311731" uid="5589" user="user_5589">
+    <nd ref="32679876"/>
+    <nd ref="32679875"/>
+    <nd ref="9938194841"/>
+    <nd ref="32679874"/>
+    <nd ref="7448299399"/>
+    <nd ref="1479553370"/>
+    <nd ref="32679873"/>
+    <nd ref="2056655951"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1067621756" version="4" timestamp="2025-06-13T19:27:27Z" changeset="167589287" uid="5589" user="user_5589">
+    <nd ref="1928142791"/>
+    <nd ref="1928142835"/>
+    <nd ref="279231572"/>
+    <nd ref="7911307515"/>
+    <nd ref="1269918937"/>
+    <nd ref="12913137468"/>
+    <nd ref="1269918943"/>
+    <nd ref="12913137475"/>
+    <nd ref="12913137477"/>
+    <nd ref="12913137479"/>
+    <nd ref="279231573"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Old Milverton Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+  <way id="1117564332" version="2" timestamp="2022-12-07T07:42:34Z" changeset="129808979" uid="5589" user="user_5589">
+    <nd ref="7911307518"/>
+    <nd ref="32679891"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1201629346" version="1" timestamp="2023-08-24T09:13:15Z" changeset="140311720" uid="5589" user="user_5589">
+    <nd ref="2056655951"/>
+    <nd ref="2056655912"/>
+    <nd ref="9938194840"/>
+    <nd ref="32679872"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kenilworth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="ref" v="A452"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1395048344" version="1" timestamp="2025-06-13T18:27:23Z" changeset="167587326" uid="5589" user="user_5589">
+    <nd ref="12913112599"/>
+    <nd ref="2962759465"/>
+    <nd ref="9461928078"/>
+    <nd ref="10699328709"/>
+    <nd ref="1187266166"/>
+    <nd ref="1241136979"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Old Milverton Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="Warwickshire County Council"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="sidewalk:left:surface" v="asphalt"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="C42"/>
+  </way>
+
+</osm>

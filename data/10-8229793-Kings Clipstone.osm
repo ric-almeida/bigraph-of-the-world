@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:25:30Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="261570412" lat="53.1778547" lon="-1.0922683" version="7" timestamp="2012-09-09T02:28:33Z" changeset="13039972" uid="12671" user="sladen"/>
+  <node id="261570583" lat="53.1702305" lon="-1.1072375" version="8" timestamp="2014-05-08T11:54:34Z" changeset="22207060" uid="2011702" user="krd_mapper"/>
+  <node id="300730414" lat="53.1899592" lon="-1.1277838" version="11" timestamp="2024-05-13T19:49:56Z" changeset="151283524" uid="3970216" user="Railwayfan2005">
+    <tag k="direction" v="clockwise"/>
+    <tag k="highway" v="mini_roundabout"/>
+  </node>
+  <node id="324376288" lat="53.1761459" lon="-1.0875596" version="5" timestamp="2013-03-22T12:24:09Z" changeset="15453767" uid="24119" user="Mauls"/>
+  <node id="550073615" lat="53.1700386" lon="-1.1077383" version="3" timestamp="2014-05-08T11:54:35Z" changeset="22207060" uid="2011702" user="krd_mapper"/>
+  <node id="2843897075" lat="53.1700714" lon="-1.1082671" version="1" timestamp="2014-05-08T11:54:33Z" changeset="22207060" uid="2011702" user="krd_mapper"/>
+  <node id="2843898330" lat="53.1695950" lon="-1.1205181" version="1" timestamp="2014-05-08T11:54:34Z" changeset="22207060" uid="2011702" user="krd_mapper"/>
+  <node id="2843910474" lat="53.1671835" lon="-1.1084951" version="2" timestamp="2016-01-09T19:54:18Z" changeset="36469900" uid="161875" user="Willumm"/>
+  <node id="4679142202" lat="53.1894926" lon="-1.1295689" version="2" timestamp="2024-05-13T19:49:56Z" changeset="151283524" uid="3970216" user="Railwayfan2005"/>
+  <node id="4679142203" lat="53.1902770" lon="-1.1258832" version="1" timestamp="2017-02-10T21:13:49Z" changeset="45983598" uid="5296090" user="TR42"/>
+  <way id="27995822" version="18" timestamp="2017-02-10T21:13:50Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="33994900"/>
+    <nd ref="2764128646"/>
+    <nd ref="2764128611"/>
+    <nd ref="1265731927"/>
+    <nd ref="4679142204"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxweight" v="18"/>
+    <tag k="maxweight:conditional" v="none @ destination"/>
+    <tag k="name" v="Gorsethorpe Lane"/>
+    <tag k="source:name" v="Sign at south end"/>
+  </way>
+  <way id="43397665" version="28" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="300730414"/>
+    <nd ref="2985318000"/>
+    <nd ref="33994900"/>
+    <nd ref="2764128582"/>
+    <nd ref="2764128617"/>
+    <nd ref="33994898"/>
+    <nd ref="4679142203"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Mansfield Road"/>
+    <tag k="ref" v="A6075"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at E"/>
+  </way>
+  <way id="43563486" version="12" timestamp="2023-07-28T01:45:25Z" changeset="139112535" uid="466858" user="beebware">
+    <nd ref="261570583"/>
+    <nd ref="261570579"/>
+    <nd ref="2846147008"/>
+    <nd ref="261570576"/>
+    <nd ref="2846147025"/>
+    <nd ref="261570571"/>
+    <nd ref="3730978967"/>
+    <nd ref="261570568"/>
+    <nd ref="8407181353"/>
+    <nd ref="2846147020"/>
+    <nd ref="2214600386"/>
+    <nd ref="261570564"/>
+    <nd ref="2846147010"/>
+    <nd ref="261570449"/>
+    <nd ref="2846147016"/>
+    <nd ref="261570448"/>
+    <nd ref="2846147031"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Mansfield Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="43563488" version="6" timestamp="2023-07-28T01:45:06Z" changeset="139112535" uid="466858" user="beebware">
+    <nd ref="261570583"/>
+    <nd ref="722149979"/>
+    <nd ref="722149980"/>
+    <nd ref="550073588"/>
+    <nd ref="722149981"/>
+    <nd ref="722149982"/>
+    <nd ref="722149983"/>
+    <nd ref="261570587"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="43565170" version="13" timestamp="2023-07-28T01:44:39Z" changeset="139112651" uid="466858" user="beebware">
+    <nd ref="2843898330"/>
+    <nd ref="557323834"/>
+    <nd ref="2520840354"/>
+    <nd ref="557323848"/>
+    <nd ref="10262496299"/>
+    <nd ref="557323262"/>
+    <nd ref="10262496298"/>
+    <nd ref="557323862"/>
+    <nd ref="2843897087"/>
+    <nd ref="557323873"/>
+    <nd ref="2843897036"/>
+    <nd ref="550116369"/>
+    <nd ref="2843897095"/>
+    <nd ref="2843897016"/>
+    <nd ref="722149995"/>
+    <nd ref="2843897091"/>
+    <nd ref="550116387"/>
+    <nd ref="2843897045"/>
+    <nd ref="2843898326"/>
+    <nd ref="722149996"/>
+    <nd ref="2843897079"/>
+    <nd ref="550110282"/>
+    <nd ref="3480956487"/>
+    <nd ref="722149997"/>
+    <nd ref="2843897035"/>
+    <nd ref="2843897029"/>
+    <nd ref="2843897075"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Cavendish Way"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="43895348" version="9" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="261570416"/>
+    <nd ref="9244474086"/>
+    <nd ref="2352410424"/>
+    <nd ref="3732262825"/>
+    <nd ref="9033621848"/>
+    <nd ref="3228897896"/>
+    <nd ref="3228897882"/>
+    <nd ref="479164759"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="designation" v="public_bridleway"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="residential"/>
+    <tag k="horse" v="designated"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Archway Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="gravel"/>
+  </way>
+  <way id="43895360" version="7" timestamp="2017-02-10T21:16:23Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="455060127"/>
+    <nd ref="2846172131"/>
+    <nd ref="2846172171"/>
+    <nd ref="455060125"/>
+    <nd ref="2846147018"/>
+    <nd ref="2846147022"/>
+    <nd ref="2846147017"/>
+    <nd ref="261570430"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxweight" v="18"/>
+    <tag k="maxweight:conditional" v="none @ destination"/>
+    <tag k="name" v="Gorsethorpe Lane"/>
+    <tag k="source:name" v="Sign at east end"/>
+  </way>
+  <way id="58223267" version="4" timestamp="2017-02-10T21:16:23Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="722149999"/>
+    <nd ref="722150000"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxweight" v="18"/>
+    <tag k="maxweight:conditional" v="none @ destination"/>
+    <tag k="name" v="Gorsethorpe Lane"/>
+    <tag k="source:name" v="Sign at south end"/>
+  </way>
+  <way id="58223270" version="11" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="722150000"/>
+    <nd ref="1886728945"/>
+    <nd ref="1886728933"/>
+    <nd ref="455060128"/>
+    <nd ref="2846185600"/>
+    <nd ref="3730041462"/>
+    <nd ref="455060129"/>
+    <nd ref="2846186210"/>
+    <nd ref="455060130"/>
+    <nd ref="2846186212"/>
+    <nd ref="307420302"/>
+    <nd ref="2846185593"/>
+    <nd ref="455060123"/>
+    <nd ref="3730042146"/>
+    <nd ref="2846185594"/>
+    <nd ref="455060131"/>
+    <nd ref="455060124"/>
+    <nd ref="307420304"/>
+    <nd ref="2846172167"/>
+    <nd ref="2846172127"/>
+    <nd ref="455060126"/>
+    <nd ref="2846172151"/>
+    <nd ref="2846172149"/>
+    <nd ref="2846172116"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweight" v="18"/>
+    <tag k="maxweight:conditional" v="none @ destination"/>
+    <tag k="name" v="Gorsethorpe Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at south end"/>
+  </way>
+  <way id="62229334" version="5" timestamp="2020-10-07T06:14:53Z" changeset="92085174" uid="11734033" user="saiguru">
+    <nd ref="558054850"/>
+    <nd ref="2846172147"/>
+    <nd ref="2846172105"/>
+    <nd ref="776760086"/>
+    <nd ref="2846172106"/>
+    <nd ref="2846172128"/>
+    <nd ref="2846172159"/>
+    <nd ref="7983726585"/>
+    <nd ref="2846172141"/>
+    <nd ref="2846172165"/>
+    <nd ref="2846172137"/>
+    <nd ref="2846172162"/>
+    <nd ref="2846172134"/>
+    <nd ref="2846172119"/>
+    <nd ref="2846172129"/>
+    <nd ref="2846172169"/>
+    <nd ref="2846172152"/>
+    <nd ref="776760089"/>
+    <nd ref="2846172133"/>
+    <nd ref="2846172103"/>
+    <nd ref="2846172140"/>
+    <nd ref="2846172139"/>
+    <nd ref="2846172110"/>
+    <nd ref="2846172120"/>
+    <nd ref="776760094"/>
+    <nd ref="776760097"/>
+    <nd ref="2846172108"/>
+    <nd ref="2846172163"/>
+    <nd ref="2846172161"/>
+    <nd ref="2846172132"/>
+    <nd ref="2846172109"/>
+    <nd ref="776760100"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Squire's Croft"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:name" v="Sign at north"/>
+  </way>
+  <way id="82117154" version="15" timestamp="2024-01-06T15:05:55Z" changeset="145960681" uid="2011702" user="krd_mapper">
+    <nd ref="261570412"/>
+    <nd ref="1906223207"/>
+    <nd ref="27320662"/>
+    <nd ref="1269230576"/>
+    <nd ref="324376288"/>
+    <nd ref="253901286"/>
+    <nd ref="3489014363"/>
+    <nd ref="5240126140"/>
+    <nd ref="321825221"/>
+    <nd ref="253901287"/>
+    <nd ref="253901289"/>
+    <nd ref="253901290"/>
+    <nd ref="33960200"/>
+    <nd ref="27320657"/>
+    <nd ref="2214559680"/>
+    <nd ref="1269236678"/>
+    <nd ref="27320655"/>
+    <nd ref="2011493053"/>
+    <nd ref="253901288"/>
+    <nd ref="7257005376"/>
+    <nd ref="2011493054"/>
+    <nd ref="6904644881"/>
+    <nd ref="27320653"/>
+    <nd ref="6782555895"/>
+    <nd ref="3936393490"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Clipstone Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+  </way>
+  <way id="146688104" version="10" timestamp="2021-06-14T11:23:51Z" changeset="106332514" uid="11558607" user="pachilam">
+    <nd ref="300730414"/>
+    <nd ref="1599473654"/>
+    <nd ref="2764128613"/>
+    <nd ref="1599473647"/>
+    <nd ref="1599473668"/>
+    <nd ref="6503162372"/>
+    <nd ref="300730415"/>
+    <nd ref="8387378874"/>
+    <nd ref="1599473651"/>
+    <nd ref="300730416"/>
+    <nd ref="1264998907"/>
+    <nd ref="300730417"/>
+    <nd ref="8831769382"/>
+    <nd ref="1599473652"/>
+    <nd ref="300730418"/>
+    <nd ref="2764128597"/>
+    <nd ref="1599473656"/>
+    <nd ref="300730419"/>
+    <nd ref="2764128609"/>
+    <nd ref="300730421"/>
+    <nd ref="300730422"/>
+    <nd ref="2764128650"/>
+    <nd ref="2764128593"/>
+    <nd ref="300730423"/>
+    <nd ref="1599473625"/>
+    <nd ref="2764128615"/>
+    <nd ref="1264998945"/>
+    <nd ref="3225614336"/>
+    <nd ref="4694259233"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Forest Road"/>
+    <tag k="ref" v="B6035"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="GPS;Bing"/>
+    <tag k="source:name" v="OS_OpenData_StreetView"/>
+    <tag k="source:ref" v="OS_OpenData_StreetView"/>
+  </way>
+  <way id="146738483" version="6" timestamp="2025-09-22T09:56:02Z" changeset="172285154" uid="22805046" user="mapman555">
+    <nd ref="324376288"/>
+    <nd ref="3426487828"/>
+    <nd ref="324376354"/>
+    <nd ref="324376355"/>
+    <nd ref="1599949339"/>
+    <nd ref="1599949342"/>
+    <nd ref="324376356"/>
+    <nd ref="1599949344"/>
+    <nd ref="506834511"/>
+    <nd ref="324376357"/>
+    <nd ref="3225742281"/>
+    <nd ref="3225742180"/>
+    <nd ref="3225742181"/>
+    <nd ref="324376358"/>
+    <nd ref="3225742183"/>
+    <nd ref="3225742218"/>
+    <nd ref="1262051652"/>
+    <nd ref="324376360"/>
+    <nd ref="395016771"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="4.9"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="226407977" version="1" timestamp="2013-06-19T15:49:48Z" changeset="16618471" uid="1383105" user="Gavrielo">
+    <nd ref="2352410432"/>
+    <nd ref="2352410424"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Archway Grove"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="226587268" version="5" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="2353627226"/>
+    <nd ref="2846186215"/>
+    <nd ref="2846185597"/>
+    <nd ref="2846185599"/>
+    <nd ref="2846186202"/>
+    <nd ref="2846186206"/>
+    <nd ref="2353627229"/>
+    <nd ref="2353627228"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Holbrook Crescent"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at south"/>
+  </way>
+  <way id="226587269" version="5" timestamp="2022-03-09T22:12:26Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="2846172117"/>
+    <nd ref="2846172115"/>
+    <nd ref="2846172142"/>
+    <nd ref="2846172145"/>
+    <nd ref="2353627227"/>
+    <nd ref="2214600564"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Old Barn Court"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at north"/>
+  </way>
+  <way id="263738787" version="2" timestamp="2018-12-20T07:10:24Z" changeset="65631939" uid="364" user="Edward">
+    <nd ref="2693868647"/>
+    <nd ref="2693868675"/>
+    <nd ref="2693868672"/>
+    <nd ref="2693868634"/>
+    <nd ref="2693868647"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Archway House"/>
+    <tag k="wikidata" v="Q26297561"/>
+  </way>
+  <way id="280508502" version="1" timestamp="2014-05-09T15:41:44Z" changeset="22233214" uid="2011702" user="krd_mapper">
+    <nd ref="2846172132"/>
+    <nd ref="2846172148"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="280508503" version="1" timestamp="2014-05-09T15:41:44Z" changeset="22233214" uid="2011702" user="krd_mapper">
+    <nd ref="2846172133"/>
+    <nd ref="2846172157"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="295933027" version="3" timestamp="2014-08-04T23:02:59Z" changeset="24545115" uid="61942" user="SomeoneElse">
+    <nd ref="2846172160"/>
+    <nd ref="2846172114"/>
+    <nd ref="2846172164"/>
+    <nd ref="2846172168"/>
+    <nd ref="558054836"/>
+    <nd ref="2996920019"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Squires Lane"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at east"/>
+  </way>
+  <way id="295933031" version="3" timestamp="2016-01-09T19:54:23Z" changeset="36469900" uid="161875" user="Willumm">
+    <nd ref="2846147031"/>
+    <nd ref="261570446"/>
+    <nd ref="261570445"/>
+    <nd ref="2846147027"/>
+    <nd ref="261570443"/>
+    <nd ref="2846147001"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="source:name" v="survey;OS_OpenData_Locator"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+  </way>
+  <way id="295933032" version="6" timestamp="2024-01-06T15:05:55Z" changeset="145960681" uid="2011702" user="krd_mapper">
+    <nd ref="11494589402"/>
+    <nd ref="261570415"/>
+    <nd ref="5282136637"/>
+    <nd ref="1906222685"/>
+    <nd ref="261570413"/>
+    <nd ref="1906222780"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="4.1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Clipstone Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+  </way>
+  <way id="295933148" version="2" timestamp="2017-02-10T21:16:25Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="2996920018"/>
+    <nd ref="2846172135"/>
+    <nd ref="455060127"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Squires Lane"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at east"/>
+  </way>
+  <way id="295933149" version="2" timestamp="2017-02-10T21:16:25Z" changeset="45983598" uid="5296090" user="TR42">
+    <nd ref="2996920019"/>
+    <nd ref="2353627228"/>
+    <nd ref="2846172146"/>
+    <nd ref="558054850"/>
+    <nd ref="2996920018"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Squires Lane"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at east"/>
+  </way>
+  <way id="316732859" version="2" timestamp="2017-11-20T21:44:19Z" changeset="53961578" uid="6996736" user="BrainDigitalis">
+    <nd ref="3228894535"/>
+    <nd ref="3228894547"/>
+    <nd ref="3228894560"/>
+    <nd ref="3228894532"/>
+    <nd ref="3228894535"/>
+    <tag k="building" v="industrial"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Clipstone Junction Signal Box"/>
+  </way>
+  <way id="347355651" version="5" timestamp="2025-09-21T14:02:46Z" changeset="172247761" uid="22805046" user="mapman555">
+    <nd ref="3536930269"/>
+    <nd ref="3536930270"/>
+    <nd ref="3536930271"/>
+    <nd ref="3536930272"/>
+    <nd ref="3536930269"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Forest Holidays Sherwood Forest Visitor Centre"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="phone" v="+44 3330 110 495"/>
+    <tag k="roof:shape" v="skillion"/>
+    <tag k="website" v="http://www.forestholidays.co.uk/locations/heart-of-england-holidays/sherwood-holidays"/>
+  </way>
+  <way id="369194475" version="3" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="2846172116"/>
+    <nd ref="2846172112"/>
+    <nd ref="455060127"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweight" v="18"/>
+    <tag k="maxweight:conditional" v="none @ destination"/>
+    <tag k="name" v="Gorsethorpe Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at south end"/>
+  </way>
+  <way id="369194478" version="2" timestamp="2016-01-09T19:54:23Z" changeset="36469900" uid="161875" user="Willumm">
+    <nd ref="261570430"/>
+    <nd ref="2846147019"/>
+    <nd ref="2846147013"/>
+    <nd ref="261570428"/>
+    <nd ref="2846147028"/>
+    <nd ref="261570427"/>
+    <nd ref="2846147026"/>
+    <nd ref="261570425"/>
+    <nd ref="2846147005"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:name" v="survey;OS_OpenData_Locator"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+  </way>
+  <way id="369194479" version="3" timestamp="2021-02-10T03:36:32Z" changeset="99008887" uid="10252551" user="amanura">
+    <nd ref="2846147005"/>
+    <nd ref="261570424"/>
+    <nd ref="261570422"/>
+    <nd ref="2846147024"/>
+    <nd ref="261570421"/>
+    <nd ref="2846147029"/>
+    <nd ref="8410489361"/>
+    <nd ref="2846145497"/>
+    <nd ref="2846147030"/>
+    <nd ref="8410489351"/>
+    <nd ref="261570419"/>
+    <nd ref="261570418"/>
+    <nd ref="261570416"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:name" v="survey;OS_OpenData_Locator"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+  </way>
+  <way id="369294938" version="4" timestamp="2021-11-11T21:33:52Z" changeset="113670113" uid="5443821" user="◪ Jarv">
+    <nd ref="3730956718"/>
+    <nd ref="3730956715"/>
+    <nd ref="3730956717"/>
+    <nd ref="3730956713"/>
+    <nd ref="3730956708"/>
+    <nd ref="3730956709"/>
+    <nd ref="3730956714"/>
+    <nd ref="3730956716"/>
+    <nd ref="3730956711"/>
+    <nd ref="3730956705"/>
+    <nd ref="3730956702"/>
+    <nd ref="3730956703"/>
+    <nd ref="3730956704"/>
+    <nd ref="3730956718"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Dog &amp; Duck"/>
+  </way>
+  <way id="388549984" version="4" timestamp="2025-09-21T14:02:49Z" changeset="172247761" uid="22805046" user="mapman555">
+    <nd ref="3917391392"/>
+    <nd ref="3917391393"/>
+    <nd ref="3917391394"/>
+    <nd ref="3917391395"/>
+    <nd ref="3917391396"/>
+    <nd ref="3917391397"/>
+    <nd ref="3917391398"/>
+    <nd ref="3917391399"/>
+    <nd ref="3917391400"/>
+    <nd ref="3917391401"/>
+    <nd ref="3917391402"/>
+    <nd ref="3917391403"/>
+    <nd ref="11810364726"/>
+    <nd ref="11810364727"/>
+    <nd ref="3917391392"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Sherwood Pines Cafe"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="388549985" version="3" timestamp="2025-09-20T16:54:29Z" changeset="172214708" uid="22805046" user="mapman555">
+    <nd ref="3917391404"/>
+    <nd ref="3917391405"/>
+    <nd ref="3917391406"/>
+    <nd ref="3917391407"/>
+    <nd ref="3917391404"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Sherwood Pines Cycling"/>
+    <tag k="service:bicycle:rental" v="yes"/>
+    <tag k="service:bicycle:retail" v="yes"/>
+    <tag k="shop" v="bicycle"/>
+  </way>
+  <way id="390492036" version="2" timestamp="2024-01-06T15:05:55Z" changeset="145960681" uid="2011702" user="krd_mapper">
+    <nd ref="1906222780"/>
+    <nd ref="1269230450"/>
+    <nd ref="261570412"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Clipstone Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+  </way>
+  <way id="390492037" version="1" timestamp="2016-01-09T19:54:17Z" changeset="36469900" uid="161875" user="Willumm">
+    <nd ref="2846147001"/>
+    <nd ref="2846147032"/>
+    <nd ref="261570441"/>
+    <nd ref="2846147006"/>
+    <nd ref="2846145499"/>
+    <nd ref="261570440"/>
+    <nd ref="2846145500"/>
+    <nd ref="2846147012"/>
+    <nd ref="261570439"/>
+    <nd ref="2846147004"/>
+    <nd ref="261570437"/>
+    <nd ref="2846147021"/>
+    <nd ref="261570436"/>
+    <nd ref="2846147011"/>
+    <nd ref="261570434"/>
+    <nd ref="2846147003"/>
+    <nd ref="261570433"/>
+    <nd ref="2846147014"/>
+    <nd ref="261570431"/>
+    <nd ref="2846147007"/>
+    <nd ref="261570430"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="source:name" v="survey;OS_OpenData_Locator"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+  </way>
+  <way id="390492038" version="3" timestamp="2023-07-28T01:45:32Z" changeset="139112535" uid="466858" user="beebware">
+    <nd ref="2843910474"/>
+    <nd ref="2352419517"/>
+    <nd ref="2843913206"/>
+    <nd ref="261570591"/>
+    <nd ref="2843898323"/>
+    <nd ref="2843897030"/>
+    <nd ref="261570587"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Mansfield Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="GPS;Bing"/>
+    <tag k="source:name" v="OS_OpenData_StreetView"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="390492039" version="3" timestamp="2023-07-28T01:45:20Z" changeset="139112651" uid="466858" user="beebware">
+    <nd ref="2843897075"/>
+    <nd ref="550073615"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Cavendish Way"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source" v="GPS"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="473882077" version="2" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="4679142203"/>
+    <nd ref="2985317996"/>
+    <nd ref="2985318008"/>
+    <nd ref="33994895"/>
+    <nd ref="2097000470"/>
+    <nd ref="33994896"/>
+    <nd ref="666476872"/>
+    <nd ref="1265715158"/>
+    <nd ref="33994897"/>
+    <nd ref="33994894"/>
+    <nd ref="666476873"/>
+    <nd ref="33994886"/>
+    <nd ref="3732274431"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Mansfield Road"/>
+    <tag k="ref" v="A6075"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign at E"/>
+  </way>
+  <way id="473882084" version="2" timestamp="2021-08-16T13:13:34Z" changeset="109752130" uid="10127749" user="nbhiss">
+    <nd ref="4679142204"/>
+    <nd ref="307420294"/>
+    <nd ref="2846186204"/>
+    <nd ref="2846186203"/>
+    <nd ref="455060137"/>
+    <nd ref="2846199226"/>
+    <nd ref="1265715745"/>
+    <nd ref="455060138"/>
+    <nd ref="3730039127"/>
+    <nd ref="455060139"/>
+    <nd ref="2846186213"/>
+    <nd ref="2846186201"/>
+    <nd ref="307420296"/>
+    <nd ref="2846185598"/>
+    <nd ref="455060136"/>
+    <nd ref="2846186207"/>
+    <nd ref="2846185592"/>
+    <nd ref="307420298"/>
+    <nd ref="2846186205"/>
+    <nd ref="455060135"/>
+    <nd ref="1265715315"/>
+    <nd ref="2846186208"/>
+    <nd ref="455060133"/>
+    <nd ref="2846185596"/>
+    <nd ref="2846185595"/>
+    <nd ref="2846185591"/>
+    <nd ref="455060134"/>
+    <nd ref="2846186214"/>
+    <nd ref="307420300"/>
+    <nd ref="1265715741"/>
+    <nd ref="9010301012"/>
+    <nd ref="9010301005"/>
+    <nd ref="455060132"/>
+    <nd ref="722149999"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxweight" v="18"/>
+    <tag k="maxweight:conditional" v="none @ destination"/>
+    <tag k="name" v="Gorsethorpe Lane"/>
+    <tag k="source:name" v="Sign at south end"/>
+  </way>
+  <way id="473882086" version="5" timestamp="2024-05-13T19:49:56Z" changeset="151283524" uid="3970216" user="Railwayfan2005">
+    <nd ref="4679142202"/>
+    <nd ref="2764173653"/>
+    <nd ref="8387378878"/>
+    <nd ref="33994899"/>
+    <nd ref="11902015776"/>
+    <nd ref="300730414"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Peafield Road"/>
+    <tag k="old_ref" v="B6033"/>
+    <tag k="ref" v="A6075"/>
+    <tag k="source:name" v="NaPTAN"/>
+  </way>
+  <way id="498103903" version="2" timestamp="2025-09-20T16:54:27Z" changeset="172214692" uid="22805046" user="mapman555">
+    <nd ref="4895919148"/>
+    <nd ref="4895919145"/>
+    <nd ref="4895919147"/>
+    <nd ref="4895919146"/>
+    <nd ref="4895919148"/>
+    <tag k="building" v="commercial"/>
+    <tag k="fixme" v="Location approximate"/>
+    <tag k="name" v="Go-Ape Booking Office"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="732074158" version="1" timestamp="2019-10-06T11:00:30Z" changeset="75337781" uid="311391" user="patman37">
+    <nd ref="261570416"/>
+    <nd ref="2846145498"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Mansfield Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+  </way>
+  <way id="867756485" version="2" timestamp="2023-07-28T01:45:10Z" changeset="139112535" uid="466858" user="beebware">
+    <nd ref="550073615"/>
+    <nd ref="722149988"/>
+    <nd ref="722149989"/>
+    <nd ref="722149990"/>
+    <nd ref="550073619"/>
+    <nd ref="722149991"/>
+    <nd ref="261570583"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1237545819" version="1" timestamp="2024-01-06T15:05:55Z" changeset="145960681" uid="2011702" user="krd_mapper">
+    <nd ref="2846145498"/>
+    <nd ref="455352848"/>
+    <nd ref="11494589402"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="4.1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Main Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="B6030"/>
+    <tag k="source:name" v="NaPTAN"/>
+    <tag k="source:ref" v="OS OpenData StreetView"/>
+  </way>
+
+</osm>

@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:36:51Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="287507" lat="52.5126051" lon="-1.6211173" version="3" timestamp="2013-01-18T21:20:47Z" changeset="14701339" uid="411244" user="RobJN"/>
+  <node id="287538" lat="52.5178666" lon="-1.6405951" version="2" timestamp="2012-04-08T14:57:58Z" changeset="11226235" uid="9065" user="brianboru"/>
+  <node id="639140" lat="52.5122584" lon="-1.6215634" version="4" timestamp="2013-01-18T21:20:48Z" changeset="14701339" uid="411244" user="RobJN"/>
+  <node id="639197" lat="52.5246839" lon="-1.6448556" version="2" timestamp="2013-01-16T21:28:03Z" changeset="14677702" uid="411244" user="RobJN"/>
+  <node id="671292" lat="52.5501029" lon="-1.6336261" version="3" timestamp="2013-05-08T08:56:15Z" changeset="16025679" uid="9065" user="brianboru"/>
+  <node id="603686488" lat="52.5211474" lon="-1.6392747" version="3" timestamp="2013-01-16T21:28:02Z" changeset="14677702" uid="411244" user="RobJN"/>
+  <node id="603776830" lat="52.5244407" lon="-1.6300431" version="5" timestamp="2018-08-17T14:21:10Z" changeset="61748194" uid="9065" user="brianboru"/>
+  <node id="2118404024" lat="52.5393498" lon="-1.6167954" version="1" timestamp="2013-01-18T21:20:34Z" changeset="14701339" uid="411244" user="RobJN"/>
+  <way id="4469618" version="14" timestamp="2025-01-14T22:50:04Z" changeset="161361825" uid="5229644" user="Nathan_A_RF">
+    <nd ref="287531"/>
+    <nd ref="687782942"/>
+    <tag k="gritting" v="yes"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Nuneaton Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="4469620" version="15" timestamp="2025-01-14T22:50:04Z" changeset="161361825" uid="5229644" user="Nathan_A_RF">
+    <nd ref="287504"/>
+    <nd ref="2118403503"/>
+    <nd ref="2118403500"/>
+    <nd ref="2118403495"/>
+    <nd ref="1707191362"/>
+    <nd ref="2118403490"/>
+    <nd ref="2118403484"/>
+    <nd ref="1707191361"/>
+    <nd ref="2118403487"/>
+    <nd ref="2118403492"/>
+    <nd ref="287507"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Nuneaton Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="8003507" version="19" timestamp="2025-01-14T22:50:04Z" changeset="161361825" uid="5229644" user="Nathan_A_RF">
+    <nd ref="287504"/>
+    <nd ref="1707191360"/>
+    <nd ref="2118403430"/>
+    <nd ref="2118403411"/>
+    <nd ref="639140"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="gritting" v="yes"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Tamworth Road"/>
+    <tag k="ref" v="B4098"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="10063684" version="22" timestamp="2021-08-20T14:36:16Z" changeset="109992097" uid="10252558" user="prddym">
+    <nd ref="639173"/>
+    <nd ref="603686483"/>
+    <nd ref="2114926416"/>
+    <nd ref="2114926418"/>
+    <nd ref="639174"/>
+    <nd ref="9022963964"/>
+    <nd ref="2114926422"/>
+    <nd ref="603686486"/>
+    <nd ref="2114926434"/>
+    <nd ref="639175"/>
+    <nd ref="639176"/>
+    <nd ref="2114926438"/>
+    <nd ref="603686487"/>
+    <nd ref="639177"/>
+    <nd ref="2114926440"/>
+    <nd ref="2114926442"/>
+    <nd ref="603686488"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="1"/>
+    <tag k="gritting_route_revision" v="201110"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Tamworth Road"/>
+    <tag k="ref" v="B4098"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="bing"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="11012376" version="24" timestamp="2025-08-06T13:19:04Z" changeset="170057750" uid="21488431" user="700RPB">
+    <nd ref="2114926443"/>
+    <nd ref="98078953"/>
+    <nd ref="2114926445"/>
+    <nd ref="2114926446"/>
+    <nd ref="1707191416"/>
+    <nd ref="2114926449"/>
+    <nd ref="603777863"/>
+    <nd ref="603777864"/>
+    <nd ref="98078958"/>
+    <nd ref="4391640482"/>
+    <nd ref="603777865"/>
+    <nd ref="603777866"/>
+    <nd ref="2114926464"/>
+    <nd ref="98078963"/>
+    <nd ref="4391640604"/>
+    <nd ref="4391640612"/>
+    <nd ref="2299631041"/>
+    <nd ref="603776830"/>
+    <nd ref="2118403564"/>
+    <nd ref="98078969"/>
+    <nd ref="2118403567"/>
+    <nd ref="2118403570"/>
+    <nd ref="603777042"/>
+    <nd ref="2118403573"/>
+    <nd ref="2118403576"/>
+    <nd ref="2118403579"/>
+    <nd ref="98078972"/>
+    <nd ref="2118403580"/>
+    <nd ref="2118403583"/>
+    <nd ref="2118403586"/>
+    <nd ref="2118403589"/>
+    <nd ref="2118403592"/>
+    <nd ref="98078973"/>
+    <nd ref="2118403595"/>
+    <nd ref="2118403598"/>
+    <nd ref="2118403617"/>
+    <nd ref="2118403619"/>
+    <nd ref="2118403621"/>
+    <nd ref="2118403623"/>
+    <nd ref="2118403625"/>
+    <nd ref="2118403627"/>
+    <nd ref="2118403631"/>
+    <nd ref="2118403634"/>
+    <nd ref="2118403637"/>
+    <nd ref="98078974"/>
+    <nd ref="2118403639"/>
+    <nd ref="2118403642"/>
+    <nd ref="2118403645"/>
+    <nd ref="2118403648"/>
+    <nd ref="688378070"/>
+    <nd ref="2118403672"/>
+    <nd ref="2118403699"/>
+    <nd ref="98078977"/>
+    <nd ref="98078981"/>
+    <nd ref="2118403740"/>
+    <nd ref="2118403743"/>
+    <nd ref="2118403746"/>
+    <nd ref="2118403748"/>
+    <nd ref="98078984"/>
+    <nd ref="2118403769"/>
+    <nd ref="2118403772"/>
+    <nd ref="2118403776"/>
+    <nd ref="2118403779"/>
+    <nd ref="98078987"/>
+    <nd ref="2118403782"/>
+    <nd ref="2118403785"/>
+    <nd ref="2118403788"/>
+    <nd ref="2118403791"/>
+    <nd ref="98078992"/>
+    <nd ref="2118403815"/>
+    <nd ref="2118403825"/>
+    <nd ref="2118403830"/>
+    <nd ref="2118403839"/>
+    <nd ref="2118403846"/>
+    <nd ref="2118403858"/>
+    <nd ref="2118403889"/>
+    <nd ref="98078997"/>
+    <nd ref="2118403934"/>
+    <nd ref="2118403942"/>
+    <nd ref="2118403948"/>
+    <nd ref="98079002"/>
+    <nd ref="2118403975"/>
+    <nd ref="2118403978"/>
+    <nd ref="98079006"/>
+    <nd ref="5864713913"/>
+    <nd ref="2118403981"/>
+    <nd ref="2118403985"/>
+    <nd ref="2118403988"/>
+    <nd ref="2118403991"/>
+    <nd ref="98079008"/>
+    <nd ref="2118403994"/>
+    <nd ref="2118403997"/>
+    <nd ref="2118404000"/>
+    <nd ref="98079011"/>
+    <nd ref="2118404003"/>
+    <nd ref="2118404006"/>
+    <nd ref="2118404008"/>
+    <nd ref="2118404011"/>
+    <nd ref="2118404014"/>
+    <nd ref="2118404017"/>
+    <nd ref="2118404020"/>
+    <nd ref="98079015"/>
+    <nd ref="2118404022"/>
+    <nd ref="2118404024"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="2"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Atherstone Road"/>
+    <tag k="ref" v="B4116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="23526810" version="16" timestamp="2021-02-09T03:40:23Z" changeset="98940700" uid="11734036" user="prreddyz">
+    <nd ref="671292"/>
+    <nd ref="2295555496"/>
+    <nd ref="603773885"/>
+    <nd ref="603773888"/>
+    <nd ref="603773891"/>
+    <nd ref="6552167400"/>
+    <nd ref="603773894"/>
+    <nd ref="603773897"/>
+    <nd ref="254768936"/>
+    <nd ref="603773902"/>
+    <nd ref="254768938"/>
+    <nd ref="603773913"/>
+    <nd ref="254768939"/>
+    <nd ref="603773918"/>
+    <nd ref="603773921"/>
+    <nd ref="2295555441"/>
+    <nd ref="603773923"/>
+    <nd ref="603773926"/>
+    <nd ref="603773929"/>
+    <nd ref="603773932"/>
+    <nd ref="603773935"/>
+    <nd ref="603773938"/>
+    <nd ref="603773940"/>
+    <nd ref="603773942"/>
+    <nd ref="254768942"/>
+    <nd ref="603773949"/>
+    <nd ref="603773952"/>
+    <nd ref="603773954"/>
+    <nd ref="254768945"/>
+    <nd ref="603773956"/>
+    <nd ref="603773957"/>
+    <nd ref="603773958"/>
+    <nd ref="254768949"/>
+    <nd ref="603773959"/>
+    <nd ref="603773960"/>
+    <nd ref="603774064"/>
+    <nd ref="603774065"/>
+    <nd ref="254768951"/>
+    <nd ref="603774066"/>
+    <nd ref="603774144"/>
+    <nd ref="603774145"/>
+    <nd ref="8406911258"/>
+    <nd ref="603774148"/>
+    <nd ref="603774153"/>
+    <nd ref="2647393639"/>
+    <nd ref="603774836"/>
+    <nd ref="603774838"/>
+    <nd ref="2647393635"/>
+    <nd ref="254768952"/>
+    <nd ref="603774840"/>
+    <nd ref="254768955"/>
+    <nd ref="603774841"/>
+    <nd ref="603774842"/>
+    <nd ref="603774843"/>
+    <nd ref="254768956"/>
+    <nd ref="2295555108"/>
+    <nd ref="603774845"/>
+    <nd ref="603774847"/>
+    <nd ref="254768957"/>
+    <nd ref="603774850"/>
+    <nd ref="603774853"/>
+    <nd ref="603774855"/>
+    <nd ref="254768959"/>
+    <nd ref="603774858"/>
+    <nd ref="603774860"/>
+    <nd ref="603774862"/>
+    <nd ref="603774864"/>
+    <nd ref="254768960"/>
+    <nd ref="603774866"/>
+    <nd ref="603775084"/>
+    <nd ref="2666987113"/>
+    <nd ref="603775087"/>
+    <nd ref="2666987111"/>
+    <nd ref="254768965"/>
+    <nd ref="603775091"/>
+    <nd ref="603775092"/>
+    <nd ref="254768966"/>
+    <nd ref="603775093"/>
+    <nd ref="254768968"/>
+    <nd ref="7312162832"/>
+    <nd ref="603775094"/>
+    <nd ref="603775097"/>
+    <nd ref="603775098"/>
+    <nd ref="603775280"/>
+    <nd ref="603775282"/>
+    <nd ref="603775284"/>
+    <nd ref="603775357"/>
+    <nd ref="2295535322"/>
+    <nd ref="603775285"/>
+    <nd ref="254768973"/>
+    <nd ref="2295535284"/>
+    <nd ref="2118403969"/>
+    <nd ref="2118403966"/>
+    <nd ref="2118403964"/>
+    <nd ref="254768977"/>
+    <nd ref="2118403960"/>
+    <nd ref="2118403957"/>
+    <nd ref="2118403954"/>
+    <nd ref="2118403951"/>
+    <nd ref="2118403945"/>
+    <nd ref="2118403939"/>
+    <nd ref="2118403936"/>
+    <nd ref="2118403932"/>
+    <nd ref="254768980"/>
+    <nd ref="2118403901"/>
+    <nd ref="2118403895"/>
+    <nd ref="2118403892"/>
+    <nd ref="2118403883"/>
+    <nd ref="2118403880"/>
+    <nd ref="2118403873"/>
+    <nd ref="2118403865"/>
+    <nd ref="254768982"/>
+    <nd ref="2118403869"/>
+    <nd ref="2118403877"/>
+    <nd ref="2118403885"/>
+    <nd ref="254768984"/>
+    <nd ref="2118403898"/>
+    <nd ref="2118403907"/>
+    <nd ref="2118403913"/>
+    <nd ref="2118403916"/>
+    <nd ref="2118403926"/>
+    <nd ref="2118403930"/>
+    <nd ref="2118403928"/>
+    <nd ref="2118403919"/>
+    <nd ref="2118403910"/>
+    <nd ref="2118403904"/>
+    <nd ref="254768985"/>
+    <nd ref="2118403861"/>
+    <nd ref="2118403854"/>
+    <nd ref="2118403850"/>
+    <nd ref="2118403842"/>
+    <nd ref="2118403833"/>
+    <nd ref="254768991"/>
+    <nd ref="2118403822"/>
+    <nd ref="2118403819"/>
+    <nd ref="2118403817"/>
+    <nd ref="2118403812"/>
+    <nd ref="2118403810"/>
+    <nd ref="2118403808"/>
+    <nd ref="2118403807"/>
+    <nd ref="2118403801"/>
+    <nd ref="254768994"/>
+    <nd ref="2118403796"/>
+    <nd ref="2118403794"/>
+    <nd ref="2118403798"/>
+    <nd ref="2118403799"/>
+    <nd ref="2118403803"/>
+    <nd ref="2118403806"/>
+    <nd ref="2118403805"/>
+    <nd ref="98078992"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="source" v="NPE;survey"/>
+  </way>
+  <way id="23526812" version="8" timestamp="2020-12-18T13:13:42Z" changeset="96072813" uid="11734036" user="prreddyz">
+    <nd ref="639197"/>
+    <nd ref="2114926583"/>
+    <nd ref="2114926605"/>
+    <nd ref="2114926688"/>
+    <nd ref="2114926703"/>
+    <nd ref="2114926706"/>
+    <nd ref="2114926710"/>
+    <nd ref="2114926719"/>
+    <nd ref="2114926724"/>
+    <nd ref="2114926728"/>
+    <nd ref="2114926731"/>
+    <nd ref="2114926733"/>
+    <nd ref="254769036"/>
+    <nd ref="2114926737"/>
+    <nd ref="2114926740"/>
+    <nd ref="7991922011"/>
+    <nd ref="2114926741"/>
+    <nd ref="2114926743"/>
+    <nd ref="2114926745"/>
+    <nd ref="2114926749"/>
+    <nd ref="2114926750"/>
+    <nd ref="2114926752"/>
+    <nd ref="254769034"/>
+    <nd ref="2114926753"/>
+    <nd ref="2114926755"/>
+    <nd ref="2114926757"/>
+    <nd ref="2114926758"/>
+    <nd ref="2114926760"/>
+    <nd ref="254769032"/>
+    <nd ref="2114926764"/>
+    <nd ref="2114926765"/>
+    <nd ref="2114926767"/>
+    <nd ref="2114926770"/>
+    <nd ref="2114926772"/>
+    <nd ref="2114926776"/>
+    <nd ref="2114926780"/>
+    <nd ref="2114926781"/>
+    <nd ref="2114926782"/>
+    <nd ref="2114926784"/>
+    <nd ref="2114926785"/>
+    <nd ref="2114926787"/>
+    <nd ref="2114926788"/>
+    <nd ref="2114926790"/>
+    <nd ref="2114926792"/>
+    <nd ref="2114926793"/>
+    <nd ref="2114926794"/>
+    <nd ref="2114926797"/>
+    <nd ref="2114926804"/>
+    <nd ref="2114926818"/>
+    <nd ref="2114926824"/>
+    <nd ref="2114926829"/>
+    <nd ref="98079124"/>
+    <nd ref="2114926835"/>
+    <nd ref="2114926840"/>
+    <nd ref="2114926845"/>
+    <nd ref="2114926847"/>
+    <nd ref="2114926851"/>
+    <nd ref="2114926854"/>
+    <nd ref="2114926858"/>
+    <nd ref="2114926861"/>
+    <nd ref="2114926863"/>
+    <nd ref="2114926874"/>
+    <nd ref="2114926878"/>
+    <nd ref="2114926883"/>
+    <nd ref="2114926890"/>
+    <nd ref="2114926894"/>
+    <nd ref="2114926900"/>
+    <nd ref="2114926908"/>
+    <nd ref="2114926909"/>
+    <nd ref="2114926913"/>
+    <nd ref="2114926915"/>
+    <nd ref="2114926917"/>
+    <nd ref="2114926919"/>
+    <nd ref="2114926923"/>
+    <nd ref="2114926926"/>
+    <nd ref="2114926927"/>
+    <nd ref="2114926948"/>
+    <nd ref="2114926954"/>
+    <nd ref="2114926959"/>
+    <nd ref="2114926961"/>
+    <nd ref="2114926964"/>
+    <nd ref="2114926957"/>
+    <nd ref="2114926952"/>
+    <nd ref="2114926944"/>
+    <nd ref="2114926941"/>
+    <nd ref="2114926929"/>
+    <nd ref="2114926925"/>
+    <nd ref="2114926921"/>
+    <nd ref="2114926911"/>
+    <nd ref="2114926906"/>
+    <nd ref="2114926904"/>
+    <nd ref="2114926902"/>
+    <nd ref="8240398097"/>
+    <nd ref="2114926898"/>
+    <nd ref="2114926896"/>
+    <nd ref="2114926892"/>
+    <nd ref="2114926888"/>
+    <nd ref="2114926885"/>
+    <nd ref="6552154030"/>
+    <nd ref="2114926881"/>
+    <nd ref="2114926880"/>
+    <nd ref="2114926876"/>
+    <nd ref="2114926872"/>
+    <nd ref="2114926859"/>
+    <nd ref="2114926856"/>
+    <nd ref="2114926852"/>
+    <nd ref="2114926849"/>
+    <nd ref="2114926846"/>
+    <nd ref="2114926844"/>
+    <nd ref="2114926843"/>
+    <nd ref="2114926842"/>
+    <nd ref="2114926841"/>
+    <nd ref="5838335557"/>
+    <nd ref="2114926839"/>
+    <nd ref="2114926838"/>
+    <nd ref="2114926836"/>
+    <nd ref="2114926833"/>
+    <nd ref="2114926831"/>
+    <nd ref="2114926798"/>
+    <nd ref="2114926791"/>
+    <nd ref="2114926789"/>
+    <nd ref="2114926786"/>
+    <nd ref="2114926783"/>
+    <nd ref="2114926779"/>
+    <nd ref="2114926778"/>
+    <nd ref="2114926777"/>
+    <nd ref="2114926775"/>
+    <nd ref="2114926774"/>
+    <nd ref="2114926773"/>
+    <nd ref="2114926771"/>
+    <nd ref="2114926769"/>
+    <nd ref="2114926768"/>
+    <nd ref="2114926766"/>
+    <nd ref="2114926763"/>
+    <nd ref="2114926762"/>
+    <nd ref="2114926761"/>
+    <nd ref="2114926759"/>
+    <nd ref="2114926756"/>
+    <nd ref="2114926754"/>
+    <nd ref="5838321293"/>
+    <nd ref="2114926751"/>
+    <nd ref="2114926748"/>
+    <nd ref="2114926747"/>
+    <nd ref="2114926746"/>
+    <nd ref="2114926744"/>
+    <nd ref="2114926742"/>
+    <nd ref="2114926739"/>
+    <nd ref="2114926738"/>
+    <nd ref="2114926736"/>
+    <nd ref="2114926735"/>
+    <nd ref="2114926734"/>
+    <nd ref="2114926732"/>
+    <nd ref="2114926730"/>
+    <nd ref="2114926729"/>
+    <nd ref="2114926727"/>
+    <nd ref="2114926726"/>
+    <nd ref="2114926725"/>
+    <nd ref="2114926723"/>
+    <nd ref="2114926722"/>
+    <nd ref="2114926721"/>
+    <nd ref="2114926720"/>
+    <nd ref="2114926716"/>
+    <nd ref="2114926711"/>
+    <nd ref="2114926708"/>
+    <nd ref="2114926704"/>
+    <nd ref="2114926701"/>
+    <nd ref="2114926699"/>
+    <nd ref="2114926697"/>
+    <nd ref="2114926692"/>
+    <nd ref="2114926690"/>
+    <nd ref="2114926685"/>
+    <nd ref="2114926640"/>
+    <nd ref="2114926620"/>
+    <nd ref="2114926607"/>
+    <nd ref="2114926590"/>
+    <nd ref="2114926587"/>
+    <nd ref="2114926574"/>
+    <nd ref="2114926565"/>
+    <nd ref="2114926559"/>
+    <nd ref="2114926557"/>
+    <nd ref="2114926555"/>
+    <nd ref="2114926553"/>
+    <nd ref="2114926549"/>
+    <nd ref="2114926546"/>
+    <nd ref="2114926543"/>
+    <nd ref="2114926540"/>
+    <nd ref="2114926536"/>
+    <nd ref="2114926533"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Botts Green Lane"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="23526814" version="5" timestamp="2018-08-17T13:35:13Z" changeset="61746832" uid="9065" user="brianboru">
+    <nd ref="2114926464"/>
+    <nd ref="2114926465"/>
+    <nd ref="2114926466"/>
+    <nd ref="2114926468"/>
+    <nd ref="2114926469"/>
+    <nd ref="2114926471"/>
+    <nd ref="2114926472"/>
+    <nd ref="2114926474"/>
+    <nd ref="2114926476"/>
+    <nd ref="2114926478"/>
+    <nd ref="2114926482"/>
+    <nd ref="2114926485"/>
+    <nd ref="2114926487"/>
+    <nd ref="2114926491"/>
+    <nd ref="2114926493"/>
+    <nd ref="2114926495"/>
+    <nd ref="2114926496"/>
+    <nd ref="2114926498"/>
+    <nd ref="2114926500"/>
+    <nd ref="2114926503"/>
+    <nd ref="2114926505"/>
+    <nd ref="2114926507"/>
+    <nd ref="2299631062"/>
+    <nd ref="2114926509"/>
+    <nd ref="2114926510"/>
+    <nd ref="2114926512"/>
+    <nd ref="2114926513"/>
+    <nd ref="2114926514"/>
+    <nd ref="2114926516"/>
+    <nd ref="5838321286"/>
+    <nd ref="2114926517"/>
+    <nd ref="2114926519"/>
+    <nd ref="2114926523"/>
+    <nd ref="2114926524"/>
+    <nd ref="2114926526"/>
+    <nd ref="2114926528"/>
+    <nd ref="2114926529"/>
+    <nd ref="2114926533"/>
+    <nd ref="2114926532"/>
+    <nd ref="2114926531"/>
+    <nd ref="2114926530"/>
+    <nd ref="2114926525"/>
+    <nd ref="2114926522"/>
+    <nd ref="254769039"/>
+    <nd ref="2114926520"/>
+    <nd ref="2114926518"/>
+    <nd ref="2114926511"/>
+    <nd ref="2114926508"/>
+    <nd ref="2114926506"/>
+    <nd ref="2114926502"/>
+    <nd ref="254769038"/>
+    <nd ref="2114926499"/>
+    <nd ref="2114926497"/>
+    <nd ref="2114926494"/>
+    <nd ref="2114926490"/>
+    <nd ref="2114926488"/>
+    <nd ref="2114926483"/>
+    <nd ref="2114926480"/>
+    <nd ref="2114926473"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Pound Lane"/>
+    <tag k="source" v="NPE"/>
+  </way>
+  <way id="23526816" version="18" timestamp="2023-08-24T13:52:41Z" changeset="140323686" uid="5589" user="user_5589">
+    <nd ref="254769951"/>
+    <nd ref="2118403546"/>
+    <nd ref="603780595"/>
+    <nd ref="7646480114"/>
+    <nd ref="603780607"/>
+    <nd ref="603780615"/>
+    <nd ref="254769949"/>
+    <nd ref="603780616"/>
+    <nd ref="5789540140"/>
+    <nd ref="603780617"/>
+    <nd ref="603780619"/>
+    <nd ref="254769948"/>
+    <nd ref="603779761"/>
+    <nd ref="254769947"/>
+    <nd ref="254769946"/>
+    <nd ref="5789658491"/>
+    <nd ref="5789658490"/>
+    <nd ref="603779768"/>
+    <nd ref="254769944"/>
+    <nd ref="687515596"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="33061397" version="2" timestamp="2013-01-16T21:27:58Z" changeset="14677702" uid="411244" user="RobJN">
+    <nd ref="372905115"/>
+    <nd ref="2114926407"/>
+    <nd ref="2114926405"/>
+    <nd ref="372905123"/>
+    <nd ref="2114926403"/>
+    <nd ref="372905133"/>
+    <nd ref="2114926399"/>
+    <nd ref="2114926397"/>
+    <nd ref="372905138"/>
+    <nd ref="2114926394"/>
+    <nd ref="372905143"/>
+    <nd ref="372905149"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bray Bank"/>
+  </way>
+  <way id="47441088" version="7" timestamp="2020-10-19T06:44:41Z" changeset="92684631" uid="10126818" user="remoh10">
+    <nd ref="603776830"/>
+    <nd ref="603776666"/>
+    <nd ref="603776668"/>
+    <nd ref="254769041"/>
+    <nd ref="603776669"/>
+    <nd ref="603776670"/>
+    <nd ref="603776671"/>
+    <nd ref="254769045"/>
+    <nd ref="603776672"/>
+    <nd ref="603776132"/>
+    <nd ref="603776134"/>
+    <nd ref="603776135"/>
+    <nd ref="603776136"/>
+    <nd ref="603776138"/>
+    <nd ref="254769047"/>
+    <nd ref="603776142"/>
+    <nd ref="535147747"/>
+    <nd ref="535147745"/>
+    <nd ref="603776150"/>
+    <nd ref="254769049"/>
+    <nd ref="603776153"/>
+    <nd ref="603776154"/>
+    <nd ref="8020982081"/>
+    <nd ref="535147742"/>
+    <nd ref="2299631404"/>
+    <nd ref="603776156"/>
+    <nd ref="603776158"/>
+    <nd ref="254769051"/>
+    <nd ref="603776159"/>
+    <nd ref="535147739"/>
+    <nd ref="603776160"/>
+    <nd ref="603776161"/>
+    <nd ref="603776162"/>
+    <nd ref="5838326101"/>
+    <nd ref="254769052"/>
+    <nd ref="8020982084"/>
+    <nd ref="535147736"/>
+    <nd ref="2299631489"/>
+    <nd ref="603776163"/>
+    <nd ref="603776164"/>
+    <nd ref="254769053"/>
+    <nd ref="603776165"/>
+    <nd ref="603776166"/>
+    <nd ref="8020996799"/>
+    <nd ref="603776168"/>
+    <nd ref="254769055"/>
+    <nd ref="603776171"/>
+    <nd ref="603776173"/>
+    <nd ref="603776175"/>
+    <nd ref="5838326088"/>
+    <nd ref="603776177"/>
+    <nd ref="254769057"/>
+    <nd ref="603776180"/>
+    <nd ref="254769062"/>
+    <nd ref="603776182"/>
+    <nd ref="603776183"/>
+    <nd ref="254769065"/>
+    <nd ref="603776185"/>
+    <nd ref="603776188"/>
+    <nd ref="254769067"/>
+    <nd ref="603776190"/>
+    <nd ref="603776191"/>
+    <nd ref="603776192"/>
+    <nd ref="603776193"/>
+    <nd ref="603776194"/>
+    <nd ref="603776195"/>
+    <nd ref="2118403972"/>
+    <nd ref="603775284"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hurley Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="54614743" version="7" timestamp="2025-06-01T16:56:36Z" changeset="167059375" uid="20198006" user="imprwikiimpr">
+    <nd ref="687515592"/>
+    <nd ref="1707191380"/>
+    <nd ref="1707191381"/>
+    <nd ref="1707191383"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="2"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Coleshill Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="54614745" version="5" timestamp="2023-08-24T13:52:40Z" changeset="140323686" uid="5589" user="user_5589">
+    <nd ref="687515596"/>
+    <nd ref="535147749"/>
+    <nd ref="254769942"/>
+    <nd ref="603779779"/>
+    <nd ref="603779289"/>
+    <nd ref="254769939"/>
+    <nd ref="603779295"/>
+    <nd ref="603779301"/>
+    <nd ref="254769937"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="54614746" version="2" timestamp="2018-07-27T11:36:38Z" changeset="61118063" uid="9065" user="brianboru">
+    <nd ref="254769935"/>
+    <nd ref="603779347"/>
+    <nd ref="98078969"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="54636624" version="10" timestamp="2025-06-01T16:56:36Z" changeset="167059375" uid="20198006" user="imprwikiimpr">
+    <nd ref="687779209"/>
+    <nd ref="2067941973"/>
+    <nd ref="603686525"/>
+    <nd ref="5838406944"/>
+    <nd ref="287535"/>
+    <nd ref="603686495"/>
+    <nd ref="1707191386"/>
+    <nd ref="287533"/>
+    <nd ref="603686496"/>
+    <nd ref="3979369231"/>
+    <nd ref="287530"/>
+    <nd ref="687782941"/>
+    <nd ref="3979369290"/>
+    <nd ref="287531"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="2"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coleshill Road"/>
+    <tag k="postal_code" v="B46"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="54636634" version="8" timestamp="2023-08-24T09:59:33Z" changeset="140311811" uid="5589" user="user_5589">
+    <nd ref="287536"/>
+    <nd ref="687779209"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="Furnace End Bridge"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="2"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Coleshill Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q17643840"/>
+  </way>
+  <way id="54637498" version="4" timestamp="2016-06-18T15:16:51Z" changeset="40118203" uid="133272" user="wongataa">
+    <nd ref="687782942"/>
+    <nd ref="687782943"/>
+    <nd ref="2114926393"/>
+    <nd ref="2114926392"/>
+    <nd ref="2114926391"/>
+    <nd ref="2114926390"/>
+    <nd ref="2114926388"/>
+    <nd ref="687782941"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="54637499" version="7" timestamp="2023-08-24T13:52:40Z" changeset="140323686" uid="5589" user="user_5589">
+    <nd ref="603779307"/>
+    <nd ref="535147748"/>
+    <nd ref="5789569129"/>
+    <nd ref="603779317"/>
+    <nd ref="5789658508"/>
+    <nd ref="603779328"/>
+    <nd ref="603779330"/>
+    <nd ref="254769936"/>
+    <nd ref="603779335"/>
+    <nd ref="7737303150"/>
+    <nd ref="603779336"/>
+    <nd ref="603779343"/>
+    <nd ref="2118403557"/>
+    <nd ref="2118403561"/>
+    <nd ref="254769935"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="54637500" version="5" timestamp="2023-08-24T13:52:40Z" changeset="140323686" uid="5589" user="user_5589">
+    <nd ref="254769937"/>
+    <nd ref="603779307"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Sandy Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="82205650" version="7" timestamp="2025-06-01T16:56:36Z" changeset="167059375" uid="20198006" user="imprwikiimpr">
+    <nd ref="287538"/>
+    <nd ref="5020397535"/>
+    <nd ref="1707191377"/>
+    <nd ref="287537"/>
+    <nd ref="687515592"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="2"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Coleshill Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="117744582" version="14" timestamp="2025-02-21T13:49:33Z" changeset="162781390" uid="1782504" user="corgicity">
+    <nd ref="287507"/>
+    <nd ref="2118403497"/>
+    <nd ref="2118403507"/>
+    <nd ref="603783488"/>
+    <nd ref="287509"/>
+    <nd ref="2329217316"/>
+    <nd ref="6048772186"/>
+    <nd ref="287511"/>
+    <nd ref="6048772187"/>
+    <nd ref="287513"/>
+    <nd ref="287514"/>
+    <nd ref="2329217349"/>
+    <nd ref="603783489"/>
+    <nd ref="6908001195"/>
+    <nd ref="287497"/>
+    <nd ref="603783490"/>
+    <nd ref="2329217373"/>
+    <nd ref="4009584902"/>
+    <nd ref="287498"/>
+    <nd ref="4009584920"/>
+    <nd ref="287499"/>
+    <nd ref="4009584929"/>
+    <nd ref="2329217387"/>
+    <nd ref="8572146844"/>
+    <nd ref="603783495"/>
+    <nd ref="2329217394"/>
+    <nd ref="603783499"/>
+    <nd ref="287500"/>
+    <nd ref="287501"/>
+    <nd ref="4009585118"/>
+    <nd ref="287483"/>
+    <nd ref="603783518"/>
+    <nd ref="603811579"/>
+    <nd ref="287482"/>
+    <nd ref="2329217437"/>
+    <nd ref="287481"/>
+    <nd ref="603786124"/>
+    <nd ref="287480"/>
+    <nd ref="2067941985"/>
+    <nd ref="287479"/>
+    <nd ref="6524744715"/>
+    <nd ref="287478"/>
+    <nd ref="287477"/>
+    <nd ref="6524744722"/>
+    <nd ref="2353137605"/>
+    <nd ref="603786129"/>
+    <nd ref="287476"/>
+    <nd ref="287475"/>
+    <nd ref="287474"/>
+    <nd ref="2353137661"/>
+    <nd ref="603786149"/>
+    <nd ref="287471"/>
+    <nd ref="603786179"/>
+    <nd ref="287472"/>
+    <nd ref="603786193"/>
+    <nd ref="287473"/>
+    <nd ref="1296252388"/>
+    <nd ref="603786213"/>
+    <nd ref="287416"/>
+    <nd ref="1296252417"/>
+    <nd ref="603786220"/>
+    <nd ref="1296252410"/>
+    <nd ref="2353137748"/>
+    <nd ref="603786229"/>
+    <nd ref="603827601"/>
+    <nd ref="287417"/>
+    <nd ref="603786242"/>
+    <nd ref="4498666508"/>
+    <nd ref="287344"/>
+    <nd ref="12606975624"/>
+    <nd ref="287343"/>
+    <nd ref="603786269"/>
+    <nd ref="603786275"/>
+    <nd ref="6782442031"/>
+    <nd ref="6782442039"/>
+    <nd ref="287342"/>
+    <nd ref="287341"/>
+    <nd ref="287340"/>
+    <nd ref="1296252543"/>
+    <nd ref="603786314"/>
+    <nd ref="1296252577"/>
+    <nd ref="5801991267"/>
+    <nd ref="287339"/>
+    <nd ref="2353138500"/>
+    <nd ref="603786328"/>
+    <nd ref="287338"/>
+    <nd ref="603786341"/>
+    <nd ref="287337"/>
+    <nd ref="287336"/>
+    <nd ref="603786349"/>
+    <nd ref="1296252581"/>
+    <nd ref="287335"/>
+    <nd ref="1296252387"/>
+    <nd ref="1296252418"/>
+    <nd ref="287334"/>
+    <nd ref="287333"/>
+    <tag k="gritting" v="yes"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Nuneaton Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="123368227" version="3" timestamp="2018-11-26T07:26:52Z" changeset="64887435" uid="9065" user="brianboru">
+    <nd ref="2118404024"/>
+    <nd ref="2118404028"/>
+    <nd ref="2118404037"/>
+    <nd ref="2118404043"/>
+    <nd ref="2118404045"/>
+    <nd ref="2118404049"/>
+    <tag k="designation" v="unclassified_county_road"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Gospel Oak Lane"/>
+  </way>
+  <way id="158537287" version="4" timestamp="2025-06-01T16:56:36Z" changeset="167059375" uid="20198006" user="imprwikiimpr">
+    <nd ref="1707191383"/>
+    <nd ref="287536"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="2"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coleshill Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="158537290" version="8" timestamp="2025-01-14T22:50:04Z" changeset="161361825" uid="5229644" user="Nathan_A_RF">
+    <nd ref="639165"/>
+    <nd ref="2114926374"/>
+    <nd ref="639164"/>
+    <nd ref="603686714"/>
+    <nd ref="639163"/>
+    <nd ref="639162"/>
+    <nd ref="603686715"/>
+    <nd ref="2118403555"/>
+    <nd ref="639161"/>
+    <nd ref="2118403553"/>
+    <nd ref="639160"/>
+    <nd ref="2118403551"/>
+    <nd ref="639159"/>
+    <nd ref="2118403549"/>
+    <nd ref="2118403548"/>
+    <nd ref="254769951"/>
+    <nd ref="639158"/>
+    <nd ref="2118403544"/>
+    <nd ref="2118403542"/>
+    <nd ref="603687035"/>
+    <nd ref="639156"/>
+    <nd ref="2118403540"/>
+    <nd ref="603687038"/>
+    <nd ref="2118403538"/>
+    <nd ref="2118403536"/>
+    <nd ref="639154"/>
+    <nd ref="2118403534"/>
+    <nd ref="639153"/>
+    <nd ref="2118403532"/>
+    <nd ref="603687071"/>
+    <nd ref="2118403530"/>
+    <nd ref="603687086"/>
+    <nd ref="639151"/>
+    <tag k="gritting" v="yes"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Nuneaton Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="158537304" version="6" timestamp="2025-01-14T22:50:04Z" changeset="161361825" uid="5229644" user="Nathan_A_RF">
+    <nd ref="287507"/>
+    <nd ref="2118403465"/>
+    <nd ref="1707191359"/>
+    <nd ref="2118403429"/>
+    <nd ref="2118403414"/>
+    <nd ref="1707191357"/>
+    <nd ref="639140"/>
+    <tag k="gritting" v="yes"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Tamworth Road"/>
+    <tag k="ref" v="B4098"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="196459671" version="6" timestamp="2021-02-05T10:39:09Z" changeset="98761374" uid="10219386" user="bathines">
+    <nd ref="2067941944"/>
+    <nd ref="2067941960"/>
+    <nd ref="2353137607"/>
+    <nd ref="2353137603"/>
+    <nd ref="4387314979"/>
+    <nd ref="4387314968"/>
+    <nd ref="2067941964"/>
+    <nd ref="4387314949"/>
+    <nd ref="4387314934"/>
+    <nd ref="2067941958"/>
+    <nd ref="8396630984"/>
+    <nd ref="2329217445"/>
+    <nd ref="2067941985"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Monwode Lea Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="196459673" version="1" timestamp="2012-12-15T03:09:49Z" changeset="14278008" uid="4951" user="PeterEastern">
+    <nd ref="2067941966"/>
+    <nd ref="2067941973"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mill Bank"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="201498513" version="1" timestamp="2013-01-16T21:27:57Z" changeset="14677702" uid="411244" user="RobJN">
+    <nd ref="2114926549"/>
+    <nd ref="2114926547"/>
+    <nd ref="2114926541"/>
+    <nd ref="2114926537"/>
+    <nd ref="2114926534"/>
+    <nd ref="2114926526"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Botts Green Lane"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="220431328" version="1" timestamp="2013-05-08T08:28:13Z" changeset="16025282" uid="9065" user="brianboru">
+    <nd ref="2118403972"/>
+    <nd ref="2295535320"/>
+    <nd ref="2295535322"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Hurley Lane"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="229084133" version="2" timestamp="2017-10-11T11:34:07Z" changeset="52821571" uid="9065" user="brianboru">
+    <nd ref="2377207494"/>
+    <nd ref="2299630879"/>
+    <nd ref="2299630880"/>
+    <nd ref="2299630883"/>
+    <nd ref="2299630874"/>
+    <nd ref="2377207491"/>
+    <nd ref="2377207490"/>
+    <nd ref="2377207489"/>
+    <nd ref="2299630867"/>
+    <nd ref="2377207494"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="pub"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="name" v="The Bull"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="229084405" version="4" timestamp="2020-10-05T21:12:40Z" changeset="92007731" uid="364" user="Edward">
+    <nd ref="2377210787"/>
+    <nd ref="2377210786"/>
+    <nd ref="2377210789"/>
+    <nd ref="2377210788"/>
+    <nd ref="2377210785"/>
+    <nd ref="2377210784"/>
+    <nd ref="2377210781"/>
+    <nd ref="2377210783"/>
+    <nd ref="2377210778"/>
+    <nd ref="2377210779"/>
+    <nd ref="2377210780"/>
+    <nd ref="2377210782"/>
+    <nd ref="2377210787"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II*"/>
+    <tag k="name" v="St Leonard"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wikidata" v="Q17550555"/>
+  </way>
+  <way id="229084406" version="4" timestamp="2025-02-25T03:53:59Z" changeset="162915634" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="2377210796"/>
+    <nd ref="2377210798"/>
+    <nd ref="2377210793"/>
+    <nd ref="2377210792"/>
+    <nd ref="2377210794"/>
+    <nd ref="2377210795"/>
+    <nd ref="2377210796"/>
+    <tag k="addr:street" v="Nuneaton Road"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="name" v="Over Whitacre Village Hall"/>
+    <tag k="source" v="visual survey;bing"/>
+  </way>
+  <way id="305852808" version="3" timestamp="2023-08-24T13:53:10Z" changeset="140323686" uid="5589" user="user_5589">
+    <nd ref="639140"/>
+    <nd ref="2118403409"/>
+    <nd ref="639139"/>
+    <nd ref="2118403406"/>
+    <nd ref="639138"/>
+    <nd ref="2118403403"/>
+    <nd ref="639137"/>
+    <nd ref="639136"/>
+    <nd ref="2118403400"/>
+    <nd ref="2118403397"/>
+    <nd ref="603688930"/>
+    <nd ref="639135"/>
+    <nd ref="2118403382"/>
+    <nd ref="603688934"/>
+    <nd ref="2118403356"/>
+    <nd ref="639134"/>
+    <nd ref="2118403333"/>
+    <nd ref="2118403329"/>
+    <nd ref="639133"/>
+    <nd ref="2118403325"/>
+    <nd ref="2118403323"/>
+    <nd ref="639132"/>
+    <nd ref="2118403309"/>
+    <nd ref="2118403305"/>
+    <nd ref="639131"/>
+    <nd ref="639130"/>
+    <nd ref="603688945"/>
+    <nd ref="2118403301"/>
+    <nd ref="639129"/>
+    <nd ref="2118403299"/>
+    <nd ref="639128"/>
+    <nd ref="639127"/>
+    <nd ref="639126"/>
+    <nd ref="639125"/>
+    <nd ref="639124"/>
+    <nd ref="2118403292"/>
+    <nd ref="639123"/>
+    <nd ref="2118403288"/>
+    <nd ref="639122"/>
+    <nd ref="2118403284"/>
+    <nd ref="2118403282"/>
+    <nd ref="639121"/>
+    <nd ref="2118403277"/>
+    <nd ref="639120"/>
+    <nd ref="2118403250"/>
+    <nd ref="639119"/>
+    <nd ref="2118403225"/>
+    <nd ref="2118403202"/>
+    <nd ref="603688968"/>
+    <nd ref="639118"/>
+    <nd ref="639117"/>
+    <nd ref="603688976"/>
+    <nd ref="639116"/>
+    <nd ref="1241208764"/>
+    <nd ref="1241208924"/>
+    <tag k="gritting" v="yes"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="name" v="Tamworth Road"/>
+    <tag k="ref" v="B4098"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="305854167" version="5" timestamp="2025-01-14T22:50:04Z" changeset="161361825" uid="5229644" user="Nathan_A_RF">
+    <nd ref="687782942"/>
+    <nd ref="603686711"/>
+    <nd ref="639168"/>
+    <nd ref="2114926386"/>
+    <nd ref="603686712"/>
+    <nd ref="372905158"/>
+    <nd ref="2114926384"/>
+    <nd ref="639166"/>
+    <nd ref="5789540253"/>
+    <nd ref="603686713"/>
+    <nd ref="8001722360"/>
+    <nd ref="2114926381"/>
+    <nd ref="639165"/>
+    <tag k="gritting" v="yes"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Nuneaton Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="316955337" version="2" timestamp="2014-12-12T14:47:23Z" changeset="27423328" uid="9065" user="brianboru">
+    <nd ref="3231469583"/>
+    <nd ref="3231469580"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brook Cottage Close"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery OGLv2"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="316955338" version="2" timestamp="2014-12-12T14:47:24Z" changeset="27423328" uid="9065" user="brianboru">
+    <nd ref="3231469581"/>
+    <nd ref="3231469583"/>
+    <nd ref="3231469585"/>
+    <nd ref="3231469584"/>
+    <nd ref="3231469582"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brook Cottage Close"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery OGLv2"/>
+    <tag k="source:name" v="OS_Locator"/>
+  </way>
+  <way id="386226675" version="2" timestamp="2015-12-16T18:46:52Z" changeset="35995136" uid="9065" user="brianboru">
+    <nd ref="3895519013"/>
+    <nd ref="3895519012"/>
+    <nd ref="3895519009"/>
+    <nd ref="3895519008"/>
+    <nd ref="3895519005"/>
+    <nd ref="3895519006"/>
+    <nd ref="3895519013"/>
+    <tag k="building" v="residential"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="name" v="The Bothie"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="390081016" version="3" timestamp="2021-03-25T22:28:43Z" changeset="101746091" uid="145231" user="woodpeck_repair">
+    <nd ref="3932343232"/>
+    <nd ref="3932343230"/>
+    <nd ref="3932343227"/>
+    <nd ref="3932343223"/>
+    <nd ref="3932343222"/>
+    <nd ref="3932343224"/>
+    <nd ref="3932343221"/>
+    <nd ref="3932343220"/>
+    <nd ref="3932343217"/>
+    <nd ref="3932343215"/>
+    <nd ref="3932343216"/>
+    <nd ref="3932343225"/>
+    <nd ref="3932343242"/>
+    <nd ref="3932343235"/>
+    <nd ref="3932343232"/>
+    <tag k="building" v="residential"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="name" v="Over Whitacre House"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="395051498" version="2" timestamp="2018-08-17T14:49:57Z" changeset="61749005" uid="9065" user="brianboru">
+    <nd ref="3979369380"/>
+    <nd ref="3979369376"/>
+    <nd ref="3979369357"/>
+    <nd ref="3979369359"/>
+    <nd ref="3979369380"/>
+    <tag k="addr:city" v="Furnace End"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="B46 2LL"/>
+    <tag k="addr:street" v="Tamworth Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="395051501" version="2" timestamp="2018-08-17T14:49:57Z" changeset="61749005" uid="9065" user="brianboru">
+    <nd ref="3979369376"/>
+    <nd ref="3979369372"/>
+    <nd ref="3979369352"/>
+    <nd ref="3979369357"/>
+    <nd ref="3979369376"/>
+    <tag k="addr:city" v="Furnace End"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="B46 2LL"/>
+    <tag k="addr:street" v="Tamworth Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="395051508" version="2" timestamp="2018-08-17T14:49:57Z" changeset="61749005" uid="9065" user="brianboru">
+    <nd ref="3979369385"/>
+    <nd ref="3979369381"/>
+    <nd ref="3979369363"/>
+    <nd ref="3979369367"/>
+    <nd ref="3979369385"/>
+    <tag k="addr:city" v="Furnace End"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="B46 2LL"/>
+    <tag k="addr:street" v="Tamworth Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="395051512" version="2" timestamp="2018-08-17T14:49:57Z" changeset="61749005" uid="9065" user="brianboru">
+    <nd ref="3979369395"/>
+    <nd ref="3979369390"/>
+    <nd ref="3979369374"/>
+    <nd ref="3979369379"/>
+    <nd ref="3979369395"/>
+    <tag k="addr:city" v="Furnace End"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="B46 2LL"/>
+    <tag k="addr:street" v="Tamworth Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="395051513" version="2" timestamp="2018-08-17T14:49:57Z" changeset="61749005" uid="9065" user="brianboru">
+    <nd ref="3979369390"/>
+    <nd ref="3979369389"/>
+    <nd ref="3979369371"/>
+    <nd ref="3979369374"/>
+    <nd ref="3979369390"/>
+    <tag k="addr:city" v="Furnace End"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="B46 2LL"/>
+    <tag k="addr:street" v="Tamworth Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="395051528" version="2" timestamp="2018-08-17T14:49:57Z" changeset="61749005" uid="9065" user="brianboru">
+    <nd ref="3979369349"/>
+    <nd ref="3979369373"/>
+    <nd ref="3979369368"/>
+    <nd ref="3979369365"/>
+    <nd ref="3979369344"/>
+    <nd ref="3979369349"/>
+    <tag k="addr:city" v="Furnace End"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="B46 2LL"/>
+    <tag k="addr:street" v="Tamworth Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="395051529" version="2" timestamp="2018-08-17T14:49:57Z" changeset="61749005" uid="9065" user="brianboru">
+    <nd ref="3979369381"/>
+    <nd ref="3979369388"/>
+    <nd ref="3979369383"/>
+    <nd ref="3979369358"/>
+    <nd ref="3979369363"/>
+    <nd ref="3979369381"/>
+    <tag k="addr:city" v="Furnace End"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="B46 2LL"/>
+    <tag k="addr:street" v="Tamworth Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="395051537" version="2" timestamp="2018-08-17T14:49:58Z" changeset="61749005" uid="9065" user="brianboru">
+    <nd ref="3979369364"/>
+    <nd ref="3979369361"/>
+    <nd ref="3979369355"/>
+    <nd ref="3979369353"/>
+    <nd ref="3979369335"/>
+    <nd ref="3979369344"/>
+    <nd ref="3979369365"/>
+    <nd ref="3979369364"/>
+    <tag k="addr:city" v="Furnace End"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="B46 2LL"/>
+    <tag k="addr:street" v="Tamworth Road"/>
+    <tag k="building" v="residential"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="398193719" version="3" timestamp="2021-03-25T22:26:53Z" changeset="101746091" uid="145231" user="woodpeck_repair">
+    <nd ref="4009585134"/>
+    <nd ref="4009585133"/>
+    <nd ref="4009585128"/>
+    <nd ref="4009585126"/>
+    <nd ref="4009585124"/>
+    <nd ref="4009585130"/>
+    <nd ref="4009585134"/>
+    <tag k="building" v="residential"/>
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="Historic England"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="name" v="Tollgate Cottage"/>
+    <tag k="source" v="Warwicks CC Aerial Imagery 2013"/>
+  </way>
+  <way id="484599261" version="2" timestamp="2018-08-17T14:41:06Z" changeset="61748736" uid="9065" user="brianboru">
+    <nd ref="639172"/>
+    <nd ref="2114926414"/>
+    <nd ref="639173"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="1"/>
+    <tag k="gritting_route_revision" v="201110"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Tamworth Road"/>
+    <tag k="ref" v="B4098"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="bing"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="484599262" version="3" timestamp="2020-10-09T06:20:21Z" changeset="92211735" uid="10170574" user="asnghpi">
+    <nd ref="287531"/>
+    <nd ref="2114926395"/>
+    <nd ref="2114926396"/>
+    <nd ref="639169"/>
+    <nd ref="1707191389"/>
+    <nd ref="639170"/>
+    <nd ref="2114926401"/>
+    <nd ref="639171"/>
+    <nd ref="2114926409"/>
+    <nd ref="7990867574"/>
+    <nd ref="2114926411"/>
+    <nd ref="639172"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="1"/>
+    <tag k="gritting_route_revision" v="201110"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Tamworth Road"/>
+    <tag k="ref" v="B4098"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="bing"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="611552103" version="3" timestamp="2025-01-14T22:50:04Z" changeset="161361825" uid="5229644" user="Nathan_A_RF">
+    <nd ref="639151"/>
+    <nd ref="2118403527"/>
+    <nd ref="2118403525"/>
+    <nd ref="639150"/>
+    <nd ref="2118403522"/>
+    <nd ref="2118403519"/>
+    <nd ref="603687122"/>
+    <nd ref="5789540120"/>
+    <nd ref="2118403516"/>
+    <nd ref="2118403513"/>
+    <nd ref="639146"/>
+    <nd ref="603687147"/>
+    <nd ref="5789569366"/>
+    <nd ref="2118403510"/>
+    <nd ref="603687159"/>
+    <nd ref="603687169"/>
+    <nd ref="603687178"/>
+    <nd ref="603687198"/>
+    <nd ref="603687372"/>
+    <nd ref="287504"/>
+    <tag k="gritting" v="yes"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="3"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Nuneaton Road"/>
+    <tag k="ref" v="B4114"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="617637881" version="6" timestamp="2025-01-14T22:50:04Z" changeset="161361825" uid="5229644" user="Nathan_A_RF">
+    <nd ref="603686488"/>
+    <nd ref="639178"/>
+    <nd ref="2114926444"/>
+    <nd ref="639179"/>
+    <nd ref="2114926447"/>
+    <nd ref="2114926448"/>
+    <nd ref="639180"/>
+    <nd ref="2114926450"/>
+    <nd ref="2114926451"/>
+    <nd ref="603686489"/>
+    <nd ref="2114926452"/>
+    <nd ref="603686490"/>
+    <nd ref="2114926453"/>
+    <nd ref="2114926454"/>
+    <nd ref="639181"/>
+    <nd ref="2114926455"/>
+    <nd ref="603686491"/>
+    <nd ref="2114926456"/>
+    <nd ref="639182"/>
+    <nd ref="603686492"/>
+    <nd ref="2114926458"/>
+    <nd ref="2114926459"/>
+    <nd ref="2114926460"/>
+    <nd ref="639183"/>
+    <nd ref="2114926461"/>
+    <nd ref="2114926462"/>
+    <nd ref="639184"/>
+    <nd ref="2114926463"/>
+    <nd ref="639185"/>
+    <nd ref="2114926467"/>
+    <nd ref="2114926470"/>
+    <nd ref="2114926473"/>
+    <nd ref="2114926475"/>
+    <nd ref="639186"/>
+    <nd ref="2114926477"/>
+    <nd ref="639187"/>
+    <nd ref="2114926479"/>
+    <nd ref="639188"/>
+    <nd ref="2114926481"/>
+    <nd ref="639189"/>
+    <nd ref="639190"/>
+    <nd ref="2114926484"/>
+    <nd ref="2114926486"/>
+    <nd ref="603685570"/>
+    <nd ref="6544042088"/>
+    <nd ref="2114926489"/>
+    <nd ref="2114926492"/>
+    <nd ref="639191"/>
+    <nd ref="603685574"/>
+    <nd ref="2114926501"/>
+    <nd ref="2114926515"/>
+    <nd ref="639192"/>
+    <nd ref="2114926539"/>
+    <nd ref="2114926542"/>
+    <nd ref="2114926545"/>
+    <nd ref="639193"/>
+    <nd ref="2114926550"/>
+    <nd ref="2114926552"/>
+    <nd ref="2114926554"/>
+    <nd ref="639194"/>
+    <nd ref="603685581"/>
+    <nd ref="2114926556"/>
+    <nd ref="639195"/>
+    <nd ref="639196"/>
+    <nd ref="2114926560"/>
+    <nd ref="2114926568"/>
+    <nd ref="2114926570"/>
+    <nd ref="639197"/>
+    <nd ref="2114926575"/>
+    <nd ref="639198"/>
+    <nd ref="2114926579"/>
+    <nd ref="2114926580"/>
+    <nd ref="2114926581"/>
+    <nd ref="603685591"/>
+    <nd ref="2114926578"/>
+    <nd ref="2114926572"/>
+    <nd ref="2114926571"/>
+    <nd ref="639199"/>
+    <nd ref="639200"/>
+    <nd ref="2114926576"/>
+    <nd ref="639201"/>
+    <nd ref="2114926582"/>
+    <nd ref="2114926584"/>
+    <nd ref="603685601"/>
+    <nd ref="639202"/>
+    <nd ref="2114926601"/>
+    <nd ref="603685607"/>
+    <nd ref="6881310274"/>
+    <nd ref="2114926622"/>
+    <nd ref="2114926628"/>
+    <nd ref="2114926635"/>
+    <nd ref="639203"/>
+    <nd ref="2114926641"/>
+    <nd ref="2114926643"/>
+    <nd ref="343452273"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="1"/>
+    <tag k="gritting_route_revision" v="201110"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Tamworth Road"/>
+    <tag k="ref" v="B4098"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="617641316" version="3" timestamp="2023-08-24T09:57:21Z" changeset="140311811" uid="5589" user="user_5589">
+    <nd ref="287531"/>
+    <nd ref="3979369295"/>
+    <nd ref="3979369301"/>
+    <nd ref="372905115"/>
+    <nd ref="9183053077"/>
+    <nd ref="2114926420"/>
+    <nd ref="2114926424"/>
+    <nd ref="98078948"/>
+    <nd ref="3231469582"/>
+    <nd ref="2114926435"/>
+    <nd ref="2114926436"/>
+    <nd ref="2114926437"/>
+    <nd ref="603777862"/>
+    <nd ref="2114926439"/>
+    <nd ref="2114926441"/>
+    <nd ref="2114926443"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="2"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Atherstone Road"/>
+    <tag k="ref" v="B4116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="649023233" version="9" timestamp="2023-08-24T13:49:39Z" changeset="140323904" uid="5589" user="user_5589">
+    <nd ref="2118404024"/>
+    <nd ref="2118404026"/>
+    <nd ref="2118404030"/>
+    <nd ref="2118404032"/>
+    <nd ref="2118404034"/>
+    <nd ref="98079018"/>
+    <nd ref="2118404039"/>
+    <nd ref="98079023"/>
+    <nd ref="2118404047"/>
+    <nd ref="98079087"/>
+    <nd ref="2118404051"/>
+    <nd ref="8406903964"/>
+    <nd ref="2118404053"/>
+    <nd ref="2118404055"/>
+    <nd ref="98079091"/>
+    <nd ref="2118404059"/>
+    <nd ref="2118404079"/>
+    <nd ref="2118404082"/>
+    <nd ref="2118404085"/>
+    <nd ref="2118404091"/>
+    <nd ref="98079095"/>
+    <nd ref="6541401242"/>
+    <nd ref="7994815487"/>
+    <nd ref="7953859290"/>
+    <nd ref="98079099"/>
+    <nd ref="603832698"/>
+    <nd ref="603832699"/>
+    <nd ref="603832700"/>
+    <nd ref="603832122"/>
+    <nd ref="98079104"/>
+    <nd ref="603832136"/>
+    <nd ref="98079109"/>
+    <nd ref="603832144"/>
+    <nd ref="98079114"/>
+    <nd ref="98079118"/>
+    <nd ref="8777109796"/>
+    <nd ref="2332696762"/>
+    <nd ref="2332696771"/>
+    <nd ref="98079121"/>
+    <nd ref="603832159"/>
+    <nd ref="98079122"/>
+    <nd ref="603832165"/>
+    <nd ref="603832173"/>
+    <nd ref="671485"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="gritting" v="priority_1"/>
+    <tag k="gritting_depot" v="Coleshill Heath Road"/>
+    <tag k="gritting_operator" v="Warwickshire County Council"/>
+    <tag k="gritting_route_ref" v="2"/>
+    <tag k="gritting_route_revision" v="201105"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maintenance" v="gritting"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Coleshill Road"/>
+    <tag k="ref" v="B4116"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="697675633" version="1" timestamp="2019-06-17T04:41:56Z" changeset="71315526" uid="8446889" user="nimmalab">
+    <nd ref="2067941966"/>
+    <nd ref="6552131570"/>
+    <nd ref="6552131571"/>
+    <tag k="highway" v="residential"/>
+  </way>
+
+</osm>

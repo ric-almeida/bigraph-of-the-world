@@ -1,0 +1,2246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T16:52:46Z" areas="2025-10-23T08:56:18Z"/>
+
+  <node id="60027080" lat="52.8567245" lon="-1.2299970" version="6" timestamp="2013-03-03T23:27:46Z" changeset="15241097" uid="207845" user="will_p"/>
+  <node id="246110778" lat="52.8352003" lon="-1.2552629" version="9" timestamp="2016-03-29T20:31:57Z" changeset="38152465" uid="207845" user="will_p"/>
+  <node id="246111004" lat="52.8354072" lon="-1.2595995" version="4" timestamp="2017-04-19T21:12:26Z" changeset="47952532" uid="207845" user="will_p"/>
+  <node id="246111014" lat="52.8394649" lon="-1.2673934" version="7" timestamp="2017-04-19T21:12:26Z" changeset="47952532" uid="207845" user="will_p"/>
+  <node id="252432525" lat="52.8401044" lon="-1.2686264" version="7" timestamp="2015-09-01T23:27:58Z" changeset="33740927" uid="207845" user="will_p"/>
+  <node id="252734809" lat="52.8352917" lon="-1.2579885" version="6" timestamp="2017-04-19T21:12:26Z" changeset="47952532" uid="207845" user="will_p"/>
+  <node id="326094286" lat="52.8476963" lon="-1.2637852" version="5" timestamp="2017-01-08T17:57:04Z" changeset="45007566" uid="207845" user="will_p"/>
+  <node id="1139086960" lat="52.8356485" lon="-1.2572085" version="3" timestamp="2017-04-19T21:12:27Z" changeset="47952532" uid="207845" user="will_p"/>
+  <node id="1519736806" lat="52.8492006" lon="-1.2323241" version="3" timestamp="2017-04-23T21:56:04Z" changeset="48073007" uid="207845" user="will_p"/>
+  <node id="1571944165" lat="52.8334027" lon="-1.2379080" version="2" timestamp="2016-09-24T23:20:27Z" changeset="42413691" uid="207845" user="will_p"/>
+  <node id="5007993055" lat="52.8647005" lon="-1.2407343" version="1" timestamp="2017-08-01T18:58:55Z" changeset="50759313" uid="5296090" user="TR42"/>
+  <way id="8031154" version="14" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="252431998"/>
+    <nd ref="3725470354"/>
+    <nd ref="252734532"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Station Road"/>
+  </way>
+  <way id="23315828" version="17" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="252432525"/>
+    <nd ref="3725470365"/>
+    <nd ref="3725470366"/>
+    <nd ref="3725470367"/>
+    <nd ref="252432526"/>
+    <tag k="HE_ref" v="1242068;1068673"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="Kegworth Bridge"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="source" v="OS_OpenData_StreetView"/>
+    <tag k="source:listed_status" v="Historic England"/>
+    <tag k="wikidata" v="Q26321371"/>
+  </way>
+  <way id="23315829" version="10" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="252432523"/>
+    <nd ref="654149481"/>
+    <nd ref="698850923"/>
+    <nd ref="252432525"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="source:name" v="OS OpenData Locator"/>
+  </way>
+  <way id="23315830" version="12" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="252431998"/>
+    <nd ref="252432523"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="bridge:name" v="Kingston Road Bridge"/>
+    <tag k="bridge:ref" v="45"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="source:bridge_name" v="survey"/>
+  </way>
+  <way id="23340268" version="11" timestamp="2017-04-19T21:12:37Z" changeset="47952532" uid="207845" user="will_p">
+    <nd ref="252734809"/>
+    <nd ref="1139087191"/>
+    <nd ref="246111003"/>
+    <nd ref="4804643777"/>
+    <nd ref="4804643770"/>
+    <nd ref="246111004"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Station Road"/>
+  </way>
+  <way id="23872588" version="19" timestamp="2024-01-19T19:32:09Z" changeset="146455440" uid="242345" user="confusedbuffalo">
+    <nd ref="634278082"/>
+    <nd ref="4796917065"/>
+    <nd ref="4804643785"/>
+    <nd ref="302027939"/>
+    <nd ref="4804644646"/>
+    <nd ref="4804644647"/>
+    <nd ref="4804644640"/>
+    <nd ref="634278088"/>
+    <nd ref="4804644650"/>
+    <nd ref="302027941"/>
+    <nd ref="302027942"/>
+    <nd ref="4804644649"/>
+    <nd ref="4804644648"/>
+    <nd ref="634278096"/>
+    <nd ref="4796916917"/>
+    <nd ref="1206805209"/>
+    <nd ref="302027943"/>
+    <nd ref="4391135891"/>
+    <nd ref="3126065529"/>
+    <nd ref="4391135892"/>
+    <nd ref="4391135893"/>
+    <nd ref="4391135894"/>
+    <nd ref="3865158553"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="29600002" version="13" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="252432006"/>
+    <nd ref="7157575825"/>
+    <nd ref="2391008225"/>
+    <nd ref="2391008226"/>
+    <nd ref="2391008227"/>
+    <nd ref="326094283"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Kegworth Road"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="32778982" version="10" timestamp="2017-02-15T16:23:07Z" changeset="46111061" uid="26599" user="cdavila">
+    <nd ref="252432007"/>
+    <nd ref="4384590985"/>
+    <nd ref="252432008"/>
+    <nd ref="4384590994"/>
+    <nd ref="4384590995"/>
+    <nd ref="4384590997"/>
+    <nd ref="4384590996"/>
+    <nd ref="693400998"/>
+    <nd ref="693400997"/>
+    <nd ref="4384590970"/>
+    <nd ref="252432009"/>
+    <nd ref="4384590939"/>
+    <nd ref="4384590938"/>
+    <nd ref="693401000"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Kegworth Road"/>
+  </way>
+  <way id="32779028" version="12" timestamp="2024-01-19T19:32:09Z" changeset="146455440" uid="242345" user="confusedbuffalo">
+    <nd ref="2086493077"/>
+    <nd ref="252434091"/>
+    <nd ref="4391137260"/>
+    <nd ref="4391137314"/>
+    <nd ref="252434092"/>
+    <nd ref="252434093"/>
+    <nd ref="4391137378"/>
+    <nd ref="252434094"/>
+    <nd ref="4812355732"/>
+    <nd ref="4812355731"/>
+    <nd ref="252434095"/>
+    <nd ref="252434096"/>
+    <nd ref="252434097"/>
+    <nd ref="4812355794"/>
+    <nd ref="4812355793"/>
+    <nd ref="252434098"/>
+    <nd ref="693871656"/>
+    <nd ref="252434099"/>
+    <nd ref="252434100"/>
+    <nd ref="252434101"/>
+    <nd ref="4812355795"/>
+    <nd ref="252434102"/>
+    <nd ref="7012724632"/>
+    <nd ref="252434103"/>
+    <nd ref="4812355796"/>
+    <nd ref="252434104"/>
+    <nd ref="252434105"/>
+    <nd ref="1055382238"/>
+    <nd ref="252434106"/>
+    <nd ref="1055382314"/>
+    <nd ref="252434107"/>
+    <nd ref="4812356416"/>
+    <nd ref="252434108"/>
+    <nd ref="4812356003"/>
+    <nd ref="4812356415"/>
+    <nd ref="4812356414"/>
+    <nd ref="252434109"/>
+    <nd ref="4812355989"/>
+    <nd ref="4812356004"/>
+    <nd ref="252434110"/>
+    <nd ref="4812356413"/>
+    <nd ref="252434111"/>
+    <nd ref="252434112"/>
+    <nd ref="4812356412"/>
+    <nd ref="4812356411"/>
+    <nd ref="4812356410"/>
+    <nd ref="252434113"/>
+    <nd ref="4812356409"/>
+    <nd ref="252434114"/>
+    <nd ref="252434115"/>
+    <nd ref="4812356408"/>
+    <nd ref="60027078"/>
+    <nd ref="3050686712"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Gotham Road"/>
+    <tag k="sidewalk" v="right"/>
+  </way>
+  <way id="55147953" version="4" timestamp="2016-09-07T23:20:13Z" changeset="41991497" uid="207845" user="will_p">
+    <nd ref="693400923"/>
+    <nd ref="2086493099"/>
+    <nd ref="4391135907"/>
+    <nd ref="693401013"/>
+    <nd ref="693401015"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Long Row"/>
+    <tag k="postal_code" v="NG11 0DA"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="55147965" version="2" timestamp="2016-09-04T23:10:02Z" changeset="41918458" uid="207845" user="will_p">
+    <nd ref="693400997"/>
+    <nd ref="693400996"/>
+    <nd ref="693400988"/>
+    <nd ref="693400991"/>
+    <nd ref="693400993"/>
+    <nd ref="4384590914"/>
+    <nd ref="693400995"/>
+    <tag k="access" v="private"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="St Winifreds Court"/>
+    <tag k="source" v="survey;OS_OpenData_StreetView"/>
+  </way>
+  <way id="55147967" version="3" timestamp="2016-09-07T23:20:15Z" changeset="41991497" uid="207845" user="will_p">
+    <nd ref="693401000"/>
+    <nd ref="4384590927"/>
+    <nd ref="4384590923"/>
+    <nd ref="4384590919"/>
+    <nd ref="693401023"/>
+    <nd ref="252432010"/>
+    <nd ref="693401015"/>
+    <nd ref="413648697"/>
+    <nd ref="4391135922"/>
+    <nd ref="4391135919"/>
+    <nd ref="4391135918"/>
+    <nd ref="252432011"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="The Green"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="55197497" version="9" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="60027065"/>
+    <nd ref="3050686716"/>
+    <nd ref="4812356399"/>
+    <nd ref="60027079"/>
+    <nd ref="4812356404"/>
+    <nd ref="2184713847"/>
+    <nd ref="693871677"/>
+    <nd ref="4812356403"/>
+    <nd ref="2184713872"/>
+    <nd ref="60027081"/>
+    <nd ref="693871682"/>
+    <nd ref="2184713897"/>
+    <nd ref="60027080"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Gotham Road"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="55197499" version="4" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812351296"/>
+    <nd ref="4812356350"/>
+    <nd ref="4812356345"/>
+    <nd ref="693871674"/>
+    <nd ref="693871666"/>
+    <nd ref="4812351295"/>
+    <nd ref="4812351296"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="98444730" version="5" timestamp="2017-04-19T21:12:37Z" changeset="47952532" uid="207845" user="will_p">
+    <nd ref="1139086960"/>
+    <nd ref="1139087014"/>
+    <nd ref="4804643983"/>
+    <nd ref="4743132768"/>
+    <nd ref="4743132791"/>
+    <nd ref="4804643964"/>
+    <nd ref="4804643965"/>
+    <nd ref="1139087054"/>
+    <nd ref="4743132754"/>
+    <nd ref="4804643982"/>
+    <nd ref="1139086686"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Chestnuts Close"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="98444772" version="9" timestamp="2025-08-18T10:56:30Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="60027065"/>
+    <nd ref="3050686714"/>
+    <nd ref="693871672"/>
+    <nd ref="2679422705"/>
+    <nd ref="2679422628"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="West Leake Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="104595427" version="4" timestamp="2022-07-17T19:42:32Z" changeset="123733309" uid="242345" user="confusedbuffalo">
+    <nd ref="1206787461"/>
+    <nd ref="1206787704"/>
+    <nd ref="1206787502"/>
+    <nd ref="1206787755"/>
+    <nd ref="1206787461"/>
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="DE74 2FS"/>
+    <tag k="addr:street" v="Kingston Lane"/>
+    <tag k="addr:village" v="Kegworth"/>
+    <tag k="building" v="residential"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="104595437" version="4" timestamp="2022-07-17T19:42:32Z" changeset="123733309" uid="242345" user="confusedbuffalo">
+    <nd ref="1206787339"/>
+    <nd ref="1206787571"/>
+    <nd ref="1206787549"/>
+    <nd ref="1206787583"/>
+    <nd ref="1206787339"/>
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="DE74 2FS"/>
+    <tag k="addr:street" v="Kingston Lane"/>
+    <tag k="addr:village" v="Kegworth"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Kegworth Marine"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="waterway" v="boatyard"/>
+  </way>
+  <way id="104595440" version="3" timestamp="2025-01-18T22:01:37Z" changeset="161507263" uid="8857" user="philipcullen">
+    <nd ref="1206787391"/>
+    <nd ref="1206787647"/>
+    <nd ref="1206787645"/>
+    <nd ref="1206787727"/>
+    <nd ref="1206787391"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="LE12 5RJ"/>
+    <tag k="addr:street" v="Chestnuts Close"/>
+    <tag k="building" v="detached"/>
+    <tag k="ref:GB:uprn" v="3040062956"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="104595442" version="4" timestamp="2025-01-18T22:01:37Z" changeset="161507263" uid="8857" user="philipcullen">
+    <nd ref="4804643879"/>
+    <nd ref="1206787294"/>
+    <nd ref="1206787565"/>
+    <nd ref="4804643966"/>
+    <nd ref="1206787522"/>
+    <nd ref="1206787690"/>
+    <nd ref="1206787291"/>
+    <nd ref="4804643878"/>
+    <nd ref="4804643879"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="LE12 5RJ"/>
+    <tag k="addr:street" v="Chestnuts Close"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="ref:GB:uprn" v="3040063574"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="104595449" version="3" timestamp="2025-01-18T22:01:37Z" changeset="161507263" uid="8857" user="philipcullen">
+    <nd ref="1206787475"/>
+    <nd ref="1206787688"/>
+    <nd ref="1206787428"/>
+    <nd ref="1206787415"/>
+    <nd ref="1206787456"/>
+    <nd ref="1206787426"/>
+    <nd ref="1206787453"/>
+    <nd ref="1206787337"/>
+    <nd ref="1206787475"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="LE12 5RJ"/>
+    <tag k="addr:street" v="Chestnuts Close"/>
+    <tag k="building" v="detached"/>
+    <tag k="ref:GB:uprn" v="3040047466"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="104595451" version="4" timestamp="2022-07-17T19:42:32Z" changeset="123733309" uid="242345" user="confusedbuffalo">
+    <nd ref="1206787649"/>
+    <nd ref="1206787574"/>
+    <nd ref="1206787459"/>
+    <nd ref="1206787343"/>
+    <nd ref="1206787649"/>
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="DE74 2FS"/>
+    <tag k="addr:street" v="Kingston Lane"/>
+    <tag k="addr:village" v="Kegworth"/>
+    <tag k="building" v="chalet"/>
+    <tag k="source:addr:housenumber" v="interpolation"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="104595472" version="3" timestamp="2022-02-26T13:34:01Z" changeset="117879080" uid="242345" user="confusedbuffalo">
+    <nd ref="1206787440"/>
+    <nd ref="4804643803"/>
+    <nd ref="4804643802"/>
+    <nd ref="1206787592"/>
+    <nd ref="1206787440"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="LE12 5RY"/>
+    <tag k="addr:street" v="Old Bull Farm Close"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="129119573" version="5" timestamp="2020-01-24T22:54:45Z" changeset="80054659" uid="207845" user="will_p">
+    <nd ref="326094286"/>
+    <nd ref="326094289"/>
+    <nd ref="2391008229"/>
+    <nd ref="2391008230"/>
+    <nd ref="4596744870"/>
+    <nd ref="2391008231"/>
+    <nd ref="326094293"/>
+    <nd ref="4596744869"/>
+    <nd ref="4596744834"/>
+    <nd ref="4596744813"/>
+    <nd ref="4596744842"/>
+    <nd ref="326094296"/>
+    <nd ref="4596744841"/>
+    <nd ref="693400929"/>
+    <nd ref="4596744840"/>
+    <nd ref="326094300"/>
+    <nd ref="4596744793"/>
+    <nd ref="4596744792"/>
+    <nd ref="4596744790"/>
+    <nd ref="326094301"/>
+    <nd ref="4596744867"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Kegworth Road"/>
+    <tag k="sidewalk" v="no"/>
+  </way>
+  <way id="129119574" version="4" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="326094283"/>
+    <nd ref="1425187090"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Kegworth Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="138594319" version="1" timestamp="2011-11-27T15:56:48Z" changeset="9968467" uid="207845" user="will_p">
+    <nd ref="1519736500"/>
+    <nd ref="1519736498"/>
+    <nd ref="1519736535"/>
+    <nd ref="1519736531"/>
+    <nd ref="1519736549"/>
+    <nd ref="1519736551"/>
+    <nd ref="1519736589"/>
+    <nd ref="1519736588"/>
+    <nd ref="1519736633"/>
+    <nd ref="1519736636"/>
+    <nd ref="1519736597"/>
+    <nd ref="1519736623"/>
+    <nd ref="1519736582"/>
+    <nd ref="1519736585"/>
+    <nd ref="1519736641"/>
+    <nd ref="1519736643"/>
+    <nd ref="1519736552"/>
+    <nd ref="1519736574"/>
+    <nd ref="1519736547"/>
+    <nd ref="1519736545"/>
+    <nd ref="1519736449"/>
+    <nd ref="1519736447"/>
+    <nd ref="1519736541"/>
+    <nd ref="1519736538"/>
+    <nd ref="1519736500"/>
+    <tag k="building" v="residential"/>
+    <tag k="name" v="Kingston Court"/>
+  </way>
+  <way id="138594324" version="7" timestamp="2025-08-18T10:56:34Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="1519736806"/>
+    <nd ref="307878708"/>
+    <nd ref="4812356551"/>
+    <nd ref="1519736753"/>
+    <nd ref="4812356552"/>
+    <nd ref="1368228613"/>
+    <nd ref="4812351283"/>
+    <nd ref="307878709"/>
+    <nd ref="4812351282"/>
+    <nd ref="1519736465"/>
+    <nd ref="1519736390"/>
+    <nd ref="307878710"/>
+    <nd ref="4812355525"/>
+    <nd ref="1139086702"/>
+    <nd ref="307878711"/>
+    <nd ref="1519736385"/>
+    <nd ref="307878712"/>
+    <nd ref="4812356560"/>
+    <nd ref="1519736358"/>
+    <nd ref="1519736354"/>
+    <nd ref="4812356561"/>
+    <nd ref="1416480574"/>
+    <nd ref="4812356562"/>
+    <nd ref="4797401136"/>
+    <nd ref="1416480554"/>
+    <nd ref="1416480548"/>
+    <nd ref="4812356563"/>
+    <nd ref="4812356564"/>
+    <nd ref="307878713"/>
+    <nd ref="4812356565"/>
+    <nd ref="307878714"/>
+    <nd ref="1416480541"/>
+    <nd ref="4812356566"/>
+    <nd ref="1416480540"/>
+    <nd ref="307878715"/>
+    <nd ref="1416480535"/>
+    <nd ref="4812356567"/>
+    <nd ref="1416480532"/>
+    <nd ref="307878716"/>
+    <nd ref="1416480529"/>
+    <nd ref="1416480527"/>
+    <nd ref="1139087500"/>
+    <nd ref="1139086627"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="West Leake Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="143645163" version="7" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="252734532"/>
+    <nd ref="698850927"/>
+    <nd ref="252431999"/>
+    <nd ref="252432518"/>
+    <nd ref="252432519"/>
+    <nd ref="252432000"/>
+    <nd ref="252432520"/>
+    <nd ref="252432521"/>
+    <nd ref="4753749129"/>
+    <nd ref="4753749130"/>
+    <nd ref="252432002"/>
+    <nd ref="4804644677"/>
+    <nd ref="252432003"/>
+    <nd ref="252432004"/>
+    <nd ref="1206787670"/>
+    <nd ref="252432005"/>
+    <nd ref="2391008223"/>
+    <nd ref="252432006"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Kingston Lane"/>
+    <tag k="sidewalk" v="left"/>
+  </way>
+  <way id="143645164" version="6" timestamp="2020-01-24T22:54:45Z" changeset="80054659" uid="207845" user="will_p">
+    <nd ref="246111004"/>
+    <nd ref="4804643896"/>
+    <nd ref="4804643897"/>
+    <nd ref="252735720"/>
+    <nd ref="4804643892"/>
+    <nd ref="246111005"/>
+    <nd ref="4804643895"/>
+    <nd ref="634271992"/>
+    <nd ref="4804643894"/>
+    <nd ref="246111006"/>
+    <nd ref="698850993"/>
+    <nd ref="246111008"/>
+    <nd ref="4804643893"/>
+    <nd ref="252735721"/>
+    <nd ref="698850997"/>
+    <nd ref="698850998"/>
+    <nd ref="252735722"/>
+    <nd ref="246111009"/>
+    <nd ref="698850884"/>
+    <nd ref="246111010"/>
+    <nd ref="698850886"/>
+    <nd ref="634272010"/>
+    <nd ref="246111011"/>
+    <nd ref="634272032"/>
+    <nd ref="246111012"/>
+    <nd ref="246111013"/>
+    <nd ref="698850938"/>
+    <nd ref="246111014"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="sidewalk" v="right"/>
+  </way>
+  <way id="143645201" version="7" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="1571944165"/>
+    <nd ref="4416943596"/>
+    <nd ref="258726292"/>
+    <nd ref="1416392288"/>
+    <nd ref="1711504683"/>
+    <nd ref="4797401065"/>
+    <nd ref="1075941647"/>
+    <nd ref="4416943604"/>
+    <nd ref="258726290"/>
+    <nd ref="1651279071"/>
+    <nd ref="1416392295"/>
+    <nd ref="258726289"/>
+    <nd ref="4797401090"/>
+    <nd ref="1416392308"/>
+    <nd ref="1416392310"/>
+    <nd ref="258726288"/>
+    <nd ref="1416392319"/>
+    <nd ref="258726287"/>
+    <nd ref="258726286"/>
+    <nd ref="1416392316"/>
+    <nd ref="1416392313"/>
+    <nd ref="258726285"/>
+    <nd ref="712747906"/>
+    <nd ref="1416392303"/>
+    <nd ref="258726284"/>
+    <nd ref="4085582342"/>
+    <nd ref="4085582339"/>
+    <nd ref="258726283"/>
+    <nd ref="4085582332"/>
+    <nd ref="258726282"/>
+    <nd ref="258726281"/>
+    <nd ref="4085582322"/>
+    <nd ref="4085582323"/>
+    <nd ref="246110776"/>
+    <nd ref="1571942701"/>
+    <nd ref="246110777"/>
+    <nd ref="4416943606"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="horse" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Melton Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="198521621" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493134"/>
+    <nd ref="4384591018"/>
+    <nd ref="4384591008"/>
+    <nd ref="2086492981"/>
+    <nd ref="2086493134"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521622" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493161"/>
+    <nd ref="4391137204"/>
+    <nd ref="2086493052"/>
+    <nd ref="2086493181"/>
+    <nd ref="2086493143"/>
+    <nd ref="2086493161"/>
+    <tag k="HE_ref" v="1242106"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="198521623" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493167"/>
+    <nd ref="2086492962"/>
+    <nd ref="2086492973"/>
+    <nd ref="4384590976"/>
+    <nd ref="4384590975"/>
+    <nd ref="4384590979"/>
+    <nd ref="4384590980"/>
+    <nd ref="2086493050"/>
+    <nd ref="2086493167"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521624" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493165"/>
+    <nd ref="2086493028"/>
+    <nd ref="4384590961"/>
+    <nd ref="2086493040"/>
+    <nd ref="4384590959"/>
+    <nd ref="2086493159"/>
+    <nd ref="2086493063"/>
+    <nd ref="2086493132"/>
+    <nd ref="2086493165"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521625" version="6" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086492947"/>
+    <nd ref="4384590887"/>
+    <nd ref="4384590888"/>
+    <nd ref="4384590889"/>
+    <nd ref="4384590883"/>
+    <nd ref="4384590884"/>
+    <nd ref="2086492966"/>
+    <nd ref="2086493153"/>
+    <nd ref="2086493014"/>
+    <nd ref="4384590898"/>
+    <nd ref="2086492947"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="building" v="public"/>
+    <tag k="community_centre" v="village_hall"/>
+    <tag k="name" v="Kingston on Soar Village Hall"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="198521626" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493022"/>
+    <nd ref="2086492971"/>
+    <nd ref="2086493006"/>
+    <nd ref="2086493008"/>
+    <nd ref="2086493022"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Meadowside"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521627" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493081"/>
+    <nd ref="4384590944"/>
+    <nd ref="2086492964"/>
+    <nd ref="2086493075"/>
+    <nd ref="2086493131"/>
+    <nd ref="2086493157"/>
+    <nd ref="4384590956"/>
+    <nd ref="4384590962"/>
+    <nd ref="4384590964"/>
+    <nd ref="4384590958"/>
+    <nd ref="2086493114"/>
+    <nd ref="2086493081"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521629" version="5" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391135906"/>
+    <nd ref="4391135912"/>
+    <nd ref="4384590845"/>
+    <nd ref="4384590841"/>
+    <nd ref="4384590829"/>
+    <nd ref="4384590833"/>
+    <nd ref="4384590819"/>
+    <nd ref="4391135906"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="NG11 0LR"/>
+    <tag k="addr:street" v="Long Row"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:housenumber" v="interpolation"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521630" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086492992"/>
+    <nd ref="4384591006"/>
+    <nd ref="4384590988"/>
+    <nd ref="2086493038"/>
+    <nd ref="4384590993"/>
+    <nd ref="4384590991"/>
+    <nd ref="4384591000"/>
+    <nd ref="4384591004"/>
+    <nd ref="2086492992"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521635" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493011"/>
+    <nd ref="2086493137"/>
+    <nd ref="2086493032"/>
+    <nd ref="4384590984"/>
+    <nd ref="4384590987"/>
+    <nd ref="2086493005"/>
+    <nd ref="2086493011"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521636" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493141"/>
+    <nd ref="4391137239"/>
+    <nd ref="2086493106"/>
+    <nd ref="2086493195"/>
+    <nd ref="2086493097"/>
+    <nd ref="2086493141"/>
+    <tag k="HE_ref" v="1242064"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="198521637" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493206"/>
+    <nd ref="4384590978"/>
+    <nd ref="4384590979"/>
+    <nd ref="4384590975"/>
+    <nd ref="4384590974"/>
+    <nd ref="2086493012"/>
+    <nd ref="4384590971"/>
+    <nd ref="4384590969"/>
+    <nd ref="2086493034"/>
+    <nd ref="2086493151"/>
+    <nd ref="2086493206"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521638" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086492977"/>
+    <nd ref="4384591010"/>
+    <nd ref="4384591001"/>
+    <nd ref="2086493123"/>
+    <nd ref="2086492977"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521640" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391137227"/>
+    <nd ref="4391137236"/>
+    <nd ref="4391137228"/>
+    <nd ref="4391137218"/>
+    <nd ref="4391137216"/>
+    <nd ref="4391137221"/>
+    <nd ref="4391137227"/>
+    <tag k="HE_ref" v="1260209"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="11; 15; 17"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="198521641" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493030"/>
+    <nd ref="2086492946"/>
+    <nd ref="2086493196"/>
+    <nd ref="2086493112"/>
+    <nd ref="4384590910"/>
+    <nd ref="4384590897"/>
+    <nd ref="2086493030"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="198521642" version="7" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086492957"/>
+    <nd ref="2086493069"/>
+    <nd ref="2086493068"/>
+    <nd ref="2086493009"/>
+    <nd ref="4391137214"/>
+    <nd ref="4391137215"/>
+    <nd ref="4391137207"/>
+    <nd ref="4391137208"/>
+    <nd ref="2086493129"/>
+    <nd ref="2086493183"/>
+    <nd ref="2086493193"/>
+    <nd ref="390326635"/>
+    <nd ref="2086493085"/>
+    <nd ref="2086493046"/>
+    <nd ref="2086493093"/>
+    <nd ref="2086492951"/>
+    <nd ref="2086493190"/>
+    <nd ref="2086492957"/>
+    <tag k="HE_ref" v="1242066"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="listed_status" v="Grade I"/>
+    <tag k="name" v="St Winifred's Church"/>
+    <tag k="ref:dove" v="16731"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:listed_status" v="Historic England"/>
+    <tag k="wikidata" v="Q7592162"/>
+    <tag k="wikipedia" v="en:St Winifred's Church, Kingston on Soar"/>
+  </way>
+  <way id="208149836" version="5" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="60027080"/>
+    <nd ref="2184713917"/>
+    <nd ref="60027083"/>
+    <nd ref="60027082"/>
+    <nd ref="7015755854"/>
+    <nd ref="7015755853"/>
+    <nd ref="60027084"/>
+    <nd ref="60027085"/>
+    <nd ref="7015755878"/>
+    <nd ref="7015755877"/>
+    <nd ref="7015755876"/>
+    <nd ref="693871684"/>
+    <nd ref="7015755875"/>
+    <nd ref="60027086"/>
+    <nd ref="7015755874"/>
+    <nd ref="7015755801"/>
+    <nd ref="706724839"/>
+    <nd ref="7015755873"/>
+    <nd ref="60027087"/>
+    <nd ref="7015755759"/>
+    <nd ref="7015755872"/>
+    <nd ref="7015755802"/>
+    <nd ref="3124565002"/>
+    <nd ref="60027088"/>
+    <nd ref="706724840"/>
+    <nd ref="7015755838"/>
+    <nd ref="60027089"/>
+    <nd ref="7015755760"/>
+    <nd ref="706724844"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Kegworth Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS Open Data;websites of businesses along road"/>
+  </way>
+  <way id="262279937" version="4" timestamp="2025-08-18T10:56:34Z" changeset="170609750" uid="21990187" user="MarkoŠatrak">
+    <nd ref="2679422628"/>
+    <nd ref="307878703"/>
+    <nd ref="307878704"/>
+    <nd ref="693871660"/>
+    <nd ref="1519736960"/>
+    <nd ref="4812356185"/>
+    <nd ref="307878705"/>
+    <nd ref="4812356192"/>
+    <nd ref="1519736917"/>
+    <nd ref="1368228582"/>
+    <nd ref="4812356193"/>
+    <nd ref="1519736909"/>
+    <nd ref="307878706"/>
+    <nd ref="307878707"/>
+    <nd ref="1519736860"/>
+    <nd ref="1519736847"/>
+    <nd ref="4812356200"/>
+    <nd ref="1368228606"/>
+    <nd ref="4812356201"/>
+    <nd ref="2679422676"/>
+    <nd ref="1519736815"/>
+    <nd ref="4812351290"/>
+    <nd ref="1519736806"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="maxweightrating:hgv:conditional" v="none @ destination"/>
+    <tag k="name" v="West Leake Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="440681144" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590906"/>
+    <nd ref="4384590926"/>
+    <nd ref="4384590932"/>
+    <nd ref="4384590916"/>
+    <nd ref="4384590906"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Foremans Cottage"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="fixme" v="Address location not certain"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681145" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590963"/>
+    <nd ref="4384590965"/>
+    <nd ref="4384590973"/>
+    <nd ref="4384590972"/>
+    <nd ref="4384590963"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Greenway"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681147" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493081"/>
+    <nd ref="2086493073"/>
+    <nd ref="2086493036"/>
+    <nd ref="2086493102"/>
+    <nd ref="2086492953"/>
+    <nd ref="4384590944"/>
+    <nd ref="2086493081"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="The Brindles"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681149" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590894"/>
+    <nd ref="4384590903"/>
+    <nd ref="4384590912"/>
+    <nd ref="4384590918"/>
+    <nd ref="4384590929"/>
+    <nd ref="4384590920"/>
+    <nd ref="4384590894"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="NG11 0DQ"/>
+    <tag k="addr:street" v="St Winifreds Court"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681150" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590998"/>
+    <nd ref="4384590981"/>
+    <nd ref="4384590977"/>
+    <nd ref="4384591003"/>
+    <nd ref="4384591005"/>
+    <nd ref="4384590992"/>
+    <nd ref="4384590998"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681151" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590936"/>
+    <nd ref="4384590942"/>
+    <nd ref="4384590968"/>
+    <nd ref="4384590966"/>
+    <nd ref="4384590955"/>
+    <nd ref="4384590953"/>
+    <nd ref="4384590936"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="NG11 0DQ"/>
+    <tag k="addr:street" v="St Winifreds Court"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681152" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384591006"/>
+    <nd ref="2086493121"/>
+    <nd ref="2086493139"/>
+    <nd ref="4384590988"/>
+    <nd ref="4384591006"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681153" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384591010"/>
+    <nd ref="2086493048"/>
+    <nd ref="2086493130"/>
+    <nd ref="4384591001"/>
+    <nd ref="4384591010"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681154" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590825"/>
+    <nd ref="4384590796"/>
+    <nd ref="4384590793"/>
+    <nd ref="4384589988"/>
+    <nd ref="4384589986"/>
+    <nd ref="4384590838"/>
+    <nd ref="4384590839"/>
+    <nd ref="4384590840"/>
+    <nd ref="4384590823"/>
+    <nd ref="4384590825"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="NG11 0DQ"/>
+    <tag k="addr:street" v="St Winifreds Court"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681155" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384591018"/>
+    <nd ref="2086493026"/>
+    <nd ref="2086493135"/>
+    <nd ref="4384591008"/>
+    <nd ref="4384591018"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="NG11 0DB"/>
+    <tag k="addr:street" v="Kegworth Road"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681156" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590892"/>
+    <nd ref="4384590900"/>
+    <nd ref="4384590935"/>
+    <nd ref="4384590930"/>
+    <nd ref="4384590922"/>
+    <nd ref="4384590924"/>
+    <nd ref="4384590892"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="NG11 0DQ"/>
+    <tag k="addr:street" v="St Winifreds Court"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681157" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590799"/>
+    <nd ref="4384589985"/>
+    <nd ref="4384589982"/>
+    <nd ref="4384590827"/>
+    <nd ref="4384590831"/>
+    <nd ref="4384590801"/>
+    <nd ref="4384590799"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="NG11 0DQ"/>
+    <tag k="addr:street" v="St Winifreds Court"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681158" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590807"/>
+    <nd ref="4384590810"/>
+    <nd ref="4384590852"/>
+    <nd ref="4384590849"/>
+    <nd ref="4384590836"/>
+    <nd ref="4384590835"/>
+    <nd ref="4384590812"/>
+    <nd ref="4384590813"/>
+    <nd ref="4384590807"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="NG11 0DQ"/>
+    <tag k="addr:street" v="St Winifreds Court"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="440681161" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590869"/>
+    <nd ref="693400995"/>
+    <nd ref="4384590879"/>
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="St Winifreds Court"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="441351764" version="1" timestamp="2016-09-07T23:20:05Z" changeset="41991497" uid="207845" user="will_p">
+    <nd ref="634278218"/>
+    <nd ref="252434090"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Gotham Road"/>
+  </way>
+  <way id="441351765" version="1" timestamp="2016-09-07T23:20:05Z" changeset="41991497" uid="207845" user="will_p">
+    <nd ref="252434090"/>
+    <nd ref="2086493077"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Gotham Road"/>
+  </way>
+  <way id="441351766" version="1" timestamp="2016-09-07T23:20:05Z" changeset="41991497" uid="207845" user="will_p">
+    <nd ref="252432011"/>
+    <nd ref="4391135921"/>
+    <nd ref="2086493070"/>
+    <nd ref="4391135933"/>
+    <nd ref="4391135938"/>
+    <nd ref="4391135948"/>
+    <nd ref="634278218"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Gotham Road"/>
+  </way>
+  <way id="441351767" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391135902"/>
+    <nd ref="4391135906"/>
+    <nd ref="4384590819"/>
+    <nd ref="4384590816"/>
+    <nd ref="4384590808"/>
+    <nd ref="4384590817"/>
+    <nd ref="4384590798"/>
+    <nd ref="4391135902"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="April Cottage"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="NG11 0LR"/>
+    <tag k="addr:street" v="Long Row"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="441351768" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590845"/>
+    <nd ref="4391135912"/>
+    <nd ref="4391135920"/>
+    <nd ref="4384590866"/>
+    <nd ref="4384590859"/>
+    <nd ref="4384590847"/>
+    <nd ref="4384590858"/>
+    <nd ref="4384590845"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Cherry Tree Cottage"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="NG11 0LR"/>
+    <tag k="addr:street" v="Long Row"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="441351771" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391135920"/>
+    <nd ref="2086493079"/>
+    <nd ref="2086493071"/>
+    <nd ref="4384590880"/>
+    <nd ref="4384590890"/>
+    <nd ref="4384590866"/>
+    <nd ref="4391135920"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="NG11 0LR"/>
+    <tag k="addr:street" v="Long Row"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="441351772" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391137227"/>
+    <nd ref="2086493067"/>
+    <nd ref="2086493083"/>
+    <nd ref="4391137236"/>
+    <nd ref="4391137227"/>
+    <tag k="HE_ref" v="1260209"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="441351773" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391137239"/>
+    <nd ref="2086493141"/>
+    <nd ref="4391137225"/>
+    <nd ref="4391137233"/>
+    <nd ref="4391137239"/>
+    <tag k="HE_ref" v="1242064"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="441351774" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2086493149"/>
+    <nd ref="4391137229"/>
+    <nd ref="4391137234"/>
+    <nd ref="4391137237"/>
+    <nd ref="4391137231"/>
+    <nd ref="4391137233"/>
+    <nd ref="4391137225"/>
+    <nd ref="2086493149"/>
+    <tag k="HE_ref" v="1242064"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:housenumber" v="interpolation"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="441351775" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391137229"/>
+    <nd ref="2086493149"/>
+    <nd ref="2086493198"/>
+    <nd ref="2086493018"/>
+    <nd ref="2086493065"/>
+    <nd ref="4391137229"/>
+    <tag k="HE_ref" v="1242064"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="441351776" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391137203"/>
+    <nd ref="4391137206"/>
+    <nd ref="4391137204"/>
+    <nd ref="2086493161"/>
+    <nd ref="4391137203"/>
+    <tag k="HE_ref" v="1242106"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="441351777" version="3" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4384590798"/>
+    <nd ref="4391135902"/>
+    <nd ref="2086492988"/>
+    <nd ref="2086492968"/>
+    <nd ref="4384590791"/>
+    <nd ref="4384589983"/>
+    <nd ref="4384590790"/>
+    <nd ref="4384590798"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="NG11 0LR"/>
+    <tag k="addr:street" v="Long Row"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+  </way>
+  <way id="441351778" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391137203"/>
+    <nd ref="2086493192"/>
+    <nd ref="4391137213"/>
+    <nd ref="4391137206"/>
+    <nd ref="4391137203"/>
+    <tag k="HE_ref" v="1242106"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="441351779" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391137213"/>
+    <nd ref="2086493192"/>
+    <nd ref="2086493024"/>
+    <nd ref="2086493089"/>
+    <nd ref="2086492949"/>
+    <nd ref="4391137213"/>
+    <tag k="HE_ref" v="1242106"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="441351780" version="2" timestamp="2025-03-12T08:53:03Z" changeset="163517655" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4391137218"/>
+    <nd ref="4391137228"/>
+    <nd ref="2086493184"/>
+    <nd ref="2086493191"/>
+    <nd ref="4391137218"/>
+    <tag k="HE_ref" v="1260209"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="NG11 0DA"/>
+    <tag k="addr:street" v="The Green"/>
+    <tag k="addr:suburb" v="Kingston on Soar"/>
+    <tag k="building" v="residential"/>
+    <tag k="listed_status" v="Grade II"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+    <tag k="source:building" v="Bing"/>
+    <tag k="source:listed_status" v="Historic England"/>
+  </way>
+  <way id="441351781" version="3" timestamp="2019-12-03T00:32:19Z" changeset="77846520" uid="207845" user="will_p">
+    <nd ref="3865158553"/>
+    <nd ref="634278111"/>
+    <nd ref="302027945"/>
+    <nd ref="7027454829"/>
+    <nd ref="693400923"/>
+    <nd ref="4872024555"/>
+    <nd ref="634278117"/>
+    <nd ref="252432011"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="444207721" version="4" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="246111014"/>
+    <nd ref="252734530"/>
+    <nd ref="252734531"/>
+    <nd ref="252734517"/>
+    <nd ref="5064588691"/>
+    <nd ref="252734532"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="sidewalk" v="right"/>
+  </way>
+  <way id="464579874" version="2" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="1425187090"/>
+    <nd ref="2391008228"/>
+    <nd ref="326094286"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Kegworth Road"/>
+  </way>
+  <way id="474853817" version="2" timestamp="2020-01-24T22:54:45Z" changeset="80054659" uid="207845" user="will_p">
+    <nd ref="2391008224"/>
+    <nd ref="7157575824"/>
+    <nd ref="252432007"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxheight" v="3.8"/>
+    <tag k="maxheight:imperial" v="12'6&quot;"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Kegworth Road"/>
+  </way>
+  <way id="474853818" version="1" timestamp="2017-02-15T16:23:05Z" changeset="46111061" uid="26599" user="cdavila">
+    <nd ref="252432006"/>
+    <nd ref="1425187089"/>
+    <nd ref="2391008224"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Kegworth Road"/>
+  </way>
+  <way id="488110715" version="2" timestamp="2022-07-16T17:13:49Z" changeset="123696580" uid="242345" user="confusedbuffalo">
+    <nd ref="4804643743"/>
+    <nd ref="4804643742"/>
+    <nd ref="1206787315"/>
+    <nd ref="1206787359"/>
+    <nd ref="4804643929"/>
+    <nd ref="4804643928"/>
+    <nd ref="4804643922"/>
+    <nd ref="4804643923"/>
+    <nd ref="4804643743"/>
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="Unit 5"/>
+    <tag k="addr:postcode" v="DE74 2GE"/>
+    <tag k="addr:street" v="Station Terrace"/>
+    <tag k="building" v="industrial"/>
+    <tag k="fixme" v="Check location"/>
+    <tag k="name" v="Station Tyres &amp; Service Centre"/>
+    <tag k="shop" v="car_repair"/>
+    <tag k="source:addr" v="website"/>
+    <tag k="website" v="http://www.stationtyres.co.uk/"/>
+  </way>
+  <way id="488110718" version="5" timestamp="2025-01-18T22:01:37Z" changeset="161507263" uid="8857" user="philipcullen">
+    <nd ref="4804643767"/>
+    <nd ref="4820084595"/>
+    <nd ref="4804643782"/>
+    <nd ref="4804643766"/>
+    <nd ref="4804643767"/>
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="DE74 2GW"/>
+    <tag k="addr:street" v="The Sidings"/>
+    <tag k="addr:village" v="Kegworth"/>
+    <tag k="building" v="detached"/>
+    <tag k="ref:GB:uprn" v="3040079280"/>
+  </way>
+  <way id="488110719" version="5" timestamp="2025-01-18T22:01:37Z" changeset="161507263" uid="8857" user="philipcullen">
+    <nd ref="4804643769"/>
+    <nd ref="4804643781"/>
+    <nd ref="4804643780"/>
+    <nd ref="4804643768"/>
+    <nd ref="4804643769"/>
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="DE74 2GW"/>
+    <tag k="addr:street" v="The Sidings"/>
+    <tag k="addr:village" v="Kegworth"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="ref:GB:uprn" v="3040079281"/>
+  </way>
+  <way id="488110723" version="5" timestamp="2025-01-18T22:01:37Z" changeset="161507263" uid="8857" user="philipcullen">
+    <nd ref="4804643778"/>
+    <nd ref="4804643769"/>
+    <nd ref="4804643768"/>
+    <nd ref="4804643779"/>
+    <nd ref="4804643778"/>
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="DE74 2GW"/>
+    <tag k="addr:street" v="The Sidings"/>
+    <tag k="addr:village" v="Kegworth"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="ref:GB:uprn" v="3040079282"/>
+  </way>
+  <way id="488110735" version="2" timestamp="2022-02-26T13:34:01Z" changeset="117879080" uid="242345" user="confusedbuffalo">
+    <nd ref="4804643803"/>
+    <nd ref="1206787594"/>
+    <nd ref="1206787556"/>
+    <nd ref="4804643802"/>
+    <nd ref="4804643803"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="LE12 5RY"/>
+    <tag k="addr:street" v="Old Bull Farm Close"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="fixme" v="Number not confirmed"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488110737" version="2" timestamp="2022-02-26T13:34:01Z" changeset="117879080" uid="242345" user="confusedbuffalo">
+    <nd ref="4804643805"/>
+    <nd ref="4804643989"/>
+    <nd ref="4804643988"/>
+    <nd ref="4804643804"/>
+    <nd ref="4804643805"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="LE12 5RY"/>
+    <tag k="addr:street" v="Old Bull Farm Close"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488110750" version="3" timestamp="2025-01-18T22:01:37Z" changeset="161507263" uid="8857" user="philipcullen">
+    <nd ref="4804643881"/>
+    <nd ref="4804643880"/>
+    <nd ref="4804643980"/>
+    <nd ref="4804643979"/>
+    <nd ref="4804643978"/>
+    <nd ref="4804643977"/>
+    <nd ref="4804643976"/>
+    <nd ref="4804643975"/>
+    <nd ref="4804643881"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="LE12 5RJ"/>
+    <tag k="addr:street" v="Chestnuts Close"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="ref:GB:uprn" v="3040063570"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488110753" version="2" timestamp="2022-02-26T13:34:01Z" changeset="117879080" uid="242345" user="confusedbuffalo">
+    <nd ref="4804643878"/>
+    <nd ref="1206787710"/>
+    <nd ref="1206787709"/>
+    <nd ref="4804643969"/>
+    <nd ref="4804643968"/>
+    <nd ref="4804643967"/>
+    <nd ref="1206787314"/>
+    <nd ref="4804643879"/>
+    <nd ref="4804643878"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="LE12 5RJ"/>
+    <tag k="addr:street" v="Chestnuts Close"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488110756" version="3" timestamp="2025-01-18T22:01:37Z" changeset="161507263" uid="8857" user="philipcullen">
+    <nd ref="4804643881"/>
+    <nd ref="4804643880"/>
+    <nd ref="4804643981"/>
+    <nd ref="4804643970"/>
+    <nd ref="4804643971"/>
+    <nd ref="4804643972"/>
+    <nd ref="4804643973"/>
+    <nd ref="4804643974"/>
+    <nd ref="4804643881"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="LE12 5RJ"/>
+    <tag k="addr:street" v="Chestnuts Close"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="ref:GB:uprn" v="3040063467"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488110764" version="2" timestamp="2022-02-26T13:34:01Z" changeset="117879080" uid="242345" user="confusedbuffalo">
+    <nd ref="4804643986"/>
+    <nd ref="4804643805"/>
+    <nd ref="4804643804"/>
+    <nd ref="4804643987"/>
+    <nd ref="4804643986"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="LE12 5RY"/>
+    <tag k="addr:street" v="Old Bull Farm Close"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="fixme" v="Number not confirmed"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488110827" version="2" timestamp="2017-10-07T12:36:38Z" changeset="52706962" uid="84681" user="SK53">
+    <nd ref="246110778"/>
+    <nd ref="4085582347"/>
+    <nd ref="5153474230"/>
+    <nd ref="1139087124"/>
+    <nd ref="4085582348"/>
+    <nd ref="246110624"/>
+    <nd ref="4085582349"/>
+    <nd ref="4085582350"/>
+    <nd ref="246110625"/>
+    <nd ref="4085582351"/>
+    <nd ref="4085582352"/>
+    <nd ref="1367977042"/>
+    <nd ref="4085582353"/>
+    <nd ref="634278082"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Station Road"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="488110835" version="3" timestamp="2022-07-17T19:42:35Z" changeset="123733309" uid="242345" user="confusedbuffalo">
+    <nd ref="4804644685"/>
+    <nd ref="4804644684"/>
+    <nd ref="4804644683"/>
+    <nd ref="4804644682"/>
+    <nd ref="4804644685"/>
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="DE74 2FS"/>
+    <tag k="addr:street" v="Kingston Lane"/>
+    <tag k="addr:village" v="Kegworth"/>
+    <tag k="building" v="chalet"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488110836" version="3" timestamp="2022-07-17T19:42:35Z" changeset="123733309" uid="242345" user="confusedbuffalo">
+    <nd ref="4804644689"/>
+    <nd ref="4804644688"/>
+    <nd ref="4804644687"/>
+    <nd ref="4804644686"/>
+    <nd ref="4804644689"/>
+    <tag k="addr:city" v="Derby"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="DE74 2FS"/>
+    <tag k="addr:street" v="Kingston Lane"/>
+    <tag k="addr:village" v="Kegworth"/>
+    <tag k="building" v="residential"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948639" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812351295"/>
+    <nd ref="4812356346"/>
+    <nd ref="4812356347"/>
+    <nd ref="4812356348"/>
+    <nd ref="4812356349"/>
+    <nd ref="4812351296"/>
+    <nd ref="4812351295"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948732" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356134"/>
+    <nd ref="4812356132"/>
+    <nd ref="4812356131"/>
+    <nd ref="4812356130"/>
+    <nd ref="4812356129"/>
+    <nd ref="4812356128"/>
+    <nd ref="4812356127"/>
+    <nd ref="4812356133"/>
+    <nd ref="4812356134"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948733" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356142"/>
+    <nd ref="4812356137"/>
+    <nd ref="4812356136"/>
+    <nd ref="4812356135"/>
+    <nd ref="4812356134"/>
+    <nd ref="4812356133"/>
+    <nd ref="4812356141"/>
+    <nd ref="4812356142"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948734" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356151"/>
+    <nd ref="4812356142"/>
+    <nd ref="4812356141"/>
+    <nd ref="4812356140"/>
+    <nd ref="4812356139"/>
+    <nd ref="4812356138"/>
+    <nd ref="4812356152"/>
+    <nd ref="4812356151"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948735" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356156"/>
+    <nd ref="4812356149"/>
+    <nd ref="4812356148"/>
+    <nd ref="4812356125"/>
+    <nd ref="4812356124"/>
+    <nd ref="4812356147"/>
+    <nd ref="4812356146"/>
+    <nd ref="4812356126"/>
+    <nd ref="4812356145"/>
+    <nd ref="4812356144"/>
+    <nd ref="4812356143"/>
+    <nd ref="4812356155"/>
+    <nd ref="4812356156"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948736" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356157"/>
+    <nd ref="4812356156"/>
+    <nd ref="4812356155"/>
+    <nd ref="4812356154"/>
+    <nd ref="4812356153"/>
+    <nd ref="4812356152"/>
+    <nd ref="4812356151"/>
+    <nd ref="4812356150"/>
+    <nd ref="4812356157"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948739" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356170"/>
+    <nd ref="4812356160"/>
+    <nd ref="4812356158"/>
+    <nd ref="4812356159"/>
+    <nd ref="4812356162"/>
+    <nd ref="4812356164"/>
+    <nd ref="4812356174"/>
+    <nd ref="4812356173"/>
+    <nd ref="4812356169"/>
+    <nd ref="4812356170"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948740" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356171"/>
+    <nd ref="4812356163"/>
+    <nd ref="4812356161"/>
+    <nd ref="4812356170"/>
+    <nd ref="4812356169"/>
+    <nd ref="4812356172"/>
+    <nd ref="4812356171"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948744" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356323"/>
+    <nd ref="4812356219"/>
+    <nd ref="4812356321"/>
+    <nd ref="4812356327"/>
+    <nd ref="4812356326"/>
+    <nd ref="4812356217"/>
+    <nd ref="4812356216"/>
+    <nd ref="4812356215"/>
+    <nd ref="4812356322"/>
+    <nd ref="4812356323"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948747" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356324"/>
+    <nd ref="4812356220"/>
+    <nd ref="4812356218"/>
+    <nd ref="4812356323"/>
+    <nd ref="4812356322"/>
+    <nd ref="4812356214"/>
+    <nd ref="4812356213"/>
+    <nd ref="4812356212"/>
+    <nd ref="4812356211"/>
+    <nd ref="4812356210"/>
+    <nd ref="4812356209"/>
+    <nd ref="4812356325"/>
+    <nd ref="4812356324"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948756" version="2" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356344"/>
+    <nd ref="4812356343"/>
+    <nd ref="4812356342"/>
+    <nd ref="4812356341"/>
+    <nd ref="4812356340"/>
+    <nd ref="4812356339"/>
+    <nd ref="4812356344"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="detached"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948763" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356366"/>
+    <nd ref="4812356363"/>
+    <nd ref="4812356364"/>
+    <nd ref="4812356370"/>
+    <nd ref="4812356369"/>
+    <nd ref="4812356365"/>
+    <nd ref="4812356366"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948767" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356367"/>
+    <nd ref="4812356361"/>
+    <nd ref="4812356362"/>
+    <nd ref="4812356366"/>
+    <nd ref="4812356365"/>
+    <nd ref="4812356368"/>
+    <nd ref="4812356355"/>
+    <nd ref="4812356356"/>
+    <nd ref="4812356357"/>
+    <nd ref="4812356358"/>
+    <nd ref="4812356359"/>
+    <nd ref="4812356360"/>
+    <nd ref="4812356367"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948774" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356380"/>
+    <nd ref="4812356376"/>
+    <nd ref="4812356378"/>
+    <nd ref="4812356384"/>
+    <nd ref="4812356383"/>
+    <nd ref="4812356379"/>
+    <nd ref="4812356380"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948777" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356381"/>
+    <nd ref="4812356377"/>
+    <nd ref="4812356375"/>
+    <nd ref="4812356380"/>
+    <nd ref="4812356379"/>
+    <nd ref="4812356382"/>
+    <nd ref="4812356381"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948781" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356390"/>
+    <nd ref="4812356386"/>
+    <nd ref="4812356388"/>
+    <nd ref="4812356394"/>
+    <nd ref="4812356393"/>
+    <nd ref="4812356389"/>
+    <nd ref="4812356390"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="488948785" version="3" timestamp="2025-03-12T08:47:56Z" changeset="163517474" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="4812356391"/>
+    <nd ref="4812356387"/>
+    <nd ref="4812356385"/>
+    <nd ref="4812356390"/>
+    <nd ref="4812356389"/>
+    <nd ref="4812356392"/>
+    <nd ref="4812356391"/>
+    <tag k="addr:city" v="Nottingham"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="NG11 0DN"/>
+    <tag k="addr:street" v="West Leake Lane"/>
+    <tag k="addr:suburb" v="New Kingston"/>
+    <tag k="building" v="semidetached_house"/>
+    <tag k="source:addr:postcode" v="OS Opendata Codepoint"/>
+  </way>
+  <way id="512127273" version="5" timestamp="2021-08-26T13:53:36Z" changeset="110290297" uid="242345" user="confusedbuffalo">
+    <nd ref="5007993055"/>
+    <nd ref="2376777002"/>
+    <nd ref="60027052"/>
+    <nd ref="705433084"/>
+    <nd ref="60027053"/>
+    <nd ref="7012724645"/>
+    <nd ref="60027054"/>
+    <nd ref="705433086"/>
+    <nd ref="60027055"/>
+    <nd ref="7015755697"/>
+    <nd ref="705433087"/>
+    <nd ref="60027056"/>
+    <nd ref="7015755689"/>
+    <nd ref="60027057"/>
+    <nd ref="60027058"/>
+    <nd ref="432653672"/>
+    <nd ref="705433076"/>
+    <nd ref="7015755685"/>
+    <nd ref="7015755686"/>
+    <nd ref="60027059"/>
+    <nd ref="60027060"/>
+    <nd ref="705433083"/>
+    <nd ref="7015755696"/>
+    <nd ref="60027061"/>
+    <nd ref="60027062"/>
+    <nd ref="60027063"/>
+    <nd ref="7015755688"/>
+    <nd ref="705433081"/>
+    <nd ref="60027064"/>
+    <nd ref="2184713846"/>
+    <nd ref="4812351301"/>
+    <nd ref="60027065"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="West Leake Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="530870953" version="2" timestamp="2024-01-19T19:32:09Z" changeset="146455440" uid="242345" user="confusedbuffalo">
+    <nd ref="3050686712"/>
+    <nd ref="60027065"/>
+    <tag k="hgv" v="destination"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Gotham Road"/>
+  </way>
+
+</osm>

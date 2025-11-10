@@ -1,0 +1,2365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:46:02Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="1579013" lat="53.2916332" lon="-1.0234834" version="7" timestamp="2010-12-12T17:33:19Z" changeset="6639096" uid="5926" user="c2r"/>
+  <node id="118254133" lat="53.2827631" lon="-0.9715201" version="5" timestamp="2024-07-24T12:12:17Z" changeset="154347305" uid="12616743" user="BassetlawMapper"/>
+  <node id="171405248" lat="53.2813402" lon="-0.9461137" version="6" timestamp="2018-12-01T07:18:53Z" changeset="65066395" uid="2773866" user="kreuzschnabel"/>
+  <node id="171426334" lat="53.2825640" lon="-0.9713398" version="11" timestamp="2024-07-24T12:12:17Z" changeset="154347305" uid="12616743" user="BassetlawMapper"/>
+  <node id="242958850" lat="53.2898108" lon="-1.0332506" version="16" timestamp="2010-07-03T22:31:48Z" changeset="5128665" uid="125259" user="abc26324"/>
+  <node id="316225647" lat="53.2692920" lon="-0.9542342" version="15" timestamp="2018-12-01T07:34:35Z" changeset="65066549" uid="2773866" user="kreuzschnabel"/>
+  <node id="316227068" lat="53.2689491" lon="-0.9526892" version="12" timestamp="2014-04-05T18:30:47Z" changeset="21518401" uid="2011702" user="krd_mapper"/>
+  <node id="367052943" lat="53.2828446" lon="-1.0570733" version="3" timestamp="2011-11-01T18:42:33Z" changeset="9715240" uid="51722" user="Chris Parker"/>
+  <node id="1035907920" lat="53.2822642" lon="-0.9904724" version="3" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby"/>
+  <node id="2721218503" lat="53.2608364" lon="-1.0277895" version="1" timestamp="2014-03-16T14:07:41Z" changeset="21136600" uid="61942" user="SomeoneElse"/>
+  <node id="2721218516" lat="53.2611014" lon="-1.0278217" version="3" timestamp="2014-08-10T19:35:00Z" changeset="24662277" uid="61942" user="SomeoneElse"/>
+  <node id="2721935693" lat="53.2608754" lon="-1.0275126" version="3" timestamp="2014-08-10T19:35:00Z" changeset="24662277" uid="61942" user="SomeoneElse">
+    <tag k="note" v="Signage here for e.g, Dukeries Trail presumably dates from previous location of crossing to NW"/>
+  </node>
+  <node id="2770338251" lat="53.2702179" lon="-0.9568933" version="4" timestamp="2018-07-28T09:24:25Z" changeset="61138172" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Twyford Bridge Junction"/>
+  </node>
+  <node id="4869841455" lat="53.2690534" lon="-0.9518843" version="3" timestamp="2018-07-28T09:24:25Z" changeset="61138172" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Twyford Bridge Junction"/>
+  </node>
+  <way id="12898660" version="17" timestamp="2024-07-24T12:12:17Z" changeset="154347305" uid="12616743" user="BassetlawMapper">
+    <nd ref="118254133"/>
+    <nd ref="12071553215"/>
+    <nd ref="8093029672"/>
+    <nd ref="118254123"/>
+    <nd ref="2164605728"/>
+    <nd ref="2164605733"/>
+    <nd ref="118254111"/>
+    <nd ref="3348607224"/>
+    <nd ref="2164605739"/>
+    <nd ref="118253668"/>
+    <nd ref="2164605744"/>
+    <nd ref="118253674"/>
+    <nd ref="1523186291"/>
+    <nd ref="118253680"/>
+    <nd ref="2095211148"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Old London Road"/>
+  </way>
+  <way id="13786105" version="13" timestamp="2022-05-30T11:02:57Z" changeset="121709056" uid="242345" user="confusedbuffalo">
+    <nd ref="27315124"/>
+    <nd ref="128228089"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A614"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+    <tag k="wikidata" v="Q17547345"/>
+  </way>
+  <way id="13786108" version="26" timestamp="2019-05-22T10:33:42Z" changeset="70509472" uid="8476275" user="mrfa">
+    <nd ref="128228089"/>
+    <nd ref="27315125"/>
+    <nd ref="800917218"/>
+    <nd ref="800917220"/>
+    <nd ref="27315126"/>
+    <nd ref="800917225"/>
+    <nd ref="27315127"/>
+    <nd ref="3048953051"/>
+    <nd ref="800917229"/>
+    <nd ref="27315128"/>
+    <nd ref="27315129"/>
+    <nd ref="921197582"/>
+    <nd ref="921197572"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="ref" v="A614"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="27264976" version="45" timestamp="2024-06-22T14:55:44Z" changeset="153033509" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="1579013"/>
+    <nd ref="3129809405"/>
+    <nd ref="1036052608"/>
+    <nd ref="1036052605"/>
+    <nd ref="1036052648"/>
+    <nd ref="3129809409"/>
+    <nd ref="1579015"/>
+    <nd ref="1579018"/>
+    <nd ref="1579021"/>
+    <nd ref="1579075"/>
+    <nd ref="1579078"/>
+    <nd ref="1579082"/>
+    <nd ref="1579084"/>
+    <nd ref="1579086"/>
+    <nd ref="2094063416"/>
+    <nd ref="1579089"/>
+    <nd ref="1579205"/>
+    <nd ref="648865167"/>
+    <nd ref="3129809391"/>
+    <nd ref="1579211"/>
+    <nd ref="1579217"/>
+    <nd ref="1579224"/>
+    <nd ref="1579228"/>
+    <nd ref="1035907915"/>
+    <tag k="alt_name" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="old_ref" v="A57"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="28761433" version="15" timestamp="2023-09-10T15:51:02Z" changeset="141066786" uid="1778799" user="SomeoneElse_Revert">
+    <nd ref="2721218503"/>
+    <nd ref="2721935693"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="ncn" v="yes"/>
+    <tag k="ncn_ref" v="647"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="28761647" version="11" timestamp="2022-05-30T11:01:48Z" changeset="121709114" uid="242345" user="confusedbuffalo">
+    <nd ref="316226721"/>
+    <nd ref="2770355613"/>
+    <nd ref="316225647"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Dover Bottom"/>
+    <tag k="ref" v="B6387"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="28761649" version="12" timestamp="2022-05-30T11:01:50Z" changeset="121709114" uid="242345" user="confusedbuffalo">
+    <nd ref="316225647"/>
+    <nd ref="406353308"/>
+    <nd ref="2657681105"/>
+    <nd ref="4869841454"/>
+    <nd ref="316226377"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Dover Bottom"/>
+    <tag k="ref" v="B6387"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="28761746" version="10" timestamp="2025-07-25T14:27:43Z" changeset="169457979" uid="22178592" user="Fahmid5987">
+    <nd ref="316227285"/>
+    <nd ref="2657681165"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lit" v="yes"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="28761747" version="15" timestamp="2025-04-08T12:26:23Z" changeset="164677259" uid="21081459" user="Flynn_">
+    <nd ref="316227068"/>
+    <nd ref="1435897469"/>
+    <nd ref="2770355577"/>
+    <nd ref="2657681123"/>
+    <nd ref="2770355599"/>
+    <nd ref="2770355617"/>
+    <nd ref="2770355610"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+  </way>
+  <way id="31365492" version="13" timestamp="2025-07-25T14:27:14Z" changeset="169457979" uid="22178592" user="Fahmid5987">
+    <nd ref="4869841450"/>
+    <nd ref="2770338255"/>
+    <nd ref="7192991637"/>
+    <nd ref="349331955"/>
+    <tag k="destination" v="Elkesley"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="31365494" version="9" timestamp="2024-08-03T16:20:39Z" changeset="154780813" uid="38214" user="Darkhorse">
+    <nd ref="349331955"/>
+    <nd ref="4869841437"/>
+    <nd ref="349331956"/>
+    <nd ref="349331957"/>
+    <nd ref="349331958"/>
+    <nd ref="4869841438"/>
+    <nd ref="2094048426"/>
+    <nd ref="2094048425"/>
+    <nd ref="349331959"/>
+    <nd ref="349331960"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Twyford Lane"/>
+    <tag k="proposed" v="unclassified"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="31365497" version="14" timestamp="2021-05-20T07:38:11Z" changeset="105007774" uid="38214" user="Darkhorse">
+    <nd ref="349331960"/>
+    <nd ref="4869841439"/>
+    <nd ref="4869841440"/>
+    <nd ref="349331961"/>
+    <nd ref="626143957"/>
+    <nd ref="4869841441"/>
+    <nd ref="349331965"/>
+    <nd ref="349331966"/>
+    <nd ref="931009896"/>
+    <nd ref="349331969"/>
+    <nd ref="349331970"/>
+    <nd ref="349331971"/>
+    <nd ref="931021533"/>
+    <nd ref="2094043135"/>
+    <nd ref="626143956"/>
+    <nd ref="2094043102"/>
+    <nd ref="349331973"/>
+    <nd ref="2094048430"/>
+    <nd ref="349331974"/>
+    <nd ref="349331976"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="High Street"/>
+    <tag k="proposed" v="unclassified"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="49304598" version="6" timestamp="2017-02-10T19:40:05Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="626143954"/>
+    <nd ref="2766197709"/>
+    <nd ref="2766197707"/>
+    <nd ref="2094043098"/>
+    <nd ref="626143956"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Holly Bush Close"/>
+  </way>
+  <way id="49304599" version="7" timestamp="2020-11-06T18:26:40Z" changeset="93679851" uid="11130356" user="Alex_457">
+    <nd ref="2094043089"/>
+    <nd ref="626143952"/>
+    <nd ref="3151188642"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Headland Avenue"/>
+  </way>
+  <way id="79762329" version="11" timestamp="2024-06-09T11:36:23Z" changeset="152450494" uid="8857" user="philipcullen">
+    <nd ref="171405248"/>
+    <nd ref="406353318"/>
+    <nd ref="406353317"/>
+    <nd ref="406353316"/>
+    <nd ref="2770133294"/>
+    <nd ref="1092778601"/>
+    <nd ref="171405252"/>
+    <nd ref="406353315"/>
+    <nd ref="11250956629"/>
+    <nd ref="171405259"/>
+    <nd ref="406353313"/>
+    <nd ref="406353314"/>
+    <nd ref="4869841451"/>
+    <nd ref="171405267"/>
+    <nd ref="4869841452"/>
+    <nd ref="406353312"/>
+    <nd ref="171405276"/>
+    <nd ref="4869841453"/>
+    <nd ref="406353311"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Ollerton Road"/>
+    <tag k="ref" v="B6387"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="79762581" version="17" timestamp="2024-06-23T16:27:56Z" changeset="153076082" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="2770338251"/>
+    <nd ref="1435773881"/>
+    <nd ref="2657681155"/>
+    <nd ref="930999837"/>
+    <nd ref="2657681143"/>
+    <nd ref="316227285"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="79763173" version="5" timestamp="2017-02-10T19:40:06Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="931009657"/>
+    <nd ref="931009662"/>
+    <nd ref="931009667"/>
+    <nd ref="2770319453"/>
+    <nd ref="2770319436"/>
+    <nd ref="931008657"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Park Lane"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at west"/>
+  </way>
+  <way id="79763942" version="5" timestamp="2020-04-10T04:47:49Z" changeset="83336901" uid="10455629" user="jgopatho">
+    <nd ref="626143948"/>
+    <nd ref="2770319439"/>
+    <nd ref="2770319451"/>
+    <nd ref="2770319437"/>
+    <nd ref="7387911189"/>
+    <nd ref="2770319484"/>
+    <nd ref="2770319504"/>
+    <nd ref="2770319505"/>
+    <nd ref="931019530"/>
+    <nd ref="2770319510"/>
+    <nd ref="2770319435"/>
+    <nd ref="2770319479"/>
+    <nd ref="931008605"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lawnwood Lane"/>
+    <tag k="not:name" v="Lawn Wood Lane"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at south"/>
+  </way>
+  <way id="79764002" version="6" timestamp="2017-02-10T19:40:07Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="626143948"/>
+    <nd ref="4029343909"/>
+    <nd ref="931020015"/>
+    <nd ref="931020552"/>
+    <nd ref="2770319470"/>
+    <nd ref="931020018"/>
+    <nd ref="931020021"/>
+    <nd ref="931020026"/>
+    <nd ref="2770319452"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lawn Wood Avenue"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="79764025" version="5" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="2770319459"/>
+    <nd ref="931020015"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lawnwood Avenue"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="79764044" version="4" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="931020365"/>
+    <nd ref="931020368"/>
+    <nd ref="931020371"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lawnwood Avenue"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="79764066" version="4" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="931020368"/>
+    <nd ref="931020552"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lawnwood Avenue"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="79764129" version="7" timestamp="2017-02-10T19:40:07Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="931021485"/>
+    <nd ref="931021494"/>
+    <nd ref="931021498"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cedar Tree Road"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="79764141" version="3" timestamp="2017-02-10T19:40:09Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="931021762"/>
+    <nd ref="931021517"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="79764154" version="4" timestamp="2017-02-10T19:40:07Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="931021943"/>
+    <nd ref="931021948"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Elm Tree Place"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="79764164" version="4" timestamp="2017-02-10T19:40:08Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="931022082"/>
+    <nd ref="931022083"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Beech Walk"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="79764180" version="6" timestamp="2017-02-10T19:40:08Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="931022204"/>
+    <nd ref="2770323974"/>
+    <nd ref="931021522"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lime Tree Road"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+    <tag k="source:name" v="Sign at north"/>
+  </way>
+  <way id="79764232" version="5" timestamp="2021-05-20T07:38:05Z" changeset="105007767" uid="38214" user="Darkhorse">
+    <nd ref="2770323980"/>
+    <nd ref="931021526"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Maple Drive"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="89278224" version="20" timestamp="2024-06-22T14:55:49Z" changeset="153033509" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="1035907920"/>
+    <nd ref="1579235"/>
+    <nd ref="1579239"/>
+    <nd ref="1618990467"/>
+    <nd ref="1579244"/>
+    <nd ref="3129809389"/>
+    <nd ref="1579248"/>
+    <nd ref="1579091"/>
+    <nd ref="2094063378"/>
+    <nd ref="1579094"/>
+    <nd ref="1579097"/>
+    <nd ref="3129809413"/>
+    <nd ref="1579101"/>
+    <nd ref="1579103"/>
+    <nd ref="1579034"/>
+    <nd ref="1579032"/>
+    <nd ref="802301919"/>
+    <nd ref="1579028"/>
+    <nd ref="1579026"/>
+    <nd ref="1579023"/>
+    <nd ref="260089783"/>
+    <tag k="alt_name" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="old_ref" v="A57"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="89278232" version="17" timestamp="2024-07-24T13:59:12Z" changeset="154351981" uid="5008136" user="JayTurnr">
+    <nd ref="1035907915"/>
+    <nd ref="12071696190"/>
+    <nd ref="1579367"/>
+    <nd ref="1579376"/>
+    <tag k="alt_name" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="old_ref" v="A57"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="129126030" version="15" timestamp="2024-07-24T13:59:12Z" changeset="154351981" uid="5008136" user="JayTurnr">
+    <nd ref="1579411"/>
+    <nd ref="1579403"/>
+    <nd ref="12071696191"/>
+    <nd ref="1035907920"/>
+    <tag k="alt_name" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="old_ref" v="A57"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="129126031" version="28" timestamp="2024-06-22T14:53:41Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="1579376"/>
+    <nd ref="1618985738"/>
+    <nd ref="6221885488"/>
+    <nd ref="2766197701"/>
+    <nd ref="2766197680"/>
+    <nd ref="2766197718"/>
+    <nd ref="350147861"/>
+    <nd ref="1579381"/>
+    <nd ref="2766197721"/>
+    <nd ref="1572254025"/>
+    <nd ref="2766197679"/>
+    <nd ref="1579393"/>
+    <nd ref="648865950"/>
+    <nd ref="6221885487"/>
+    <nd ref="648865951"/>
+    <nd ref="1579589"/>
+    <nd ref="2094029130"/>
+    <nd ref="6221885486"/>
+    <nd ref="6221885485"/>
+    <nd ref="648865953"/>
+    <nd ref="2094029083"/>
+    <tag k="alt_name" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="143666285" version="11" timestamp="2025-07-25T14:27:11Z" changeset="169457979" uid="22178592" user="Fahmid5987">
+    <nd ref="349331955"/>
+    <nd ref="10281287969"/>
+    <nd ref="10281287968"/>
+    <nd ref="1479907007"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="proposed:access" v="no"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="143666287" version="9" timestamp="2024-07-24T14:08:30Z" changeset="154352363" uid="5008136" user="JayTurnr">
+    <nd ref="1572253996"/>
+    <nd ref="1572254002"/>
+    <nd ref="1572254009"/>
+    <nd ref="1572254008"/>
+    <nd ref="1572253996"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Starbucks"/>
+    <tag k="brand:wikidata" v="Q37158"/>
+    <tag k="brand:wikipedia" v="en:Starbucks"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2023-12-31"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="official_name" v="Starbucks Coffee"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.starbucks.com/store-locator/store/1027330/elkesley-worksop-road-dt-worksop-road-elkesley-eng-dn-22-8-at-gb"/>
+  </way>
+  <way id="168566354" version="21" timestamp="2024-06-22T14:52:46Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="2770338251"/>
+    <nd ref="1579866"/>
+    <nd ref="2770341660"/>
+    <nd ref="930999877"/>
+    <nd ref="6108869516"/>
+    <nd ref="2657681120"/>
+    <nd ref="4854444715"/>
+    <nd ref="1435897473"/>
+    <nd ref="2770355594"/>
+    <nd ref="648866052"/>
+    <tag k="alt_description" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Twyford Lane"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="168566355" version="19" timestamp="2024-06-22T14:53:48Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="1101543586"/>
+    <nd ref="349332020"/>
+    <nd ref="2094048427"/>
+    <nd ref="1579634"/>
+    <nd ref="1101541808"/>
+    <nd ref="1579629"/>
+    <nd ref="6221885496"/>
+    <nd ref="2770330627"/>
+    <nd ref="6221885495"/>
+    <nd ref="1101541807"/>
+    <nd ref="6221885494"/>
+    <nd ref="1101541806"/>
+    <nd ref="6221885493"/>
+    <nd ref="1579624"/>
+    <nd ref="2770330631"/>
+    <nd ref="1101541823"/>
+    <nd ref="2766197684"/>
+    <nd ref="1579422"/>
+    <nd ref="6221885492"/>
+    <nd ref="1572254024"/>
+    <nd ref="6221885491"/>
+    <nd ref="1579415"/>
+    <nd ref="350147928"/>
+    <nd ref="1572254028"/>
+    <nd ref="1618985739"/>
+    <nd ref="6221885490"/>
+    <nd ref="6221885489"/>
+    <nd ref="1579411"/>
+    <tag k="alt_name" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="168566356" version="17" timestamp="2024-03-03T06:59:18Z" changeset="148154750" uid="38214" user="Darkhorse">
+    <nd ref="648865956"/>
+    <nd ref="10281287972"/>
+    <nd ref="10281287971"/>
+    <nd ref="1579607"/>
+    <nd ref="648865957"/>
+    <nd ref="1579613"/>
+    <nd ref="2770338250"/>
+    <nd ref="648865958"/>
+    <nd ref="1579828"/>
+    <nd ref="1579832"/>
+    <nd ref="1798106656"/>
+    <tag k="alt_name" v="Elkesley Bypass"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="168566357" version="15" timestamp="2023-10-26T00:19:18Z" changeset="143138805" uid="13341565" user="Falsernet">
+    <nd ref="4869841450"/>
+    <nd ref="1479907007"/>
+    <nd ref="4869841449"/>
+    <nd ref="4869841446"/>
+    <nd ref="1579867"/>
+    <nd ref="931010186"/>
+    <nd ref="1572254010"/>
+    <nd ref="1579650"/>
+    <nd ref="1579646"/>
+    <nd ref="1572254011"/>
+    <nd ref="349332021"/>
+    <nd ref="2770330625"/>
+    <nd ref="2770330626"/>
+    <nd ref="1101543586"/>
+    <tag k="alt_name" v="Elkesley Bypass"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="168567668" version="5" timestamp="2022-05-30T11:01:44Z" changeset="121709114" uid="242345" user="confusedbuffalo">
+    <nd ref="406353311"/>
+    <nd ref="171405283"/>
+    <nd ref="931015569"/>
+    <nd ref="406353309"/>
+    <nd ref="2657681153"/>
+    <nd ref="406353310"/>
+    <nd ref="316226437"/>
+    <nd ref="171405289"/>
+    <nd ref="316226721"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Dover Bottom"/>
+    <tag k="ref" v="B6387"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="168567671" version="19" timestamp="2024-06-22T14:52:53Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="316227069"/>
+    <nd ref="316227824"/>
+    <nd ref="1435897471"/>
+    <nd ref="1580101"/>
+    <nd ref="1579896"/>
+    <nd ref="1035826859"/>
+    <nd ref="1035826860"/>
+    <nd ref="1579889"/>
+    <nd ref="6108869522"/>
+    <nd ref="1435773886"/>
+    <nd ref="1579885"/>
+    <nd ref="1579880"/>
+    <nd ref="2770338254"/>
+    <nd ref="1572253982"/>
+    <nd ref="349331954"/>
+    <tag k="alt_description" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Twyford Lane"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="199401373" version="10" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="2094029101"/>
+    <nd ref="4869841433"/>
+    <nd ref="2094029141"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="approach"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="199401376" version="11" timestamp="2025-04-08T12:27:37Z" changeset="164677348" uid="21081459" user="Flynn_">
+    <nd ref="2094029128"/>
+    <nd ref="10281220905"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Elkesley Bridge Road"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="199401378" version="11" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="2094029133"/>
+    <nd ref="6108858985"/>
+    <nd ref="6108858991"/>
+    <nd ref="6108858384"/>
+    <nd ref="2094029095"/>
+    <nd ref="2094029099"/>
+    <nd ref="2094029111"/>
+    <nd ref="2094029153"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="199401380" version="10" timestamp="2023-06-30T13:59:32Z" changeset="137960000" uid="1802093" user="Paul Berry">
+    <nd ref="2094029104"/>
+    <nd ref="6108859001"/>
+    <nd ref="6108859000"/>
+    <nd ref="4972045047"/>
+    <nd ref="6108858999"/>
+    <nd ref="2094029151"/>
+    <nd ref="6108858998"/>
+    <nd ref="6108858997"/>
+    <nd ref="6108858996"/>
+    <nd ref="4869841436"/>
+    <nd ref="6108858995"/>
+    <nd ref="2094029118"/>
+    <nd ref="6108858994"/>
+    <nd ref="4972045043"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="199401381" version="17" timestamp="2024-06-22T14:53:56Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="2094029130"/>
+    <nd ref="2094029093"/>
+    <nd ref="2094029079"/>
+    <nd ref="2094029124"/>
+    <nd ref="2094029122"/>
+    <nd ref="2094029104"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="199401382" version="8" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="2094029153"/>
+    <nd ref="6108858987"/>
+    <nd ref="4972045043"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="junction" v="approach"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="199401383" version="10" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="2094029128"/>
+    <nd ref="6108858366"/>
+    <nd ref="6108858365"/>
+    <nd ref="6221885497"/>
+    <nd ref="4985935470"/>
+    <nd ref="6221885498"/>
+    <nd ref="2094029071"/>
+    <nd ref="6108858364"/>
+    <nd ref="2094029148"/>
+    <nd ref="6108858363"/>
+    <nd ref="2094029156"/>
+    <nd ref="2094029135"/>
+    <nd ref="6221885499"/>
+    <nd ref="10281220893"/>
+    <nd ref="2094029113"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Elkesley Bridge Road"/>
+  </way>
+  <way id="199402498" version="13" timestamp="2024-07-24T14:05:43Z" changeset="154352263" uid="5008136" user="JayTurnr">
+    <nd ref="349331976"/>
+    <nd ref="11016135841"/>
+    <nd ref="6221885511"/>
+    <nd ref="2094048424"/>
+    <nd ref="6221885506"/>
+    <nd ref="6221885505"/>
+    <nd ref="12071695263"/>
+    <nd ref="2094043147"/>
+    <nd ref="10281220899"/>
+    <nd ref="2094043110"/>
+    <nd ref="2094043089"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Eskil Way"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="199402501" version="7" timestamp="2023-06-30T13:59:32Z" changeset="137960000" uid="1802093" user="Paul Berry">
+    <nd ref="349331982"/>
+    <nd ref="349331983"/>
+    <nd ref="931006530"/>
+    <nd ref="2766197673"/>
+    <nd ref="349331985"/>
+    <nd ref="349331986"/>
+    <nd ref="349331987"/>
+    <nd ref="349331988"/>
+    <tag k="access" v="yes"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="horse" v="yes"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Coalpit Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="199402508" version="3" timestamp="2017-02-10T19:40:04Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="2094043149"/>
+    <nd ref="2094043135"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+  </way>
+  <way id="199402920" version="5" timestamp="2022-10-28T19:15:12Z" changeset="128188196" uid="13666626" user="RedAuburn">
+    <nd ref="2094048429"/>
+    <nd ref="2094048424"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+  </way>
+  <way id="199402921" version="9" timestamp="2025-07-25T14:26:41Z" changeset="169457979" uid="22178592" user="Fahmid5987">
+    <nd ref="2094048429"/>
+    <nd ref="6221885510"/>
+    <nd ref="2094048428"/>
+    <nd ref="10281220895"/>
+    <nd ref="2094048432"/>
+    <nd ref="6221885509"/>
+    <nd ref="2094048427"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="199402922" version="9" timestamp="2025-07-25T14:26:43Z" changeset="169457979" uid="22178592" user="Fahmid5987">
+    <nd ref="1101543586"/>
+    <nd ref="1572254013"/>
+    <nd ref="6221885507"/>
+    <nd ref="2094048431"/>
+    <nd ref="6221885508"/>
+    <nd ref="2094048429"/>
+    <tag k="destination" v="Ordsall;Elkesley"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="199402925" version="4" timestamp="2017-02-10T19:40:04Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="2094048423"/>
+    <nd ref="2094048430"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Briar Close"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="225264573" version="11" timestamp="2023-02-01T14:32:24Z" changeset="131966155" uid="18051360" user="NTClumberPark">
+    <nd ref="802302275"/>
+    <nd ref="27315119"/>
+    <nd ref="802301467"/>
+    <nd ref="27315120"/>
+    <nd ref="800841928"/>
+    <nd ref="800841933"/>
+    <nd ref="27315121"/>
+    <nd ref="800841941"/>
+    <nd ref="10261320657"/>
+    <nd ref="27315122"/>
+    <nd ref="10599108723"/>
+    <nd ref="800841945"/>
+    <nd ref="802302491"/>
+    <nd ref="800841947"/>
+    <nd ref="27315123"/>
+    <nd ref="800841952"/>
+    <nd ref="2997345531"/>
+    <nd ref="800841954"/>
+    <nd ref="27315124"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A614"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="225264575" version="6" timestamp="2021-05-20T07:38:06Z" changeset="105007767" uid="38214" user="Darkhorse">
+    <nd ref="931021498"/>
+    <nd ref="4029343924"/>
+    <nd ref="931021502"/>
+    <nd ref="931021508"/>
+    <nd ref="4029343893"/>
+    <nd ref="931021513"/>
+    <nd ref="931021948"/>
+    <nd ref="931021517"/>
+    <nd ref="931022083"/>
+    <nd ref="931021522"/>
+    <nd ref="2770323982"/>
+    <nd ref="2770323987"/>
+    <nd ref="931021526"/>
+    <nd ref="2770323977"/>
+    <nd ref="2770323985"/>
+    <nd ref="931021530"/>
+    <nd ref="931021533"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Yew Tree Road"/>
+    <tag k="source" v="OS OpenData StreetView"/>
+  </way>
+  <way id="225264584" version="4" timestamp="2017-02-10T19:40:03Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="2340688783"/>
+    <nd ref="931021498"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Cedar Tree Road"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="271670576" version="4" timestamp="2022-03-09T22:12:31Z" changeset="118296305" uid="242345" user="confusedbuffalo">
+    <nd ref="349331988"/>
+    <nd ref="349331989"/>
+    <nd ref="2095186941"/>
+    <nd ref="2951627599"/>
+    <nd ref="349331990"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="271670578" version="3" timestamp="2017-02-10T19:40:11Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="2766179858"/>
+    <nd ref="2766179845"/>
+    <nd ref="2094043149"/>
+    <nd ref="2766179859"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+  </way>
+  <way id="272097413" version="4" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="2770319460"/>
+    <nd ref="2770319459"/>
+    <nd ref="2770319448"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lawnwood Avenue"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="272097414" version="4" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="2770319507"/>
+    <nd ref="2770319452"/>
+    <nd ref="2770319440"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Lawnwood Avenue"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="272097778" version="3" timestamp="2017-02-10T19:40:12Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="2770323991"/>
+    <nd ref="2770323980"/>
+    <nd ref="2770323989"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+  </way>
+  <way id="272097779" version="2" timestamp="2014-10-15T20:12:35Z" changeset="26104137" uid="91225" user="tms13">
+    <nd ref="2770323983"/>
+    <nd ref="2770323974"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+  </way>
+  <way id="272100029" version="10" timestamp="2024-06-23T16:27:57Z" changeset="153076082" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="316227285"/>
+    <nd ref="2657681163"/>
+    <nd ref="930999845"/>
+    <nd ref="1435773875"/>
+    <nd ref="2770341658"/>
+    <nd ref="930999877"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="291477599" version="5" timestamp="2017-02-10T19:18:24Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="2721218516"/>
+    <nd ref="2721218503"/>
+    <nd ref="2721218511"/>
+    <nd ref="919693359"/>
+    <nd ref="27315131"/>
+    <nd ref="2949423263"/>
+    <nd ref="4678966823"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="ref" v="A614"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="291477607" version="4" timestamp="2017-02-10T19:18:24Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="921197572"/>
+    <nd ref="27315130"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="ref" v="A614"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:sidewalk" v="View from south"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="292551154" version="2" timestamp="2014-10-15T20:12:37Z" changeset="26104137" uid="91225" user="tms13">
+    <nd ref="2960918305"/>
+    <nd ref="2766179850"/>
+    <nd ref="931008605"/>
+    <tag k="designation" v="byway_open_to_all_traffic"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="horse" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Brough Lane"/>
+    <tag k="source:name" v="Sign at east"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="292552086" version="5" timestamp="2023-02-19T01:45:41Z" changeset="132733860" uid="38214" user="Darkhorse">
+    <nd ref="2960926677"/>
+    <nd ref="2960926688"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="designation" v="byway_open_to_all_traffic"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="horse" v="yes"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Brough Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="292552087" version="5" timestamp="2023-02-19T01:45:36Z" changeset="132733860" uid="38214" user="Darkhorse">
+    <nd ref="2960926688"/>
+    <nd ref="2960926682"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="designation" v="byway_open_to_all_traffic"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="horse" v="yes"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Brough Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="292552088" version="7" timestamp="2023-11-26T08:01:47Z" changeset="144462525" uid="38214" user="Darkhorse">
+    <nd ref="2960926682"/>
+    <nd ref="2770319498"/>
+    <nd ref="931008644"/>
+    <nd ref="2770319496"/>
+    <nd ref="931008649"/>
+    <nd ref="2770319431"/>
+    <nd ref="2770319456"/>
+    <nd ref="931008657"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Brough Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="292552437" version="5" timestamp="2023-11-25T09:48:48Z" changeset="144434972" uid="38214" user="Darkhorse">
+    <nd ref="931008657"/>
+    <nd ref="2770319472"/>
+    <nd ref="2770319502"/>
+    <nd ref="626143957"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Low Street"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="292553523" version="4" timestamp="2023-02-17T21:18:10Z" changeset="132695101" uid="38214" user="Darkhorse">
+    <nd ref="2960931829"/>
+    <nd ref="2960931827"/>
+    <nd ref="2960931832"/>
+    <nd ref="2960931830"/>
+    <nd ref="2960931828"/>
+    <nd ref="2960931831"/>
+    <nd ref="2960931825"/>
+    <nd ref="2960931826"/>
+    <nd ref="2960931829"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="St Giles, Elkesley"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="View from north;Bing"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q15978791"/>
+  </way>
+  <way id="293764773" version="6" timestamp="2022-05-30T11:02:25Z" changeset="121709191" uid="242345" user="confusedbuffalo">
+    <nd ref="2721935693"/>
+    <nd ref="316225455"/>
+    <nd ref="316225456"/>
+    <nd ref="316225457"/>
+    <nd ref="316225458"/>
+    <nd ref="2950778301"/>
+    <nd ref="316225459"/>
+    <nd ref="2951606373"/>
+    <nd ref="2950789509"/>
+    <nd ref="2950789514"/>
+    <nd ref="2950789508"/>
+    <nd ref="316225460"/>
+    <nd ref="2950789485"/>
+    <nd ref="316225461"/>
+    <nd ref="2950789481"/>
+    <nd ref="316225462"/>
+    <nd ref="316225463"/>
+    <nd ref="2950789499"/>
+    <nd ref="316225464"/>
+    <nd ref="2950789495"/>
+    <nd ref="1269908720"/>
+    <nd ref="316225465"/>
+    <nd ref="2950789493"/>
+    <nd ref="2950773558"/>
+    <nd ref="2950773561"/>
+    <nd ref="316225466"/>
+    <nd ref="316225467"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Normanton Lane"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="360162509" version="3" timestamp="2022-12-22T21:56:51Z" changeset="130393870" uid="705850" user="Cebderby">
+    <nd ref="3647675085"/>
+    <nd ref="10281220900"/>
+    <nd ref="10281220896"/>
+    <nd ref="626143952"/>
+    <nd ref="349331979"/>
+    <nd ref="931022836"/>
+    <nd ref="10281220902"/>
+    <nd ref="6221885500"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Coalpit Lane"/>
+  </way>
+  <way id="360162511" version="5" timestamp="2023-06-30T13:59:32Z" changeset="137960000" uid="1802093" user="Paul Berry">
+    <nd ref="4972045052"/>
+    <nd ref="350147857"/>
+    <nd ref="6787317318"/>
+    <nd ref="4985935458"/>
+    <nd ref="6787317333"/>
+    <nd ref="350147852"/>
+    <nd ref="4985935464"/>
+    <nd ref="4985935461"/>
+    <nd ref="171426346"/>
+    <nd ref="4985935471"/>
+    <nd ref="171426334"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Jockey Lane"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="396123177" version="9" timestamp="2024-07-24T14:01:40Z" changeset="154352071" uid="5008136" user="JayTurnr">
+    <nd ref="2094029081"/>
+    <nd ref="6108858380"/>
+    <nd ref="6108858381"/>
+    <nd ref="12071701828"/>
+    <nd ref="6108858382"/>
+    <nd ref="6108858383"/>
+    <nd ref="2094029141"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="396123178" version="8" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="3989397648"/>
+    <nd ref="6108858371"/>
+    <nd ref="2094029081"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="396123179" version="8" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="4972045052"/>
+    <nd ref="6108858376"/>
+    <nd ref="3989397651"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Jockey Lane"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="420620376" version="5" timestamp="2023-06-30T13:59:32Z" changeset="137960000" uid="1802093" user="Paul Berry">
+    <nd ref="4205774158"/>
+    <nd ref="4972045045"/>
+    <nd ref="4972045044"/>
+    <nd ref="2094029113"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Coalpit Lane"/>
+  </way>
+  <way id="473861380" version="1" timestamp="2017-02-10T19:18:23Z" changeset="45980855" uid="5296090" user="TR42">
+    <nd ref="27315130"/>
+    <nd ref="2721218516"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="ref" v="A614"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS OpenData StreetView"/>
+    <tag k="source:sidewalk" v="View from south"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="473867569" version="2" timestamp="2018-12-01T07:34:37Z" changeset="65066549" uid="2773866" user="kreuzschnabel">
+    <nd ref="2657681165"/>
+    <nd ref="2657681169"/>
+    <nd ref="930998111"/>
+    <nd ref="2657681136"/>
+    <nd ref="316227284"/>
+    <nd ref="2657681127"/>
+    <nd ref="2657681149"/>
+    <nd ref="2657681161"/>
+    <nd ref="171405289"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lit" v="no"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A1"/>
+  </way>
+  <way id="495205441" version="8" timestamp="2024-06-22T14:53:02Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="648866002"/>
+    <nd ref="2770338244"/>
+    <nd ref="2770338258"/>
+    <nd ref="2770338251"/>
+    <tag k="alt_description" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Twyford Lane"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="slight_left|through|through"/>
+  </way>
+  <way id="495205446" version="8" timestamp="2024-06-22T14:53:06Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="1798106656"/>
+    <nd ref="1579838"/>
+    <nd ref="648866000"/>
+    <nd ref="1579844"/>
+    <nd ref="1035826858"/>
+    <nd ref="1579849"/>
+    <nd ref="1435773888"/>
+    <nd ref="1572253980"/>
+    <nd ref="648866002"/>
+    <tag k="alt_description" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Twyford Lane"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="495205450" version="6" timestamp="2024-06-22T14:52:41Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="4869841455"/>
+    <nd ref="2770355605"/>
+    <nd ref="2770355610"/>
+    <nd ref="316227069"/>
+    <tag k="alt_description" v="West Drayton Diversion"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="description" v="East Retford Bypass"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="497867031" version="5" timestamp="2023-10-26T00:19:18Z" changeset="143138805" uid="13341565" user="Falsernet">
+    <nd ref="1101543558"/>
+    <nd ref="2770334863"/>
+    <nd ref="2770334874"/>
+    <nd ref="10281287970"/>
+    <nd ref="2770334865"/>
+    <nd ref="648865956"/>
+    <tag k="alt_name" v="Elkesley Bypass"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="507756408" version="3" timestamp="2022-01-27T19:04:47Z" changeset="116679072" uid="8871564" user="AndAndrew">
+    <nd ref="4972045043"/>
+    <nd ref="6108858990"/>
+    <nd ref="4972045042"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="junction" v="approach"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="507756409" version="6" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="3989397767"/>
+    <nd ref="3989397650"/>
+    <nd ref="3989397763"/>
+    <nd ref="3989397653"/>
+    <nd ref="4972045036"/>
+    <nd ref="4972045037"/>
+    <nd ref="4972045038"/>
+    <nd ref="4972045039"/>
+    <nd ref="4972045040"/>
+    <nd ref="4972045041"/>
+    <nd ref="4972045050"/>
+    <nd ref="4972045051"/>
+    <nd ref="4972045034"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="507756410" version="5" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="4972045034"/>
+    <nd ref="6108858375"/>
+    <nd ref="4972045052"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Jockey Lane"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="509343263" version="5" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="2094029085"/>
+    <nd ref="4985935460"/>
+    <nd ref="2094029103"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Elkesley Bridge Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="867811778" version="8" timestamp="2024-06-22T14:53:35Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="2094029083"/>
+    <nd ref="6221885184"/>
+    <nd ref="648865954"/>
+    <nd ref="1101543558"/>
+    <tag k="alt_name" v="East Retford Bypass"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="867811779" version="9" timestamp="2024-06-22T14:53:53Z" changeset="153033381" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="2094029104"/>
+    <nd ref="6108859003"/>
+    <nd ref="2094029089"/>
+    <nd ref="2094029139"/>
+    <nd ref="10281220894"/>
+    <nd ref="6108859002"/>
+    <nd ref="2094029083"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="867811781" version="1" timestamp="2020-11-06T18:26:40Z" changeset="93679851" uid="11130356" user="Alex_457">
+    <nd ref="3151188642"/>
+    <nd ref="626143948"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Headland Avenue"/>
+  </way>
+  <way id="867811782" version="2" timestamp="2023-06-30T13:59:32Z" changeset="137960000" uid="1802093" user="Paul Berry">
+    <nd ref="11016135842"/>
+    <nd ref="6221885504"/>
+    <nd ref="2094043113"/>
+    <nd ref="6221885503"/>
+    <nd ref="6221885502"/>
+    <nd ref="4972045046"/>
+    <nd ref="4205774158"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Eskil Way"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="867811786" version="3" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="2094029081"/>
+    <nd ref="6108858379"/>
+    <nd ref="3989397767"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="867811787" version="3" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="3989397648"/>
+    <nd ref="6108858377"/>
+    <nd ref="4972045035"/>
+    <nd ref="6108858378"/>
+    <nd ref="3989397767"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="867811788" version="4" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="3989397651"/>
+    <nd ref="3989397648"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="867811789" version="4" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="4972045034"/>
+    <nd ref="6108858374"/>
+    <nd ref="6108858373"/>
+    <nd ref="6108858372"/>
+    <nd ref="3989397651"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="867811790" version="4" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="2094029141"/>
+    <nd ref="4869841432"/>
+    <nd ref="2094029133"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="approach"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="867811791" version="4" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="2094029101"/>
+    <nd ref="6108858992"/>
+    <nd ref="2094029100"/>
+    <nd ref="6108858986"/>
+    <nd ref="2094029155"/>
+    <nd ref="2094029133"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="867811792" version="5" timestamp="2023-06-30T13:59:32Z" changeset="137960000" uid="1802093" user="Paul Berry">
+    <nd ref="2094029075"/>
+    <nd ref="2094029087"/>
+    <nd ref="2094029073"/>
+    <nd ref="2094029101"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="867811793" version="4" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="2094029153"/>
+    <nd ref="6108858988"/>
+    <nd ref="2094029152"/>
+    <nd ref="6108858989"/>
+    <nd ref="4972045042"/>
+    <nd ref="2094029098"/>
+    <nd ref="2094029091"/>
+    <nd ref="2094029085"/>
+    <nd ref="2094029126"/>
+    <nd ref="6108858993"/>
+    <nd ref="2094029075"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Poulter Rise"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+  </way>
+  <way id="867811794" version="4" timestamp="2022-12-22T22:33:16Z" changeset="130394872" uid="705850" user="Cebderby">
+    <nd ref="2094029103"/>
+    <nd ref="4985935469"/>
+    <nd ref="2094029075"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Elkesley Bridge Road"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="867811795" version="5" timestamp="2023-10-26T00:19:18Z" changeset="143138805" uid="13341565" user="Falsernet">
+    <nd ref="349331954"/>
+    <nd ref="4869841450"/>
+    <tag k="alt_name" v="Elkesley Bypass"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="E 15"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Worksop Road"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A1"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="1101729495" version="2" timestamp="2024-06-18T21:16:40Z" changeset="152866752" uid="5008136" user="JayTurnr">
+    <nd ref="11990930791"/>
+    <nd ref="802302270"/>
+    <nd ref="802302271"/>
+    <nd ref="800841920"/>
+    <nd ref="802302275"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A614"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="1101729496" version="2" timestamp="2024-06-18T21:16:40Z" changeset="152866752" uid="5008136" user="JayTurnr">
+    <nd ref="242958850"/>
+    <nd ref="11990930791"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Blyth Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A614"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="OS_OpenRoads"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="1101729497" version="3" timestamp="2024-06-18T21:16:40Z" changeset="152866752" uid="5008136" user="JayTurnr">
+    <nd ref="1887836255"/>
+    <nd ref="800841993"/>
+    <nd ref="11990937986"/>
+    <nd ref="11990930791"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1124292940" version="1" timestamp="2022-12-22T21:56:51Z" changeset="130393870" uid="705850" user="Cebderby">
+    <nd ref="10281220901"/>
+    <nd ref="10281220900"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Coalpit Lane"/>
+  </way>
+  <way id="1124292941" version="1" timestamp="2022-12-22T21:56:51Z" changeset="130393870" uid="705850" user="Cebderby">
+    <nd ref="10281220903"/>
+    <nd ref="10281220902"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Coalpit Lane"/>
+  </way>
+  <way id="1124292942" version="3" timestamp="2025-04-08T12:27:40Z" changeset="164677348" uid="21081459" user="Flynn_">
+    <nd ref="10281220905"/>
+    <nd ref="2094029103"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Elkesley Bridge Road"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1186000087" version="1" timestamp="2023-06-30T13:59:32Z" changeset="137960000" uid="1802093" user="Paul Berry">
+    <nd ref="2094029113"/>
+    <nd ref="349331981"/>
+    <nd ref="349331982"/>
+    <tag k="access" v="yes"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="horse" v="yes"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Coalpit Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1186000088" version="2" timestamp="2024-07-24T12:12:17Z" changeset="154347305" uid="12616743" user="BassetlawMapper">
+    <nd ref="171426334"/>
+    <nd ref="2094063413"/>
+    <nd ref="12071553214"/>
+    <nd ref="350147990"/>
+    <nd ref="4985935465"/>
+    <nd ref="11016135843"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Brick Yard Road"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="1186000089" version="1" timestamp="2023-06-30T13:59:32Z" changeset="137960000" uid="1802093" user="Paul Berry">
+    <nd ref="171426334"/>
+    <nd ref="118254133"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Old London Road"/>
+  </way>
+  <way id="1247101291" version="1" timestamp="2024-02-07T07:45:09Z" changeset="147164246" uid="1198074" user="DoubleA">
+    <nd ref="2094043089"/>
+    <nd ref="2094043126"/>
+    <nd ref="11016135842"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Eskil Way"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="1326474461" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137536"/>
+    <nd ref="12273137534"/>
+    <nd ref="12273137533"/>
+    <nd ref="12273137532"/>
+    <nd ref="12273137535"/>
+    <nd ref="12273137536"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="DN22 8AB"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="ref:GB:uprn" v="100031272045"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474462" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137537"/>
+    <nd ref="12273137536"/>
+    <nd ref="12273137535"/>
+    <nd ref="12273137548"/>
+    <nd ref="12273137537"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="DN22 8AB"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="ref:GB:uprn" v="100031272043"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474463" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137550"/>
+    <nd ref="12273137540"/>
+    <nd ref="12273137539"/>
+    <nd ref="12273137538"/>
+    <nd ref="12273137549"/>
+    <nd ref="12273137550"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="DN22 8AB"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="ref:GB:uprn" v="100031272039"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474464" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137546"/>
+    <nd ref="12273137543"/>
+    <nd ref="12273137542"/>
+    <nd ref="12273137541"/>
+    <nd ref="12273137545"/>
+    <nd ref="12273137546"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="DN22 8AB"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="100031272037"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474465" version="1" timestamp="2024-10-21T10:18:09Z" changeset="158162847" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="12273137547"/>
+    <nd ref="12273137546"/>
+    <nd ref="12273137545"/>
+    <nd ref="12273137544"/>
+    <nd ref="12273137547"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="DN22 8AB"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474466" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137537"/>
+    <nd ref="12273137550"/>
+    <nd ref="12273137549"/>
+    <nd ref="12273137548"/>
+    <nd ref="12273137537"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="DN22 8AB"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="ref:GB:uprn" v="100031272041"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474467" version="1" timestamp="2024-10-21T10:18:09Z" changeset="158162847" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="12273137554"/>
+    <nd ref="12273137552"/>
+    <nd ref="12273137551"/>
+    <nd ref="12273137553"/>
+    <nd ref="12273137554"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="DN22 8AH"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474468" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137554"/>
+    <nd ref="12273137559"/>
+    <nd ref="12273137555"/>
+    <nd ref="12273137553"/>
+    <nd ref="12273137554"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="DN22 8AH"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="ref:GB:uprn" v="100031272028"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474469" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137559"/>
+    <nd ref="12273137558"/>
+    <nd ref="12273137557"/>
+    <nd ref="12273137556"/>
+    <nd ref="12273137555"/>
+    <nd ref="12273137559"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="DN22 8AH"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="terraced"/>
+    <tag k="ref:GB:uprn" v="100031272026"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474470" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137565"/>
+    <nd ref="12273137562"/>
+    <nd ref="12273137561"/>
+    <nd ref="12273137560"/>
+    <nd ref="12273137564"/>
+    <nd ref="12273137565"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="DN22 8AH"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="100031272024"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474471" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137566"/>
+    <nd ref="12273137565"/>
+    <nd ref="12273137564"/>
+    <nd ref="12273137563"/>
+    <nd ref="12273137566"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="DN22 8AH"/>
+    <tag k="addr:street" v="Headland Avenue"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="100031272022"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474472" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137571"/>
+    <nd ref="12273137575"/>
+    <nd ref="12273137572"/>
+    <nd ref="12273137568"/>
+    <nd ref="12273137567"/>
+    <nd ref="12273137570"/>
+    <nd ref="12273137571"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="DN22 8AA"/>
+    <tag k="addr:street" v="Pepperly Rise"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="10013973184"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474473" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137575"/>
+    <nd ref="12273137574"/>
+    <nd ref="12273137573"/>
+    <nd ref="12273137572"/>
+    <nd ref="12273137575"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="DN22 8AA"/>
+    <tag k="addr:street" v="Pepperly Rise"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="10013973400"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474474" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137577"/>
+    <nd ref="12273137581"/>
+    <nd ref="12273137578"/>
+    <nd ref="12273137569"/>
+    <nd ref="12273137576"/>
+    <nd ref="12273137577"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="DN22 8AA"/>
+    <tag k="addr:street" v="Pepperly Rise"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="10013973181"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474475" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137581"/>
+    <nd ref="12273137580"/>
+    <nd ref="12273137579"/>
+    <nd ref="12273137578"/>
+    <nd ref="12273137581"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="DN22 8AA"/>
+    <tag k="addr:street" v="Pepperly Rise"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="10013973395"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474476" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137583"/>
+    <nd ref="12273137587"/>
+    <nd ref="12273137584"/>
+    <nd ref="12273137582"/>
+    <nd ref="12273137583"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="DN22 8AA"/>
+    <tag k="addr:street" v="Pepperly Rise"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="10013973397"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474477" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137587"/>
+    <nd ref="12273137586"/>
+    <nd ref="12273137585"/>
+    <nd ref="12273137584"/>
+    <nd ref="12273137587"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="DN22 8AA"/>
+    <tag k="addr:street" v="Pepperly Rise"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="10023262864"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474478" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137593"/>
+    <nd ref="12273137596"/>
+    <nd ref="12273137595"/>
+    <nd ref="12273137588"/>
+    <nd ref="12273137590"/>
+    <nd ref="12273137592"/>
+    <nd ref="12273137593"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="DN22 8AA"/>
+    <tag k="addr:street" v="Pepperly Rise"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="10013973402"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1326474479" version="2" timestamp="2025-09-23T17:47:02Z" changeset="172354575" uid="8857" user="philipcullen">
+    <nd ref="12273137597"/>
+    <nd ref="12273137593"/>
+    <nd ref="12273137592"/>
+    <nd ref="12273137591"/>
+    <nd ref="12273137589"/>
+    <nd ref="12273137594"/>
+    <nd ref="12273137597"/>
+    <tag k="addr:city" v="Retford"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="DN22 8AA"/>
+    <tag k="addr:street" v="Pepperly Rise"/>
+    <tag k="addr:suburb" v="Elkesley"/>
+    <tag k="building" v="house"/>
+    <tag k="house" v="semi-detached"/>
+    <tag k="ref:GB:uprn" v="10013973398"/>
+    <tag k="source" v="code-point_open"/>
+  </way>
+  <way id="1382758148" version="4" timestamp="2025-06-14T10:35:06Z" changeset="167606957" uid="20825283" user="Whiskey&amp;Pills">
+    <nd ref="367052943"/>
+    <nd ref="175882869"/>
+    <nd ref="59746326"/>
+    <nd ref="3481041477"/>
+    <nd ref="3481055662"/>
+    <nd ref="59746325"/>
+    <nd ref="59746324"/>
+    <nd ref="59746323"/>
+    <nd ref="800842005"/>
+    <nd ref="59746322"/>
+    <nd ref="3481055676"/>
+    <nd ref="800841999"/>
+    <nd ref="800841997"/>
+    <nd ref="1887836255"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Lime Tree Avenue"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="sidewalk:both:smoothness" v="intermediate"/>
+    <tag k="sidewalk:both:surface" v="grass"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

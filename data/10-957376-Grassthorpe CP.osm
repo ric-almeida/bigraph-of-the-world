@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:45:02Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="300729470" lat="53.1989003" lon="-0.8141762" version="2" timestamp="2013-06-20T08:48:25Z" changeset="16626581" uid="1383105" user="Gavrielo"/>
+  <node id="524409703" lat="53.1856787" lon="-0.8036513" version="3" timestamp="2020-12-13T15:40:01Z" changeset="95759700" uid="2296" user="Vince"/>
+  <node id="752539809" lat="53.2084925" lon="-0.8016385" version="2" timestamp="2014-05-10T13:46:33Z" changeset="22249726" uid="2011702" user="krd_mapper"/>
+  <node id="1489410026" lat="53.2034658" lon="-0.8087822" version="3" timestamp="2020-12-13T15:40:01Z" changeset="95759700" uid="2296" user="Vince"/>
+  <way id="60437011" version="15" timestamp="2021-08-27T13:40:20Z" changeset="110343535" uid="10127749" user="nbhiss">
+    <nd ref="300729470"/>
+    <nd ref="3742011014"/>
+    <nd ref="300729472"/>
+    <nd ref="3742011227"/>
+    <nd ref="300729474"/>
+    <nd ref="3742005553"/>
+    <nd ref="3742005545"/>
+    <nd ref="3742005544"/>
+    <nd ref="9040925462"/>
+    <nd ref="3742005552"/>
+    <nd ref="3742005550"/>
+    <nd ref="3741995750"/>
+    <nd ref="3741995749"/>
+    <nd ref="300729476"/>
+    <nd ref="7976395230"/>
+    <nd ref="3741995737"/>
+    <nd ref="3741995736"/>
+    <nd ref="8227454093"/>
+    <nd ref="300729478"/>
+    <nd ref="3741995740"/>
+    <nd ref="3741995742"/>
+    <nd ref="3741995739"/>
+    <nd ref="300729480"/>
+    <nd ref="3741995748"/>
+    <nd ref="300729482"/>
+    <nd ref="6775983849"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Grassthorpe Road"/>
+  </way>
+  <way id="60437012" version="5" timestamp="2025-05-08T18:28:53Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="300729470"/>
+    <nd ref="2772504769"/>
+    <nd ref="2772622420"/>
+    <nd ref="752488399"/>
+    <nd ref="2772622418"/>
+    <nd ref="752488401"/>
+    <nd ref="768213601"/>
+    <nd ref="768213602"/>
+    <nd ref="2772622415"/>
+    <nd ref="752488406"/>
+    <nd ref="2772622416"/>
+    <nd ref="300729519"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Grassthorpe Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:name" v="Sign"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="60437523" version="7" timestamp="2020-12-19T15:43:06Z" changeset="96112921" uid="2296" user="Vince">
+    <nd ref="1489410026"/>
+    <nd ref="8224427597"/>
+    <nd ref="8224427598"/>
+    <nd ref="8222574602"/>
+    <nd ref="1489410056"/>
+    <nd ref="8222574603"/>
+    <nd ref="8222574604"/>
+    <nd ref="8222574605"/>
+    <nd ref="8224427599"/>
+    <nd ref="8222574606"/>
+    <nd ref="8242975069"/>
+    <nd ref="8242975068"/>
+    <nd ref="8242975067"/>
+    <nd ref="8242975066"/>
+    <nd ref="1489410059"/>
+    <nd ref="8242975065"/>
+    <nd ref="8242975058"/>
+    <nd ref="1489410023"/>
+    <nd ref="3742032619"/>
+    <nd ref="3742032620"/>
+    <nd ref="3742032627"/>
+    <nd ref="752539842"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="South Street"/>
+  </way>
+  <way id="226522301" version="7" timestamp="2021-06-08T01:30:22Z" changeset="106000018" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="300729458"/>
+    <nd ref="8224427592"/>
+    <nd ref="300729460"/>
+    <nd ref="7698602833"/>
+    <nd ref="300729462"/>
+    <nd ref="300729464"/>
+    <nd ref="2353155979"/>
+    <nd ref="2353155978"/>
+    <nd ref="300729466"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Town Street"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="226522302" version="1" timestamp="2013-06-20T08:48:24Z" changeset="16626581" uid="1383105" user="Gavrielo">
+    <nd ref="2353155977"/>
+    <nd ref="2353155983"/>
+    <nd ref="2353155976"/>
+    <nd ref="2353155975"/>
+    <nd ref="2353155978"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Silver Street"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="226522304" version="5" timestamp="2015-09-13T23:43:17Z" changeset="34009007" uid="61942" user="SomeoneElse">
+    <nd ref="300729466"/>
+    <nd ref="2353155981"/>
+    <nd ref="3742011010"/>
+    <nd ref="2353155973"/>
+    <nd ref="300729468"/>
+    <nd ref="3742020162"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Town Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="338189486" version="4" timestamp="2020-12-13T15:40:01Z" changeset="95759700" uid="2296" user="Vince">
+    <nd ref="752539809"/>
+    <nd ref="300729452"/>
+    <nd ref="6774824064"/>
+    <nd ref="8224427601"/>
+    <nd ref="8224427600"/>
+    <nd ref="300729454"/>
+    <nd ref="1489410026"/>
+    <nd ref="8224427596"/>
+    <nd ref="300729456"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Grassthorpe Road"/>
+    <tag k="source:name" v="Sign at north (and Grassthorpe is south of here)"/>
+  </way>
+  <way id="370366735" version="3" timestamp="2017-05-03T13:26:12Z" changeset="48354795" uid="1778799" user="SomeoneElse_Revert">
+    <nd ref="3740733396"/>
+    <nd ref="3740733418"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ingram Lane"/>
+    <tag k="not:name" v="Ingrams Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="370366738" version="3" timestamp="2025-05-08T18:29:51Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="2353155988"/>
+    <nd ref="8224467425"/>
+    <nd ref="3740733417"/>
+    <nd ref="3740737543"/>
+    <nd ref="8224467424"/>
+    <nd ref="524409731"/>
+    <nd ref="8224467423"/>
+    <nd ref="3740733406"/>
+    <nd ref="8224467422"/>
+    <nd ref="8224467421"/>
+    <nd ref="3740737569"/>
+    <nd ref="8224467420"/>
+    <nd ref="3740733405"/>
+    <nd ref="8224467419"/>
+    <nd ref="3740737584"/>
+    <nd ref="3740733409"/>
+    <nd ref="3740737566"/>
+    <nd ref="524409734"/>
+    <nd ref="3740737587"/>
+    <nd ref="3740733411"/>
+    <nd ref="3740733403"/>
+    <nd ref="3740733396"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Ingram Lane"/>
+    <tag k="not:name" v="Ingrams Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="370366739" version="5" timestamp="2021-08-31T11:28:04Z" changeset="110509212" uid="10127749" user="nbhiss">
+    <nd ref="8224467536"/>
+    <nd ref="524409735"/>
+    <nd ref="3740730668"/>
+    <nd ref="3740730656"/>
+    <nd ref="3740730660"/>
+    <nd ref="3740730654"/>
+    <nd ref="3740730663"/>
+    <nd ref="3740730664"/>
+    <nd ref="8224467418"/>
+    <nd ref="524409737"/>
+    <nd ref="3740730665"/>
+    <nd ref="3740730669"/>
+    <nd ref="3740730666"/>
+    <nd ref="8224467417"/>
+    <nd ref="524409742"/>
+    <nd ref="9050723823"/>
+    <nd ref="524409744"/>
+    <nd ref="8224427616"/>
+    <nd ref="8190139264"/>
+    <nd ref="524409749"/>
+    <nd ref="300729458"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Ingram Lane"/>
+    <tag k="not:name" v="Ingrams Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="370369666" version="9" timestamp="2025-05-08T18:29:52Z" changeset="165997674" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="524409703"/>
+    <nd ref="3740763875"/>
+    <nd ref="8224467433"/>
+    <nd ref="3740770597"/>
+    <nd ref="9048863559"/>
+    <nd ref="524421300"/>
+    <nd ref="9048863538"/>
+    <nd ref="3740772012"/>
+    <nd ref="3740772015"/>
+    <nd ref="3740771992"/>
+    <nd ref="524409707"/>
+    <nd ref="3740771990"/>
+    <nd ref="3740772007"/>
+    <nd ref="3740772018"/>
+    <nd ref="3740772002"/>
+    <nd ref="3740772011"/>
+    <nd ref="3740772014"/>
+    <nd ref="524409713"/>
+    <nd ref="3740771996"/>
+    <nd ref="8569970038"/>
+    <nd ref="8224467432"/>
+    <nd ref="524409716"/>
+    <nd ref="8224467431"/>
+    <nd ref="3740771999"/>
+    <nd ref="8224467430"/>
+    <nd ref="3740771993"/>
+    <nd ref="3740771991"/>
+    <nd ref="3740771995"/>
+    <nd ref="8224467429"/>
+    <nd ref="524409719"/>
+    <nd ref="3740772008"/>
+    <nd ref="3740772000"/>
+    <nd ref="3740772017"/>
+    <nd ref="524409722"/>
+    <nd ref="3740771997"/>
+    <nd ref="3740772001"/>
+    <nd ref="3740772004"/>
+    <nd ref="3740772006"/>
+    <nd ref="3740772013"/>
+    <nd ref="524409724"/>
+    <nd ref="8261610248"/>
+    <nd ref="8224467428"/>
+    <nd ref="8224467427"/>
+    <nd ref="3740771994"/>
+    <nd ref="3740772016"/>
+    <nd ref="3740771998"/>
+    <nd ref="3740772005"/>
+    <nd ref="3740772009"/>
+    <nd ref="524409725"/>
+    <nd ref="3740772020"/>
+    <nd ref="3740772021"/>
+    <nd ref="3740772003"/>
+    <nd ref="8224467426"/>
+    <nd ref="3740772019"/>
+    <nd ref="524409727"/>
+    <nd ref="2353155988"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Ingram Lane"/>
+    <tag k="not:name" v="Ingrams Lane"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="Sign"/>
+  </way>
+  <way id="370508599" version="2" timestamp="2021-06-08T01:30:23Z" changeset="106000018" uid="3199858" user="Mateusz Konieczny - bot account">
+    <nd ref="3742020162"/>
+    <nd ref="3742011226"/>
+    <nd ref="300729470"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Town Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="849946699" version="2" timestamp="2020-12-13T15:40:01Z" changeset="95759700" uid="2296" user="Vince">
+    <nd ref="300729456"/>
+    <nd ref="8224427595"/>
+    <nd ref="8224427594"/>
+    <nd ref="8224427593"/>
+    <nd ref="300729458"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Grassthorpe Road"/>
+    <tag k="source:name" v="Sign at north (and Grassthorpe is south of here)"/>
+  </way>
+  <way id="879764220" version="3" timestamp="2024-11-22T12:43:45Z" changeset="159457308" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="8183951966"/>
+    <nd ref="8183951967"/>
+    <nd ref="8183951968"/>
+    <nd ref="8239931550"/>
+    <nd ref="8183951969"/>
+    <nd ref="8183951970"/>
+    <nd ref="8239931556"/>
+    <nd ref="8183951966"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Old Grange Farm"/>
+    <tag k="addr:postcode" v="NG23 6QZ"/>
+    <tag k="addr:street" v="Silver Street"/>
+    <tag k="addr:suburb" v="Grassthorpe"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Old Grange Farm"/>
+  </way>
+  <way id="880140205" version="3" timestamp="2024-11-22T12:43:45Z" changeset="159457308" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="8186971404"/>
+    <nd ref="8186971405"/>
+    <nd ref="8186971406"/>
+    <nd ref="8186971407"/>
+    <nd ref="8186971408"/>
+    <nd ref="8187032929"/>
+    <nd ref="8184967758"/>
+    <nd ref="8186971404"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Ivy Farm"/>
+    <tag k="addr:postcode" v="NG23 6QZ"/>
+    <tag k="addr:suburb" v="Grassthorpe"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Ivy Farm"/>
+  </way>
+  <way id="880146267" version="3" timestamp="2024-11-22T12:43:45Z" changeset="159457308" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="8187032929"/>
+    <nd ref="8187032930"/>
+    <nd ref="8187032931"/>
+    <nd ref="8187032932"/>
+    <nd ref="8187032933"/>
+    <nd ref="8187032934"/>
+    <nd ref="8187032935"/>
+    <nd ref="8187032936"/>
+    <nd ref="8187032937"/>
+    <nd ref="8187032938"/>
+    <nd ref="8186971408"/>
+    <nd ref="8187032929"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:housename" v="Lane End Farm"/>
+    <tag k="addr:postcode" v="NG23 6QZ"/>
+    <tag k="addr:suburb" v="Grassthorpe"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Snowdrop Cottage"/>
+  </way>
+  <way id="880242436" version="3" timestamp="2024-11-22T12:43:45Z" changeset="159457308" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="8187558500"/>
+    <nd ref="8197672281"/>
+    <nd ref="8187558501"/>
+    <nd ref="8187558502"/>
+    <nd ref="8187558503"/>
+    <nd ref="8187558504"/>
+    <nd ref="8187558499"/>
+    <nd ref="8187558500"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG23 6QZ"/>
+    <tag k="addr:suburb" v="Grassthorpe"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Wayside"/>
+  </way>
+  <way id="880535240" version="1" timestamp="2020-12-03T09:42:42Z" changeset="95213596" uid="2296" user="Vince">
+    <nd ref="8190078641"/>
+    <nd ref="8190078642"/>
+    <nd ref="8190078643"/>
+    <nd ref="8190078644"/>
+    <nd ref="8190078645"/>
+    <nd ref="8190078646"/>
+    <nd ref="8190078641"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Holly Cottage"/>
+  </way>
+  <way id="880535242" version="3" timestamp="2020-12-29T10:57:35Z" changeset="96594627" uid="2296" user="Vince">
+    <nd ref="8190078651"/>
+    <nd ref="8190078652"/>
+    <nd ref="8190078653"/>
+    <nd ref="8190078654"/>
+    <nd ref="8190078655"/>
+    <nd ref="8190078656"/>
+    <nd ref="8190078657"/>
+    <nd ref="8190078658"/>
+    <nd ref="8269730581"/>
+    <nd ref="8190078651"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Richmond House"/>
+  </way>
+  <way id="880535243" version="1" timestamp="2020-12-03T09:42:42Z" changeset="95213596" uid="2296" user="Vince">
+    <nd ref="8190078659"/>
+    <nd ref="8190078660"/>
+    <nd ref="3693857990"/>
+    <nd ref="8190078661"/>
+    <nd ref="8190078662"/>
+    <nd ref="8190078669"/>
+    <nd ref="8190078668"/>
+    <nd ref="8190078667"/>
+    <nd ref="8190078666"/>
+    <nd ref="8190078665"/>
+    <nd ref="8190078664"/>
+    <nd ref="8190078663"/>
+    <nd ref="8190078659"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Top Farm"/>
+  </way>
+  <way id="880560947" version="5" timestamp="2024-11-22T12:43:45Z" changeset="159457308" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="8190308936"/>
+    <nd ref="8190308937"/>
+    <nd ref="8190308938"/>
+    <nd ref="8190308939"/>
+    <nd ref="8190308940"/>
+    <nd ref="8190308941"/>
+    <nd ref="8190308942"/>
+    <nd ref="8190308943"/>
+    <nd ref="8190308944"/>
+    <nd ref="8190308945"/>
+    <nd ref="8190308946"/>
+    <nd ref="8190308947"/>
+    <nd ref="8190308948"/>
+    <nd ref="8190308949"/>
+    <nd ref="8190308936"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG23 6QZ"/>
+    <tag k="addr:suburb" v="Grassthorpe"/>
+    <tag k="building" v="house"/>
+    <tag k="height" v="0.3"/>
+    <tag k="name" v="Beck House"/>
+  </way>
+  <way id="880770109" version="4" timestamp="2024-11-22T12:43:45Z" changeset="159457308" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="8191995165"/>
+    <nd ref="8201766996"/>
+    <nd ref="9505550397"/>
+    <nd ref="8191995167"/>
+    <nd ref="8191995168"/>
+    <nd ref="8191995169"/>
+    <nd ref="8191995170"/>
+    <nd ref="8191995171"/>
+    <nd ref="8191995172"/>
+    <nd ref="8191995165"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG23 6QZ"/>
+    <tag k="addr:suburb" v="Grassthorpe"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="name" v="The Manor"/>
+  </way>
+  <way id="880770110" version="3" timestamp="2021-02-19T08:52:36Z" changeset="99577834" uid="2296" user="Vince">
+    <nd ref="8191995173"/>
+    <nd ref="8191995174"/>
+    <nd ref="8191995175"/>
+    <nd ref="8191995176"/>
+    <nd ref="8191995177"/>
+    <nd ref="8191995178"/>
+    <nd ref="8191995179"/>
+    <nd ref="8191995180"/>
+    <nd ref="8191995181"/>
+    <nd ref="8191995182"/>
+    <nd ref="8191995173"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Midwinter Lodge"/>
+  </way>
+  <way id="880998867" version="3" timestamp="2021-02-18T20:33:06Z" changeset="99547581" uid="2296" user="Vince">
+    <nd ref="8194096952"/>
+    <nd ref="8194096953"/>
+    <nd ref="8194096954"/>
+    <nd ref="8194096955"/>
+    <nd ref="8194096956"/>
+    <nd ref="8194096957"/>
+    <nd ref="8194096958"/>
+    <nd ref="8194096959"/>
+    <nd ref="8194096952"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Town House"/>
+  </way>
+  <way id="881254870" version="3" timestamp="2024-11-22T12:43:45Z" changeset="159457308" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="8196253010"/>
+    <nd ref="8196253011"/>
+    <nd ref="8196253012"/>
+    <nd ref="8196253013"/>
+    <nd ref="8196253014"/>
+    <nd ref="8196253015"/>
+    <nd ref="8196253016"/>
+    <nd ref="8196283617"/>
+    <nd ref="8196283618"/>
+    <nd ref="8196283619"/>
+    <nd ref="8196283620"/>
+    <nd ref="8196283621"/>
+    <nd ref="8196283622"/>
+    <nd ref="8196283623"/>
+    <nd ref="8196283624"/>
+    <nd ref="8196283625"/>
+    <nd ref="8196253010"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG23 6QZ"/>
+    <tag k="addr:suburb" v="Grassthorpe"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Cloudberry Cottage"/>
+  </way>
+  <way id="883834686" version="2" timestamp="2022-07-12T12:14:05Z" changeset="123518900" uid="15458800" user="NumisK">
+    <nd ref="8219975843"/>
+    <nd ref="8219975844"/>
+    <nd ref="8219975845"/>
+    <nd ref="8219975846"/>
+    <nd ref="9883083173"/>
+    <nd ref="8219975848"/>
+    <nd ref="8219975849"/>
+    <nd ref="8219975850"/>
+    <nd ref="8219975843"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Holly Nook"/>
+  </way>
+  <way id="884367362" version="1" timestamp="2020-12-13T15:40:01Z" changeset="95759700" uid="2296" user="Vince">
+    <nd ref="3740733418"/>
+    <nd ref="8224467536"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Ingram Lane"/>
+    <tag k="not:name" v="Ingrams Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="888611465" version="2" timestamp="2021-02-19T09:03:08Z" changeset="99578572" uid="2296" user="Vince">
+    <nd ref="8261512401"/>
+    <nd ref="8261512402"/>
+    <nd ref="8261512403"/>
+    <nd ref="8261512404"/>
+    <nd ref="8261512405"/>
+    <nd ref="8261512406"/>
+    <nd ref="8261512407"/>
+    <nd ref="8261512408"/>
+    <nd ref="8261512409"/>
+    <nd ref="8261512410"/>
+    <nd ref="8261512401"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Orchard Cottage"/>
+  </way>
+  <way id="890183221" version="2" timestamp="2021-02-18T20:48:42Z" changeset="99548103" uid="2296" user="Vince">
+    <nd ref="8201767002"/>
+    <nd ref="8274384529"/>
+    <nd ref="8274384530"/>
+    <nd ref="8274384531"/>
+    <nd ref="8274384532"/>
+    <nd ref="8274384533"/>
+    <nd ref="8191995152"/>
+    <nd ref="8190791066"/>
+    <nd ref="8190791063"/>
+    <nd ref="8274384536"/>
+    <nd ref="8201767002"/>
+    <tag k="building" v="house"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Harvest Barn"/>
+  </way>
+
+</osm>

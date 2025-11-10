@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T16:30:36Z" areas="2025-10-23T12:46:58Z"/>
+
+  <node id="33795186" lat="53.4125825" lon="-0.9659071" version="6" timestamp="2015-03-15T13:16:42Z" changeset="29493673" uid="84681" user="SK53"/>
+  <node id="33795206" lat="53.4078692" lon="-0.9340974" version="8" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry"/>
+  <node id="36160713" lat="53.4000448" lon="-0.9598963" version="9" timestamp="2009-07-07T19:00:55Z" changeset="1764234" uid="104845" user="InTheUK"/>
+  <node id="38907942" lat="53.3979965" lon="-0.9641743" version="4" timestamp="2014-05-13T13:12:57Z" changeset="22312597" uid="2011702" user="krd_mapper"/>
+  <node id="3375091225" lat="53.4074784" lon="-0.9357053" version="3" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry"/>
+  <node id="3399832394" lat="53.4063499" lon="-0.9409183" version="1" timestamp="2015-03-15T13:16:41Z" changeset="29493673" uid="84681" user="SK53"/>
+  <node id="8481168102" lat="53.4078370" lon="-0.9354591" version="1" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry"/>
+  <way id="5046970" version="25" timestamp="2024-07-31T15:48:19Z" changeset="154656683" uid="10675085" user="2tefan">
+    <nd ref="33587979"/>
+    <nd ref="2858957378"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="5047025" version="11" timestamp="2024-07-31T15:48:15Z" changeset="154656683" uid="10675085" user="2tefan">
+    <nd ref="33795206"/>
+    <nd ref="6787462442"/>
+    <nd ref="8481168102"/>
+    <nd ref="36160740"/>
+    <nd ref="33795203"/>
+    <nd ref="8481168099"/>
+    <nd ref="4986019491"/>
+    <nd ref="33587979"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="5184806" version="16" timestamp="2021-09-18T14:31:31Z" changeset="111378021" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="36160715"/>
+    <nd ref="367062291"/>
+    <nd ref="367062279"/>
+    <nd ref="367062308"/>
+    <nd ref="2898293195"/>
+    <nd ref="367062319"/>
+    <nd ref="367062329"/>
+    <nd ref="38908047"/>
+    <nd ref="367062341"/>
+    <nd ref="36160716"/>
+    <nd ref="367062354"/>
+    <nd ref="378483817"/>
+    <nd ref="36160717"/>
+    <nd ref="367062384"/>
+    <nd ref="3310564176"/>
+    <nd ref="367062399"/>
+    <nd ref="7351282779"/>
+    <nd ref="36160718"/>
+    <nd ref="367062408"/>
+    <nd ref="8428452084"/>
+    <nd ref="367062427"/>
+    <nd ref="36160719"/>
+    <nd ref="367062443"/>
+    <nd ref="36160720"/>
+    <nd ref="9103713357"/>
+    <nd ref="9103713354"/>
+    <nd ref="5097657331"/>
+    <nd ref="36160721"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Mattersey Road"/>
+  </way>
+  <way id="5184817" version="11" timestamp="2024-12-28T19:07:52Z" changeset="160726506" uid="8857" user="philipcullen">
+    <nd ref="36160713"/>
+    <nd ref="360964544"/>
+    <nd ref="378483751"/>
+    <nd ref="378483333"/>
+    <nd ref="378483759"/>
+    <nd ref="36160722"/>
+    <nd ref="378483310"/>
+    <nd ref="378483322"/>
+    <nd ref="36160723"/>
+    <nd ref="436501946"/>
+    <nd ref="436501949"/>
+    <nd ref="378483301"/>
+    <nd ref="378483290"/>
+    <nd ref="360964547"/>
+    <nd ref="378483211"/>
+    <nd ref="436501963"/>
+    <nd ref="36160724"/>
+    <nd ref="378483231"/>
+    <nd ref="378483173"/>
+    <nd ref="3314828293"/>
+    <nd ref="378483192"/>
+    <nd ref="36160725"/>
+    <nd ref="378483136"/>
+    <nd ref="360964549"/>
+    <nd ref="386861158"/>
+    <nd ref="378483166"/>
+    <nd ref="36160726"/>
+    <nd ref="436501980"/>
+    <nd ref="378483123"/>
+    <nd ref="360964554"/>
+    <nd ref="378483112"/>
+    <nd ref="436502409"/>
+    <nd ref="36160727"/>
+    <nd ref="378483063"/>
+    <nd ref="378483100"/>
+    <nd ref="378483077"/>
+    <nd ref="12459401217"/>
+    <nd ref="378483089"/>
+    <nd ref="36160728"/>
+    <nd ref="436502418"/>
+    <nd ref="360964557"/>
+    <nd ref="436502425"/>
+    <nd ref="36160729"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Eel Pool Road"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="5410308" version="4" timestamp="2009-09-26T17:30:10Z" changeset="2643292" uid="8857" user="philipcullen">
+    <nd ref="38907959"/>
+    <nd ref="367062251"/>
+    <nd ref="38907981"/>
+    <nd ref="38907997"/>
+    <nd ref="367062259"/>
+    <nd ref="38908016"/>
+    <nd ref="367062269"/>
+    <nd ref="38908030"/>
+    <nd ref="36160715"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Mattersey Road"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="5410310" version="3" timestamp="2010-01-13T15:45:31Z" changeset="3610809" uid="26825" user="Warofdreams">
+    <nd ref="38907942"/>
+    <nd ref="38907959"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mattersey Road"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="5410311" version="6" timestamp="2009-07-07T18:59:57Z" changeset="1764234" uid="104845" user="InTheUK">
+    <nd ref="36160713"/>
+    <nd ref="378483767"/>
+    <nd ref="360965053"/>
+    <nd ref="436499087"/>
+    <nd ref="378483791"/>
+    <nd ref="378483777"/>
+    <nd ref="36160714"/>
+    <nd ref="378483801"/>
+    <nd ref="38980537"/>
+    <nd ref="36160715"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Eel Pool Road"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="33182274" version="12" timestamp="2024-12-28T19:18:10Z" changeset="160726506" uid="8857" user="philipcullen">
+    <nd ref="375947644"/>
+    <nd ref="9027742014"/>
+    <nd ref="9103732176"/>
+    <nd ref="375947650"/>
+    <nd ref="734818115"/>
+    <nd ref="9103732181"/>
+    <nd ref="9103732188"/>
+    <nd ref="386856670"/>
+    <nd ref="734818154"/>
+    <nd ref="12459399550"/>
+    <nd ref="12459399549"/>
+    <nd ref="386856660"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="High Street"/>
+  </way>
+  <way id="33784840" version="8" timestamp="2024-12-28T19:18:10Z" changeset="160726506" uid="8857" user="philipcullen">
+    <nd ref="386856660"/>
+    <nd ref="12459399548"/>
+    <nd ref="734818208"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="High Street"/>
+  </way>
+  <way id="33784841" version="6" timestamp="2021-08-23T06:11:46Z" changeset="110091308" uid="13859447" user="pmandapr">
+    <nd ref="386856660"/>
+    <nd ref="9027752427"/>
+    <nd ref="386856668"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Church Street"/>
+  </way>
+  <way id="33784842" version="8" timestamp="2015-03-16T11:20:31Z" changeset="29515057" uid="84681" user="SK53">
+    <nd ref="386856671"/>
+    <nd ref="734818111"/>
+    <nd ref="734818105"/>
+    <nd ref="3401563657"/>
+    <nd ref="3401563909"/>
+    <nd ref="734818294"/>
+    <nd ref="3399940576"/>
+    <nd ref="386856676"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Chapel Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="33784843" version="5" timestamp="2015-03-15T13:59:45Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="386856676"/>
+    <nd ref="734818155"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ferry Lane"/>
+  </way>
+  <way id="33785229" version="6" timestamp="2015-03-15T13:59:45Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="3398897214"/>
+    <nd ref="3399940583"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Harwell Sluice Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="33785231" version="7" timestamp="2021-12-07T10:45:07Z" changeset="114654755" uid="122844" user="Casey_boy">
+    <nd ref="386856680"/>
+    <nd ref="386859370"/>
+    <nd ref="3309748631"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="motor_vehicle" v="destination"/>
+    <tag k="name" v="Pinfold Lane"/>
+    <tag k="source:designation" v="survey"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="33785560" version="9" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="386856678"/>
+    <nd ref="386856679"/>
+    <nd ref="3399940897"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Harwell Sluice Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="38846941" version="3" timestamp="2016-07-06T18:21:28Z" changeset="40526898" uid="1892838" user="Dyserth">
+    <nd ref="461248012"/>
+    <nd ref="461248015"/>
+    <nd ref="461248016"/>
+    <nd ref="461248017"/>
+    <nd ref="461248024"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="38848639" version="2" timestamp="2019-09-10T06:25:55Z" changeset="74290682" uid="10170569" user="poodoshi">
+    <nd ref="461248024"/>
+    <nd ref="6784394970"/>
+    <nd ref="386861161"/>
+    <nd ref="6784394966"/>
+    <nd ref="461270323"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="40033244" version="4" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="386856672"/>
+    <nd ref="3399940895"/>
+    <nd ref="3399940588"/>
+    <nd ref="3399940575"/>
+    <nd ref="386856673"/>
+    <nd ref="3399940573"/>
+    <nd ref="386856674"/>
+    <nd ref="3399940899"/>
+    <nd ref="3399940566"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Harwell Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="41532496" version="3" timestamp="2010-05-15T01:42:29Z" changeset="4701859" uid="26825" user="Warofdreams">
+    <nd ref="386856668"/>
+    <nd ref="386856677"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Old Post Office Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="41532497" version="5" timestamp="2024-12-28T19:23:39Z" changeset="160726506" uid="8857" user="philipcullen">
+    <nd ref="386856669"/>
+    <nd ref="3401563903"/>
+    <nd ref="12459424273"/>
+    <nd ref="386856670"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brewery Lane"/>
+  </way>
+  <way id="41532498" version="11" timestamp="2021-09-18T14:31:31Z" changeset="111378021" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="36160721"/>
+    <nd ref="9103713365"/>
+    <nd ref="3310564168"/>
+    <nd ref="6475162460"/>
+    <nd ref="386856671"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Bawtry Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="48232048" version="4" timestamp="2015-03-15T13:59:46Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="386856676"/>
+    <nd ref="734818272"/>
+    <nd ref="3399940571"/>
+    <nd ref="386856672"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Chapel Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="48232049" version="4" timestamp="2024-12-28T19:23:39Z" changeset="160726506" uid="8857" user="philipcullen">
+    <nd ref="386856677"/>
+    <nd ref="734818104"/>
+    <nd ref="12459424274"/>
+    <nd ref="386856669"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Old Post Office Street"/>
+  </way>
+  <way id="48232054" version="4" timestamp="2022-10-29T08:25:58Z" changeset="128200778" uid="8088648" user="Michael-Rowe">
+    <nd ref="375947644"/>
+    <nd ref="36160721"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="59244265" version="2" timestamp="2017-09-11T10:39:40Z" changeset="51935597" uid="84681" user="SK53">
+    <nd ref="734818106"/>
+    <nd ref="734818107"/>
+    <nd ref="5097655310"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Long Meadows"/>
+  </way>
+  <way id="59244266" version="3" timestamp="2015-03-15T13:59:46Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="734818110"/>
+    <nd ref="734818111"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Willows"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="59244267" version="3" timestamp="2013-06-11T08:57:48Z" changeset="16506927" uid="1383105" user="Gavrielo">
+    <nd ref="734818113"/>
+    <nd ref="734818114"/>
+    <nd ref="734818115"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pine Close"/>
+  </way>
+  <way id="59244269" version="2" timestamp="2021-09-18T14:38:13Z" changeset="111378247" uid="493595" user="Yorvik Prestigitator">
+    <nd ref="734818150"/>
+    <nd ref="734818151"/>
+    <nd ref="734818152"/>
+    <nd ref="9103732190"/>
+    <nd ref="734818153"/>
+    <nd ref="9103732191"/>
+    <nd ref="734818154"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carr View"/>
+  </way>
+  <way id="59244271" version="4" timestamp="2015-03-15T13:59:47Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="386856677"/>
+    <nd ref="734818155"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Ferry Lane"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="59244272" version="4" timestamp="2015-03-15T13:59:47Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="734818155"/>
+    <nd ref="3398897196"/>
+    <nd ref="734818156"/>
+    <nd ref="3399940572"/>
+    <nd ref="386856668"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="59244278" version="2" timestamp="2021-08-23T06:11:46Z" changeset="110091308" uid="13859447" user="pmandapr">
+    <nd ref="734818179"/>
+    <nd ref="9027752430"/>
+    <nd ref="734818180"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Windy Ridge"/>
+  </way>
+  <way id="59244279" version="2" timestamp="2010-05-15T01:42:59Z" changeset="4701859" uid="26825" user="Warofdreams">
+    <nd ref="734818181"/>
+    <nd ref="734818182"/>
+    <nd ref="734818183"/>
+    <nd ref="734818184"/>
+    <nd ref="734818192"/>
+    <nd ref="734818185"/>
+    <nd ref="734818186"/>
+    <nd ref="734818187"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Croft Way"/>
+  </way>
+  <way id="59244280" version="2" timestamp="2013-06-11T08:57:48Z" changeset="16506927" uid="1383105" user="Gavrielo">
+    <nd ref="734818189"/>
+    <nd ref="734818190"/>
+    <nd ref="734818191"/>
+    <nd ref="734818192"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Croft Farm Close"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="59244283" version="5" timestamp="2022-10-02T13:47:18Z" changeset="126894516" uid="2113762" user="Skids">
+    <nd ref="734818198"/>
+    <nd ref="734818199"/>
+    <nd ref="734818200"/>
+    <nd ref="734818201"/>
+    <nd ref="165175861"/>
+    <nd ref="165175954"/>
+    <nd ref="734818202"/>
+    <nd ref="734818203"/>
+    <nd ref="734818204"/>
+    <nd ref="6958515041"/>
+    <nd ref="734818205"/>
+    <tag k="designation" v="public_bridleway"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Croft Lane"/>
+  </way>
+  <way id="59244284" version="8" timestamp="2022-10-02T13:43:18Z" changeset="126894359" uid="2113762" user="Skids">
+    <nd ref="734818208"/>
+    <nd ref="386856661"/>
+    <nd ref="6881246751"/>
+    <nd ref="734818320"/>
+    <nd ref="734818319"/>
+    <nd ref="734818315"/>
+    <nd ref="386856662"/>
+    <nd ref="3399940592"/>
+    <nd ref="386856663"/>
+    <nd ref="386856664"/>
+    <nd ref="386856665"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Everton Sluice Lane"/>
+  </way>
+  <way id="225210308" version="1" timestamp="2013-06-11T08:38:51Z" changeset="16506927" uid="1383105" user="Gavrielo">
+    <nd ref="2340248738"/>
+    <nd ref="2340248721"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Gringley Court"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="OS_OpenData_Locator"/>
+  </way>
+  <way id="225210316" version="1" timestamp="2013-06-11T08:38:52Z" changeset="16506927" uid="1383105" user="Gavrielo">
+    <nd ref="2340248751"/>
+    <nd ref="2340248753"/>
+    <nd ref="2340248725"/>
+    <nd ref="2340248731"/>
+    <nd ref="2340248727"/>
+    <nd ref="2340248733"/>
+    <nd ref="2340248755"/>
+    <nd ref="2340248742"/>
+    <nd ref="2340248757"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Nutcroft Way"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="225212148" version="1" timestamp="2013-06-11T08:57:46Z" changeset="16506927" uid="1383105" user="Gavrielo">
+    <nd ref="2340270038"/>
+    <nd ref="734818183"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="281934873" version="7" timestamp="2024-07-31T15:48:35Z" changeset="154656683" uid="10675085" user="2tefan">
+    <nd ref="2858957378"/>
+    <nd ref="4986019494"/>
+    <nd ref="702809885"/>
+    <nd ref="4986019493"/>
+    <nd ref="33795201"/>
+    <nd ref="33795198"/>
+    <nd ref="36160736"/>
+    <nd ref="374387472"/>
+    <nd ref="461248012"/>
+    <nd ref="461270321"/>
+    <nd ref="481346188"/>
+    <nd ref="33795195"/>
+    <nd ref="4986019510"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="286188955" version="9" timestamp="2022-10-29T08:26:24Z" changeset="128200778" uid="8088648" user="Michael-Rowe">
+    <nd ref="386856671"/>
+    <nd ref="33795189"/>
+    <nd ref="33795186"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Bawtry Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="332754409" version="2" timestamp="2015-03-15T13:59:48Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="386856682"/>
+    <nd ref="3398897215"/>
+    <nd ref="386859308"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Harwell Sluice Lane"/>
+  </way>
+  <way id="332872640" version="4" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="3399832394"/>
+    <nd ref="36160733"/>
+    <nd ref="374387593"/>
+    <nd ref="36160734"/>
+    <nd ref="374387543"/>
+    <nd ref="374387571"/>
+    <nd ref="374387509"/>
+    <nd ref="367062497"/>
+    <nd ref="36160735"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="332872641" version="6" timestamp="2020-04-22T05:18:30Z" changeset="83913365" uid="10457692" user="pravallg">
+    <nd ref="3399832396"/>
+    <nd ref="374387445"/>
+    <nd ref="6880664153"/>
+    <nd ref="7432313693"/>
+    <nd ref="6532308132"/>
+    <nd ref="4269028931"/>
+    <nd ref="4986019503"/>
+    <nd ref="4986019498"/>
+    <nd ref="6880664155"/>
+    <nd ref="375947644"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="332872642" version="6" timestamp="2023-11-05T14:41:42Z" changeset="143653079" uid="10860083" user="jordie8396">
+    <nd ref="33795186"/>
+    <nd ref="3360364213"/>
+    <nd ref="2898293192"/>
+    <nd ref="386856678"/>
+    <nd ref="7505844710"/>
+    <nd ref="33795183"/>
+    <nd ref="3360364296"/>
+    <nd ref="3314877453"/>
+    <nd ref="3314877447"/>
+    <nd ref="3314877439"/>
+    <nd ref="33795181"/>
+    <nd ref="3314877437"/>
+    <nd ref="3314877434"/>
+    <nd ref="3360364293"/>
+    <nd ref="3360364295"/>
+    <nd ref="3314873000"/>
+    <nd ref="33795179"/>
+    <nd ref="33795178"/>
+    <nd ref="9650491719"/>
+    <nd ref="4986019504"/>
+    <nd ref="11327589773"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Bawtry Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="332878678" version="2" timestamp="2015-06-14T08:03:48Z" changeset="31957014" uid="39504" user="malenki">
+    <nd ref="3309748631"/>
+    <nd ref="3399940893"/>
+    <nd ref="734818265"/>
+    <nd ref="3399940578"/>
+    <tag k="access" v="destination"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Pinfold Lane"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:designation" v="survey"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="surface" v="unpaved"/>
+    <tag k="tracktype" v="grade3"/>
+  </way>
+  <way id="332878679" version="1" timestamp="2015-03-15T13:59:43Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="386859308"/>
+    <nd ref="3398897214"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Harwell Sluice Lane"/>
+  </way>
+  <way id="332878680" version="1" timestamp="2015-03-15T13:59:43Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="3399940566"/>
+    <nd ref="3399940581"/>
+    <nd ref="386856675"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Harwell Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="332878682" version="1" timestamp="2015-03-15T13:59:43Z" changeset="29495979" uid="84681" user="SK53">
+    <nd ref="3399940586"/>
+    <nd ref="734818110"/>
+    <nd ref="3399940577"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="The Willows"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="332878684" version="4" timestamp="2021-02-10T11:01:40Z" changeset="99036336" uid="10252543" user="srikmar">
+    <nd ref="3399940897"/>
+    <nd ref="6907945217"/>
+    <nd ref="386856675"/>
+    <nd ref="7984260313"/>
+    <nd ref="2340248757"/>
+    <nd ref="734818277"/>
+    <nd ref="2340248721"/>
+    <nd ref="386856680"/>
+    <nd ref="8411442161"/>
+    <nd ref="386856681"/>
+    <nd ref="386856682"/>
+    <nd ref="3398897214"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Harwell Sluice Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="332878685" version="2" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="3399940583"/>
+    <nd ref="386859310"/>
+    <nd ref="3398897216"/>
+    <nd ref="3398897218"/>
+    <nd ref="386859312"/>
+    <nd ref="2856785004"/>
+    <nd ref="2856781298"/>
+    <nd ref="2856785003"/>
+    <nd ref="2856785006"/>
+    <nd ref="386859313"/>
+    <nd ref="3398897219"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Harwell Sluice Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="333042024" version="6" timestamp="2024-12-28T19:15:04Z" changeset="160726506" uid="8857" user="philipcullen">
+    <nd ref="3401563667"/>
+    <nd ref="3401563671"/>
+    <nd ref="3401563676"/>
+    <nd ref="3401563902"/>
+    <nd ref="3401563674"/>
+    <nd ref="3401563679"/>
+    <nd ref="3401563685"/>
+    <nd ref="3401563668"/>
+    <nd ref="3401563680"/>
+    <nd ref="3401563673"/>
+    <nd ref="3401563894"/>
+    <nd ref="3401563910"/>
+    <nd ref="3401563667"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="name" v="Holy Trinity"/>
+    <tag k="ref:GB:uprn" v="10090362555"/>
+    <tag k="ref:dove" v="10129"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="survey"/>
+    <tag k="source:geometry" v="Bing"/>
+    <tag k="wikidata" v="Q105103499"/>
+  </way>
+  <way id="333042034" version="1" timestamp="2015-03-16T11:20:30Z" changeset="29515057" uid="84681" user="SK53">
+    <nd ref="386856668"/>
+    <nd ref="3401563898"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Church Street"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source" v="survey"/>
+  </way>
+  <way id="429495096" version="2" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="36160735"/>
+    <nd ref="461248033"/>
+    <nd ref="461248031"/>
+    <nd ref="374387492"/>
+    <nd ref="461248035"/>
+    <nd ref="461248034"/>
+    <nd ref="461248036"/>
+    <nd ref="367062467"/>
+    <nd ref="36160736"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="429495097" version="2" timestamp="2019-09-10T06:25:55Z" changeset="74290682" uid="10170569" user="poodoshi">
+    <nd ref="461248024"/>
+    <nd ref="461248028"/>
+    <nd ref="6784394975"/>
+    <nd ref="461248031"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="509352727" version="1" timestamp="2017-07-22T02:48:50Z" changeset="50472779" uid="5296090" user="TR42">
+    <nd ref="4986019510"/>
+    <nd ref="3310674053"/>
+    <nd ref="3399832396"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Gainsborough Road"/>
+    <tag k="ref" v="A631"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="523685929" version="1" timestamp="2017-09-11T10:39:39Z" changeset="51935597" uid="84681" user="SK53">
+    <nd ref="734818107"/>
+    <nd ref="734818108"/>
+    <nd ref="5097655305"/>
+    <nd ref="734818109"/>
+    <nd ref="734818105"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Long Meadows"/>
+  </way>
+  <way id="912977291" version="1" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="3375091225"/>
+    <nd ref="8481168097"/>
+    <nd ref="8481168106"/>
+    <nd ref="8481168098"/>
+    <nd ref="36160740"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="912977292" version="1" timestamp="2021-03-02T23:21:37Z" changeset="100307927" uid="1802093" user="Paul Berry">
+    <nd ref="8481168102"/>
+    <nd ref="8481168101"/>
+    <nd ref="8481168100"/>
+    <tag k="highway" v="secondary_link"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Old Gainsborough Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B6045"/>
+  </way>
+  <way id="1099850613" version="1" timestamp="2022-10-02T13:43:18Z" changeset="126894359" uid="2113762" user="Skids">
+    <nd ref="386856665"/>
+    <nd ref="386856666"/>
+    <nd ref="386856667"/>
+    <nd ref="3399940569"/>
+    <nd ref="165175629"/>
+    <tag k="designation" v="public_bridleway"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Everton Sluice Lane"/>
+  </way>
+  <way id="1099851372" version="1" timestamp="2022-10-02T13:47:18Z" changeset="126894516" uid="2113762" user="Skids">
+    <nd ref="734818205"/>
+    <nd ref="734818206"/>
+    <nd ref="734818207"/>
+    <nd ref="734818325"/>
+    <nd ref="734818187"/>
+    <nd ref="734818180"/>
+    <nd ref="9027752423"/>
+    <nd ref="734818208"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Croft Lane"/>
+  </way>
+
+</osm>

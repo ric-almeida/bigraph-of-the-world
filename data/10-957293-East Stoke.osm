@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-10-23T17:41:00Z" areas="2025-10-23T14:54:58Z"/>
+
+  <node id="115258386" lat="53.0413322" lon="-0.8742973" version="6" timestamp="2025-04-21T20:17:42Z" changeset="165256891" uid="5229644" user="Nathan_A_RF"/>
+  <node id="195932670" lat="53.0275703" lon="-0.8720834" version="3" timestamp="2024-01-24T20:51:08Z" changeset="146646993" uid="84681" user="SK53"/>
+  <node id="290792162" lat="53.0245632" lon="-0.8388197" version="4" timestamp="2015-03-29T22:58:02Z" changeset="29838321" uid="61942" user="SomeoneElse"/>
+  <node id="1272527703" lat="53.0524345" lon="-0.8418289" version="3" timestamp="2013-06-06T19:35:13Z" changeset="16448778" uid="1179194" user="Sam8uca"/>
+  <node id="1272527752" lat="53.0305972" lon="-0.8782818" version="3" timestamp="2024-01-23T10:51:35Z" changeset="146587467" uid="84681" user="SK53"/>
+  <node id="1640992162" lat="53.0274659" lon="-0.8836244" version="5" timestamp="2024-01-23T10:51:35Z" changeset="146587467" uid="84681" user="SK53">
+    <tag k="exit_to" v="Thorpe;East Stoke;Elston"/>
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="1986266004" lat="53.0621808" lon="-0.8357453" version="2" timestamp="2025-04-21T12:00:54Z" changeset="165235790" uid="5229644" user="Nathan_A_RF"/>
+  <node id="5005870836" lat="53.0296944" lon="-0.8873775" version="3" timestamp="2024-07-04T20:46:50Z" changeset="153564515" uid="5008136" user="JayTurnr"/>
+  <way id="26382390" version="12" timestamp="2015-03-30T21:03:24Z" changeset="29860713" uid="61942" user="SomeoneElse">
+    <nd ref="290792162"/>
+    <nd ref="3427546621"/>
+    <nd ref="3427532044"/>
+    <nd ref="3427532011"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Moor Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="26531640" version="8" timestamp="2022-03-09T22:29:03Z" changeset="118296705" uid="242345" user="confusedbuffalo">
+    <nd ref="290792162"/>
+    <nd ref="2306415936"/>
+    <nd ref="2207268775"/>
+    <nd ref="2207268764"/>
+    <nd ref="2202178973"/>
+    <nd ref="290796834"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Cross Lane"/>
+    <tag k="name:signed" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="npe"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="29430628" version="7" timestamp="2024-01-23T05:00:06Z" changeset="146578110" uid="84681" user="SK53">
+    <nd ref="324357992"/>
+    <nd ref="324357991"/>
+    <nd ref="8359921642"/>
+    <nd ref="3427628692"/>
+    <nd ref="11542230672"/>
+    <nd ref="27045000"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="School Lane"/>
+  </way>
+  <way id="41523708" version="14" timestamp="2025-04-21T20:17:42Z" changeset="165256891" uid="5229644" user="Nathan_A_RF">
+    <nd ref="195932670"/>
+    <nd ref="6737893851"/>
+    <nd ref="195932672"/>
+    <nd ref="195932673"/>
+    <nd ref="11547467362"/>
+    <nd ref="11547467361"/>
+    <nd ref="195932675"/>
+    <nd ref="195932677"/>
+    <nd ref="195932678"/>
+    <nd ref="6908453077"/>
+    <nd ref="195932679"/>
+    <nd ref="195932680"/>
+    <nd ref="12772997361"/>
+    <nd ref="1645061298"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Elston Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="60358883" version="2" timestamp="2013-07-22T14:29:55Z" changeset="17049478" uid="139424" user="pigsonthewing">
+    <nd ref="324357992"/>
+    <nd ref="751022895"/>
+    <nd ref="324357993"/>
+    <nd ref="324357994"/>
+    <nd ref="324357995"/>
+    <nd ref="324357996"/>
+    <nd ref="2392887278"/>
+    <nd ref="324357997"/>
+    <nd ref="324357998"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Church Lane"/>
+  </way>
+  <way id="111766050" version="1" timestamp="2011-05-04T22:08:39Z" changeset="8053258" uid="84681" user="SK53">
+    <nd ref="1272527718"/>
+    <nd ref="1272527722"/>
+    <nd ref="1272527721"/>
+    <nd ref="1272527719"/>
+    <nd ref="1272527720"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Brownlow Close"/>
+    <tag k="source" v="Bing"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="111766051" version="6" timestamp="2024-07-04T20:42:30Z" changeset="153564404" uid="5008136" user="JayTurnr">
+    <nd ref="1272527717"/>
+    <nd ref="8360269276"/>
+    <nd ref="289029959"/>
+    <nd ref="1272527720"/>
+    <nd ref="1272527716"/>
+    <nd ref="289029974"/>
+    <nd ref="6877688178"/>
+    <nd ref="289029989"/>
+    <nd ref="12034635044"/>
+    <nd ref="3748151674"/>
+    <nd ref="12034635042"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Moor Lane"/>
+    <tag k="source" v="npe"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="111766052" version="5" timestamp="2024-01-24T20:51:08Z" changeset="146646993" uid="84681" user="SK53">
+    <nd ref="1272527714"/>
+    <nd ref="289029956"/>
+    <nd ref="11547470498"/>
+    <nd ref="1272527717"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Moor Lane"/>
+    <tag k="source" v="npe"/>
+    <tag k="source:maxspeed" v="survey"/>
+  </way>
+  <way id="111766082" version="1" timestamp="2011-05-04T22:08:44Z" changeset="8053258" uid="84681" user="SK53">
+    <nd ref="1272527713"/>
+    <nd ref="1272527714"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Moor Lane"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="136181973" version="10" timestamp="2021-01-25T07:57:17Z" changeset="98100767" uid="10170582" user="priymose">
+    <nd ref="27045000"/>
+    <nd ref="5846893373"/>
+    <nd ref="3427631095"/>
+    <nd ref="8023886074"/>
+    <nd ref="8359921669"/>
+    <nd ref="3427631098"/>
+    <nd ref="3427631093"/>
+    <nd ref="8359921653"/>
+    <nd ref="115258386"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Fosse Road"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source" v="NaPTAN"/>
+  </way>
+  <way id="151278506" version="24" timestamp="2025-07-07T13:54:13Z" changeset="168606840" uid="808803" user="Andidy">
+    <nd ref="1640992162"/>
+    <nd ref="1640976742"/>
+    <nd ref="1640992171"/>
+    <nd ref="11542539447"/>
+    <nd ref="11542539446"/>
+    <nd ref="1640976741"/>
+    <nd ref="1640976749"/>
+    <nd ref="11542539442"/>
+    <nd ref="1640976750"/>
+    <nd ref="1640976739"/>
+    <nd ref="1640976743"/>
+    <nd ref="1640976758"/>
+    <nd ref="11542539438"/>
+    <nd ref="1640976757"/>
+    <nd ref="11542539429"/>
+    <nd ref="1640976746"/>
+    <nd ref="11542539420"/>
+    <nd ref="1640976754"/>
+    <nd ref="1640976755"/>
+    <nd ref="1640976748"/>
+    <nd ref="1640976747"/>
+    <nd ref="1640976740"/>
+    <nd ref="11542539426"/>
+    <nd ref="1640976768"/>
+    <nd ref="1640976769"/>
+    <nd ref="1986266139"/>
+    <nd ref="1986266135"/>
+    <nd ref="1986266093"/>
+    <nd ref="1986265965"/>
+    <nd ref="1986266140"/>
+    <nd ref="1986266079"/>
+    <nd ref="1986266131"/>
+    <nd ref="1986266142"/>
+    <nd ref="1986265975"/>
+    <nd ref="1986265974"/>
+    <nd ref="1986265964"/>
+    <nd ref="1986266009"/>
+    <nd ref="1986265971"/>
+    <nd ref="1986266129"/>
+    <nd ref="1986266128"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight:signed" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A46"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="151667664" version="9" timestamp="2020-07-07T13:21:26Z" changeset="87657782" uid="8650722" user="back_spin">
+    <nd ref="1272527703"/>
+    <nd ref="1645069801"/>
+    <nd ref="2334721382"/>
+    <nd ref="1645069810"/>
+    <nd ref="1645069803"/>
+    <nd ref="1645069799"/>
+    <nd ref="1645069808"/>
+    <nd ref="1645069809"/>
+    <nd ref="1645069812"/>
+    <nd ref="1645069797"/>
+    <nd ref="6908219467"/>
+    <nd ref="6553101202"/>
+    <nd ref="289029687"/>
+    <nd ref="289029692"/>
+    <nd ref="7128018149"/>
+    <nd ref="289029697"/>
+    <nd ref="289029721"/>
+    <nd ref="289029735"/>
+    <nd ref="6884747676"/>
+    <nd ref="289029757"/>
+    <nd ref="289029760"/>
+    <nd ref="7691827911"/>
+    <nd ref="289029765"/>
+    <nd ref="289029776"/>
+    <nd ref="289029782"/>
+    <nd ref="6884747668"/>
+    <nd ref="289029828"/>
+    <nd ref="289029833"/>
+    <nd ref="289029868"/>
+    <nd ref="289029875"/>
+    <nd ref="289029883"/>
+    <nd ref="289029887"/>
+    <nd ref="289029892"/>
+    <nd ref="289029898"/>
+    <nd ref="289029904"/>
+    <nd ref="289029905"/>
+    <nd ref="289029908"/>
+    <nd ref="289029909"/>
+    <nd ref="289029912"/>
+    <nd ref="289029916"/>
+    <nd ref="289029923"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="230853390" version="6" timestamp="2024-11-17T17:00:03Z" changeset="159251225" uid="95856" user="⇄ john paul jones &amp; gringo">
+    <nd ref="2392886023"/>
+    <nd ref="2392886024"/>
+    <nd ref="2392886022"/>
+    <nd ref="2392886021"/>
+    <nd ref="2392887291"/>
+    <nd ref="2392887294"/>
+    <nd ref="2392887290"/>
+    <nd ref="2392887293"/>
+    <nd ref="2392887299"/>
+    <nd ref="2392887298"/>
+    <nd ref="2392886023"/>
+    <tag k="addr:city" v="Newark"/>
+    <tag k="addr:country" v="GB"/>
+    <tag k="addr:postcode" v="NG23 5QF"/>
+    <tag k="addr:street" v="Church Lane"/>
+    <tag k="addr:suburb" v="East Stoke"/>
+    <tag k="building" v="yes"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="Stoke Hall"/>
+    <tag k="source" v="website; Bing"/>
+    <tag k="url" v="http://www.stokehallweddings.com/"/>
+    <tag k="wikidata" v="Q15979539"/>
+    <tag k="wikipedia" v="en:Stoke Hall, Nottinghamshire"/>
+  </way>
+  <way id="230853660" version="4" timestamp="2023-11-30T19:33:36Z" changeset="144637738" uid="504708" user="HillWithSmallFields">
+    <nd ref="2392888544"/>
+    <nd ref="2392888538"/>
+    <nd ref="2392888533"/>
+    <nd ref="2392888532"/>
+    <nd ref="2392888528"/>
+    <nd ref="2392888529"/>
+    <nd ref="2392888525"/>
+    <nd ref="2392888526"/>
+    <nd ref="2392888523"/>
+    <nd ref="2392888524"/>
+    <nd ref="2392888527"/>
+    <nd ref="2392888530"/>
+    <nd ref="2392888531"/>
+    <nd ref="2392888544"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="anglican"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="name" v="St Oswald"/>
+    <tag k="ref:dove" v="16915"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Bing"/>
+    <tag k="wikidata" v="Q15979463"/>
+    <tag k="wikipedia" v="en:St Oswald's Church, East Stoke"/>
+  </way>
+  <way id="261458627" version="12" timestamp="2025-04-21T12:00:54Z" changeset="165235790" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1986266004"/>
+    <nd ref="1986265980"/>
+    <nd ref="1986266043"/>
+    <nd ref="1986266002"/>
+    <nd ref="1986266116"/>
+    <nd ref="1986265967"/>
+    <nd ref="1986266033"/>
+    <nd ref="1986266138"/>
+    <nd ref="1986266085"/>
+    <nd ref="1986266039"/>
+    <nd ref="1986266014"/>
+    <nd ref="1986266075"/>
+    <nd ref="1986266068"/>
+    <nd ref="1986266049"/>
+    <nd ref="1986266108"/>
+    <nd ref="1986266126"/>
+    <nd ref="1986266104"/>
+    <nd ref="1986266114"/>
+    <nd ref="1986265984"/>
+    <nd ref="1272439154"/>
+    <nd ref="1640728717"/>
+    <nd ref="11542539427"/>
+    <nd ref="1640728703"/>
+    <nd ref="1272527743"/>
+    <nd ref="11542539428"/>
+    <nd ref="1640728710"/>
+    <nd ref="1272527745"/>
+    <nd ref="1272527746"/>
+    <nd ref="1640728706"/>
+    <nd ref="11542539430"/>
+    <nd ref="11542539437"/>
+    <nd ref="1272527748"/>
+    <nd ref="11542539431"/>
+    <nd ref="11542539419"/>
+    <nd ref="11542539432"/>
+    <nd ref="1640728712"/>
+    <nd ref="1640867521"/>
+    <nd ref="1272527749"/>
+    <nd ref="1640728714"/>
+    <nd ref="11542539443"/>
+    <nd ref="1272527750"/>
+    <nd ref="1272527752"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="horse" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A46"/>
+    <tag k="source" v="GPS Survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="335653549" version="2" timestamp="2024-01-23T10:51:35Z" changeset="146587467" uid="84681" user="SK53">
+    <nd ref="2202079279"/>
+    <nd ref="289029923"/>
+    <nd ref="289029936"/>
+    <nd ref="289029942"/>
+    <nd ref="1272527711"/>
+    <nd ref="2207268769"/>
+    <nd ref="1272527712"/>
+    <nd ref="11542539440"/>
+    <nd ref="289029948"/>
+    <nd ref="11542539439"/>
+    <nd ref="11542539441"/>
+    <nd ref="1272527713"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Moor Lane"/>
+    <tag k="source" v="npe"/>
+  </way>
+  <way id="335653553" version="1" timestamp="2015-03-30T20:48:30Z" changeset="29860713" uid="61942" user="SomeoneElse">
+    <nd ref="290792165"/>
+    <nd ref="2213739201"/>
+    <nd ref="3427504259"/>
+    <nd ref="290792166"/>
+    <nd ref="3427504267"/>
+    <nd ref="1272527710"/>
+    <nd ref="290792167"/>
+    <nd ref="2202079279"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Moor Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="335654417" version="1" timestamp="2015-03-30T20:54:27Z" changeset="29860713" uid="61942" user="SomeoneElse">
+    <nd ref="3427532016"/>
+    <nd ref="3427532041"/>
+    <nd ref="290792163"/>
+    <nd ref="3427523279"/>
+    <nd ref="290792164"/>
+    <nd ref="3427523277"/>
+    <nd ref="290792165"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Moor Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="335654420" version="1" timestamp="2015-03-30T20:54:27Z" changeset="29860713" uid="61942" user="SomeoneElse">
+    <nd ref="3427532011"/>
+    <nd ref="3427532016"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Moor Lane"/>
+    <tag k="source" v="survey"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="335663848" version="6" timestamp="2024-07-04T20:42:30Z" changeset="153564404" uid="5008136" user="JayTurnr">
+    <nd ref="195932685"/>
+    <nd ref="4666306930"/>
+    <nd ref="27045001"/>
+    <nd ref="11631769557"/>
+    <nd ref="3427631096"/>
+    <nd ref="1640753165"/>
+    <nd ref="3427631097"/>
+    <nd ref="4666306931"/>
+    <nd ref="115258382"/>
+    <nd ref="12034635042"/>
+    <nd ref="27045000"/>
+    <tag k="alt_name" v="Foss Way"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Fosse Road"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source" v="NaPTAN;gps"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="472420394" version="3" timestamp="2025-04-21T20:17:42Z" changeset="165256891" uid="5229644" user="Nathan_A_RF">
+    <nd ref="4666306929"/>
+    <nd ref="195932685"/>
+    <tag k="alt_name" v="Foss Way"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Fosse Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="NaPTAN;gps"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="511832786" version="6" timestamp="2025-04-21T20:17:42Z" changeset="165256891" uid="5229644" user="Nathan_A_RF">
+    <nd ref="5005870836"/>
+    <nd ref="11543348699"/>
+    <nd ref="115258372"/>
+    <nd ref="11543348700"/>
+    <nd ref="27045002"/>
+    <nd ref="11543348701"/>
+    <nd ref="3427631099"/>
+    <nd ref="11547470489"/>
+    <nd ref="115258380"/>
+    <nd ref="4666306929"/>
+    <tag k="alt_name" v="Foss Way"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Fosse Road"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source" v="NaPTAN;gps"/>
+    <tag k="traffic_restriction" v="no_stopping"/>
+  </way>
+  <way id="1093171986" version="2" timestamp="2022-10-28T19:16:26Z" changeset="128188239" uid="13666626" user="RedAuburn">
+    <nd ref="1272527752"/>
+    <nd ref="1272527724"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="horse" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A46"/>
+    <tag k="source" v="GPS Survey"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1242128663" version="1" timestamp="2024-01-23T05:00:06Z" changeset="146578110" uid="84681" user="SK53">
+    <nd ref="11542214039"/>
+    <nd ref="7506024555"/>
+    <nd ref="11542230687"/>
+    <nd ref="11542214063"/>
+    <nd ref="324357992"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Humber Lane"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1251288947" version="2" timestamp="2025-04-21T20:17:42Z" changeset="165256891" uid="5229644" user="Nathan_A_RF">
+    <nd ref="11631769543"/>
+    <nd ref="11631769544"/>
+    <nd ref="195932685"/>
+    <tag k="designation" v="public_footpath"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Elston Lane"/>
+    <tag k="source:maxspeed" v="survey"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="1379409872" version="1" timestamp="2025-04-21T20:17:42Z" changeset="165256891" uid="5229644" user="Nathan_A_RF">
+    <nd ref="115258386"/>
+    <nd ref="12034145590"/>
+    <nd ref="876369486"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40 mph"/>
+    <tag k="name" v="Fosse Road"/>
+    <tag k="source" v="NaPTAN;Bing;survey"/>
+  </way>
+
+</osm>
