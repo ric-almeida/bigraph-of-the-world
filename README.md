@@ -1,4 +1,4 @@
-# Bigraph of the world
+# Bigraph of the world (compatible with bigraph-tools `v2`)
 
 This tool builds a Bigraph modelling the hierarchy of [administrative boundaries](https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative), streets and buildings using OpenStreetMap data.
 
