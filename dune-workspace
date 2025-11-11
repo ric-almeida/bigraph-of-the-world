@@ -13,5 +13,6 @@
  (static
   (flags -cclib -static -cclib -lstdc++)
   (ocamlopt_flags
-   (:standard -O3 -noassert -inline 100))))
+   (:standard -O3 -noassert -inline 100)))
+ (dev (flags (:standard -warn-error -A))))
    
