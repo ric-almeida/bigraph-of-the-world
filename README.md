@@ -9,7 +9,7 @@ The tool can be built using dune and opam. Tested on Ubuntu 24.04.1.
 1. Clone this fork and enter the project directory.
 ```
 git clone https://github.com/ric-almeida/bigraph-of-the-world.git
-cd bigraph_of_the_world/
+cd bigraph-of-the-world/
 ```
 
 2. [Install opam](https://opam.ocaml.org/doc/Install.html)
