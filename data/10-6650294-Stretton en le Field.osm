@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-12-17T13:10:00Z" areas="2025-12-17T10:32:22Z"/>
+
+  <node id="217123" lat="52.6851844" lon="-1.5501728" version="10" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="A444 Burton-upon-Trent"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="layer" v="3"/>
+    <tag k="name" v="Appleby Magna"/>
+    <tag k="ref" v="11"/>
+  </node>
+  <node id="26018152" lat="52.6893237" lon="-1.5497293" version="3" timestamp="2021-01-22T13:29:56Z" changeset="97978111" uid="178626" user="Rovastar"/>
+  <node id="26018153" lat="52.6888150" lon="-1.5495579" version="9" timestamp="2018-09-12T16:50:09Z" changeset="62526615" uid="8377793" user="Narod"/>
+  <node id="26018377" lat="52.6898758" lon="-1.5499627" version="4" timestamp="2021-01-22T13:29:56Z" changeset="97978111" uid="178626" user="Rovastar"/>
+  <node id="258733545" lat="52.6897208" lon="-1.5490216" version="1" timestamp="2008-04-20T00:31:31Z" changeset="199124" uid="3937" user="southglos">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="258733552" lat="52.6936765" lon="-1.5469433" version="10" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF"/>
+  <node id="258733553" lat="52.6931107" lon="-1.5469612" version="10" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <tag k="exit_to" v="A444 Coventry, Burton-upon-Trent"/>
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Appleby Magna"/>
+    <tag k="ref" v="11"/>
+  </node>
+  <node id="1366468817" lat="52.6886109" lon="-1.5490737" version="3" timestamp="2021-01-22T13:29:56Z" changeset="97978111" uid="178626" user="Rovastar"/>
+  <node id="1366469367" lat="52.6855928" lon="-1.5529338" version="1" timestamp="2011-07-19T10:02:47Z" changeset="8766621" uid="71337" user="quantumstate"/>
+  <node id="5008517058" lat="52.6883571" lon="-1.5493796" version="2" timestamp="2021-01-22T13:29:56Z" changeset="97978111" uid="178626" user="Rovastar"/>
+  <node id="5268808915" lat="52.7045775" lon="-1.5354594" version="1" timestamp="2017-12-06T22:33:40Z" changeset="54416281" uid="84681" user="SK53"/>
+  <node id="6571779776" lat="52.6782097" lon="-1.5690846" version="2" timestamp="2020-10-17T13:36:45Z" changeset="92628927" uid="705850" user="Cebderby"/>
+  <node id="9682189123" lat="52.6890490" lon="-1.5511494" version="1" timestamp="2022-04-21T09:23:15Z" changeset="119990853" uid="705850" user="Cebderby"/>
+  <node id="9697431483" lat="52.7080512" lon="-1.5561077" version="1" timestamp="2022-04-27T11:39:09Z" changeset="120255167" uid="13341565" user="Falsernet"/>
+  <way id="4302876" version="20" timestamp="2022-10-28T19:13:48Z" changeset="128188142" uid="13666626" user="RedAuburn">
+    <nd ref="217123"/>
+    <nd ref="26018149"/>
+    <nd ref="26018148"/>
+    <nd ref="5008517070"/>
+    <nd ref="5008517058"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="destination" v="Burton-upon-Trent;Measham"/>
+    <tag k="destination:ref" v="A444"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="junction:ref" v="11"/>
+    <tag k="lit" v="no"/>
+    <tag k="national_highways:area" v="9"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="M42"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="4302878" version="9" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="26018152"/>
+    <nd ref="1366468798"/>
+    <nd ref="26018376"/>
+    <nd ref="1366468824"/>
+    <nd ref="26018377"/>
+    <tag k="destination" v="Burton-upon-Trent"/>
+    <tag k="destination:ref" v="A444"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Acresford Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A444"/>
+  </way>
+  <way id="23872499" version="20" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="258733545"/>
+    <nd ref="1366468781"/>
+    <nd ref="258733547"/>
+    <nd ref="8349218825"/>
+    <nd ref="1366468785"/>
+    <nd ref="1366468803"/>
+    <nd ref="258733549"/>
+    <nd ref="5008517036"/>
+    <tag k="carriageway_ref" v="K"/>
+    <tag k="destination" v="Nottingham;East Midlands;Ashby-de-la-Zouch"/>
+    <tag k="destination:ref" v="A42;M1;A543"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A42"/>
+  </way>
+  <way id="27596796" version="27" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="258733553"/>
+    <nd ref="8349218916"/>
+    <nd ref="23741705"/>
+    <nd ref="8349218915"/>
+    <nd ref="8349218912"/>
+    <nd ref="8349218909"/>
+    <nd ref="258742972"/>
+    <nd ref="8349218827"/>
+    <nd ref="23741708"/>
+    <nd ref="8349218828"/>
+    <nd ref="23741711"/>
+    <nd ref="8349218830"/>
+    <nd ref="23741714"/>
+    <nd ref="23741717"/>
+    <nd ref="5008520101"/>
+    <nd ref="23741723"/>
+    <nd ref="23741726"/>
+    <nd ref="5008520098"/>
+    <nd ref="23741729"/>
+    <nd ref="5008520094"/>
+    <nd ref="23741732"/>
+    <nd ref="5008520096"/>
+    <nd ref="23741735"/>
+    <nd ref="5008520100"/>
+    <nd ref="23741738"/>
+    <nd ref="8973435120"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:motorway"/>
+    <tag k="national_highways:area" v="9"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="M42"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="27596798" version="19" timestamp="2025-11-18T01:29:17Z" changeset="174798175" uid="487368" user="Mr Walrus">
+    <nd ref="258733552"/>
+    <nd ref="5008517072"/>
+    <nd ref="8349218924"/>
+    <nd ref="217126"/>
+    <nd ref="5008517061"/>
+    <nd ref="8349218926"/>
+    <nd ref="5008517066"/>
+    <nd ref="8349218927"/>
+    <nd ref="217127"/>
+    <nd ref="5008517076"/>
+    <nd ref="8349218929"/>
+    <nd ref="217128"/>
+    <nd ref="217129"/>
+    <nd ref="5008517060"/>
+    <nd ref="217130"/>
+    <nd ref="5008517078"/>
+    <nd ref="217131"/>
+    <nd ref="5008517039"/>
+    <nd ref="217132"/>
+    <nd ref="5268808916"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A42"/>
+    <tag k="shoulder" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="27596805" version="25" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="258733553"/>
+    <nd ref="8349218920"/>
+    <nd ref="303038738"/>
+    <nd ref="8349218913"/>
+    <nd ref="8349218910"/>
+    <nd ref="303038739"/>
+    <nd ref="8349218908"/>
+    <nd ref="303038740"/>
+    <tag k="destination" v="Nuneaton;Services"/>
+    <tag k="destination:ref" v="A444"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A42"/>
+  </way>
+  <way id="42882631" version="6" timestamp="2023-06-24T08:30:24Z" changeset="137713181" uid="242345" user="confusedbuffalo">
+    <nd ref="26018377"/>
+    <nd ref="8349218798"/>
+    <nd ref="8349218797"/>
+    <nd ref="8349218799"/>
+    <nd ref="26018374"/>
+    <nd ref="26018375"/>
+    <nd ref="10578715"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Acresford Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="A444"/>
+  </way>
+  <way id="65542031" version="5" timestamp="2024-11-15T13:18:46Z" changeset="159170288" uid="22181562" user="finlew">
+    <nd ref="9682189123"/>
+    <nd ref="9682189079"/>
+    <nd ref="12343765060"/>
+    <nd ref="9682189080"/>
+    <nd ref="9682189112"/>
+    <nd ref="1366468760"/>
+    <nd ref="1366468819"/>
+    <nd ref="1366468810"/>
+    <nd ref="23741699"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ashby Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B5493"/>
+    <tag k="source" v="Local Knowledge"/>
+  </way>
+  <way id="138155416" version="6" timestamp="2023-02-28T06:37:03Z" changeset="133114750" uid="14513054" user="dmanddee">
+    <nd ref="1514496416"/>
+    <nd ref="1514496407"/>
+    <nd ref="1514496385"/>
+    <nd ref="1514496387"/>
+    <nd ref="1514496406"/>
+    <nd ref="1514496380"/>
+    <nd ref="1514496388"/>
+    <nd ref="1514496395"/>
+    <nd ref="10698787408"/>
+    <nd ref="1514496397"/>
+    <nd ref="10209273373"/>
+    <nd ref="1514496410"/>
+    <nd ref="1514496401"/>
+    <nd ref="9039760506"/>
+    <nd ref="1514496408"/>
+    <nd ref="1514499162"/>
+    <nd ref="1514499149"/>
+    <nd ref="1514499126"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Rectory Lane"/>
+  </way>
+  <way id="138274605" version="14" timestamp="2025-04-01T19:48:48Z" changeset="164391336" uid="5229644" user="Nathan_A_RF">
+    <nd ref="26018377"/>
+    <nd ref="8349218794"/>
+    <nd ref="26018373"/>
+    <nd ref="26018372"/>
+    <nd ref="6203780672"/>
+    <nd ref="1366466100"/>
+    <nd ref="26018371"/>
+    <nd ref="5008517047"/>
+    <nd ref="26018370"/>
+    <nd ref="5008517037"/>
+    <nd ref="10578714"/>
+    <nd ref="5268808917"/>
+    <nd ref="8349218763"/>
+    <nd ref="10578713"/>
+    <nd ref="2251143804"/>
+    <nd ref="8349218762"/>
+    <nd ref="9682189152"/>
+    <nd ref="5008517062"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Acresford Road"/>
+    <tag k="ref" v="A444"/>
+  </way>
+  <way id="138274633" version="7" timestamp="2024-11-15T13:18:46Z" changeset="159170288" uid="22181562" user="finlew">
+    <nd ref="26018153"/>
+    <nd ref="1366468772"/>
+    <nd ref="1366468812"/>
+    <nd ref="1366468829"/>
+    <nd ref="243861603"/>
+    <nd ref="9682189111"/>
+    <nd ref="12343765059"/>
+    <nd ref="9682189110"/>
+    <nd ref="9682189130"/>
+    <tag k="destination" v="Seckington"/>
+    <tag k="destination:ref" v="B5493"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ashby Road"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B5493"/>
+    <tag k="source" v="Local Knowledge"/>
+  </way>
+  <way id="512169624" version="4" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1366469367"/>
+    <nd ref="243861599"/>
+    <nd ref="2118434161"/>
+    <nd ref="962102704"/>
+    <nd ref="1366469365"/>
+    <nd ref="1366469374"/>
+    <nd ref="5902235356"/>
+    <nd ref="243861600"/>
+    <nd ref="1366469368"/>
+    <nd ref="1366469372"/>
+    <nd ref="5902235355"/>
+    <nd ref="243861601"/>
+    <nd ref="1366469371"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ashby Road"/>
+    <tag k="old_ref" v="A453"/>
+    <tag k="ref" v="B5493"/>
+    <tag k="source" v="Local Knowledge"/>
+  </way>
+  <way id="512169625" version="16" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1366468818"/>
+    <nd ref="258733550"/>
+    <nd ref="8349218918"/>
+    <nd ref="8349218919"/>
+    <nd ref="8349218923"/>
+    <nd ref="258733552"/>
+    <tag k="carriageway_ref" v="K"/>
+    <tag k="destination" v="Nottingham;East Midlands;Ashby-de-la-Zouch"/>
+    <tag k="destination:ref" v="A42;M1;A453"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A42"/>
+  </way>
+  <way id="512169628" version="8" timestamp="2023-11-10T14:50:46Z" changeset="143867277" uid="3951648" user="rskedgell">
+    <nd ref="5008517062"/>
+    <nd ref="10578712"/>
+    <nd ref="5379848122"/>
+    <nd ref="5379848121"/>
+    <nd ref="5379845320"/>
+    <nd ref="26018394"/>
+    <nd ref="2408851044"/>
+    <nd ref="5379848123"/>
+    <nd ref="26018396"/>
+    <nd ref="5379848124"/>
+    <nd ref="5379848125"/>
+    <nd ref="10578711"/>
+    <nd ref="5379848127"/>
+    <nd ref="5379848126"/>
+    <nd ref="26018397"/>
+    <nd ref="26018398"/>
+    <nd ref="5379848128"/>
+    <nd ref="10578710"/>
+    <nd ref="5379848129"/>
+    <nd ref="26018404"/>
+    <nd ref="5379848130"/>
+    <nd ref="26018401"/>
+    <nd ref="5379848131"/>
+    <nd ref="26018400"/>
+    <nd ref="10578708"/>
+    <nd ref="26018402"/>
+    <nd ref="1514496416"/>
+    <nd ref="26018399"/>
+    <nd ref="26018403"/>
+    <nd ref="5379848132"/>
+    <nd ref="5379848133"/>
+    <nd ref="10578707"/>
+    <nd ref="4745559976"/>
+    <nd ref="5379848134"/>
+    <nd ref="26018405"/>
+    <nd ref="5379848135"/>
+    <nd ref="1514496391"/>
+    <nd ref="6915135041"/>
+    <nd ref="5379848136"/>
+    <nd ref="10578706"/>
+    <nd ref="9697431483"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Acresford Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A444"/>
+  </way>
+  <way id="512169629" version="8" timestamp="2022-10-28T19:15:42Z" changeset="128188221" uid="13666626" user="RedAuburn">
+    <nd ref="5008517058"/>
+    <nd ref="1366468821"/>
+    <nd ref="26018146"/>
+    <nd ref="23741695"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="destination" v="Burton-upon-Trent;Measham"/>
+    <tag k="destination:ref" v="A444"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lit" v="yes"/>
+    <tag k="national_highways:area" v="9"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="M42"/>
+  </way>
+  <way id="545114581" version="8" timestamp="2025-11-18T00:22:09Z" changeset="174797176" uid="487368" user="Mr Walrus">
+    <nd ref="5268808915"/>
+    <nd ref="5008517056"/>
+    <nd ref="26017539"/>
+    <nd ref="5008517049"/>
+    <nd ref="26017538"/>
+    <nd ref="5008517043"/>
+    <nd ref="26017536"/>
+    <nd ref="5008517074"/>
+    <nd ref="26017534"/>
+    <nd ref="5008517050"/>
+    <nd ref="8349218930"/>
+    <nd ref="26017533"/>
+    <nd ref="8349218928"/>
+    <nd ref="26017544"/>
+    <nd ref="5008517067"/>
+    <nd ref="5008517054"/>
+    <nd ref="8349218925"/>
+    <nd ref="5008517052"/>
+    <nd ref="26017545"/>
+    <nd ref="5008517064"/>
+    <nd ref="5008517069"/>
+    <nd ref="12374257253"/>
+    <nd ref="258733553"/>
+    <tag k="carriageway_ref" v="B"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A42"/>
+    <tag k="shoulder" v="left"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="860091907" version="5" timestamp="2023-09-23T23:05:01Z" changeset="141663495" uid="461130" user="Fizzie-DWG">
+    <nd ref="6571779776"/>
+    <nd ref="2291707868"/>
+    <nd ref="2291707870"/>
+    <nd ref="6571779775"/>
+    <nd ref="243861591"/>
+    <nd ref="243861592"/>
+    <nd ref="11214367160"/>
+    <nd ref="11214367159"/>
+    <nd ref="243861593"/>
+    <nd ref="9682189038"/>
+    <nd ref="10225753631"/>
+    <nd ref="243861594"/>
+    <nd ref="9452922941"/>
+    <nd ref="243861595"/>
+    <nd ref="243861596"/>
+    <nd ref="7987133731"/>
+    <nd ref="243861597"/>
+    <nd ref="9682111741"/>
+    <nd ref="1366469373"/>
+    <nd ref="243861598"/>
+    <nd ref="1366469370"/>
+    <nd ref="1366469367"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Ashby Road"/>
+    <tag k="old_ref" v="A453"/>
+    <tag k="ref" v="B5493"/>
+    <tag k="source" v="Local Knowledge"/>
+  </way>
+  <way id="1025227984" version="3" timestamp="2024-05-14T07:12:31Z" changeset="151297370" uid="417748" user="Dave Venables">
+    <nd ref="9453006501"/>
+    <nd ref="9453006502"/>
+    <nd ref="10225753710"/>
+    <nd ref="10225753711"/>
+    <nd ref="9453006503"/>
+    <nd ref="9453006504"/>
+    <nd ref="9453006505"/>
+    <nd ref="9453006506"/>
+    <nd ref="9453006507"/>
+    <nd ref="9453006508"/>
+    <nd ref="9453006501"/>
+    <tag k="addr:city" v="Swadlincote"/>
+    <tag k="addr:place" v="Mercia Park"/>
+    <tag k="addr:postcode" v="DE12 8AN"/>
+    <tag k="building" v="warehouse"/>
+    <tag k="name" v="DSV"/>
+  </way>
+  <way id="1025227985" version="2" timestamp="2023-10-16T15:22:36Z" changeset="142671561" uid="300596" user="arctic_ash">
+    <nd ref="9453006509"/>
+    <nd ref="9453006510"/>
+    <nd ref="9453006511"/>
+    <nd ref="9453006512"/>
+    <nd ref="9453006513"/>
+    <nd ref="9453006514"/>
+    <nd ref="9453006515"/>
+    <nd ref="9453006516"/>
+    <nd ref="9453006509"/>
+    <tag k="building" v="warehouse"/>
+    <tag k="name" v="DSV"/>
+  </way>
+  <way id="1039928126" version="5" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="5008517036"/>
+    <nd ref="1366468818"/>
+    <tag k="carriageway_ref" v="K"/>
+    <tag k="destination" v="Nottingham;East Midlands;Ashby-de-la-Zouch"/>
+    <tag k="destination:ref" v="A42;M1;A453"/>
+    <tag k="expressway" v="yes"/>
+    <tag k="highway" v="trunk_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_dual"/>
+    <tag k="national_highways:area" v="7"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="A42"/>
+  </way>
+  <way id="1053565469" version="3" timestamp="2023-10-15T23:50:24Z" changeset="142638862" uid="300596" user="arctic_ash">
+    <nd ref="9682189069"/>
+    <nd ref="10225753784"/>
+    <nd ref="10225753783"/>
+    <nd ref="10225753782"/>
+    <nd ref="10225753785"/>
+    <nd ref="10225753780"/>
+    <nd ref="10225753779"/>
+    <nd ref="10225753778"/>
+    <nd ref="10225753781"/>
+    <nd ref="9682189068"/>
+    <nd ref="10225753774"/>
+    <nd ref="10225753775"/>
+    <nd ref="10225753776"/>
+    <nd ref="10225753777"/>
+    <nd ref="9682189067"/>
+    <nd ref="9682189066"/>
+    <nd ref="9682189069"/>
+    <tag k="building" v="industrial"/>
+    <tag k="height" v="20"/>
+    <tag k="name" v="JLR Unipart (Unit 3)"/>
+  </way>
+  <way id="1053565470" version="1" timestamp="2022-04-21T09:23:15Z" changeset="119990853" uid="705850" user="Cebderby">
+    <nd ref="9682189075"/>
+    <nd ref="9682189074"/>
+    <nd ref="9682189073"/>
+    <nd ref="9682189119"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1053565471" version="2" timestamp="2024-11-15T13:18:46Z" changeset="159170288" uid="22181562" user="finlew">
+    <nd ref="9682189140"/>
+    <nd ref="9682189072"/>
+    <nd ref="12343765061"/>
+    <nd ref="9682189071"/>
+    <nd ref="9682189075"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1053565472" version="2" timestamp="2024-05-05T17:18:15Z" changeset="150930755" uid="4626766" user="Edward Smith (MilPop14)">
+    <nd ref="9682189099"/>
+    <nd ref="9682189070"/>
+    <nd ref="9682189078"/>
+    <nd ref="9682189077"/>
+    <nd ref="9682189076"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="1053565473" version="2" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="9682189123"/>
+    <nd ref="9682189124"/>
+    <nd ref="9682189125"/>
+    <nd ref="9682189126"/>
+    <nd ref="9682189127"/>
+    <nd ref="9682189128"/>
+    <nd ref="9682189129"/>
+    <nd ref="9682189130"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1053565474" version="2" timestamp="2024-05-05T17:18:15Z" changeset="150930755" uid="4626766" user="Edward Smith (MilPop14)">
+    <nd ref="9682189099"/>
+    <nd ref="9682189100"/>
+    <nd ref="9682189101"/>
+    <nd ref="9682189102"/>
+    <nd ref="9682189103"/>
+    <nd ref="9682189104"/>
+    <nd ref="9682189081"/>
+    <nd ref="9682189082"/>
+    <nd ref="9682188928"/>
+    <nd ref="9682189083"/>
+    <nd ref="9682189084"/>
+    <nd ref="9682189085"/>
+    <nd ref="9682189086"/>
+    <nd ref="9682189087"/>
+    <nd ref="9682111743"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="1053565475" version="2" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1366469371"/>
+    <nd ref="9682189109"/>
+    <nd ref="9682189107"/>
+    <nd ref="9682189108"/>
+    <nd ref="9682189138"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ashby Road"/>
+    <tag k="old_ref" v="A453"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B5493"/>
+  </way>
+  <way id="1053565476" version="1" timestamp="2022-04-21T09:23:15Z" changeset="119990853" uid="705850" user="Cebderby">
+    <nd ref="9682189131"/>
+    <nd ref="1366469369"/>
+    <nd ref="243861602"/>
+    <nd ref="1366469371"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Ashby Road"/>
+    <tag k="old_ref" v="A453"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="B5493"/>
+    <tag k="source" v="Local Knowledge"/>
+  </way>
+  <way id="1053565477" version="3" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="9682189140"/>
+    <nd ref="9682189113"/>
+    <nd ref="9682189114"/>
+    <nd ref="9682189115"/>
+    <nd ref="9682189116"/>
+    <nd ref="9682189117"/>
+    <nd ref="9682189118"/>
+    <nd ref="9682189119"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1055358105" version="2" timestamp="2023-11-10T14:50:46Z" changeset="143867277" uid="3951648" user="rskedgell">
+    <nd ref="9697431483"/>
+    <nd ref="5379848137"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="50 mph"/>
+    <tag k="name" v="Acresford Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="A444"/>
+  </way>
+  <way id="1055359158" version="4" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="217123"/>
+    <nd ref="217124"/>
+    <nd ref="8349218826"/>
+    <nd ref="258742970"/>
+    <nd ref="5008517051"/>
+    <nd ref="8349218824"/>
+    <nd ref="8349218911"/>
+    <nd ref="217125"/>
+    <nd ref="8349218917"/>
+    <nd ref="258733552"/>
+    <tag k="carriageway_ref" v="A"/>
+    <tag k="destination:ref" v="A42"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="70 mph"/>
+    <tag k="maxspeed:type" v="GB:motorway"/>
+    <tag k="national_highways:area" v="9"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="operator" v="National Highways"/>
+    <tag k="operator:wikidata" v="Q5760006"/>
+    <tag k="ref" v="M42"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1118076240" version="2" timestamp="2023-10-16T15:20:49Z" changeset="142671497" uid="300596" user="arctic_ash">
+    <nd ref="10225753702"/>
+    <nd ref="10225753701"/>
+    <nd ref="10225753700"/>
+    <nd ref="10225753699"/>
+    <nd ref="10225753702"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="5"/>
+    <tag k="name" v="Mercia Park Gatehouse"/>
+  </way>
+  <way id="1118076242" version="2" timestamp="2023-10-15T23:50:24Z" changeset="142638862" uid="300596" user="arctic_ash">
+    <nd ref="10225753723"/>
+    <nd ref="10225753722"/>
+    <nd ref="10225753721"/>
+    <nd ref="10225753720"/>
+    <nd ref="10225753719"/>
+    <nd ref="10225753718"/>
+    <nd ref="10225753717"/>
+    <nd ref="10225753716"/>
+    <nd ref="10225753715"/>
+    <nd ref="10225753714"/>
+    <nd ref="10225753713"/>
+    <nd ref="10225753712"/>
+    <nd ref="10225753723"/>
+    <tag k="building" v="industrial"/>
+    <tag k="height" v="20"/>
+    <tag k="name" v="JLR Unipart (Unit 4)"/>
+  </way>
+  <way id="1118076243" version="3" timestamp="2023-10-16T15:20:49Z" changeset="142671497" uid="300596" user="arctic_ash">
+    <nd ref="10225753729"/>
+    <nd ref="10225753728"/>
+    <nd ref="10225753727"/>
+    <nd ref="10225753726"/>
+    <nd ref="10225753725"/>
+    <nd ref="10225753724"/>
+    <nd ref="10225753729"/>
+    <tag k="building" v="industrial"/>
+    <tag k="height" v="20"/>
+    <tag k="name" v="DSV (Unit 5)"/>
+  </way>
+  <way id="1118076245" version="3" timestamp="2024-05-14T07:12:31Z" changeset="151297370" uid="417748" user="Dave Venables">
+    <nd ref="10225753749"/>
+    <nd ref="10225753748"/>
+    <nd ref="10225753747"/>
+    <nd ref="10225753746"/>
+    <nd ref="10225753745"/>
+    <nd ref="10225753744"/>
+    <nd ref="10225753743"/>
+    <nd ref="10225753742"/>
+    <nd ref="10225753736"/>
+    <nd ref="10225753734"/>
+    <nd ref="10225753735"/>
+    <nd ref="10225753737"/>
+    <nd ref="10225753740"/>
+    <nd ref="10225753738"/>
+    <nd ref="10225753739"/>
+    <nd ref="10225753741"/>
+    <nd ref="10225753749"/>
+    <tag k="addr:city" v="Swadlincote"/>
+    <tag k="addr:place" v="Mercia Park"/>
+    <tag k="addr:postcode" v="DE12 8BA"/>
+    <tag k="building" v="industrial"/>
+    <tag k="height" v="20"/>
+    <tag k="name" v="JLR Unipart (Unit 2)"/>
+  </way>
+  <way id="1118076246" version="2" timestamp="2023-10-15T23:50:24Z" changeset="142638862" uid="300596" user="arctic_ash">
+    <nd ref="10225753765"/>
+    <nd ref="10225753764"/>
+    <nd ref="10225753763"/>
+    <nd ref="10225753762"/>
+    <nd ref="10225753761"/>
+    <nd ref="10225753760"/>
+    <nd ref="10225753759"/>
+    <nd ref="10225753758"/>
+    <nd ref="10225753757"/>
+    <nd ref="10225753756"/>
+    <nd ref="10225753755"/>
+    <nd ref="10225753754"/>
+    <nd ref="10225753753"/>
+    <nd ref="10225753752"/>
+    <nd ref="10225753751"/>
+    <nd ref="10225753750"/>
+    <nd ref="10225753765"/>
+    <tag k="building" v="industrial"/>
+    <tag k="height" v="20"/>
+    <tag k="name" v="Unit 1"/>
+  </way>
+  <way id="1279965583" version="2" timestamp="2025-04-01T19:48:48Z" changeset="164391336" uid="5229644" user="Nathan_A_RF">
+    <nd ref="26018153"/>
+    <nd ref="1366468805"/>
+    <nd ref="1366468822"/>
+    <nd ref="1366468814"/>
+    <nd ref="23741699"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Appleby Magna Interchange"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="1279965584" version="2" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="9682189119"/>
+    <nd ref="9682189120"/>
+    <nd ref="9682189141"/>
+    <nd ref="9682189121"/>
+    <nd ref="9682189122"/>
+    <nd ref="9682189123"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1279965587" version="1" timestamp="2024-05-05T17:18:15Z" changeset="150930755" uid="4626766" user="Edward Smith (MilPop14)">
+    <nd ref="9682189076"/>
+    <nd ref="9682189075"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="1279965588" version="1" timestamp="2024-05-05T17:18:15Z" changeset="150930755" uid="4626766" user="Edward Smith (MilPop14)">
+    <nd ref="9682111743"/>
+    <nd ref="9682189088"/>
+    <nd ref="9682189106"/>
+    <nd ref="9682189089"/>
+    <nd ref="9682189090"/>
+    <nd ref="9682189091"/>
+    <nd ref="9682189092"/>
+    <nd ref="9682189093"/>
+    <nd ref="9682189094"/>
+    <nd ref="9682189095"/>
+    <nd ref="9682189096"/>
+    <nd ref="9682189105"/>
+    <nd ref="9682189097"/>
+    <nd ref="9682189098"/>
+    <nd ref="9682189099"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="1279965589" version="3" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="9682189131"/>
+    <nd ref="9682189132"/>
+    <nd ref="9682189133"/>
+    <nd ref="9682189134"/>
+    <nd ref="9682189135"/>
+    <nd ref="9682189136"/>
+    <nd ref="9682189137"/>
+    <nd ref="9682189138"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1279965590" version="2" timestamp="2025-04-01T19:48:48Z" changeset="164391336" uid="5229644" user="Nathan_A_RF">
+    <nd ref="1366468817"/>
+    <nd ref="1366468806"/>
+    <nd ref="23741695"/>
+    <nd ref="26018153"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="60 mph"/>
+    <tag k="maxspeed:type" v="GB:nsl_single"/>
+    <tag k="name" v="Appleby Magna Interchange"/>
+    <tag k="source" v="Bing"/>
+  </way>
+  <way id="1279981912" version="2" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="9682189130"/>
+    <nd ref="962102721"/>
+    <nd ref="9682189131"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1279981913" version="2" timestamp="2024-11-25T19:05:55Z" changeset="159586355" uid="5229644" user="Nathan_A_RF">
+    <nd ref="9682189138"/>
+    <nd ref="9682189139"/>
+    <nd ref="9682189140"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+
+</osm>
